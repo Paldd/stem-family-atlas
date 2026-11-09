@@ -4138,7 +4138,7 @@
           "la compatibilidad de edad no es igual a la admisión a un torneo concreto",
           "Taiwan, 13 de diciembre de 2026: los niveles menores publicados, pero las clases, el conjunto, el ingreso en inglés y el extranjero aún no se han confirmado. el certificado no es una victoria mundial; la promesa local de GCER 2027 no se compara con KIPR."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
+        "cost": "La inscripción es gratuita. Un kit compatible cuesta aproximadamente 650 EUR. Puede haber préstamo a través de un centro asociado si se acuerda previamente. Esta estimación corresponde a la etapa ECER de Linz. Los demás torneos publican sus propias condiciones.",
         "award": "Puesto o premio según los resultados oficiales",
         "sources": [
           {
@@ -4155,9 +4155,20 @@
             "title": "ECER 2027 · Junior Botball",
             "url": "https://ecer.eraa.at/competition",
             "checked": "2026-11-07"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://ticketing.eraa.at/eraa/ecer2027/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://ecer.eraa.at/competition/",
+            "checked": "2026-11-09"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado.",
+        "checked": "2026-11-09"
       },
       {
         "id": "iro",
@@ -10580,25 +10591,26 @@
         ],
         "event_ids": [
           "C906",
-          "C907"
+          "C907",
+          "C5095",
+          "C5096",
+          "C5097"
         ],
         "legacy_ids": [],
-        "route": "Las clases menores Starter y concurso local → equipo independiente Elementary → selección regional y nacional → cuota internacional al cumplir con las reglas del país.",
+        "route": "Concurso regional para principiantes. En las reglas de 2026 Starter no daba clasificación internacional. Confirmar por separado las condiciones de 2027. El resultado regional puede conducir a Swiss Final. Las plazas internacionales y la elegibilidad de un equipo extranjero se comprueban por separado para la temporada 2027.",
         "hardware": "el equipo depende de la categoría y la edición; no se compre hasta que se elija la etapa local.",
         "language": "El idioma de la entrevista técnica y el nivel local se confirman; el sitio en inglés no prueba la capacidad de la jueza en inglés.",
         "importance": "una ruta nacional dentro de la familia internacional; no una nueva liga mundial separada.",
         "strengths": "para Oscar  Starter. para Matvey  Elementary con selección nacional / mundial después de confirmar la admisión.",
         "requirements": [
-          "el equipo de 2–3 de los niños; no se considera participante en lugar del niño.",
-          "La edad se determina por el año de nacimiento, no sólo por el día del torneo.",
-          "El calendario y la entrada extranjera de la nueva temporada aún no se conocen.",
-          "En una temporada de WRO Switzerland el niño es miembro de un solo equipo / categoría; la participación simultánea de Starter y Elementary no está permitida por las condiciones generales de 2026."
+          "Equipo de 2–3 menores y entrenador. Confirmar años de nacimiento, idioma del jurado y admisión de equipos extranjeros según las reglas de 2027.",
+          "La sede anuncia la apertura de inscripciones el 1 de diciembre de 2026. Aún no se confirman el cierre exacto ni el formulario de la temporada 2027."
         ],
         "nuances": [
           "El Starter no se ha declarado como categoría de la final mundial.",
           "Las clases gratuitas para principiantes pueden ser demasiado simples después de tres años de experiencia; comprobar la complejidad y el tutor."
         ],
-        "cost": "2026: condiciones generales CHF150 por el equipo que regrese después del torneo regional. Starter Se declaró gratuito por separado — la aplicabilidad del pago inicial. Reglas y tarifas 2027 No se sabe.",
+        "cost": "FHNW indica 100 CHF por equipo. Confirmar si aplica a Starter, qué incluye la cuota y la devolución según las condiciones de 2027.",
         "award": "El reconocimiento académico, la calificación y la victoria mundial son diferentes.",
         "sources": [
           {
@@ -10614,10 +10626,21 @@
           {
             "title": "Participationconditions",
             "url": "https://wro.swiss/teilnahmebedingungen/",
-            "checked": "2026-10-02"
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.fhnw.ch/de/technik-umwelt/ueber-uns/nachwuchsfoerdung/wro",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://wro.swiss/qualifikation-internationale-wettbewerbe/",
+            "checked": "2026-11-09"
           }
         ],
-        "evidence": "Las condiciones desconocidas de la próxima temporada y la admisión extranjera se han marcado por separado."
+        "evidence": "Las condiciones desconocidas de la próxima temporada y la admisión extranjera se han marcado por separado.",
+        "checked": "2026-11-09"
       },
       {
         "id": "wro-spain",

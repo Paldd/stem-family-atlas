@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11443; competiciones: 5093; eventos: 733; campamentos / programas: 5617. Perfiles de ligas y programas: 327. Fichas de exposiciones grandes y especializadas: 627 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11458; competiciones: 5097; eventos: 734; campamentos / programas: 5627. Perfiles de ligas y programas: 327. Fichas de exposiciones grandes y especializadas: 628 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2064 | 165 | 1402 |
 | América del Sur | 15 | 468 | 52 | 258 |
-| Europa | 55 | 725 | 155 | 1628 |
+| Europa | 55 | 729 | 156 | 1638 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1204 | 176 | 1788 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
 Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
 
-VEX: 815 de 5093 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
+VEX: 815 de 5097 fichas de competición (16.0%). Hay un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -180,7 +180,7 @@ VEX: 815 de 5093 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **CodeAI / Hour of AI · capacitación**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://code.org/es/curriculum/computer-science-fundamentals
 - *Australian STEM Video Game Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://www.stemgames.org.au/
 - **RoboCupJunior Australia · Primary / Australian Open**: 1 tarjeta, 0 con fechas exactas futuras. https://www.robocupjunior.org.au/challenge-regions/nat/
-- **WRO Switzerland · Starter / Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro.swiss/en/information-on/categories-and-age-groups/
+- **WRO Switzerland · Starter / Elementary**: 5 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic a partir de los 6 años / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.wroboto.es/competicion/
 - **FIRST LEGO League · Switzerland / Spain / France**: 12 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.soy/inscripciones-bioglow/
 - **Coupe de France de Robotique Junior / Eurobot Junior**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
@@ -1022,6 +1022,7 @@ VEX: 815 de 5093 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **Spark 2027 · Creative Content & Technology** — España; 2027-02-03 – 2027-02-04. el permiso de entrada de niños. https://spark-expo.com/
 - **CIEX / CIRE Tianjin 2027 · Robotics & Embodied AI** — China; 2027-03-10 – 2027-03-13. el permiso de entrada de niños. https://www.ciex-expo.com/
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — China; fecha desconocida. Confirmar acceso infantil. https://www.lxhtexpo.com/
+- **FHNW Robot Day 2027** — Suiza; 2027-05-15. con un adulto; condiciones de admisión adulta por separado. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

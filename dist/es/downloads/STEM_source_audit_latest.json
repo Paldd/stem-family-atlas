@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11443,
-    "competition_cards": 5093,
-    "event_cards": 733,
-    "camp_cards": 5617,
+    "cards": 11458,
+    "competition_cards": 5097,
+    "event_cards": 734,
+    "camp_cards": 5627,
     "league_profiles": 327,
-    "major_exhibition_cards": 627,
+    "major_exhibition_cards": 628,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2533,
+      "total": 2548,
       "countries_with_records": 55,
-      "competitions": 725,
-      "events": 180,
-      "major_exhibitions": 155,
-      "camps": 1628,
+      "competitions": 729,
+      "events": 181,
+      "major_exhibitions": 156,
+      "camps": 1638,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -3935,11 +3935,14 @@
       "group": "regional",
       "event_ids": [
         "C906",
-        "C907"
+        "C907",
+        "C5095",
+        "C5096",
+        "C5097"
       ],
-      "cards": 2,
-      "future_dated": 0,
-      "linked_card_count": 2,
+      "cards": 5,
+      "future_dated": 3,
+      "linked_card_count": 5,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://wro.swiss/en/information-on/categories-and-age-groups/",
       "new": false
@@ -16288,6 +16291,17 @@
       "new": false
     },
     {
+      "id": "E734",
+      "name": "FHNW Robot Day 2027",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "visitor_policy": "family",
+      "source": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18705,14 +18719,14 @@
       }
     ],
     "counts": {
-      "records": 5617,
-      "holiday": 5036,
+      "records": 5627,
+      "holiday": 5046,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1659,
+      "en_es_instruction": 1660,
       "en_es_support": 66,
-      "family_instruction": 1659,
+      "family_instruction": 1660,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,

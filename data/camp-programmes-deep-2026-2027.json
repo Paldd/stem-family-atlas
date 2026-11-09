@@ -30,16 +30,16 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2244,
+    "dossiers": 2251,
     "countries": 140,
-    "swiss": 137,
+    "swiss": 150,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 642,
-      "partial_2027": 156,
+      "published_2027": 644,
+      "partial_2027": 157,
       "next_unannounced": 442,
       "published_2026": 433,
-      "partial_2026_27": 40,
+      "partial_2026_27": 44,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3176
+    "source_urls": 3189
   },
   "countries": [
     {
@@ -543,7 +543,7 @@
     },
     {
       "country": "Франция",
-      "count": 134
+      "count": 140
     },
     {
       "country": "Французская Гвиана",
@@ -571,7 +571,7 @@
     },
     {
       "country": "Швейцария",
-      "count": 149
+      "count": 150
     },
     {
       "country": "Швеция",
@@ -340290,6 +340290,997 @@
       "programme_type": "regular_course",
       "catalog_participation": "course",
       "related_event_ids": []
+    },
+    {
+      "id": "CP2245",
+      "slug": "addictlab-ferney-winter-steam",
+      "provider": "Addictlab Academy · Château de Voltaire · Winter STEAM",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Château de Voltaire · Ferney-Voltaire",
+      "age": "Площадка указывает 7+, оператор — 8–12 лет. Для 7-летнего ребёнка требуется подтверждение.",
+      "programme": "Робототехника с LEGO Spike, программирование, игровые проекты, введение в ИИ, 3D-печать и творчество.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Площадка прямо указывает французский и английский. Долю английского в группе уточнить.",
+      "confirmed_instruction_languages": [
+        "FR",
+        "EN"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027, 10:00–12:00, всего 10 часов в Château de Voltaire.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "morning",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Addictlab STEAM · Ferney",
+            "price": "200 CHF за 5 утренних занятий по тарифу французской площадки. Доплаты, техника домой и условия отмены уточнить.",
+            "source": "https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Оператор ссылается на общую форму STEAM. Доступность именно этой недели и выбранной площадки подтвердить перед оплатой.",
+            "price_amount": 200,
+            "price_currency": "CHF",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "topic": "Addictlab STEAM · Ferney",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "topic": "Addictlab STEAM · Ferney",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "topic": "Addictlab STEAM · Ferney",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "topic": "Addictlab STEAM · Ferney",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "topic": "Addictlab STEAM · Ferney",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 200,
+        "currency": "CHF",
+        "unit": "session",
+        "label": "200 CHF за 5 утренних занятий по тарифу французской площадки. Доплаты, техника домой и условия отмены уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Для Оскара нужно подтвердить возраст на день начала. При 7 годах допуск возможен только после письменного уточнения расхождения площадки и оператора."
+        }
+      },
+      "editorial_reason": "15–19 февраля 2027, 10:00–12:00, всего 10 часов в Château de Voltaire.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Оператор ссылается на общую форму STEAM. Доступность именно этой недели и выбранной площадки подтвердить перед оплатой.",
+        "Площадка указывает 7+, оператор — 8–12 лет. Для 7-летнего ребёнка требуется подтверждение.",
+        "Площадка прямо указывает французский и английский. Долю английского в группе уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://addictlab.academy/event/sdg-day-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://addictlab.academy/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://signup.addictlab.academy/form-4857189/steam-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "engineering",
+        "art",
+        "3d"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2246",
+      "slug": "addictlab-geneva-winter-steam",
+      "provider": "Addictlab Academy · SDG Fablab Geneva · Winter STEAM",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "SDG Fablab Geneva",
+      "age": "8–12 лет по заголовку программы оператора. Проверить конкретную группу перед записью.",
+      "programme": "Робототехника и творчество. Подробный состав заданий и наборы для дневной группы уточнить.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Публикация оператора на английском. Язык преподавания в Женеве подтвердить отдельно от французской площадки.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027, 14:00–16:00, всего 10 часов в SDG Fablab Geneva.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "afternoon",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Addictlab STEAM · Geneva",
+            "price": "Тариф дневной площадки не опубликован в карточке программы. Утренний тариф французской площадки не переносится.",
+            "source": "https://addictlab.academy/event/sdg-day-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Оператор ссылается на общую форму STEAM. Доступность именно этой недели и выбранной площадки подтвердить перед оплатой.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "topic": "Addictlab STEAM · Geneva",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "topic": "Addictlab STEAM · Geneva",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "topic": "Addictlab STEAM · Geneva",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "topic": "Addictlab STEAM · Geneva",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Zurich",
+                "topic": "Addictlab STEAM · Geneva",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Тариф дневной площадки не опубликован в карточке программы. Утренний тариф французской площадки не переносится.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "15–19 февраля 2027, 14:00–16:00, всего 10 часов в SDG Fablab Geneva.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Оператор ссылается на общую форму STEAM. Доступность именно этой недели и выбранной площадки подтвердить перед оплатой.",
+        "Публикация оператора на английском. Язык преподавания в Женеве подтвердить отдельно от французской площадки.",
+        "Тариф дневной площадки не опубликован в карточке программы. Утренний тариф французской площадки не переносится."
+      ],
+      "sources": [
+        {
+          "url": "https://addictlab.academy/event/sdg-day-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://addictlab.academy/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://signup.addictlab.academy/form-4857189/steam-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2247",
+      "slug": "itschool-saint-maur-algorithm",
+      "provider": "ITschool · Initiation à l’algorithme",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "age": "5–8 лет, от GS до CE2.",
+      "programme": "Scratch Junior, последовательности, циклы, датчики и простые движения робота.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Французские материалы. Английский или испанский для преподавания конкретного потока не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Initiation à l’algorithme · 21 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Scratch Junior, последовательности, циклы, датчики и простые движения робота. 21–24 декабря: праздничный обзор даёт 10:00–12:00, карточка бронирования 09:30–16:30. Подтвердить смену."
+          },
+          {
+            "variant_key": "dec28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Initiation à l’algorithme · 28 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Scratch Junior, последовательности, циклы, датчики и простые движения робота. Карточка бронирования указывает 09:30–16:30. Для 28–31 декабря это опубликованный график полного дня.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Initiation à l’algorithme · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Initiation à l’algorithme · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Initiation à l’algorithme · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Initiation à l’algorithme · 28 Dec",
+                "ical_timed": true
+              }
+            ],
+            "price_amount": 239,
+            "price_currency": "EUR"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 239,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+        "included": "Обед с собой. На площадке есть холодильник и микроволновка. Перекус предоставляется.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст может подойти. Подтвердить эквивалент французского школьного класса и язык занятий."
+        }
+      },
+      "editorial_reason": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+        "21–24 декабря: праздничный обзор даёт 10:00–12:00, карточка бронирования 09:30–16:30. Подтвердить смену.",
+        "Карточка бронирования указывает 09:30–16:30. Для 28–31 декабря это опубликованный график полного дня."
+      ],
+      "sources": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "itschool-saint-maur-130-avenue-foch",
+        "verified_source": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 239,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP2248",
+      "slug": "itschool-saint-maur-robotics",
+      "provider": "ITschool · Cursus robotique",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "age": "Карточка бронирования: 9–10 лет, CM1–CM2. В праздничном обзоре другая возрастная группа.",
+      "programme": "Сборка роботов, моторы и датчики, трасса с линией, игры и программирование в Scratch.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Французские материалы. Английский или испанский для преподавания конкретного потока не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Cursus robotique · 21 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-robotique-6-9",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Сборка роботов, моторы и датчики, трасса с линией, игры и программирование в Scratch. 21–24 декабря: обзор указывает 6–9 лет и 14:00–17:00, карточка курса 9–10 лет и 09:30–16:30. Возраст и формат сверить."
+          },
+          {
+            "variant_key": "dec28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Cursus robotique · 28 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-robotique-6-9",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Сборка роботов, моторы и датчики, трасса с линией, игры и программирование в Scratch. Карточка бронирования указывает 09:30–16:30. Для 28–31 декабря это опубликованный график полного дня.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Cursus robotique · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Cursus robotique · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Cursus robotique · 28 Dec",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "Cursus robotique · 28 Dec",
+                "ical_timed": true
+              }
+            ],
+            "price_amount": 239,
+            "price_currency": "EUR"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 239,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+        "included": "Обед с собой. На площадке есть холодильник и микроволновка. Перекус предоставляется.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст может подойти. Подтвердить эквивалент французского школьного класса и язык занятий."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+        "21–24 декабря: обзор указывает 6–9 лет и 14:00–17:00, карточка курса 9–10 лет и 09:30–16:30. Возраст и формат сверить.",
+        "Карточка бронирования указывает 09:30–16:30. Для 28–31 декабря это опубликованный график полного дня."
+      ],
+      "sources": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-robotique-6-9",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "itschool-saint-maur-130-avenue-foch",
+        "verified_source": "https://www.itschool.fr/cours/stage-robotique-6-9",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 239,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP2249",
+      "slug": "itschool-saint-maur-coding-ai",
+      "provider": "ITschool · Coding – IA",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "age": "Карточка Coding – IA: 10–14 лет. Для другого курса Scratch указана другая группа.",
+      "programme": "Scratch, создание игры, обучение модели распознавания и проверка результатов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Французские материалы. Английский или испанский для преподавания конкретного потока не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Coding – IA · 21 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-scratch",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Scratch, создание игры, обучение модели распознавания и проверка результатов. 21–24 декабря: в карточке Coding – IA указано 09:30–16:30. Не объединять с отдельным Scratch из обзора."
+          },
+          {
+            "variant_key": "dec28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Coding – IA · 28 Dec",
+            "price": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+            "source": "https://www.itschool.fr/cours/stage-scratch",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Scratch, создание игры, обучение модели распознавания и проверка результатов. 28–31 декабря: праздничный обзор даёт 10:00–13:00, карточка бронирования 09:30–16:30. Подтвердить смену."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 239,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "239 EUR за полный дневной курс по карточке бронирования. Тариф короткого потока уточнить отдельно.",
+        "included": "Обед с собой. На площадке есть холодильник и микроволновка. Перекус предоставляется.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет для текущей ступени. Уточнить эквивалент школьного класса."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+        "21–24 декабря: в карточке Coding – IA указано 09:30–16:30. Не объединять с отдельным Scratch из обзора.",
+        "28–31 декабря: праздничный обзор даёт 10:00–13:00, карточка бронирования 09:30–16:30. Подтвердить смену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-scratch",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2250",
+      "slug": "itschool-saint-maur-ai-python",
+      "provider": "ITschool · IA, Python et robots",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "age": "12–18 лет по карточке курса.",
+      "programme": "Python, Machine Learning for Kids и подключение модели к роботу.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Французские материалы. Английский или испанский для преподавания конкретного потока не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "IA, Python et robots · 21 Dec",
+            "price": "На карточке курса указано 129 EUR. Связь тарифа с короткими и полнодневными занятиями не подтверждена.",
+            "source": "https://www.itschool.fr/cours/stage-ia-ados",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Python, Machine Learning for Kids и подключение модели к роботу. 21–24 декабря: праздничный обзор указывает 17:00–18:55, карточка 17:00–18:30. Сверить часы."
+          },
+          {
+            "variant_key": "dec28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "IA, Python et robots · 28 Dec",
+            "price": "На карточке курса указано 129 EUR. Связь тарифа с короткими и полнодневными занятиями не подтверждена.",
+            "source": "https://www.itschool.fr/cours/stage-ia-ados",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+            "programme": "Python, Machine Learning for Kids и подключение модели к роботу. 28–31 декабря: карточка даёт 09:30–16:30, общее описание курса приводит вечерний режим. Уточнить применимое расписание."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "На карточке курса указано 129 EUR. Связь тарифа с короткими и полнодневными занятиями не подтверждена.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "В каталоге две недели, 21–24 и 28–31 декабря 2026. Часы и соответствие праздничной программе проверить по конкретной неделе.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+        "21–24 декабря: праздничный обзор указывает 17:00–18:55, карточка 17:00–18:30. Сверить часы.",
+        "28–31 декабря: карточка даёт 09:30–16:30, общее описание курса приводит вечерний режим. Уточнить применимое расписание."
+      ],
+      "sources": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-ia-ados",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2251",
+      "slug": "itschool-saint-maur-february-watch",
+      "provider": "ITschool · February holiday stages",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "age": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи.",
+      "programme": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Французские материалы. Английский или испанский для преподавания конкретного потока не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи. Даты следующих пасхальных и летних смен не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "announced_months": [
+          "2027-02"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи."
+        }
+      },
+      "editorial_reason": "Обзор на 22–26 февраля 2027 перечисляет робототехнику 6–9, Scratch 9–14 и Coding – IA 10–14. Возраст, часы и цены пока не совпоставлены с карточками записи. Даты следующих пасхальных и летних смен не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Запись через личный кабинет родителя. Подтвердить часы, класс, язык и наличие места для иностранного ребёнка.",
+        "Даты следующих пасхальных и летних смен не опубликованы."
+      ],
+      "sources": [
+        {
+          "url": "https://www.itschool.fr/stage-vacances-fevrier/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/cours/stage-robotique-6-9",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/cours/stage-scratch",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-paques/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-ete/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -345615,7 +346606,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 333,
+  "version": 335,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -358850,7 +359841,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2244,
+      "total_dossiers": 2251,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

@@ -6865,7 +6865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E472@family-stem.local
-DTSTAMP:20261108T003618Z
+DTSTAMP:20261109T084402Z
 SUMMARY:[Выставка · семейный вариант] ECER 2027 
  · Linz · Besuch
 DTSTART;VALUE=DATE:20270405
@@ -6875,10 +6875,13 @@ DESCRIPTION:Идея посещения\, не принятая реги
  тов. Часы по дням и зоны публики появятс
  я в расписании. Взрослый вход: Вход своб
  одный для всех возрастов. Часы по дням и
-  зоны публики появятся в расписании..  К
- омпании: Полное расписание для зрителе
- й организатор готовит.. Источник провер
- ен 2026-11-07.
+  зоны публики появятся в расписании.. Juni
+ or Botball проходит один день\, 8 апреля 2027. Ч
+ асы и распределение задач ещё уточняют
+ ся. Компании: Junior Botball проходит один ден
+ ь\, 8 апреля 2027. Часы и распределение зад
+ ач ещё уточняются.. Источник проверен 202
+ 6-11-09.
 LOCATION:Linzer Technikum · Paul-Hahn-Straße 4 · Linz\, Австрия
 URL:https://ecer.eraa.at/visit/
 STATUS:TENTATIVE
@@ -11998,6 +12001,33 @@ DESCRIPTION:Идея посещения\, не принятая реги
 LOCATION:National Convention and Exhibition Center (Tianjin) · 888 Guozh
  an Avenue\, Китай
 URL:https://www.ciex-expo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E734@family-stem.local
+DTSTAMP:20261109T084402Z
+SUMMARY:[Выставка · семейный вариант] FHNW Robot 
+ Day 2027
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. FHNW приглашает семьи. Возраст и 
+ запись на отдельные мастерские\, экскур
+ сии и входной тариф уточнить. Взрослый 
+ вход: FHNW приглашает семьи. Возраст и зап
+ ись на отдельные мастерские\, экскурсии
+  и входной тариф уточнить.. Награждение 
+ Starter в 16:15\, роверов в 16:45 и Elementary\, Junior\, Seni
+ or в 17:15. Точные старты групп сверить. Ком
+ пании: Награждение Starter в 16:15\, роверов в 
+ 16:45 и Elementary\, Junior\, Senior в 17:15. Точные старт
+ ы групп сверить.. Источник проверен 2026-11
+ -09.
+LOCATION:FHNW Brugg-Windisch · Klosterzelgstrasse 2 · Windisch\, Шве
+ йцария
+URL:https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/
+ fhnw-robot-day-2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

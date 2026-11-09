@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5617,
-      "holiday": 5036,
+      "records": 5627,
+      "holiday": 5046,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1659,
+      "en_es_instruction": 1660,
       "en_es_support": 66,
-      "family_instruction": 1659,
+      "family_instruction": 1660,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,
@@ -467913,6 +467913,1008 @@
           "start_utc": "2027-01-24T07:15:00Z",
           "end_utc": "2027-01-24T08:45:00Z"
         }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2245-20270215-20270219-morning",
+      "block": "Campamentos",
+      "title": "Addictlab Academy · Château de Voltaire · Winter STEAM · Addictlab STEAM · Ferney · 2027-02-15–2027-02-19",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "Château de Voltaire · Ferney-Voltaire",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027, 10:00–12:00, 10 horas en total en Château de Voltaire.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La sede indica 7+, el organizador 8–12 años. Para un menor de 7 años hace falta confirmación.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.",
+      "gear": "Robótica con LEGO Spike, programación, proyectos de videojuegos, introducción a IA, impresión 3D y creación artística.",
+      "language": "La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.",
+      "cost": "2027 · 200 CHF por 5 sesiones matinales según la sede francesa. Confirmar suplementos, equipo para llevar a casa y condiciones de cancelación. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.; La sede indica 7+, el organizador 8–12 años. Para un menor de 7 años hace falta confirmación.; La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.",
+      "source": "https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances",
+      "references": [
+        {
+          "url": "https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://addictlab.academy/event/sdg-day-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://addictlab.academy/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://signup.addictlab.academy/form-4857189/steam-camps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: Para Oscar hay que confirmar la edad el día de inicio. Con 7 años la admisión requiere aclarar por escrito la discrepancia entre la sede y el organizador. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "engineering",
+        "art",
+        "3d"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "addictlab-ferney-winter-steam",
+      "camp_programme_id": "CP2245",
+      "language_roles": {
+        "instruction": [
+          "FR",
+          "EN"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "FR",
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Paris",
+          "topic": "Addictlab STEAM · Ferney",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T09:00:00Z",
+          "end_utc": "2027-02-15T11:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Paris",
+          "topic": "Addictlab STEAM · Ferney",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T09:00:00Z",
+          "end_utc": "2027-02-16T11:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Paris",
+          "topic": "Addictlab STEAM · Ferney",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T09:00:00Z",
+          "end_utc": "2027-02-17T11:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Paris",
+          "topic": "Addictlab STEAM · Ferney",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T09:00:00Z",
+          "end_utc": "2027-02-18T11:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Paris",
+          "topic": "Addictlab STEAM · Ferney",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T09:00:00Z",
+          "end_utc": "2027-02-19T11:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2246-20270215-20270219-afternoon",
+      "block": "Campamentos",
+      "title": "Addictlab Academy · SDG Fablab Geneva · Winter STEAM · Addictlab STEAM · Geneva · 2027-02-15–2027-02-19",
+      "country": "Suiza",
+      "region": "Europa",
+      "city": "SDG Fablab Geneva",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027, 14:00–16:00, 10 horas en total en SDG Fablab Geneva.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–12 años según el título del programa del organizador. Confirmar el grupo concreto antes de inscribirse.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.",
+      "gear": "Robótica y creación artística. Confirmar actividades y kits exactos del grupo de la tarde.",
+      "language": "El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.",
+      "cost": "2027 · La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.; El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.; La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente.",
+      "source": "https://addictlab.academy/event/sdg-day-camp/",
+      "references": [
+        {
+          "url": "https://addictlab.academy/event/sdg-day-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://addictlab.academy/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://signup.addictlab.academy/form-4857189/steam-camps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "addictlab-geneva-winter-steam",
+      "camp_programme_id": "CP2246",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Addictlab STEAM · Geneva",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T13:00:00Z",
+          "end_utc": "2027-02-15T15:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Addictlab STEAM · Geneva",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T13:00:00Z",
+          "end_utc": "2027-02-16T15:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Addictlab STEAM · Geneva",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T13:00:00Z",
+          "end_utc": "2027-02-17T15:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Addictlab STEAM · Geneva",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T13:00:00Z",
+          "end_utc": "2027-02-18T15:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Addictlab STEAM · Geneva",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T13:00:00Z",
+          "end_utc": "2027-02-19T15:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2247-20261221-20261224-dec21",
+      "block": "Campamentos",
+      "title": "ITschool · Initiation à l’algorithme · Initiation à l’algorithme · 21 Dec · 2026-12-21–2026-12-24",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–8 años, de GS a CE2.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Scratch Junior, secuencias, bucles, sensores y movimientos sencillos de un robot. 21–24 de diciembre: el resumen festivo indica 10:00–12:00 y la ficha de reserva 09:30–16:30. Confirmar turno.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen festivo indica 10:00–12:00 y la ficha de reserva 09:30–16:30. Confirmar turno.; La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "source": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-algorithm",
+      "camp_programme_id": "CP2247",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2247-20261228-20261231-dec28",
+      "block": "Campamentos",
+      "title": "ITschool · Initiation à l’algorithme · Initiation à l’algorithme · 28 Dec · 2026-12-28–2026-12-31",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–8 años, de GS a CE2.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Scratch Junior, secuencias, bucles, sensores y movimientos sencillos de un robot. La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen festivo indica 10:00–12:00 y la ficha de reserva 09:30–16:30. Confirmar turno.; La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "source": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-initiation-algorithme",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-algorithm",
+      "camp_programme_id": "CP2247",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Initiation à l’algorithme · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:30:00Z",
+          "end_utc": "2026-12-28T15:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Initiation à l’algorithme · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:30:00Z",
+          "end_utc": "2026-12-29T15:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Initiation à l’algorithme · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:30:00Z",
+          "end_utc": "2026-12-30T15:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Initiation à l’algorithme · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:30:00Z",
+          "end_utc": "2026-12-31T15:30:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2248-20261221-20261224-dec21",
+      "block": "Campamentos",
+      "title": "ITschool · Cursus robotique · Cursus robotique · 21 Dec · 2026-12-21–2026-12-24",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Ficha de reserva: 9–10 años, CM1–CM2. El resumen festivo indica otro grupo de edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Montaje de robots, motores y sensores, recorrido con línea, juegos y programación en Scratch. 21–24 de diciembre: el resumen indica 6–9 años y 14:00–17:00, la ficha 9–10 años y 09:30–16:30. Confirmar edad y formato.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen indica 6–9 años y 14:00–17:00, la ficha 9–10 años y 09:30–16:30. Confirmar edad y formato.; La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "source": "https://www.itschool.fr/cours/stage-robotique-6-9",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-robotique-6-9",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-robotics",
+      "camp_programme_id": "CP2248",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2248-20261228-20261231-dec28",
+      "block": "Campamentos",
+      "title": "ITschool · Cursus robotique · Cursus robotique · 28 Dec · 2026-12-28–2026-12-31",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Ficha de reserva: 9–10 años, CM1–CM2. El resumen festivo indica otro grupo de edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Montaje de robots, motores y sensores, recorrido con línea, juegos y programación en Scratch. La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen indica 6–9 años y 14:00–17:00, la ficha 9–10 años y 09:30–16:30. Confirmar edad y formato.; La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.",
+      "source": "https://www.itschool.fr/cours/stage-robotique-6-9",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-robotique-6-9",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-robotics",
+      "camp_programme_id": "CP2248",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Cursus robotique · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:30:00Z",
+          "end_utc": "2026-12-28T15:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Cursus robotique · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:30:00Z",
+          "end_utc": "2026-12-29T15:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Cursus robotique · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:30:00Z",
+          "end_utc": "2026-12-30T15:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Europe/Paris",
+          "topic": "Cursus robotique · 28 Dec",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:30:00Z",
+          "end_utc": "2026-12-31T15:30:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2249-20261221-20261224-dec21",
+      "block": "Campamentos",
+      "title": "ITschool · Coding – IA · Coding – IA · 21 Dec · 2026-12-21–2026-12-24",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Ficha de Coding – IA: 10–14 años. El otro curso de Scratch indica un grupo distinto.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Scratch, creación de juegos, entrenamiento de un modelo de reconocimiento y comprobación de resultados. 21–24 de diciembre: la ficha de Coding – IA indica 09:30–16:30. Confirmar aparte el curso de Scratch del resumen.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: la ficha de Coding – IA indica 09:30–16:30. Confirmar aparte el curso de Scratch del resumen.; 28–31 de diciembre: el resumen festivo indica 10:00–13:00, la ficha de reserva 09:30–16:30. Confirmar turno.",
+      "source": "https://www.itschool.fr/cours/stage-scratch",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-scratch",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-coding-ai",
+      "camp_programme_id": "CP2249",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2249-20261228-20261231-dec28",
+      "block": "Campamentos",
+      "title": "ITschool · Coding – IA · Coding – IA · 28 Dec · 2026-12-28–2026-12-31",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Ficha de Coding – IA: 10–14 años. El otro curso de Scratch indica un grupo distinto.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Scratch, creación de juegos, entrenamiento de un modelo de reconocimiento y comprobación de resultados. 28–31 de diciembre: el resumen festivo indica 10:00–13:00, la ficha de reserva 09:30–16:30. Confirmar turno.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: la ficha de Coding – IA indica 09:30–16:30. Confirmar aparte el curso de Scratch del resumen.; 28–31 de diciembre: el resumen festivo indica 10:00–13:00, la ficha de reserva 09:30–16:30. Confirmar turno.",
+      "source": "https://www.itschool.fr/cours/stage-scratch",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-scratch",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-coding-ai",
+      "camp_programme_id": "CP2249",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2250-20261221-20261224-dec21",
+      "block": "Campamentos",
+      "title": "ITschool · IA, Python et robots · IA, Python et robots · 21 Dec · 2026-12-21–2026-12-24",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–18 años según la ficha.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Python, Machine Learning for Kids y conexión de un modelo a un robot. 21–24 de diciembre: el resumen festivo indica 17:00–18:55 y la ficha 17:00–18:30. Confirmar horario.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen festivo indica 17:00–18:55 y la ficha 17:00–18:30. Confirmar horario.; 28–31 de diciembre: la ficha indica 09:30–16:30, la descripción general habla de clases por la tarde. Confirmar qué horario aplica.",
+      "source": "https://www.itschool.fr/cours/stage-ia-ados",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-ia-ados",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No encaja en la franja de edad de este grupo. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-ai-python",
+      "camp_programme_id": "CP2250",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2250-20261228-20261231-dec28",
+      "block": "Campamentos",
+      "title": "ITschool · IA, Python et robots · IA, Python et robots · 28 Dec · 2026-12-28–2026-12-31",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "ITschool · 130 avenue Foch · Saint-Maur-des-Fossés",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–18 años según la ficha.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.",
+      "gear": "Python, Machine Learning for Kids y conexión de un modelo a un robot. 28–31 de diciembre: la ficha indica 09:30–16:30, la descripción general habla de clases por la tarde. Confirmar qué horario aplica.",
+      "language": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "cost": "2026/27 · La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.; 21–24 de diciembre: el resumen festivo indica 17:00–18:55 y la ficha 17:00–18:30. Confirmar horario.; 28–31 de diciembre: la ficha indica 09:30–16:30, la descripción general habla de clases por la tarde. Confirmar qué horario aplica.",
+      "source": "https://www.itschool.fr/cours/stage-ia-ados",
+      "references": [
+        {
+          "url": "https://www.itschool.fr/cours/stage-ia-ados",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/stage-vacances-noel/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.itschool.fr/catalogue?format=stage",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No encaja en la franja de edad de este grupo. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "itschool-saint-maur-ai-python",
+      "camp_programme_id": "CP2250",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
       ],
       "delivery_mode": "in_person",
       "availability": {

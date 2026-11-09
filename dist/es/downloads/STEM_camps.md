@@ -88662,6 +88662,166 @@ Limitaciones: Matvey: Condicional a la admisión escolar y al nivel adecuado. Co
 Fuente: https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
 Se ha comprobado: 2026-11-09
 
+### CP2245-20270215-20270219-morning · Addictlab Academy · Château de Voltaire · Winter STEAM · Addictlab STEAM · Ferney · 2027-02-15–2027-02-19
+
+lugar: Francia · Château de Voltaire · Ferney-Voltaire
+Fecha: 2027-02-15 国 2027-02-19
+edad: La sede indica 7+, el organizador 8–12 años. Para un menor de 7 años hace falta confirmación.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 200 CHF por 5 sesiones matinales según la sede francesa. Confirmar suplementos, equipo para llevar a casa y condiciones de cancelación. · suplementos y condiciones en el dossier
+Acceso: El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: Para Oscar hay que confirmar la edad el día de inicio. Con 7 años la admisión requiere aclarar por escrito la discrepancia entre la sede y el organizador. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances
+Se ha comprobado: 2026-11-09
+
+### CP2246-20270215-20270219-afternoon · Addictlab Academy · SDG Fablab Geneva · Winter STEAM · Addictlab STEAM · Geneva · 2027-02-15–2027-02-19
+
+lugar: Suiza · SDG Fablab Geneva
+Fecha: 2027-02-15 国 2027-02-19
+edad: 8–12 años según el título del programa del organizador. Confirmar el grupo concreto antes de inscribirse.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente. · suplementos y condiciones en el dossier
+Acceso: El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://addictlab.academy/event/sdg-day-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2247-20261221-20261224-dec21 · ITschool · Initiation à l’algorithme · Initiation à l’algorithme · 21 Dec · 2026-12-21–2026-12-24
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–8 años, de GS a CE2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-initiation-algorithme
+Se ha comprobado: 2026-11-09
+
+### CP2247-20261228-20261231-dec28 · ITschool · Initiation à l’algorithme · Initiation à l’algorithme · 28 Dec · 2026-12-28–2026-12-31
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-28 - 2026-12-31
+edad: 5–8 años, de GS a CE2.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-initiation-algorithme
+Se ha comprobado: 2026-11-09
+
+### CP2248-20261221-20261224-dec21 · ITschool · Cursus robotique · Cursus robotique · 21 Dec · 2026-12-21–2026-12-24
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-21 - 2026-12-24
+edad: Ficha de reserva: 9–10 años, CM1–CM2. El resumen festivo indica otro grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-robotique-6-9
+Se ha comprobado: 2026-11-09
+
+### CP2248-20261228-20261231-dec28 · ITschool · Cursus robotique · Cursus robotique · 28 Dec · 2026-12-28–2026-12-31
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-28 - 2026-12-31
+edad: Ficha de reserva: 9–10 años, CM1–CM2. El resumen festivo indica otro grupo de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-robotique-6-9
+Se ha comprobado: 2026-11-09
+
+### CP2249-20261221-20261224-dec21 · ITschool · Coding – IA · Coding – IA · 21 Dec · 2026-12-21–2026-12-24
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-21 - 2026-12-24
+edad: Ficha de Coding – IA: 10–14 años. El otro curso de Scratch indica un grupo distinto.
+Matvey: No ahora; la edad futura
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-scratch
+Se ha comprobado: 2026-11-09
+
+### CP2249-20261228-20261231-dec28 · ITschool · Coding – IA · Coding – IA · 28 Dec · 2026-12-28–2026-12-31
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-28 - 2026-12-31
+edad: Ficha de Coding – IA: 10–14 años. El otro curso de Scratch indica un grupo distinto.
+Matvey: No ahora; la edad futura
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-scratch
+Se ha comprobado: 2026-11-09
+
+### CP2250-20261221-20261224-dec21 · ITschool · IA, Python et robots · IA, Python et robots · 21 Dec · 2026-12-21–2026-12-24
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-21 - 2026-12-24
+edad: 12–18 años según la ficha.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-ia-ados
+Se ha comprobado: 2026-11-09
+
+### CP2250-20261228-20261231-dec28 · ITschool · IA, Python et robots · IA, Python et robots · 28 Dec · 2026-12-28–2026-12-31
+
+lugar: Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+Fecha: 2026-12-28 - 2026-12-31
+edad: 12–18 años según la ficha.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa. · suplementos y condiciones en el dossier
+Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.itschool.fr/cours/stage-ia-ados
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

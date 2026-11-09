@@ -1,0 +1,80 @@
+{
+  "version": 335,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E734",
+    "C5095",
+    "C5096",
+    "C5097",
+    "C5098",
+    "CP2245-20270215-20270219-morning",
+    "CP2246-20270215-20270219-afternoon",
+    "CP2247-20261221-20261224-dec21",
+    "CP2247-20261228-20261231-dec28",
+    "CP2248-20261221-20261224-dec21",
+    "CP2248-20261228-20261231-dec28",
+    "CP2249-20261221-20261224-dec21",
+    "CP2249-20261228-20261231-dec28",
+    "CP2250-20261221-20261224-dec21",
+    "CP2250-20261228-20261231-dec28"
+  ],
+  "refreshed_event_ids": [
+    "C906",
+    "C907",
+    "C3482",
+    "C3481",
+    "C3483",
+    "C3484",
+    "C3485",
+    "E472",
+    "E473"
+  ],
+  "new_dossier_ids": [
+    "CP2245",
+    "CP2246",
+    "CP2247",
+    "CP2248",
+    "CP2249",
+    "CP2250",
+    "CP2251"
+  ],
+  "refreshed_league_ids": [
+    "wro-switzerland",
+    "juniorbotball"
+  ],
+  "swiss_visitor_event": "E734",
+  "swiss_competition_ids": [
+    "C5095",
+    "C5096"
+  ],
+  "swiss_registration_event": "C5097",
+  "rover_event": "C5098",
+  "ecer_junior_id": "C3482",
+  "ferney_dossier_id": "CP2245",
+  "geneva_dossier_id": "CP2246",
+  "itschool_dossier_ids": {
+    "algorithm": "CP2247",
+    "robotics": "CP2248",
+    "coding-ai": "CP2249",
+    "ai-python": "CP2250"
+  },
+  "itschool_february_watch": "CP2251",
+  "source_requests": 23,
+  "legacy_overlay_event_ids": [
+    "C906",
+    "C907",
+    "C3482",
+    "C3481",
+    "C3483",
+    "C3484",
+    "C3485",
+    "E472",
+    "E473"
+  ],
+  "legacy_overlay_league_ids": [
+    "wro-switzerland",
+    "juniorbotball"
+  ]
+}

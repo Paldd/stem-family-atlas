@@ -5468,7 +5468,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E472@family-stem.local
-DTSTAMP:20261108T003618Z
+DTSTAMP:20261109T084402Z
 SUMMARY:[Exposición · visita en familia] ECER 2027 · Linz · Besuch
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
@@ -5476,8 +5476,11 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso grat
  uito para todas las edades. El horario diario y las zonas para el públi
  co se publicarán en el programa. Entrada de adultos: Acceso gratuito pa
  ra todas las edades. El horario diario y las zonas para el público se p
- ublicarán en el programa..  Empresas: La organización prepara el progr
- ama completo para visitantes.. Fuente verificada el 2026-11-07.
+ ublicarán en el programa.. Junior Botball se celebra un solo día\, el 
+ 8 de abril de 2027. Quedan por confirmar las horas y la distribución de
+  retos. Empresas: Junior Botball se celebra un solo día\, el 8 de abril
+  de 2027. Quedan por confirmar las horas y la distribución de retos.. F
+ uente verificada el 2026-11-09.
 LOCATION:Linzer Technikum · Paul-Hahn-Straße 4 · Linz\, Austria
 URL:https://ecer.eraa.at/visit/
 STATUS:TENTATIVE
@@ -9642,6 +9645,26 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Menores de
 LOCATION:National Convention and Exhibition Center (Tianjin) · 888 Guozh
  an Avenue\, China
 URL:https://www.ciex-expo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E734@family-stem.local
+DTSTAMP:20261109T084402Z
+SUMMARY:[Exposición · visita en familia] FHNW Robot Day 2027
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. FHNW invita
+  a familias. Confirmar edad\, reserva de talleres y visitas\, y tarifa d
+ e entrada. Entrada de adultos: FHNW invita a familias. Confirmar edad\, 
+ reserva de talleres y visitas\, y tarifa de entrada.. Premiación de Sta
+ rter a las 16:15\, de rovers a las 16:45 y de Elementary\, Junior y Seni
+ or a las 17:15. Confirmar las horas exactas de cada grupo. Empresas: Pre
+ miación de Starter a las 16:15\, de rovers a las 16:45 y de Elementary\
+ , Junior y Senior a las 17:15. Confirmar las horas exactas de cada grupo
+ .. Fuente verificada el 2026-11-09.
+LOCATION:FHNW Brugg-Windisch · Klosterzelgstrasse 2 · Windisch\, Suiza
+URL:https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

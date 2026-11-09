@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. 2244 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-09. 2251 fichas en 140 países. Las fechas de comprobación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -177491,6 +177491,496 @@ Japón · TechJoyLabo · Kumamoto · Tsuboi 2-2-42
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/) · 2026-11-09
+
+## CP2245 · Addictlab Academy · Château de Voltaire · Winter STEAM
+
+Francia · Château de Voltaire · Ferney-Voltaire
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** La sede indica 7+, el organizador 8–12 años. Para un menor de 7 años hace falta confirmación.
+
+**Idioma:** La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.
+
+**Programa:** Robótica con LEGO Spike, programación, proyectos de videojuegos, introducción a IA, impresión 3D y creación artística.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027, 10:00–12:00, 10 horas en total en Château de Voltaire.
+
+**Precio / año:** 2027 · 200 CHF por 5 sesiones matinales según la sede francesa. Confirmar suplementos, equipo para llevar a casa y condiciones de cancelación.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** Para Oscar hay que confirmar la edad el día de inicio. Con 7 años la admisión requiere aclarar por escrito la discrepancia entre la sede y el organizador.
+
+**Motivo de selección:** 15–19 de febrero de 2027, 10:00–12:00, 10 horas en total en Château de Voltaire.
+
+### Antes de solicitar plaza
+
+- El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+
+- La sede indica 7+, el organizador 8–12 años. Para un menor de 7 años hace falta confirmación.
+
+- La sede indica explícitamente francés e inglés. Confirmar la proporción de inglés en el grupo.
+
+### Addictlab STEAM · Ferney
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** 200 CHF por 5 sesiones matinales según la sede francesa. Confirmar suplementos, equipo para llevar a casa y condiciones de cancelación.
+
+**condiciones de participación:** El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+
+- 2027-02-15 · 10:00–12:00 · Europe/Paris · Addictlab STEAM · Ferney
+
+- 2027-02-16 · 10:00–12:00 · Europe/Paris · Addictlab STEAM · Ferney
+
+- 2027-02-17 · 10:00–12:00 · Europe/Paris · Addictlab STEAM · Ferney
+
+- 2027-02-18 · 10:00–12:00 · Europe/Paris · Addictlab STEAM · Ferney
+
+- 2027-02-19 · 10:00–12:00 · Europe/Paris · Addictlab STEAM · Ferney
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.chateau-ferney-voltaire.fr/agenda/camps-de-vacances) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://addictlab.academy/event/sdg-day-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://addictlab.academy/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://signup.addictlab.academy/form-4857189/steam-camps) · 2026-11-09
+
+## CP2246 · Addictlab Academy · SDG Fablab Geneva · Winter STEAM
+
+Suiza · SDG Fablab Geneva
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–12 años según el título del programa del organizador. Confirmar el grupo concreto antes de inscribirse.
+
+**Idioma:** El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.
+
+**Programa:** Robótica y creación artística. Confirmar actividades y kits exactos del grupo de la tarde.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027, 14:00–16:00, 10 horas en total en SDG Fablab Geneva.
+
+**Precio / año:** 2027 · La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** 15–19 de febrero de 2027, 14:00–16:00, 10 horas en total en SDG Fablab Geneva.
+
+### Antes de solicitar plaza
+
+- El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+
+- El organizador publica en inglés. Confirmar el idioma de enseñanza en Ginebra por separado de la sede francesa.
+
+- La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente.
+
+### Addictlab STEAM · Geneva
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** La ficha del programa no publica la tarifa de la sede de tarde. La tarifa matinal de la sede francesa no se aplica automáticamente.
+
+**condiciones de participación:** El organizador enlaza un formulario STEAM general. Confirmar disponibilidad de esta semana y de la sede elegida antes de pagar.
+
+- 2027-02-15 · 14:00–16:00 · Europe/Zurich · Addictlab STEAM · Geneva
+
+- 2027-02-16 · 14:00–16:00 · Europe/Zurich · Addictlab STEAM · Geneva
+
+- 2027-02-17 · 14:00–16:00 · Europe/Zurich · Addictlab STEAM · Geneva
+
+- 2027-02-18 · 14:00–16:00 · Europe/Zurich · Addictlab STEAM · Geneva
+
+- 2027-02-19 · 14:00–16:00 · Europe/Zurich · Addictlab STEAM · Geneva
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://addictlab.academy/event/sdg-day-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://addictlab.academy/event/sdg-day-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://addictlab.academy/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://signup.addictlab.academy/form-4857189/steam-camps) · 2026-11-09
+
+## CP2247 · ITschool · Initiation à l’algorithme
+
+Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–8 años, de GS a CE2.
+
+**Idioma:** Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+
+**Programa:** Scratch Junior, secuencias, bucles, sensores y movimientos sencillos de un robot.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+**Precio / año:** 2026 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Incluido:** Almuerzo de casa. Hay nevera y microondas en la sede. Incluye merienda.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja en la franja de edad de este grupo.
+
+**Oscar:** La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza.
+
+**Motivo de selección:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+### Antes de solicitar plaza
+
+- Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 21–24 de diciembre: el resumen festivo indica 10:00–12:00 y la ficha de reserva 09:30–16:30. Confirmar turno.
+
+- La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.
+
+### Initiation à l’algorithme · 21 Dec
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Scratch Junior, secuencias, bucles, sensores y movimientos sencillos de un robot. 21–24 de diciembre: el resumen festivo indica 10:00–12:00 y la ficha de reserva 09:30–16:30. Confirmar turno.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-initiation-algorithme)
+
+### Initiation à l’algorithme · 28 Dec
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Scratch Junior, secuencias, bucles, sensores y movimientos sencillos de un robot. La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 2026-12-28 · 09:30–16:30 · Europe/Paris · Initiation à l’algorithme · 28 Dec
+
+- 2026-12-29 · 09:30–16:30 · Europe/Paris · Initiation à l’algorithme · 28 Dec
+
+- 2026-12-30 · 09:30–16:30 · Europe/Paris · Initiation à l’algorithme · 28 Dec
+
+- 2026-12-31 · 09:30–16:30 · Europe/Paris · Initiation à l’algorithme · 28 Dec
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-initiation-algorithme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-initiation-algorithme) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-noel/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/catalogue?format=stage) · 2026-11-09
+
+## CP2248 · ITschool · Cursus robotique
+
+Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Ficha de reserva: 9–10 años, CM1–CM2. El resumen festivo indica otro grupo de edad.
+
+**Idioma:** Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+
+**Programa:** Montaje de robots, motores y sensores, recorrido con línea, juegos y programación en Scratch.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+**Precio / año:** 2026 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Incluido:** Almuerzo de casa. Hay nevera y microondas en la sede. Incluye merienda.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad puede encajar. Confirmar la equivalencia del curso escolar francés y el idioma de enseñanza.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+### Antes de solicitar plaza
+
+- Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 21–24 de diciembre: el resumen indica 6–9 años y 14:00–17:00, la ficha 9–10 años y 09:30–16:30. Confirmar edad y formato.
+
+- La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.
+
+### Cursus robotique · 21 Dec
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Montaje de robots, motores y sensores, recorrido con línea, juegos y programación en Scratch. 21–24 de diciembre: el resumen indica 6–9 años y 14:00–17:00, la ficha 9–10 años y 09:30–16:30. Confirmar edad y formato.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-robotique-6-9)
+
+### Cursus robotique · 28 Dec
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Montaje de robots, motores y sensores, recorrido con línea, juegos y programación en Scratch. La ficha de reserva indica 09:30–16:30. Es el horario de día completo publicado para el 28–31 de diciembre.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 2026-12-28 · 09:30–16:30 · Europe/Paris · Cursus robotique · 28 Dec
+
+- 2026-12-29 · 09:30–16:30 · Europe/Paris · Cursus robotique · 28 Dec
+
+- 2026-12-30 · 09:30–16:30 · Europe/Paris · Cursus robotique · 28 Dec
+
+- 2026-12-31 · 09:30–16:30 · Europe/Paris · Cursus robotique · 28 Dec
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-robotique-6-9)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-robotique-6-9) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-noel/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/catalogue?format=stage) · 2026-11-09
+
+## CP2249 · ITschool · Coding – IA
+
+Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Ficha de Coding – IA: 10–14 años. El otro curso de Scratch indica un grupo distinto.
+
+**Idioma:** Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+
+**Programa:** Scratch, creación de juegos, entrenamiento de un modelo de reconocimiento y comprobación de resultados.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+**Precio / año:** 2026 · 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Incluido:** Almuerzo de casa. Hay nevera y microondas en la sede. Incluye merienda.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+### Antes de solicitar plaza
+
+- Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 21–24 de diciembre: la ficha de Coding – IA indica 09:30–16:30. Confirmar aparte el curso de Scratch del resumen.
+
+- 28–31 de diciembre: el resumen festivo indica 10:00–13:00, la ficha de reserva 09:30–16:30. Confirmar turno.
+
+### Coding – IA · 21 Dec
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Scratch, creación de juegos, entrenamiento de un modelo de reconocimiento y comprobación de resultados. 21–24 de diciembre: la ficha de Coding – IA indica 09:30–16:30. Confirmar aparte el curso de Scratch del resumen.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-scratch)
+
+### Coding – IA · 28 Dec
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 239 EUR por el curso de día completo según la ficha de reserva. Confirmar por separado el precio del turno corto.
+
+**Programa:** Scratch, creación de juegos, entrenamiento de un modelo de reconocimiento y comprobación de resultados. 28–31 de diciembre: el resumen festivo indica 10:00–13:00, la ficha de reserva 09:30–16:30. Confirmar turno.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-scratch)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-scratch) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-noel/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/catalogue?format=stage) · 2026-11-09
+
+## CP2250 · ITschool · IA, Python et robots
+
+Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 12–18 años según la ficha.
+
+**Idioma:** Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+
+**Programa:** Python, Machine Learning for Kids y conexión de un modelo a un robot.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+**Precio / año:** 2026 · La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja en la franja de edad de este grupo.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** El catálogo muestra dos semanas, 21–24 y 28–31 de diciembre de 2026. Confirmar horario y correspondencia con el programa festivo de cada semana.
+
+### Antes de solicitar plaza
+
+- Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- 21–24 de diciembre: el resumen festivo indica 17:00–18:55 y la ficha 17:00–18:30. Confirmar horario.
+
+- 28–31 de diciembre: la ficha indica 09:30–16:30, la descripción general habla de clases por la tarde. Confirmar qué horario aplica.
+
+### IA, Python et robots · 21 Dec
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa.
+
+**Programa:** Python, Machine Learning for Kids y conexión de un modelo a un robot. 21–24 de diciembre: el resumen festivo indica 17:00–18:55 y la ficha 17:00–18:30. Confirmar horario.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-ia-ados)
+
+### IA, Python et robots · 28 Dec
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** La ficha indica 129 EUR. No se confirma a qué turno corto o de día completo se aplica esa tarifa.
+
+**Programa:** Python, Machine Learning for Kids y conexión de un modelo a un robot. 28–31 de diciembre: la ficha indica 09:30–16:30, la descripción general habla de clases por la tarde. Confirmar qué horario aplica.
+
+**condiciones de participación:** Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.itschool.fr/cours/stage-ia-ados)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-ia-ados) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-noel/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/catalogue?format=stage) · 2026-11-09
+
+## CP2251 · ITschool · February holiday stages
+
+Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva.
+
+**Idioma:** Materiales en francés. El inglés o español como idioma de enseñanza del grupo concreto no están confirmados.
+
+**Programa:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva. Las fechas de los próximos turnos de Pascua y verano no se han publicado.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva.
+
+**Oscar:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva.
+
+**Motivo de selección:** El resumen del 22–26 de febrero de 2027 lista robótica 6–9, Scratch 9–14 y Coding – IA 10–14. Edad, horarios y precios aún sin cotejar con las fichas de reserva. Las fechas de los próximos turnos de Pascua y verano no se han publicado.
+
+### Antes de solicitar plaza
+
+- Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
+
+- Las fechas de los próximos turnos de Pascua y verano no se han publicado.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-fevrier/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-robotique-6-9) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/cours/stage-scratch) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-paques/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-ete/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

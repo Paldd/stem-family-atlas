@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 333,
+    "version": 335,
     "status": "implementation_snapshot",
-    "events": 11443,
-    "competitions": 5093,
+    "events": 11458,
+    "competitions": 5097,
     "league_profiles": 327,
-    "camp_dossiers": 2244,
+    "camp_dossiers": 2251,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 733,
+    "exhibitions_events": 734,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 332,
+    "version": 333,
     "status": "implementation_snapshot",
-    "events": 11425,
-    "competitions": 5088,
-    "league_profiles": 326,
-    "camp_dossiers": 2234,
+    "events": 11443,
+    "competitions": 5093,
+    "league_profiles": 327,
+    "camp_dossiers": 2244,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 731,
+    "exhibitions_events": 733,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 333,
+    "prepared_ui_version": 335,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 332,
-    "previous_verified_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5"
+    "previous_verified_ui_version": 334,
+    "previous_verified_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 332,
-    "published_version": 332,
-    "latest_source_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5",
-    "published_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5",
-    "latest_workflow": 42582556941,
+    "latest_source_version": 334,
+    "published_version": 334,
+    "latest_source_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9",
+    "published_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9",
+    "latest_workflow": 42586262938,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35391,6 +35391,86 @@
     "source_requests": 26,
     "legacy_overlay_event_ids": [
       "E290"
+    ]
+  },
+  "swiss_regional_robots_and_franco_swiss_winter_v335": {
+    "version": 335,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E734",
+      "C5095",
+      "C5096",
+      "C5097",
+      "C5098",
+      "CP2245-20270215-20270219-morning",
+      "CP2246-20270215-20270219-afternoon",
+      "CP2247-20261221-20261224-dec21",
+      "CP2247-20261228-20261231-dec28",
+      "CP2248-20261221-20261224-dec21",
+      "CP2248-20261228-20261231-dec28",
+      "CP2249-20261221-20261224-dec21",
+      "CP2249-20261228-20261231-dec28",
+      "CP2250-20261221-20261224-dec21",
+      "CP2250-20261228-20261231-dec28"
+    ],
+    "refreshed_event_ids": [
+      "C906",
+      "C907",
+      "C3482",
+      "C3481",
+      "C3483",
+      "C3484",
+      "C3485",
+      "E472",
+      "E473"
+    ],
+    "new_dossier_ids": [
+      "CP2245",
+      "CP2246",
+      "CP2247",
+      "CP2248",
+      "CP2249",
+      "CP2250",
+      "CP2251"
+    ],
+    "refreshed_league_ids": [
+      "wro-switzerland",
+      "juniorbotball"
+    ],
+    "swiss_visitor_event": "E734",
+    "swiss_competition_ids": [
+      "C5095",
+      "C5096"
+    ],
+    "swiss_registration_event": "C5097",
+    "rover_event": "C5098",
+    "ecer_junior_id": "C3482",
+    "ferney_dossier_id": "CP2245",
+    "geneva_dossier_id": "CP2246",
+    "itschool_dossier_ids": {
+      "algorithm": "CP2247",
+      "robotics": "CP2248",
+      "coding-ai": "CP2249",
+      "ai-python": "CP2250"
+    },
+    "itschool_february_watch": "CP2251",
+    "source_requests": 23,
+    "legacy_overlay_event_ids": [
+      "C906",
+      "C907",
+      "C3482",
+      "C3481",
+      "C3483",
+      "C3484",
+      "C3485",
+      "E472",
+      "E473"
+    ],
+    "legacy_overlay_league_ids": [
+      "wro-switzerland",
+      "juniorbotball"
     ]
   }
 }
