@@ -3,6 +3,7 @@ import csv, datetime, json, pathlib, re, sqlite3
 from copy import deepcopy
 from calendar_time import local_to_utc, session_keys
 from atlas_web_data import write_source_catalog, write_web_data
+from atlas_workbook import WORKBOOKS, write_workbook
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 DATA=ROOT/'data/catalog.json'
 d=json.loads(DATA.read_text())
@@ -516,6 +517,7 @@ if 'east_asia_focus' in d: web['east_asia_focus']=d['east_asia_focus']
 if 'top_picks' in d: web['top_picks']=d['top_picks']
 web.update(audit_count=len(d['audit']),wro_members=d['wro_members'])
 write_web_data(assets, web)
+write_workbook(out / WORKBOOKS['ru'], web, 'ru')
 (out/'STEM_database.json').write_text(json.dumps(d,ensure_ascii=False,indent=2))
 from database_download import package_json
 json_database_download = package_json(out/'STEM_database.json')

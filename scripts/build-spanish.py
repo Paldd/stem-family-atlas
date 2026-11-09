@@ -13,7 +13,7 @@ from localization import (ROOT,RU,protected,translate,translate_tree,translate_m
                           unfold_ics,collect_pool,english_pool)
 from atlas_web_data import read_web_data, write_web_data
 from database_download import package_json,package_database
-from spanish_workbook import write_workbook
+from atlas_workbook import WORKBOOKS, write_workbook
 from spanish_calendar import localize_calendar
 from spanish_legacy_workbook import translate_workbook
 
@@ -105,13 +105,14 @@ page=page.replace('data-atlas-language="ru" href="./" lang="ru" aria-current="pa
 page=page.replace('data-atlas-language="es" href="es/" lang="es" aria-current="false"','data-atlas-language="es" href="./" lang="es" aria-current="page"')
 page=page.replace('<script src="assets/app.js', f'<script src="assets/fit-text.js?v={UI_VERSION}"></script>\n  <script src="assets/app.js')
 # Keep the original audit link in the downloads section.
-page=page.replace('<a class="quiet-link" href="downloads/STEM_семейный_календарь_2026-2027.xlsx"',
-                  '<a class="quiet-link" href="downloads/STEM_atlas_es.xlsx"',1)
+page=page.replace('downloads/'+WORKBOOKS['ru'], 'downloads/'+WORKBOOKS['es'])
 page=page.replace('</footer>','<p class="family-note">Edición en español de los materiales existentes: traducción automática con revisión de términos principales. La traducción no actualiza la fecha de verificación de las fuentes. Para los requisitos oficiales, consulte los enlaces del organizador.</p></footer>')
 (ES/'index.html').write_text(page)
 
 # Translate every existing public text download, retaining filenames and source URLs.
 for p in sorted((DIST/'downloads').iterdir()):
+    if p.name == WORKBOOKS['ru']:
+        continue
     q=OUT/p.name
     if p.suffix=='.json':q.write_text(json.dumps(translate_tree(json.loads(p.read_text()),dictionary),ensure_ascii=False,indent=2)+'\n')
     elif p.suffix=='.md':
@@ -159,7 +160,7 @@ with tempfile.TemporaryDirectory() as tmp:
             if changed:db.execute('UPDATE "'+table+'" SET '+','.join('"'+k+'"=?' for k in changed)+' WHERE rowid=?',[*changed.values(),row[0]])
     db.commit();assert db.execute('PRAGMA integrity_check').fetchone()[0]=='ok';assert not db.execute('PRAGMA foreign_key_check').fetchall();db.close()
 database_manifest=package_database(q,language='es')
-workbook_counts=write_workbook(OUT/'STEM_atlas_es.xlsx',translated)
+workbook_counts=write_workbook(OUT/WORKBOOKS['es'],translated,'es')
 report=dict(language='es',source_language='ru',translation_method='local neural translation with reviewed interface and protected numeric values',
             source_research_asof=web['asof'],ui_version=UI_VERSION,source_strings=len(collect_pool()),english_prose_strings=len(english_pool()),missing_strings=0,
             complete_human_linguistic_review=False,

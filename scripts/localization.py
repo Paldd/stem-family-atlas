@@ -125,7 +125,10 @@ def collect_pool():
                     except json.JSONDecodeError:pass
                 pool.update(chunks(value))
     from spanish_legacy_workbook import workbook_strings
-    for p in (ROOT/'dist/downloads').glob('*.xlsx'):pool.update(workbook_strings(p))
+    from atlas_workbook import WORKBOOKS
+    for p in (ROOT/'dist/downloads').glob('*.xlsx'):
+        if p.name != WORKBOOKS['ru']:
+            pool.update(workbook_strings(p))
     parser=HTMLStrings();parser.feed((ROOT/'dist/index.html').read_text());pool.update(parser.strings)
     manifest=json.loads((ROOT/'data/i18n/ui-source-tokens.json').read_text())
     for file in manifest.values():

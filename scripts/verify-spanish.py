@@ -11,6 +11,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import unquote,urlsplit
 from localization import ROOT,RU,protected,collect_pool,english_pool,unfold_ics,translate,technical_facts_match,machine_value
+from atlas_workbook import WORKBOOKS, verify_workbook
 
 DIST=ROOT/'dist';ES=DIST/'es'
 dictionary=json.loads((ROOT/'data/i18n/es.json').read_text())
@@ -80,7 +81,7 @@ page=Page();page.feed(es_html)
 assert page.lang=='es' and not page.text,repr(page.text)
 assert ru_ids==page.ids,'A section or control was dropped'
 assert re.findall(r'href="downloads/([^"]+\.xlsx)"',es_html)==[
-    'STEM_atlas_es.xlsx','STEM_семейный_календарь_2026-2027.xlsx'
+    WORKBOOKS['es'],WORKBOOKS['es'],'STEM_семейный_календарь_2026-2027.xlsx'
 ], 'The current atlas and original audit must have distinct Excel links'
 
 out=ES/'downloads'
@@ -122,14 +123,10 @@ for kind in ['json','sqlite']:
                         else:compare(v,w,'SQLite/'+table+'/'+str(i)+'/'+key)
             original.close()
             con.close()
-with zipfile.ZipFile(out/'STEM_atlas_es.xlsx') as z:
-    assert z.testzip() is None
-    ns={'x':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
-    first=ET.fromstring(z.read('xl/worksheets/sheet1.xml'))
-    ids=[r.find('x:c/x:is/x:t',ns).text for r in first.findall('x:sheetData/x:row',ns)][1:]
-    assert ids==[e['id'] for e in es['events'] if e['block']=='Competiciones']
-    for name in z.namelist():ET.fromstring(z.read(name))
+verify_workbook(out/WORKBOOKS['es'],es,'es')
 for p in (DIST/'downloads').glob('*.xlsx'):
+    if p.name == WORKBOOKS['ru']:
+        continue
     with zipfile.ZipFile(p) as original,zipfile.ZipFile(out/p.name) as localized:
         assert original.namelist()==localized.namelist(),p.name+' dropped workbook components'
         sheets=ET.fromstring(original.read('xl/workbook.xml')).findall('{*}sheets/{*}sheet')

@@ -9,6 +9,7 @@ import tempfile
 from urllib.parse import unquote, urlsplit
 import zipfile
 from atlas_web_data import read_web_data, verify_core_data
+from atlas_workbook import WORKBOOKS, verify_workbook
 from calendar_time import local_to_utc, session_keys
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -63,6 +64,10 @@ Links().feed(html)
 assert re.search(r'data-ui-version="\d+"', html)
 
 downloads = DIST / 'downloads'
+assert re.findall(r'href="downloads/([^"]+\.xlsx)"', html) == [
+    WORKBOOKS['ru'], WORKBOOKS['ru'], 'STEM_семейный_календарь_2026-2027.xlsx'
+], 'The current atlas and original audit must have distinct Excel links'
+verify_workbook(downloads / WORKBOOKS['ru'], web, 'ru')
 db_manifest = json.loads((downloads / 'STEM_database_download.json').read_text())
 archive = downloads / db_manifest['download']
 assert hashlib.sha256(archive.read_bytes()).hexdigest() == db_manifest['archive_sha256']

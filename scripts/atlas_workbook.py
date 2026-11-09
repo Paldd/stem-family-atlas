@@ -1,7 +1,12 @@
-"""Write a complete, portable Spanish workbook with the standard library."""
+"""Write and verify complete Atlas workbooks with the standard library."""
 import json
 import zipfile
+from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
+
+WORKBOOKS = {'ru': 'STEM_atlas_ru.xlsx', 'es': 'STEM_atlas_es.xlsx'}
+SPREADSHEET_NS = 'http://schemas.openxmlformats.org/spreadsheetml/2006/main'
+NS = {'x': SPREADSHEET_NS}
 
 HEADERS={
  'deadline_history':'Historial de plazos',
@@ -87,20 +92,72 @@ def column(index):
 
 HEADERS.update({'access_url':'Web accesible verificada','website_checked':'Fecha de revisión web','website_note':'Notas de acceso web','website_status':'Estado de acceso web','network_route_ids':'IDs de vías nacionales','wro_checked':'Fecha del directorio WRO','wro_directory_status':'Estado en directorio WRO','network':'Red de robótica','league_id':'ID de la liga','division':'Categoría','source':'Fuente oficial'})
 
-def write_workbook(path,data):
-    groups=[('Competiciones',[e for e in data['events'] if e['block']=='Competiciones']),
-            ('Eventos y exposiciones',[e for e in data['events'] if e['block']=='Eventos']),
-            ('Campamentos y cursos',[e for e in data['events'] if e['block']=='Campamentos']),
-            ('Fichas de campamentos',data['camp_programmes']['profiles']),
-            ('Ligas',data['league_guide']['profiles']),('Colegios',data['schools']),('Países',data['countries']),
-            ('Vías nacionales',data['national_routes']['routes'])]
-    ns='http://schemas.openxmlformats.org/spreadsheetml/2006/main'
+RUSSIAN_HEADERS = {
+    'id': 'ID', 'block': 'Раздел', 'title': 'Название', 'country': 'Страна', 'region': 'Регион', 'city': 'Город',
+    'start': 'Начало', 'end': 'Окончание', 'period': 'Период', 'date_status': 'Статус дат',
+    'deadline': 'Срок', 'deadline_label': 'Тип срока', 'deadline_note': 'Условия срока',
+    'deadline_utc': 'Срок UTC', 'registration_status': 'Статус регистрации',
+    'age': 'Возраст / класс', 'mat': 'Матвей', 'osc': 'Оскар', 'format': 'Формат / команда',
+    'participation': 'Участие', 'delivery_mode': 'Режим участия', 'entry': 'Как участвовать',
+    'gear': 'Оборудование', 'language': 'Язык', 'cost': 'Стоимость', 'scope': 'Масштаб',
+    'level': 'Уровень', 'importance_reason': 'Причина приоритета', 'reward': 'Результат / приз',
+    'priority': 'Приоритет', 'action': 'Следующий шаг', 'source': 'Официальный источник',
+    'references': 'Связанные источники', 'proof': 'Основание проверки', 'checked': 'Дата проверки',
+    'status': 'Статус', 'note': 'Примечания', 'themes': 'Тематики', 'languages': 'Языки',
+    'language_certainty': 'Подтверждение языка', 'iso': 'Код страны ISO', 'provider': 'Организатор',
+    'name': 'Название', 'programme': 'Программа', 'place': 'Место', 'accommodation': 'Проживание',
+    'price': 'Цена и условия', 'family_fit': 'Условия для семьи', 'timing': 'Расписание',
+    'sources': 'Официальные источники', 'pairing': 'Совпадение групп по времени и месту',
+    'questions': 'Открытые вопросы', 'school_type': 'Тип школы', 'results': 'Результаты',
+    'requirements': 'Требования', 'age_rule': 'Правило расчёта возраста', 'age_range': 'Возрастной диапазон',
+    'format_rule': 'Условия формата', 'entry_route': 'Путь участия', 'availability': 'Доступность',
+    'evidence_level': 'Уровень подтверждения', 'venue': 'Площадка', 'team_min': 'Минимум участников',
+    'team_max': 'Максимум участников', 'date_scope': 'Назначение периода', 'language_mode': 'Роль языка',
+    'visitor_policy': 'Правила посещения', 'adult_entry': 'Вход для взрослых', 'child_entry': 'Вход для детей',
+    'family_visit': 'Семейное посещение', 'registration_url': 'Ссылка на регистрацию',
+    'sessions': 'Смены / занятия', 'public_days': 'Дни доступа публики', 'timezone': 'Часовой пояс',
+    'start_time': 'Время начала', 'end_time': 'Время окончания', 'curriculum': 'Учебная программа',
+    'ib_programmes': 'Программы IB', 'ages': 'Возраст', 'instruction_languages': 'Языки обучения',
+    'boarding': 'Пансион', 'labs': 'Лаборатории', 'ai': 'Искусственный интеллект',
+    'admissions': 'Поступление', 'research_status': 'Статус исследования', 'url': 'Ссылка',
+    'coverage': 'Покрытие', 'group': 'Группа', 'age_summary': 'Возрастные категории',
+    'summary': 'Описание', 'categories': 'Категории', 'event_ids': 'ID мероприятий',
+    'route': 'Маршрут', 'hardware': 'Техника', 'importance': 'Значимость', 'strengths': 'Сильные стороны',
+    'nuances': 'Особенности и условия', 'award': 'Награда', 'slug': 'Стабильный идентификатор',
+    'formats': 'Форматы', 'confirmed_instruction_languages': 'Подтверждённые языки занятий',
+    'materials_languages': 'Языки материалов', 'shortlist': 'Семейная подборка',
+    'network': 'Сеть', 'division': 'Дивизион', 'season': 'Сезон',
+}
+
+
+def workbook_sheets(data, language):
+    if language == 'ru':
+        blocks = ('Соревнования', 'События', 'Лагеря')
+        names = ('Соревнования', 'Выставки и события', 'Лагеря и курсы', 'Досье лагерей',
+                 'Лиги', 'Школы', 'Страны', 'Национальные маршруты')
+    else:
+        blocks = ('Competiciones', 'Eventos', 'Campamentos')
+        names = ('Competiciones', 'Eventos y exposiciones', 'Campamentos y cursos',
+                 'Fichas de campamentos', 'Ligas', 'Colegios', 'Países', 'Vías nacionales')
+    events = [[row for row in data['events'] if row['block'] == block] for block in blocks]
+    assert sum(map(len, events)) == len(data['events']), 'Workbook is missing an event block'
+    return list(zip(names, (*events, data['camp_programmes']['profiles'],
+                            data['league_guide']['profiles'], data['schools'], data['countries'],
+                            data['national_routes']['routes'])))
+
+
+def write_workbook(path,data,language):
+    groups = workbook_sheets(data, language)
+    headers = RUSSIAN_HEADERS if language == 'ru' else HEADERS
+    part_label = 'часть' if language == 'ru' else 'parte'
+    ns = SPREADSHEET_NS
     contents={}
     for sheet,(name,rows) in enumerate(groups,1):
         keys=list(dict.fromkeys(k for row in rows for k in row))
         if 'id' in keys:keys.remove('id');keys.insert(0,'id')
         expanded=[]
-        assert not set(keys)-HEADERS.keys(), 'Add Spanish workbook headers: '+repr(sorted(set(keys)-HEADERS.keys()))
+        if language == 'es':
+            assert not set(keys)-headers.keys(), 'Add Spanish workbook headers: '+repr(sorted(set(keys)-headers.keys()))
         def value(row,key):
             x=row.get(key,'');return json.dumps(x,ensure_ascii=False) if isinstance(x,(dict,list)) else str(x)
         for key in keys:
@@ -109,7 +166,7 @@ def write_workbook(path,data):
         for index,row in enumerate([None,*rows],1):
             xml.append(f'<row r="{index}">')
             for c,(key,part) in enumerate(expanded,1):
-                text=(HEADERS.get(key,key)+(f' (parte {part+1})' if part else '')) if row is None else value(row,key)[part*32700:(part+1)*32700]
+                text=(headers.get(key,key)+(f' ({part_label} {part+1})' if part else '')) if row is None else value(row,key)[part*32700:(part+1)*32700]
                 text=''.join(ch for ch in text if ch in '\n\t\r' or ord(ch)>=32)
                 xml.append(f'<c r="{column(c)}{index}" t="inlineStr"><is><t xml:space="preserve">{escape(text)}</t></is></c>')
             xml.append('</row>')
@@ -124,3 +181,22 @@ def write_workbook(path,data):
         for name,body in sorted(contents.items()):
             info=zipfile.ZipInfo(name,date_time=(2026,1,1,0,0,0));info.compress_type=zipfile.ZIP_DEFLATED;z.writestr(info,'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'+body)
     return {name:len(rows) for name,rows in groups}
+
+
+def verify_workbook(path, data, language):
+    groups = workbook_sheets(data, language)
+    with zipfile.ZipFile(path) as archive:
+        assert archive.testzip() is None, path
+        sheets = ET.fromstring(archive.read('xl/workbook.xml')).findall('x:sheets/x:sheet', NS)
+        assert [sheet.attrib['name'] for sheet in sheets] == [name for name, _ in groups], path
+        for index, (name, rows) in enumerate(groups, 1):
+            identity = 'id' if any('id' in row for row in rows) else next(iter(rows[0]), None) if rows else None
+            expected = [str(row.get(identity, '')) for row in rows]
+            with archive.open(f'xl/worksheets/sheet{index}.xml') as sheet:
+                actual = []
+                for _, element in ET.iterparse(sheet, events=('end',)):
+                    if element.tag == f'{{{SPREADSHEET_NS}}}row':
+                        if element.attrib['r'] != '1':
+                            actual.append(element.findtext('x:c/x:is/x:t', namespaces=NS))
+                        element.clear()
+            assert actual == expected, (path, name, len(actual), len(expected))
