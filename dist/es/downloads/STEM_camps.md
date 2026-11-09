@@ -86902,6 +86902,342 @@ Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja
 Fuente: https://www.richereducation.co.uk/face-to-face-science-summer-camp/
 Se ha comprobado: 2026-11-08
 
+### CP2179-20270121-20270122-winter · PCCU · Maker Power · Dream Inventors · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 6500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KBQB6010
+Se ha comprobado: 2026-11-08
+
+### CP2180-20270121-20270122-winter · PCCU · 3D Printing · Cleaning Robot · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 6667 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCMB6010
+Se ha comprobado: 2026-11-08
+
+### CP2181-20270121-20270122-winter · PCCU · Science Experiment · Toy Box · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 5500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KS2B6010
+Se ha comprobado: 2026-11-08
+
+### CP2182-20270121-20270122-winter · PCCU · Pokémon Card Game Camp · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 2–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 5200 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCEB6010
+Se ha comprobado: 2026-11-08
+
+### CP2183-20270121-20270122-winter · PCCU · Minecraft Game Design · Beginner · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 5000 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KE2B6010
+Se ha comprobado: 2026-11-08
+
+### CP2184-20270121-20270122-winter · PCCU · S.E.E. · Discover Japan · Winter 2027 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-21 国 2027-01-22
+edad: La ficha indica desde el último curso de infantil hasta 4 de primaria. La tabla de inscripción indica grados 4–6. Solo coincide el grado 4. Confirmar admisión antes de pagar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La organización indica expresamente que todas las actividades se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 6700 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+Limitaciones: Matvey: Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares. Oscar: Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares. Suplementos: La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte. Pago: La ficha muestra matrícula promocional de TWD 5320. Con materiales obligatorios son TWD 6420. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KDFB6012
+Se ha comprobado: 2026-11-08
+
+### CP2185-20270125-20270129-winter · PCCU · Dora AI · Future Explorers · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–4 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 6700 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KDDB6010
+Se ha comprobado: 2026-11-08
+
+### CP2186-20270125-20270129-winter · PCCU · Roblox · Parkour Design · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 7200 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KAXB6010
+Se ha comprobado: 2026-11-08
+
+### CP2187-20270125-20270129-winter · PCCU · Science Experiment · Aviation · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 7000 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KS2B6011
+Se ha comprobado: 2026-11-08
+
+### CP2188-20270125-20270129-winter · PCCU · Digital Drawing · LINE Stickers · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 5500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3K09B6010
+Se ha comprobado: 2026-11-08
+
+### CP2189-20270125-20270129-winter · PCCU · KangaCode · Python Game Adventure · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 4–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 6800 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://cecntqb2.sce.pccu.edu.tw/campRegister/
+Se ha comprobado: 2026-11-08
+
+### CP2190-20270125-20270129-winter · PCCU · AI Creative Studio · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 13500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 500. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCUB6010
+Se ha comprobado: 2026-11-08
+
+### CP2191-20270125-20270129-winter · PCCU · S.E.E. · Future Dreamers · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Da’an
+Fecha: 2027-01-25 国 2027-01-29
+edad: Desde el último curso de infantil hasta 4 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La organización indica expresamente que todas las actividades se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · TWD 12800 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+Limitaciones: Matvey: Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede. Oscar: Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede. Suplementos: La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte. Pago: La ficha muestra matrícula promocional de TWD 12160. Con materiales obligatorios son TWD 12160. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KDFB6010
+Se ha comprobado: 2026-11-08
+
+### CP2192-20270201-20270203-winter · PCCU · Crazy Scientists · Winter 2027 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–3 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 4100 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3K19B6020
+Se ha comprobado: 2026-11-08
+
+### CP2193-20270201-20270203-winter · PCCU · Pokémon Science Adventure · Winter 2027 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-02-01 国 2027-02-03
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 8100 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCLB6020
+Se ha comprobado: 2026-11-08
+
+### CP2194-20270201-20270203-winter · PCCU · Aircraft Makers · Winter 2027 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-02-01 国 2027-02-03
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 7800 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCZB6020
+Se ha comprobado: 2026-11-08
+
+### CP2195-20270201-20270203-winter · PCCU · Board Games · Story Lab · Winter 2027 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Chinese Culture University SCE · Taipei Jianguo
+Fecha: 2027-02-01 国 2027-02-03
+edad: Todos los cursos de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 6450 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo. Pago: Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+Fuente: https://www.sce.pccu.edu.tw/courses/3KCTB6020
+Se ha comprobado: 2026-11-08
+
+### CP2196-20270125-20270129-winter · PCCU · Taichung AI Creators · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 3–6 de primaria. Cotejar el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Documentación en chino. No se confirma enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 4800 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar curso escolar, plaza y documentos para un menor extranjero.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.sce.pccu.edu.tw/courses/0FCLB6010
+Se ha comprobado: 2026-11-08
+
+### CP2197-20270125-20270129-winter · Yuan T. Lee Foundation · Science Winter Camp · 1–2 · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–2 de primaria según el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 11500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Condicional según el curso escolar actual y el idioma de enseñanza. Suplementos: Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción. Pago: Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+Fuente: https://www.ytlee.org.tw/activity/2692
+Se ha comprobado: 2026-11-08
+
+### CP2198-20270125-20270129-winter · Yuan T. Lee Foundation · Science Winter Camp · 3–4 · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 3–4 de primaria según el curso actual.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 11500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+Limitaciones: Matvey: Condicional según el curso escolar actual y el idioma de enseñanza. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción. Pago: Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+Fuente: https://www.ytlee.org.tw/activity/2692
+Se ha comprobado: 2026-11-08
+
+### CP2199-20270125-20270129-winter · Yuan T. Lee Foundation · Science Winter Camp · 5–6 · Winter 2027 · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 5–6 de primaria según el curso actual.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · TWD 11500 por menor y sesión. · suplementos y condiciones en el dossier
+Acceso: Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+Limitaciones: Matvey: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Oscar: Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado. Suplementos: Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción. Pago: Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+Fuente: https://www.ytlee.org.tw/activity/2692
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

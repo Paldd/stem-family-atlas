@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2178,
+    "dossiers": 2199,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 600,
+      "published_2027": 621,
       "partial_2027": 156,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3110
+    "source_urls": 3133
   },
   "countries": [
     {
@@ -498,7 +498,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 176
+      "count": 197
     },
     {
       "country": "Trinidad y Tobago",
@@ -382347,6 +382347,3284 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2179",
+      "slug": "pccu-maker-power",
+      "provider": "PCCU · Maker Power · Dream Inventors",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Montaje práctico, experimentos con mecanismos y retos LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6500 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KBQB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Maker Power · Dream Inventors",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Maker Power · Dream Inventors",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6500 por menor y sesión.",
+        "included": "TWD 5000 de matrícula + TWD 1500 de materiales obligatorios = TWD 6500.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KBQB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2179-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2180",
+      "slug": "pccu-3d-cleaning-robot",
+      "provider": "PCCU · 3D Printing · Cleaning Robot",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "El menor monta un animal mecánico con módulo de barrido y piezas para impresión 3D.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6667 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCMB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · 3D Printing · Cleaning Robot",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · 3D Printing · Cleaning Robot",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6667,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6667 por menor y sesión.",
+        "included": "TWD 5000 de matrícula + TWD 1667 de materiales obligatorios = TWD 6667.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCMB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2180-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2181",
+      "slug": "pccu-science-toy-box",
+      "provider": "PCCU · Science Experiment · Toy Box",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Experimentos con burbujas y creación de juguetes científicos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5500 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KS2B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Science Experiment · Toy Box",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Science Experiment · Toy Box",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5500 por menor y sesión.",
+        "included": "TWD 4000 de matrícula + TWD 1500 de materiales obligatorios = TWD 5500.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KS2B6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2181-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2182",
+      "slug": "pccu-pokemon-card-games",
+      "provider": "PCCU · Pokémon Card Game Camp",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 2–6 de primaria. Cotejar el curso actual.",
+      "programme": "Sesión formativa sobre reglas y estrategia de Pokémon TCG. Los materiales incluyen cartas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5200 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCEB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Pokémon Card Game Camp",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Pokémon Card Game Camp",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5200,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5200 por menor y sesión.",
+        "included": "TWD 4000 de matrícula + TWD 1200 de materiales obligatorios = TWD 5200.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCEB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2182-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2183",
+      "slug": "pccu-minecraft-beginner",
+      "provider": "PCCU · Minecraft Game Design · Beginner",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "Diseño inicial de mundos de Minecraft. Se exigen nociones de informática.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5000 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KE2B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Minecraft Game Design · Beginner",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Minecraft Game Design · Beginner",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5000,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5000 por menor y sesión.",
+        "included": "TWD 5000 de matrícula. No se indica cargo separado por materiales.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KE2B6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2183-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2184",
+      "slug": "pccu-see-discover-japan",
+      "provider": "PCCU · S.E.E. · Discover Japan",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "La ficha indica desde el último curso de infantil hasta 4 de primaria. La tabla de inscripción indica grados 4–6. Solo coincide el grado 4. Confirmar admisión antes de pagar.",
+      "programme": "Sesión cultural en inglés con construcción creativa LEGO y juegos de roles.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente que todas las actividades se imparten en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6700 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDFB6012",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · S.E.E. · Discover Japan",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · S.E.E. · Discover Japan",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+            "questions": [
+              "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "La organización indica expresamente que todas las actividades se imparten en inglés."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6700,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6700 por menor y sesión.",
+        "included": "TWD 5600 de matrícula + TWD 1100 de materiales obligatorios = TWD 6700.",
+        "extras": "La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte.",
+        "deposit": "La ficha muestra matrícula promocional de TWD 5320. Con materiales obligatorios son TWD 6420. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares."
+        }
+      },
+      "editorial_reason": "La ficha indica desde el último curso de infantil hasta 4 de primaria. La tabla de inscripción indica grados 4–6. Solo coincide el grado 4. Confirmar admisión antes de pagar.",
+      "shortlist": [],
+      "questions": [
+        "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "La organización indica expresamente que todas las actividades se imparten en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDFB6012",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "languages",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2184-20270121-20270122-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2185",
+      "slug": "pccu-dora-ai-exploration",
+      "provider": "PCCU · Dora AI · Future Explorers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 1–4 de primaria. Cotejar el curso actual.",
+      "programme": "Introducción a la IA con imágenes, voz, reconocimiento y proyectos creativos con LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 6700 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDDB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6700,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6700 por menor y sesión.",
+        "included": "TWD 5200 de matrícula + TWD 1500 de materiales obligatorios = TWD 6700.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDDB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2185-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2186",
+      "slug": "pccu-roblox-parkour",
+      "provider": "PCCU · Roblox · Parkour Design",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "El menor diseña su propio parkour en Roblox. Se indica una licencia de materiales en la nube.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 7200 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KAXB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7200,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7200 por menor y sesión.",
+        "included": "TWD 6200 de matrícula + TWD 1000 de materiales obligatorios = TWD 7200.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KAXB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2186-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2187",
+      "slug": "pccu-aviation-experiments",
+      "provider": "PCCU · Science Experiment · Aviation",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Experimentos de ingeniería por la tarde con vuelo y modelos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 7000 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KS2B6011",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7000,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7000 por menor y sesión.",
+        "included": "TWD 5200 de matrícula + TWD 1800 de materiales obligatorios = TWD 7000.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KS2B6011",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2187-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2188",
+      "slug": "pccu-line-digital-design",
+      "provider": "PCCU · Digital Drawing · LINE Stickers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "Dibujo digital y creación de una serie de stickers de LINE.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 5500 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3K09B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5500 por menor y sesión.",
+        "included": "TWD 5500 de matrícula. No se indica cargo separado por materiales.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3K09B6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2188-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2189",
+      "slug": "pccu-kangacode-python",
+      "provider": "PCCU · KangaCode · Python Game Adventure",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 4–6 de primaria. Cotejar el curso actual.",
+      "programme": "Python inicial con retos de juego. La ficha carece de detalles. Horario y tarifa figuran en la tabla de inscripción.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 6800 por menor y sesión.",
+            "source": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.",
+            "questions": [
+              "La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6800 por menor y sesión.",
+        "included": "TWD 6800 de matrícula. No se indica cargo separado por materiales.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCPB6011",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2189-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2190",
+      "slug": "pccu-generative-ai-studio",
+      "provider": "PCCU · AI Creative Studio",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "IA generativa para presentadores virtuales, animación, ilustración y música.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 13500 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCUB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 13500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 13500 por menor y sesión.",
+        "included": "TWD 13500 de matrícula. No se indica cargo separado por materiales.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 500. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCUB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2190-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2191",
+      "slug": "pccu-see-future-dreamers",
+      "provider": "PCCU · S.E.E. · Future Dreamers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Da’an",
+      "age": "Desde el último curso de infantil hasta 4 de primaria. Cotejar el curso actual.",
+      "programme": "Sesión general en inglés con juegos de roles sobre profesiones, actividades creativas y actividad física.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente que todas las actividades se imparten en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 12800 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDFB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Da’an",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+            "questions": [
+              "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "La organización indica expresamente que todas las actividades se imparten en inglés."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 12800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 12800 por menor y sesión.",
+        "included": "TWD 12800 de matrícula. No se indica cargo separado por materiales.",
+        "extras": "La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte.",
+        "deposit": "La ficha muestra matrícula promocional de TWD 12160. Con materiales obligatorios son TWD 12160. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "La organización indica expresamente que todas las actividades se imparten en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDFB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2191-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2192",
+      "slug": "pccu-crazy-scientists",
+      "provider": "PCCU · Crazy Scientists",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Grados 1–3 de primaria. Cotejar el curso actual.",
+      "programme": "Programa vespertino de experimentos científicos prácticos para los primeros grados.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, de 13:30 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 4100 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3K19B6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4100,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 4100 por menor y sesión.",
+        "included": "TWD 3200 de matrícula + TWD 900 de materiales obligatorios = TWD 4100.",
+        "extras": "Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, de 13:30 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3K19B6020",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2192-20270201-20270203-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2193",
+      "slug": "pccu-pokemon-science",
+      "provider": "PCCU · Pokémon Science Adventure",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Experimentos científicos con historias de Pokémon y actividades prácticas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 8100 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCLB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8100,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 8100 por menor y sesión.",
+        "included": "TWD 6300 de matrícula + TWD 1800 de materiales obligatorios = TWD 8100.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCLB6020",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2193-20270201-20270203-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2194",
+      "slug": "pccu-aircraft-makers",
+      "provider": "PCCU · Aircraft Makers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Construcción de modelos de aeronaves y prueba práctica de su funcionamiento.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 7800 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCZB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7800 por menor y sesión.",
+        "included": "TWD 6600 de matrícula + TWD 1200 de materiales obligatorios = TWD 7800.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCZB6020",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2194-20270201-20270203-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2195",
+      "slug": "pccu-board-game-stories",
+      "provider": "PCCU · Board Games · Story Lab",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Todos los cursos de primaria. Cotejar el curso actual.",
+      "programme": "Juegos de mesa, lectura y creación de historias propias.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 6450 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCTB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+            "questions": [
+              "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6450,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6450 por menor y sesión.",
+        "included": "TWD 6000 de matrícula + TWD 450 de materiales obligatorios = TWD 6450.",
+        "extras": "La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.",
+        "deposit": "Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.",
+      "shortlist": [],
+      "questions": [
+        "La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCTB6020",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2195-20270201-20270203-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2196",
+      "slug": "pccu-taichung-ai-creators",
+      "provider": "PCCU · Taichung AI Creators",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung",
+      "age": "Grados 3–6 de primaria. Cotejar el curso actual.",
+      "programme": "Los menores prueban ChatGPT, DALL·E 3 y Canva, y crean un cuento ilustrado, un vídeo y una página del proyecto.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Documentación en chino. No se confirma enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 4800 por menor y sesión.",
+            "source": "https://www.sce.pccu.edu.tw/courses/0FCLB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+            "questions": [
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Documentación en chino. No se confirma enseñanza en inglés o español."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 4800 por menor y sesión.",
+        "included": "Precio base TWD 4800. La ficha muestra TWD 4224. Confirmar plazo y aplicación de la promoción.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Documentación en chino. No se confirma enseñanza en inglés o español."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/0FCLB6010",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2196-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2197",
+      "slug": "ytlee-taipei-winter-grades-1-2",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "Grados 1–2 de primaria según el curso actual.",
+      "programme": "Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 por menor y sesión.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "waitlist",
+              "label": "El grupo principal está completo. Se puede solicitar entrar en la lista de espera."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+            "questions": [
+              "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 por menor y sesión.",
+        "included": "Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.",
+        "extras": "Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.",
+        "deposit": "Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        }
+      },
+      "editorial_reason": "El grupo principal está completo. Se puede solicitar entrar en la lista de espera.",
+      "shortlist": [],
+      "questions": [
+        "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "waitlist",
+        "label": "El grupo principal está completo. Se puede solicitar entrar en la lista de espera."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2197-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2198",
+      "slug": "ytlee-taipei-winter-grades-3-4",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "Grados 3–4 de primaria según el curso actual.",
+      "programme": "Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 por menor y sesión.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "open",
+              "label": "La tabla indica que el grupo admite solicitudes. La admisión y el pago se confirman aparte."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+            "questions": [
+              "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 por menor y sesión.",
+        "included": "Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.",
+        "extras": "Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.",
+        "deposit": "Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional según el curso escolar actual y el idioma de enseñanza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "La tabla indica que el grupo admite solicitudes. La admisión y el pago se confirman aparte.",
+      "shortlist": [],
+      "questions": [
+        "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "open",
+        "label": "La tabla indica que el grupo admite solicitudes. La admisión y el pago se confirman aparte."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2198-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2199",
+      "slug": "ytlee-taipei-winter-grades-5-6",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "Grados 5–6 de primaria según el curso actual.",
+      "programme": "Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 por menor y sesión.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "La organización marca el grupo como completo."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+            "questions": [
+              "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+              "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+              "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 por menor y sesión.",
+        "included": "Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.",
+        "extras": "Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.",
+        "deposit": "Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado."
+        }
+      },
+      "editorial_reason": "La organización marca el grupo como completo.",
+      "shortlist": [],
+      "questions": [
+        "Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.",
+        "Confirmar curso escolar, plaza y documentos para un menor extranjero.",
+        "Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "La organización marca el grupo como completo."
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2199-20270125-20270129-winter"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -387672,7 +390950,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 325,
+  "version": 327,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -400907,7 +404185,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2178,
+      "total_dossiers": 2199,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -425307,6 +428585,111 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2179",
+      "event_id": "CP2179-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2180",
+      "event_id": "CP2180-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2181",
+      "event_id": "CP2181-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2182",
+      "event_id": "CP2182-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2183",
+      "event_id": "CP2183-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2184",
+      "event_id": "CP2184-20270121-20270122-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2185",
+      "event_id": "CP2185-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2186",
+      "event_id": "CP2186-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2187",
+      "event_id": "CP2187-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2188",
+      "event_id": "CP2188-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2189",
+      "event_id": "CP2189-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2190",
+      "event_id": "CP2190-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2191",
+      "event_id": "CP2191-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2192",
+      "event_id": "CP2192-20270201-20270203-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2193",
+      "event_id": "CP2193-20270201-20270203-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2194",
+      "event_id": "CP2194-20270201-20270203-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2195",
+      "event_id": "CP2195-20270201-20270203-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2196",
+      "event_id": "CP2196-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2197",
+      "event_id": "CP2197-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2198",
+      "event_id": "CP2198-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2199",
+      "event_id": "CP2199-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -430305,10 +433688,31 @@
     "CP2176-20270712-20270716-v23576",
     "CP2176-20270719-20270723-v23575",
     "CP2176-20270726-20270730-v23574",
-    "CP2176-20270802-20270806-v23573"
+    "CP2176-20270802-20270806-v23573",
+    "CP2179-20270121-20270122-winter",
+    "CP2180-20270121-20270122-winter",
+    "CP2181-20270121-20270122-winter",
+    "CP2182-20270121-20270122-winter",
+    "CP2183-20270121-20270122-winter",
+    "CP2184-20270121-20270122-winter",
+    "CP2185-20270125-20270129-winter",
+    "CP2186-20270125-20270129-winter",
+    "CP2187-20270125-20270129-winter",
+    "CP2188-20270125-20270129-winter",
+    "CP2189-20270125-20270129-winter",
+    "CP2190-20270125-20270129-winter",
+    "CP2191-20270125-20270129-winter",
+    "CP2192-20270201-20270203-winter",
+    "CP2193-20270201-20270203-winter",
+    "CP2194-20270201-20270203-winter",
+    "CP2195-20270201-20270203-winter",
+    "CP2196-20270125-20270129-winter",
+    "CP2197-20270125-20270129-winter",
+    "CP2198-20270125-20270129-winter",
+    "CP2199-20270125-20270129-winter"
   ],
   "integration": {
-    "generated_sessions": 4588,
+    "generated_sessions": 4609,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2178 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-08. 2199 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -172733,6 +172733,1518 @@ España · Alicante
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://aikidsclub.org/es) · 2026-11-08
+
+## CP2179 · PCCU · Maker Power · Dream Inventors
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Montaje práctico, experimentos con mecanismos y retos LEGO.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 6500 por menor y sesión.
+
+**Incluido:** TWD 5000 de matrícula + TWD 1500 de materiales obligatorios = TWD 6500.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6500 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · Maker Power · Dream Inventors
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · Maker Power · Dream Inventors
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KBQB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KBQB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2180 · PCCU · 3D Printing · Cleaning Robot
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** El menor monta un animal mecánico con módulo de barrido y piezas para impresión 3D.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 6667 por menor y sesión.
+
+**Incluido:** TWD 5000 de matrícula + TWD 1667 de materiales obligatorios = TWD 6667.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6667 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · 3D Printing · Cleaning Robot
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · 3D Printing · Cleaning Robot
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCMB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCMB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2181 · PCCU · Science Experiment · Toy Box
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Experimentos con burbujas y creación de juguetes científicos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 5500 por menor y sesión.
+
+**Incluido:** TWD 4000 de matrícula + TWD 1500 de materiales obligatorios = TWD 5500.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 5500 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · Science Experiment · Toy Box
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · Science Experiment · Toy Box
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KS2B6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KS2B6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2182 · PCCU · Pokémon Card Game Camp
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 2–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Sesión formativa sobre reglas y estrategia de Pokémon TCG. Los materiales incluyen cartas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 5200 por menor y sesión.
+
+**Incluido:** TWD 4000 de matrícula + TWD 1200 de materiales obligatorios = TWD 5200.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 5200 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · Pokémon Card Game Camp
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · Pokémon Card Game Camp
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCEB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCEB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2183 · PCCU · Minecraft Game Design · Beginner
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Diseño inicial de mundos de Minecraft. Se exigen nociones de informática.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 5000 por menor y sesión.
+
+**Incluido:** TWD 5000 de matrícula. No se indica cargo separado por materiales.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 200. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 5000 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · Minecraft Game Design · Beginner
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · Minecraft Game Design · Beginner
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KE2B6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KE2B6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2184 · PCCU · S.E.E. · Discover Japan
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La ficha indica desde el último curso de infantil hasta 4 de primaria. La tabla de inscripción indica grados 4–6. Solo coincide el grado 4. Confirmar admisión antes de pagar.
+
+**Idioma:** La organización indica expresamente que todas las actividades se imparten en inglés.
+
+**Programa:** Sesión cultural en inglés con construcción creativa LEGO y juegos de roles.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 6700 por menor y sesión.
+
+**Incluido:** TWD 5600 de matrícula + TWD 1100 de materiales obligatorios = TWD 6700.
+
+**Suplementos:** La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte.
+
+**Pago:** La ficha muestra matrícula promocional de TWD 5320. Con materiales obligatorios son TWD 6420. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares.
+
+**Oscar:** Admisión sin determinar: dos fuentes oficiales difieren en los cursos escolares.
+
+**Motivo de la selección:** La ficha indica desde el último curso de infantil hasta 4 de primaria. La tabla de inscripción indica grados 4–6. Solo coincide el grado 4. Confirmar admisión antes de pagar.
+
+### Antes de solicitar plaza
+
+- La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- La organización indica expresamente que todas las actividades se imparten en inglés.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6700 por menor y sesión.
+
+**condiciones de participación:** La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- 2027-01-21 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Discover Japan
+
+- 2027-01-22 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Discover Japan
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- La organización indica expresamente que todas las actividades se imparten en inglés.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KDFB6012)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KDFB6012) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2185 · PCCU · Dora AI · Future Explorers
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–4 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Introducción a la IA con imágenes, voz, reconocimiento y proyectos creativos con LEGO.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+**Precio / año:** 2027 · TWD 6700 por menor y sesión.
+
+**Incluido:** TWD 5200 de matrícula + TWD 1500 de materiales obligatorios = TWD 6700.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6700 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · PCCU · Dora AI · Future Explorers
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · PCCU · Dora AI · Future Explorers
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · PCCU · Dora AI · Future Explorers
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · PCCU · Dora AI · Future Explorers
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · PCCU · Dora AI · Future Explorers
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KDDB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KDDB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2186 · PCCU · Roblox · Parkour Design
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza.
+
+**Programa:** El menor diseña su propio parkour en Roblox. Se indica una licencia de materiales en la nube.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+**Precio / año:** 2027 · TWD 7200 por menor y sesión.
+
+**Incluido:** TWD 6200 de matrícula + TWD 1000 de materiales obligatorios = TWD 7200.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 7200 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · PCCU · Roblox · Parkour Design
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · PCCU · Roblox · Parkour Design
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · PCCU · Roblox · Parkour Design
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · PCCU · Roblox · Parkour Design
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · PCCU · Roblox · Parkour Design
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- El programa indica usar la interfaz en chino y exige teclear en chino e inglés. Confirmar el idioma de enseñanza.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KAXB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KAXB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2187 · PCCU · Science Experiment · Aviation
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Experimentos de ingeniería por la tarde con vuelo y modelos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 7000 por menor y sesión.
+
+**Incluido:** TWD 5200 de matrícula + TWD 1800 de materiales obligatorios = TWD 7000.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 7000 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-25 · 13:30–16:30 · Asia/Taipei · PCCU · Science Experiment · Aviation
+
+- 2027-01-26 · 13:30–16:30 · Asia/Taipei · PCCU · Science Experiment · Aviation
+
+- 2027-01-27 · 13:30–16:30 · Asia/Taipei · PCCU · Science Experiment · Aviation
+
+- 2027-01-28 · 13:30–16:30 · Asia/Taipei · PCCU · Science Experiment · Aviation
+
+- 2027-01-29 · 13:30–16:30 · Asia/Taipei · PCCU · Science Experiment · Aviation
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KS2B6011)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KS2B6011) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2188 · PCCU · Digital Drawing · LINE Stickers
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Dibujo digital y creación de una serie de stickers de LINE.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 5500 por menor y sesión.
+
+**Incluido:** TWD 5500 de matrícula. No se indica cargo separado por materiales.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 5500 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-25 · 13:30–16:30 · Asia/Taipei · PCCU · Digital Drawing · LINE Stickers
+
+- 2027-01-26 · 13:30–16:30 · Asia/Taipei · PCCU · Digital Drawing · LINE Stickers
+
+- 2027-01-27 · 13:30–16:30 · Asia/Taipei · PCCU · Digital Drawing · LINE Stickers
+
+- 2027-01-28 · 13:30–16:30 · Asia/Taipei · PCCU · Digital Drawing · LINE Stickers
+
+- 2027-01-29 · 13:30–16:30 · Asia/Taipei · PCCU · Digital Drawing · LINE Stickers
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3K09B6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3K09B6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2189 · PCCU · KangaCode · Python Game Adventure
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 4–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Python inicial con retos de juego. La ficha carece de detalles. Horario y tarifa figuran en la tabla de inscripción.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 6800 por menor y sesión.
+
+**Incluido:** TWD 6800 de matrícula. No se indica cargo separado por materiales.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 13:30 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6800 por menor y sesión.
+
+**condiciones de participación:** La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.
+
+- 2027-01-25 · 13:30–16:30 · Asia/Taipei · PCCU · KangaCode · Python Game Adventure
+
+- 2027-01-26 · 13:30–16:30 · Asia/Taipei · PCCU · KangaCode · Python Game Adventure
+
+- 2027-01-27 · 13:30–16:30 · Asia/Taipei · PCCU · KangaCode · Python Game Adventure
+
+- 2027-01-28 · 13:30–16:30 · Asia/Taipei · PCCU · KangaCode · Python Game Adventure
+
+- 2027-01-29 · 13:30–16:30 · Asia/Taipei · PCCU · KangaCode · Python Game Adventure
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La sesión figura en la tabla oficial. Confirmar si la organización admite solicitudes para este grupo.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://cecntqb2.sce.pccu.edu.tw/campRegister/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCPB6011) · 2026-11-08
+
+## CP2190 · PCCU · AI Creative Studio
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza.
+
+**Programa:** IA generativa para presentadores virtuales, animación, ilustración y música.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 13500 por menor y sesión.
+
+**Incluido:** TWD 13500 de matrícula. No se indica cargo separado por materiales.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 500. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 13500 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-01-25 · 09:00–16:30 · Asia/Taipei · PCCU · AI Creative Studio
+
+- 2027-01-26 · 09:00–16:30 · Asia/Taipei · PCCU · AI Creative Studio
+
+- 2027-01-27 · 09:00–16:30 · Asia/Taipei · PCCU · AI Creative Studio
+
+- 2027-01-28 · 09:00–16:30 · Asia/Taipei · PCCU · AI Creative Studio
+
+- 2027-01-29 · 09:00–16:30 · Asia/Taipei · PCCU · AI Creative Studio
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Se exigen nociones de informática y tecleo en chino e inglés. Confirmar el idioma de enseñanza.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCUB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCUB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2191 · PCCU · S.E.E. · Future Dreamers
+
+Taiwán · Chinese Culture University SCE · Taipei Da’an
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Desde el último curso de infantil hasta 4 de primaria. Cotejar el curso actual.
+
+**Idioma:** La organización indica expresamente que todas las actividades se imparten en inglés.
+
+**Programa:** Sesión general en inglés con juegos de roles sobre profesiones, actividades creativas y actividad física.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 12800 por menor y sesión.
+
+**Incluido:** TWD 12800 de matrícula. No se indica cargo separado por materiales.
+
+**Suplementos:** La organización indica almuerzo diario. Transporte, alojamiento y otros gastos familiares aparte.
+
+**Pago:** La ficha muestra matrícula promocional de TWD 12160. Con materiales obligatorios son TWD 12160. Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede.
+
+**Oscar:** Inglés confirmado. Cotejar el curso escolar actual y la admisión en esta sede.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- La organización indica expresamente que todas las actividades se imparten en inglés.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · Taipei Da’an
+
+**Precio:** TWD 12800 por menor y sesión.
+
+**condiciones de participación:** La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- 2027-01-25 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Future Dreamers
+
+- 2027-01-26 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Future Dreamers
+
+- 2027-01-27 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Future Dreamers
+
+- 2027-01-28 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Future Dreamers
+
+- 2027-01-29 · 09:00–16:30 · Asia/Taipei · PCCU · S.E.E. · Future Dreamers
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La organización pide nombre chino, nombre y apellido en inglés y datos escolares correctos. Confirmar qué datos acepta para menores extranjeros.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- La organización indica expresamente que todas las actividades se imparten en inglés.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KDFB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KDFB6010) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2192 · PCCU · Crazy Scientists
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–3 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Programa vespertino de experimentos científicos prácticos para los primeros grados.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, de 13:30 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 4100 por menor y sesión.
+
+**Incluido:** TWD 3200 de matrícula + TWD 900 de materiales obligatorios = TWD 4100.
+
+**Suplementos:** Sesión de media jornada. Confirmar comida y supervisión fuera del horario indicado.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-02-01–2027-02-03, de 13:30 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 4100 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-02-01 · 13:30–16:30 · Asia/Taipei · PCCU · Crazy Scientists
+
+- 2027-02-02 · 13:30–16:30 · Asia/Taipei · PCCU · Crazy Scientists
+
+- 2027-02-03 · 13:30–16:30 · Asia/Taipei · PCCU · Crazy Scientists
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3K19B6020)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3K19B6020) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2193 · PCCU · Pokémon Science Adventure
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Experimentos científicos con historias de Pokémon y actividades prácticas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 8100 por menor y sesión.
+
+**Incluido:** TWD 6300 de matrícula + TWD 1800 de materiales obligatorios = TWD 8100.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 8100 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · PCCU · Pokémon Science Adventure
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · PCCU · Pokémon Science Adventure
+
+- 2027-02-03 · 09:00–16:30 · Asia/Taipei · PCCU · Pokémon Science Adventure
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCLB6020)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCLB6020) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2194 · PCCU · Aircraft Makers
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Construcción de modelos de aeronaves y prueba práctica de su funcionamiento.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 7800 por menor y sesión.
+
+**Incluido:** TWD 6600 de matrícula + TWD 1200 de materiales obligatorios = TWD 7800.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 7800 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · PCCU · Aircraft Makers
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · PCCU · Aircraft Makers
+
+- 2027-02-03 · 09:00–16:30 · Asia/Taipei · PCCU · Aircraft Makers
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCZB6020)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCZB6020) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2195 · PCCU · Board Games · Story Lab
+
+Taiwán · Chinese Culture University SCE · Taipei Jianguo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Todos los cursos de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Juegos de mesa, lectura y creación de historias propias.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+**Precio / año:** 2027 · TWD 6450 por menor y sesión.
+
+**Incluido:** TWD 6000 de matrícula + TWD 450 de materiales obligatorios = TWD 6450.
+
+**Suplementos:** La tabla de esta sesión separa el almuerzo a TWD 300. Confirmar si hace falta pedirlo.
+
+**Pago:** Confirmar descuento aplicable e importe final con la organización. Las condiciones de cancelación dependen del contrato de la sesión.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** 2027-02-01–2027-02-03, de 09:00 a 16:30 hora local.
+
+### Antes de solicitar plaza
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Chinese Culture University SCE · Taipei Jianguo
+
+**Precio:** TWD 6450 por menor y sesión.
+
+**condiciones de participación:** La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- 2027-02-01 · 09:00–16:30 · Asia/Taipei · PCCU · Board Games · Story Lab
+
+- 2027-02-02 · 09:00–16:30 · Asia/Taipei · PCCU · Board Games · Story Lab
+
+- 2027-02-03 · 09:00–16:30 · Asia/Taipei · PCCU · Board Games · Story Lab
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La ficha indica inscripción en oficina. Confirmar cómo inscribirse desde otro país y si hay plazas.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/3KCTB6020)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/3KCTB6020) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cecntqb2.sce.pccu.edu.tw/campRegister/) · 2026-11-08
+
+## CP2196 · PCCU · Taichung AI Creators
+
+Taiwán · Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–6 de primaria. Cotejar el curso actual.
+
+**Idioma:** Documentación en chino. No se confirma enseñanza en inglés o español.
+
+**Programa:** Los menores prueban ChatGPT, DALL·E 3 y Canva, y crean un cuento ilustrado, un vídeo y una página del proyecto.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+**Precio / año:** 2027 · TWD 4800 por menor y sesión.
+
+**Incluido:** Precio base TWD 4800. La ficha muestra TWD 4224. Confirmar plazo y aplicación de la promoción.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** 2027-01-25–2027-01-29, de 09:00 a 12:00 hora local.
+
+### Antes de solicitar plaza
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung
+
+**Precio:** TWD 4800 por menor y sesión.
+
+**condiciones de participación:** Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · PCCU · Taichung AI Creators
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · PCCU · Taichung AI Creators
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · PCCU · Taichung AI Creators
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · PCCU · Taichung AI Creators
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · PCCU · Taichung AI Creators
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Documentación en chino. No se confirma enseñanza en inglés o español.
+
+[fuente](https://www.sce.pccu.edu.tw/courses/0FCLB6010)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sce.pccu.edu.tw/courses/0FCLB6010) · 2026-11-08
+
+## CP2197 · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–2 de primaria según el curso actual.
+
+**Idioma:** Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+**Programa:** Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.
+
+**Precio / año:** 2027 · TWD 11500 por menor y sesión.
+
+**Incluido:** Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.
+
+**Suplementos:** Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.
+
+**Pago:** Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Motivo de la selección:** El grupo principal está completo. Se puede solicitar entrar en la lista de espera.
+
+### Antes de solicitar plaza
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Precio:** TWD 11500 por menor y sesión.
+
+**condiciones de participación:** Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- 2027-01-25 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+- 2027-01-26 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+- 2027-01-27 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+- 2027-01-28 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+- 2027-01-29 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 1–2
+
+**Disponibilidad de plazas:** El grupo principal está completo. Se puede solicitar entrar en la lista de espera.
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+[fuente](https://www.ytlee.org.tw/activity/2692)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/news/100) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692/registration) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment) · 2026-11-08
+
+## CP2198 · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–4 de primaria según el curso actual.
+
+**Idioma:** Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+**Programa:** Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.
+
+**Precio / año:** 2027 · TWD 11500 por menor y sesión.
+
+**Incluido:** Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.
+
+**Suplementos:** Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.
+
+**Pago:** Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+
+**Matvey:** Condicional según el curso escolar actual y el idioma de enseñanza.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** La tabla indica que el grupo admite solicitudes. La admisión y el pago se confirman aparte.
+
+### Antes de solicitar plaza
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Precio:** TWD 11500 por menor y sesión.
+
+**condiciones de participación:** Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- 2027-01-25 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+- 2027-01-26 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+- 2027-01-27 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+- 2027-01-28 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+- 2027-01-29 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 3–4
+
+**Disponibilidad de plazas:** La tabla indica que el grupo admite solicitudes. La admisión y el pago se confirman aparte.
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+[fuente](https://www.ytlee.org.tw/activity/2692)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/news/100) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692/registration) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment) · 2026-11-08
+
+## CP2199 · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 5–6 de primaria según el curso actual.
+
+**Idioma:** Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+**Programa:** Ciencia y matemáticas prácticas con experimentos y problemas. Los grupos se separan por tramos escolares.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, de 08:00 a 17:00 hora local.
+
+**Precio / año:** 2027 · TWD 11500 por menor y sesión.
+
+**Incluido:** Incluye almuerzo, merienda, equipo, materiales y seguro de la sede. Acogida hasta las 18:00 sin suplemento.
+
+**Suplementos:** Tarifa regular TWD 11500, promoción en la tabla y el folleto TWD 9800 por menor. Confirmar aplicación de la promoción.
+
+**Pago:** Pago dentro de 2 días tras el aviso de admisión. El folleto recoge condiciones específicas de devolución.
+
+**Matvey:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Oscar:** Grupo para escolares de cursos superiores. Reconsiderarlo al alcanzar el curso indicado.
+
+**Motivo de la selección:** La organización marca el grupo como completo.
+
+### Antes de solicitar plaza
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+### Winter 2027
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Taipei University of Business · 321 Jinan Road, Section 1, Taipei
+
+**Precio:** TWD 11500 por menor y sesión.
+
+**condiciones de participación:** Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- 2027-01-25 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+- 2027-01-26 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+- 2027-01-27 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+- 2027-01-28 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+- 2027-01-29 · 08:00–17:00 · Asia/Taipei · Yuan T. Lee Foundation · Science Winter Camp · 5–6
+
+**Disponibilidad de plazas:** La organización marca el grupo como completo.
+
+- Asignación según el curso actual. El formulario público ofrece la opción de indicar pasaporte. Confirmar equivalencia del curso de una escuela extranjera.
+
+- Confirmar curso escolar, plaza y documentos para un menor extranjero.
+
+- Reglas publicadas en chino. Confirmar idioma docente y posible apoyo en inglés.
+
+[fuente](https://www.ytlee.org.tw/activity/2692)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/news/100) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692/registration) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

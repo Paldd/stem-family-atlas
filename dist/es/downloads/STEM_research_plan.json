@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 326,
+    "version": 327,
     "status": "implementation_snapshot",
-    "events": 11297,
+    "events": 11319,
     "competitions": 5067,
     "league_profiles": 323,
-    "camp_dossiers": 2178,
+    "camp_dossiers": 2199,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 723,
+    "exhibitions_events": 724,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,11 +928,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 325,
+    "version": 326,
     "status": "implementation_snapshot",
-    "events": 11264,
-    "competitions": 5039,
-    "league_profiles": 321,
+    "events": 11297,
+    "competitions": 5067,
+    "league_profiles": 323,
     "camp_dossiers": 2178,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 718,
+    "exhibitions_events": 723,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 326,
+    "prepared_ui_version": 327,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 325,
-    "previous_verified_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223"
+    "previous_verified_ui_version": 326,
+    "previous_verified_commit": "c979b0b3e0706a73ce630358a7ad03fa1e9cc27a"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 325,
-    "published_version": 325,
-    "latest_source_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223",
-    "published_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223",
-    "latest_workflow": 42567014600,
+    "latest_source_version": 326,
+    "published_version": 326,
+    "latest_source_commit": "c979b0b3e0706a73ce630358a7ad03fa1e9cc27a",
+    "published_commit": "c979b0b3e0706a73ce630358a7ad03fa1e9cc27a",
+    "latest_workflow": 42569133015,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -34367,5 +34367,209 @@
     ],
     "organizer_calendar_rows": 14,
     "source_requests": 28
+  },
+  "taiwan_winter_university_and_science_v327": {
+    "version": 327,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "CP2179-20270121-20270122-winter",
+      "CP2180-20270121-20270122-winter",
+      "CP2181-20270121-20270122-winter",
+      "CP2182-20270121-20270122-winter",
+      "CP2183-20270121-20270122-winter",
+      "CP2184-20270121-20270122-winter",
+      "CP2185-20270125-20270129-winter",
+      "CP2186-20270125-20270129-winter",
+      "CP2187-20270125-20270129-winter",
+      "CP2188-20270125-20270129-winter",
+      "CP2189-20270125-20270129-winter",
+      "CP2190-20270125-20270129-winter",
+      "CP2191-20270125-20270129-winter",
+      "CP2192-20270201-20270203-winter",
+      "CP2193-20270201-20270203-winter",
+      "CP2194-20270201-20270203-winter",
+      "CP2195-20270201-20270203-winter",
+      "CP2196-20270125-20270129-winter",
+      "CP2197-20270125-20270129-winter",
+      "CP2198-20270125-20270129-winter",
+      "CP2199-20270125-20270129-winter",
+      "E724"
+    ],
+    "refreshed_event_ids": [],
+    "mexico_exhibition_id": "E724",
+    "new_dossier_ids": [
+      "CP2179",
+      "CP2180",
+      "CP2181",
+      "CP2182",
+      "CP2183",
+      "CP2184",
+      "CP2185",
+      "CP2186",
+      "CP2187",
+      "CP2188",
+      "CP2189",
+      "CP2190",
+      "CP2191",
+      "CP2192",
+      "CP2193",
+      "CP2194",
+      "CP2195",
+      "CP2196",
+      "CP2197",
+      "CP2198",
+      "CP2199"
+    ],
+    "new_learning_ids": [
+      "CP2179-20270121-20270122-winter",
+      "CP2180-20270121-20270122-winter",
+      "CP2181-20270121-20270122-winter",
+      "CP2182-20270121-20270122-winter",
+      "CP2183-20270121-20270122-winter",
+      "CP2184-20270121-20270122-winter",
+      "CP2185-20270125-20270129-winter",
+      "CP2186-20270125-20270129-winter",
+      "CP2187-20270125-20270129-winter",
+      "CP2188-20270125-20270129-winter",
+      "CP2189-20270125-20270129-winter",
+      "CP2190-20270125-20270129-winter",
+      "CP2191-20270125-20270129-winter",
+      "CP2192-20270201-20270203-winter",
+      "CP2193-20270201-20270203-winter",
+      "CP2194-20270201-20270203-winter",
+      "CP2195-20270201-20270203-winter",
+      "CP2196-20270125-20270129-winter",
+      "CP2197-20270125-20270129-winter",
+      "CP2198-20270125-20270129-winter",
+      "CP2199-20270125-20270129-winter"
+    ],
+    "pccu_dossier_ids": {
+      "pccuMaker": "CP2179",
+      "pccuRobot": "CP2180",
+      "pccuScience": "CP2181",
+      "pccuPokemon": "CP2182",
+      "pccuMinecraft": "CP2183",
+      "pccuEnglishJapan": "CP2184",
+      "pccuDoraAI": "CP2185",
+      "pccuRoblox": "CP2186",
+      "pccuAviation": "CP2187",
+      "pccuLineArt": "CP2188",
+      "pccuPython": "CP2189",
+      "pccuAICreative": "CP2190",
+      "pccuEnglishJobs": "CP2191",
+      "pccuFebScience": "CP2192",
+      "pccuFebPokemon": "CP2193",
+      "pccuFebFlight": "CP2194",
+      "pccuFebBoards": "CP2195",
+      "pccuTaichungAI": "CP2196"
+    },
+    "ytlee_dossier_ids": {
+      "grades-1-2": "CP2197",
+      "grades-3-4": "CP2198",
+      "grades-5-6": "CP2199"
+    },
+    "price_details": {
+      "CP2179": {
+        "base": 5000,
+        "required_materials": 1500,
+        "base_total": 6500
+      },
+      "CP2180": {
+        "base": 5000,
+        "required_materials": 1667,
+        "base_total": 6667
+      },
+      "CP2181": {
+        "base": 4000,
+        "required_materials": 1500,
+        "base_total": 5500
+      },
+      "CP2182": {
+        "base": 4000,
+        "required_materials": 1200,
+        "base_total": 5200
+      },
+      "CP2183": {
+        "base": 5000,
+        "required_materials": 0,
+        "base_total": 5000
+      },
+      "CP2184": {
+        "base": 5600,
+        "required_materials": 1100,
+        "base_total": 6700
+      },
+      "CP2185": {
+        "base": 5200,
+        "required_materials": 1500,
+        "base_total": 6700
+      },
+      "CP2186": {
+        "base": 6200,
+        "required_materials": 1000,
+        "base_total": 7200
+      },
+      "CP2187": {
+        "base": 5200,
+        "required_materials": 1800,
+        "base_total": 7000
+      },
+      "CP2188": {
+        "base": 5500,
+        "required_materials": 0,
+        "base_total": 5500
+      },
+      "CP2189": {
+        "base": 6800,
+        "required_materials": 0,
+        "base_total": 6800
+      },
+      "CP2190": {
+        "base": 13500,
+        "required_materials": 0,
+        "base_total": 13500
+      },
+      "CP2191": {
+        "base": 12800,
+        "required_materials": 0,
+        "base_total": 12800
+      },
+      "CP2192": {
+        "base": 3200,
+        "required_materials": 900,
+        "base_total": 4100
+      },
+      "CP2193": {
+        "base": 6300,
+        "required_materials": 1800,
+        "base_total": 8100
+      },
+      "CP2194": {
+        "base": 6600,
+        "required_materials": 1200,
+        "base_total": 7800
+      },
+      "CP2195": {
+        "base": 6000,
+        "required_materials": 450,
+        "base_total": 6450
+      },
+      "CP2196": {
+        "base": 4800,
+        "shown_promotional_tuition": 4224
+      }
+    },
+    "independent_same_brand_dossiers": {
+      "pccuEnglishJobs": "CP377",
+      "pccuEnglishJapan": "CP441"
+    },
+    "confirmed_english_dossier_ids": [
+      "CP2191",
+      "CP2184"
+    ],
+    "grade_conflict_dossier_id": "CP2184",
+    "source_requests": 26
   }
 }

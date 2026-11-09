@@ -5920,6 +5920,19 @@ Limitaciones: La organización anuncia 15 stands y demostraciones de IA aplicada
 Fuente: https://www.marketingup.mx/
 Se ha comprobado: 2026-11-08
 
+### E724 · Museo Franz Mayer · IA: Más que humano
+
+Fecha: 2026-10-09 — 2027-04-04
+edad: Recomendada a partir de 12 años. Los menores de 12 años pueden visitar la exposición con una persona adulta.
+Matvey: Sí, con acompañamiento de una persona adulta.
+Oscar: Sí, con acompañamiento de una persona adulta.
+Idioma: Descripción y entradas en español. Confirmar el idioma de los textos y las actividades interactivas.
+Acceso: Elegir turno con acompañamiento adulto y cotejar la entrada infantil según la edad el día de la visita.
+Precio: Entrada general MXN 180, reducida MXN 100 con credencial vigente. Entrada gratuita solo para menores de 6 años. Confirmar tarifa y comisiones al elegir fecha.
+Limitaciones: De martes a domingo, 10:00–17:00. El museo cierra los lunes. La página oficial de entradas permite elegir turno. Confirmar las condiciones de uso de las gafas Ray-Ban Meta.
+Fuente: https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

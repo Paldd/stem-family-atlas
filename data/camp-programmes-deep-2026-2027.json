@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2178,
+    "dossiers": 2199,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 600,
+      "published_2027": 621,
       "partial_2027": 156,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3110
+    "source_urls": 3133
   },
   "countries": [
     {
@@ -498,7 +498,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 176
+      "count": 197
     },
     {
       "country": "Тринидад и Тобаго",
@@ -330670,6 +330670,2942 @@
       "related_event_ids": [
         "L919"
       ]
+    },
+    {
+      "id": "CP2179",
+      "slug": "pccu-maker-power",
+      "provider": "PCCU · Maker Power · Dream Inventors",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Практическая сборка, опыты с механизмами и задания LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6500 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KBQB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Maker Power · Dream Inventors",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Maker Power · Dream Inventors",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6500 за ребёнка за смену.",
+        "included": "TWD 5000 обучение + TWD 1500 обязательные материалы = TWD 6500.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 200. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KBQB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2180",
+      "slug": "pccu-3d-cleaning-robot",
+      "provider": "PCCU · 3D Printing · Cleaning Robot",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Ребёнок собирает механического зверька с модулем подметания и деталями для 3D-печати.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6667 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCMB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · 3D Printing · Cleaning Robot",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · 3D Printing · Cleaning Robot",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6667,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6667 за ребёнка за смену.",
+        "included": "TWD 5000 обучение + TWD 1667 обязательные материалы = TWD 6667.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 200. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCMB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2181",
+      "slug": "pccu-science-toy-box",
+      "provider": "PCCU · Science Experiment · Toy Box",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Опыты с пузырями и изготовление научных игрушек.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5500 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KS2B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Science Experiment · Toy Box",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Science Experiment · Toy Box",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5500 за ребёнка за смену.",
+        "included": "TWD 4000 обучение + TWD 1500 обязательные материалы = TWD 5500.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 200. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KS2B6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2182",
+      "slug": "pccu-pokemon-card-games",
+      "provider": "PCCU · Pokémon Card Game Camp",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "2–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Учебная смена по правилам и стратегии Pokémon TCG. В материалы входит набор карт.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5200 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCEB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Pokémon Card Game Camp",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Pokémon Card Game Camp",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5200,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5200 за ребёнка за смену.",
+        "included": "TWD 4000 обучение + TWD 1200 обязательные материалы = TWD 5200.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 200. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCEB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2183",
+      "slug": "pccu-minecraft-beginner",
+      "provider": "PCCU · Minecraft Game Design · Beginner",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Начальный дизайн игровых миров Minecraft. Требуется базовая работа с компьютером.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 5000 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KE2B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · Minecraft Game Design · Beginner",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · Minecraft Game Design · Beginner",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5000,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5000 за ребёнка за смену.",
+        "included": "TWD 5000 за обучение. Отдельный сбор за материалы не указан.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 200. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KE2B6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2184",
+      "slug": "pccu-see-discover-japan",
+      "provider": "PCCU · S.E.E. · Discover Japan",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Карточка курса указывает старшую группу детского сада — 4 класс. Таблица записи указывает 4–6 классы. Совпадает только 4 класс. Допуск сверить до оплаты.",
+      "programme": "Англоязычная культурная смена с творческой сборкой LEGO и ролевыми заданиями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор прямо указывает полностью англоязычные занятия.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-21–2027-01-22, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Winter 2027",
+            "price": "TWD 6700 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDFB6012",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "PCCU · S.E.E. · Discover Japan",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "topic": "PCCU · S.E.E. · Discover Japan",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+            "questions": [
+              "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Организатор прямо указывает полностью англоязычные занятия."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6700,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6700 за ребёнка за смену.",
+        "included": "TWD 5600 обучение + TWD 1100 обязательные материалы = TWD 6700.",
+        "extras": "Организатор заявляет обед каждый день. Трансфер, проживание и прочие расходы семьи считаются отдельно.",
+        "deposit": "На странице показан льготный тариф обучения TWD 5320. С обязательными материалами это TWD 6420. Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Допуск не установлен: два официальных источника расходятся по школьным классам."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Допуск не установлен: два официальных источника расходятся по школьным классам."
+        }
+      },
+      "editorial_reason": "Карточка курса указывает старшую группу детского сада — 4 класс. Таблица записи указывает 4–6 классы. Совпадает только 4 класс. Допуск сверить до оплаты.",
+      "shortlist": [],
+      "questions": [
+        "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Организатор прямо указывает полностью англоязычные занятия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDFB6012",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "languages",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2185",
+      "slug": "pccu-dora-ai-exploration",
+      "provider": "PCCU · Dora AI · Future Explorers",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "1–4 классы начальной школы. Сверить текущий класс.",
+      "programme": "Знакомство с ИИ через изображения, голос, распознавание и творческие задания с LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 6700 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDDB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Dora AI · Future Explorers",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6700,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6700 за ребёнка за смену.",
+        "included": "TWD 5200 обучение + TWD 1500 обязательные материалы = TWD 6700.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDDB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2186",
+      "slug": "pccu-roblox-parkour",
+      "provider": "PCCU · Roblox · Parkour Design",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Ребёнок проектирует собственный паркур в Roblox. Указана лицензия на облачные материалы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "В программе предлагается китайский интерфейс и требуется набор на китайском и английском. Язык преподавания уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 7200 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KAXB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Roblox · Parkour Design",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "В программе предлагается китайский интерфейс и требуется набор на китайском и английском. Язык преподавания уточнить."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7200,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7200 за ребёнка за смену.",
+        "included": "TWD 6200 обучение + TWD 1000 обязательные материалы = TWD 7200.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "В программе предлагается китайский интерфейс и требуется набор на китайском и английском. Язык преподавания уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KAXB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2187",
+      "slug": "pccu-aviation-experiments",
+      "provider": "PCCU · Science Experiment · Aviation",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Послеобеденные инженерные опыты с полётом и моделями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 7000 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KS2B6011",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Science Experiment · Aviation",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7000,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7000 за ребёнка за смену.",
+        "included": "TWD 5200 обучение + TWD 1800 обязательные материалы = TWD 7000.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KS2B6011",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2188",
+      "slug": "pccu-line-digital-design",
+      "provider": "PCCU · Digital Drawing · LINE Stickers",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Цифровое рисование и создание серии стикеров LINE.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 5500 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3K09B6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Digital Drawing · LINE Stickers",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 5500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 5500 за ребёнка за смену.",
+        "included": "TWD 5500 за обучение. Отдельный сбор за материалы не указан.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3K09B6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2189",
+      "slug": "pccu-kangacode-python",
+      "provider": "PCCU · KangaCode · Python Game Adventure",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "4–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Начальный Python через игровые задания. Карточка курса без деталей, расписание и тариф в таблице записи.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 6800 за ребёнка за смену.",
+            "source": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · KangaCode · Python Game Adventure",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Смена указана в официальной таблице. Подтвердить, принимает ли оператор заявки на эту группу.",
+            "questions": [
+              "Смена указана в официальной таблице. Подтвердить, принимает ли оператор заявки на эту группу.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6800 за ребёнка за смену.",
+        "included": "TWD 6800 за обучение. Отдельный сбор за материалы не указан.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 13:30–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Смена указана в официальной таблице. Подтвердить, принимает ли оператор заявки на эту группу.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCPB6011",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2190",
+      "slug": "pccu-generative-ai-studio",
+      "provider": "PCCU · AI Creative Studio",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Генеративный ИИ для виртуального ведущего, анимации, иллюстраций и музыки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Требуется базовая работа с компьютером и набор текста на китайском и английском. Язык преподавания уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 13500 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCUB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · AI Creative Studio",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Требуется базовая работа с компьютером и набор текста на китайском и английском. Язык преподавания уточнить."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 13500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 13500 за ребёнка за смену.",
+        "included": "TWD 13500 за обучение. Отдельный сбор за материалы не указан.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 500. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Требуется базовая работа с компьютером и набор текста на китайском и английском. Язык преподавания уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCUB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2191",
+      "slug": "pccu-see-future-dreamers",
+      "provider": "PCCU · S.E.E. · Future Dreamers",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Da’an",
+      "age": "Старшая группа детского сада — 4 класс начальной школы. Сверить текущий класс.",
+      "programme": "Общая англоязычная смена с ролевыми профессиями, творческими заданиями и физической активностью.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор прямо указывает полностью англоязычные занятия.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 12800 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KDFB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Da’an",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · S.E.E. · Future Dreamers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+            "questions": [
+              "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Организатор прямо указывает полностью англоязычные занятия."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 12800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 12800 за ребёнка за смену.",
+        "included": "TWD 12800 за обучение. Отдельный сбор за материалы не указан.",
+        "extras": "Организатор заявляет обед каждый день. Трансфер, проживание и прочие расходы семьи считаются отдельно.",
+        "deposit": "На странице показан льготный тариф обучения TWD 12160. С обязательными материалами это TWD 12160. Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Английский подтверждён. Сверить фактический класс и допуск на эту площадку."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Английский подтверждён. Сверить фактический класс и допуск на эту площадку."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Организатор просит китайское имя, английское имя и фамилию и корректные данные школы. Уточнить, какие данные принимают у иностранных детей.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Организатор прямо указывает полностью англоязычные занятия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KDFB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2192",
+      "slug": "pccu-crazy-scientists",
+      "provider": "PCCU · Crazy Scientists",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "1–3 классы начальной школы. Сверить текущий класс.",
+      "programme": "Послеобеденная программа практических научных экспериментов для младших классов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, 13:30–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 4100 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3K19B6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Crazy Scientists",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4100,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 4100 за ребёнка за смену.",
+        "included": "TWD 3200 обучение + TWD 900 обязательные материалы = TWD 4100.",
+        "extras": "Полудневная смена. Питание и присмотр вне указанного времени уточнить.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, 13:30–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3K19B6020",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2193",
+      "slug": "pccu-pokemon-science",
+      "provider": "PCCU · Pokémon Science Adventure",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Научные опыты с сюжетами Pokémon и практическими заданиями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 8100 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCLB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Pokémon Science Adventure",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8100,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 8100 за ребёнка за смену.",
+        "included": "TWD 6300 обучение + TWD 1800 обязательные материалы = TWD 8100.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 300. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCLB6020",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2194",
+      "slug": "pccu-aircraft-makers",
+      "provider": "PCCU · Aircraft Makers",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Конструирование летательных моделей и практическая проверка их работы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 7800 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCZB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Aircraft Makers",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 7800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 7800 за ребёнка за смену.",
+        "included": "TWD 6600 обучение + TWD 1200 обязательные материалы = TWD 7800.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 300. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCZB6020",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2195",
+      "slug": "pccu-board-game-stories",
+      "provider": "PCCU · Board Games · Story Lab",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · Taipei Jianguo",
+      "age": "Все классы начальной школы. Сверить текущий класс.",
+      "programme": "Настольные игры, чтение и сочинение собственных историй.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Winter 2027",
+            "price": "TWD 6450 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/3KCTB6020",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · Taipei Jianguo",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "topic": "PCCU · Board Games · Story Lab",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+            "questions": [
+              "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6450,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 6450 за ребёнка за смену.",
+        "included": "TWD 6000 обучение + TWD 450 обязательные материалы = TWD 6450.",
+        "extras": "В таблице этой смены обед выделен отдельно по TWD 300. Подтвердить необходимость заказа.",
+        "deposit": "Доступность скидки и окончательную сумму нужно подтвердить у оператора. Условия отмены проверяются по договору выбранной смены."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "2027-02-01–2027-02-03, 09:00–16:30 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Страница курса указывает запись через офис. Уточнить способ записи из-за рубежа и наличие мест.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/3KCTB6020",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cecntqb2.sce.pccu.edu.tw/campRegister/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2196",
+      "slug": "pccu-taichung-ai-creators",
+      "provider": "PCCU · Taichung AI Creators",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung",
+      "age": "3–6 классы начальной школы. Сверить текущий класс.",
+      "programme": "Дети пробуют ChatGPT, DALL·E 3 и Canva, создают иллюстрированную историю, видео и страницу проекта.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Документы на китайском. Английский или испанский язык преподавания не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 4800 за ребёнка за смену.",
+            "source": "https://www.sce.pccu.edu.tw/courses/0FCLB6010",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Chinese Culture University SCE · 3F, 658 Section 3 Taiwan Boulevard, Taichung",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "PCCU · Taichung AI Creators",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+            "questions": [
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4800,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 4800 за ребёнка за смену.",
+        "included": "Базовая цена TWD 4800. На странице показана цена TWD 4224. Сверить срок и применимость акции.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "2027-01-25–2027-01-29, 09:00–12:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Документы на китайском. Английский или испанский язык преподавания не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sce.pccu.edu.tw/courses/0FCLB6010",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2197",
+      "slug": "ytlee-taipei-winter-grades-1-2",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "1–2 классы начальной школы по текущему обучению.",
+      "programme": "Практическая наука и математика с опытами и задачами. Классы разделены по школьным ступеням.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 08:00–17:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 за ребёнка за смену.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "waitlist",
+              "label": "Основная группа заполнена. Доступна заявка в лист ожидания."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 1–2",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+            "questions": [
+              "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 за ребёнка за смену.",
+        "included": "Включены обед, перекус, оборудование, материалы и страхование площадки. Продлёнка до 18:00 без доплаты.",
+        "extras": "Прайс TWD 11500, льготный тариф в таблице и брошюре TWD 9800 за ребёнка. Уточнить применимость льготы.",
+        "deposit": "Оплата в течение 2 дней после уведомления о зачислении. В брошюре указаны отдельные правила возврата."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        }
+      },
+      "editorial_reason": "Основная группа заполнена. Доступна заявка в лист ожидания.",
+      "shortlist": [],
+      "questions": [
+        "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "waitlist",
+        "label": "Основная группа заполнена. Доступна заявка в лист ожидания."
+      }
+    },
+    {
+      "id": "CP2198",
+      "slug": "ytlee-taipei-winter-grades-3-4",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "3–4 классы начальной школы по текущему обучению.",
+      "programme": "Практическая наука и математика с опытами и задачами. Классы разделены по школьным ступеням.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 08:00–17:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 за ребёнка за смену.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "open",
+              "label": "В таблице группа принимает заявки. Зачисление и оплата подтверждаются отдельно."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 3–4",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+            "questions": [
+              "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 за ребёнка за смену.",
+        "included": "Включены обед, перекус, оборудование, материалы и страхование площадки. Продлёнка до 18:00 без доплаты.",
+        "extras": "Прайс TWD 11500, льготный тариф в таблице и брошюре TWD 9800 за ребёнка. Уточнить применимость льготы.",
+        "deposit": "Оплата в течение 2 дней после уведомления о зачислении. В брошюре указаны отдельные правила возврата."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по фактическому школьному классу и языку обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "В таблице группа принимает заявки. Зачисление и оплата подтверждаются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "open",
+        "label": "В таблице группа принимает заявки. Зачисление и оплата подтверждаются отдельно."
+      }
+    },
+    {
+      "id": "CP2199",
+      "slug": "ytlee-taipei-winter-grades-5-6",
+      "provider": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+      "age": "5–6 классы начальной школы по текущему обучению.",
+      "programme": "Практическая наука и математика с опытами и задачами. Классы разделены по школьным ступеням.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-25–2027-01-29, 08:00–17:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Winter 2027",
+            "price": "TWD 11500 за ребёнка за смену.",
+            "source": "https://www.ytlee.org.tw/activity/2692",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Организатор помечает группу заполненной."
+            },
+            "place": "National Taipei University of Business · 321 Jinan Road, Section 1, Taipei",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "topic": "Yuan T. Lee Foundation · Science Winter Camp · 5–6",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+            "questions": [
+              "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+              "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+              "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 11500,
+        "currency": "TWD",
+        "unit": "per_child_course",
+        "label": "TWD 11500 за ребёнка за смену.",
+        "included": "Включены обед, перекус, оборудование, материалы и страхование площадки. Продлёнка до 18:00 без доплаты.",
+        "extras": "Прайс TWD 11500, льготный тариф в таблице и брошюре TWD 9800 за ребёнка. Уточнить применимость льготы.",
+        "deposit": "Оплата в течение 2 дней после уведомления о зачислении. В брошюре указаны отдельные правила возврата."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа для более старших школьников. Возвращаться к варианту при достижении указанного класса."
+        }
+      },
+      "editorial_reason": "Организатор помечает группу заполненной.",
+      "shortlist": [],
+      "questions": [
+        "Распределение по текущему школьному классу. В публичной форме есть вариант указать паспорт. Подтвердить эквивалент класса иностранной школы.",
+        "Подтвердить школьный класс, наличие места и документы для иностранного ребёнка.",
+        "Правила опубликованы на китайском. Язык преподавателей и возможность англоязычной поддержки уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/news/100",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/activity/2692/registration",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "Организатор помечает группу заполненной."
+      }
     }
   ],
   "gaps": [
@@ -335995,7 +338931,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 325,
+  "version": 327,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -349230,7 +352166,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2178,
+      "total_dossiers": 2199,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

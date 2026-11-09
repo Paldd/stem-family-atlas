@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11297,
+    "cards": 11319,
     "competition_cards": 5067,
-    "event_cards": 723,
-    "camp_cards": 5507,
+    "event_cards": 724,
+    "camp_cards": 5528,
     "league_profiles": 323,
-    "major_exhibition_cards": 622,
+    "major_exhibition_cards": 623,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3666,
+      "total": 3667,
       "countries_with_records": 41,
       "competitions": 2061,
-      "events": 206,
-      "major_exhibitions": 163,
+      "events": 207,
+      "major_exhibitions": 164,
       "camps": 1399,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3112,
+      "total": 3133,
       "countries_with_records": 50,
       "competitions": 1197,
       "events": 187,
       "major_exhibitions": 174,
-      "camps": 1728,
+      "camps": 1749,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -16159,6 +16159,17 @@
       "new": false
     },
     {
+      "id": "E724",
+      "name": "Museo Franz Mayer · IA: Más que humano",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-10-09",
+      "end": "2027-04-04",
+      "visitor_policy": "family",
+      "source": "https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18576,14 +18587,14 @@
       }
     ],
     "counts": {
-      "records": 5507,
-      "holiday": 4950,
+      "records": 5528,
+      "holiday": 4971,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1639,
+      "en_es_instruction": 1641,
       "en_es_support": 66,
-      "family_instruction": 1639,
+      "family_instruction": 1641,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,

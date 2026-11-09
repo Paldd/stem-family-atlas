@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11297; соревнований: 5067; событий: 723; лагерей / программ: 5507. Профилей лиг и программ: 323. Карточек крупных и профильных выставок: 622 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11319; соревнований: 5067; событий: 724; лагерей / программ: 5528. Профилей лиг и программ: 323. Карточек крупных и профильных выставок: 623 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,11 +14,11 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2061 | 163 | 1399 |
+| Северная Америка | 41 | 2061 | 164 | 1399 |
 | Южная Америка | 15 | 467 | 52 | 235 |
 | Европа | 55 | 721 | 154 | 1612 |
 | Африка | 60 | 272 | 45 | 156 |
-| Азия | 50 | 1197 | 174 | 1728 |
+| Азия | 50 | 1197 | 174 | 1749 |
 | Океания | 27 | 175 | 32 | 362 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 196. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
@@ -1013,6 +1013,7 @@ VEX: 815 из 5067 карточек соревнований (16.1%). Это я�
 - **Colorado FIRST LEGO League Explore · Lopez Elementary · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-03. Детский допуск уточнить. https://legacy.coloradofirst.org/event/lopez-elementary-first-lego-league-explore-festival-2027/
 - **Colorado FIRST LEGO League Explore · STEM School Highlands Ranch · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-17. Детский допуск уточнить. https://coloradofirst.org/event/stem-school-highlands-ranch-first-lego-league-explore-festival-2027/
 - **Colorado FIRST LEGO League Explore · Lafayette · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-24. Детский допуск уточнить. https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/
+- **Museo Franz Mayer · IA: Más que humano** — Мексика; 2026-10-09 – 2027-04-04. Со взрослым; условия взрослого входа отдельно. https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
