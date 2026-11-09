@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 344,
+    "version": 345,
     "status": "implementation_snapshot",
-    "events": 11731,
-    "competitions": 5293,
-    "league_profiles": 333,
-    "camp_dossiers": 2280,
+    "events": 11742,
+    "competitions": 5303,
+    "league_profiles": 334,
+    "camp_dossiers": 2281,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,11 +928,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 343,
+    "version": 344,
     "status": "implementation_snapshot",
-    "events": 11566,
-    "competitions": 5128,
-    "league_profiles": 331,
+    "events": 11731,
+    "competitions": 5293,
+    "league_profiles": 333,
     "camp_dossiers": 2280,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 344,
+    "prepared_ui_version": 345,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 343,
-    "previous_verified_commit": "d7d6fbfe6c08b3432b6866f73c1c7b554557ab49"
+    "previous_verified_ui_version": 344,
+    "previous_verified_commit": "8d6dfff61390b930960c4ccd5a4d077097bad012"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 343,
-    "published_version": 343,
-    "latest_source_commit": "d7d6fbfe6c08b3432b6866f73c1c7b554557ab49",
-    "published_commit": "d7d6fbfe6c08b3432b6866f73c1c7b554557ab49",
-    "latest_workflow": 42613667284,
+    "latest_source_version": 344,
+    "published_version": 344,
+    "latest_source_commit": "8d6dfff61390b930960c4ccd5a4d077097bad012",
+    "published_commit": "8d6dfff61390b930960c4ccd5a4d077097bad012",
+    "latest_workflow": 42618874826,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -36204,5 +36204,161 @@
     "orlando_math_id": "C5292",
     "science_world_id": "C5293",
     "environmental_world_id": "C5294"
+  },
+  "chile_guatemala_thailand_robotics_v345": {
+    "version": 345,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5295",
+      "C5296",
+      "C5297",
+      "C5298",
+      "C5299",
+      "C5300",
+      "L958",
+      "C5301",
+      "C5302",
+      "C5303",
+      "C5304"
+    ],
+    "refreshed_event_ids": [
+      "C047",
+      "C048",
+      "C049",
+      "C050",
+      "C051",
+      "C286",
+      "C331",
+      "C3499",
+      "C495",
+      "C807"
+    ],
+    "new_dossier_ids": [
+      "CP2281"
+    ],
+    "refreshed_dossier_ids": [],
+    "new_league_ids": [
+      "vex-iq-thailand-level-up"
+    ],
+    "refreshed_league_ids": [
+      "chile",
+      "vex"
+    ],
+    "legacy_overlay_event_ids": [],
+    "legacy_overlay_league_ids": [],
+    "source_requests": 34,
+    "chile_2026_calendar_rows": [
+      {
+        "key": "chileSeason01",
+        "event_id": "C5295",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/inacap-santiago-puentealto-2026-escolar-abril/"
+      },
+      {
+        "key": "chileSeason02",
+        "event_id": "C5296",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/inacap-antofagasta-2026/"
+      },
+      {
+        "key": "chileSeason03",
+        "event_id": "L958",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/"
+      },
+      {
+        "key": "chileSeason04",
+        "event_id": "C5297",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/combarbala2026/"
+      },
+      {
+        "key": "chileSeason05",
+        "event_id": "C5298",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/inacap-osorno2026/"
+      },
+      {
+        "key": "chileSeason06",
+        "event_id": "C5299",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/inacap-laserena2026/"
+      },
+      {
+        "key": "chileSeason07",
+        "event_id": "C807",
+        "status": "moved_open_event",
+        "url": "https://torneorobotica.cl/torneos/concepcion2026/"
+      },
+      {
+        "key": "chileSeason08",
+        "event_id": "C047",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/concepcion2026esc/"
+      },
+      {
+        "key": "chileSeason09",
+        "event_id": "C048",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/inacap-santiago-maipu2026/"
+      },
+      {
+        "key": "chileSeason10",
+        "event_id": "C807",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/open-santiago-2026/"
+      },
+      {
+        "key": "chileSeason11",
+        "event_id": "C049",
+        "status": "scheduled",
+        "url": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/"
+      },
+      {
+        "key": "chileSeason12",
+        "event_id": "C050",
+        "status": "scheduled",
+        "url": "https://torneorobotica.cl/torneos/final_2026/"
+      },
+      {
+        "key": "chileSeason13",
+        "event_id": "C5300",
+        "status": "published_archive",
+        "url": "https://torneorobotica.cl/torneos/internacional_chile2026/"
+      }
+    ],
+    "chile_current": {
+      "puerto_montt": "C049",
+      "final": "C050"
+    },
+    "chile_chonchi_camp": "L958",
+    "chile_chonchi_dossier": "chonchi-national-school-robotics-bootcamp",
+    "guatemala_national": "C5301",
+    "guatemala_november": "C3499",
+    "thai_divisions": [
+      "C495",
+      "C5302"
+    ],
+    "thai_regional_ids": [
+      "C5303",
+      "C286",
+      "C5304",
+      "C331"
+    ],
+    "data_conflicts": [
+      "C807",
+      "C049",
+      "C050",
+      "C3499",
+      "C495",
+      "C5302"
+    ],
+    "dossier_event_links": {
+      "chonchi-national-school-robotics-bootcamp": [
+        "L958"
+      ]
+    }
   }
 }

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2280 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-09. 2281 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -180103,6 +180103,52 @@ Suecia · Stiftelsen Viktor Rydbergs skolor · Frejgatan 30 / Norrtullsgatan 41a
 - [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
+
+## CP2281 · Chonchi · Campamento Nacional de Tecnología y Robótica Escolar
+
+Chile · Escuela San Carlos · Chonchi, Chiloé
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Equipos escolares. INACAP informa que en la edición 2026 hubo participantes de 10–18 años. Es la edad observada.
+
+**Idioma:** Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.
+
+**Programa:** Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inventor, Scratch y Unity. Al final, torneo de seguimiento de línea.
+
+**Alojamiento:** Las bases indican 2 sedes gratuitas de 30 plazas y 1 de pago de 46. Se requiere saco de dormir. La página general anuncia alojamiento gratuito.
+
+**Fechas / estado:** Archivo del 5–8 de junio de 2026. La próxima edición no está publicada.
+
+**Precio / año:** 2026 · Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.
+
+**Incluido:** Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.
+
+**Suplementos:** Las bases indican 2 sedes gratuitas de 30 plazas y 1 de pago de 46. Se requiere saco de dormir. La página general anuncia alojamiento gratuito.
+
+**Matvey:** Confirmar nueva edición, edad, admisión de un colegio extranjero, idioma de instrucción y alojamiento concreto.
+
+**Oscar:** Confirmar nueva edición, edad, admisión de un colegio extranjero, idioma de instrucción y alojamiento concreto.
+
+**Motivo de selección:** Hasta 4 estudiantes y 1 tutor. Las bases preveían 20 equipos. INACAP informa de 23 equipos en la edición realizada.
+
+### Antes de solicitar plaza
+
+- Confirmar nueva edición, edad, admisión de un colegio extranjero, idioma de instrucción y alojamiento concreto.
+
+- Inscripción escolar por la liga. Prioridad al primer equipo del centro, el segundo en lista de espera. Admisión extranjera sin verificar.
+
+- La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://torneorobotica.cl/wp-content/uploads/2026/04/Bases-BootCamp-Chonchi-2026.pdf) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

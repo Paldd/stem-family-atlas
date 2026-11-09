@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 5688,
+      "records": 5689,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,
@@ -51824,6 +51824,76 @@
       "deadline_note": "Заявка ученика до 17 января 2027, 23:59 EST по Ямайке. Для отправки нужна учётная запись. Запрашивают табели за 2 года и короткое эссе.",
       "camp_dossier_slug": "jamcoders-kingston-july-2027",
       "camp_programme_id": "CP1758"
+    },
+    {
+      "id": "L958",
+      "title": "Chonchi · Campamento Nacional de Tecnología y Robótica Escolar 2026",
+      "block": "Лагеря",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Escuela San Carlos · Chonchi, Chiloé",
+      "start": "2026-06-05",
+      "end": "2026-06-08",
+      "period": "Архив 5–8 июня 2026. Следующий выпуск не опубликован.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/04/Bases-BootCamp-Chonchi-2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные команды. INACAP сообщает, что на выпуске 2026 были участники 10–18 лет. Это наблюдавшийся возраст.",
+      "mat": "Следить за следующим выпуском и уточнить условия выбранной категории.",
+      "osc": "Следить за следующим выпуском и уточнить условия выбранной категории.",
+      "format": "До 4 учеников и 1 наставник. В регламенте планировали 20 команд. INACAP сообщает о 23 командах на прошедшем выпуске.",
+      "entry": "Школьная заявка через лигу. Первый состав от учреждения в приоритете, второй в листе ожидания. Иностранный допуск не установлен.",
+      "gear": "Ноутбук Windows. Для финальной задачи роботов предоставлял организатор.",
+      "language": "Материалы на испанском. Языки занятий следующего выпуска предстоит подтвердить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы на испанском. Языки занятий следующего выпуска предстоит подтвердить.",
+      "cost": "Участие и питание бесплатно. Регламент указывает бесплатные места на двух площадках и 2500 CLP за ночь на третьей.",
+      "level": "Национальный школьный лагерь",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить новый выпуск, возраст, приём иностранной школы, язык занятий и конкретный вариант проживания.",
+      "note": "Робототехника, ИИ, проектирование и печать 3D, Raspberry, Python, App Inventor, Scratch и Unity. В конце турнир по движению по линии.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный школьный лагерь",
+      "participation": "attend",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "registration_status": "Архив 2026. Запись на этот выпуск закрыта.",
+      "availability": {
+        "status": "closed"
+      },
+      "delivery_mode": "in_person"
     },
     {
       "id": "CP001-20270606-20270619",

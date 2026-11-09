@@ -163,7 +163,7 @@ Entrada: El representante escolar/club proporciona un equipo que requiere confir
 Costo: La página principal describe el circo como gratuito; la inclusión del equipo y las condiciones actuales de un comienzo específico
 Limitaciones: Dos versiones del tamaño del equipo en la página no están armonizadas. Rescate Industrial / Avanzado se designan por los resultados anteriores. OPEN se trasladó a Santiago al 30 de octubre y no se mezcla con esta etapa escolar.
 Fuente: https://torneorobotica.cl/torneos/concepcion2026esc/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C048 · Liga Robótica Chile — Maipú Escolar
 
@@ -176,33 +176,33 @@ Entrada: El representante escolar/club proporciona un equipo que requiere confir
 Costo: La página principal describe el circo como gratuito; la inclusión del equipo y las condiciones actuales de un comienzo específico
 Limitaciones: Dos versiones del tamaño de la orden en la página no están armonizadas. Rescate Inicial / Avanzado se designan en los resultados anteriores. La descripción principal es Futbol / Rescate, la línea de selección sigue diciendo Rescate / Sumo; el formulario necesario es el formulario de confirmación.
 Fuente: https://torneorobotica.cl/torneos/inacap-santiago-maipu2026/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C049 · Liga Robótica Chile — Puerto Montt
 
 Fecha: 2026-11-13 — 2026-11-13
-Edad: Educación básica / media; edad mínima exacta y equivalente de clase
-Matwey: Condicionalmente, en la escuela/fuera de la escuela.
-Óscar: Condicionalmente, la categoría escolar y la edad mínima para confirmar
-Idioma: ES: Materiales; poder judicial para confirmar
-Entrada: Fase escolar por conducto del organizador; Final de resultados/condiciones
-Costo: torneos escolares gratuitos; viaje por separado
-Limitaciones: Las primeras noticias del 21 de abril indican el 20 de noviembre. El calendario utiliza el 13 de noviembre en una página de presentación y en una homepage actual; el día antes del viaje es un día de confirmación. El permiso de viaje extranjero/familiar no está confirmado.
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: El equipo escolar se inscribe en la web de la liga. Se requiere tutor responsable. Confirmar admisión de equipos extranjeros, plazas y fecha límite.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
 Fuente: https://torneorobotica.cl/torneos/inacap-puertomontt-2026/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C050 · Liga Robótica Chile — Final
 
 Fecha: 2026-12-12 — 2026-12-12
-Edad: Alumnos; nivel y aceptación extranjera
-Matway: Condicional
-Óscar: Condicional
-Idioma: ES
-Entrada: Fase escolar por conducto del organizador; Final de resultados/condiciones
-Costo: torneos escolares gratuitos; viaje por separado
-Limitaciones: Se ha suspendido la aprobación de la CPP; no se la considera un comienzo abierto. El final no garantiza la inscripción directa.
-Fuente: https://www.torneorobotica.cl/
-Comprobado: 2026-09-29
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
+Fuente: https://torneorobotica.cl/torneos/final_2026/
+Se ha comprobado: 2026-11-09
 
 ### C051 ·Liga Robótica Chile · Internacional LATAM · próxima edición
 
@@ -215,7 +215,7 @@ Entrada: Inicio escolar internacional abierto; futura convocatoria
 Costo: No publicado / Comprobar la edición actual
 Las restricciones eran 2026 escuelas internacionales y se había eliminado el título Å2027: el año siguiente y las fechas exactas aún no se habían fijado oficialmente; los días anteriores no se habían arrastrado al futuro ICS.
 Fuente: https://torneorobotica.cl/torneos/internacional_chile2026/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### ~#C065 · TJR Mini / RoboLeague ○ International online regrading
 
@@ -1318,9 +1318,9 @@ Matwey: Condicionalmente, OPEN no fija la edad mínima publicada; permiso para e
 Idioma: No se ha publicado el idioma de la sesión/juez; ES / EN
 Entrada: Solicitud de OPEN, no de escolar. Acordar un equipo familiar, una categoría, robot check-in y la edad del operador.
 Costo: No se ha anunciado ninguna tarifa futura
-Limitaciones: El texto comienza 11:00, bloque Calendario 12:00–15:00: hora exacta para especificar. Homepage indica el arrastre OPEN de Concepción 9 octubre; Vieja individual Concepción page Guarda el puesto antiguo. / Fecha, Empezando por separado 9 octubre no se ha establecido.
+Limitaciones: El OPEN Concepción se trasladó al OPEN Santiago del 30 de octubre. Es un solo torneo. La página publica resultados.
 Fuente: https://torneorobotica.cl/torneos/open-santiago-2026/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### # C808 · RoboRAVE Santiago · Inicio de clasificación declarado 2026
 
@@ -6832,6 +6832,97 @@ Acceso: La organización indica una acreditación aparte para visitantes. Confir
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones: Las fechas corresponden a la final. La acreditación de visitantes figura por separado de la inscripción de equipos.
 Fuente: https://www.firabrasil.com/final-nacional-2021
+Se ha comprobado: 2026-11-09
+
+### C5295 · Liga Robótica Chile · Puente Alto · 2026
+
+Fecha: 2026-04-24 — 2026-04-24
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.
+Fuente: https://torneorobotica.cl/torneos/inacap-santiago-puentealto-2026-escolar-abril/
+Se ha comprobado: 2026-11-09
+
+### C5296 · Liga Robótica Chile · Antofagasta · 2026
+
+Fecha: 2026-05-15 — 2026-05-15
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.
+Fuente: https://torneorobotica.cl/torneos/inacap-antofagasta-2026/
+Se ha comprobado: 2026-11-09
+
+### C5297 · Liga Robótica Chile · Combarbalá · 2026
+
+Fecha: 2026-07-10 — 2026-07-10
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.
+Fuente: https://torneorobotica.cl/torneos/combarbala2026/
+Se ha comprobado: 2026-11-09
+
+### C5298 · Liga Robótica Chile · Osorno · 2026
+
+Fecha: 2026-08-21 — 2026-08-21
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.
+Fuente: https://torneorobotica.cl/torneos/inacap-osorno2026/
+Se ha comprobado: 2026-11-09
+
+### C5299 · Liga Robótica Chile · La Serena · 2026
+
+Fecha: 2026-09-25 — 2026-09-25
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.
+Fuente: https://torneorobotica.cl/torneos/inacap-laserena2026/
+Se ha comprobado: 2026-11-09
+
+### C5300 · Liga Robótica Chile · Internacional LATAM · 2026
+
+Fecha: 2026-09-04 — 2026-09-05
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
+Acceso: Archivo de la etapa escolar internacional. Todavía no se anuncia la próxima edición.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Limitaciones: La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
+Fuente: https://torneorobotica.cl/torneos/internacional_chile2026/
+Se ha comprobado: 2026-11-09
+
+### L958 · Chonchi · Campamento Nacional de Tecnología y Robótica Escolar 2026
+
+Fecha: 2026-06-05 — 2026-06-08
+edad: Equipos escolares. INACAP informa que en la edición 2026 hubo participantes de 10–18 años. Es la edad observada.
+Matvey: Seguir la próxima edición y confirmar las condiciones de la categoría elegida.
+Oscar: Seguir la próxima edición y confirmar las condiciones de la categoría elegida.
+Idioma: Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.
+Acceso: Inscripción escolar por la liga. Prioridad al primer equipo del centro, el segundo en lista de espera. Admisión extranjera sin verificar.
+Precio: Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.
+Limitaciones: Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inventor, Scratch y Unity. Al final, torneo de seguimiento de línea.
+Fuente: https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/
 Se ha comprobado: 2026-11-09
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

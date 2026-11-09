@@ -14102,6 +14102,22 @@ Limitaciones: Solicitud del estudiante hasta el 17 de enero de 2027, 23:59 EST e
 Fuente: https://jamcoders.org.jm/
 Se ha comprobado: 2026-11-09
 
+### L958 · Chonchi · Campamento Nacional de Tecnología y Robótica Escolar 2026
+
+lugar: Chile · Escuela San Carlos · Chonchi, Chiloé
+Fecha: 2026-06-05 — 2026-06-08
+edad: Equipos escolares. INACAP informa que en la edición 2026 hubo participantes de 10–18 años. Es la edad observada.
+Matvey: Seguir la próxima edición y confirmar las condiciones de la categoría elegida.
+Oscar: Seguir la próxima edición y confirmar las condiciones de la categoría elegida.
+formato: attend
+Idioma: Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.
+Acceso: Inscripción escolar por la liga. Prioridad al primer equipo del centro, el segundo en lista de espera. Admisión extranjera sin verificar.
+Limitaciones: Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inventor, Scratch y Unity. Al final, torneo de seguimiento de línea.
+Fuente: https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

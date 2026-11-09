@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2280,
+    "dossiers": 2281,
     "countries": 140,
     "swiss": 150,
     "by_status": {
@@ -41,7 +41,7 @@
       "published_2026": 441,
       "partial_2026_27": 44,
       "partial_2026": 24,
-      "archive_next_unannounced": 151,
+      "archive_next_unannounced": 152,
       "regular_programme": 21,
       "regular_2026_27": 31,
       "historical_2026_next_season_unknown": 1,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3215
+    "source_urls": 3219
   },
   "countries": [
     {
@@ -399940,6 +399940,102 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2281",
+      "slug": "chonchi-national-school-robotics-bootcamp",
+      "provider": "Chonchi · Campamento Nacional de Tecnología y Robótica Escolar",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Escuela San Carlos · Chonchi, Chiloé",
+      "age": "Школьные команды. INACAP сообщает, что на выпуске 2026 были участники 10–18 лет. Это наблюдавшийся возраст.",
+      "programme": "Робототехника, ИИ, проектирование и печать 3D, Raspberry, Python, App Inventor, Scratch и Unity. В конце турнир по движению по линии.",
+      "format": "boarding",
+      "formats": [
+        "boarding"
+      ],
+      "language": "Материалы на испанском. Языки занятий следующего выпуска предстоит подтвердить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "language_evidence_role": "materials",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архив 5–8 июня 2026. Следующий выпуск не опубликован.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "CLP",
+        "unit": "programme",
+        "label": "Участие и питание бесплатно. Регламент указывает бесплатные места на двух площадках и 2500 CLP за ночь на третьей.",
+        "included": "Участие и питание бесплатно. Регламент указывает бесплатные места на двух площадках и 2500 CLP за ночь на третьей.",
+        "extras": "В регламенте 2 бесплатные площадки по 30 мест и 1 платная на 46. Нужен спальный мешок. Общая страница называет проживание бесплатным.",
+        "deposit": ""
+      },
+      "accommodation": "В регламенте 2 бесплатные площадки по 30 мест и 1 платная на 46. Нужен спальный мешок. Общая страница называет проживание бесплатным.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Уточнить новый выпуск, возраст, приём иностранной школы, язык занятий и конкретный вариант проживания."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить новый выпуск, возраст, приём иностранной школы, язык занятий и конкретный вариант проживания."
+        }
+      },
+      "editorial_reason": "До 4 учеников и 1 наставник. В регламенте планировали 20 команд. INACAP сообщает о 23 командах на прошедшем выпуске.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить новый выпуск, возраст, приём иностранной школы, язык занятий и конкретный вариант проживания.",
+        "Школьная заявка через лигу. Первый состав от учреждения в приоритете, второй в листе ожидания. Иностранный допуск не установлен.",
+        "Лига объявляет общедоступные трансляции на YouTube. Ссылка на эфир этого этапа и очный вход семьи требуют подтверждения."
+      ],
+      "sources": [
+        {
+          "url": "https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/04/Bases-BootCamp-Chonchi-2026.pdf",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "camp",
+      "catalog_participation": "attend",
+      "related_event_ids": [
+        "L958"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -418500,7 +418596,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2280,
+      "total_dossiers": 2281,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -443733,6 +443829,11 @@
       "programme_id": "CP2280",
       "event_id": "CP2280-20270130-20270605-saturday-roblox",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2281",
+      "event_id": "L958",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

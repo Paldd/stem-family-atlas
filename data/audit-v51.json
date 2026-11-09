@@ -16,13 +16,13 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11731,
-    "competition_cards": 5293,
+    "cards": 11742,
+    "competition_cards": 5303,
     "event_cards": 750,
-    "camp_cards": 5688,
-    "league_profiles": 333,
+    "camp_cards": 5689,
+    "league_profiles": 334,
     "major_exhibition_cards": 643,
-    "vex_cards": 817,
+    "vex_cards": 821,
     "countries_with_records": 242,
     "fully_audited_countries": 0
   },
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3862,
+      "total": 3863,
       "countries_with_records": 41,
-      "competitions": 2211,
+      "competitions": 2212,
       "events": 223,
       "major_exhibitions": 176,
       "camps": 1428,
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 790,
+      "total": 797,
       "countries_with_records": 15,
-      "competitions": 473,
+      "competitions": 479,
       "events": 59,
       "major_exhibitions": 52,
-      "camps": 258,
+      "camps": 259,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 3190,
+      "total": 3193,
       "countries_with_records": 50,
-      "competitions": 1208,
+      "competitions": 1211,
       "events": 189,
       "major_exhibitions": 176,
       "camps": 1793,
@@ -1388,6 +1388,10 @@
         "C4716",
         "C5124",
         "C5125",
+        "C5301",
+        "C5302",
+        "C5303",
+        "C5304",
         "C1155",
         "C1156",
         "C1157",
@@ -1395,9 +1399,9 @@
         "C1899",
         "C1900"
       ],
-      "cards": 817,
-      "future_dated": 687,
-      "linked_card_count": 817,
+      "cards": 821,
+      "future_dated": 690,
+      "linked_card_count": 821,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
       "new": false
@@ -3452,11 +3456,17 @@
         "C049",
         "C050",
         "C051",
-        "C807"
+        "C807",
+        "C5295",
+        "C5296",
+        "C5297",
+        "C5298",
+        "C5299",
+        "C5300"
       ],
-      "cards": 6,
+      "cards": 12,
       "future_dated": 2,
-      "linked_card_count": 6,
+      "linked_card_count": 13,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.torneorobotica.cl/",
       "new": false
@@ -8660,6 +8670,25 @@
       "linked_card_count": 18,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.iacompetitions.com/math/",
+      "new": false
+    },
+    {
+      "id": "vex-iq-thailand-level-up",
+      "name": "VEX IQ Thailand · Level Up",
+      "group": "regional",
+      "event_ids": [
+        "C286",
+        "C331",
+        "C495",
+        "C5302",
+        "C5303",
+        "C5304"
+      ],
+      "cards": 6,
+      "future_dated": 5,
+      "linked_card_count": 6,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4458.html",
       "new": false
     },
     {
@@ -19154,7 +19183,7 @@
       }
     ],
     "counts": {
-      "records": 5688,
+      "records": 5689,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,

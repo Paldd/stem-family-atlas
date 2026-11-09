@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 5688,
+      "records": 5689,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,
@@ -51824,6 +51824,76 @@
       "deadline_note": "Solicitud del estudiante hasta el 17 de enero de 2027, 23:59 EST en Jamaica. Para enviarla se requiere cuenta. Piden notas de 2 años y un ensayo breve.",
       "camp_dossier_slug": "jamcoders-kingston-july-2027",
       "camp_programme_id": "CP1758"
+    },
+    {
+      "id": "L958",
+      "title": "Chonchi · Campamento Nacional de Tecnología y Robótica Escolar 2026",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Escuela San Carlos · Chonchi, Chiloé",
+      "start": "2026-06-05",
+      "end": "2026-06-08",
+      "period": "Archivo del 5–8 de junio de 2026. La próxima edición no está publicada.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/04/Bases-BootCamp-Chonchi-2026.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Equipos escolares. INACAP informa que en la edición 2026 hubo participantes de 10–18 años. Es la edad observada.",
+      "mat": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "osc": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "format": "Hasta 4 estudiantes y 1 tutor. Las bases preveían 20 equipos. INACAP informa de 23 equipos en la edición realizada.",
+      "entry": "Inscripción escolar por la liga. Prioridad al primer equipo del centro, el segundo en lista de espera. Admisión extranjera sin verificar.",
+      "gear": "Portátil con Windows. La organización facilitó robots para el reto final.",
+      "language": "Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.",
+      "cost": "Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.",
+      "level": "Campamento escolar nacional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar nueva edición, edad, admisión de un colegio extranjero, idioma de instrucción y alojamiento concreto.",
+      "note": "Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inventor, Scratch y Unity. Al final, torneo de seguimiento de línea.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campamento escolar nacional",
+      "participation": "attend",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "delivery_mode": "in_person"
     },
     {
       "id": "CP001-20270606-20270619",

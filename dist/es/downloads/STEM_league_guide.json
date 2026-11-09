@@ -1664,6 +1664,10 @@
           "C4716",
           "C5124",
           "C5125",
+          "C5301",
+          "C5302",
+          "C5303",
+          "C5304",
           "C1899",
           "C1900"
         ],
@@ -8411,7 +8415,7 @@
         "age_tags": [
           "unknown"
         ],
-        "summary": "Liga Robótica Chile — Concepción Escolar",
+        "summary": "Liga escolar chilena gratuita con etapas regionales, final nacional y torneo internacional LATAM.",
         "categories": [
           {
             "name": "Liga Robótica Chile — Concepción Escolar",
@@ -8428,10 +8432,17 @@
           "C049",
           "C050",
           "C051",
-          "C807"
+          "C807",
+          "C5295",
+          "C5296",
+          "C5297",
+          "C5298",
+          "C5299",
+          "C5300",
+          "L958"
         ],
         "legacy_ids": [],
-        "route": "OPEN Santiago 30 de octubre  solicitud separada, no cuota mundial automática.",
+        "route": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
         "hardware": "Sumo / Rescue / Baile por el reglamento",
         "language": "la lengua de los materiales internacionales y la lengua de los jueces locales se comprueba por separado.",
         "importance": "no tiene un índice de competencia y accesibilidad; no hay un índice mundial oficial de la liga.",
@@ -8444,9 +8455,12 @@
           "OPEN Concepción 9 de octubre se trasladó a Santiago Maipú el 30 de octubre por la página de inicio actual; la página de eventos antigua conserva la antigua fecha.",
           "Puerto Montt: individual page y homepage el 13 de noviembre contra el viejo season announcement el 20 de noviembre.",
           "En Concepción / Maipú Escolar, el número de alumnos es de 4 + tutor contra la línea de 6 personas; para Maipú, la lista Futbol / Rescate contra la línea Sumo requiere confirmación.",
-          "Internacional LATAM 2026 - ¿Qué pasa? 4–5 de septiembre; No se ha anunciado la próxima edición .. clases escolares de hermanos y la recepción del equipo Costa Rica No se sabe."
+          "Internacional LATAM 2026 - ¿Qué pasa? 4–5 de septiembre; No se ha anunciado la próxima edición .. clases escolares de hermanos y la recepción del equipo Costa Rica No se sabe.",
+          "En el texto quedó la fecha del 13 de diciembre de la edición 2025. Para 2026 se usa el 12 de diciembre confirmado por el calendario.",
+          "Hasta 4 estudiantes y 1 tutor. Las bases preveían 20 equipos. INACAP informa de 23 equipos en la edición realizada.",
+          "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación."
         ],
-        "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
+        "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
         "sources": [
           {
@@ -8463,6 +8477,31 @@
             "title": "Puerto Montt · fecha individual",
             "url": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
             "checked": "2026-10-01"
+          },
+          {
+            "url": "https://torneorobotica.cl/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://torneorobotica.cl/torneos/final_2026/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-rescate-.pdf",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-SUMO.pdf",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
           }
         ],
         "evidence": "Se han vuelto a leer la página de inicio actual, 5 páginas individuales y el anuncio de temporada anterior; se han guardado las transferencias / maxima conflictivas."
@@ -27494,6 +27533,114 @@
         "evidence": "Índice oficial y ficha del torneo cotejados por separado."
       },
       {
+        "id": "vex-iq-thailand-level-up",
+        "name": "VEX IQ Thailand · Level Up",
+        "group": "regional",
+        "age_summary": "Elementary hasta 12 y Middle School hasta 15 años inclusive al 1 de junio de 2027 según la política general. Confirmar nivel escolar y admisión local.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Vía tailandesa de VEX IQ Level Up: clasificatorios regionales, finales separadas de Elementary y Middle School y posible clasificación para VEX Worlds.",
+        "importance": "Vía tailandesa de VEX IQ Level Up: clasificatorios regionales, finales separadas de Elementary y Middle School y posible clasificación para VEX Worlds.",
+        "strengths": "Vía tailandesa de VEX IQ Level Up: clasificatorios regionales, finales separadas de Elementary y Middle School y posible clasificación para VEX Worlds.",
+        "categories": [
+          {
+            "name": "Elementary School",
+            "age": "VEX IQ Elementary. La política general admite hasta 12 años inclusive al 1 de junio de 2027.",
+            "age_rule": "VEX IQ Elementary. La política general admite hasta 12 años inclusive al 1 de junio de 2027.",
+            "team": "La política de edad y equipos indica un mínimo de 2. El glosario de Level Up mantiene 3. El apéndice E remite a la política. Revisar el formulario local.",
+            "hardware": "VEX IQ Level Up. Robot VEX IQ, cuaderno de ingeniería y cumplimiento de las reglas de la temporada vigente.",
+            "entry": "Participar y clasificarse en al menos un clasificatorio oficial en Tailandia. Luego inscripción en VEX Events y formulario de PIM. Confirmar admisión extranjera."
+          },
+          {
+            "name": "Escuela media",
+            "age": "VEX IQ Middle School. La política general admite hasta 15 años inclusive al 1 de junio de 2027.",
+            "age_rule": "VEX IQ Middle School. La política general admite hasta 15 años inclusive al 1 de junio de 2027.",
+            "team": "La política de edad y equipos indica un mínimo de 2. El glosario de Level Up mantiene 3. El apéndice E remite a la política. Revisar el formulario local.",
+            "hardware": "VEX IQ Level Up. Robot VEX IQ, cuaderno de ingeniería y cumplimiento de las reglas de la temporada vigente.",
+            "entry": "Participar y clasificarse en al menos un clasificatorio oficial en Tailandia. Luego inscripción en VEX Events y formulario de PIM. Confirmar admisión extranjera."
+          }
+        ],
+        "event_ids": [
+          "C495",
+          "C5302",
+          "C5303",
+          "C286",
+          "C5304",
+          "C331"
+        ],
+        "legacy_ids": [],
+        "route": "Participar y clasificarse en al menos un clasificatorio oficial en Tailandia. Luego inscripción en VEX Events y formulario de PIM. Confirmar admisión extranjera.",
+        "hardware": "VEX IQ Level Up. Robot VEX IQ, cuaderno de ingeniería y cumplimiento de las reglas de la temporada vigente.",
+        "language": "Materiales en inglés. Hay que acordar el idioma de la entrevista y del cuaderno.",
+        "award": "Clasificación local hacia VEX Worlds. Participación, premio y cupo mundial se verifican por separado.",
+        "requirements": [
+          "Participar y clasificarse en al menos un clasificatorio oficial en Tailandia. Luego inscripción en VEX Events y formulario de PIM. Confirmar admisión extranjera.",
+          "La política de edad y equipos indica un mínimo de 2. El glosario de Level Up mantiene 3. El apéndice E remite a la política. Revisar el formulario local."
+        ],
+        "nuances": [
+          "VEX Events: 2026-12-10 23:59 EST, en Tailandia 2026-12-11 11:59. La organización indica el 10 de diciembre sin hora. Conviene terminar el formulario antes del plazo local más temprano.",
+          "El catálogo oficial de VEX indica el canal de YouTube de ALL Robotics para ambas divisiones. Faltan el enlace del directo y la confirmación de la visita familiar."
+        ],
+        "cost": "Tarifa del organizador de 9000 THB por equipo. El portal muestra 280 USD / 2238 HKD. Pago por PIM en 7 días y formulario antes del plazo local.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4458.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4459.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/webcasts",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://manuals.vex.com/iq/level-up/v2.1/appendix-e/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://manuals.vex.com/iq/level-up/v2.1/definitions/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4454.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4455.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4456.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4457.html",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -32839,7 +32986,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 333; se conservan las 46 rutas previas. Los formatos de Brasil se separan y Robofest LATAM y BajaBot se describen por categoría. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 334; se conservan las 46 rutas anteriores. Los formatos de Brasil están separados y Robofest LATAM y BajaBot se describen por categoría. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

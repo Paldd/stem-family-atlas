@@ -560,10 +560,10 @@
       "level": "C  torneo abierto o nacional",
       "reward": "Puesto o premio según los resultados oficiales",
       "priority": "P2 — LATAM",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
       "source": "https://torneorobotica.cl/torneos/concepcion2026esc/",
       "proof": "Se lee la página individual de la etapa: día, dirección, educación básica / media, categorías y el máximo de la composición.",
-      "checked": "2026-10-01",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "Rescate Inicial / Avanzado se asigna según los resultados anteriores. OPEN se trasladó a Santiago para el 30 de octubre y no se mezcla con esta etapa escolar.",
       "iso": [
@@ -583,6 +583,28 @@
         {
           "url": "https://torneorobotica.cl/",
           "label": "Liga Chile · calendario actual"
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-10-09T13:00:00Z",
+          "end_utc": "2026-10-09T19:00:00Z"
         }
       ]
     },
@@ -609,10 +631,10 @@
       "level": "C  torneo abierto o nacional",
       "reward": "Puesto o premio según los resultados oficiales",
       "priority": "P2 — LATAM",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
       "source": "https://torneorobotica.cl/torneos/inacap-santiago-maipu2026/",
       "proof": "Se lee la página individual de la etapa: día, dirección, educación básica / media, categorías y el máximo de la composición.",
-      "checked": "2026-10-01",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "Rescate Inicial / Avanzado se asigna según los resultados anteriores. la descripción principal es Futbol / Rescate, la línea de selección sigue diciendo Rescate / Sumo; la forma necesaria se confirma.",
       "iso": [
@@ -632,6 +654,28 @@
         {
           "url": "https://torneorobotica.cl/",
           "label": "Liga Chile · calendario actual"
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-10-30T13:00:00Z",
+          "end_utc": "2026-10-30T19:00:00Z"
         }
       ]
     },
@@ -647,72 +691,23 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Educación básica / media; especificar la edad mínima exacta y el equivalente de la clase",
-      "mat": "condicionalmente  la admisión escolar / extranjera se confirme",
-      "osc": "condicionalmente  la categoría escolar y la edad inferior confirmar",
-      "format": "Hasta 5 alumnos + profesor/tutor; hasta 25 equipos",
-      "entry": "la etapa escolar a través del organizador; Final por resultados / condiciones",
-      "gear": "El Sumo, Robótico de Baile, Rescatar Inicial / Avanzado",
-      "language": "ES: materiales; juez para confirmar",
-      "cost": "torneos escolares gratuitos; viaje por separado",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Hasta 5 estudiantes y tutor. Límite de 25 equipos. Prioridad para el primer equipo de cada centro, el siguiente va a lista de espera.",
+      "entry": "El equipo escolar se inscribe en la web de la liga. Se requiere tutor responsable. Confirmar admisión de equipos extranjeros, plazas y fecha límite.",
+      "gear": "Sumo · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
       "level": "C  torneo abierto o nacional",
-      "reward": "Puesto o premio según los resultados oficiales",
+      "reward": "En Rescate todos los participantes reciben diploma. Los premios dependen del puesto y de la regla de regiones distintas.",
       "priority": "P2 — LATAM",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
-      "proof": "personal event page indican dos veces 13 de noviembre 2026, 10:00–16:00 y dirección; de la actualidad homepage también da 13 de noviembre.",
-      "checked": "2026-10-01",
+      "proof": "La página de la etapa y los dos reglamentos confirman el 13 de noviembre de 2026 a las 10:00 en Padre Harter 125.",
+      "checked": "2026-11-09",
       "status": "Idea",
-      "note": "la noticia temprana del 21 de abril indica el 20 de noviembre. en el calendario se utilizó el 13 de noviembre en la página individual y la página de inicio actual; el día para confirmar antes de viajar. el permiso extranjero / familiar aún no se ha confirmado.",
-      "iso": [
-        "CHL"
-      ],
-      "themes": [
-        "robotics"
-      ],
-      "scope": "regional",
-      "importance_reason": "C  torneo abierto o nacional",
-      "languages": [],
-      "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
-      "team_max": 5,
-      "admission_kind": "school",
-      "references": [
-        {
-          "url": "https://torneorobotica.cl/calendario-oficial-ruta-para-la-temporada-2026/",
-          "label": "noticias estacionales tempranas · otra fecha"
-        }
-      ]
-    },
-    {
-      "block": "Competiciones",
-      "id": "C050",
-      "title": "Liga Robótica Chile — Final",
-      "country": "Chile",
-      "region": "América del Sur",
-      "city": "Santiago, Empresa Precision",
-      "start": "2026-12-12",
-      "end": "2026-12-12",
-      "period": "",
-      "date_status": "Confirmado",
-      "deadline": "",
-      "age": "los estudiantes; el nivel y la recepción extranjera",
-      "mat": "Condicional",
-      "osc": "Condicional",
-      "format": "equipo escolar + profesor; el tamaño del paso actual comprobar",
-      "entry": "la etapa escolar a través del organizador; Final por resultados / condiciones",
-      "gear": "Sumo / Rescue / Baile por el reglamento",
-      "language": "ES",
-      "cost": "torneos escolares gratuitos; viaje por separado",
-      "level": "C  torneo abierto o nacional",
-      "reward": "Puesto o premio según los resultados oficiales",
-      "priority": "P2 — LATAM",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
-      "source": "https://www.torneorobotica.cl/",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
-      "status": "Idea",
-      "note": "OPEN Concepción se ha marcado suspendido; no se considere un inicio abierto accesible. Final no garantiza el registro directo.",
+      "note": "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.",
       "iso": [
         "CHL"
       ],
@@ -725,7 +720,137 @@
         "ES"
       ],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "team_max": 5,
+      "admission_kind": "school",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/calendario-oficial-ruta-para-la-temporada-2026/",
+          "label": "noticias estacionales tempranas · otra fecha"
+        },
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-rescate-.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-SUMO.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T13:00:00Z",
+          "end_utc": "2026-11-13T19:00:00Z"
+        }
+      ],
+      "language_mode": "materials",
+      "date_conflict": "El anuncio inicial de temporada indica el 20 de noviembre. La ficha de la etapa y ambos reglamentos indican el 13 de noviembre.",
+      "registration_status": "Hay un formulario de la liga. Disponibilidad y aceptación de un nuevo equipo sin confirmar.",
+      "related_ids": [
+        "C050"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "id": "C050",
+      "title": "Liga Robótica Chile — Final",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Empresa PRECISION · Ciudad Empresarial · Huechuraba",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Baile Robot · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa nacional",
+      "reward": "Se anuncian viaje y membresía para Runibot Bogotá. Las preguntas frecuentes indican los 2 mejores equipos de regiones distintas y una restricción a ganadores del año anterior.",
+      "priority": "P2 — LATAM",
+      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
+      "source": "https://torneorobotica.cl/torneos/final_2026/",
+      "proof": "El calendario estructurado de la etapa y el plan de temporada coinciden en el 12 de diciembre de 2026.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa nacional",
+      "languages": [
+        "ES"
+      ],
+      "participation": "team",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/torneos/final_2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/calendario-oficial-ruta-para-la-temporada-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/torneos/final_2025/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T13:00:00Z",
+          "end_utc": "2026-12-12T20:00:00Z"
+        }
+      ],
+      "language_mode": "materials",
+      "admission_kind": "qualifier",
+      "date_conflict": "En el texto quedó la fecha del 13 de diciembre de la edición 2025. Para 2026 se usa el 12 de diciembre confirmado por el calendario.",
+      "registration_status": "El acceso directo a la final no está confirmado. Verificar primero clasificación y lista de equipos.",
+      "related_ids": [
+        "C049"
+      ]
     },
     {
       "block": "Competiciones",
@@ -753,7 +878,7 @@
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://torneorobotica.cl/torneos/internacional_chile2026/",
       "proof": "Se lee de nuevo la primera event page: 4–5 de septiembre 2026, los equipos escolares hasta 5 de los estudiantes y tutor, los resultados publicados; La edición 2027 No se ha anunciado.",
-      "checked": "2026-10-01",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "2026 fue el inicio de la escuela internacional. el nombre 2027 se eliminó: el año siguiente y las fechas exactas aún no se han establecido oficialmente.",
       "iso": [
@@ -777,6 +902,10 @@
           "end": "2026-09-05",
           "city": "Santiago · Gimnasio Municipal Huechuraba"
         }
+      ],
+      "references": [],
+      "related_ids": [
+        "C5300"
       ]
     },
     {
@@ -6333,7 +6462,7 @@
       "region": "América del Sur",
       "city": "Santiago · INACAP Maipú, Av. Américo Vespucio 974",
       "source": "https://torneorobotica.cl/torneos/open-santiago-2026/",
-      "checked": "2026-10-01",
+      "checked": "2026-11-09",
       "start": "2026-10-30",
       "end": "2026-10-30",
       "deadline": "",
@@ -6355,7 +6484,7 @@
       "reward": "lugar y premio por el protocolo del paso elegido",
       "priority": "P2  viaje después de confirmar el permiso",
       "status": "Idea",
-      "action": "revisar el turno/estadio concreto antes de planear el viaje.",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
       "themes": [
         "robotics",
         "coding",
@@ -6372,18 +6501,44 @@
         {
           "url": "https://torneorobotica.cl/",
           "label": "calendario actual · traslado OPEN"
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/torneos/concepcion2026/",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "related_ids": [
         "C048"
       ],
-      "registration_status": "No hay familia registrada. La existencia de un formulario no prueba que haya puestos vacantes.",
-      "note": "el texto da el comienzo 11:00, bloque Calendario 12:00–15:00: tiempo exacto. Homepage se informa de traslado OPEN de la Concepción 9 de octubre; La vieja individual Concepción page conserva el lugar antiguo / la fecha, un arranque disponible por separado 9 no se creó en octubre.",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "note": "El OPEN Concepción se trasladó al OPEN Santiago del 30 de octubre. Es un solo torneo. La página publica resultados.",
       "proof": "Se leyeron individual OPEN page y homepage: 30 de octubre, Santiago Maipú, máximo 5 / 12.",
       "team_max": 5,
       "iso": [
         "CHL"
-      ]
+      ],
+      "availability": {
+        "status": "closed"
+      },
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "start_time": "12:00",
+          "end_time": "15:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-10-30T15:00:00Z",
+          "end_utc": "2026-10-30T18:00:00Z"
+        }
+      ],
+      "date_conflict": "La descripción del OPEN indica inicio a las 11:00 y el calendario estructurado a las 12:00. Cierre a las 15:00."
     },
     {
       "id": "C808",
@@ -34178,6 +34333,510 @@
         "C5103",
         "C5104"
       ]
+    },
+    {
+      "id": "C5295",
+      "title": "Liga Robótica Chile · Puente Alto · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "INACAP Puente Alto · Av. Concha y Toro 2730",
+      "start": "2026-04-24",
+      "end": "2026-04-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/inacap-santiago-puentealto-2026-escolar-abril/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Baile Robot · Rescate",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-04-24T14:00:00Z",
+          "end_utc": "2026-04-24T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C5296",
+      "title": "Liga Robótica Chile · Antofagasta · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "INACAP Antofagasta · Av. Edmundo Pérez Zujovic 11092",
+      "start": "2026-05-15",
+      "end": "2026-05-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/inacap-antofagasta-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-05-15",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-05-15T14:00:00Z",
+          "end_utc": "2026-05-15T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C5297",
+      "title": "Liga Robótica Chile · Combarbalá · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Escuela América · Alonso de Ercilla 144",
+      "start": "2026-07-10",
+      "end": "2026-07-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/combarbala2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Fútbol Robot · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-07-10",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-07-10T14:00:00Z",
+          "end_utc": "2026-07-10T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C5298",
+      "title": "Liga Robótica Chile · Osorno · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "INACAP Osorno · Av. René Soriano 2382",
+      "start": "2026-08-21",
+      "end": "2026-08-21",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/inacap-osorno2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-08-21",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-08-21T14:00:00Z",
+          "end_utc": "2026-08-21T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C5299",
+      "title": "Liga Robótica Chile · La Serena · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "INACAP La Serena · Av. Francisco de Aguirre 321",
+      "start": "2026-09-25",
+      "end": "2026-09-25",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/inacap-laserena2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.",
+      "gear": "Sumo · Rescate Inicial / Avanzado",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La descripción menciona 4 estudiantes y tutor, y también un límite de 6 personas con tutor. Hay que confirmar el tamaño del equipo.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "date_precision": "published_session",
+      "sessions": [
+        {
+          "date": "2026-09-25",
+          "start_time": "10:00",
+          "end_time": "16:00",
+          "timezone": "America/Santiago",
+          "topic": "Liga Robótica Escolar",
+          "ical_timed": true,
+          "start_utc": "2026-09-25T13:00:00Z",
+          "end_utc": "2026-09-25T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C5300",
+      "title": "Liga Robótica Chile · Internacional LATAM · 2026",
+      "block": "Competiciones",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Gimnasio Municipal Huechuraba",
+      "start": "2026-09-04",
+      "end": "2026-09-05",
+      "period": "Del 2026-09-04 a las 10:00 al 2026-09-05 a las 16:00 hora local. Horarios diarios separados sin confirmar.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/internacional_chile2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/preguntas-frecuentes/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Equipo escolar con docente o tutor.",
+      "entry": "Archivo de la etapa escolar internacional. Todavía no se anuncia la próxima edición.",
+      "gear": "Sumo · Baile Robot · Fútbol Robot · Rescate · Viaje al centro de la Tierra",
+      "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglamento en español. Confirmar por separado el idioma del jurado.",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Torneo internacional LATAM",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "note": "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.",
+      "themes": [
+        "robotics"
+      ],
+      "scope": "international",
+      "importance_reason": "Torneo internacional LATAM",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "C051"
+      ]
+    },
+    {
+      "id": "L958",
+      "title": "Chonchi · Campamento Nacional de Tecnología y Robótica Escolar 2026",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Escuela San Carlos · Chonchi, Chiloé",
+      "start": "2026-06-05",
+      "end": "2026-06-08",
+      "period": "Archivo del 5–8 de junio de 2026. La próxima edición no está publicada.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/04/Bases-BootCamp-Chonchi-2026.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Equipos escolares. INACAP informa que en la edición 2026 hubo participantes de 10–18 años. Es la edad observada.",
+      "mat": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "osc": "Seguir la próxima edición y confirmar las condiciones de la categoría elegida.",
+      "format": "Hasta 4 estudiantes y 1 tutor. Las bases preveían 20 equipos. INACAP informa de 23 equipos en la edición realizada.",
+      "entry": "Inscripción escolar por la liga. Prioridad al primer equipo del centro, el segundo en lista de espera. Admisión extranjera sin verificar.",
+      "gear": "Portátil con Windows. La organización facilitó robots para el reto final.",
+      "language": "Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales en español. Falta confirmar idiomas de instrucción de la próxima edición.",
+      "cost": "Participación y comidas gratuitas. Las bases indican plazas gratuitas en dos sedes y 2500 CLP por noche en la tercera.",
+      "level": "Campamento escolar nacional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar nueva edición, edad, admisión de un colegio extranjero, idioma de instrucción y alojamiento concreto.",
+      "note": "Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inventor, Scratch y Unity. Al final, torneo de seguimiento de línea.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campamento escolar nacional",
+      "participation": "attend",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "registration_status": "Archivo 2026. Inscripción cerrada para esta edición.",
+      "availability": {
+        "status": "closed"
+      },
+      "delivery_mode": "in_person"
     },
     {
       "id": "CP047-20270103-20270108",
