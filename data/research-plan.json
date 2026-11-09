@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 329,
+    "version": 330,
     "status": "implementation_snapshot",
-    "events": 11362,
-    "competitions": 5070,
-    "league_profiles": 323,
-    "camp_dossiers": 2209,
+    "events": 11380,
+    "competitions": 5084,
+    "league_profiles": 324,
+    "camp_dossiers": 2212,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 725,
+    "exhibitions_events": 726,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 328,
+    "version": 329,
     "status": "implementation_snapshot",
-    "events": 11352,
-    "competitions": 5067,
+    "events": 11362,
+    "competitions": 5070,
     "league_profiles": 323,
-    "camp_dossiers": 2202,
+    "camp_dossiers": 2209,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 724,
+    "exhibitions_events": 725,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 329,
+    "prepared_ui_version": 330,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 328,
-    "previous_verified_commit": "1a9ce2652867a3f0dfeec97df0499ed706278f5e"
+    "previous_verified_ui_version": 329,
+    "previous_verified_commit": "30853cf13c8f137bb7e0fe7290b159f2e814f384"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 328,
-    "published_version": 328,
-    "latest_source_commit": "1a9ce2652867a3f0dfeec97df0499ed706278f5e",
-    "published_commit": "1a9ce2652867a3f0dfeec97df0499ed706278f5e",
-    "latest_workflow": 42572972615,
+    "latest_source_version": 329,
+    "published_version": 329,
+    "latest_source_commit": "30853cf13c8f137bb7e0fe7290b159f2e814f384",
+    "published_commit": "30853cf13c8f137bb7e0fe7290b159f2e814f384",
+    "latest_workflow": 42575162870,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -34892,5 +34892,94 @@
         "L307"
       ]
     }
+  },
+  "wonder_league_and_robotics_family_routes_v330": {
+    "version": 330,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5072",
+      "C5073",
+      "C5074",
+      "C5075",
+      "C5076",
+      "C5077",
+      "C5078",
+      "C5079",
+      "C5080",
+      "C5081",
+      "C5082",
+      "C5083",
+      "C5084",
+      "C5085",
+      "E726",
+      "CP2210-20270226-20270226-feb-26",
+      "CP2211-20270226-20270226-feb-26",
+      "CP2212-20270226-20270226-feb-26"
+    ],
+    "refreshed_event_ids": [
+      "C3209",
+      "C4572",
+      "C1163",
+      "C772",
+      "L307"
+    ],
+    "new_dossier_ids": [
+      "CP2210",
+      "CP2211",
+      "CP2212"
+    ],
+    "wonder_league_profile": "wonder-league-robotics-competition",
+    "wonder_divisions": [
+      "C5072",
+      "C5073"
+    ],
+    "wonder_milestones": [
+      "C5074",
+      "C5075",
+      "C5076",
+      "C5077",
+      "C5078",
+      "C5079",
+      "C5080",
+      "C5081"
+    ],
+    "wonder_cost_usd": {
+      "coach": 49.99,
+      "dash": 189.99,
+      "subtotal": 239.98
+    },
+    "wonder_coach_expires": "2027-04-30",
+    "wonder_registration_deadline": "2027-01-31",
+    "wonder_round_one_deadline": "2027-02-19",
+    "wonder_team_minimum_confirmed": false,
+    "roboarts_events": [
+      "C5082",
+      "C5083"
+    ],
+    "roboarts_regulation": "V2 2026-10-26",
+    "dd_robocon_events": [
+      "C5084",
+      "C5085"
+    ],
+    "spark_barcelona_event": "E726",
+    "telus_spark_dossiers": [
+      "CP2210",
+      "CP2211",
+      "CP2212"
+    ],
+    "telus_spark_programme_date": "2027-02-26",
+    "source_requests": 19,
+    "legacy_overlay_event_ids": [
+      "C3209",
+      "C4572",
+      "C1163",
+      "C772",
+      "L307"
+    ],
+    "legacy_overlay_league_ids": [
+      "robofest"
+    ]
   }
 }

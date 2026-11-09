@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11362; competiciones: 5070; eventos: 725; campamentos / programas: 5567. Perfiles de ligas y programas: 323. Fichas de exposiciones grandes y especializadas: 624 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11380; competiciones: 5084; eventos: 726; campamentos / programas: 5570. Perfiles de ligas y programas: 324. Fichas de exposiciones grandes y especializadas: 625 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2061 | 165 | 1399 |
+| América del Norte | 41 | 2062 | 165 | 1402 |
 | América del Sur | 15 | 467 | 52 | 238 |
-| Europa | 55 | 724 | 154 | 1612 |
+| Europa | 55 | 724 | 155 | 1612 |
 | África | 60 | 272 | 45 | 156 |
-| Asia | 50 | 1197 | 174 | 1785 |
+| Asia | 50 | 1200 | 174 | 1785 |
 | Oceanía | 27 | 175 | 32 | 362 |
 
-Fichas interregionales o globales sin asignar a un continente: 196. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base, no el porcentaje de cobertura.
+Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
 
-VEX: 815 de 5070 fichas de competiciones (16.1%). La cobertura se concentra en esta red.
+VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
 
 ## Lo que queda
 
@@ -103,7 +103,7 @@ VEX: 815 de 5070 fichas de competiciones (16.1%). La cobertura se concentra en e
 - **WER**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 fichas, 26 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
-- **Robofest · LTU**: 25 fichas, 20 con fechas futuras exactas. Hay un perfil y fichas, con cobertura local parcial. https://www.robofest.net/index.php/current-competitions/main-page
+- **Robofest · LTU**: 27 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
@@ -349,6 +349,7 @@ VEX: 815 de 5070 fichas de competiciones (16.1%). La cobertura se concentra en e
 - **ITICBOT · Colombia**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://iticbot.com/robotica.html
 - **TEAM Alliance · Sphero Robotics Missions / Blueprint SRC**: 23 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://teamalliance.org/events/
 - **Colorado FIRST · LEGO League Explore**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://coloradofirst.org/programs/fll-explore/
+- **Wonder League Robotics Competition**: 10 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makewonder.com/robotics-competition/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1015,6 +1016,7 @@ VEX: 815 de 5070 fichas de competiciones (16.1%). La cobertura se concentra en e
 - **Colorado FIRST LEGO League Explore · Lafayette · Visita a las demostraciones** — Estados Unidos; 2027-04-24. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/
 - **Museo Franz Mayer · IA: Más que humano** — México; 2026-10-09 – 2027-04-04. con un adulto; condiciones de admisión adulta por separado. https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano
 - **VGLX · Video Game Live Expo 2027** — Canadá; 2027-10-16 – 2027-10-17. con un adulto; condiciones de admisión adulta por separado. https://vglx.ca/
+- **Spark 2027 · Creative Content & Technology** — España; 2027-02-03 – 2027-02-04. el permiso de entrada de niños. https://spark-expo.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

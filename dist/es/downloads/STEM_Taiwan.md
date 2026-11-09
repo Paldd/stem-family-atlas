@@ -741,7 +741,7 @@ Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase 
 Precio: Precio sin publicar.
 Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
 Fuente: https://robofest.me/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C3210 · Taiwan Robofest 2027 · RoboMed · Junior
 

@@ -3816,7 +3816,9 @@
           "C4571",
           "C4572",
           "C4573",
-          "E532"
+          "E532",
+          "C5082",
+          "C5083"
         ],
         "legacy_ids": [
           "C053"
@@ -3839,7 +3841,8 @@
           "V2: Game/Exhibition — 1 equipo con 5–49 locales, 2 con 50+; máximo 2. Open — 1 con 5–74, 2 con 75+; máximo 2 por categoría. Si categoría Open no se celebró localmente, director puede seleccionar 1 equipo. Cuota depende del informe oficial del organizador; sin prometer plaza familiar.",
           "General Rules V2 nuevo del 4 de noviembre de 2026 indica 28–31 de mayo de 2027 en Seúl sin TENTATIVE; coinciden página World y universidad anfitriona. HTML del calendario general aún conserva TENTATIVE. Registrado periodo general anunciado según V2 y página específica; día de RoboParade y agenda definitiva sin publicar. Se conserva discrepancia de estatus para revisión antes del viaje.",
           "Si se inscriben menos de 5 equipos pueden cancelar categoría y ofrecer transferencia. Pago no prueba celebración efectiva ni pase a final.",
-          "v135 · México/LATAM 2026 publica las páginas locales 6–14 contra grade 5–8 overview, de los diferentes W193 drones/football y mezclado General 2025/2026. No es un cambio de reglas. LTU World 2027; nuevo LATAM calendario/no se ha anunciado. cf.. un perfil separado robofest-latam."
+          "v135 · México/LATAM 2026 publica las páginas locales 6–14 contra grade 5–8 overview, de los diferentes W193 drones/football y mezclado General 2025/2026. No es un cambio de reglas. LTU World 2027; nuevo LATAM calendario/no se ha anunciado. cf.. un perfil separado robofest-latam.",
+          "La página oficial etiqueta el enlace como V1 del 25 de septiembre de 2026, pero el PDF enlazado es V2 del 26 de octubre de 2026. Para cada etapa local, cotejar sus propias bases."
         ],
         "cost": "USD 110 por equipo/categoría en US-event y USD 135 en World; tarifas locales internacionales pueden diferir, posible check-in fee. Cuotas no reembolsables. Qualifier Game/Exhibition y final se pagan aparte. Al transferir Pre-Registration a Open obtener abono ya pagado en invoice, sin inventar suplemento. Equipo, viaje y alojamiento aparte.",
         "award": "En RoboParade reciben trophies el 20% de equipos de división según rubric; posibles premios especiales. Participation certificate / medal no acredita puesto premiado. Distinguir resultado World, US y local mediante acta.",
@@ -3883,9 +3886,14 @@
             "title": "US 2027",
             "url": "https://www.robofest.net/index.php/us-championship",
             "checked": "2026-11-05"
+          },
+          {
+            "url": "https://www.robofest.net/images/2627/RoboArts2027_V2.pdf",
+            "title": "Página de la organización o reglamento de la categoría."
           }
         ],
-        "evidence": "General V2 y RoboParade V2 leídos el 5 de noviembre de 2026; vistas páginas clave. Sin declarar auditadas por completo otras normas específicas ni documentos nacionales."
+        "evidence": "General V2 y RoboParade V2 leídos el 5 de noviembre de 2026; vistas páginas clave. Sin declarar auditadas por completo otras normas específicas ni documentos nacionales.",
+        "checked": "2026-11-09"
       },
       {
         "id": "robotex",
@@ -26320,6 +26328,90 @@
         "checked": "2026-11-08"
       },
       {
+        "id": "wonder-league-robotics-competition",
+        "name": "Wonder League Robotics Competition",
+        "group": "international",
+        "age_summary": "Dos divisiones: 6–8 y 9–12 años. Confirmar la fecha de corte.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "Liga internacional a distancia con misiones para escolares de primaria",
+        "importance": "Liga internacional a distancia con misiones para escolares de primaria",
+        "strengths": "Participación en línea desde cualquier país. Una persona adulta activa Make Wonder de pago e inscribe el equipo en Robotics Competition. Las misiones y preguntas frecuentes se abren en el área de mentores.",
+        "route": "Participación en línea desde cualquier país. Una persona adulta activa Make Wonder de pago e inscribe el equipo en Robotics Competition. Las misiones y preguntas frecuentes se abren en el área de mentores.",
+        "hardware": "Dash físico, dispositivo compatible, internet y tapete de 150×240 cm con celdas de 30 cm. Virtual Dash sirve para practicar. Consultar en el portal los materiales de las misiones concretas.",
+        "cost": "STEM Coach — USD 49.99, acceso hasta el 30 de abril de 2027. Dash en el catálogo oficial — USD 189.99. Referencia para una suscripción y un robot — USD 239.98 antes de tapete, envío e impuestos. Confirmar disponibilidad y envío al país de la familia.",
+        "language": "Los materiales oficiales y el seminario para mentores están en inglés. Confirmar el idioma admitido para informes, vídeos y comentarios.",
+        "award": "Los premios principales de las dos divisiones son productos Wonder Workshop. People’s Choice se decide por votación aparte. El acceso a Invitational depende de la primera ronda.",
+        "requirements": [
+          "Equipo en línea con una persona adulta mentora. Confirmar los límites de integrantes y si se admite inscripción individual. El límite de 5 estudiantes corresponde a la suscripción.",
+          "Participación en línea desde cualquier país. Una persona adulta activa Make Wonder de pago e inscribe el equipo en Robotics Competition. Las misiones y preguntas frecuentes se abren en el área de mentores."
+        ],
+        "nuances": [
+          "La familia debe confirmar si un mentor puede llevar 2 equipos de divisiones distintas y compartir 1 Dash físico por turnos. No se confirman públicamente la fecha de corte de edad, la inscripción individual ni el equipo compartido.",
+          "La página de la organización indica dos fechas de fin del descuento de equipos: 14 y 28 de febrero de 2027. El presupuesto excluye el descuento."
+        ],
+        "categories": [
+          {
+            "name": "Innovator Cup",
+            "age": "Innovator Cup: 6–8 años, Coding Pathways A–C. No se publica la fecha de corte de edad.",
+            "team": "Equipo en línea con una persona adulta mentora. Confirmar los límites de integrantes y si se admite inscripción individual. El límite de 5 estudiantes corresponde a la suscripción.",
+            "hardware": "Dash físico, dispositivo compatible, internet y tapete de 150×240 cm con celdas de 30 cm. Virtual Dash sirve para practicar. Consultar en el portal los materiales de las misiones concretas.",
+            "entry": "Participación en línea desde cualquier país. Una persona adulta activa Make Wonder de pago e inscribe el equipo en Robotics Competition. Las misiones y preguntas frecuentes se abren en el área de mentores."
+          },
+          {
+            "name": "Pioneer Cup",
+            "age": "Pioneer Cup: 9–12 años, Coding Pathways D–F. No se publica la fecha de corte de edad.",
+            "team": "Equipo en línea con una persona adulta mentora. Confirmar los límites de integrantes y si se admite inscripción individual. El límite de 5 estudiantes corresponde a la suscripción.",
+            "hardware": "Dash físico, dispositivo compatible, internet y tapete de 150×240 cm con celdas de 30 cm. Virtual Dash sirve para practicar. Consultar en el portal los materiales de las misiones concretas.",
+            "entry": "Participación en línea desde cualquier país. Una persona adulta activa Make Wonder de pago e inscribe el equipo en Robotics Competition. Las misiones y preguntas frecuentes se abren en el área de mentores."
+          }
+        ],
+        "event_ids": [
+          "C5072",
+          "C5073",
+          "C5074",
+          "C5075",
+          "C5076",
+          "C5077",
+          "C5078",
+          "C5079",
+          "C5080",
+          "C5081"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.makewonder.com/robotics-competition/",
+            "title": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://store.makewonder.com/pages/wonder-league-robotics-competition",
+            "title": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=-5QJ0BnSmvw",
+            "title": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://www.bigmarker.com/moravia-education/2026-wonder-league-robotics-competition-getting-you-started-and-what-to-plan-for",
+            "title": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://www.geyerinstructional.com/2026-2027-wonder-league-robotics-competition-grid-mat-150cm-x-240cm/",
+            "title": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://portal.makewonder.com/",
+            "title": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "checked": "2026-11-09",
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -31665,7 +31757,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 323. Se conservan las 46 vías anteriores. Los formatos brasileños se separan y Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias de competiciones y programas: 324. Se conservan las 46 vías previas. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se describen con sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

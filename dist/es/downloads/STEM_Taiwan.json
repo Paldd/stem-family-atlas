@@ -3482,11 +3482,28 @@
       "deadline": "",
       "period": "",
       "date_status": "Confirmado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://robofest.me/",
-      "references": [],
+      "references": [
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/roboarts/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/RoboArts2027_V2.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/main-page",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
       "age": "Grados 3–8. Equipo de 1–5 personas.",
       "mat": "Condicional si se confirman grado 3–8, idioma y admisión local.",
       "osc": "Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.",
@@ -3514,7 +3531,11 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "festival_window",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "related_ids": [
+        "C5083"
+      ],
+      "registration_status": "Edad y acceso de esta sede se rigen por sus propias condiciones. RoboArts mundial aplica las bases internacionales V2, Junior grados 5–8."
     },
     {
       "id": "C3210",

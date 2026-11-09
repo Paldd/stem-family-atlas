@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11362,
-    "competition_cards": 5070,
-    "event_cards": 725,
-    "camp_cards": 5567,
-    "league_profiles": 323,
-    "major_exhibition_cards": 624,
+    "cards": 11380,
+    "competition_cards": 5084,
+    "event_cards": 726,
+    "camp_cards": 5570,
+    "league_profiles": 324,
+    "major_exhibition_cards": 625,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3668,
+      "total": 3672,
       "countries_with_records": 41,
-      "competitions": 2061,
+      "competitions": 2062,
       "events": 208,
       "major_exhibitions": 165,
-      "camps": 1399,
+      "camps": 1402,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2515,
+      "total": 2516,
       "countries_with_records": 55,
       "competitions": 724,
-      "events": 179,
-      "major_exhibitions": 154,
+      "events": 180,
+      "major_exhibitions": 155,
       "camps": 1612,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 3169,
+      "total": 3172,
       "countries_with_records": 50,
-      "competitions": 1197,
+      "competitions": 1200,
       "events": 187,
       "major_exhibitions": 174,
       "camps": 1785,
@@ -2456,11 +2456,13 @@
         "C4570",
         "C4571",
         "C4572",
-        "C4573"
+        "C4573",
+        "C5082",
+        "C5083"
       ],
-      "cards": 25,
-      "future_dated": 20,
-      "linked_card_count": 28,
+      "cards": 27,
+      "future_dated": 21,
+      "linked_card_count": 30,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robofest.net/index.php/current-competitions/main-page",
       "new": false
@@ -8313,6 +8315,29 @@
       "linked_card_count": 5,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://coloradofirst.org/programs/fll-explore/",
+      "new": false
+    },
+    {
+      "id": "wonder-league-robotics-competition",
+      "name": "Wonder League Robotics Competition",
+      "group": "international",
+      "event_ids": [
+        "C5072",
+        "C5073",
+        "C5074",
+        "C5075",
+        "C5076",
+        "C5077",
+        "C5078",
+        "C5079",
+        "C5080",
+        "C5081"
+      ],
+      "cards": 10,
+      "future_dated": 5,
+      "linked_card_count": 10,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.makewonder.com/robotics-competition/",
       "new": false
     },
     {
@@ -16181,6 +16206,17 @@
       "new": false
     },
     {
+      "id": "E726",
+      "name": "Spark 2027 · Creative Content & Technology",
+      "country": "España",
+      "region": "Europa",
+      "start": "2027-02-03",
+      "end": "2027-02-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://spark-expo.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17561,7 +17597,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 196,
+  "interregional_cards": 206,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -18598,8 +18634,8 @@
       }
     ],
     "counts": {
-      "records": 5567,
-      "holiday": 5009,
+      "records": 5570,
+      "holiday": 5012,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,

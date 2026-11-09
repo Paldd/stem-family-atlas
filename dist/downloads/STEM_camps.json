@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5567,
-      "holiday": 5009,
+      "records": 5570,
+      "holiday": 5012,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -19244,10 +19244,6 @@
         {
           "label": "Текущий прайс и комплект",
           "url": "https://www.roboparty.org/RPGuimaraes/price.php"
-        },
-        {
-          "label": "Анонс подготовки 2027",
-          "url": "https://www.roboparty.org/"
         },
         {
           "url": "https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/",
@@ -463277,6 +463273,268 @@
         "label": "Сведения о месте в группе пока отсутствуют."
       },
       "date_rule": "Анонс двух полных дней. Компания, пункт сбора, часы, окончательная программа и места уточняются."
+    },
+    {
+      "id": "CP2210-20270226-20270226-feb-26",
+      "block": "Лагеря",
+      "title": "TELUS Spark · Robots – Assemble! · Robots – Assemble! · 2027-02-26–2027-02-26",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "period": "Однодневная программа в день без школьных занятий. 09:00–16:00, приём 08:00–09:00, выдача 16:00–17:00. Часовой пояс Alberta Time UTC−6.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–7 лет.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Исследовать трение и блоки, собрать Robot Glider и создать рисунок с помощью Scribble-Bot.",
+      "language": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "cost": "2027 · CAD 80 за ребёнка за день, включая ранний приём и позднюю выдачу. На двоих CAD 160 до возможных сборов. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах.; Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+      "references": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы этой группы. Оскар: Подходит по заявленному возрасту. Подтвердить место и язык группы. Доплаты: Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "telus-spark-robots-assemble",
+      "camp_programme_id": "CP2210",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Edmonton",
+          "topic": "Robots – Assemble!",
+          "ical_timed": true,
+          "start_utc": "2027-02-26T15:00:00Z",
+          "end_utc": "2027-02-26T22:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2211-20270226-20270226-feb-26",
+      "block": "Лагеря",
+      "title": "TELUS Spark · Awesome Automatons · Awesome Automatons · 2027-02-26–2027-02-26",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "period": "Однодневная программа в день без школьных занятий. 09:00–16:00, приём 08:00–09:00, выдача 16:00–17:00. Часовой пояс Alberta Time UTC−6.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "7–9 лет.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Собрать механический автомат из коробки, изучить шестерни, оси и кулачки.",
+      "language": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "cost": "2027 · CAD 80 за ребёнка за день, включая ранний приём и позднюю выдачу. На двоих CAD 160 до возможных сборов. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах.; Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+      "references": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Подходит по заявленному возрасту. Подтвердить место и язык группы. Оскар: Подойдёт, если ребёнку исполнится 7 лет к занятию. Иначе выбрать группу 5–7. Доплаты: Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "telus-spark-awesome-automatons",
+      "camp_programme_id": "CP2211",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Edmonton",
+          "topic": "Awesome Automatons",
+          "ical_timed": true,
+          "start_utc": "2027-02-26T15:00:00Z",
+          "end_utc": "2027-02-26T22:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2212-20270226-20270226-feb-26",
+      "block": "Лагеря",
+      "title": "TELUS Spark · Tech in Training · Tech in Training · 2027-02-26–2027-02-26",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "period": "Однодневная программа в день без школьных занятий. 09:00–16:00, приём 08:00–09:00, выдача 16:00–17:00. Часовой пояс Alberta Time UTC−6.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–12 лет.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Изучить биомеханику движения на примере RO5iE, собрать и запрограммировать кольцо для регистрации движений.",
+      "language": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "cost": "2027 · CAD 80 за ребёнка за день, включая ранний приём и позднюю выдачу. На двоих CAD 160 до возможных сборов. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах.; Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+      "references": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Подходит по заявленному возрасту. Подтвердить место и язык группы. Оскар: Возраст ниже нижней границы этой группы. Доплаты: Оплата целиком при записи. При отмене за 2 недели или раньше удерживается CAD 30. Наличие мест уточнить в обеих группах. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание и FAQ на английском. Язык, на котором инструктор ведёт занятия, отдельно не указан.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "telus-spark-tech-in-training",
+      "camp_programme_id": "CP2212",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Edmonton",
+          "topic": "Tech in Training",
+          "ical_timed": true,
+          "start_utc": "2027-02-26T15:00:00Z",
+          "end_utc": "2027-02-26T22:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
     },
     {
       "id": "L491",

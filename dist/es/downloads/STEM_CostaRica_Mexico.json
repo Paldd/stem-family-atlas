@@ -40150,10 +40150,26 @@
         {
           "url": "https://www.robofestmexico.org/registro",
           "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/roboarts/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/RoboArts2027_V2.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/main-page",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Leído las disposiciones elegidas de su propia edición publicada de 2026; este es un archivo de reglas, no el calendario de 2027.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "el archivo general se ha marcado 2026, pero contiene footer General Rules 2025 V 2, tabla RoboParade 2025 y las fechas pasadas. marco local 6–14 no se transfiere a LTU World 2027: Ahí mismo. Junior 5–8 clases y un Explorer 1–4. fecha de la entrega LATAM 2027 no se publicó. Coaches No recolectan robots y no escriben./editar el código para los participantes (p 13). Game/Exhibition tienen un camino de cualificación; Open la nominación se acordará por el director regional. en el archivo <3 el equipo: No hay lugares para los premios, posible acreditamiento por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.",
       "iso": [
@@ -40167,7 +40183,7 @@
       "evidence_level": "historical_rules",
       "rules_year": 2026,
       "next_season_status": "unannounced",
-      "registration_status": "Fechas del festival publicadas. La página de bases sigue mostrando la edición 2026. No se confirma la apertura de inscripciones de las pruebas de 2027.",
+      "registration_status": "Edad y acceso de esta sede se rigen por sus propias condiciones. RoboArts mundial aplica las bases internacionales V2, Junior grados 5–8.",
       "team_max": 5,
       "historical_editions": [
         {
@@ -40181,7 +40197,8 @@
       "parent_event_id": "C4626",
       "related_ids": [
         "C4626",
-        "E557"
+        "E557",
+        "C5083"
       ]
     },
     {

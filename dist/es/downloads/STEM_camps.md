@@ -87862,6 +87862,54 @@ Limitaciones: Matvey: Cumple la edad anunciada. En el límite de 9 años la orga
 Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
 Se ha comprobado: 2026-11-09
 
+### CP2210-20270226-20270226-feb-26 · TELUS Spark · Robots – Assemble! · Robots – Assemble! · 2027-02-26–2027-02-26
+
+Lugar: Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+Fecha: 2027-02-26 国 2027-02-26
+Edad: 5–7 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Supera la edad máxima del grupo. Oscar: Cumple la edad indicada. Confirmar plaza e idioma del grupo. Suplementos: Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.sparkscience.ca/for-kids/camps/pd-day-camps
+Se ha comprobado: 2026-11-09
+
+### CP2211-20270226-20270226-feb-26 · TELUS Spark · Awesome Automatons · Awesome Automatons · 2027-02-26–2027-02-26
+
+Lugar: Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+Fecha: 2027-02-26 国 2027-02-26
+Edad: 7–9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cumple la edad indicada. Confirmar plaza e idioma del grupo. Oscar: Encaja si cumple 7 años antes de la sesión. Si tiene menos, elegir el grupo 5–7. Suplementos: Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.sparkscience.ca/for-kids/camps/pd-day-camps
+Se ha comprobado: 2026-11-09
+
+### CP2212-20270226-20270226-feb-26 · TELUS Spark · Tech in Training · Tech in Training · 2027-02-26–2027-02-26
+
+Lugar: Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+Fecha: 2027-02-26 国 2027-02-26
+Edad: 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cumple la edad indicada. Confirmar plaza e idioma del grupo. Oscar: No llega a la edad mínima del grupo. Suplementos: Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.sparkscience.ca/for-kids/camps/pd-day-camps
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

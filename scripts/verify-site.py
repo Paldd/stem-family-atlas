@@ -92,9 +92,11 @@ for name in ['STEM_подтвержденные_даты.ics', 'STEM_крупн�
     assert body.count('BEGIN:VEVENT') == body.count('END:VEVENT')
     uids = re.findall(r'(?m)^UID:(.+)$', re.sub(r'\r?\n[ \t]', '', body))
     assert len(uids) == len(set(uids)) == body.count('BEGIN:VEVENT'), name
-# B.C.'s permanent Pacific time must not depend on the host's tzdb vintage.
+# Permanent Canadian time rules must work with older host tzdbs.
 assert local_to_utc('2026-12-21', '09:00', 'America/Vancouver').isoformat() == '2026-12-21T16:00:00+00:00'
 assert local_to_utc('2027-07-05', '09:00', 'America/Vancouver').isoformat() == '2027-07-05T16:00:00+00:00'
+assert local_to_utc('2026-02-26', '09:00', 'America/Edmonton').isoformat() == '2026-02-26T16:00:00+00:00'
+assert local_to_utc('2027-02-26', '09:00', 'America/Edmonton').isoformat() == '2027-02-26T15:00:00+00:00'
 assert local_to_utc('2026-12-21', '09:00', 'America/Los_Angeles').isoformat() == '2026-12-21T17:00:00+00:00'
 calendar = re.sub(r'\r?\n[ \t]', '', (downloads / 'STEM_подтвержденные_даты.ics').read_text())
 calendar_rows = {re.search(r'(?m)^UID:(.+)$', block).group(1): block

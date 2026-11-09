@@ -3482,11 +3482,28 @@
       "deadline": "",
       "period": "",
       "date_status": "Подтверждено",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
       "status": "Идея",
       "source": "https://robofest.me/",
-      "references": [],
+      "references": [
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/roboarts/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/RoboArts2027_V2.pdf",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.robofest.net/index.php/current-competitions/main-page",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
       "age": "Классы 3–8. Команда 1–5 человек.",
       "mat": "Условно, если подтверждён класс 3–8, язык и местный допуск.",
       "osc": "Будущая категория с 3 класса. Проверить класс и правила приёма.",
@@ -3514,7 +3531,11 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "festival_window",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "related_ids": [
+        "C5083"
+      ],
+      "registration_status": "Возраст и допуск на этой площадке указаны в её собственных условиях. Для мирового RoboArts действует международный регламент V2, Junior 5–8 классы."
     },
     {
       "id": "C3210",

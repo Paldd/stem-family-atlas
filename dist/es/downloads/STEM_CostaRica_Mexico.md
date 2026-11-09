@@ -7868,7 +7868,7 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### # C1164 · Robofest LATAM · RoboMed Junior · siguiente
 

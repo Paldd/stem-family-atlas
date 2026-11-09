@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. 2209 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
+Estado de la base al 2026-11-09. 2212 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -175445,6 +175445,180 @@ RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2210 · TELUS Spark · Robots – Assemble!
+
+Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** De 5 a 7 años.
+
+**Idioma:** Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+**Programa:** Explorar fricción y poleas, montar Robot Glider y crear un dibujo con Scribble-Bot.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Precio / año:** 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+**Incluido:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Suplementos:** Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Supera la edad máxima del grupo.
+
+**Oscar:** Cumple la edad indicada. Confirmar plaza e idioma del grupo.
+
+**Por qué se incluye:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+### Antes de solicitar plaza
+
+- Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+- Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+### Robots – Assemble!
+
+**Fechas / estado:** 2027-02-26 — 2027-02-26
+
+**lugar:** Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Precio:** CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+- 2027-02-26 · 09:00–16:00 · America/Edmonton · Robots – Assemble!
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.sparkscience.ca/for-kids/camps/pd-day-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/for-kids/camps/pd-day-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/winter) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.alberta.ca/albertas-new-time-system-abt) · 2026-11-09
+
+## CP2211 · TELUS Spark · Awesome Automatons
+
+Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 7–9 años.
+
+**Idioma:** Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+**Programa:** Construir un autómata mecánico con una caja y explorar engranajes, ejes y levas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Precio / año:** 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+**Incluido:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Suplementos:** Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la edad indicada. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Encaja si cumple 7 años antes de la sesión. Si tiene menos, elegir el grupo 5–7.
+
+**Por qué se incluye:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+### Antes de solicitar plaza
+
+- Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+- Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+### Awesome Automatons
+
+**Fechas / estado:** 2027-02-26 — 2027-02-26
+
+**lugar:** Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Precio:** CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+- 2027-02-26 · 09:00–16:00 · America/Edmonton · Awesome Automatons
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.sparkscience.ca/for-kids/camps/pd-day-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/for-kids/camps/pd-day-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/winter) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.alberta.ca/albertas-new-time-system-abt) · 2026-11-09
+
+## CP2212 · TELUS Spark · Tech in Training
+
+Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–12 años.
+
+**Idioma:** Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+**Programa:** Explorar la biomecánica con RO5iE y montar y programar un anillo que registra movimientos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Precio / año:** 2027 · CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+**Incluido:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+**Suplementos:** Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la edad indicada. Confirmar plaza e idioma del grupo.
+
+**Oscar:** No llega a la edad mínima del grupo.
+
+**Por qué se incluye:** Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.
+
+### Antes de solicitar plaza
+
+- Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.
+
+- Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.
+
+### Tech in Training
+
+**Fechas / estado:** 2027-02-26 — 2027-02-26
+
+**lugar:** Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
+
+**Precio:** CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.
+
+- 2027-02-26 · 09:00–16:00 · America/Edmonton · Tech in Training
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.sparkscience.ca/for-kids/camps/pd-day-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/for-kids/camps/pd-day-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/winter) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.alberta.ca/albertas-new-time-system-abt) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

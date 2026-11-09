@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2209,
+    "dossiers": 2212,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 627,
+      "published_2027": 630,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3144
+    "source_urls": 3147
   },
   "countries": [
     {
@@ -258,7 +258,7 @@
     },
     {
       "country": "Canadá",
-      "count": 209
+      "count": 212
     },
     {
       "country": "Catar",
@@ -388289,6 +388289,385 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2210",
+      "slug": "telus-spark-robots-assemble",
+      "provider": "TELUS Spark · Robots – Assemble!",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "age": "De 5 a 7 años.",
+      "programme": "Explorar fricción y poleas, montar Robot Glider y crear un dibujo con Scribble-Bot.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "sessions": [
+          [
+            "2027-02-26",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb-26",
+            "start": "2027-02-26",
+            "end": "2027-02-26",
+            "label": "Robots – Assemble!",
+            "price": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+            "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+            "sessions": [
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Edmonton",
+                "topic": "Robots – Assemble!",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 80,
+        "currency": "CAD",
+        "unit": "child_day",
+        "label": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+        "included": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "extras": "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera la edad máxima del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad indicada. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+      "shortlist": [],
+      "questions": [
+        "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-26",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2210-20270226-20270226-feb-26"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2211",
+      "slug": "telus-spark-awesome-automatons",
+      "provider": "TELUS Spark · Awesome Automatons",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "age": "De 7 a 9 años.",
+      "programme": "Construir un autómata mecánico con una caja y explorar engranajes, ejes y levas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "sessions": [
+          [
+            "2027-02-26",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb-26",
+            "start": "2027-02-26",
+            "end": "2027-02-26",
+            "label": "Awesome Automatons",
+            "price": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+            "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+            "sessions": [
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Edmonton",
+                "topic": "Awesome Automatons",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 80,
+        "currency": "CAD",
+        "unit": "child_day",
+        "label": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+        "included": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "extras": "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad indicada. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja si cumple 7 años antes de la sesión. Si tiene menos, elegir el grupo 5–7."
+        }
+      },
+      "editorial_reason": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+      "shortlist": [],
+      "questions": [
+        "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-26",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2211-20270226-20270226-feb-26"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2212",
+      "slug": "telus-spark-tech-in-training",
+      "provider": "TELUS Spark · Tech in Training",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+      "age": "9–12 años.",
+      "programme": "Explorar la biomecánica con RO5iE y montar y programar un anillo que registra movimientos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "sessions": [
+          [
+            "2027-02-26",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb-26",
+            "start": "2027-02-26",
+            "end": "2027-02-26",
+            "label": "Tech in Training",
+            "price": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+            "source": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE",
+            "sessions": [
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Edmonton",
+                "topic": "Tech in Training",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 80,
+        "currency": "CAD",
+        "unit": "child_day",
+        "label": "CAD 80 por menor y día, con cuidado antes y después incluido. Para dos, CAD 160 antes de posibles cargos.",
+        "included": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+        "extras": "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad indicada. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No llega a la edad mínima del grupo."
+        }
+      },
+      "editorial_reason": "Programa de un día sin clases. 09:00–16:00, entrada 08:00–09:00 y recogida 16:00–17:00. Huso Alberta Time UTC−6.",
+      "shortlist": [],
+      "questions": [
+        "Pago íntegro al reservar. Si se cancela con 2 semanas de antelación o más, se retienen CAD 30. Confirmar plazas en ambos grupos.",
+        "Descripción y preguntas frecuentes en inglés. El idioma hablado por la persona instructora no se indica por separado."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sparkscience.ca/for-kids/camps/pd-day-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sparkscience.ca/winter",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-26",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2212-20270226-20270226-feb-26"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -393614,7 +393993,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 329,
+  "version": 330,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -406849,7 +407228,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2209,
+      "total_dossiers": 2212,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -431554,6 +431933,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2210",
+      "event_id": "CP2210-20270226-20270226-feb-26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2211",
+      "event_id": "CP2211-20270226-20270226-feb-26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2212",
+      "event_id": "CP2212-20270226-20270226-feb-26",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -436609,10 +437003,13 @@
     "CP2206-20261219-20261220-winter-tour",
     "CP2207-20270102-20270103-winter-tour",
     "CP2208-20261219-20261220-winter-tour",
-    "CP2209-20261228-20261229-winter-tour"
+    "CP2209-20261228-20261229-winter-tour",
+    "CP2210-20270226-20270226-feb-26",
+    "CP2211-20270226-20270226-feb-26",
+    "CP2212-20270226-20270226-feb-26"
   ],
   "integration": {
-    "generated_sessions": 4645,
+    "generated_sessions": 4648,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
