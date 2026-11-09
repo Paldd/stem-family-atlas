@@ -14166,6 +14166,38 @@ Condiciones: Curso continuo con horario acordado. No se confirma una sesión fec
 Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/
 Se ha comprobado: 2026-11-09
 
+### L962 · Meta Robotics · Competition Preparation
+
+Lugar: Singapur Singapore
+Fecha: El horario depende de la convocatoria. Las fechas de las clases siguen pendientes.
+Edad: La edad y el equipo dependen de la categoría de la competición.
+Matvey: Condicional. Confirme edad, plaza y equipo para la convocatoria concreta.
+Oscar: Condicional. Confirme edad, plaza y equipo para la convocatoria concreta.
+Formato: regular
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Referencias de 2026 con GST: 3950 SGD para el público y 2750 SGD para alumnado elegible de Meta Robotics con más de 6 meses. Confirme la tarifa actual.
+Acceso: Condicional. Confirme edad, plaza y equipo para la convocatoria concreta.
+Condiciones: Habitualmente más de 60 horas. Construcción, sensores, misiones de campo y defensa del proyecto. Preparan para NRC y otros torneos seleccionados. Confirme el acceso al torneo por separado.
+Fuente: https://www.metarobotics.sg/competition-preparation
+Se ha comprobado: 2026-11-09
+
+### L963 · LCCL · Competition Training
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: El horario depende de la convocatoria. Las fechas de las clases siguen pendientes.
+Edad: La edad y el equipo dependen de la categoría de la competición.
+Matvey: Condicional. Confirme edad, plaza y equipo para la convocatoria concreta.
+Oscar: Condicional. Confirme edad, plaza y equipo para la convocatoria concreta.
+Formato: regular
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Precio y calendario para participantes invitados por confirmar.
+Acceso: Sin inscripción directa. La preparación requiere invitación por recomendación docente tras asistir al grupo regular.
+Condiciones: Sin inscripción directa. La preparación requiere invitación por recomendación docente tras asistir al grupo regular.
+Fuente: https://www.lcclcoding.com/faq
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -17976,67 +18008,67 @@ Comprobado: 2026-10-04
 
 ### CP077-20261123-20261127 · LCCL · Early Creators · Early Creators · 14:30–17:30 · 2026-11-23–2026-11-27
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-11-23 国 2026-11-27
-Edad: 5–7 programado/terms; Portal 5–8 — límite superior para confirmar
-Matvey: No ahora; la edad futura
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 5–6 años y las condiciones de venta 5–7. Oscar tiene 6 años y encaja en ambas.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: B 9 años por encima de ambos límites publicados; otra pista. Oscar: 5–7 corresponde; antes de confirmar EN y grupo específico. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/early-creators/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Matvey supera la edad de Early Creators. Coding Fundamentals se ofrece a la misma hora por la tarde. Oscar: A los 6 años encaja en Early Creators. Confirme plaza e idioma. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/early-creators
+Se ha comprobado: 2026-11-09
 
 ### CP077-20261130-20261204 · LCCL · Early Creators · Early Creators · 14:30–17:30 · 2026-11-30–2026-12-04
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-11-30 — 2026-12-04
-Edad: 5–7 programado/terms; Portal 5–8 — límite superior para confirmar
-Matvey: No ahora; la edad futura
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 5–6 años y las condiciones de venta 5–7. Oscar tiene 6 años y encaja en ambas.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: B 9 años por encima de ambos límites publicados; otra pista. Oscar: 5–7 corresponde; antes de confirmar EN y grupo específico. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/early-creators/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Matvey supera la edad de Early Creators. Coding Fundamentals se ofrece a la misma hora por la tarde. Oscar: A los 6 años encaja en Early Creators. Confirme plaza e idioma. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/early-creators
+Se ha comprobado: 2026-11-09
 
 ### CP077-20261207-20261211 · LCCL · Early Creators · Early Creators · 14:30–17:30 · 2026-12-07–2026-12-11
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-12-07 — 2026-12-11
-Edad: 5–7 programado/terms; Portal 5–8 — límite superior para confirmar
-Matvey: No ahora; la edad futura
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 5–6 años y las condiciones de venta 5–7. Oscar tiene 6 años y encaja en ambas.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: B 9 años por encima de ambos límites publicados; otra pista. Oscar: 5–7 corresponde; antes de confirmar EN y grupo específico. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/early-creators/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Matvey supera la edad de Early Creators. Coding Fundamentals se ofrece a la misma hora por la tarde. Oscar: A los 6 años encaja en Early Creators. Confirme plaza e idioma. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/early-creators
+Se ha comprobado: 2026-11-09
 
 ### CP077-20261214-20261218 · LCCL · Early Creators · Early Creators · 14:30–17:30 · 2026-12-14–2026-12-18
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-12-14 - 2026-12-18
-Edad: 5–7 programado/terms; Portal 5–8 — límite superior para confirmar
-Matvey: No ahora; la edad futura
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 5–6 años y las condiciones de venta 5–7. Oscar tiene 6 años y encaja en ambas.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: B 9 años por encima de ambos límites publicados; otra pista. Oscar: 5–7 corresponde; antes de confirmar EN y grupo específico. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/early-creators/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Matvey supera la edad de Early Creators. Coding Fundamentals se ofrece a la misma hora por la tarde. Oscar: A los 6 años encaja en Early Creators. Confirme plaza e idioma. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/early-creators
+Se ha comprobado: 2026-11-09
 
 ### CP078-20261012-20261016 · LCCL · Coding Fundamentals · Coding Fundamentals · 14:30–17:30 · 2026-10-12–2026-10-16
 
@@ -18088,67 +18120,115 @@ Comprobado: 2026-10-04
 
 ### CP078-20261123-20261127 · LCCL · Coding Fundamentals · Coding Fundamentals · 14:30–17:30 · 2026-11-23–2026-11-27
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-11-23 国 2026-11-27
-Edad: 8–11 programado/terms; Portal 7–12 — Acceso ampliado no confirmado
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10 corresponde a ambas fronteras; Nivel después de tres años de experiencia. Oscar: 2027 Sí. 6–7; hasta terms Todavía no.. Orientación del portal 7+ exige autorización escrita. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
+
+### CP078-20261130-20261204-am-11-30 · LCCL · Coding Fundamentals · Mañana · 09:30–12:30 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-11-30 — 2026-12-04
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
 
 ### CP078-20261130-20261204 · LCCL · Coding Fundamentals · Coding Fundamentals · 14:30–17:30 · 2026-11-30–2026-12-04
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-11-30 — 2026-12-04
-Edad: 8–11 programado/terms; Portal 7–12 — Acceso ampliado no confirmado
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10 corresponde a ambas fronteras; Nivel después de tres años de experiencia. Oscar: 2027 Sí. 6–7; hasta terms Todavía no.. Orientación del portal 7+ exige autorización escrita. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
+
+### CP078-20261207-20261211-am-12-07 · LCCL · Coding Fundamentals · Mañana · 09:30–12:30 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-07 — 2026-12-11
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
 
 ### CP078-20261207-20261211 · LCCL · Coding Fundamentals · Coding Fundamentals · 14:30–17:30 · 2026-12-07–2026-12-11
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-12-07 — 2026-12-11
-Edad: 8–11 programado/terms; Portal 7–12 — Acceso ampliado no confirmado
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10 corresponde a ambas fronteras; Nivel después de tres años de experiencia. Oscar: 2027 Sí. 6–7; hasta terms Todavía no.. Orientación del portal 7+ exige autorización escrita. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
+
+### CP078-20261214-20261218-am-12-14 · LCCL · Coding Fundamentals · Mañana · 09:30–12:30 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-14 - 2026-12-18
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
 
 ### CP078-20261214-20261218 · LCCL · Coding Fundamentals · Coding Fundamentals · 14:30–17:30 · 2026-12-14–2026-12-18
 
-Lugar: Singapur · Singapore · 583 Orchard Road, #13-01
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 Fecha: 2026-12-14 - 2026-12-18
-Edad: 8–11 programado/terms; Portal 7–12 — Acceso ampliado no confirmado
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Edad: La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: La EN de la enseñanza técnica no está claramente definida en las páginas que se leen; confirmar a los maestros.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · SGD 600 regular / 570 con 14 días + de pago adicional y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10 corresponde a ambas fronteras; Nivel después de tres años de experiencia. Oscar: 2027 Sí. 6–7; hasta terms Todavía no.. Orientación del portal 7+ exige autorización escrita. Gastos adicionales: No se ha declarado la alimentación ni la atención fuera del horario escolar; vivienda familiar/La carretera por separado. Pago: Pago completo; cash refund No., sólo se puede transferir dentro del mismo Sep2026–Jan2027 temporadas en que se dispone de espacio.
-Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals/
-Comprobado: 2026-10-04
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma. Oscar: Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/coding-fundamentals
+Se ha comprobado: 2026-11-09
 
 ### CP079-20270725-20270730 · Brick Labs · Robotics · Natural Disaster Response · 2027-07-25–2027-07-30
 
@@ -90052,6 +90132,518 @@ Costo: 2027 · 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gast
 Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
 Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2286-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Junior · Bukit Timah · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2286-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Junior · Bukit Timah · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2287-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Exploratory · Bukit Timah · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2287-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Exploratory · Bukit Timah · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2288-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Junior · Jurong East · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2288-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Junior · Jurong East · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2289-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Exploratory · Jurong East · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2289-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Exploratory · Jurong East · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2290-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Junior · Katong · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2290-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Junior · Katong · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2291-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Exploratory · Katong · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2291-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Exploratory · Katong · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2292-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Junior · Novena · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2292-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Junior · Novena · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2293-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Exploratory · Novena · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2293-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Exploratory · Novena · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2294-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Junior · Punggol · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2294-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Junior · Punggol · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2295-20261123-20261125-full-3d-11-23 · Meta Robotics · Space Explorer · Exploratory · Punggol · Turno completo · 09:00–12:00 · 2026-11-23–2026-11-25
+
+Lugar: Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2295-20261207-20261209-full-3d-12-07 · Meta Robotics · Space Explorer · Exploratory · Punggol · Turno completo · 09:00–12:00 · 2026-12-07–2026-12-09
+
+Lugar: Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+Fecha: 2026-12-07 — 2026-12-09
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2296-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Junior · Upper Thomson · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2296-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Junior · Upper Thomson · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Junior de 5 a 8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: Este grupo llega hasta los 8 años. Para Matvey está Exploratory. Oscar: A los 6 años encaja en Junior. Confirme plaza, sede e idioma. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2297-20261130-20261202-full-3d-11-30 · Meta Robotics · Space Explorer · Exploratory · Upper Thomson · Turno completo · 09:00–12:00 · 2026-11-30–2026-12-02
+
+Lugar: Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+Fecha: 2026-11-30 — 2026-12-02
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2297-20261214-20261216-full-3d-12-14 · Meta Robotics · Space Explorer · Exploratory · Upper Thomson · Turno completo · 09:00–12:00 · 2026-12-14–2026-12-16
+
+Lugar: Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+Fecha: 2026-12-14 国 2026-12-16
+Edad: Nivel Exploratory de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha. · cargos y condiciones en la ficha
+Acceso: El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+Condiciones: Matvey: A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma. Oscar: Este grupo comienza a los 9 años. Para Oscar está Junior. Cargos extra: Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales. Pago: Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+Fuente: https://www.metarobotics.sg/holiday-programme.html
+Se ha comprobado: 2026-11-09
+
+### CP2298-20261130-20261204-am-11-30 · LCCL · Game Design · From Pencil to Pixel · Mañana · 09:30–12:30 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-11-30 — 2026-12-04
+Edad: La ficha indica 9–15 años y las condiciones de venta 10–15. Para los 9 años se requiere confirmar una excepción.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Para un menor de 9 años, confirme el acceso conforme a las condiciones vigentes antes de pagar.
+Condiciones: Matvey: Condicional. A los 9 años encaja en la ficha del curso, pero queda por debajo del mínimo de venta. Oscar: Oscar queda por debajo del mínimo de ambas fuentes. Está Early Creators. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/game-design
+Se ha comprobado: 2026-11-09
+
+### CP2299-20261123-20261127-am-11-23 · LCCL · Python Coding Camp · Mañana · 09:30–12:30 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-11-23 国 2026-11-27
+Edad: La ficha indica 12+ y las condiciones de venta de 12 a 18 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/python
+Se ha comprobado: 2026-11-09
+
+### CP2299-20261130-20261204-am-11-30 · LCCL · Python Coding Camp · Mañana · 09:30–12:30 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-11-30 — 2026-12-04
+Edad: La ficha indica 12+ y las condiciones de venta de 12 a 18 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/python
+Se ha comprobado: 2026-11-09
+
+### CP2299-20261207-20261211-am-12-07 · LCCL · Python Coding Camp · Mañana · 09:30–12:30 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-07 — 2026-12-11
+Edad: La ficha indica 12+ y las condiciones de venta de 12 a 18 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/python
+Se ha comprobado: 2026-11-09
+
+### CP2299-20261214-20261218-am-12-14 · LCCL · Python Coding Camp · Mañana · 09:30–12:30 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-14 - 2026-12-18
+Edad: La ficha indica 12+ y las condiciones de venta de 12 a 18 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/python
+Se ha comprobado: 2026-11-09
+
+### CP2300-20261214-20261218-am-12-14 · LCCL · The AI-Powered Learner · Mañana · 09:30–12:30 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-14 - 2026-12-18
+Edad: La ficha indica 13+ y las condiciones de venta de 13 a 15 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/ai-learner
+Se ha comprobado: 2026-11-09
+
+### CP2300-20261221-20261223-am-12-21 · LCCL · The AI-Powered Learner · Turno intensivo · 21–22 de diciembre 09:30–16:30 y 23 de diciembre 09:30–12:30. · 2026-12-21–2026-12-23
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2026-12-21 - 2026-12-23
+Edad: La ficha indica 13+ y las condiciones de venta de 13 a 15 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/ai-learner
+Se ha comprobado: 2026-11-09
+
+### CP2300-20270104-20270108-am-01-04 · LCCL · The AI-Powered Learner · Mañana · 09:30–12:30 · 2027-01-04–2027-01-08
+
+Lugar: Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+Fecha: 2027-01-04 — 2027-01-08
+Edad: La ficha indica 13+ y las condiciones de venta de 13 a 15 años al comenzar el turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación. · cargos y condiciones en la ficha
+Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+Fuente: https://www.lcclcoding.com/holidays/ai-learner
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

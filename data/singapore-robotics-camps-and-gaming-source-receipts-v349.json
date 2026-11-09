@@ -1,0 +1,210 @@
+[
+  {
+    "url": "https://www.metarobotics.sg/holiday-programme.html",
+    "file": "meta-robotics-sg.html",
+    "capture": "saved_official_response",
+    "bytes": 64951,
+    "sha256": "dcf740ab1553ad9927974e645b69495033b9e78b15742bb4786c38d9178820fc"
+  },
+  {
+    "url": "https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js",
+    "file": "meta-schedule.js",
+    "capture": "saved_official_response",
+    "bytes": 3983,
+    "sha256": "10cc2ac57b265da519bd70e6e2e1d47fe807deee327e9a763e8c05c77ed91e17"
+  },
+  {
+    "url": "https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view",
+    "file": "meta-brochure.download",
+    "capture": "saved_official_response",
+    "bytes": 5670432,
+    "sha256": "90581fdce1107354457f0a7fe786f6acc8145c21303561def0cf4c1c2d724312"
+  },
+  {
+    "url": "https://www.metarobotics.sg/competition-preparation",
+    "file": "meta-preparation.html",
+    "status": 200,
+    "final_url": "https://www.metarobotics.sg/competition-preparation",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 63423,
+    "sha256": "9a882003b4cb7087b7e17a5b02994d3e66997eda45279297cc2f5f580db5afb2"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays",
+    "file": "lccl-current.html",
+    "capture": "saved_official_response",
+    "bytes": 46949,
+    "sha256": "ddcc8b5a6dc08a66c34d2e2a7c46f89f81895fcc6091b9538f8c24756e448611"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/terms",
+    "file": "lccl-terms.html",
+    "status": 200,
+    "final_url": "https://www.lcclcoding.com/holidays/terms",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 45331,
+    "sha256": "e5359ade08f3ee93330bbfc4697ff0a8cde4f5627ee23293e2b8322af12d67a1"
+  },
+  {
+    "url": "https://www.lcclcoding.com/faq",
+    "file": "lccl-faq.html",
+    "capture": "browser_source_read",
+    "cli_error": "URLError"
+  },
+  {
+    "url": "https://www.singaporecomiccon.com/",
+    "file": "sgcc.html",
+    "status": 200,
+    "final_url": "https://www.singaporecomiccon.com/",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 832342,
+    "sha256": "34c06c31884aba00b31bf75c775d6e8f4d2dfae1b6462528dd259e76ebdb9198"
+  },
+  {
+    "url": "https://www.singaporecomiccon.com/tickets",
+    "file": "sgcc-tickets.html",
+    "status": 200,
+    "final_url": "https://www.singaporecomiccon.com/tickets",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 1207894,
+    "sha256": "4d6810e9af35c439c9a3ce3ff5ff906d5fdf15541ce370d379864d7c7facbf0f"
+  },
+  {
+    "url": "https://www.singaporecomiccon.com/faq-policy",
+    "file": "sgcc-faq.html",
+    "status": 200,
+    "final_url": "https://www.singaporecomiccon.com/faq-policy",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 1246873,
+    "sha256": "c5fd021684d04d0adddd9d9cd35ff1dca7dbc37f7f492b2a7067a1497b67c016"
+  },
+  {
+    "url": "https://feverup.com/m/704945",
+    "file": "sgcc-fever.html",
+    "status": 200,
+    "final_url": "https://feverup.com/m/704945",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 1064851,
+    "sha256": "d184fbb004e303c9d3a23a764dcd8e8a85d62a7e56342256d87eb226642b6c60"
+  },
+  {
+    "url": "https://www.comexitshow.com.sg/",
+    "file": "tech-show.html",
+    "status": 200,
+    "final_url": "https://www.comexitshow.com.sg/",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 312293,
+    "sha256": "0b42bc34f540b1548cfe8d6c37f246a8504b590adfc529c1cba60c14635367a6"
+  },
+  {
+    "url": "https://www.suntecsingapore.com/visit-events/the-tech-show-2026-tts",
+    "file": "tech-suntec.html",
+    "status": 200,
+    "final_url": "https://www.suntecsingapore.com/visit-events/the-tech-show-2026-tts",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 176005,
+    "sha256": "f98a112cc8af7407eee1fa8bcd34693370b063fd86a3f24b041b447b80ec4e0f"
+  },
+  {
+    "url": "https://bookmyshow.sg/en/events/game-fest-suntec/GAMEFT26",
+    "file": "game-fest.html",
+    "capture": "saved_official_response",
+    "bytes": 816433,
+    "sha256": "94176560e29bffd6ffb061197408c4efa178344e77e9cbb81f259f93b8d2084b"
+  },
+  {
+    "url": "https://gamefest.sg/",
+    "file": "game-fest-organizer.html",
+    "status": 200,
+    "final_url": "https://gamefest.sg/",
+    "mime": "text/html",
+    "capture": "official_response",
+    "bytes": 447292,
+    "sha256": "3c8b5755a7ff92306774254b6bab25444cde75c01061f4422b2560a94a2fac3c"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/bukit-timah/",
+    "file": "meta-bukit-timah.html",
+    "capture": "saved_official_response",
+    "bytes": 63407,
+    "sha256": "3901d3e5f181e1f9e2cefa296f325bcbecf1752f6d5b5c74d6695af27a619905"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/jurong-east/",
+    "file": "meta-jurong-east.html",
+    "capture": "saved_official_response",
+    "bytes": 63406,
+    "sha256": "dc0876169476b3a6460eb5809377497de0cc84b5805b337ddccfda2c1c5e9720"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/katong/",
+    "file": "meta-katong.html",
+    "capture": "saved_official_response",
+    "bytes": 63065,
+    "sha256": "39a09412726851e222d09615c131092fc1a89df38d9c9513db8abd78dbadcafe"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/novena/",
+    "file": "meta-novena.html",
+    "capture": "saved_official_response",
+    "bytes": 63100,
+    "sha256": "486d1da883e14b6127fb1db48a2de80aec943fef14132cb305ed18f51f9bae52"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/punggol/",
+    "file": "meta-punggol.html",
+    "capture": "saved_official_response",
+    "bytes": 63120,
+    "sha256": "675f8f2c83e87d8e810c19f8a698c6fae9cc42b61e4ecfd18bf20d7a5e7ffdb8"
+  },
+  {
+    "url": "https://www.metarobotics.sg/locations/upper-thomson/",
+    "file": "meta-upper-thomson.html",
+    "capture": "saved_official_response",
+    "bytes": 63288,
+    "sha256": "2c71310522a42d79ef2774e008df3e02d49050067b345f2f979e4dc64b37e90c"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/early-creators",
+    "file": "lccl-early-creators.html",
+    "capture": "saved_official_response",
+    "bytes": 65028,
+    "sha256": "def69d5d19701a46d7e5be04f00af3ed4ab0fa1880908f5bc730bd75bcfc1db8"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/coding-fundamentals",
+    "file": "lccl-coding-fundamentals.html",
+    "capture": "saved_official_response",
+    "bytes": 77742,
+    "sha256": "e3474967ad20425b5a2f0cbd1bd39ffa67d0427382e98bb72b6075fe79c2232d"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/game-design",
+    "file": "lccl-game-design.html",
+    "capture": "saved_official_response",
+    "bytes": 67246,
+    "sha256": "9a44bf799a76bcd3968e5031e44aa413b3f481e53f26b5e8ef7842a64832e463"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/ai-learner",
+    "file": "lccl-ai-learner.html",
+    "capture": "saved_official_response",
+    "bytes": 62388,
+    "sha256": "2e75243d5c0e59691ed644958b96d5d50531538896a8fe1d88c9e0f5b486cf77"
+  },
+  {
+    "url": "https://www.lcclcoding.com/holidays/python",
+    "file": "lccl-python.html",
+    "capture": "saved_official_response",
+    "bytes": 71178,
+    "sha256": "097fa4cd47ffd6d5d11ba1d60c87dca14c831e5fad9198eddfbe3f9fb7f4d670"
+  }
+]

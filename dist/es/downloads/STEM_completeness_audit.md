@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 11843 fichas en la base, con 5377 de competiciones, 762 de eventos y 5704 de campamentos o programas. Hay 338 perfiles de ligas y programas. Las 655 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 11884 fichas en la base, con 5377 de competiciones, 766 de eventos y 5741 de campamentos o programas. Hay 338 perfiles de ligas y programas. Las 659 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -18,7 +18,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 | América del Sur | 15 | 485 | 52 | 262 |
 | Europa | 55 | 733 | 162 | 1672 |
 | África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1242 | 184 | 1801 |
+| Asia | 51 | 1242 | 188 | 1838 |
 | Oceanía | 27 | 177 | 32 | 370 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
@@ -93,6 +93,7 @@ VEX concentra 821 de las 5377 fichas de competiciones (15.3%). La cobertura est�
 - Se verificaron 47 vías escolares nacionales de Spirit of Math, se publicaron 8 opciones del horario general de Cobo Academy en inglés y se añadieron 3 fichas históricas de exposiciones. Dos nuevos territorios están representados por eventos históricos. La auditoría mundial continúa.
 - Se revisaron fuentes específicas para cinco territorios sin fichas. La infraestructura científica, las actividades escolares internas y los permisos de visita se registran por separado.
 - Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas.
+- Se verificaron los turnos de invierno de Meta Robotics y LCCL por sede y edad. Para las exposiciones de juegos se revisaron entradas y acceso de menores por separado. El idioma docente de los cursos nuevos sigue por confirmar.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -1064,6 +1065,10 @@ VEX concentra 821 de las 5377 fichas de competiciones (15.3%). La cobertura est�
 - **National Exhibition of Children’s Science Fiction Models and Inventions 2026 · Pyongyang** — Corea del Norte; 2026-06-02 – 2026-06-07. Confirme el acceso para menores. https://kcnawatch.org/newstream/1780467285-50411868/national-exhibition-of-childrens-science-fiction-models-and-inventions-2026-opens-in-dprk/
 - **National Youth Sci-tech Successes Exhibition 2026 · Pyongyang** — Corea del Norte; 2026-08-27 – 2026-09-01. Confirme el acceso para menores. https://oananews.org/node/712260
 - **Physical AI Expo Global · London 2027** — Reino Unido de Gran Bretaña e Irlanda del Norte; 2027-02-03 – 2027-02-04. Sin acceso para menores de 6/9 años. https://physicalaiconference.com/global/visitor-faqs/
+- **Singapore Comic Con 2026 · Main Event** — Singapur; 2026-12-05 – 2026-12-06. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.singaporecomiccon.com/
+- **Singapore Comic Con 2026 · Ultimate Preview Night** — Singapur; 2026-12-04. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.singaporecomiccon.com/tickets
+- **The Tech Show 2026 · Suntec Singapore** — Singapur; 2026-11-13 – 2026-11-15. Confirme el acceso de menores. https://www.comexitshow.com.sg/
+- **GAME FEST @ Suntec 2026** — Singapur; 2026-11-13 – 2026-11-15. Con un adulto. Consulte las condiciones de entrada del adulto. https://gamefest.sg/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

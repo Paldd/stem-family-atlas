@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2285 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2300 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -10740,11 +10740,11 @@ Japón · Hakuba / Nagano
 
 ## CP077 · LCCL · Early Creators
 
-Singapur · Singapore · 583 Orchard Road, #13-01
+Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-09
 
-**Edad:** 5–7 programado/terms; Portal 5–8 — límite superior para confirmar
+**Edad:** La ficha indica 5–6 años y las condiciones de venta 5–7. Oscar tiene 6 años y encaja en ambas.
 
 ** Idioma: ** En las páginas de la enseñanza técnica no se ha establecido explícitamente la EN; se confirma a los profesores.
 
@@ -10752,25 +10752,27 @@ Singapur · Singapore · 583 Orchard Road, #13-01
 
 ** Vivir: ** No se ha anunciado un curso de día, ni tampoco un horario de pijamas ni una partida fuera del horario escolar.
 
-**Fecha/estado:** Las siete próximas semanas de Oct-Dec2026 se publican en la página de un curso específico. El portal muestra siete batches, pero requiere datos del niño para elegir; las fechas del próximo verano 2027 no se han anunciado.
+**Fechas / estado:** Las fechas y horas de los grupos de invierno proceden de las opciones de reserva. Los turnos de octubre quedan en el historial.
 
-**Cada año:** 2026 · SGD 600 regular / 570 con un mínimo de 14 días; el descuento no significa el precio actual de cualquier juego.
+**Precio / año:** 2026 · 600 SGD por menor. 570 SGD al reservar con al menos 14 días de antelación. Para dos, 1200 SGD de base o 1140 SGD si ambas plazas tienen tarifa anticipada.
 
-** Incluida:** Material/software y laptops; GST por condiciones.
+**Incluye:** Cinco clases de 3 horas en el turno estándar. El operador proporciona portátiles en los grupos de la tarde.
 
-** Subvención: ** No se ha declarado la alimentación y la atención fuera del horario escolar; vivienda familiar/carretera por separado.
+**Cargos extra:** Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design.
 
-** Paga total; cash refund no, arrastrado sólo dentro de la misma Sep2026-Jan2027, si se dispone de espacio.
+**Pago:** Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
 
-** Matwey: ** A 9 años por encima de las dos fronteras publicadas; otra pista.
+**Matvey:** Matvey supera la edad de Early Creators. Coding Fundamentals se ofrece a la misma hora por la tarde.
 
-**Oscar:** 5–7 corresponde; antes de confirmar EN y grupo específico.
+**Oscar:** A los 6 años encaja en Early Creators. Confirme plaza e idioma.
 
 ** Por qué en la selección: ** Las diferentes edades de los hermanos siguen su curso al mismo tiempo; el idioma, los lugares y los límites de edad controvertidos aún no se han acordado.
 
 ### Antes de solicitar plaza
 
-- confirmar el EN y el rango de edad, la semana en cuestión, el nivel, el descuento final y las reglas de traslado.
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
 
 ### Early Creators · 14:30–17:30
 
@@ -10806,83 +10808,159 @@ Singapur · Singapore · 583 Orchard Road, #13-01
 
 **Fechas / estado:** 2026-11-23 — 2026-11-27
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/early-creators/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-23 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-11-24 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-11-25 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-11-26 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-11-27 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/early-creators)
 
 ### Early Creators · 14:30–17:30
 
 **Fechas / estado:** 2026-11-30 — 2026-12-04
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/early-creators/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-30 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-01 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-02 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-03 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-04 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/early-creators)
 
 ### Early Creators · 14:30–17:30
 
 **Fechas / estado:** 2026-12-07 — 2026-12-11
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/early-creators/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-07 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-08 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-09 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-10 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-11 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/early-creators)
 
 ### Early Creators · 14:30–17:30
 
 **Fechas / estado:** 2026-12-14 — 2026-12-18
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/early-creators/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-14 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-15 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-16 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-17 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+- 2026-12-18 · 14:30–17:30 · Asia/Singapore · código de bloque para principiantes: de la secuencia, los ciclos, acontecimientos; su propia animación/mini-juego y presentación. cinco afternoon-días 14:30–17:30, 15 de los horarios de contacto; el máximo 6 en el grupo — el pedido del operador.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/early-creators)
 
 ### Fuentes
 
-- [curso concreto / published batches](https://www.lcclcoding.com/holidays/early-creators/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/early-creators) · 2026-11-09
 
-- [Terms 2026/27 / edad / precio](https://www.lcclcoding.com/holidays/terms/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays) · 2026-11-09
 
-- [portal: otros ranges de edad · sin introducir datos de los niños](https://portal.lcclcoding.com/camps) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
 
 ## CP078 · LCCL · Coding Fundamentals
 
-Singapur · Singapore · 583 Orchard Road, #13-01
+Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-09
 
-**Edad:** 8–11 programado/terms; Portal 7–12 — Acceso ampliado no confirmado
+**Edad:** La ficha indica 7–11 años y las condiciones de venta 8–11. Matvey tiene 9 años y encaja en ambas.
 
 ** Idioma: ** En las páginas de la enseñanza técnica no se ha establecido explícitamente la EN; se confirma a los profesores.
 
-**Programa:** Scratch: ciclos, variables, Condiciones y acontecimientos; 4–6 proyectos y su propio juego. La experiencia se evalúa el primer día. Cinco. afternoon-días 14:30–17:30, 15 Horas de contacto; máximo 6 en grupo — solicitud del explotador.
+**Programa:** Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
 
 ** Vivir: ** No se ha anunciado un curso de día, ni tampoco un horario de pijamas ni una partida fuera del horario escolar.
 
-**Fecha/estado:** Las siete próximas semanas de Oct-Dec2026 se publican en la página de un curso específico. El portal muestra siete batches, pero requiere datos del niño para elegir; las fechas del próximo verano 2027 no se han anunciado.
+**Fechas / estado:** Las fechas y horas de los grupos de invierno proceden de las opciones de reserva. Los turnos de octubre quedan en el historial.
 
-**Cada año:** 2026 · SGD 600 regular / 570 con un mínimo de 14 días; el descuento no significa el precio actual de cualquier juego.
+**Precio / año:** 2026 · 600 SGD por menor. 570 SGD al reservar con al menos 14 días de antelación. Para dos, 1200 SGD de base o 1140 SGD si ambas plazas tienen tarifa anticipada.
 
-** Incluida:** Material/software y laptops; GST por condiciones.
+**Incluye:** Cinco clases de 3 horas en el turno estándar. El operador proporciona portátiles en los grupos de la tarde.
 
-** Subvención: ** No se ha declarado la alimentación y la atención fuera del horario escolar; vivienda familiar/carretera por separado.
+**Cargos extra:** Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design.
 
-** Paga total; cash refund no, arrastrado sólo dentro de la misma Sep2026-Jan2027, si se dispone de espacio.
+**Pago:** Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
 
-*Mathaway:** 9*10 corresponde a ambos límites; nivel después de tres años de experiencia.
+**Matvey:** A los 9 años encaja en Coding Fundamentals. Confirme plaza e idioma.
 
-**Oscar:** 2027 Sí, lo será. 6–7; hasta terms Todavía es temprano.. Indicación del portal 7+ exige autorización escrita.
+**Oscar:** Oscar aún es menor que el mínimo para Coding Fundamentals. Early Creators se ofrece a la misma hora por la tarde.
 
 ** Por qué en la selección: ** Las diferentes edades de los hermanos siguen su curso al mismo tiempo; el idioma, los lugares y los límites de edad controvertidos aún no se han acordado.
 
 ### Antes de solicitar plaza
 
-- confirmar el EN y el rango de edad, la semana en cuestión, el nivel, el descuento final y las reglas de traslado.
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
 
 ### Coding Fundamentals · 14:30–17:30
 
@@ -10918,49 +10996,207 @@ Singapur · Singapore · 583 Orchard Road, #13-01
 
 **Fechas / estado:** 2026-11-23 — 2026-11-27
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-23 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-11-24 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-11-25 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-11-26 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-11-27 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+
+- 2026-11-30 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-01 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-02 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-03 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-04 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
 
 ### Coding Fundamentals · 14:30–17:30
 
 **Fechas / estado:** 2026-11-30 — 2026-12-04
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-30 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-01 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-02 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-03 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-04 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+
+- 2026-12-07 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-08 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-09 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-10 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-11 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
 
 ### Coding Fundamentals · 14:30–17:30
 
 **Fechas / estado:** 2026-12-07 — 2026-12-11
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-07 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-08 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-09 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-10 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-11 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** La reserva ofrece Scratch por la mañana, aunque las condiciones generales sitúan Coding Fundamentals en la tarde. Confirme el horario antes de pagar.
+
+- 2026-12-14 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-15 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-16 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-17 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-18 · 09:30–12:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
 
 ### Coding Fundamentals · 14:30–17:30
 
 **Fechas / estado:** 2026-12-14 — 2026-12-18
 
-**lugar:** Singapore · 583 Orchard Road, #13-01
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
 
-**Precio:** SGD 600 regular / 570 en la grabación de 14+ días
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
 
-[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals/)
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-14 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-15 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-16 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-17 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+- 2026-12-18 · 14:30–17:30 · Asia/Singapore · Scratch: bucles, variables, condiciones y eventos. El programa incluye de 4 a 6 proyectos y un juego propio. Cinco clases de 3 horas. Las condiciones indican un máximo de 6 participantes para el grupo de la tarde.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/coding-fundamentals)
 
 ### Fuentes
 
-- [curso concreto / published batches](https://www.lcclcoding.com/holidays/coding-fundamentals/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/coding-fundamentals) · 2026-11-09
 
-- [Terms 2026/27 / edad / precio](https://www.lcclcoding.com/holidays/terms/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays) · 2026-11-09
 
-- [portal: otros ranges de edad · sin introducir datos de los niños](https://portal.lcclcoding.com/camps) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
 
 ## CP079 · Brick Labs · Robotics
 
@@ -180649,6 +180885,1486 @@ RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
 - [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=223) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=224) · 2026-11-09
+
+## CP2286 · Meta Robotics · Space Explorer · Junior · Bukit Timah
+
+Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/bukit-timah/) · 2026-11-09
+
+## CP2287 · Meta Robotics · Space Explorer · Exploratory · Bukit Timah
+
+Singapur · Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Bukit Timah · 144 Upper Bukit Timah Road · #02-10 · Beauty World Centre · 588177
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/bukit-timah/) · 2026-11-09
+
+## CP2288 · Meta Robotics · Space Explorer · Junior · Jurong East
+
+Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/jurong-east/) · 2026-11-09
+
+## CP2289 · Meta Robotics · Space Explorer · Exploratory · Jurong East
+
+Singapur · Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Jurong East · Block 135 Jurong Gateway Road · #04-331 · 600135
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/jurong-east/) · 2026-11-09
+
+## CP2290 · Meta Robotics · Space Explorer · Junior · Katong
+
+Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/katong/) · 2026-11-09
+
+## CP2291 · Meta Robotics · Space Explorer · Exploratory · Katong
+
+Singapur · Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Katong · 30 East Coast Road · #02-18/19 · Katong V · 428751
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/katong/) · 2026-11-09
+
+## CP2292 · Meta Robotics · Space Explorer · Junior · Novena
+
+Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/novena/) · 2026-11-09
+
+## CP2293 · Meta Robotics · Space Explorer · Exploratory · Novena
+
+Singapur · Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Novena · 203B Thomson Road · Goldhill Shopping Centre · Level 3 · 307638
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/novena/) · 2026-11-09
+
+## CP2294 · Meta Robotics · Space Explorer · Junior · Punggol
+
+Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/punggol/) · 2026-11-09
+
+## CP2295 · Meta Robotics · Space Explorer · Exploratory · Punggol
+
+Singapur · Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Lugar:** Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-09
+
+**Lugar:** Singapore · Punggol · 168 Punggol Field · #04-08A · Punggol Plaza · 820168
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/punggol/) · 2026-11-09
+
+## CP2296 · Meta Robotics · Space Explorer · Junior · Upper Thomson
+
+Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Junior de 5 a 8 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** Este grupo llega hasta los 8 años. Para Matvey está Exploratory.
+
+**Oscar:** A los 6 años encaja en Junior. Confirme plaza, sede e idioma.
+
+**Motivo de selección:** Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, traslado de carga y programación de señales. Las tareas se dividen en pasos cortos guiados.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/upper-thomson/) · 2026-11-09
+
+## CP2297 · Meta Robotics · Space Explorer · Exploratory · Upper Thomson
+
+Singapur · Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Nivel Exploratory de 9 a 12 años.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** 09:00–12:00 en Singapur. El calendario muestra los 3 días del programa. Confirme los días concretos si elige 1 o 2.
+
+**Precio / año:** 2026 · 168 / 328 / 439 SGD por 1 / 2 / 3 días por menor, con GST. Para dos, 336 / 656 / 878 SGD con el mismo plan.
+
+**Incluye:** Incluye materiales y clases guiadas. No se exige experiencia previa.
+
+**Cargos extra:** Viaje, alojamiento y comidas familiares aparte. Confirme los cargos adicionales.
+
+**Pago:** Consulte al organizador por la sede y los días elegidos. Confirme el pago, los cambios y los reembolsos.
+
+**Matvey:** A los 9 años encaja en Exploratory. Confirme plaza, sede e idioma.
+
+**Oscar:** Este grupo comienza a los 9 años. Para Oscar está Junior.
+
+**Motivo de selección:** Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+### Antes de solicitar plaza
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-02
+
+**Lugar:** Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Turno completo · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Lugar:** Singapore · Upper Thomson · Thomson V Two · #B1-24 · 11 Sin Ming Road · 575629
+
+**Precio:** 439 SGD por tres días por menor, con GST. Dos plazas, 878 SGD. Consulte los planes cortos en la ficha.
+
+**Condiciones de participación:** El operador permite solicitar 1, 2 o 3 días. Confirme la reserva, el idioma del grupo y las plazas por sede.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Robot explorador, calibración, traslado estable de carga y programación de dos señales distintas. Los retos permiten decisiones de ingeniería propias.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme que ambos grupos de edad coincidan y que haya dos plazas en los días elegidos.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.metarobotics.sg/holiday-programme.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/holiday-programme.html) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/assets/holidayProgramme-D-DVyWN6.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://drive.google.com/file/d/1KJDWZt_bMKpzuQ98KZFX8RpplKAV0M7J/view) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.metarobotics.sg/locations/upper-thomson/) · 2026-11-09
+
+## CP2298 · LCCL · Game Design · From Pencil to Pixel
+
+Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** La ficha indica 9–15 años y las condiciones de venta 10–15. Para los 9 años se requiere confirmar una excepción.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** Curso presencial según fechas y horarios de la opción concreta. Confirme plaza, idioma y reserva.
+
+**Precio / año:** 2026 · 600 SGD por menor. 570 SGD al reservar con al menos 14 días de antelación. Para dos, 1200 SGD de base o 1140 SGD si ambas plazas tienen tarifa anticipada.
+
+**Incluye:** Cinco clases de 3 horas en el turno estándar. El operador proporciona portátiles en los grupos de la tarde.
+
+**Cargos extra:** Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design.
+
+**Pago:** Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+
+**Matvey:** Condicional. A los 9 años encaja en la ficha del curso, pero queda por debajo del mínimo de venta.
+
+**Oscar:** Oscar queda por debajo del mínimo de ambas fuentes. Está Early Creators.
+
+**Motivo de selección:** Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+### Antes de solicitar plaza
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Para un menor de 9 años, confirme el acceso conforme a las condiciones vigentes antes de pagar.
+
+- 2026-11-30 · 09:30–12:30 · Asia/Singapore · Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+- 2026-12-01 · 09:30–12:30 · Asia/Singapore · Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+- 2026-12-02 · 09:30–12:30 · Asia/Singapore · Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+- 2026-12-03 · 09:30–12:30 · Asia/Singapore · Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+- 2026-12-04 · 09:30–12:30 · Asia/Singapore · Diseño de un juego 2D desde boceto, arte de píxeles y animación hasta sonido y prototipo. No se exige experiencia en código.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/game-design)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/game-design) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
+
+## CP2299 · LCCL · Python Coding Camp
+
+Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** La ficha indica 12+ y las condiciones de venta de 12 a 18 años al comenzar el turno.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** Curso presencial según fechas y horarios de la opción concreta. Confirme plaza, idioma y reserva.
+
+**Precio / año:** 2026 · 600 SGD por menor. 570 SGD al reservar con al menos 14 días de antelación. Para dos, 1200 SGD de base o 1140 SGD si ambas plazas tienen tarifa anticipada.
+
+**Incluye:** Cinco clases de 3 horas en el turno estándar. El operador proporciona portátiles en los grupos de la tarde.
+
+**Cargos extra:** Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design.
+
+**Pago:** Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+
+**Matvey:** Este programa está dirigido a edades mayores.
+
+**Oscar:** Este programa está dirigido a edades mayores.
+
+**Motivo de selección:** Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+### Antes de solicitar plaza
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-23 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-11-24 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-11-25 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-11-26 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-11-27 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/python)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-11-30 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-01 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-02 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-03 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-04 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/python)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-07 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-08 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-09 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-10 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-11 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/python)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-14 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-15 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-16 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-17 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+- 2026-12-18 · 09:30–12:30 · Asia/Singapore · Primer código en Python, entrada, condiciones y depuración, seguido de un proyecto propio.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/python)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/python) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
+
+## CP2300 · LCCL · The AI-Powered Learner
+
+Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** La ficha indica 13+ y las condiciones de venta de 13 a 15 años al comenzar el turno.
+
+**Idioma:** El sitio y el programa para familias están en inglés. Confirme el idioma del docente del grupo elegido.
+
+**Programa:** Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+**Alojamiento:** Programa diurno presencial. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** Curso presencial según fechas y horarios de la opción concreta. Confirme plaza, idioma y reserva.
+
+**Precio / año:** 2026 · 600 SGD por menor. 570 SGD al reservar con al menos 14 días de antelación. Para dos, 1200 SGD de base o 1140 SGD si ambas plazas tienen tarifa anticipada.
+
+**Incluye:** Cinco clases de 3 horas en el turno estándar. El operador proporciona portátiles en los grupos de la tarde.
+
+**Cargos extra:** Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design.
+
+**Pago:** Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
+
+**Matvey:** Este programa está dirigido a edades mayores.
+
+**Oscar:** Este programa está dirigido a edades mayores.
+
+**Motivo de selección:** Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+### Antes de solicitar plaza
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-14 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-15 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-16 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-17 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-18 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/ai-learner)
+
+### Turno intensivo · 21–22 de diciembre 09:30–16:30 y 23 de diciembre 09:30–12:30.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2026-12-21 · 09:30–16:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-22 · 09:30–16:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2026-12-23 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/ai-learner)
+
+### Mañana · 09:30–12:30
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238884
+
+**Precio:** 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de antelación.
+
+**Condiciones de participación:** Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
+
+- 2027-01-04 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2027-01-05 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2027-01-06 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2027-01-07 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+- 2027-01-08 · 09:30–12:30 · Asia/Singapore · Alfabetización en IA, formulación de instrucciones, comprobación de respuestas y proyecto de aprendizaje autónomo.
+
+**Disponibilidad:** El horario está publicado. Confirme la disponibilidad con el organizador.
+
+- Confirme edad, horario del grupo, dos plazas si viajan juntos e idioma del docente.
+
+- Confirme el idioma de enseñanza y la plaza del grupo elegido.
+
+[fuente](https://www.lcclcoding.com/holidays/ai-learner)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/ai-learner) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

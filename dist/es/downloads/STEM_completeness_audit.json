@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11843,
+    "cards": 11884,
     "competition_cards": 5377,
-    "event_cards": 762,
-    "camp_cards": 5704,
+    "event_cards": 766,
+    "camp_cards": 5741,
     "league_profiles": 338,
-    "major_exhibition_cards": 655,
+    "major_exhibition_cards": 659,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3240,
+      "total": 3281,
       "countries_with_records": 51,
       "competitions": 1242,
-      "events": 197,
-      "major_exhibitions": 184,
-      "camps": 1801,
+      "events": 201,
+      "major_exhibitions": 188,
+      "camps": 1838,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -17025,6 +17025,50 @@
       "new": false
     },
     {
+      "id": "E763",
+      "name": "Singapore Comic Con 2026 · Main Event",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.singaporecomiccon.com/",
+      "new": false
+    },
+    {
+      "id": "E764",
+      "name": "Singapore Comic Con 2026 · Ultimate Preview Night",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "visitor_policy": "family",
+      "source": "https://www.singaporecomiccon.com/tickets",
+      "new": false
+    },
+    {
+      "id": "E765",
+      "name": "The Tech Show 2026 · Suntec Singapore",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.comexitshow.com.sg/",
+      "new": false
+    },
+    {
+      "id": "E766",
+      "name": "GAME FEST @ Suntec 2026",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://gamefest.sg/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17542,7 +17586,8 @@
     "v48: Singapur Grade5/4 ≠ edad9; Overseas sin plaza SG World; NRC separado de WRO. Worklab/Cobo: inglés confirmado directamente; Computhink: desconocido. AIS regional/internal ≠ Worlds. GITEX: estrictamente mayores de18.",
     "Se verificaron 47 vías escolares nacionales de Spirit of Math, se publicaron 8 opciones del horario general de Cobo Academy en inglés y se añadieron 3 fichas históricas de exposiciones. Dos nuevos territorios están representados por eventos históricos. La auditoría mundial continúa.",
     "Se revisaron fuentes específicas para cinco territorios sin fichas. La infraestructura científica, las actividades escolares internas y los permisos de visita se registran por separado.",
-    "Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas."
+    "Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas.",
+    "Se verificaron los turnos de invierno de Meta Robotics y LCCL por sede y edad. Para las exposiciones de juegos se revisaron entradas y acceso de menores por separado. El idioma docente de los cursos nuevos sigue por confirmar."
   ],
   "source_issues": [
     {
@@ -19445,9 +19490,9 @@
       }
     ],
     "counts": {
-      "records": 5704,
-      "holiday": 5073,
-      "regular": 232,
+      "records": 5741,
+      "holiday": 5108,
+      "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1676,

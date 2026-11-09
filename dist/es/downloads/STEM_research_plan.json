@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 348,
+    "prepared_ui_version": 349,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 347,
-    "previous_verified_commit": "23c87285da5f243e9e907b1ad877080925916fd6"
+    "previous_verified_ui_version": 348,
+    "previous_verified_commit": "34d4f86056eb99c8982fbe9e1dddc7cea362b90c"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 347,
-    "published_version": 347,
-    "latest_source_commit": "23c87285da5f243e9e907b1ad877080925916fd6",
-    "published_commit": "23c87285da5f243e9e907b1ad877080925916fd6",
-    "latest_workflow": 42631861547,
+    "latest_source_version": 348,
+    "published_version": 348,
+    "latest_source_commit": "34d4f86056eb99c8982fbe9e1dddc7cea362b90c",
+    "published_commit": "34d4f86056eb99c8982fbe9e1dddc7cea362b90c",
+    "latest_workflow": 42721423458,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -37061,6 +37061,100 @@
       "09:00–16:00": 390000,
       "09:00–18:00": 500000
     },
+    "external_registrations_or_messages": false
+  },
+  "singapore_robotics_camps_and_gaming_v349": {
+    "version": 349,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_dossier_ids": [
+      "CP2286",
+      "CP2287",
+      "CP2288",
+      "CP2289",
+      "CP2290",
+      "CP2291",
+      "CP2292",
+      "CP2293",
+      "CP2294",
+      "CP2295",
+      "CP2296",
+      "CP2297",
+      "CP2298",
+      "CP2299",
+      "CP2300"
+    ],
+    "refreshed_dossier_ids": [
+      "CP077",
+      "CP078"
+    ],
+    "new_event_ids": [
+      "L962",
+      "L963",
+      "E763",
+      "E764",
+      "E765",
+      "E766",
+      "CP2286-20261123-20261125-full-3d-11-23",
+      "CP2286-20261214-20261216-full-3d-12-14",
+      "CP2287-20261123-20261125-full-3d-11-23",
+      "CP2287-20261214-20261216-full-3d-12-14",
+      "CP2288-20261123-20261125-full-3d-11-23",
+      "CP2288-20261130-20261202-full-3d-11-30",
+      "CP2289-20261123-20261125-full-3d-11-23",
+      "CP2289-20261130-20261202-full-3d-11-30",
+      "CP2290-20261207-20261209-full-3d-12-07",
+      "CP2290-20261214-20261216-full-3d-12-14",
+      "CP2291-20261207-20261209-full-3d-12-07",
+      "CP2291-20261214-20261216-full-3d-12-14",
+      "CP2292-20261130-20261202-full-3d-11-30",
+      "CP2292-20261207-20261209-full-3d-12-07",
+      "CP2293-20261130-20261202-full-3d-11-30",
+      "CP2293-20261207-20261209-full-3d-12-07",
+      "CP2294-20261123-20261125-full-3d-11-23",
+      "CP2294-20261207-20261209-full-3d-12-07",
+      "CP2295-20261123-20261125-full-3d-11-23",
+      "CP2295-20261207-20261209-full-3d-12-07",
+      "CP2296-20261130-20261202-full-3d-11-30",
+      "CP2296-20261214-20261216-full-3d-12-14",
+      "CP2297-20261130-20261202-full-3d-11-30",
+      "CP2297-20261214-20261216-full-3d-12-14",
+      "CP2298-20261130-20261204-am-11-30",
+      "CP2299-20261123-20261127-am-11-23",
+      "CP2299-20261130-20261204-am-11-30",
+      "CP2299-20261207-20261211-am-12-07",
+      "CP2299-20261214-20261218-am-12-14",
+      "CP2300-20261214-20261218-am-12-14",
+      "CP2300-20261221-20261223-am-12-21",
+      "CP2300-20270104-20270108-am-01-04",
+      "CP078-20261130-20261204-am-11-30",
+      "CP078-20261207-20261211-am-12-07",
+      "CP078-20261214-20261218-am-12-14"
+    ],
+    "new_manual_event_ids": [
+      "L962",
+      "L963",
+      "E763",
+      "E764",
+      "E765",
+      "E766"
+    ],
+    "source_requests": 26,
+    "hashed_source_captures": 25,
+    "meta_robotics_sourced_site_windows": 12,
+    "meta_robotics_family_sgd": {
+      "one_day": 336,
+      "two_days": 656,
+      "three_days": 878
+    },
+    "lccl_family_sgd": {
+      "standard": 1200,
+      "early_bird_if_both_eligible": 1140
+    },
+    "lccl_game_design_age_marketing_min": 9,
+    "lccl_game_design_terms_min": 10,
+    "camp_instruction_languages_confirmed": false,
     "external_registrations_or_messages": false
   }
 }
