@@ -23662,7 +23662,8 @@
           "Coding Master"
         ],
         "event_ids": [
-          "C4485"
+          "C4485",
+          "C5011"
         ],
         "legacy_ids": [],
         "route": "Solicitud separada para cada menor desde una cuenta familiar. El formulario admite pasaporte. Confirmar admisión sin filial local.",
@@ -23676,7 +23677,9 @@
           "Solicitud separada para cada menor desde una cuenta familiar. El formulario admite pasaporte. Confirmar admisión sin filial local."
         ],
         "nuances": [
-          "La edad se calcula al 30 de octubre de 2027. Aún no se publican los límites de cada categoría."
+          "La edad se calcula al 30 de octubre de 2027. Aún no se publican los límites de cada categoría.",
+          "La edad se calcula el 5 de diciembre de 2026. Aún no se publican los límites por categoría.",
+          "Los patrocinadores cubren la inscripción. Hay 100 plazas en total. Traslado y alojamiento se pagan aparte."
         ],
         "cost": "THB 3000 por participante. Para 2 menores, THB 6000 si ambos son admitidos. La organización anuncia 200 plazas totales.",
         "award": "Aún no se anuncian premios ni certificados de esta edición.",
@@ -23685,10 +23688,15 @@
             "url": "https://www.robothinkdreamthailand.com/2027?lang=en",
             "title": "Página oficial, reglamento o calendario de la asociación del sector.",
             "checked": "2026-11-07"
+          },
+          {
+            "url": "https://www.robothinkdreamthailand.com/udon-thani-2026?lang=en",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
           }
         ],
         "evidence": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
-        "checked": "2026-11-07"
+        "checked": "2026-11-08"
       },
       {
         "id": "encode-creative-coding",

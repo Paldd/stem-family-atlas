@@ -85542,6 +85542,118 @@ Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Con
 Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
 Se ha comprobado: 2026-11-08
 
+### CP2145-20261207-20261210-junior-1 · Bilden × English Horizons · Gamemakers 6–9 · Gamemakers Holiday Camp · 2026-12-07–2026-12-10
+
+lugar: Malasia · Subang Jaya · SS15 / SS17
+Fecha: 2026-12-07 — 2026-12-10
+edad: Grupo menor de 6–9 años. Grupo mayor de 10–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: El grupo 6–9 encaja si el niño aún tiene 9 años en la fecha del turno. Oscar: El grupo 6–9 encaja tras cumplir 6 años. Confirmar el acceso en la fecha del turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.bildencreativelearning.com/gamemakers.html
+Se ha comprobado: 2026-11-08
+
+### CP2145-20261215-20261218-junior-2 · Bilden × English Horizons · Gamemakers 6–9 · Gamemakers Holiday Camp · 2026-12-15–2026-12-18
+
+lugar: Malasia · Subang Jaya · SS15 / SS17
+Fecha: 2026-12-15 — 2026-12-18
+edad: Grupo menor de 6–9 años. Grupo mayor de 10–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: El grupo 6–9 encaja si el niño aún tiene 9 años en la fecha del turno. Oscar: El grupo 6–9 encaja tras cumplir 6 años. Confirmar el acceso en la fecha del turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.bildencreativelearning.com/gamemakers.html
+Se ha comprobado: 2026-11-08
+
+### CP2146-20261214-20261218-petaling · STEM Academy Malaysia · Young Inventor Lab · Young Inventor Lab · 2026-12-14–2026-12-18
+
+lugar: Malasia · Petaling Jaya · PJ Campus
+Fecha: 2026-12-14 - 2026-12-18
+edad: La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier
+Acceso: La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+Limitaciones: Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://bookwhen.com/stemacademymy
+Se ha comprobado: 2026-11-08
+
+### CP2146-20261214-20261218-johor · STEM Academy Malaysia · Young Inventor Lab · Young Inventor Lab · 2026-12-14–2026-12-18
+
+lugar: Malasia · Iskandar Puteri · JB Campus
+Fecha: 2026-12-14 - 2026-12-18
+edad: La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier
+Acceso: La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+Limitaciones: Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://bookwhen.com/stemacademymy
+Se ha comprobado: 2026-11-08
+
+### CP2147-20261221-20261223-petaling · STEM Academy Malaysia · Christmas Science & Slime · Christmas Science & Slime · 2026-12-21–2026-12-23
+
+lugar: Malasia · Petaling Jaya · PJ Campus
+Fecha: 2026-12-21 - 2026-12-23
+edad: La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier
+Acceso: La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+Limitaciones: Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://bookwhen.com/stemacademymy
+Se ha comprobado: 2026-11-08
+
+### CP2147-20261221-20261223-johor · STEM Academy Malaysia · Christmas Science & Slime · Christmas Science & Slime · 2026-12-21–2026-12-23
+
+lugar: Malasia · Iskandar Puteri · JB Campus
+Fecha: 2026-12-21 - 2026-12-23
+edad: La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier
+Acceso: La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+Limitaciones: Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://bookwhen.com/stemacademymy
+Se ha comprobado: 2026-11-08
+
+### CP2148-20261215-20261215-dec15 · Little Scientists · Cox’s Bay Holiday Programme · Little Scientists · Cox's Bay · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Cox's Bay Pavilion · Herne Bay · Auckland
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 5–11
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · NZD 70 por niño y día. Confirmar posibles comisiones al pagar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Oscar: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.trybooking.com/nz/event/21821/tickets
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

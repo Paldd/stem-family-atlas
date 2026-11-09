@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2144,
+    "dossiers": 2148,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
       "published_2027": 573,
-      "partial_2027": 153,
+      "partial_2027": 154,
       "next_unannounced": 440,
-      "published_2026": 430,
+      "published_2026": 433,
       "partial_2026_27": 39,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3054
+    "source_urls": 3062
   },
   "countries": [
     {
@@ -330,7 +330,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 21
+      "count": 24
     },
     {
       "country": "Мальдивские Острова",
@@ -382,7 +382,7 @@
     },
     {
       "country": "Новая Зеландия",
-      "count": 28
+      "count": 29
     },
     {
       "country": "Новая Каледония",
@@ -325433,6 +325433,545 @@
       "related_event_ids": [
         "L914"
       ]
+    },
+    {
+      "id": "CP2145",
+      "slug": "bilden-subang-jaya-gamemakers-junior",
+      "provider": "Bilden × English Horizons · Gamemakers 6–9",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Subang Jaya · SS15 / SS17",
+      "age": "Младшая группа 6–9 лет. Старшая группа 10–14 лет.",
+      "programme": "За 4 утра участники придумывают персонажей, правила и испытания, собирают настольную игру и тестируют её в команде.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "В программе английское письмо, словарный запас и презентация своей игры. Язык всех остальных частей смены уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "Две смены по 4 утра с 09:00 до 12:00. Адрес выбранной смены и место уточнить.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-10"
+          ],
+          [
+            "2026-12-15",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "junior-1",
+            "start": "2026-12-07",
+            "end": "2026-12-10",
+            "label": "Gamemakers Holiday Camp",
+            "price": "MYR 550 за ребёнка за 4 дня. До 15 ноября 2026 цена MYR 480. Пакет на 2 детей MYR 900, на 3 детей MYR 1300. Сочетание скидок уточнить.",
+            "source": "https://www.bildencreativelearning.com/gamemakers.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Subang Jaya · SS15 / SS17",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "junior-2",
+            "start": "2026-12-15",
+            "end": "2026-12-18",
+            "label": "Gamemakers Holiday Camp",
+            "price": "MYR 550 за ребёнка за 4 дня. До 15 ноября 2026 цена MYR 480. Пакет на 2 детей MYR 900, на 3 детей MYR 1300. Сочетание скидок уточнить.",
+            "source": "https://www.bildencreativelearning.com/gamemakers.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Subang Jaya · SS15 / SS17",
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "Gamemakers Holiday Camp",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 550,
+        "currency": "MYR",
+        "unit": "child_four_days",
+        "label": "MYR 550 за ребёнка за 4 дня. До 15 ноября 2026 цена MYR 480. Пакет на 2 детей MYR 900, на 3 детей MYR 1300. Сочетание скидок уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Группа 6–9 подходит, если на дату смены ребёнку ещё 9 лет."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Группа 6–9 подходит после исполнения 6 лет. Уточнить допуск на дату смены."
+        }
+      },
+      "editorial_reason": "Две смены по 4 утра с 09:00 до 12:00. Адрес выбранной смены и место уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Две смены по 4 утра с 09:00 до 12:00. Адрес выбранной смены и место уточнить.",
+        "В программе английское письмо, словарный запас и презентация своей игры. Язык всех остальных частей смены уточнить.",
+        "MYR 550 за ребёнка за 4 дня. До 15 ноября 2026 цена MYR 480. Пакет на 2 детей MYR 900, на 3 детей MYR 1300. Сочетание скидок уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bildencreativelearning.com/gamemakers.html",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "design",
+        "languages",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2146",
+      "slug": "stem-academy-my-young-inventor-dec-2026",
+      "provider": "STEM Academy Malaysia · Young Inventor Lab",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Petaling Jaya / Iskandar Puteri",
+      "age": "Организатор указывает 6–15 лет на странице лагерей. Возрастную группу выбранной смены уточнить.",
+      "programme": "Проектирование, сборка и испытание работающих устройств. Демонстрация проектов родителям в пятницу.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "petaling",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Young Inventor Lab",
+            "price": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+            "source": "https://bookwhen.com/stemacademymy",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Petaling Jaya · PJ Campus",
+            "entry": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса."
+          },
+          {
+            "variant_key": "johor",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Young Inventor Lab",
+            "price": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+            "source": "https://bookwhen.com/stemacademymy",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Iskandar Puteri · JB Campus",
+            "entry": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "MYR",
+        "unit": "",
+        "label": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит, если на старте уже исполнилось 6 лет. Уточнить группу и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит, если на старте уже исполнилось 6 лет. Уточнить группу и место."
+        }
+      },
+      "editorial_reason": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+      "shortlist": [],
+      "questions": [
+        "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+        "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2147",
+      "slug": "stem-academy-my-christmas-science-dec-2026",
+      "provider": "STEM Academy Malaysia · Christmas Science & Slime",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Petaling Jaya / Iskandar Puteri",
+      "age": "Организатор указывает 6–15 лет на странице лагерей. Возрастную группу выбранной смены уточнить.",
+      "programme": "Опыты с полимерами и зимней химией, простые электрические цепи.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "petaling",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Christmas Science & Slime",
+            "price": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+            "source": "https://bookwhen.com/stemacademymy",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Petaling Jaya · PJ Campus",
+            "entry": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса."
+          },
+          {
+            "variant_key": "johor",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Christmas Science & Slime",
+            "price": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+            "source": "https://bookwhen.com/stemacademymy",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Iskandar Puteri · JB Campus",
+            "entry": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "MYR",
+        "unit": "",
+        "label": "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит, если на старте уже исполнилось 6 лет. Уточнить группу и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит, если на старте уже исполнилось 6 лет. Уточнить группу и место."
+        }
+      },
+      "editorial_reason": "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+      "shortlist": [],
+      "questions": [
+        "На странице указан старт в 10:00. Время окончания, обед и место в группе уточнить для кампуса.",
+        "Цена по запросу. Организатор указывает семейный тариф при общей заявке, сумму для 2 детей и состав услуги уточнить.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2148",
+      "slug": "little-scientists-coxs-bay-auckland",
+      "provider": "Little Scientists · Cox’s Bay Holiday Programme",
+      "country": "Новая Зеландия",
+      "iso": "NZL",
+      "place": "Cox's Bay Pavilion · Herne Bay · Auckland",
+      "age": "5–11",
+      "programme": "Дневная научная программа, эксперименты и активности на природе. Темы меняются в зависимости от группы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "В системе билетов есть 15 декабря 2026, 09:00–15:00. Ещё 7 дней указаны в календаре города, но билетные сеансы для них пока не показаны.",
+        "sessions": [
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec15",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "Little Scientists · Cox's Bay",
+            "price": "NZD 70 за ребёнка за день. Проверить возможные комиссии при оплате.",
+            "source": "https://www.trybooking.com/nz/event/21821/tickets",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Cox's Bay Pavilion · Herne Bay · Auckland",
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "topic": "Little Scientists · Cox's Bay",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 70,
+        "currency": "NZD",
+        "unit": "child_day",
+        "label": "NZD 70 за ребёнка за день. Проверить возможные комиссии при оплате.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "По возрасту подходит группа 5–11 лет. Подтвердить место, язык и порядок допуска гостей."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По возрасту подходит группа 5–11 лет. Подтвердить место, язык и порядок допуска гостей."
+        }
+      },
+      "editorial_reason": "В системе билетов есть 15 декабря 2026, 09:00–15:00. Ещё 7 дней указаны в календаре города, но билетные сеансы для них пока не показаны.",
+      "shortlist": [],
+      "questions": [
+        "В системе билетов есть 15 декабря 2026, 09:00–15:00. Ещё 7 дней указаны в календаре города, но билетные сеансы для них пока не показаны.",
+        "NZD 70 за ребёнка за день. Проверить возможные комиссии при оплате.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://www.littlescientists.co.nz/holiday-programme-auckland",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://ourauckland.aucklandcouncil.govt.nz/events/2026/12/little-scientists-holiday-programme-fun/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.trybooking.com/nz/event/21821/tickets",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=12&year=2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=1&year=2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "nature"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -330758,7 +331297,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 318,
+  "version": 320,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -343993,7 +344532,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2144,
+      "total_dossiers": 2148,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

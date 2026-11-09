@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 319,
+    "version": 320,
     "status": "implementation_snapshot",
-    "events": 11132,
-    "competitions": 5004,
+    "events": 11146,
+    "competitions": 5010,
     "league_profiles": 320,
-    "camp_dossiers": 2144,
+    "camp_dossiers": 2148,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 706,
+    "exhibitions_events": 707,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,7 +928,7 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 318,
+    "version": 319,
     "status": "implementation_snapshot",
     "events": 11132,
     "competitions": 5004,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 319,
+    "prepared_ui_version": 320,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 318,
-    "previous_verified_commit": "9320c8984790e5645cb5222b0c42a63371324dfd"
+    "previous_verified_ui_version": 319,
+    "previous_verified_commit": "272659d3149ca68c99c9f667a2369fec389ccac4"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 318,
-    "published_version": 318,
-    "latest_source_commit": "9320c8984790e5645cb5222b0c42a63371324dfd",
-    "published_commit": "9320c8984790e5645cb5222b0c42a63371324dfd",
-    "latest_workflow": 42554561333,
+    "latest_source_version": 319,
+    "published_version": 319,
+    "latest_source_commit": "272659d3149ca68c99c9f667a2369fec389ccac4",
+    "published_commit": "272659d3149ca68c99c9f667a2369fec389ccac4",
+    "latest_workflow": 42556185348,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -33683,5 +33683,107 @@
         "record_lines_bytes": 87970208
       }
     }
+  },
+  "quito_qualifiers_and_holiday_labs_v320": {
+    "version": 320,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5006",
+      "C5007",
+      "C5008",
+      "C5009",
+      "C5010",
+      "C5011",
+      "E707",
+      "CP2145-20261207-20261210-junior-1",
+      "CP2145-20261215-20261218-junior-2",
+      "CP2146-20261214-20261218-petaling",
+      "CP2146-20261214-20261218-johor",
+      "CP2147-20261221-20261223-petaling",
+      "CP2147-20261221-20261223-johor",
+      "CP2148-20261215-20261215-dec15"
+    ],
+    "refreshed_event_ids": [
+      "C1299",
+      "C1300",
+      "C1301",
+      "C1302",
+      "C1303",
+      "C1304",
+      "C1305",
+      "C1306",
+      "C1307",
+      "C486",
+      "C3153",
+      "C3154",
+      "C3155",
+      "C3156",
+      "C3157",
+      "C3158",
+      "C3159",
+      "C3160",
+      "C4485",
+      "E363",
+      "E117",
+      "C043"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1299",
+      "C1300",
+      "C1301",
+      "C1302",
+      "C1303",
+      "C1304",
+      "C1305",
+      "C1306",
+      "C1307",
+      "C486",
+      "C3153",
+      "C3154",
+      "C3155",
+      "C3156",
+      "C3157",
+      "C3158",
+      "C3159",
+      "C3160",
+      "C4485",
+      "E363",
+      "E117",
+      "C043"
+    ],
+    "legacy_overlay_league_ids": [
+      "robothink-dream-thailand"
+    ],
+    "alias_to_canonical": {
+      "C1299": "C4790",
+      "C1300": "C4791",
+      "C1301": "C4792",
+      "C1302": "C4793",
+      "C1303": "C4794",
+      "C1304": "C4795",
+      "C1305": "C4796",
+      "C1306": "C4797",
+      "C1307": "C4798"
+    },
+    "quito_iq_ids": [
+      "C5006",
+      "C5007"
+    ],
+    "quito_milestones": [
+      "C5008",
+      "C5009",
+      "C5010"
+    ],
+    "udon": "C5011",
+    "apgs": "E707",
+    "new_dossier_ids": [
+      "CP2145",
+      "CP2146",
+      "CP2147",
+      "CP2148"
+    ],
+    "source_requests": 16
   }
 }

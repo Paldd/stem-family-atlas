@@ -1429,7 +1429,8 @@
         "TWN"
       ],
       "related_ids": [
-        "E363"
+        "E363",
+        "E707"
       ],
       "child_entry": "Zona pública del 21 al 24 de enero de 2027, TaiNEX 1. Falta cotejar acceso para 6 y 9 años, horas y tarifas de 2027."
     },
@@ -3730,6 +3731,10 @@
         {
           "url": "https://tgs.tca.org.tw/b2bzone_e.php",
           "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tgs.tca.org.tw/?p=event_info_e",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "age": "En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.",
@@ -3743,7 +3748,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Feria familiar o evento público",
+      "level": "exposición / conferencia de la industria",
       "reward": "",
       "priority": "P4 — entrada profesional 18+",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -3753,7 +3758,7 @@
         "technology"
       ],
       "scope": "international",
-      "importance_reason": "Etapa regional",
+      "importance_reason": "Exposición profesional internacional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -3767,7 +3772,8 @@
       "highlights": [],
       "exhibitors": [],
       "related_ids": [
-        "E117"
+        "E117",
+        "E707"
       ]
     },
     {
@@ -5166,6 +5172,73 @@
       ],
       "related_ids": [
         "E021"
+      ]
+    },
+    {
+      "id": "E707",
+      "title": "Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage",
+      "block": "Eventos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "TaiNEX 1 · Taipei",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://tgs.tca.org.tw/?p=event_info_e",
+      "references": [
+        {
+          "url": "https://tgs.tca.org.tw/b2bzone_e.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.",
+      "mat": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "osc": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "format": "Foro profesional con ponencias sobre aplicaciones de IA en videojuegos. Pendientes el programa de esta edición y el acceso de menores.",
+      "entry": "Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.",
+      "gear": "",
+      "language": "Hay materiales en inglés. Confirmar el idioma en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Hay materiales en inglés. Confirmar el idioma en la sede.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "exposición / conferencia de la industria",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.",
+      "note": "Foro profesional con ponencias sobre aplicaciones de IA en videojuegos. Pendientes el programa de esta edición y el acceso de menores.",
+      "themes": [
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Exposición profesional internacional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "profile",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.",
+      "adult_entry": "Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.",
+      "exhibitor_note": "La organización anunció AI Stage. Aún no se confirma la lista de ponentes de esta edición.",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "related_ids": [
+        "E363",
+        "E117"
       ]
     },
     {

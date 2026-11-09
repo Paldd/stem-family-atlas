@@ -196,7 +196,7 @@ Matway: Condicional
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
 Entrada: Nueva convocatoria 2027; admisión primaria extranjera separada de la cuota de México
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: El portal oficial prepara la convocatoria y las bases actualizadas. Confirmar edad y admisión según la disciplina.
+Limitaciones: La federación abrió el portal de la edición 2027. Aún prepara las bases de RoboCup Junior, el acceso y el calendario de inscripción.
 Fuente: https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/
 Se ha comprobado: 2026-11-08
 

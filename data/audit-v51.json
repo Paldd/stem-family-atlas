@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11132,
-    "competition_cards": 5004,
-    "event_cards": 706,
-    "camp_cards": 5422,
+    "cards": 11146,
+    "competition_cards": 5010,
+    "event_cards": 707,
+    "camp_cards": 5429,
     "league_profiles": 320,
-    "major_exhibition_cards": 606,
+    "major_exhibition_cards": 607,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 743,
+      "total": 748,
       "countries_with_records": 15,
-      "competitions": 452,
+      "competitions": 457,
       "events": 56,
       "major_exhibitions": 52,
       "camps": 235,
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3101,
+      "total": 3109,
       "countries_with_records": 50,
-      "competitions": 1196,
-      "events": 184,
-      "major_exhibitions": 171,
-      "camps": 1721,
+      "competitions": 1197,
+      "events": 185,
+      "major_exhibitions": 172,
+      "camps": 1727,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 539,
+      "total": 540,
       "countries_with_records": 27,
       "competitions": 167,
       "events": 36,
       "major_exhibitions": 32,
-      "camps": 336,
+      "camps": 337,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -7629,11 +7629,12 @@
       "name": "RoboThink DREAM Thailand",
       "group": "regional",
       "event_ids": [
-        "C4485"
+        "C4485",
+        "C5011"
       ],
-      "cards": 1,
-      "future_dated": 1,
-      "linked_card_count": 1,
+      "cards": 2,
+      "future_dated": 2,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robothinkdreamthailand.com/2027?lang=en",
       "new": false
@@ -15895,6 +15896,17 @@
       "new": false
     },
     {
+      "id": "E707",
+      "name": "Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://tgs.tca.org.tw/?p=event_info_e",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18312,8 +18324,8 @@
       }
     ],
     "counts": {
-      "records": 5422,
-      "holiday": 4886,
+      "records": 5429,
+      "holiday": 4893,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -18322,7 +18334,7 @@
       "family_instruction": 1638,
       "family_support": 66,
       "ru_instruction": 4,
-      "language_lessons": 420,
+      "language_lessons": 422,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 160

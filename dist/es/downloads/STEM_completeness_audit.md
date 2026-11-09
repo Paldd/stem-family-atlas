@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11132; competiciones: 5004; eventos: 706; campamentos / programas: 5422. Perfiles de ligas y programas: 320. Fichas de exposiciones grandes y especializadas: 606 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11146; competiciones: 5010; eventos: 707; campamentos / programas: 5429. Perfiles de ligas y programas: 320. Fichas de exposiciones grandes y especializadas: 607 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2031 | 154 | 1388 |
-| América del Sur | 15 | 452 | 52 | 235 |
+| América del Sur | 15 | 457 | 52 | 235 |
 | Europa | 55 | 720 | 150 | 1571 |
 | África | 60 | 271 | 45 | 156 |
-| Asia | 50 | 1196 | 171 | 1721 |
-| Oceanía | 27 | 167 | 32 | 336 |
+| Asia | 50 | 1197 | 172 | 1727 |
+| Oceanía | 27 | 167 | 32 | 337 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 5004 fichas de competiciones (16.3%). Hay un desequilibrio visible en la cobertura.
+VEX: 815 de 5010 fichas de competición (16.3%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -318,7 +318,7 @@ VEX: 815 de 5004 fichas de competiciones (16.3%). Hay un desequilibrio visible e
 - **Liga Abierta de Robótica de Minsk · temporada 2026–2027**: 22 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://roboturnir.by/
 - **Torneo Abierto de Robótica de Minsk · RoboFinist**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://edu4future.by/project/minskij-otkrytyj-roboturnir
 - **innovatiQ Digital Cup**: 21 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://innovatiq.education/digitalcup/2027/
-- **RoboThink DREAM Thailand**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robothinkdreamthailand.com/2027?lang=en
+- **RoboThink DREAM Thailand**: 2 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robothinkdreamthailand.com/2027?lang=en
 - **Encode Creative Coding**: 4 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.encode-world.com/encode-online-creative-coding-competition-2026
 - **ICCADA International Scratch**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iccada.com/scratch
 - **Main Team Coding Olympiad**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://main-team.org/documents/exam_schedule_2026_2027.pdf
@@ -994,6 +994,7 @@ VEX: 815 de 5004 fichas de competiciones (16.3%). Hay un desequilibrio visible e
 - **Kinia Creative Technology Week 2027** — Irlanda; 2027-04-14 – 2027-04-24. el permiso de entrada de niños. https://kinia.ie/creative-technology-week/
 - **Souidania · Espace de loisirs scientifiques** — Argelia; fecha por confirmar. Con un adulto; condiciones de admisión adulta por separado. https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785
 - **EMECEXPO 2027 · AI & Business Technology** — Marruecos; 2027-12-02 – 2027-12-04. el permiso de entrada de niños. https://www.emecexpo.com/informations-pratiques
+- **Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage** — Taiwán; 2027-01-21 – 2027-01-22. el permiso de entrada de niños. https://tgs.tca.org.tw/?p=event_info_e
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

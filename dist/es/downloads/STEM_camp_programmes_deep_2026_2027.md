@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2144 fichas en 140 países. Las fechas de comprobación de fuentes figuran en cada ficha.
+Estado de la base: 2026-11-08. 2148 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -169841,6 +169841,288 @@ India · Online
 - [Página de la organización o reglamento de la categoría.](https://learn.modernagecoders.com/online-coding-summer-camp-canada) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://learn.modernagecoders.com/courses/kids-coding-blocks-masterclass) · 2026-11-08
+
+## CP2145 · Bilden × English Horizons · Gamemakers 6–9
+
+Malasia · Subang Jaya · SS15 / SS17
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grupo menor de 6–9 años. Grupo mayor de 10–14 años.
+
+**Idioma:** El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.
+
+**Programa:** En 4 mañanas, los participantes crean personajes, reglas y retos, montan un juego de mesa y lo prueban en equipo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.
+
+**Precio / año:** 2026 · MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** El grupo 6–9 encaja si el niño aún tiene 9 años en la fecha del turno.
+
+**Oscar:** El grupo 6–9 encaja tras cumplir 6 años. Confirmar el acceso en la fecha del turno.
+
+**Por qué se seleccionó:** Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.
+
+### Antes de solicitar plaza
+
+- Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.
+
+- El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.
+
+- MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.
+
+### Gamemakers Holiday Camp
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Subang Jaya · SS15 / SS17
+
+**Precio:** MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-08 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-09 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-10 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bildencreativelearning.com/gamemakers.html)
+
+### Gamemakers Holiday Camp
+
+**Fechas / estado:** 2026-12-15 — 2026-12-18
+
+**lugar:** Subang Jaya · SS15 / SS17
+
+**Precio:** MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-16 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-17 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+- 2026-12-18 · 09:00–12:00 · Asia/Kuala_Lumpur · Gamemakers Holiday Camp
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bildencreativelearning.com/gamemakers.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bildencreativelearning.com/gamemakers.html) · 2026-11-08
+
+## CP2146 · STEM Academy Malaysia · Young Inventor Lab
+
+Malasia · Petaling Jaya / Iskandar Puteri
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Diseño, montaje y prueba de dispositivos funcionales. Demostración de proyectos a las familias el viernes.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Precio / año:** 2026 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza.
+
+**Oscar:** La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza.
+
+**Por qué se seleccionó:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+### Antes de solicitar plaza
+
+- La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+- Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Young Inventor Lab
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Petaling Jaya · PJ Campus
+
+**Precio:** Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**condiciones de participación:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://bookwhen.com/stemacademymy)
+
+### Young Inventor Lab
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Iskandar Puteri · JB Campus
+
+**Precio:** Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**condiciones de participación:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://bookwhen.com/stemacademymy)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stemacademy.my/holiday-camps/?camp=young-inventor-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://bookwhen.com/stemacademymy) · 2026-11-08
+
+## CP2147 · STEM Academy Malaysia · Christmas Science & Slime
+
+Malasia · Petaling Jaya / Iskandar Puteri
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Experimentos con polímeros y química de invierno, y circuitos eléctricos sencillos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Precio / año:** 2026 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza.
+
+**Oscar:** La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza.
+
+**Por qué se seleccionó:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+### Antes de solicitar plaza
+
+- La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+- Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Christmas Science & Slime
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Petaling Jaya · PJ Campus
+
+**Precio:** Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**condiciones de participación:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://bookwhen.com/stemacademymy)
+
+### Christmas Science & Slime
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Iskandar Puteri · JB Campus
+
+**Precio:** Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.
+
+**condiciones de participación:** La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://bookwhen.com/stemacademymy)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stemacademy.my/holiday-camps/?camp=young-inventor-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://bookwhen.com/stemacademymy) · 2026-11-08
+
+## CP2148 · Little Scientists · Cox’s Bay Holiday Programme
+
+Nueva Zelanda · Cox's Bay Pavilion · Herne Bay · Auckland
+
+**Se ha comprobado:** 2026-11-08
+
+**Edad:** 5–11
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Programa diurno de ciencia, experimentos y actividades al aire libre. Los temas cambian según el grupo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El sistema de venta muestra el 15 de diciembre de 2026, 09:00–15:00. El calendario municipal indica otros 7 días, que aún no aparecen como sesiones de venta.
+
+**Precio / año:** 2026 · NZD 70 por niño y día. Confirmar posibles comisiones al pagar.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes.
+
+**Oscar:** La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes.
+
+**Por qué se seleccionó:** El sistema de venta muestra el 15 de diciembre de 2026, 09:00–15:00. El calendario municipal indica otros 7 días, que aún no aparecen como sesiones de venta.
+
+### Antes de solicitar plaza
+
+- El sistema de venta muestra el 15 de diciembre de 2026, 09:00–15:00. El calendario municipal indica otros 7 días, que aún no aparecen como sesiones de venta.
+
+- NZD 70 por niño y día. Confirmar posibles comisiones al pagar.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Little Scientists · Cox's Bay
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Cox's Bay Pavilion · Herne Bay · Auckland
+
+**Precio:** NZD 70 por niño y día. Confirmar posibles comisiones al pagar.
+
+- 2026-12-15 · 09:00–15:00 · Pacific/Auckland · Little Scientists · Cox's Bay
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.trybooking.com/nz/event/21821/tickets)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.littlescientists.co.nz/holiday-programme-auckland) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://ourauckland.aucklandcouncil.govt.nz/events/2026/12/little-scientists-holiday-programme-fun/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.trybooking.com/nz/event/21821/tickets) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=12&year=2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=1&year=2027) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

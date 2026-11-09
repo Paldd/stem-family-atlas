@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5422,
-      "holiday": 4886,
+      "records": 5429,
+      "holiday": 4893,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -590,7 +590,7 @@
       "family_instruction": 1638,
       "family_support": 66,
       "ru_instruction": 4,
-      "language_lessons": 420,
+      "language_lessons": 422,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 160
@@ -450273,6 +450273,643 @@
           "timezone": "Asia/Singapore",
           "ical_timed": false,
           "time_note": "Bloque de mañana publicado. El centro cierra por la tarde. Confirmar la hora de salida."
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2145-20261207-20261210-junior-1",
+      "block": "Campamentos",
+      "title": "Bilden × English Horizons · Gamemakers 6–9 · Gamemakers Holiday Camp · 2026-12-07–2026-12-10",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Subang Jaya · SS15 / SS17",
+      "start": "2026-12-07",
+      "end": "2026-12-10",
+      "period": "Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo menor de 6–9 años. Grupo mayor de 10–14 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "En 4 mañanas, los participantes crean personajes, reglas y retos, montan un juego de mesa y lo prueban en equipo.",
+      "language": "El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.",
+      "cost": "2026/27 · MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.; El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.; MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.",
+      "source": "https://www.bildencreativelearning.com/gamemakers.html",
+      "references": [
+        {
+          "url": "https://www.bildencreativelearning.com/gamemakers.html",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: El grupo 6–9 encaja si el niño aún tiene 9 años en la fecha del turno. Oscar: El grupo 6–9 encaja tras cumplir 6 años. Confirmar el acceso en la fecha del turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "games",
+        "design",
+        "languages",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bilden-subang-jaya-gamemakers-junior",
+      "camp_programme_id": "CP2145",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-07T01:00:00Z",
+          "end_utc": "2026-12-07T04:00:00Z"
+        },
+        {
+          "date": "2026-12-08",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-08T01:00:00Z",
+          "end_utc": "2026-12-08T04:00:00Z"
+        },
+        {
+          "date": "2026-12-09",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T01:00:00Z",
+          "end_utc": "2026-12-09T04:00:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T01:00:00Z",
+          "end_utc": "2026-12-10T04:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2145-20261215-20261218-junior-2",
+      "block": "Campamentos",
+      "title": "Bilden × English Horizons · Gamemakers 6–9 · Gamemakers Holiday Camp · 2026-12-15–2026-12-18",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Subang Jaya · SS15 / SS17",
+      "start": "2026-12-15",
+      "end": "2026-12-18",
+      "period": "Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo menor de 6–9 años. Grupo mayor de 10–14 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "En 4 mañanas, los participantes crean personajes, reglas y retos, montan un juego de mesa y lo prueban en equipo.",
+      "language": "El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.",
+      "cost": "2026/27 · MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Dos turnos de 4 mañanas de 09:00 a 12:00. Confirmar dirección y plaza del turno elegido.; El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.; MYR 550 por niño por 4 días. Hasta el 15 de noviembre de 2026, MYR 480. Paquete de 2 niños por MYR 900 o de 3 por MYR 1300. Confirmar la combinación de descuentos.",
+      "source": "https://www.bildencreativelearning.com/gamemakers.html",
+      "references": [
+        {
+          "url": "https://www.bildencreativelearning.com/gamemakers.html",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: El grupo 6–9 encaja si el niño aún tiene 9 años en la fecha del turno. Oscar: El grupo 6–9 encaja tras cumplir 6 años. Confirmar el acceso en la fecha del turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "games",
+        "design",
+        "languages",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa incluye escritura, vocabulario y presentación del juego en inglés. Confirmar el idioma del resto de la sesión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bilden-subang-jaya-gamemakers-junior",
+      "camp_programme_id": "CP2145",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-15",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-15T01:00:00Z",
+          "end_utc": "2026-12-15T04:00:00Z"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T01:00:00Z",
+          "end_utc": "2026-12-16T04:00:00Z"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-17T01:00:00Z",
+          "end_utc": "2026-12-17T04:00:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "Gamemakers Holiday Camp",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T01:00:00Z",
+          "end_utc": "2026-12-18T04:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2146-20261214-20261218-petaling",
+      "block": "Campamentos",
+      "title": "STEM Academy Malaysia · Young Inventor Lab · Young Inventor Lab · 2026-12-14–2026-12-18",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Petaling Jaya · PJ Campus",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "gear": "Diseño, montaje y prueba de dispositivos funcionales. Demostración de proyectos a las familias el viernes.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.; Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.; Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "source": "https://bookwhen.com/stemacademymy",
+      "references": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stem-academy-my-young-inventor-dec-2026",
+      "camp_programme_id": "CP2146",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2146-20261214-20261218-johor",
+      "block": "Campamentos",
+      "title": "STEM Academy Malaysia · Young Inventor Lab · Young Inventor Lab · 2026-12-14–2026-12-18",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Iskandar Puteri · JB Campus",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "gear": "Diseño, montaje y prueba de dispositivos funcionales. Demostración de proyectos a las familias el viernes.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.; Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.; Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "source": "https://bookwhen.com/stemacademymy",
+      "references": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stem-academy-my-young-inventor-dec-2026",
+      "camp_programme_id": "CP2146",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2147-20261221-20261223-petaling",
+      "block": "Campamentos",
+      "title": "STEM Academy Malaysia · Christmas Science & Slime · Christmas Science & Slime · 2026-12-21–2026-12-23",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Petaling Jaya · PJ Campus",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "gear": "Experimentos con polímeros y química de invierno, y circuitos eléctricos sencillos.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.; Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.; Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "source": "https://bookwhen.com/stemacademymy",
+      "references": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stem-academy-my-christmas-science-dec-2026",
+      "camp_programme_id": "CP2147",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2147-20261221-20261223-johor",
+      "block": "Campamentos",
+      "title": "STEM Academy Malaysia · Christmas Science & Slime · Christmas Science & Slime · 2026-12-21–2026-12-23",
+      "country": "Malasia",
+      "region": "Asia",
+      "city": "Iskandar Puteri · JB Campus",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La organización indica 6–15 años en la página de campamentos. Confirmar el grupo del turno elegido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.",
+      "gear": "Experimentos con polímeros y química de invierno, y circuitos eléctricos sencillos.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica inicio a las 10:00. Confirmar hora de salida, almuerzo y plaza para la sede.; Precio a consultar. La organización anuncia una tarifa familiar en la misma solicitud. Confirmar importe para 2 niños y servicios incluidos.; Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "source": "https://bookwhen.com/stemacademymy",
+      "references": [
+        {
+          "url": "https://stemacademy.my/holiday-camps/?camp=young-inventor-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://bookwhen.com/stemacademymy",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Oscar: La edad encaja si ya ha cumplido 6 años al inicio. Confirmar grupo y plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stem-academy-my-christmas-science-dec-2026",
+      "camp_programme_id": "CP2147",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2148-20261215-20261215-dec15",
+      "block": "Campamentos",
+      "title": "Little Scientists · Cox’s Bay Holiday Programme · Little Scientists · Cox's Bay · 2026-12-15–2026-12-15",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "city": "Cox's Bay Pavilion · Herne Bay · Auckland",
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "period": "El sistema de venta muestra el 15 de diciembre de 2026, 09:00–15:00. El calendario municipal indica otros 7 días, que aún no aparecen como sesiones de venta.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–11",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa diurno de ciencia, experimentos y actividades al aire libre. Los temas cambian según el grupo.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · NZD 70 por niño y día. Confirmar posibles comisiones al pagar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El sistema de venta muestra el 15 de diciembre de 2026, 09:00–15:00. El calendario municipal indica otros 7 días, que aún no aparecen como sesiones de venta.; NZD 70 por niño y día. Confirmar posibles comisiones al pagar.; Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "source": "https://www.trybooking.com/nz/event/21821/tickets",
+      "references": [
+        {
+          "url": "https://www.littlescientists.co.nz/holiday-programme-auckland",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://ourauckland.aucklandcouncil.govt.nz/events/2026/12/little-scientists-holiday-programme-fun/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.trybooking.com/nz/event/21821/tickets",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=12&year=2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=1&year=2027",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Oscar: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "NZL"
+      ],
+      "themes": [
+        "science",
+        "nature"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "little-scientists-coxs-bay-auckland",
+      "camp_programme_id": "CP2148",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-15",
+          "topic": "Little Scientists · Cox's Bay",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2026-12-14T20:00:00Z",
+          "end_utc": "2026-12-15T02:00:00Z"
         }
       ],
       "delivery_mode": "in_person",

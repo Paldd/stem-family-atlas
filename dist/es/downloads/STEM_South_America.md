@@ -349,16 +349,16 @@ Comprobado: 2026-09-30
 
 ### C486 · IX TORNEO NACIONAL DE ROBÓTICA ROBOTIC MINDS - VEX ROBOTICS
 
-Fecha: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
+Fecha: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
 Edad: VEX IQ All: Elementary / Middle; Elementary antes 12 hasta 01.06.2027
 Matway: Sí por edad; division y entrada extranjera
 Oscar: Sí por edad; division y entrada extranjera
 Idioma: ES htm candidato; idioma de entrevista / notebook a convenir
-Acceso: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
-Precio: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
-Limitaciones: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
+Acceso: Acordar la categoría con Robotic Minds antes de pagar. El portal VEX indica torneo abierto, pero el acceso internacional requiere confirmación.
+Precio: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+Limitaciones: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5321.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C576 · Torneo Nacional ROBÓTCA EXTREMA ES
 
@@ -2501,9 +2501,9 @@ Oscar: Condicional. Edad adecuada, se necesita grado compatible y equipo según 
 Idioma: Confirmar el idioma del grupo o sede concretos.
 Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
 Precio: La tarifa depende de la categoría. Las tarifas reducidas corresponden a Red Robotic Minds.
-Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Limitaciones: Horario general de la sede de 08:00 a 18:30. Confirmar el horario de cada categoría. La organización anuncia 10 categorías. La página identifica 9 por nombre. La décima requiere confirmación. VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3154 · Robotic Minds Quito · VEX 123 · Think Fast
 
@@ -2516,7 +2516,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3155 · Robotic Minds Quito · VEX GO · City Technology Rebuild · All Stars
 
@@ -2529,7 +2529,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3156 · Robotic Minds Quito · VEX GO · City Technology Rebuild · Super Champs
 
@@ -2542,7 +2542,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3157 · Robotic Minds Quito · Free Mind Project · STEAM Basic
 
@@ -2555,7 +2555,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3158 · Robotic Minds Quito · Free Mind Project · STEAM Pro
 
@@ -2568,7 +2568,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3159 · Robotic Minds Quito · M4RK · Smart City · Middle
 
@@ -2581,7 +2581,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3160 · Robotic Minds Quito · M4RK · Smart City · Superior
 
@@ -2594,7 +2594,7 @@ Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión
 Precio: USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.
 Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E354 · Nerdearla · Chile 2027
 
@@ -6429,6 +6429,71 @@ Acceso: Feria profesional. La solicitud previa se valida y la organización conf
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones:
 Fuente: https://cartagena.andinalink.com/
+Se ha comprobado: 2026-11-08
+
+### C5006 · Robotic Minds Quito · VEX IQ Level Up · Elementary
+
+Fecha: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+edad: La página del torneo indica nacidos después del 1 de mayo de 2014. Cotejar el corte con las bases de VEX y la asignación de divisiones.
+Matvey: El año de nacimiento encaja en el límite superior de edad. Confirmar división, edad mínima, composición del equipo y acceso desde Costa Rica.
+Oscar: El año de nacimiento encaja en el límite superior de edad. Confirmar división, edad mínima, composición del equipo y acceso desde Costa Rica.
+Idioma: Las condiciones de la organización están en español. Confirmar el idioma del jurado y del cuaderno.
+Acceso: Acordar la categoría con Robotic Minds antes de pagar. El portal VEX indica torneo abierto, pero el acceso internacional requiere confirmación.
+Precio: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+Limitaciones: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-08
+
+### C5007 · Robotic Minds Quito · VEX IQ Level Up · Middle School
+
+Fecha: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+edad: La página del torneo indica nacidos después del 1 de mayo de 2011. Cotejar el corte con las bases de VEX y la asignación de divisiones.
+Matvey: El año de nacimiento encaja en el límite superior de edad. Confirmar división, edad mínima, composición del equipo y acceso desde Costa Rica.
+Oscar: El año de nacimiento encaja en el límite superior de edad. Confirmar división, edad mínima, composición del equipo y acceso desde Costa Rica.
+Idioma: Las condiciones de la organización están en español. Confirmar el idioma del jurado y del cuaderno.
+Acceso: Acordar la categoría con Robotic Minds antes de pagar. El portal VEX indica torneo abierto, pero el acceso internacional requiere confirmación.
+Precio: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+Limitaciones: VEX muestra el 21–22 de enero de 2027 y USD 300, con inscripción hasta el 11 de diciembre de 2026. Robotic Minds indica el 22–23 de enero de 2027, USD 500 por equipo y USD 250 para su red, con inscripción hasta el 4 de diciembre de 2026. Ambas páginas indican pago hasta el 4 de diciembre de 2026. Cotejar las fechas específicas de IQ, la tarifa aplicable y el proceso de inscripción.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-08
+
+### C5008 · Robotic Minds Quito · Free Mind · entrega de proyecto y video
+
+Fecha: 2027-01-05 — 2027-01-05
+edad: Hasta grado 7 EGB inclusive. El grado mínimo para postular no se indica.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-08
+
+### C5009 · Robotic Minds Quito · Free Mind · publicación de finalistas
+
+Fecha: 2027-01-08 — 2027-01-08
+edad: Hasta grado 7 EGB inclusive. El grado mínimo para postular no se indica.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-08
+
+### C5010 · Robotic Minds Quito · VEX GO · entrega del póster de ingeniería
+
+Fecha: 2027-01-10 国 2027-01-10
+edad: Grados 3–4 EGB.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Fechas publicadas en el calendario de la organización. Confirmar hora de cierre y modo de envío.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 Se ha comprobado: 2026-11-08
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

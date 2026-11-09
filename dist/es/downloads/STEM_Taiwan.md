@@ -1081,6 +1081,19 @@ Limitaciones: La página en chino incluye expresamente los 12 años. La redacci�
 Fuente: https://www.chanchao.com.tw/Atlife/visitor.asp
 Se ha comprobado: 2026-11-08
 
+### E707 · Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Acceso: Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Foro profesional con ponencias sobre aplicaciones de IA en videojuegos. Pendientes el programa de esta edición y el acceso de menores.
+Fuente: https://tgs.tca.org.tw/?p=event_info_e
+Se ha comprobado: 2026-11-08
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10
