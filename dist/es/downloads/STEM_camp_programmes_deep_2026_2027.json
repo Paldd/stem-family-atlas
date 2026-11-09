@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2271,
+    "dossiers": 2280,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 299,
-      "published_2027": 648,
+      "published_2027": 654,
       "partial_2027": 160,
       "next_unannounced": 442,
-      "published_2026": 438,
+      "published_2026": 441,
       "partial_2026_27": 44,
       "partial_2026": 24,
       "archive_next_unannounced": 151,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3210
+    "source_urls": 3215
   },
   "countries": [
     {
@@ -479,7 +479,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 172
+      "count": 176
     },
     {
       "country": "Surinam",
@@ -575,7 +575,7 @@
     },
     {
       "country": "Suecia",
-      "count": 1
+      "count": 6
     },
     {
       "country": "Ecuador",
@@ -398719,6 +398719,1227 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2272",
+      "slug": "snapology-johns-creek-thanksgiving",
+      "provider": "Snapology Alpharetta · GameBots Robotics + Mini-Figure Mania",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "programme": "Por la mañana, juegos con robots, sensores y engranajes. Por la tarde, modelos e historias con minifiguras LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "thanksgiving",
+            "start": "2026-11-23",
+            "end": "2026-11-25",
+            "label": "GameBots Robotics + Mini-Figure Mania",
+            "price": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+            "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+            },
+            "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "GameBots Robotics + Mini-Figure Mania",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T14:00:00Z",
+                "end_utc": "2026-11-23T21:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "GameBots Robotics + Mini-Figure Mania",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T14:00:00Z",
+                "end_utc": "2026-11-24T21:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "GameBots Robotics + Mini-Figure Mania",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T14:00:00Z",
+                "end_utc": "2026-11-25T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "",
+        "label": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+        "included": "Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.",
+        "extras": "Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "shortlist": [],
+      "questions": [
+        "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+        "El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.",
+        "La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022."
+      ],
+      "sources": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2272-20261123-20261125-thanksgiving"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2273",
+      "slug": "snapology-johns-creek-winter-holiday",
+      "provider": "Snapology Alpharetta · Winter Holiday Robotics + Winter Creative Adventures",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "programme": "Robots de temática invernal por la mañana. Exploring Arendelle por la tarde el 21–22 de diciembre y How the Grinch Stole Bricks el 23 de diciembre.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-holiday",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Winter Holiday Robotics + Winter Creative Adventures",
+            "price": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+            "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+            },
+            "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T21:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T21:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "",
+        "label": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+        "included": "Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.",
+        "extras": "Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "shortlist": [],
+      "questions": [
+        "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+        "El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.",
+        "La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022."
+      ],
+      "sources": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2273-20261221-20261223-winter-holiday"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2274",
+      "slug": "snapology-johns-creek-creature-creator",
+      "provider": "Snapology Alpharetta · Creature Creator Robotics + Pokemania",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "programme": "Modelos de animales con movimiento y código por la mañana. Construcción LEGO inspirada en Pokémon por la tarde.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "creature-creator",
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Creature Creator Robotics + Pokemania",
+            "price": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+            "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+            },
+            "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Creature Creator Robotics + Pokemania",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T21:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Creature Creator Robotics + Pokemania",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T21:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "Creature Creator Robotics + Pokemania",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "",
+        "label": "79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.",
+        "included": "Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.",
+        "extras": "Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "shortlist": [],
+      "questions": [
+        "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+        "El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.",
+        "La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022."
+      ],
+      "sources": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2274-20261228-20261230-creature-creator"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2275",
+      "slug": "snapology-johns-creek-january",
+      "provider": "Snapology Alpharetta · GameBots Robotics + Mining & Building",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "programme": "Juegos interactivos con robots por la mañana. Construcciones LEGO inspiradas en Minecraft por la tarde.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "january",
+            "start": "2027-01-04",
+            "end": "2027-01-04",
+            "label": "GameBots Robotics + Mining & Building",
+            "price": "79 USD por menor y día.",
+            "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+            },
+            "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/New_York",
+                "topic": "GameBots Robotics + Mining & Building",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T14:00:00Z",
+                "end_utc": "2027-01-04T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 79,
+        "currency": "USD",
+        "unit": "day",
+        "label": "79 USD por menor y día.",
+        "included": "Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.",
+        "extras": "Cuidado por solicitud. Llegada anticipada 15 USD, recogida tardía 20 USD, ambos 30 USD por día. Factura aparte.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "shortlist": [],
+      "questions": [
+        "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+        "El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.",
+        "La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022."
+      ],
+      "sources": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2275-20270104-20270104-january"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2276",
+      "slug": "gowreads-robotics-saturday-beginner",
+      "provider": "GowReads LEGO Robotics · Saturday Beginners",
+      "country": "Suecia",
+      "iso": "SWE",
+      "place": "Viktor Rydberg School · Frejgatan 30 · Stockholm",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "programme": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Robótica los sábados en inglés y sueco según la organización.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "SV"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.",
+        "sessions": [
+          [
+            "2027-01-30",
+            "2027-06-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "saturday-beginner",
+            "start": "2027-01-30",
+            "end": "2027-06-05",
+            "label": "Saturday Beginners",
+            "price": "4990 SEK por semestre. Incluye el IVA del 6%.",
+            "source": "https://www.gowreads.com/lego-robotics",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización abrió la inscripción. Confirmar plazas y franja de edad."
+            },
+            "entry": "La organización abrió la inscripción. Confirmar plazas y franja de edad.",
+            "date_precision": "announced_window",
+            "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4990,
+        "currency": "SEK",
+        "unit": "course",
+        "label": "4990 SEK por semestre. Incluye el IVA del 6%.",
+        "included": "",
+        "extras": "Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.",
+      "shortlist": [],
+      "questions": [
+        "La organización abrió la inscripción. Confirmar plazas y franja de edad.",
+        "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+        "Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "confirmed_support_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-30",
+          "end": "2027-06-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2276-20270130-20270605-saturday-beginner"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2277",
+      "slug": "gowreads-robotics-saturday-advanced",
+      "provider": "GowReads LEGO Robotics · Saturday Advanced",
+      "country": "Suecia",
+      "iso": "SWE",
+      "place": "Viktor Rydberg School · Frejgatan 30 · Stockholm",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "programme": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Robótica los sábados en inglés y sueco según la organización.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "SV"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.",
+        "sessions": [
+          [
+            "2027-01-30",
+            "2027-06-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "saturday-advanced",
+            "start": "2027-01-30",
+            "end": "2027-06-05",
+            "label": "Saturday Advanced",
+            "price": "4990 SEK por semestre. Incluye el IVA del 6%.",
+            "source": "https://www.gowreads.com/lego-robotics",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla."
+            },
+            "entry": "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.",
+            "date_precision": "announced_window",
+            "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4990,
+        "currency": "SEK",
+        "unit": "course",
+        "label": "4990 SEK por semestre. Incluye el IVA del 6%.",
+        "included": "",
+        "extras": "Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.",
+      "shortlist": [],
+      "questions": [
+        "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.",
+        "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+        "La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "confirmed_support_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-30",
+          "end": "2027-06-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2277-20270130-20270605-saturday-advanced"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2278",
+      "slug": "gowreads-robotics-sunday-beginner",
+      "provider": "GowReads LEGO Robotics · Sunday Beginners",
+      "country": "Suecia",
+      "iso": "SWE",
+      "place": "British International School of Stockholm · Rinkebyvägen 4 · Danderyd",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "programme": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.",
+        "sessions": [
+          [
+            "2027-01-31",
+            "2027-06-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "sunday-beginner",
+            "start": "2027-01-31",
+            "end": "2027-06-06",
+            "label": "Sunday Beginners",
+            "price": "4990 SEK por semestre. Incluye el IVA del 6%.",
+            "source": "https://www.gowreads.com/lego-robotics",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "not_open",
+              "label": "La página indica que la inscripción abrirá más adelante."
+            },
+            "entry": "La página indica que la inscripción abrirá más adelante.",
+            "date_precision": "announced_window",
+            "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4990,
+        "currency": "SEK",
+        "unit": "course",
+        "label": "4990 SEK por semestre. Incluye el IVA del 6%.",
+        "included": "",
+        "extras": "Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "La página indica que la inscripción abrirá más adelante.",
+        "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+        "Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "SV"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-31",
+          "end": "2027-06-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2278-20270131-20270606-sunday-beginner"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2279",
+      "slug": "gowreads-robotics-sunday-advanced",
+      "provider": "GowReads LEGO Robotics · Sunday Advanced",
+      "country": "Suecia",
+      "iso": "SWE",
+      "place": "British International School of Stockholm · Rinkebyvägen 4 · Danderyd",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "programme": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.",
+        "sessions": [
+          [
+            "2027-01-31",
+            "2027-06-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "sunday-advanced",
+            "start": "2027-01-31",
+            "end": "2027-06-06",
+            "label": "Sunday Advanced",
+            "price": "4990 SEK por semestre. Incluye el IVA del 6%.",
+            "source": "https://www.gowreads.com/lego-robotics",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "not_open",
+              "label": "La página indica que la inscripción abrirá más adelante."
+            },
+            "entry": "La página indica que la inscripción abrirá más adelante.",
+            "date_precision": "announced_window",
+            "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 4990,
+        "currency": "SEK",
+        "unit": "course",
+        "label": "4990 SEK por semestre. Incluye el IVA del 6%.",
+        "included": "",
+        "extras": "Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        }
+      },
+      "editorial_reason": "Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "La página indica que la inscripción abrirá más adelante.",
+        "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+        "Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "SV"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-31",
+          "end": "2027-06-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2279-20270131-20270606-sunday-advanced"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2280",
+      "slug": "gowreads-roblox-beginner",
+      "provider": "GowReads · Roblox Game Development",
+      "country": "Suecia",
+      "iso": "SWE",
+      "place": "Stiftelsen Viktor Rydbergs skolor · Frejgatan 30 / Norrtullsgatan 41a · Stockholm",
+      "age": "8–14 años. En primavera está abierto el nivel inicial.",
+      "programme": "Roblox Studio, creación de mundos tridimensionales y programación de mecánicas en Lua.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en sueco con apoyo en inglés. Una frase genérica sobre bilingüismo difiere de la descripción de este grupo.",
+      "confirmed_instruction_languages": [
+        "SV"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Sábados 12:30–14:00, del 30 de enero al 5 de junio de 2027, salvo festivos.",
+        "sessions": [
+          [
+            "2027-01-30",
+            "2027-06-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "saturday-roblox",
+            "start": "2027-01-30",
+            "end": "2027-06-05",
+            "label": "Roblox Game Development",
+            "price": "3990 SEK por semestre. Incluye el IVA del 6%.",
+            "source": "https://www.gowreads.com/roblox-game-development",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La organización abrió la inscripción. Confirmar plazas y franja de edad."
+            },
+            "date_precision": "announced_window",
+            "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+            "entry": "La organización abrió la inscripción. Confirmar plazas y franja de edad."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 3990,
+        "currency": "SEK",
+        "unit": "course",
+        "label": "3990 SEK por semestre. Incluye el IVA del 6%.",
+        "included": "",
+        "extras": "Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar plaza y condiciones de admisión."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No por edad. Edad inferior al mínimo del grupo elegido."
+        }
+      },
+      "editorial_reason": "Sábados 12:30–14:00, del 30 de enero al 5 de junio de 2027, salvo festivos.",
+      "shortlist": [],
+      "questions": [
+        "La organización abrió la inscripción. Confirmar plazas y franja de edad.",
+        "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gowreads.com/roblox-game-development",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-30",
+          "end": "2027-06-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2280-20270130-20270605-saturday-roblox"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "SV"
+        ],
+        "support": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -404044,7 +405265,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 342,
+  "version": 343,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -417279,7 +418500,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2271,
+      "total_dossiers": 2280,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -442469,6 +443690,51 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2272",
+      "event_id": "CP2272-20261123-20261125-thanksgiving",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2273",
+      "event_id": "CP2273-20261221-20261223-winter-holiday",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2274",
+      "event_id": "CP2274-20261228-20261230-creature-creator",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2275",
+      "event_id": "CP2275-20270104-20270104-january",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2276",
+      "event_id": "CP2276-20270130-20270605-saturday-beginner",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2277",
+      "event_id": "CP2277-20270130-20270605-saturday-advanced",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2278",
+      "event_id": "CP2278-20270131-20270606-sunday-beginner",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2279",
+      "event_id": "CP2279-20270131-20270606-sunday-advanced",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2280",
+      "event_id": "CP2280-20270130-20270605-saturday-roblox",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -447601,10 +448867,19 @@
     "CP2271-20260330-20260403-week-1-half",
     "CP2271-20260330-20260403-week-1-full",
     "CP2271-20260406-20260410-week-2-half",
-    "CP2271-20260406-20260410-week-2-full"
+    "CP2271-20260406-20260410-week-2-full",
+    "CP2272-20261123-20261125-thanksgiving",
+    "CP2273-20261221-20261223-winter-holiday",
+    "CP2274-20261228-20261230-creature-creator",
+    "CP2275-20270104-20270104-january",
+    "CP2276-20270130-20270605-saturday-beginner",
+    "CP2277-20270130-20270605-saturday-advanced",
+    "CP2278-20270131-20270606-sunday-beginner",
+    "CP2279-20270131-20270606-sunday-advanced",
+    "CP2280-20270130-20270605-saturday-roblox"
   ],
   "integration": {
-    "generated_sessions": 4722,
+    "generated_sessions": 4731,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

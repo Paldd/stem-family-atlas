@@ -22612,52 +22612,80 @@
       "city": "Ciudad de México",
       "start": "2026-12-12",
       "end": "2026-12-12",
-      "period": "Местное время 11:00–11:30.",
+      "period": "Сеанс 11:00–11:30 по времени Мехико. Расписание может измениться.",
       "deadline": "",
       "date_status": "Подтверждено",
       "date_scope": "event_day",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
       "references": [
         {
           "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
           "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
         }
       ],
-      "proof": "Проверено по программе организатора.",
+      "proof": "Официальное расписание с возрастом, временем и местом.",
       "status": "Идея",
-      "age": "Возраст 3–6 лет.",
-      "mat": "Нет по возрасту. Возможен общий визит в музей.",
-      "osc": "Да по возрасту. Приходить со взрослым и подтвердить место.",
-      "format": "Семейная научная программа",
-      "entry": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
+      "age": "3–6 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
       "gear": "Устройство тела насекомого и научный рисунок.",
-      "language": "Язык проведения уточнить для выбранной группы или этапа.",
-      "languages": [],
-      "language_mode": "unconfirmed",
-      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
-      "cost": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест.",
-      "level": "Семейная научная программа",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
       "reward": "",
-      "priority": "P2 — участие по условиям",
-      "action": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "note": "Расписание музея может измениться.",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Рисунок и изучение строения насекомых.",
       "themes": [
         "science",
-        "technology"
+        "design"
       ],
-      "scope": "regional",
-      "importance_reason": "Региональная выставка для посетителей",
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
       "participation": "visitor",
-      "admission_kind": "visitor",
+      "admission_kind": "public",
       "evidence_level": "event_page",
       "visitor_policy": "family",
       "exhibition_tier": "family_alternative",
       "exhibitors": [],
       "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
-      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo · jardín del Espacio Infantil",
-      "visitor_policy_note": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "adult_entry": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест."
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "delivery_mode": "in_person",
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-12-12",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T17:00:00Z",
+          "end_utc": "2026-12-12T17:30:00Z"
+        }
+      ],
+      "related_ids": [
+        "E744"
+      ]
     },
     {
       "id": "E510",
@@ -22671,52 +22699,81 @@
       "city": "Ciudad de México",
       "start": "2026-12-12",
       "end": "2026-12-12",
-      "period": "Местное время 12:00–12:40.",
+      "period": "Сеанс 12:00–12:40 по времени Мехико. Расписание может измениться.",
       "deadline": "",
       "date_status": "Подтверждено",
       "date_scope": "event_day",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
       "references": [
         {
           "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
           "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
         }
       ],
-      "proof": "Проверено по программе организатора.",
+      "proof": "Официальное расписание с возрастом, временем и местом.",
       "status": "Идея",
-      "age": "Возраст 4–8 лет.",
-      "mat": "Нет по возрасту. Возможен общий визит в музей.",
-      "osc": "Да по возрасту. Приходить со взрослым и подтвердить место.",
-      "format": "Семейная научная программа",
-      "entry": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
+      "age": "4–8 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
       "gear": "Различия между динозаврами и другими животными через создание модели.",
-      "language": "Язык проведения уточнить для выбранной группы или этапа.",
-      "languages": [],
-      "language_mode": "unconfirmed",
-      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
-      "cost": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест.",
-      "level": "Семейная научная программа",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
       "reward": "",
-      "priority": "P2 — участие по условиям",
-      "action": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "note": "Расписание музея может измениться.",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Конструирование фигур и сравнение динозавров с другими животными.",
       "themes": [
         "science",
-        "technology"
+        "design"
       ],
-      "scope": "regional",
-      "importance_reason": "Региональная выставка для посетителей",
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
       "participation": "visitor",
-      "admission_kind": "visitor",
+      "admission_kind": "public",
       "evidence_level": "event_page",
       "visitor_policy": "family",
       "exhibition_tier": "family_alternative",
       "exhibitors": [],
       "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
-      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo Universum",
-      "visitor_policy_note": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "adult_entry": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест."
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "delivery_mode": "in_person",
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-12-12",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T18:00:00Z",
+          "end_utc": "2026-12-12T18:40:00Z"
+        }
+      ],
+      "related_ids": [
+        "E745",
+        "E511"
+      ]
     },
     {
       "id": "E511",
@@ -22730,52 +22787,80 @@
       "city": "Ciudad de México",
       "start": "2026-12-12",
       "end": "2026-12-12",
-      "period": "Местное время 12:00–12:30.",
+      "period": "12:00–12:30 по времени Мехико. Мозаика физики.",
       "deadline": "",
       "date_status": "Подтверждено",
       "date_scope": "event_day",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
       "references": [
         {
           "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
           "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
         }
       ],
-      "proof": "Проверено по программе организатора.",
+      "proof": "Официальное расписание с возрастом, временем и местом.",
       "status": "Идея",
       "age": "От 8 лет.",
-      "mat": "Да по возрасту. Приходить со взрослым и подтвердить место.",
-      "osc": "Нет по возрасту. Возможен общий визит в музей.",
-      "format": "Семейная научная программа",
-      "entry": "Вход по музейному билету. В группе 10 участников. Уточнить порядок записи на месте.",
+      "mat": "Да по возрасту. Подтвердить место в группе.",
+      "osc": "Нет по возрасту. Возраст ниже минимума выбранной группы.",
+      "format": "Семейная музейная программа",
+      "entry": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
       "gear": "Игровое знакомство с моделями атома и моделью Бора.",
-      "language": "Язык проведения уточнить для выбранной группы или этапа.",
-      "languages": [],
-      "language_mode": "unconfirmed",
-      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
-      "cost": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест.",
-      "level": "Семейная научная программа",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
       "reward": "",
-      "priority": "P2 — участие по условиям",
-      "action": "Вход по музейному билету. В группе 10 участников. Уточнить порядок записи на месте.",
-      "note": "Расписание музея может измениться.",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "note": "Познавательная игра о моделях атома. Участники делают рисунок атома Бора блёстками. Группа 10 человек.",
       "themes": [
         "science",
         "technology"
       ],
-      "scope": "regional",
-      "importance_reason": "Региональная выставка для посетителей",
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
       "participation": "visitor",
-      "admission_kind": "visitor",
+      "admission_kind": "public",
       "evidence_level": "event_page",
       "visitor_policy": "family",
       "exhibition_tier": "family_alternative",
       "exhibitors": [],
       "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
-      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Mosaico de Física",
-      "visitor_policy_note": "Вход по музейному билету. В группе 10 участников. Уточнить порядок записи на месте.",
-      "adult_entry": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест."
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "visitor_policy_note": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "adult_entry": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "delivery_mode": "in_person",
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-12-12",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Átomos brillantes",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T18:00:00Z",
+          "end_utc": "2026-12-12T18:30:00Z"
+        }
+      ],
+      "related_ids": [
+        "E510"
+      ]
     },
     {
       "id": "E512",
@@ -22789,52 +22874,81 @@
       "city": "Ciudad de México",
       "start": "2026-12-13",
       "end": "2026-12-13",
-      "period": "Местное время 14:00–14:40.",
+      "period": "Сеанс 14:00–14:40 по времени Мехико. Расписание может измениться.",
       "deadline": "",
       "date_status": "Подтверждено",
       "date_scope": "event_day",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/index/2026/12/13",
       "references": [
         {
           "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
           "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
         }
       ],
-      "proof": "Проверено по программе организатора.",
+      "proof": "Официальное расписание с возрастом, временем и местом.",
       "status": "Идея",
-      "age": "Возраст 3–6 лет.",
-      "mat": "Нет по возрасту. Возможен общий визит в музей.",
-      "osc": "Да по возрасту. Приходить со взрослым и подтвердить место.",
-      "format": "Семейная научная программа",
-      "entry": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
+      "age": "3–6 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
       "gear": "Задания астронавта и маршрут через математическую и космическую экспозиции.",
-      "language": "Язык проведения уточнить для выбранной группы или этапа.",
-      "languages": [],
-      "language_mode": "unconfirmed",
-      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
-      "cost": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест.",
-      "level": "Семейная научная программа",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
       "reward": "",
-      "priority": "P2 — участие по условиям",
-      "action": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "note": "Расписание музея может измениться.",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Игровая тренировка космонавтов и лунная миссия в залах математики и астрономии.",
       "themes": [
+        "space",
         "science",
         "technology"
       ],
-      "scope": "regional",
-      "importance_reason": "Региональная выставка для посетителей",
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
       "participation": "visitor",
-      "admission_kind": "visitor",
+      "admission_kind": "public",
       "evidence_level": "event_page",
       "visitor_policy": "family",
       "exhibition_tier": "family_alternative",
       "exhibitors": [],
       "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
-      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo · Imaginario matemático y Universo",
-      "visitor_policy_note": "Приходить со взрослым. Место подтверждают на стойке Atención al Visitante внутри музея.",
-      "adult_entry": "Вход в музей MXN 90 взрослый и MXN 80 ребёнок. Указанные занятия входят в музейный билет при наличии мест."
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "delivery_mode": "in_person",
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-12-13",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T20:00:00Z",
+          "end_utc": "2026-12-13T20:40:00Z"
+        }
+      ],
+      "related_ids": [
+        "E746"
+      ]
     },
     {
       "id": "L747",
@@ -26262,7 +26376,7 @@
       "period": "",
       "deadline": "",
       "date_status": "Подтверждено",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
       "references": [
         {
@@ -26320,7 +26434,8 @@
         "E644",
         "E645",
         "E646",
-        "E647"
+        "E647",
+        "E749"
       ]
     },
     {
@@ -26418,7 +26533,7 @@
       "period": "Окно 10:00–15:00. Занятие 30 минут, группа до 10 участников. Уточнить время сеанса на месте.",
       "deadline": "",
       "date_status": "Подтверждено",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
       "references": [
         {
@@ -26480,7 +26595,10 @@
         }
       ],
       "related_ids": [
-        "E640"
+        "E640",
+        "E646",
+        "E749",
+        "E643"
       ]
     },
     {
@@ -26498,7 +26616,7 @@
       "period": "Окно 10:00–15:00. Занятие 30 минут, группа до 10 участников. Уточнить время сеанса на месте.",
       "deadline": "",
       "date_status": "Подтверждено",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
       "references": [
         {
@@ -26560,7 +26678,10 @@
         }
       ],
       "related_ids": [
-        "E640"
+        "E640",
+        "E646",
+        "E749",
+        "E642"
       ]
     },
     {
@@ -26758,7 +26879,7 @@
       "period": "Окно 10:00–15:00. Занятие 30 минут, группа до 10 участников. Уточнить время сеанса на месте.",
       "deadline": "",
       "date_status": "Подтверждено",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
       "references": [
         {
@@ -26767,6 +26888,14 @@
         },
         {
           "url": "https://www.universum.unam.mx/costos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/actividades/index/2026/11/27",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/actividades/index/2026/11/28",
           "label": "Страница организатора или регламент категории."
         }
       ],
@@ -26789,7 +26918,7 @@
       "reward": "",
       "priority": "P2 — участие по условиям",
       "action": "Окно 10:00–15:00. Занятие 30 минут, группа до 10 участников. Уточнить время сеанса на месте.",
-      "note": "",
+      "note": "Показы экзоскелетов от 8 лет. Сеанс 30 минут, до 10 участников, окно 10:00–15:00. Для Оскара есть занятия от 6 лет в том же музее.",
       "themes": [
         "robotics",
         "engineering"
@@ -26830,7 +26959,10 @@
         }
       ],
       "related_ids": [
-        "E640"
+        "E640",
+        "E749",
+        "E642",
+        "E643"
       ]
     },
     {
@@ -28798,6 +28930,1273 @@
       },
       "related_ids": [
         "C5087"
+      ]
+    },
+    {
+      "id": "E744",
+      "title": "Universum UNAM · Garabateando bichitos · Peques",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "period": "Сеанс 11:00–11:30 по времени Мехико. Расписание может измениться.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "3–6 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Рисунок и изучение строения насекомых.",
+      "themes": [
+        "science",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-13",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T17:00:00Z",
+          "end_utc": "2026-11-13T17:30:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T17:00:00Z",
+          "end_utc": "2026-11-14T17:30:00Z"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T17:00:00Z",
+          "end_utc": "2026-11-15T17:30:00Z"
+        },
+        {
+          "date": "2026-11-20",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-20T17:00:00Z",
+          "end_utc": "2026-11-20T17:30:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T17:00:00Z",
+          "end_utc": "2026-11-21T17:30:00Z"
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T17:00:00Z",
+          "end_utc": "2026-11-22T17:30:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T17:00:00Z",
+          "end_utc": "2026-11-28T17:30:00Z"
+        },
+        {
+          "date": "2026-11-29",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T17:00:00Z",
+          "end_utc": "2026-11-29T17:30:00Z"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T17:00:00Z",
+          "end_utc": "2026-12-04T17:30:00Z"
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T17:00:00Z",
+          "end_utc": "2026-12-05T17:30:00Z"
+        },
+        {
+          "date": "2026-12-06",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T17:00:00Z",
+          "end_utc": "2026-12-06T17:30:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T17:00:00Z",
+          "end_utc": "2026-12-11T17:30:00Z"
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T17:00:00Z",
+          "end_utc": "2026-12-13T17:30:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T17:00:00Z",
+          "end_utc": "2026-12-18T17:30:00Z"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T17:00:00Z",
+          "end_utc": "2026-12-19T17:30:00Z"
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T17:00:00Z",
+          "end_utc": "2026-12-20T17:30:00Z"
+        },
+        {
+          "date": "2026-12-26",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-26T17:00:00Z",
+          "end_utc": "2026-12-26T17:30:00Z"
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Garabateando bichitos",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T17:00:00Z",
+          "end_utc": "2026-12-27T17:30:00Z"
+        }
+      ],
+      "related_ids": [
+        "E509"
+      ]
+    },
+    {
+      "id": "E745",
+      "title": "Universum UNAM · DinoAlebrijes · Peques",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "period": "Сеанс 12:00–12:40 по времени Мехико. Расписание может измениться.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "4–8 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Конструирование фигур и сравнение динозавров с другими животными.",
+      "themes": [
+        "science",
+        "design"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-13",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T18:00:00Z",
+          "end_utc": "2026-11-13T18:40:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T18:00:00Z",
+          "end_utc": "2026-11-14T18:40:00Z"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T18:00:00Z",
+          "end_utc": "2026-11-15T18:40:00Z"
+        },
+        {
+          "date": "2026-11-20",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-20T18:00:00Z",
+          "end_utc": "2026-11-20T18:40:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T18:00:00Z",
+          "end_utc": "2026-11-21T18:40:00Z"
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T18:00:00Z",
+          "end_utc": "2026-11-22T18:40:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T18:00:00Z",
+          "end_utc": "2026-11-28T18:40:00Z"
+        },
+        {
+          "date": "2026-11-29",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T18:00:00Z",
+          "end_utc": "2026-11-29T18:40:00Z"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T18:00:00Z",
+          "end_utc": "2026-12-04T18:40:00Z"
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T18:00:00Z",
+          "end_utc": "2026-12-05T18:40:00Z"
+        },
+        {
+          "date": "2026-12-06",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T18:00:00Z",
+          "end_utc": "2026-12-06T18:40:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T18:00:00Z",
+          "end_utc": "2026-12-11T18:40:00Z"
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T18:00:00Z",
+          "end_utc": "2026-12-13T18:40:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T18:00:00Z",
+          "end_utc": "2026-12-18T18:40:00Z"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T18:00:00Z",
+          "end_utc": "2026-12-19T18:40:00Z"
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T18:00:00Z",
+          "end_utc": "2026-12-20T18:40:00Z"
+        },
+        {
+          "date": "2026-12-26",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-26T18:00:00Z",
+          "end_utc": "2026-12-26T18:40:00Z"
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "12:00",
+          "end_time": "12:40",
+          "timezone": "America/Mexico_City",
+          "topic": "DinoAlebrijes",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T18:00:00Z",
+          "end_utc": "2026-12-27T18:40:00Z"
+        }
+      ],
+      "related_ids": [
+        "E510",
+        "E748"
+      ]
+    },
+    {
+      "id": "E746",
+      "title": "Universum UNAM · Pequenautas al espacio y más allá... · Peques",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "period": "Сеанс 14:00–14:40 по времени Мехико. Расписание может измениться.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "3–6 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Игровая тренировка космонавтов и лунная миссия в залах математики и астрономии.",
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-13",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T20:00:00Z",
+          "end_utc": "2026-11-13T20:40:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T20:00:00Z",
+          "end_utc": "2026-11-14T20:40:00Z"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T20:00:00Z",
+          "end_utc": "2026-11-15T20:40:00Z"
+        },
+        {
+          "date": "2026-11-20",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-20T20:00:00Z",
+          "end_utc": "2026-11-20T20:40:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T20:00:00Z",
+          "end_utc": "2026-11-21T20:40:00Z"
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T20:00:00Z",
+          "end_utc": "2026-11-22T20:40:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T20:00:00Z",
+          "end_utc": "2026-11-28T20:40:00Z"
+        },
+        {
+          "date": "2026-11-29",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T20:00:00Z",
+          "end_utc": "2026-11-29T20:40:00Z"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T20:00:00Z",
+          "end_utc": "2026-12-04T20:40:00Z"
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T20:00:00Z",
+          "end_utc": "2026-12-05T20:40:00Z"
+        },
+        {
+          "date": "2026-12-06",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T20:00:00Z",
+          "end_utc": "2026-12-06T20:40:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T20:00:00Z",
+          "end_utc": "2026-12-11T20:40:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T20:00:00Z",
+          "end_utc": "2026-12-18T20:40:00Z"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T20:00:00Z",
+          "end_utc": "2026-12-19T20:40:00Z"
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T20:00:00Z",
+          "end_utc": "2026-12-20T20:40:00Z"
+        },
+        {
+          "date": "2026-12-26",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-26T20:00:00Z",
+          "end_utc": "2026-12-26T20:40:00Z"
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Pequenautas al espacio y más allá...",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T20:00:00Z",
+          "end_utc": "2026-12-27T20:40:00Z"
+        }
+      ],
+      "related_ids": [
+        "E512"
+      ]
+    },
+    {
+      "id": "E747",
+      "title": "Universum UNAM · Explorando animales · Peques",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "period": "Сеанс 15:00–15:40 по времени Мехико. Расписание может измениться.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "4–8 лет.",
+      "mat": "Нет по возрасту. Возраст выше максимума выбранного занятия. Возможен общий визит в музей.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "note": "Семейный маршрут по экспозиции об эволюции и движении животных.",
+      "themes": [
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "adult_entry": "До 10 детей. Каждого сопровождает взрослый. Свободный сеанс подтверждают на стойке Atención al Visitante внутри музея.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-13",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T21:00:00Z",
+          "end_utc": "2026-11-13T21:40:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T21:00:00Z",
+          "end_utc": "2026-11-14T21:40:00Z"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T21:00:00Z",
+          "end_utc": "2026-11-15T21:40:00Z"
+        },
+        {
+          "date": "2026-11-20",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-20T21:00:00Z",
+          "end_utc": "2026-11-20T21:40:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T21:00:00Z",
+          "end_utc": "2026-11-21T21:40:00Z"
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T21:00:00Z",
+          "end_utc": "2026-11-22T21:40:00Z"
+        },
+        {
+          "date": "2026-11-27",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T21:00:00Z",
+          "end_utc": "2026-11-27T21:40:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T21:00:00Z",
+          "end_utc": "2026-11-28T21:40:00Z"
+        },
+        {
+          "date": "2026-11-29",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T21:00:00Z",
+          "end_utc": "2026-11-29T21:40:00Z"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T21:00:00Z",
+          "end_utc": "2026-12-04T21:40:00Z"
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T21:00:00Z",
+          "end_utc": "2026-12-05T21:40:00Z"
+        },
+        {
+          "date": "2026-12-06",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-06T21:00:00Z",
+          "end_utc": "2026-12-06T21:40:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T21:00:00Z",
+          "end_utc": "2026-12-11T21:40:00Z"
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T21:00:00Z",
+          "end_utc": "2026-12-13T21:40:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T21:00:00Z",
+          "end_utc": "2026-12-18T21:40:00Z"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T21:00:00Z",
+          "end_utc": "2026-12-19T21:40:00Z"
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T21:00:00Z",
+          "end_utc": "2026-12-20T21:40:00Z"
+        },
+        {
+          "date": "2026-12-26",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-26T21:00:00Z",
+          "end_utc": "2026-12-26T21:40:00Z"
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "15:00",
+          "end_time": "15:40",
+          "timezone": "America/Mexico_City",
+          "topic": "Explorando animales",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T21:00:00Z",
+          "end_utc": "2026-12-27T21:40:00Z"
+        }
+      ],
+      "related_ids": [
+        "E750"
+      ]
+    },
+    {
+      "id": "E748",
+      "title": "Universum UNAM · Átomos brillantes · 28 Nov",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "12:00–12:30 по времени Мехико. Мозаика физики.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/11/28",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "От 8 лет.",
+      "mat": "Да по возрасту. Подтвердить место в группе.",
+      "osc": "Нет по возрасту. Возраст ниже минимума выбранной группы.",
+      "format": "Семейная музейная программа",
+      "entry": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "note": "Познавательная игра о моделях атома. Участники делают рисунок атома Бора блёстками. Группа 10 человек.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "event_day",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "adult_entry": "От 8 лет, начальная школа и старше. До 10 участников. Уточнить порядок записи и свободное место в музее.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-28",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "topic": "Átomos brillantes",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T18:00:00Z",
+          "end_utc": "2026-11-28T18:30:00Z"
+        }
+      ],
+      "related_ids": [
+        "E745"
+      ]
+    },
+    {
+      "id": "E749",
+      "title": "Neurofest 2026 · El cerebro enciende sus luces",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "Окно 10:00–15:00, занятие длится 60 минут. Точный старт уточнить на месте.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/index/2026/11/28",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "От 6 лет.",
+      "mat": "Да по возрасту. Подтвердить место в группе.",
+      "osc": "Да по возрасту. Прийти со взрослым и подтвердить место.",
+      "format": "Семейная музейная программа",
+      "entry": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "note": "Дети собирают простые цепи, решают головоломку и знакомятся с нейронами. До 10 участников. Окно 10:00–15:00, занятие длится 60 минут. Точный старт уточнить на месте.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "adult_entry": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-28",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "topic": "Опубликовано окно посещения. Точное время начала выбранного сеанса узнают в музее.",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T16:00:00Z",
+          "end_utc": "2026-11-28T21:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "E646",
+        "E642",
+        "E643",
+        "E640"
+      ]
+    },
+    {
+      "id": "E750",
+      "title": "Viernes de ciencia · Futboleno",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "period": "Окно 11:00–15:00, занятие длится 40 минут. Точный старт уточнить на месте.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/index/2026/11/27",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальное расписание с возрастом, временем и местом.",
+      "status": "Идея",
+      "age": "От 8 лет.",
+      "mat": "Да по возрасту. Подтвердить место в группе.",
+      "osc": "Нет по возрасту. Возраст ниже минимума выбранной группы.",
+      "format": "Семейная музейная программа",
+      "entry": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "gear": "",
+      "language": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа опубликована на испанском. Устный язык или помощь на английском уточнить.",
+      "cost": "Билет в музей 90 MXN взрослый и 80 MXN детям 2–12 лет. Для программы указан вход по билету. Возможную доплату уточнить у музея.",
+      "level": "Семейная музейная программа",
+      "reward": "",
+      "priority": "P1 — семейный визит в Мехико",
+      "action": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "note": "Сборка модели фуллерена и обсуждение применений в электронике. До 10 участников. Окно 11:00–15:00, занятие длится 40 минут. Точный старт уточнить на месте.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейная музейная программа",
+      "participation": "visitor",
+      "admission_kind": "public",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "venue": "Universum UNAM · Circuito Cultural de Ciudad Universitaria · Coyoacán, Ciudad de México",
+      "delivery_mode": "in_person",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "adult_entry": "Детей до 12 лет сопровождает взрослый. Перед поездкой уточнить место, сеанс и порядок входа.",
+      "exhibition_tier": "family_alternative",
+      "exhibitor_note": "Состав экспонентов и проектов уточнить по программе площадки.",
+      "exhibitors": [],
+      "exhibitor_directory_url": "",
+      "highlights": [],
+      "public_days": [
+        {
+          "date": "2026-11-27",
+          "start_time": "11:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "topic": "Опубликовано окно посещения. Точное время начала выбранного сеанса узнают в музее.",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T17:00:00Z",
+          "end_utc": "2026-11-27T21:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "E747"
       ]
     },
     {

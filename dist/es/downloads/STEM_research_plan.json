@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 342,
+    "version": 343,
     "status": "implementation_snapshot",
-    "events": 11550,
+    "events": 11566,
     "competitions": 5128,
     "league_profiles": 331,
-    "camp_dossiers": 2271,
+    "camp_dossiers": 2280,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 743,
+    "exhibitions_events": 750,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 341,
+    "version": 342,
     "status": "implementation_snapshot",
-    "events": 11535,
-    "competitions": 5124,
+    "events": 11550,
+    "competitions": 5128,
     "league_profiles": 331,
-    "camp_dossiers": 2265,
+    "camp_dossiers": 2271,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 342,
+    "prepared_ui_version": 343,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 341,
-    "previous_verified_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138"
+    "previous_verified_ui_version": 342,
+    "previous_verified_commit": "78a9cb5be440c05ef2aca1c65dce1e3f2d0094c0"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 341,
-    "published_version": 341,
-    "latest_source_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138",
-    "published_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138",
-    "latest_workflow": 42605017132,
+    "latest_source_version": 342,
+    "published_version": 342,
+    "latest_source_commit": "78a9cb5be440c05ef2aca1c65dce1e3f2d0094c0",
+    "published_commit": "78a9cb5be440c05ef2aca1c65dce1e3f2d0094c0",
+    "latest_workflow": 42611200595,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35857,5 +35857,98 @@
     ],
     "cso_public_ceremony": "E135",
     "jamcoders_student_deadline_id": "L957"
+  },
+  "mexico_museum_and_winter_robotics_v343": {
+    "version": 343,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E744",
+      "E745",
+      "E746",
+      "E747",
+      "E748",
+      "E749",
+      "E750",
+      "CP2272-20261123-20261125-thanksgiving",
+      "CP2273-20261221-20261223-winter-holiday",
+      "CP2274-20261228-20261230-creature-creator",
+      "CP2275-20270104-20270104-january",
+      "CP2276-20270130-20270605-saturday-beginner",
+      "CP2277-20270130-20270605-saturday-advanced",
+      "CP2278-20270131-20270606-sunday-beginner",
+      "CP2279-20270131-20270606-sunday-advanced",
+      "CP2280-20270130-20270605-saturday-roblox"
+    ],
+    "refreshed_event_ids": [
+      "E509",
+      "E510",
+      "E512",
+      "E511",
+      "E646",
+      "E640",
+      "E642",
+      "E643"
+    ],
+    "new_dossier_ids": [
+      "CP2272",
+      "CP2273",
+      "CP2274",
+      "CP2275",
+      "CP2276",
+      "CP2277",
+      "CP2278",
+      "CP2279",
+      "CP2280"
+    ],
+    "refreshed_dossier_ids": [],
+    "new_league_ids": [],
+    "legacy_overlay_event_ids": [
+      "E509",
+      "E510",
+      "E512",
+      "E511",
+      "E646",
+      "E640",
+      "E642",
+      "E643"
+    ],
+    "legacy_overlay_league_ids": [],
+    "source_requests": 15,
+    "snapology_dossiers": [
+      "CP2272",
+      "CP2273",
+      "CP2274",
+      "CP2275"
+    ],
+    "snapology_distinct_days": 10,
+    "gowreads_dossiers": [
+      "CP2276",
+      "CP2277",
+      "CP2278",
+      "CP2279",
+      "CP2280"
+    ],
+    "peques_series": [
+      "E744",
+      "E745",
+      "E746",
+      "E747"
+    ],
+    "peques_total_published_sessions": 75,
+    "peques_new_sessions": 72,
+    "peques_dates": 20,
+    "peques_preserved_event_ids": [
+      "E509",
+      "E510",
+      "E512"
+    ],
+    "museum_extra_events": [
+      "E748",
+      "E749",
+      "E750"
+    ],
+    "neurofest_exoskeleton_event": "E646"
   }
 }

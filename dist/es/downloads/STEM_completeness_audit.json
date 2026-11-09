@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11550,
+    "cards": 11566,
     "competition_cards": 5128,
-    "event_cards": 743,
-    "camp_cards": 5679,
+    "event_cards": 750,
+    "camp_cards": 5688,
     "league_profiles": 331,
-    "major_exhibition_cards": 636,
+    "major_exhibition_cards": 643,
     "vex_cards": 817,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3724,
+      "total": 3735,
       "countries_with_records": 41,
       "competitions": 2084,
-      "events": 216,
-      "major_exhibitions": 169,
-      "camps": 1424,
+      "events": 223,
+      "major_exhibitions": 176,
+      "camps": 1428,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2579,
+      "total": 2584,
       "countries_with_records": 55,
       "competitions": 732,
       "events": 184,
       "major_exhibitions": 160,
-      "camps": 1663,
+      "camps": 1668,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -16469,6 +16469,83 @@
       "new": false
     },
     {
+      "id": "E744",
+      "name": "Universum UNAM · Garabateando bichitos · Peques",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "new": false
+    },
+    {
+      "id": "E745",
+      "name": "Universum UNAM · DinoAlebrijes · Peques",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "new": false
+    },
+    {
+      "id": "E746",
+      "name": "Universum UNAM · Pequenautas al espacio y más allá... · Peques",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "new": false
+    },
+    {
+      "id": "E747",
+      "name": "Universum UNAM · Explorando animales · Peques",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "new": false
+    },
+    {
+      "id": "E748",
+      "name": "Universum UNAM · Átomos brillantes · 28 Nov",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/11/28",
+      "new": false
+    },
+    {
+      "id": "E749",
+      "name": "Neurofest 2026 · El cerebro enciende sus luces",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E750",
+      "name": "Viernes de ciencia · Futboleno",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18886,15 +18963,15 @@
       }
     ],
     "counts": {
-      "records": 5679,
-      "holiday": 5069,
-      "regular": 224,
+      "records": 5688,
+      "holiday": 5073,
+      "regular": 229,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1660,
-      "en_es_support": 66,
-      "family_instruction": 1660,
-      "family_support": 66,
+      "en_es_instruction": 1664,
+      "en_es_support": 67,
+      "family_instruction": 1664,
+      "family_support": 67,
       "ru_instruction": 4,
       "language_lessons": 423,
       "camp_life_language": 228,

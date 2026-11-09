@@ -89654,6 +89654,150 @@ Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del
 Fuente: https://ascendtechacademy.com/camps/
 Se ha comprobado: 2026-11-09
 
+### CP2272-20261123-20261125-thanksgiving · Snapology Alpharetta · GameBots Robotics + Mini-Figure Mania · GameBots Robotics + Mini-Figure Mania · 2026-11-23–2026-11-25
+
+lugar: Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+Fecha: 2026-11-23 国 2026-11-25
+edad: 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier
+Acceso: La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2273-20261221-20261223-winter-holiday · Snapology Alpharetta · Winter Holiday Robotics + Winter Creative Adventures · Winter Holiday Robotics + Winter Creative Adventures · 2026-12-21–2026-12-23
+
+lugar: Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+Fecha: 2026-12-21 - 2026-12-23
+edad: 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier
+Acceso: La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2274-20261228-20261230-creature-creator · Snapology Alpharetta · Creature Creator Robotics + Pokemania · Creature Creator Robotics + Pokemania · 2026-12-28–2026-12-30
+
+lugar: Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+Fecha: 2026-12-28 — 2026-12-30
+edad: 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier
+Acceso: La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2275-20270104-20270104-january · Snapology Alpharetta · GameBots Robotics + Mining & Building · GameBots Robotics + Mining & Building · 2027-01-04–2027-01-04
+
+lugar: Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+Fecha: 2027-01-04 — 2027-01-04
+edad: 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 79 USD por menor y día. · suplementos y condiciones en el dossier
+Acceso: La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD, recogida tardía 20 USD, ambos 30 USD por día. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2276-20270130-20270605-saturday-beginner · GowReads LEGO Robotics · Saturday Beginners · Saturday Beginners · 2027-01-30–2027-06-05
+
+lugar: Suecia · Viktor Rydberg School · Frejgatan 30 · Stockholm
+Fecha: 2027-01-30 — 2027-06-05
+edad: 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Robótica los sábados en inglés y sueco según la organización.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier
+Acceso: La organización abrió la inscripción. Confirmar plazas y franja de edad.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.gowreads.com/lego-robotics
+Se ha comprobado: 2026-11-09
+
+### CP2277-20270130-20270605-saturday-advanced · GowReads LEGO Robotics · Saturday Advanced · Saturday Advanced · 2027-01-30–2027-06-05
+
+lugar: Suecia · Viktor Rydberg School · Frejgatan 30 · Stockholm
+Fecha: 2027-01-30 — 2027-06-05
+edad: 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Robótica los sábados en inglés y sueco según la organización.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier
+Acceso: La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.gowreads.com/lego-robotics
+Se ha comprobado: 2026-11-09
+
+### CP2278-20270131-20270606-sunday-beginner · GowReads LEGO Robotics · Sunday Beginners · Sunday Beginners · 2027-01-31–2027-06-06
+
+lugar: Suecia · British International School of Stockholm · Rinkebyvägen 4 · Danderyd
+Fecha: 2027-01-31 — 2027-06-06
+edad: 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Para el grupo del domingo se indica inglés con apoyo en sueco.
+Idioma principal; apoyo: SV
+Precio: 2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier
+Acceso: La página indica que la inscripción abrirá más adelante.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.gowreads.com/lego-robotics
+Se ha comprobado: 2026-11-09
+
+### CP2279-20270131-20270606-sunday-advanced · GowReads LEGO Robotics · Sunday Advanced · Sunday Advanced · 2027-01-31–2027-06-06
+
+lugar: Suecia · British International School of Stockholm · Rinkebyvägen 4 · Danderyd
+Fecha: 2027-01-31 — 2027-06-06
+edad: 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Para el grupo del domingo se indica inglés con apoyo en sueco.
+Idioma principal; apoyo: SV
+Precio: 2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier
+Acceso: La página indica que la inscripción abrirá más adelante.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.gowreads.com/lego-robotics
+Se ha comprobado: 2026-11-09
+
+### CP2280-20270130-20270605-saturday-roblox · GowReads · Roblox Game Development · Roblox Game Development · 2027-01-30–2027-06-05
+
+lugar: Suecia · Stiftelsen Viktor Rydbergs skolor · Frejgatan 30 / Norrtullsgatan 41a · Stockholm
+Fecha: 2027-01-30 — 2027-06-05
+edad: 8–14 años. En primavera está abierto el nivel inicial.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Enseñanza en sueco con apoyo en inglés. Una frase genérica sobre bilingüismo difiere de la descripción de este grupo.
+Idioma principal; apoyo: EN
+Precio: 2027 · 3990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier
+Acceso: La organización abrió la inscripción. Confirmar plazas y franja de edad.
+Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: No por edad. Edad inferior al mínimo del grupo elegido. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.gowreads.com/roblox-game-development
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

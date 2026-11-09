@@ -580,15 +580,15 @@
       }
     ],
     "counts": {
-      "records": 5679,
-      "holiday": 5069,
-      "regular": 224,
+      "records": 5688,
+      "holiday": 5073,
+      "regular": 229,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1660,
-      "en_es_support": 66,
-      "family_instruction": 1660,
-      "family_support": 66,
+      "en_es_instruction": 1664,
+      "en_es_support": 67,
+      "family_instruction": 1664,
+      "family_support": 67,
       "ru_instruction": 4,
       "language_lessons": 423,
       "camp_life_language": 228,
@@ -474291,6 +474291,836 @@
         "status": "closed",
         "label": "Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización."
       }
+    },
+    {
+      "id": "CP2272-20261123-20261125-thanksgiving",
+      "block": "Campamentos",
+      "title": "Snapology Alpharetta · GameBots Robotics + Mini-Figure Mania · GameBots Robotics + Mini-Figure Mania · 2026-11-23–2026-11-25",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "start": "2026-11-23",
+      "end": "2026-11-25",
+      "period": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+      "gear": "Por la mañana, juegos con robots, sensores y engranajes. Por la tarde, modelos e historias con minifiguras LEGO.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.; El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.; La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.",
+      "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+      "references": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "snapology-johns-creek-thanksgiving",
+      "camp_programme_id": "CP2272",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "GameBots Robotics + Mini-Figure Mania",
+          "ical_timed": true,
+          "start_utc": "2026-11-23T14:00:00Z",
+          "end_utc": "2026-11-23T21:00:00Z"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "GameBots Robotics + Mini-Figure Mania",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T14:00:00Z",
+          "end_utc": "2026-11-24T21:00:00Z"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "GameBots Robotics + Mini-Figure Mania",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T14:00:00Z",
+          "end_utc": "2026-11-25T21:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+      }
+    },
+    {
+      "id": "CP2273-20261221-20261223-winter-holiday",
+      "block": "Campamentos",
+      "title": "Snapology Alpharetta · Winter Holiday Robotics + Winter Creative Adventures · Winter Holiday Robotics + Winter Creative Adventures · 2026-12-21–2026-12-23",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+      "gear": "Robots de temática invernal por la mañana. Exploring Arendelle por la tarde el 21–22 de diciembre y How the Grinch Stole Bricks el 23 de diciembre.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.; El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.; La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.",
+      "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+      "references": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "snapology-johns-creek-winter-holiday",
+      "camp_programme_id": "CP2273",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T14:00:00Z",
+          "end_utc": "2026-12-21T21:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T14:00:00Z",
+          "end_utc": "2026-12-22T21:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Winter Holiday Robotics + Winter Creative Adventures",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T14:00:00Z",
+          "end_utc": "2026-12-23T21:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+      }
+    },
+    {
+      "id": "CP2274-20261228-20261230-creature-creator",
+      "block": "Campamentos",
+      "title": "Snapology Alpharetta · Creature Creator Robotics + Pokemania · Creature Creator Robotics + Pokemania · 2026-12-28–2026-12-30",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+      "gear": "Modelos de animales con movimiento y código por la mañana. Construcción LEGO inspirada en Pokémon por la tarde.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.; El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.; La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.",
+      "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+      "references": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "snapology-johns-creek-creature-creator",
+      "camp_programme_id": "CP2274",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Creature Creator Robotics + Pokemania",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T14:00:00Z",
+          "end_utc": "2026-12-28T21:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Creature Creator Robotics + Pokemania",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T14:00:00Z",
+          "end_utc": "2026-12-29T21:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "Creature Creator Robotics + Pokemania",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T14:00:00Z",
+          "end_utc": "2026-12-30T21:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+      }
+    },
+    {
+      "id": "CP2275-20270104-20270104-january",
+      "block": "Campamentos",
+      "title": "Snapology Alpharetta · GameBots Robotics + Mining & Building · GameBots Robotics + Mining & Building · 2027-01-04–2027-01-04",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097",
+      "start": "2027-01-04",
+      "end": "2027-01-04",
+      "period": "Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.",
+      "gear": "Juegos interactivos con robots por la mañana. Construcciones LEGO inspiradas en Minecraft por la tarde.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2027 · 79 USD por menor y día. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.; El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.; La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.",
+      "source": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+      "references": [
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Cuidado por solicitud. Llegada anticipada 15 USD, recogida tardía 20 USD, ambos 30 USD por día. Factura aparte. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "snapology-johns-creek-january",
+      "camp_programme_id": "CP2275",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/New_York",
+          "topic": "GameBots Robotics + Mining & Building",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T14:00:00Z",
+          "end_utc": "2027-01-04T21:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final."
+      }
+    },
+    {
+      "id": "CP2276-20270130-20270605-saturday-beginner",
+      "block": "Campamentos",
+      "title": "GowReads LEGO Robotics · Saturday Beginners · Saturday Beginners · 2027-01-30–2027-06-05",
+      "country": "Suecia",
+      "region": "Europa",
+      "city": "Viktor Rydberg School · Frejgatan 30 · Stockholm",
+      "start": "2027-01-30",
+      "end": "2027-06-05",
+      "period": "Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización abrió la inscripción. Confirmar plazas y franja de edad.",
+      "gear": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "language": "Robótica los sábados en inglés y sueco según la organización.",
+      "cost": "2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización abrió la inscripción. Confirmar plazas y franja de edad.; Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.; Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.",
+      "source": "https://www.gowreads.com/lego-robotics",
+      "references": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "SWE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Robótica los sábados en inglés y sueco según la organización.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "gowreads-robotics-saturday-beginner",
+      "camp_programme_id": "CP2276",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "SV"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización abrió la inscripción. Confirmar plazas y franja de edad."
+      },
+      "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+    },
+    {
+      "id": "CP2277-20270130-20270605-saturday-advanced",
+      "block": "Campamentos",
+      "title": "GowReads LEGO Robotics · Saturday Advanced · Saturday Advanced · 2027-01-30–2027-06-05",
+      "country": "Suecia",
+      "region": "Europa",
+      "city": "Viktor Rydberg School · Frejgatan 30 · Stockholm",
+      "start": "2027-01-30",
+      "end": "2027-06-05",
+      "period": "La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.",
+      "gear": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "language": "Robótica los sábados en inglés y sueco según la organización.",
+      "cost": "2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.; Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.; La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.",
+      "source": "https://www.gowreads.com/lego-robotics",
+      "references": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "SWE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Robótica los sábados en inglés y sueco según la organización.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "gowreads-robotics-saturday-advanced",
+      "camp_programme_id": "CP2277",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "SV"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla."
+      },
+      "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+    },
+    {
+      "id": "CP2278-20270131-20270606-sunday-beginner",
+      "block": "Campamentos",
+      "title": "GowReads LEGO Robotics · Sunday Beginners · Sunday Beginners · 2027-01-31–2027-06-06",
+      "country": "Suecia",
+      "region": "Europa",
+      "city": "British International School of Stockholm · Rinkebyvägen 4 · Danderyd",
+      "start": "2027-01-31",
+      "end": "2027-06-06",
+      "period": "Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que la inscripción abrirá más adelante.",
+      "gear": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "language": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "cost": "2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica que la inscripción abrirá más adelante.; Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.; Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.",
+      "source": "https://www.gowreads.com/lego-robotics",
+      "references": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "SWE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "gowreads-robotics-sunday-beginner",
+      "camp_programme_id": "CP2278",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "support_languages": [
+        "SV"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "not_open",
+        "label": "La página indica que la inscripción abrirá más adelante."
+      },
+      "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+    },
+    {
+      "id": "CP2279-20270131-20270606-sunday-advanced",
+      "block": "Campamentos",
+      "title": "GowReads LEGO Robotics · Sunday Advanced · Sunday Advanced · 2027-01-31–2027-06-06",
+      "country": "Suecia",
+      "region": "Europa",
+      "city": "British International School of Stockholm · Rinkebyvägen 4 · Danderyd",
+      "start": "2027-01-31",
+      "end": "2027-06-06",
+      "period": "Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que la inscripción abrirá más adelante.",
+      "gear": "Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.",
+      "language": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "cost": "2027 · 4990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página indica que la inscripción abrirá más adelante.; Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.; Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.",
+      "source": "https://www.gowreads.com/lego-robotics",
+      "references": [
+        {
+          "url": "https://www.gowreads.com/lego-robotics",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: La edad encaja. Confirmar plaza y condiciones de admisión. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "SWE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Para el grupo del domingo se indica inglés con apoyo en sueco.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "gowreads-robotics-sunday-advanced",
+      "camp_programme_id": "CP2279",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "SV"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "support_languages": [
+        "SV"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "not_open",
+        "label": "La página indica que la inscripción abrirá más adelante."
+      },
+      "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
+    },
+    {
+      "id": "CP2280-20270130-20270605-saturday-roblox",
+      "block": "Campamentos",
+      "title": "GowReads · Roblox Game Development · Roblox Game Development · 2027-01-30–2027-06-05",
+      "country": "Suecia",
+      "region": "Europa",
+      "city": "Stiftelsen Viktor Rydbergs skolor · Frejgatan 30 / Norrtullsgatan 41a · Stockholm",
+      "start": "2027-01-30",
+      "end": "2027-06-05",
+      "period": "Sábados 12:30–14:00, del 30 de enero al 5 de junio de 2027, salvo festivos.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–14 años. En primavera está abierto el nivel inicial.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización abrió la inscripción. Confirmar plazas y franja de edad.",
+      "gear": "Roblox Studio, creación de mundos tridimensionales y programación de mecánicas en Lua.",
+      "language": "Enseñanza en sueco con apoyo en inglés. Una frase genérica sobre bilingüismo difiere de la descripción de este grupo.",
+      "cost": "2027 · 3990 SEK por semestre. Incluye el IVA del 6%. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización abrió la inscripción. Confirmar plazas y franja de edad.; Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.gowreads.com/roblox-game-development",
+      "references": [
+        {
+          "url": "https://www.gowreads.com/roblox-game-development",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.gowreads.com/weekend-courses",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar plaza y condiciones de admisión. Oscar: No por edad. Edad inferior al mínimo del grupo elegido. Suplementos: Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "SWE"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Enseñanza en sueco con apoyo en inglés. Una frase genérica sobre bilingüismo difiere de la descripción de este grupo.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "gowreads-roblox-beginner",
+      "camp_programme_id": "CP2280",
+      "language_roles": {
+        "instruction": [
+          "SV"
+        ],
+        "support": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "SV"
+      ],
+      "support_languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "La organización abrió la inscripción. Confirmar plazas y franja de edad."
+      },
+      "date_rule": "Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido."
     },
     {
       "id": "L491",

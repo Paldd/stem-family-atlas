@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11550; соревнований: 5128; событий: 743; лагерей / программ: 5679. Профилей лиг и программ: 331. Карточек крупных и профильных выставок: 636 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11566; соревнований: 5128; событий: 750; лагерей / программ: 5688. Профилей лиг и программ: 331. Карточек крупных и профильных выставок: 643 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,9 +14,9 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2084 | 169 | 1424 |
+| Северная Америка | 41 | 2084 | 176 | 1428 |
 | Южная Америка | 15 | 473 | 52 | 258 |
-| Европа | 55 | 732 | 160 | 1663 |
+| Европа | 55 | 732 | 160 | 1668 |
 | Африка | 60 | 272 | 45 | 156 |
 | Азия | 50 | 1208 | 176 | 1793 |
 | Океания | 27 | 176 | 32 | 370 |
@@ -1035,6 +1035,13 @@ VEX: 817 из 5128 карточек соревнований (15.9%). Это я�
 - **OlimPIA Panamá 2027 · Premiación** — Панама; 2027-09-03. Детский допуск уточнить. https://olimpanama-ia.org/
 - **Innovatosphere VEX IQ Open · opción de visita** — Панама; 2026-11-28 – 2026-11-29. Детский допуск уточнить. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4237.html
 - **3D Parking 2026 · Encuentro maker** — Панама; 2026-11-07. Детский допуск уточнить. https://luma.com/714ifxap
+- **Universum UNAM · Garabateando bichitos · Peques** — Мексика; 2026-11-13 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · DinoAlebrijes · Peques** — Мексика; 2026-11-13 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Pequenautas al espacio y más allá... · Peques** — Мексика; 2026-11-13 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Explorando animales · Peques** — Мексика; 2026-11-13 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Átomos brillantes · 28 Nov** — Мексика; 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/index/2026/11/28
+- **Neurofest 2026 · El cerebro enciende sus luces** — Мексика; 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Viernes de ciencia · Futboleno** — Мексика; 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

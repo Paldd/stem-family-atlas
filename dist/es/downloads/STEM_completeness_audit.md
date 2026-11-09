@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11550; competiciones: 5128; eventos: 743; campamentos / programas: 5679. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 636 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11566; competiciones: 5128; eventos: 750; campamentos / programas: 5688. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 643 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,9 +14,9 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2084 | 169 | 1424 |
+| América del Norte | 41 | 2084 | 176 | 1428 |
 | América del Sur | 15 | 473 | 52 | 258 |
-| Europa | 55 | 732 | 160 | 1663 |
+| Europa | 55 | 732 | 160 | 1668 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1208 | 176 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
@@ -1035,6 +1035,13 @@ VEX: 817 de 5128 fichas de competiciones (15.9%). Esta concentración muestra un
 - **OlimPIA Panamá 2027 · Premiación** — Panamá; 2027-09-03. el permiso de entrada de niños. https://olimpanama-ia.org/
 - **Innovatosphere VEX IQ Open · opción de visita** — Panamá; 2026-11-28 – 2026-11-29. el permiso de entrada de niños. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4237.html
 - **3D Parking 2026 · Encuentro maker** — Panamá; 2026-11-07. el permiso de entrada de niños. https://luma.com/714ifxap
+- **Universum UNAM · Garabateando bichitos · Peques** — México; 2026-11-13 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · DinoAlebrijes · Peques** — México; 2026-11-13 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Pequenautas al espacio y más allá... · Peques** — México; 2026-11-13 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Explorando animales · Peques** — México; 2026-11-13 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+- **Universum UNAM · Átomos brillantes · 28 Nov** — México; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/11/28
+- **Neurofest 2026 · El cerebro enciende sus luces** — México; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Viernes de ciencia · Futboleno** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

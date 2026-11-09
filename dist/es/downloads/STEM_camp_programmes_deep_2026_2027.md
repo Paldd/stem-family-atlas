@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado del catálogo: 2026-11-09. 2271 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-09. 2280 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -179579,6 +179579,530 @@ Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://ascendtechacademy.com/camps/) · 2026-11-09
+
+## CP2272 · Snapology Alpharetta · GameBots Robotics + Mini-Figure Mania
+
+Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Por la mañana, juegos con robots, sensores y engranajes. Por la tarde, modelos e historias con minifiguras LEGO.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+**Precio / año:** 2026 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**Incluido:** Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.
+
+**Suplementos:** Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+### Antes de solicitar plaza
+
+- La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.
+
+- La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.
+
+### GameBots Robotics + Mini-Figure Mania
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**condiciones de participación:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- 2026-11-23 · 09:00–16:00 · America/New_York · GameBots Robotics + Mini-Figure Mania
+
+- 2026-11-24 · 09:00–16:00 · America/New_York · GameBots Robotics + Mini-Figure Mania
+
+- 2026-11-25 · 09:00–16:00 · America/New_York · GameBots Robotics + Mini-Figure Mania
+
+**Disponibilidad de plazas:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+[fuente](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/) · 2026-11-09
+
+## CP2273 · Snapology Alpharetta · Winter Holiday Robotics + Winter Creative Adventures
+
+Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Robots de temática invernal por la mañana. Exploring Arendelle por la tarde el 21–22 de diciembre y How the Grinch Stole Bricks el 23 de diciembre.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+**Precio / año:** 2026 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**Incluido:** Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.
+
+**Suplementos:** Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+### Antes de solicitar plaza
+
+- La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.
+
+- La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.
+
+### Winter Holiday Robotics + Winter Creative Adventures
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**condiciones de participación:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- 2026-12-21 · 09:00–16:00 · America/New_York · Winter Holiday Robotics + Winter Creative Adventures
+
+- 2026-12-22 · 09:00–16:00 · America/New_York · Winter Holiday Robotics + Winter Creative Adventures
+
+- 2026-12-23 · 09:00–16:00 · America/New_York · Winter Holiday Robotics + Winter Creative Adventures
+
+**Disponibilidad de plazas:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+[fuente](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/) · 2026-11-09
+
+## CP2274 · Snapology Alpharetta · Creature Creator Robotics + Pokemania
+
+Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Modelos de animales con movimiento y código por la mañana. Construcción LEGO inspirada en Pokémon por la tarde.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+**Precio / año:** 2026 · 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**Incluido:** Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.
+
+**Suplementos:** Cuidado por solicitud. Llegada anticipada 15 USD por día o 40 USD por 3 días. Recogida tardía 20 USD por día o 55 USD por 3 días. Ambos 30 USD por día o 80 USD por 3 días. Factura aparte.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+### Antes de solicitar plaza
+
+- La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.
+
+- La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.
+
+### Creature Creator Robotics + Pokemania
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** 79 USD por menor y día o 219 USD por 3 días. Son opciones alternativas.
+
+**condiciones de participación:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- 2026-12-28 · 09:00–16:00 · America/New_York · Creature Creator Robotics + Pokemania
+
+- 2026-12-29 · 09:00–16:00 · America/New_York · Creature Creator Robotics + Pokemania
+
+- 2026-12-30 · 09:00–16:00 · America/New_York · Creature Creator Robotics + Pokemania
+
+**Disponibilidad de plazas:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+[fuente](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/) · 2026-11-09
+
+## CP2275 · Snapology Alpharetta · GameBots Robotics + Mining & Building
+
+Estados Unidos · Homeschool Haven Collective · 10700 Abbotts Bridge Road, Suite 140 · Johns Creek, GA 30097
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–12 años. Hay retos adaptados para 5–6 años. El bloque del 21–23 de diciembre publica una adaptación KinderBots.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Juegos interactivos con robots por la mañana. Construcciones LEGO inspiradas en Minecraft por la tarde.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+**Precio / año:** 2027 · 79 USD por menor y día.
+
+**Incluido:** Llevar almuerzo sin frutos secos que no necesite calentarse, 2 tentempiés sin frutos secos y botella etiquetada. Dejar en casa los sets LEGO y la electrónica personal.
+
+**Suplementos:** Cuidado por solicitud. Llegada anticipada 15 USD, recogida tardía 20 USD, ambos 30 USD por día. Factura aparte.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Programa diurno de 09:00–16:00. Llegada 08:45–09:00, recogida 16:00–16:15. Zona horaria America/New_York.
+
+### Antes de solicitar plaza
+
+- La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- El cuidado se reserva previamente. Llegada anticipada desde 07:30 y recogida tardía hasta 18:00. El horario separa el cuidado de las ventanas ordinarias de entrada y salida.
+
+- La sede confirma el código postal 30097. Una captura anterior de la página del campamento indica 30022.
+
+### GameBots Robotics + Mining & Building
+
+**Fechas / estado:** 2027-01-04 — 2027-01-04
+
+**Precio:** 79 USD por menor y día.
+
+**condiciones de participación:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+- 2027-01-04 · 09:00–16:00 · America/New_York · GameBots Robotics + Mining & Building
+
+**Disponibilidad de plazas:** La organización ofrece enlaces de inscripción por día y por paquete. Confirmar plazas, idioma hablado y coste final.
+
+[fuente](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/school-break-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.snapology.com/georgia-alpharetta/blog/try-snapology-day/) · 2026-11-09
+
+## CP2276 · GowReads LEGO Robotics · Saturday Beginners
+
+Suecia · Viktor Rydberg School · Frejgatan 30 · Stockholm
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+
+**Idioma:** Robótica los sábados en inglés y sueco según la organización.
+
+**Programa:** Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.
+
+**Precio / año:** 2027 · 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**Suplementos:** Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.
+
+### Antes de solicitar plaza
+
+- La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+- Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.
+
+- Sábados 11:00–12:30, del 30 de enero al 5 de junio de 2027. Se excluyen los festivos.
+
+### Saturday Beginners
+
+**Fechas / estado:** 2027-01-30 — 2027-06-05
+
+**Precio:** 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**condiciones de participación:** La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+**Disponibilidad de plazas:** La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+[fuente](https://www.gowreads.com/lego-robotics)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/lego-robotics) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
+
+## CP2277 · GowReads LEGO Robotics · Saturday Advanced
+
+Suecia · Viktor Rydberg School · Frejgatan 30 · Stockholm
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+
+**Idioma:** Robótica los sábados en inglés y sueco según la organización.
+
+**Programa:** Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.
+
+**Precio / año:** 2027 · 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**Suplementos:** Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.
+
+### Antes de solicitar plaza
+
+- La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.
+
+- Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.
+
+- La ficha del grupo indica 12:30–14:00 y las preguntas frecuentes 09:30–11:00. Confirmar el horario antes de inscribirse.
+
+### Saturday Advanced
+
+**Fechas / estado:** 2027-01-30 — 2027-06-05
+
+**Precio:** 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**condiciones de participación:** La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.
+
+**Disponibilidad de plazas:** La organización pide describir la experiencia previa del menor y dice que se pondrá en contacto tras evaluarla.
+
+[fuente](https://www.gowreads.com/lego-robotics)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/lego-robotics) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
+
+## CP2278 · GowReads LEGO Robotics · Sunday Beginners
+
+Suecia · British International School of Stockholm · Rinkebyvägen 4 · Danderyd
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+
+**Idioma:** Para el grupo del domingo se indica inglés con apoyo en sueco.
+
+**Programa:** Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.
+
+**Precio / año:** 2027 · 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**Suplementos:** Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.
+
+### Antes de solicitar plaza
+
+- La página indica que la inscripción abrirá más adelante.
+
+- Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.
+
+- Domingos 09:15–10:45, del 31 de enero al 6 de junio de 2027.
+
+### Sunday Beginners
+
+**Fechas / estado:** 2027-01-31 — 2027-06-06
+
+**Precio:** 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**condiciones de participación:** La página indica que la inscripción abrirá más adelante.
+
+**Disponibilidad de plazas:** La página indica que la inscripción abrirá más adelante.
+
+[fuente](https://www.gowreads.com/lego-robotics)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/lego-robotics) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
+
+## CP2279 · GowReads LEGO Robotics · Sunday Advanced
+
+Suecia · British International School of Stockholm · Rinkebyvägen 4 · Danderyd
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–14 años. La página general indica grupos de 5–7 y 8–14 años. Confirmar la franja del grupo concreto.
+
+**Idioma:** Para el grupo del domingo se indica inglés con apoyo en sueco.
+
+**Programa:** Curso presencial de LEGO con diseño, montaje y programación de robots. El grupo avanzado requiere valoración previa de experiencia.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.
+
+**Precio / año:** 2027 · 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**Suplementos:** Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.
+
+### Antes de solicitar plaza
+
+- La página indica que la inscripción abrirá más adelante.
+
+- Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.
+
+- Domingos 11:00–12:30, del 31 de enero al 6 de junio de 2027.
+
+### Sunday Advanced
+
+**Fechas / estado:** 2027-01-31 — 2027-06-06
+
+**Precio:** 4990 SEK por semestre. Incluye el IVA del 6%.
+
+**condiciones de participación:** La página indica que la inscripción abrirá más adelante.
+
+**Disponibilidad de plazas:** La página indica que la inscripción abrirá más adelante.
+
+[fuente](https://www.gowreads.com/lego-robotics)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/lego-robotics) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
+
+## CP2280 · GowReads · Roblox Game Development
+
+Suecia · Stiftelsen Viktor Rydbergs skolor · Frejgatan 30 / Norrtullsgatan 41a · Stockholm
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–14 años. En primavera está abierto el nivel inicial.
+
+**Idioma:** Enseñanza en sueco con apoyo en inglés. Una frase genérica sobre bilingüismo difiere de la descripción de este grupo.
+
+**Programa:** Roblox Studio, creación de mundos tridimensionales y programación de mecánicas en Lua.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Sábados 12:30–14:00, del 30 de enero al 5 de junio de 2027, salvo festivos.
+
+**Precio / año:** 2027 · 3990 SEK por semestre. Incluye el IVA del 6%.
+
+**Suplementos:** Se necesita portátil. Si no se dispone de uno, alquiler de 499 SEK por semestre.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** No por edad. Edad inferior al mínimo del grupo elegido.
+
+**Motivo de selección:** Sábados 12:30–14:00, del 30 de enero al 5 de junio de 2027, salvo festivos.
+
+### Antes de solicitar plaza
+
+- La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+- Curso de fin de semana. Se indican los límites del semestre. Confirmar el listado de fechas y excepciones del grupo elegido.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Roblox Game Development
+
+**Fechas / estado:** 2027-01-30 — 2027-06-05
+
+**Precio:** 3990 SEK por semestre. Incluye el IVA del 6%.
+
+**condiciones de participación:** La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+**Disponibilidad de plazas:** La organización abrió la inscripción. Confirmar plazas y franja de edad.
+
+[fuente](https://www.gowreads.com/roblox-game-development)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/roblox-game-development) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gowreads.com/weekend-courses) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

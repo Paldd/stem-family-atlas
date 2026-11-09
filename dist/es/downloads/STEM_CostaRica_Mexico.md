@@ -4714,54 +4714,54 @@ Se ha comprobado: 2026-11-07
 ### E509 · Universum UNAM · Garabateando bichitos
 
 Fecha: 2026-12-12 — 2026-12-12
-edad: Edades de 3 a 6 años.
-Matvey: No por edad. Es posible la visita general al museo.
-Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
-Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
-Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
-Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
-Limitaciones: El horario del museo puede cambiar.
+Edad: 3–6 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Dibujo y estudio de la anatomía de los insectos.
 Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### E510 · Universum UNAM · DinoAlebrijes
 
 Fecha: 2026-12-12 — 2026-12-12
-edad: Edades de 4 a 8 años.
-Matvey: No por edad. Es posible la visita general al museo.
-Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
-Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
-Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
-Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
-Limitaciones: El horario del museo puede cambiar.
+Edad: 4–8 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Construcción de figuras y comparación de dinosaurios con otros animales.
 Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### E511 · Universum UNAM · Átomos brillantes
 
 Fecha: 2026-12-12 — 2026-12-12
 edad: Desde 8 años.
-Matvey: Sí por edad. Acudir con una persona adulta y confirmar plaza.
-Oscar: No por edad. Es posible la visita general al museo.
-Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
-Acceso: Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.
-Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
-Limitaciones: El horario del museo puede cambiar.
+Matvey: Sí por edad. Confirmar plaza en el grupo.
+Oscar: No por edad. Edad inferior al mínimo del grupo elegido.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Desde 8 años, primaria en adelante. Hasta 10 participantes. Confirmar inscripción y plazas en el museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Juego sobre modelos atómicos. Los participantes dibujan el átomo de Bohr con brillantina. Grupo de 10 personas.
 Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### E512 · Universum UNAM · Pequenautas al espacio
 
 Fecha: 2026-12-13 — 2026-12-13
-edad: Edades de 3 a 6 años.
-Matvey: No por edad. Es posible la visita general al museo.
-Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
-Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
-Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
-Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
-Limitaciones: El horario del museo puede cambiar.
+Edad: 3–6 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Entrenamiento lúdico de astronautas y misión lunar en salas de matemáticas y astronomía.
 Fuente: https://www.universum.unam.mx/actividades/index/2026/12/13
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### L747 · Young Engineers · Mérida Poniente & Conkal · Summer
 
@@ -5476,7 +5476,7 @@ Acceso: Las actividades de la sala requieren entrada de Universum. Cada activida
 Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
 Limitaciones:
 Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E641 · Neurofest 2026 · El cerebro ejecutivo
 
@@ -5502,7 +5502,7 @@ Acceso: Las actividades de la sala requieren entrada de Universum. Cada activida
 Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
 Limitaciones:
 Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E643 · Neurofest 2026 · Neuroimagen y acuarela
 
@@ -5515,7 +5515,7 @@ Acceso: Las actividades de la sala requieren entrada de Universum. Cada activida
 Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
 Limitaciones:
 Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E644 · Neurofest 2026 · Neuroplasticidad: una experiencia inmersiva
 
@@ -5552,9 +5552,9 @@ Oscar: No cumple actualmente por edad.
 Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
 Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
 Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
-Limitaciones:
+Limitaciones: Demostraciones de exoesqueletos desde 8 años. Sesión de 30 minutos, hasta 10 participantes, ventana de 10:00–15:00. Para Oscar hay actividades desde 6 años en el mismo museo.
 Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E647 · Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación
 
@@ -5957,6 +5957,97 @@ Acceso: La participación y el acompañamiento se reservan a la comunidad de col
 Precio: Confirmar mediante el colegio la cuota de la disciplina, pases de acompañantes y equipamiento incluido.
 Limitaciones: El programa provisional incluye la muestra DesafIA. Confirmar horario y reglas de equipos con el colegio.
 Fuente: https://amcosummit.com/es/mexico/
+Se ha comprobado: 2026-11-09
+
+### E744 · Universum UNAM · Garabateando bichitos · Peques
+
+Fecha: 2026-11-13 — 2026-12-27
+Edad: 3–6 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Dibujo y estudio de la anatomía de los insectos.
+Fuente: https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+Se ha comprobado: 2026-11-09
+
+### E745 · Universum UNAM · DinoAlebrijes · Peques
+
+Fecha: 2026-11-13 — 2026-12-27
+Edad: 4–8 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Construcción de figuras y comparación de dinosaurios con otros animales.
+Fuente: https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+Se ha comprobado: 2026-11-09
+
+### E746 · Universum UNAM · Pequenautas al espacio y más allá... · Peques
+
+Fecha: 2026-11-13 — 2026-12-27
+Edad: 3–6 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Entrenamiento lúdico de astronautas y misión lunar en salas de matemáticas y astronomía.
+Fuente: https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+Se ha comprobado: 2026-11-09
+
+### E747 · Universum UNAM · Explorando animales · Peques
+
+Fecha: 2026-11-13 — 2026-12-27
+Edad: 4–8 años.
+Matvey: No por edad. Edad superior al máximo de la actividad elegida. Se puede visitar el museo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Hasta 10 menores. Cada menor va con una persona adulta. Confirmar sesión disponible en el módulo de Atención al Visitante dentro del museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Itinerario familiar por la exposición sobre evolución y movimiento animal.
+Fuente: https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026
+Se ha comprobado: 2026-11-09
+
+### E748 · Universum UNAM · Átomos brillantes · 28 Nov
+
+Fecha: 2026-11-28 — 2026-11-28
+edad: Desde 8 años.
+Matvey: Sí por edad. Confirmar plaza en el grupo.
+Oscar: No por edad. Edad inferior al mínimo del grupo elegido.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Desde 8 años, primaria en adelante. Hasta 10 participantes. Confirmar inscripción y plazas en el museo.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Juego sobre modelos atómicos. Los participantes dibujan el átomo de Bohr con brillantina. Grupo de 10 personas.
+Fuente: https://www.universum.unam.mx/actividades/index/2026/11/28
+Se ha comprobado: 2026-11-09
+
+### E749 · Neurofest 2026 · El cerebro enciende sus luces
+
+Fecha: 2026-11-28 — 2026-11-28
+edad: Desde 6 años.
+Matvey: Sí por edad. Confirmar plaza en el grupo.
+Oscar: Sí por edad. Acudir con un adulto y confirmar plaza.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Los menores de 12 años van con una persona adulta. Antes de ir, confirmar plaza, sesión y acceso.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Los menores montan circuitos sencillos, resuelven un rompecabezas y conocen las neuronas. Hasta 10 participantes. Ventana de 10:00–15:00, la actividad dura 60 minutos. Confirmar la hora exacta en el museo.
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-09
+
+### E750 · Viernes de ciencia · Futboleno
+
+Fecha: 2026-11-27 2026-11-27
+edad: Desde 8 años.
+Matvey: Sí por edad. Confirmar plaza en el grupo.
+Oscar: No por edad. Edad inferior al mínimo del grupo elegido.
+Idioma: El programa está publicado en español. Confirmar el idioma hablado o el apoyo en inglés.
+Acceso: Los menores de 12 años van con una persona adulta. Antes de ir, confirmar plaza, sesión y acceso.
+Precio: Entrada al museo de 90 MXN para adulto y 80 MXN para menores de 2–12 años. El programa indica acceso con entrada. Confirmar posibles suplementos con el museo.
+Limitaciones: Montaje de un modelo de fullereno y conversación sobre sus usos en electrónica. Hasta 10 participantes. Ventana de 11:00–15:00, la actividad dura 40 minutos. Confirmar la hora exacta en el museo.
+Fuente: https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026
 Se ha comprobado: 2026-11-09
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
