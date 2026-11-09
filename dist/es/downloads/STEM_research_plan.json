@@ -870,11 +870,11 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 340,
+    "version": 341,
     "status": "implementation_snapshot",
-    "events": 11522,
-    "competitions": 5119,
-    "league_profiles": 330,
+    "events": 11535,
+    "competitions": 5124,
+    "league_profiles": 331,
     "camp_dossiers": 2265,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 740,
+    "exhibitions_events": 743,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 339,
+    "version": 340,
     "status": "implementation_snapshot",
-    "events": 11508,
-    "competitions": 5117,
+    "events": 11522,
+    "competitions": 5119,
     "league_profiles": 330,
-    "camp_dossiers": 2264,
+    "camp_dossiers": 2265,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 738,
+    "exhibitions_events": 740,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 340,
+    "prepared_ui_version": 341,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 339,
-    "previous_verified_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6"
+    "previous_verified_ui_version": 340,
+    "previous_verified_commit": "241c5de2297b8588d211949da9482693527f3012"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 339,
-    "published_version": 339,
-    "latest_source_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6",
-    "published_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6",
-    "latest_workflow": 42599306933,
+    "latest_source_version": 340,
+    "published_version": 340,
+    "latest_source_commit": "241c5de2297b8588d211949da9482693527f3012",
+    "published_commit": "241c5de2297b8588d211949da9482693527f3012",
+    "latest_workflow": 42602410846,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35729,5 +35729,60 @@
     "almeria_awards": "E740",
     "genios_dossier": "CP2265",
     "genios_selectable_days": 10
+  },
+  "panama_ai_vex_and_maker_routes_v341": {
+    "version": 341,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5121",
+      "C5122",
+      "C5123",
+      "L952",
+      "L953",
+      "E741",
+      "L954",
+      "L955",
+      "C5124",
+      "C5125",
+      "E742",
+      "E743",
+      "L956"
+    ],
+    "refreshed_event_ids": [
+      "C4180",
+      "E474"
+    ],
+    "new_dossier_ids": [],
+    "new_league_ids": [
+      "olimpia-panama"
+    ],
+    "legacy_overlay_event_ids": [
+      "C4180",
+      "E474"
+    ],
+    "source_requests": 21,
+    "olimpia_competition_ids": [
+      "C5121",
+      "C5122",
+      "C5123"
+    ],
+    "olimpia_awards_id": "E741",
+    "olimpia_learning_ids": [
+      "L952",
+      "L953",
+      "L954",
+      "L955"
+    ],
+    "vex_archive_ids": [
+      "C5124",
+      "C5125"
+    ],
+    "vex_international_id": "C4180",
+    "vex_audience_id": "E742",
+    "expo_tech_conflict_id": "E474",
+    "panama_maker_id": "E743",
+    "senacyt_research_id": "L956"
   }
 }

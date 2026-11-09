@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11522; competiciones: 5119; eventos: 740; campamentos / programas: 5663. Perfiles de ligas y programas: 330. Fichas de exposiciones grandes y especializadas: 632 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11535; competiciones: 5124; eventos: 743; campamentos / programas: 5668. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 635 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2075 | 165 | 1408 |
+| América del Norte | 41 | 2080 | 168 | 1413 |
 | América del Sur | 15 | 473 | 52 | 258 |
 | Europa | 55 | 732 | 160 | 1663 |
 | África | 60 | 272 | 45 | 156 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
 
-VEX: 815 de 5119 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
+VEX: 817 de 5124 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -95,7 +95,7 @@ VEX: 815 de 5119 fichas de competiciones (15.9%). Esta concentración muestra un
 
 - **WRO**: 119 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 170 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
-- **VEX Robotics**: 815 fichas, 687 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
+- **VEX Robotics**: 817 fichas, 687 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
 - **MakeX**: 19 fichas, 11 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**: 624 fichas, 495 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
@@ -356,6 +356,7 @@ VEX: 815 de 5119 fichas de competiciones (15.9%). Esta concentración muestra un
 - **Liga Nacional de Robótica · Brasil**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lnrobotica.com.br/
 - **FIRA Brasil · Kids**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firabrasil.com/fira-kids
 - **RoboCup Canada Open · RoboCupJunior / Primary**: 11 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocup.org/events/91
+- **OlimPIA Panamá · Olimpiada Panameña de Inteligencia Artificial**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://olimpanama-ia.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1030,6 +1031,9 @@ VEX: 815 de 5119 fichas de competiciones (15.9%). Esta concentración muestra un
 - **Coupe de France Junior · Village scientifique Île-de-France 2027** — Francia; 2027-04-17. con un adulto; condiciones de admisión adulta por separado. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
 - **Exponencial. De analógicos a digitales · Espacio Fundación Telefónica** — España; sin fecha puntual. Con un adulto. Las condiciones de acceso adulto figuran por separado. https://espacio.fundaciontelefonica.com/evento/exponencial/
 - **Universidad de Almería · Desafío del Club de Robótica 2026/27 · Acto público y premios** — España; fecha desconocida. Confirmar acceso infantil. https://www.ualjoven.ual.es/index.php/actividades/desafio-club-de-robotica-curso-2026-2027-ualjoven
+- **OlimPIA Panamá 2027 · Premiación** — Panamá; 2027-09-03. el permiso de entrada de niños. https://olimpanama-ia.org/
+- **Innovatosphere VEX IQ Open · opción de visita** — Panamá; 2026-11-28 – 2026-11-29. el permiso de entrada de niños. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4237.html
+- **3D Parking 2026 · Encuentro maker** — Panamá; 2026-11-07. el permiso de entrada de niños. https://luma.com/714ifxap
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

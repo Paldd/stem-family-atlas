@@ -84,7 +84,8 @@ current_audits = [
                  'swiss-regional-robots-and-franco-swiss-winter-audit-v335.json',
                  'camelot-qualifiers-and-shanghai-junior-audit-v336.json',
                  'brazil-robot-leagues-and-malaysia-week-audit-v338.json',
-                 'robocup-canada-and-family-maker-camps-audit-v339.json')
+                 'robocup-canada-and-family-maker-camps-audit-v339.json',
+                 'panama-ai-vex-and-maker-routes-audit-v341.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

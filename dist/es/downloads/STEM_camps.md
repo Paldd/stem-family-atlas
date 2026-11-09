@@ -14006,6 +14006,86 @@ Limitaciones: Diseño y creación de prototipos para ciudades más sostenibles. 
 Fuente: https://espacio.fundaciontelefonica.com/talleres-del-espacio/publico-escolar/
 Se ha comprobado: 2026-11-09
 
+### L952 · OlimPIA Panamá 2027 · Tutorías Online
+
+lugar: Panamá · Online
+Fecha: Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.
+edad: La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.
+Matvey: Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.
+Oscar: Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.
+Formato: online_course
+Idioma: Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.
+Limitaciones: Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.
+Fuente: https://olimpanama-ia.org/
+Se ha comprobado: 2026-11-09
+
+### L953 · OlimPIA Panamá 2027 · Boot Camp
+
+lugar: Panamá · Panama City
+Fecha: 2027-09-01 — 2027-09-03
+edad: La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.
+Matvey: Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.
+Oscar: Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.
+formato: workshop
+Idioma: Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento.
+Limitaciones: Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento.
+Fuente: https://olimpanama-ia.org/
+Se ha comprobado: 2026-11-09
+
+### L954 · OlimPIA Academy · Cuestionario de IA, programación y ética
+
+lugar: Panamá · Online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.
+Matvey: Condicional. Empezar con un adulto con el cuestionario introductorio o un ejemplo breve de Python.
+Oscar: Condicional. Un adulto puede leer las preguntas y comentar los ejemplos con el menor.
+Formato: online_course
+Idioma: Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.
+Limitaciones: Cuestionario introductorio de 10 preguntas sobre variables, condicionales, bucles e IA. Otro de 10 preguntas sobre lógica, sesgos y ética. Se pueden realizar ambos.
+Fuente: https://academy.olimpanama-ia.org/cuestionario
+Se ha comprobado: 2026-11-09
+
+### L955 · OlimPIA Academy · Playground de Python
+
+lugar: Panamá · Online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.
+Matvey: Condicional. Empezar con un adulto con el cuestionario introductorio o un ejemplo breve de Python.
+Oscar: Condicional. Un adulto puede leer las preguntas y comentar los ejemplos con el menor.
+Formato: online_course
+Idioma: Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.
+Limitaciones: Ejecución de Python con Pyodide en el navegador. El código se ejecuta localmente. Los cursos completos de IA y robótica siguen en preparación.
+Fuente: https://academy.olimpanama-ia.org/playground
+Se ha comprobado: 2026-11-09
+
+### L956 · SENACYT · Jóvenes Científicos 2027
+
+lugar: Panamá · Panama City
+Fecha: Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada.
+edad: Nacionalidad panameña y escolarización en el país en 8.º–12.º grado en 2027. Hasta 2 participantes por proyecto, ambos deben cumplir los requisitos.
+Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+formato: project
+Idioma: Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Nacionalidad panameña y escolarización en el país en 8.º–12.º grado en 2027. Hasta 2 participantes por proyecto, ambos deben cumplir los requisitos.
+Limitaciones: Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada.
+Fuente: https://www.senacyt.gob.pa/en/programa-de-jovenes-cientificos-para-el-ano-2027-3/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

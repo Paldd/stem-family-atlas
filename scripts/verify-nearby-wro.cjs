@@ -34,6 +34,9 @@ for(const lang of ['','es/']){
  const filterCode=participationCode.slice(participationCode.indexOf('function catalogLanguageMatches('),participationCode.indexOf('function addDays('));
  const state={view:'catalog',query:'',routeIsos:[],country:'PAN',participation:'programme_milestone',excluded:true,sort:'date'};
  const fc={EVENTS:DATA.events,DATA,state,window:{},DIRECTIONS:{matches:()=>true},fits:()=>true,TODAY:'2026-11-06',foldSearch:s=>String(s).toLowerCase()};vm.createContext(fc);vm.runInContext(filterCode,fc);
+ const milestones=Array.from(fc.filtered(),e=>e.id);
+ assert(milestones.includes('C2061')&&milestones.includes('C2062')&&milestones.includes('C5121'));
+ state.league='wro-panama-local';
  assert.deepEqual(Array.from(fc.filtered(),e=>e.id),['C2061','C2062']);
  Object.assign(state,{participation:'team',dates:'upcoming',league:'wro-panama-local'});const activeTeams=Array.from(fc.filtered(),e=>e.id);assert.equal(activeTeams.length,13);assert(activeTeams.includes('C008')&&activeTeams.includes('C2049')&&!activeTeams.includes('C2061'));
  reports.push({language:lang?'es':'ru',league_profiles:DATA.league_guide.profiles.length,history_results:DATA.school_history.results.length,new_qualification_rows:12,california_open_rows:6,school_and_unresolved_filters:true,source_labels_human_readable:true,no_qualification_promoted_to_world_title:true});

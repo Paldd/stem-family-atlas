@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 5663,
+      "records": 5668,
       "holiday": 5060,
       "regular": 223,
       "self_paced_materials": 4,
@@ -51444,6 +51444,327 @@
         "L949",
         "L950"
       ]
+    },
+    {
+      "id": "L952",
+      "title": "OlimPIA Panamá 2027 · Tutorías Online",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-09",
+      "source": "https://olimpanama-ia.org/",
+      "references": [
+        {
+          "url": "https://olimpanama-ia.org/temario",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://olimpanama-ia.org/registro",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+      "mat": "Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.",
+      "osc": "Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.",
+      "format": "Programa formativo técnico",
+      "entry": "Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.",
+      "gear": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+      "language": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+      "cost": "Gratuito.",
+      "level": "Etapa nacional",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.",
+      "note": "Cinco sesiones gratuitas en línea fuera del horario escolar en junio–julio de 2027. Aún no se anuncian días ni horas concretos.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Olimpiada nacional de IA para estudiantes de Panamá.",
+      "participation": "online_course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "online",
+      "related_ids": [
+        "C5121",
+        "C5122",
+        "C5123",
+        "L953",
+        "E741"
+      ]
+    },
+    {
+      "id": "L953",
+      "title": "OlimPIA Panamá 2027 · Boot Camp",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Panama City",
+      "start": "2027-09-01",
+      "end": "2027-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-09",
+      "source": "https://olimpanama-ia.org/",
+      "references": [
+        {
+          "url": "https://olimpanama-ia.org/temario",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+      "mat": "Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.",
+      "osc": "Para más adelante. La etapa escolar actual queda por debajo de las opciones del formulario.",
+      "format": "Programa formativo técnico",
+      "entry": "Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento.",
+      "gear": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+      "language": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa nacional",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento.",
+      "note": "Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Olimpiada nacional de IA para estudiantes de Panamá.",
+      "participation": "workshop",
+      "admission_kind": "qualifier",
+      "evidence_level": "program",
+      "date_scope": "workshop_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C5121",
+        "C5122",
+        "C5123",
+        "L952",
+        "E741"
+      ]
+    },
+    {
+      "id": "L954",
+      "title": "OlimPIA Academy · Cuestionario de IA, programación y ética",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-09",
+      "source": "https://academy.olimpanama-ia.org/cuestionario",
+      "references": [
+        {
+          "url": "https://academy.olimpanama-ia.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.",
+      "mat": "Condicional. Empezar con un adulto con el cuestionario introductorio o un ejemplo breve de Python.",
+      "osc": "Condicional. Un adulto puede leer las preguntas y comentar los ejemplos con el menor.",
+      "format": "Programa formativo técnico",
+      "entry": "En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.",
+      "gear": "Cuestionario introductorio de 10 preguntas sobre variables, condicionales, bucles e IA. Otro de 10 preguntas sobre lógica, sesgos y ética. Se pueden realizar ambos.",
+      "language": "Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "Ejercicios abiertos de práctica. No consta clasificación con premios ni clasificación oficial por completarlos.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cuestionario introductorio de 10 preguntas sobre variables, condicionales, bucles e IA. Otro de 10 preguntas sobre lógica, sesgos y ética. Se pueden realizar ambos.",
+      "note": "Cuestionario introductorio de 10 preguntas sobre variables, condicionales, bucles e IA. Otro de 10 preguntas sobre lógica, sesgos y ética. Se pueden realizar ambos.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology",
+        "games"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_course",
+      "admission_kind": "direct",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "online",
+      "related_ids": [
+        "L955",
+        "C5121"
+      ]
+    },
+    {
+      "id": "L955",
+      "title": "OlimPIA Academy · Playground de Python",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-09",
+      "source": "https://academy.olimpanama-ia.org/playground",
+      "references": [
+        {
+          "url": "https://academy.olimpanama-ia.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.",
+      "mat": "Condicional. Empezar con un adulto con el cuestionario introductorio o un ejemplo breve de Python.",
+      "osc": "Condicional. Un adulto puede leer las preguntas y comentar los ejemplos con el menor.",
+      "format": "Programa formativo técnico",
+      "entry": "En navegador, sin cuenta para el cuestionario y la ejecución de Python. No se indica edad para los ejercicios abiertos.",
+      "gear": "Ejecución de Python con Pyodide en el navegador. El código se ejecuta localmente. Los cursos completos de IA y robótica siguen en preparación.",
+      "language": "Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Interfaz y ejercicios disponibles en español. Práctica autónoma en el navegador.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "Ejercicios abiertos de práctica. No consta clasificación con premios ni clasificación oficial por completarlos.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Ejecución de Python con Pyodide en el navegador. El código se ejecuta localmente. Los cursos completos de IA y robótica siguen en preparación.",
+      "note": "Ejecución de Python con Pyodide en el navegador. El código se ejecuta localmente. Los cursos completos de IA y robótica siguen en preparación.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_course",
+      "admission_kind": "direct",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "online",
+      "related_ids": [
+        "L954",
+        "C5121"
+      ]
+    },
+    {
+      "id": "L956",
+      "title": "SENACYT · Jóvenes Científicos 2027",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Panama City",
+      "start": "",
+      "end": "",
+      "period": "Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada.",
+      "deadline": "2026-11-06",
+      "date_status": "Archivo",
+      "checked": "2026-11-09",
+      "source": "https://www.senacyt.gob.pa/en/programa-de-jovenes-cientificos-para-el-ano-2027-3/",
+      "references": [
+        {
+          "url": "https://www.senacyt.gob.pa/wp-content/uploads/2026/09/anuncio-de-la-Convocatoria-2027.cleaned.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.senacyt.gob.pa/wp-content/uploads/2026/10/Resolucion-extension-Convocatoria.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://jovenescientificos.senacyt.gob.pa",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Nacionalidad panameña y escolarización en el país en 8.º–12.º grado en 2027. Hasta 2 participantes por proyecto, ambos deben cumplir los requisitos.",
+      "mat": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente.",
+      "osc": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente.",
+      "format": "Investigación con mentor científico. Entre las áreas figuran ciencias computacionales, ingeniería y tecnología, física y matemáticas.",
+      "entry": "Nacionalidad panameña y escolarización en el país en 8.º–12.º grado en 2027. Hasta 2 participantes por proyecto, ambos deben cumplir los requisitos.",
+      "gear": "Investigación con mentor científico. Entre las áreas figuran ciencias computacionales, ingeniería y tecnología, física y matemáticas.",
+      "language": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "700 PAB de subsidio para materiales y gastos necesarios del proyecto. Se entrega en un solo desembolso al adulto coordinador.",
+      "priority": "P4 — archivo para preparación",
+      "action": "Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada.",
+      "note": "Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "project",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "deadline_utc": "2026-11-06T19:00:00Z",
+      "registration_opens": "2026-09-29",
+      "registration_status": "closed",
+      "availability": {
+        "status": "closed",
+        "label": "Solicitudes desde el 29 de septiembre de 2026. La prórroga oficial fija el plazo el 6 de noviembre de 2026 a las 14:00 hora de Panamá. Convocatoria cerrada."
+      }
     },
     {
       "id": "CP001-20270606-20270619",

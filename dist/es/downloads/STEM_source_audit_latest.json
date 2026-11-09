@@ -16,13 +16,13 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11522,
-    "competition_cards": 5119,
-    "event_cards": 740,
-    "camp_cards": 5663,
-    "league_profiles": 330,
-    "major_exhibition_cards": 632,
-    "vex_cards": 815,
+    "cards": 11535,
+    "competition_cards": 5124,
+    "event_cards": 743,
+    "camp_cards": 5668,
+    "league_profiles": 331,
+    "major_exhibition_cards": 635,
+    "vex_cards": 817,
     "countries_with_records": 242,
     "fully_audited_countries": 0
   },
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3696,
+      "total": 3709,
       "countries_with_records": 41,
-      "competitions": 2075,
-      "events": 213,
-      "major_exhibitions": 165,
-      "camps": 1408,
+      "competitions": 2080,
+      "events": 216,
+      "major_exhibitions": 168,
+      "camps": 1413,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -1386,6 +1386,8 @@
         "C4426",
         "C4427",
         "C4716",
+        "C5124",
+        "C5125",
         "C1155",
         "C1156",
         "C1157",
@@ -1393,9 +1395,9 @@
         "C1899",
         "C1900"
       ],
-      "cards": 815,
+      "cards": 817,
       "future_dated": 687,
-      "linked_card_count": 815,
+      "linked_card_count": 817,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.vexrobotics.com/official-path",
       "new": false
@@ -8447,6 +8449,22 @@
       "linked_card_count": 11,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://robocup.org/events/91",
+      "new": false
+    },
+    {
+      "id": "olimpia-panama",
+      "name": "OlimPIA Panamá · Olimpiada Panameña de Inteligencia Artificial",
+      "group": "ai",
+      "event_ids": [
+        "C5121",
+        "C5122",
+        "C5123"
+      ],
+      "cards": 3,
+      "future_dated": 2,
+      "linked_card_count": 3,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://olimpanama-ia.org/",
       "new": false
     },
     {
@@ -16403,6 +16421,39 @@
       "new": false
     },
     {
+      "id": "E741",
+      "name": "OlimPIA Panamá 2027 · Premiación",
+      "country": "Panamá",
+      "region": "América Central",
+      "start": "2027-09-03",
+      "end": "2027-09-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://olimpanama-ia.org/",
+      "new": false
+    },
+    {
+      "id": "E742",
+      "name": "Innovatosphere VEX IQ Open · opción de visita",
+      "country": "Panamá",
+      "region": "América Central",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4237.html",
+      "new": false
+    },
+    {
+      "id": "E743",
+      "name": "3D Parking 2026 · Encuentro maker",
+      "country": "Panamá",
+      "region": "América Central",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "visitor_policy": "confirm_children",
+      "source": "https://luma.com/714ifxap",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18820,7 +18871,7 @@
       }
     ],
     "counts": {
-      "records": 5663,
+      "records": 5668,
       "holiday": 5060,
       "regular": 223,
       "self_paced_materials": 4,

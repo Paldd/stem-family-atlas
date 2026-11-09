@@ -1662,6 +1662,8 @@
           "C4426",
           "C4427",
           "C4716",
+          "C5124",
+          "C5125",
           "C1899",
           "C1900"
         ],
@@ -27113,6 +27115,83 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "olimpia-panama",
+        "name": "OlimPIA Panamá · Olimpiada Panameña de Inteligencia Artificial",
+        "group": "ai",
+        "age_summary": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Olimpiada nacional de IA para estudiantes de Panamá.",
+        "categories": [
+          {
+            "name": "I Ronda",
+            "age": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+            "age_rule": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+            "team": "Dos rondas competitivas. Se confirman composición de equipos o clasificación individual y modalidad de la primera ronda.",
+            "hardware": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+            "entry": "Ronda clasificatoria sobre fundamentos de IA. Se confirman hora exacta, modalidad, lugar y criterios de paso a la final."
+          },
+          {
+            "name": "II Ronda",
+            "age": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+            "age_rule": "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+            "team": "Dos rondas competitivas. Se confirman composición de equipos o clasificación individual y modalidad de la primera ronda.",
+            "hardware": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+            "entry": "Final para clasificados, con prueba y retos aplicados. Se confirman sede, hora y criterios del jurado."
+          }
+        ],
+        "event_ids": [
+          "C5121",
+          "C5122",
+          "C5123"
+        ],
+        "legacy_ids": [],
+        "route": "IOAI identifica a OlimPIA como entidad acreditada de Panamá. IOAI mundial en Singapur se celebra del 4 al 10 de julio de 2027 y la selección nacional debe concluir el 1 de abril de 2027. Las etapas de julio y septiembre de OlimPIA carecen de vínculo confirmado con la selección para Singapur 2027.",
+        "hardware": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+        "language": "Materiales de la organización en español. Confirmar el idioma hablado de las clases o del jurado.",
+        "importance": "Etapa nacional",
+        "strengths": "Aprendizaje automático clásico, redes neuronales, visión artificial, procesamiento de lenguaje y audio. La final prevé prueba objetiva y retos aplicados.",
+        "requirements": [
+          "La portada indica Premedia y Media. El formulario solo ofrece IX grado y Media, cualquier Bachiller.",
+          "Solicitud gratuita hasta el 30 de mayo de 2027. Pide colegio, región educativa y un adulto responsable. El formulario pide cédula o pasaporte y autorización de uso de imagen. Confirmar aparte admisión de estudiantes del extranjero y plaza."
+        ],
+        "nuances": [
+          "IOAI identifica a OlimPIA como entidad acreditada de Panamá. IOAI mundial en Singapur se celebra del 4 al 10 de julio de 2027 y la selección nacional debe concluir el 1 de abril de 2027. Las etapas de julio y septiembre de OlimPIA carecen de vínculo confirmado con la selección para Singapur 2027.",
+          "Preparación presencial del 1 al 3 de septiembre de 2027 para clasificados. Aún no se indican sede exacta, horas, precio, comidas ni alojamiento."
+        ],
+        "cost": "Solicitud gratuita hasta el 30 de mayo de 2027. Pide colegio, región educativa y un adulto responsable. El formulario pide cédula o pasaporte y autorización de uso de imagen. Confirmar aparte admisión de estudiantes del extranjero y plaza.",
+        "award": "Premiación nacional el 3 de septiembre de 2027. No se indican tipos de premios, número de ganadores ni plazas internacionales de esta edición.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://olimpanama-ia.org/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://olimpanama-ia.org/registro",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://olimpanama-ia.org/temario",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://ioai-official.org/about/countries-and-territories/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://ioai-official.org/ioai-community-meeting-highlights-september-2026/",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -32458,7 +32537,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de ligas y programas: 330. Se conservan las 46 rutas anteriores. Los formatos brasileños figuran por separado. Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 331. Se conservan las 46 vías anteriores. Se separan los formatos brasileños y se describen Robofest LATAM y BajaBot locales por categoría. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
