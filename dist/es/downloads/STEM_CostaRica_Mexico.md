@@ -5881,6 +5881,45 @@ Limitaciones: La organización señala que el horario de actividades de juego es
 Fuente: https://animaconcr.com/schedule
 Se ha comprobado: 2026-11-08
 
+### E716 · IA Expo Internacional 2027 · Conferencias y XperiencIA
+
+Fecha: 2027-01-29 - 2027-01-30
+edad: Las condiciones generales permiten menores si la edición lo autoriza, con autorización y acompañamiento de madre, padre o tutor. Confirmar las reglas de esta edición.
+Matvey: Confirmar la admisión de cada menor antes de comprar entradas.
+Oscar: Confirmar la admisión de cada menor antes de comprar entradas.
+Idioma: Información para visitantes en español. Confirmar idioma de cada sesión en el programa.
+Acceso: Pase Profesional a USD 250, VIP All Access a USD 500. Los talleres del 28 de enero se pagan aparte.
+Precio: Pase Profesional a USD 250, VIP All Access a USD 500. Los talleres del 28 de enero se pagan aparte.
+Limitaciones: Del 29 al 30 de enero, conferencias, demostraciones y salón XperiencIA. El 28 de enero hay un programa aparte de talleres.
+Fuente: https://iaexpo.ai/
+Se ha comprobado: 2026-11-08
+
+### E717 · IA Expo Internacional 2027 · Talleres prácticos
+
+Fecha: 2027-01-28 — 2027-01-28
+edad: Las condiciones generales permiten menores si la edición lo autoriza, con autorización y acompañamiento de madre, padre o tutor. Confirmar las reglas de esta edición.
+Matvey: Confirmar la admisión de cada menor antes de comprar entradas.
+Oscar: Confirmar la admisión de cada menor antes de comprar entradas.
+Idioma: Información para visitantes en español. Confirmar idioma de cada sesión en el programa.
+Acceso: Cada taller figura a USD 100. Confirmar si también hace falta un pase principal.
+Precio: Cada taller figura a USD 100. Confirmar si también hace falta un pase principal.
+Limitaciones: 28 de enero de 2027, de 15:00 a 19:00. Hay sesiones aparte con ejercicios prácticos de IA. Confirmar el turno elegido y acceso.
+Fuente: https://iaexpo.ai/
+Se ha comprobado: 2026-11-08
+
+### E718 · Marketing Up 2027 · Expo y marketing con IA
+
+Fecha: 2027-05-13 — 2027-05-14
+edad: Feria profesional. La organización debe confirmar admisión infantil y reglas de acompañamiento.
+Matvey: Confirmar la admisión de cada menor antes de comprar entradas.
+Oscar: Confirmar la admisión de cada menor antes de comprar entradas.
+Idioma: Información para visitantes en español. Confirmar idioma de cada sesión en el programa.
+Acceso: General MXN 2250, VIP MXN 7000, All Access MXN 30000. Comisiones aparte. General incluye entrada a Zona Expo.
+Precio: General MXN 2250, VIP MXN 7000, All Access MXN 30000. Comisiones aparte. General incluye entrada a Zona Expo.
+Limitaciones: La organización anuncia 15 stands y demostraciones de IA aplicada y tecnología de marketing. Confirmar expositores.
+Fuente: https://www.marketingup.mx/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

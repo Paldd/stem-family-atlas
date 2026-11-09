@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11219; competiciones: 5039; eventos: 715; campamentos / programas: 5465. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 615 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11264; competiciones: 5039; eventos: 718; campamentos / programas: 5507. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 617 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,9 +14,9 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2037 | 156 | 1395 |
+| América del Norte | 41 | 2037 | 158 | 1399 |
 | América del Sur | 15 | 467 | 52 | 235 |
-| Europa | 55 | 721 | 154 | 1574 |
+| Europa | 55 | 721 | 154 | 1612 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1197 | 174 | 1728 |
 | Oceanía | 27 | 175 | 32 | 362 |
@@ -1004,6 +1004,8 @@ VEX: 815 de 5039 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **B’ROBOTICS XXL 2027 · International Day** — Países Bajos; 2027-05-27. el permiso de entrada de niños. https://b-robotics.eu/en/breda-robotics-xxl-event/
 - **B’ROBOTICS XXL 2027 · Public and Family Day** — Países Bajos; 2027-05-29. con un adulto; condiciones de admisión adulta por separado. https://b-robotics.eu/en/breda-robotics-xxl-event/
 - **EXO Berlin 2027 · Assistive Robotics** — Alemania; 2027-06-15 – 2027-06-16. el permiso de entrada de niños. https://www.exo-berlin.de/
+- **IA Expo Internacional 2027 · Conferencias y XperiencIA** — México; 2027-01-29 – 2027-01-30. el permiso de entrada de niños. https://iaexpo.ai/
+- **Marketing Up 2027 · Expo y marketing con IA** — México; 2027-05-13 – 2027-05-14. el permiso de entrada de niños. https://www.marketingup.mx/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

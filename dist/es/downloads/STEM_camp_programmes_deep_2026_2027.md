@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2164 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-08. 2178 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -171387,6 +171387,1352 @@ Australia · iCode School · 1/124 High St · Belmont, Geelong
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G) · 2026-11-08
+
+## CP2165 · OAKLearning · Robotics March Break · Level 1
+
+Canadá · OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años en el grupo Level 1.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Robótica RoboRobo con montaje y programación de proyectos. No se exige experiencia previa.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.
+
+**Precio / año:** 2027 · CAD 425 por niño y semana.
+
+**Incluido:** Se anuncian fruta, aperitivos y un día de pizza. Confirmar comida para los demás días.
+
+**Suplementos:** La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.
+
+### Antes de solicitar plaza
+
+- La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Level 1
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+
+**Precio:** CAD 425 por niño y semana.
+
+- 2027-03-15 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 1
+
+- 2027-03-16 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 1
+
+- 2027-03-17 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 1
+
+- 2027-03-18 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 1
+
+- 2027-03-19 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 1
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+[fuente](https://oaklearningcenter.com/robotics-march-break-in-oakville/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://oaklearningcenter.com/robotics-march-break-in-oakville/) · 2026-11-08
+
+## CP2166 · OAKLearning · Robotics March Break · Level 2
+
+Canadá · OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–13 años en el grupo Level 2.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Robótica RoboRobo con montaje y programación de proyectos. No se exige experiencia previa.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.
+
+**Precio / año:** 2027 · CAD 425 por niño y semana.
+
+**Incluido:** Se anuncian fruta, aperitivos y un día de pizza. Confirmar comida para los demás días.
+
+**Suplementos:** La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.
+
+### Antes de solicitar plaza
+
+- La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Level 2
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+
+**Precio:** CAD 425 por niño y semana.
+
+- 2027-03-15 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 2
+
+- 2027-03-16 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 2
+
+- 2027-03-17 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 2
+
+- 2027-03-18 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 2
+
+- 2027-03-19 · 08:30–15:30 · America/Toronto · OAKLearning · Robotics March Break · Level 2
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+[fuente](https://oaklearningcenter.com/robotics-march-break-in-oakville/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://oaklearningcenter.com/robotics-march-break-in-oakville/) · 2026-11-08
+
+## CP2167 · Access Alliance · Kids Robotics March Break
+
+Canadá · AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Taller diurno de introducción a programación y robótica para niños.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 15 al 19 de marzo de 2027, de 14:00 a 16:00. La organización publicó las cinco sesiones por separado.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** 8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Del 15 al 19 de marzo de 2027, de 14:00 a 16:00. La organización publicó las cinco sesiones por separado.
+
+### Antes de solicitar plaza
+
+- Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Kids Robotics
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.
+
+- 2027-03-15 · 14:00–16:00 · America/Toronto · Access Alliance · Kids Robotics March Break
+
+- 2027-03-16 · 14:00–16:00 · America/Toronto · Access Alliance · Kids Robotics March Break
+
+- 2027-03-17 · 14:00–16:00 · America/Toronto · Access Alliance · Kids Robotics March Break
+
+- 2027-03-18 · 14:00–16:00 · America/Toronto · Access Alliance · Kids Robotics March Break
+
+- 2027-03-19 · 14:00–16:00 · America/Toronto · Access Alliance · Kids Robotics March Break
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.
+
+[fuente](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-16/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-17/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-18/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-19/) · 2026-11-08
+
+## CP2168 · Richer Education · NAO V6 February Half-Term
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–17 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Programación de movimientos y comportamiento del humanoide NAO V6.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 899 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### NAO V6 February Half-Term
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 899 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-february-half-term/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/humanoid-robotics-february-half-term/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2169 · Richer Education · NAO V6 Easter
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–17 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Programación de movimientos y comportamiento del humanoide NAO V6.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 880–899 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### NAO V6 Easter
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 880 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-easter-camp/)
+
+### NAO V6 Easter
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 880 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-easter-camp/)
+
+### NAO V6 Easter
+
+**Fechas / estado:** 2027-04-12 — 2027-04-16
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 899 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-easter-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/humanoid-robotics-easter-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2170 · Richer Education · NAO V6 May Half-Term
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–17 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Programación de movimientos y comportamiento del humanoide NAO V6.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 850 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### NAO V6 May Half-Term
+
+**Fechas / estado:** 2027-05-25 — 2027-05-28
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 850 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-may-half-term/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/humanoid-robotics-may-half-term/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2171 · Richer Education · Bionic Robotics Summer
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–17 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Itinerario de robótica biónica de verano. La organización puede elegir NAO V6 o un robot cuadrúpedo para las sesiones.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 950–995 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 995 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Bionic Robotics Summer
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 950 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2172 · Richer Education · Coding & Robotics Summer
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–14 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Curso práctico de verano de programación y robótica para escolares.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 750–799 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 750 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Coding & Robotics Summer
+
+**Fechas / estado:** 2027-08-23 — 2027-08-27
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 750 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2173 · Richer Education · Science February Half-Term
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Experimentos científicos diurnos y actividades prácticas para el grupo menor.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 650 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### Science February Half-Term
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 650 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/science-february-half-term/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/science-february-half-term/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2174 · Richer Education · STEAM Easter
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Proyectos prácticos de ciencia, tecnología, ingeniería y creatividad.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 599–650 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### STEAM Easter
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 599 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/steam-easter-camp/)
+
+### STEAM Easter
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 650 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/steam-easter-camp/)
+
+### STEAM Easter
+
+**Fechas / estado:** 2027-04-12 — 2027-04-16
+
+**lugar:** Imperial College London · Exhibition Road · South Kensington, London
+
+**Precio:** GBP 650 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/steam-easter-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/steam-easter-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2175 · Richer Education · STEAM Summer
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Proyectos prácticos de ciencia, tecnología, ingeniería y creatividad.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 799 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### STEAM Summer
+
+**Fechas / estado:** 2027-08-23 — 2027-08-27
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/face-to-face-steam-summer-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2176 · Richer Education · Science Summer
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años según la ficha del programa.
+
+**Idioma:** Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+**Programa:** Experimentos científicos diurnos y actividades prácticas para el grupo menor.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+**Precio / año:** 2027 · GBP 799 por el turno elegido.
+
+**Incluido:** Traer almuerzo, aperitivos y agua.
+
+**Suplementos:** Cotejar importe final y servicios opcionales antes de pagar.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Encaja por edad. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+- Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+
+### Science Summer
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-science-summer-camp/)
+
+### Science Summer
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-science-summer-camp/)
+
+### Science Summer
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-science-summer-camp/)
+
+### Science Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** More House School · 22–24 Pont Street · Knightsbridge, London
+
+**Precio:** GBP 799 por el turno elegido.
+
+**condiciones de participación:** Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar disponibilidad, edificio e idioma del grupo elegido.
+
+- Traer almuerzo, aperitivos y agua.
+
+[fuente](https://www.richereducation.co.uk/face-to-face-science-summer-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/face-to-face-science-summer-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/tc/) · 2026-11-08
+
+## CP2177 · Kidsapia · Young Engineers March Break
+
+Canadá · Mississauga
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Programa vacacional Young Engineers con robots y modelos mecánicos.
+
+**Alojamiento:** Confirmar con la organización modalidad y condiciones de supervisión.
+
+**Fechas / estado:** Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+
+**Oscar:** Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+
+**Por qué se seleccionó:** Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.
+
+### Antes de solicitar plaza
+
+- Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+
+- Pendiente confirmar fechas exactas, tarifa y disponibilidad.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://kidsapia.ca/kidsapia-robotic-camps/) · 2026-11-08
+
+## CP2178 · AI Kids Club Alicante · Semana Santa
+
+España · Alicante
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
+
+**Idioma:** La información del campamento está publicada en español. Pendiente confirmar idioma del grupo concreto.
+
+**Programa:** Los niños trabajan en un proyecto propio con herramientas de IA. Confirmar el programa del grupo de Semana Santa.
+
+**Alojamiento:** Confirmar con la organización modalidad y condiciones de supervisión.
+
+**Fechas / estado:** Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
+
+**Oscar:** Condicional. Confirmar el límite de edad del turno. Si el mínimo es 7 años, cuenta la edad en la fecha de inicio.
+
+**Por qué se seleccionó:** Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.
+
+### Antes de solicitar plaza
+
+- El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
+
+- Pendiente confirmar fechas exactas, tarifa y disponibilidad.
+
+- La información del campamento está publicada en español. Pendiente confirmar idioma del grupo concreto.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://aikidsclub.org/es) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

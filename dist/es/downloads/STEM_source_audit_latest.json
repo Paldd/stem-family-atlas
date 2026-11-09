@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11219,
+    "cards": 11264,
     "competition_cards": 5039,
-    "event_cards": 715,
-    "camp_cards": 5465,
+    "event_cards": 718,
+    "camp_cards": 5507,
     "league_profiles": 321,
-    "major_exhibition_cards": 615,
+    "major_exhibition_cards": 617,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3630,
+      "total": 3637,
       "countries_with_records": 41,
       "competitions": 2037,
-      "events": 198,
-      "major_exhibitions": 156,
-      "camps": 1395,
+      "events": 201,
+      "major_exhibitions": 158,
+      "camps": 1399,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2474,
+      "total": 2512,
       "countries_with_records": 55,
       "competitions": 721,
       "events": 179,
       "major_exhibitions": 154,
-      "camps": 1574,
+      "camps": 1612,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -16028,6 +16028,28 @@
       "new": false
     },
     {
+      "id": "E716",
+      "name": "IA Expo Internacional 2027 · Conferencias y XperiencIA",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2027-01-29",
+      "end": "2027-01-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://iaexpo.ai/",
+      "new": false
+    },
+    {
+      "id": "E718",
+      "name": "Marketing Up 2027 · Expo y marketing con IA",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2027-05-13",
+      "end": "2027-05-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.marketingup.mx/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18445,8 +18467,8 @@
       }
     ],
     "counts": {
-      "records": 5465,
-      "holiday": 4911,
+      "records": 5507,
+      "holiday": 4950,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,

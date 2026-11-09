@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2164,
+    "dossiers": 2178,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 588,
-      "partial_2027": 154,
+      "published_2027": 600,
+      "partial_2027": 156,
       "next_unannounced": 440,
       "published_2026": 433,
       "partial_2026_27": 40,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3094
+    "source_urls": 3110
   },
   "countries": [
     {
@@ -238,7 +238,7 @@
     },
     {
       "country": "España",
-      "count": 148
+      "count": 149
     },
     {
       "country": "Italia",
@@ -258,7 +258,7 @@
     },
     {
       "country": "Canadá",
-      "count": 205
+      "count": 209
     },
     {
       "country": "Catar",
@@ -474,7 +474,7 @@
     },
     {
       "country": "Reino Unido",
-      "count": 31
+      "count": 40
     },
     {
       "country": "Estados Unidos",
@@ -379401,6 +379401,2952 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2165",
+      "slug": "oaklearning-march-break-level-1",
+      "provider": "OAKLearning · Robotics March Break · Level 1",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+      "age": "4–8 años en el grupo Level 1.",
+      "programme": "Robótica RoboRobo con montaje y programación de proyectos. No se exige experiencia previa.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "marchbreak",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Level 1",
+            "price": "CAD 425 por niño y semana.",
+            "source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "OAKLearning · Robotics March Break · Level 1",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "OAKLearning · Robotics March Break · Level 1",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "OAKLearning · Robotics March Break · Level 1",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "OAKLearning · Robotics March Break · Level 1",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "OAKLearning · Robotics March Break · Level 1",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "questions": [
+              "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+              "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 425,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "CAD 425 por niño y semana.",
+        "included": "Se anuncian fruta, aperitivos y un día de pizza. Confirmar comida para los demás días.",
+        "extras": "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.",
+      "shortlist": [],
+      "questions": [
+        "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "can-oaklearning-dundas-483-unit215",
+        "verified_source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 425,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2165-20270315-20270319-marchbreak"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2166",
+      "slug": "oaklearning-march-break-level-2",
+      "provider": "OAKLearning · Robotics March Break · Level 2",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+      "age": "9–13 años en el grupo Level 2.",
+      "programme": "Robótica RoboRobo con montaje y programación de proyectos. No se exige experiencia previa.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "marchbreak",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Level 2",
+            "price": "CAD 425 por niño y semana.",
+            "source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "OAKLearning · Robotics March Break · Level 2",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "OAKLearning · Robotics March Break · Level 2",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "OAKLearning · Robotics March Break · Level 2",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "OAKLearning · Robotics March Break · Level 2",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "OAKLearning · Robotics March Break · Level 2",
+                "start_time": "08:30",
+                "end_time": "15:30",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "questions": [
+              "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+              "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 425,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "CAD 425 por niño y semana.",
+        "included": "Se anuncian fruta, aperitivos y un día de pizza. Confirmar comida para los demás días.",
+        "extras": "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Del 15 al 19 de marzo de 2027, de 08:30 a 15:30. Ambos grupos de edad están en el mismo centro.",
+      "shortlist": [],
+      "questions": [
+        "La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "can-oaklearning-dundas-483-unit215",
+        "verified_source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 425,
+          "currency": "CAD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2166-20270315-20270319-marchbreak"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2167",
+      "slug": "access-alliance-newcomer-robotics",
+      "provider": "Access Alliance · Kids Robotics March Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto",
+      "age": "8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión.",
+      "programme": "Taller diurno de introducción a programación y robótica para niños.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 15 al 19 de marzo de 2027, de 14:00 a 16:00. La organización publicó las cinco sesiones por separado.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "marchbreak",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Kids Robotics",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto",
+            "entry": "Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "topic": "Access Alliance · Kids Robotics March Break",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Access Alliance · Kids Robotics March Break",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Access Alliance · Kids Robotics March Break",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Access Alliance · Kids Robotics March Break",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Access Alliance · Kids Robotics March Break",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true
+              }
+            ],
+            "questions": [
+              "Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Del 15 al 19 de marzo de 2027, de 14:00 a 16:00. La organización publicó las cinco sesiones por separado.",
+      "shortlist": [],
+      "questions": [
+        "Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-16/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-17/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-18/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-19/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2167-20270315-20270319-marchbreak"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2168",
+      "slug": "richer-london-nao-february",
+      "provider": "Richer Education · NAO V6 February Half-Term",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "9–17 años según la ficha del programa.",
+      "programme": "Programación de movimientos y comportamiento del humanoide NAO V6.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v16421",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "NAO V6 February Half-Term",
+            "price": "GBP 899 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 899,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 899 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2168-20270215-20270219-v16421"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2169",
+      "slug": "richer-london-nao-easter",
+      "provider": "Richer Education · NAO V6 Easter",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "9–17 años según la ficha del programa.",
+      "programme": "Programación de movimientos y comportamiento del humanoide NAO V6.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v22450",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "NAO V6 Easter",
+            "price": "GBP 880 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v22287",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "NAO V6 Easter",
+            "price": "GBP 880 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v16430",
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "NAO V6 Easter",
+            "price": "GBP 899 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 880–899 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2169-20270330-20270402-v22450"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2169-20270405-20270409-v22287"
+          ]
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2169-20270412-20270416-v16430"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2170",
+      "slug": "richer-london-nao-may",
+      "provider": "Richer Education · NAO V6 May Half-Term",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "9–17 años según la ficha del programa.",
+      "programme": "Programación de movimientos y comportamiento del humanoide NAO V6.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-05-25",
+            "2027-05-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v16435",
+            "start": "2027-05-25",
+            "end": "2027-05-28",
+            "label": "NAO V6 May Half-Term",
+            "price": "GBP 850 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-may-half-term/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 850,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 850 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-may-half-term/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-05-25",
+          "end": "2027-05-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2170-20270525-20270528-v16435"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2171",
+      "slug": "richer-london-bionic-summer",
+      "provider": "Richer Education · Bionic Robotics Summer",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "9–17 años según la ficha del programa.",
+      "programme": "Itinerario de robótica biónica de verano. La organización puede elegir NAO V6 o un robot cuadrúpedo para las sesiones.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v23499",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23500",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23501",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23502",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23503",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23504",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23505",
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 995 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23506",
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Bionic Robotics Summer",
+            "price": "GBP 950 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 950–995 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270628-20270702-v23499"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270705-20270709-v23500"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270712-20270716-v23501"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270719-20270723-v23502"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270726-20270730-v23503"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270802-20270806-v23504"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270809-20270813-v23505"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2171-20270816-20270820-v23506"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2172",
+      "slug": "richer-london-coding-summer",
+      "provider": "Richer Education · Coding & Robotics Summer",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "9–14 años según la ficha del programa.",
+      "programme": "Curso práctico de verano de programación y robótica para escolares.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-23",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v23514",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23513",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23512",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23511",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23510",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23509",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23508",
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23507",
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 750 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v22076",
+            "start": "2027-08-23",
+            "end": "2027-08-27",
+            "label": "Coding & Robotics Summer",
+            "price": "GBP 750 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:15",
+            "end_time": "15:15",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 750–799 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Londres, 09:15–15:15. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270628-20270702-v23514"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270705-20270709-v23513"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270712-20270716-v23512"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270719-20270723-v23511"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270726-20270730-v23510"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270802-20270806-v23509"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270809-20270813-v23508"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270816-20270820-v23507"
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2172-20270823-20270827-v22076"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2173",
+      "slug": "richer-london-science-february",
+      "provider": "Richer Education · Science February Half-Term",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "4–8 años según la ficha del programa.",
+      "programme": "Experimentos científicos diurnos y actividades prácticas para el grupo menor.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v14950",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Science February Half-Term",
+            "price": "GBP 650 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/science-february-half-term/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 650,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 650 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/science-february-half-term/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2173-20270215-20270219-v14950"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2174",
+      "slug": "richer-london-steam-easter",
+      "provider": "Richer Education · STEAM Easter",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "4–8 años según la ficha del programa.",
+      "programme": "Proyectos prácticos de ciencia, tecnología, ingeniería y creatividad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v23078",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "STEAM Easter",
+            "price": "GBP 599 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v22290",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "STEAM Easter",
+            "price": "GBP 650 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v15199",
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "STEAM Easter",
+            "price": "GBP 650 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Imperial College London · Exhibition Road · South Kensington, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 599–650 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/steam-easter-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2174-20270330-20270402-v23078"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2174-20270405-20270409-v22290"
+          ]
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2174-20270412-20270416-v15199"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2175",
+      "slug": "richer-london-steam-summer",
+      "provider": "Richer Education · STEAM Summer",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "4–8 años según la ficha del programa.",
+      "programme": "Proyectos prácticos de ciencia, tecnología, ingeniería y creatividad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-23",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v23583",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23582",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23581",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23580",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23579",
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23578",
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v22825",
+            "start": "2027-08-23",
+            "end": "2027-08-27",
+            "label": "STEAM Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 799,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 799 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270712-20270716-v23583"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270719-20270723-v23582"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270726-20270730-v23581"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270802-20270806-v23580"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270809-20270813-v23579"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270816-20270820-v23578"
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2175-20270823-20270827-v22825"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2176",
+      "slug": "richer-london-science-summer",
+      "provider": "Richer Education · Science Summer",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "4–8 años según la ficha del programa.",
+      "programme": "Experimentos científicos diurnos y actividades prácticas para el grupo menor.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "v23576",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Science Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23575",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Science Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23574",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Science Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          },
+          {
+            "variant_key": "v23573",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Science Summer",
+            "price": "GBP 799 por el turno elegido.",
+            "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "More House School · 22–24 Pont Street · Knightsbridge, London",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "entry": "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "questions": [
+              "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+              "Traer almuerzo, aperitivos y agua."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 799,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "GBP 799 por el turno elegido.",
+        "included": "Traer almuerzo, aperitivos y agua.",
+        "extras": "Cotejar importe final y servicios opcionales antes de pagar.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Londres, 09:00–15:00. Fechas y sedes según las opciones publicadas por la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar disponibilidad, edificio e idioma del grupo elegido.",
+        "Traer almuerzo, aperitivos y agua.",
+        "Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2176-20270712-20270716-v23576"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2176-20270719-20270723-v23575"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2176-20270726-20270730-v23574"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2176-20270802-20270806-v23573"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2177",
+      "slug": "kidsapia-mississauga-march-break",
+      "provider": "Kidsapia · Young Engineers March Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Mississauga",
+      "age": "Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.",
+      "programme": "Programa vacacional Young Engineers con robots y modelos mecánicos.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "announced_months": [
+          "2027-03"
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Confirmar con la organización modalidad y condiciones de supervisión.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior."
+        }
+      },
+      "editorial_reason": "Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.",
+        "Pendiente confirmar fechas exactas, tarifa y disponibilidad.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://kidsapia.ca/kidsapia-robotic-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "holiday_programme_announcement",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [
+        "L918"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2178",
+      "slug": "ai-kids-club-alicante-easter",
+      "provider": "AI Kids Club Alicante · Semana Santa",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Alicante",
+      "age": "El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.",
+      "programme": "Los niños trabajan en un proyecto propio con herramientas de IA. Confirmar el programa del grupo de Semana Santa.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "La información del campamento está publicada en español. Pendiente confirmar idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Confirmar con la organización modalidad y condiciones de supervisión.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el límite de edad del turno. Si el mínimo es 7 años, cuenta la edad en la fecha de inicio."
+        }
+      },
+      "editorial_reason": "Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.",
+      "shortlist": [],
+      "questions": [
+        "El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.",
+        "Pendiente confirmar fechas exactas, tarifa y disponibilidad.",
+        "La información del campamento está publicada en español. Pendiente confirmar idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://aikidsclub.org/es",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "programme_type": "holiday_programme_announcement",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [
+        "L919"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -384726,7 +387672,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 324,
+  "version": 325,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -397961,7 +400907,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2164,
+      "total_dossiers": 2178,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -422151,6 +425097,216 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2165",
+      "event_id": "CP2165-20270315-20270319-marchbreak",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2166",
+      "event_id": "CP2166-20270315-20270319-marchbreak",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2167",
+      "event_id": "CP2167-20270315-20270319-marchbreak",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2168",
+      "event_id": "CP2168-20270215-20270219-v16421",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2169",
+      "event_id": "CP2169-20270330-20270402-v22450",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2169",
+      "event_id": "CP2169-20270405-20270409-v22287",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2169",
+      "event_id": "CP2169-20270412-20270416-v16430",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2170",
+      "event_id": "CP2170-20270525-20270528-v16435",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270628-20270702-v23499",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270705-20270709-v23500",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270712-20270716-v23501",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270719-20270723-v23502",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270726-20270730-v23503",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270802-20270806-v23504",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270809-20270813-v23505",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2171",
+      "event_id": "CP2171-20270816-20270820-v23506",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270628-20270702-v23514",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270705-20270709-v23513",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270712-20270716-v23512",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270719-20270723-v23511",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270726-20270730-v23510",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270802-20270806-v23509",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270809-20270813-v23508",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270816-20270820-v23507",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2172",
+      "event_id": "CP2172-20270823-20270827-v22076",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2173",
+      "event_id": "CP2173-20270215-20270219-v14950",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2174",
+      "event_id": "CP2174-20270330-20270402-v23078",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2174",
+      "event_id": "CP2174-20270405-20270409-v22290",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2174",
+      "event_id": "CP2174-20270412-20270416-v15199",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270712-20270716-v23583",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270719-20270723-v23582",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270726-20270730-v23581",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270802-20270806-v23580",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270809-20270813-v23579",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270816-20270820-v23578",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2175",
+      "event_id": "CP2175-20270823-20270827-v22825",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2176",
+      "event_id": "CP2176-20270712-20270716-v23576",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2176",
+      "event_id": "CP2176-20270719-20270723-v23575",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2176",
+      "event_id": "CP2176-20270726-20270730-v23574",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2176",
+      "event_id": "CP2176-20270802-20270806-v23573",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2177",
+      "event_id": "L918",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2178",
+      "event_id": "L919",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -427109,10 +430265,50 @@
     "CP2163-20261208-20261208-20261208",
     "CP2163-20270217-20270217-20270217",
     "CP2163-20270317-20270317-20270317",
-    "CP2164-20270119-20270119-jan19"
+    "CP2164-20270119-20270119-jan19",
+    "CP2165-20270315-20270319-marchbreak",
+    "CP2166-20270315-20270319-marchbreak",
+    "CP2167-20270315-20270319-marchbreak",
+    "CP2168-20270215-20270219-v16421",
+    "CP2169-20270330-20270402-v22450",
+    "CP2169-20270405-20270409-v22287",
+    "CP2169-20270412-20270416-v16430",
+    "CP2170-20270525-20270528-v16435",
+    "CP2171-20270628-20270702-v23499",
+    "CP2171-20270705-20270709-v23500",
+    "CP2171-20270712-20270716-v23501",
+    "CP2171-20270719-20270723-v23502",
+    "CP2171-20270726-20270730-v23503",
+    "CP2171-20270802-20270806-v23504",
+    "CP2171-20270809-20270813-v23505",
+    "CP2171-20270816-20270820-v23506",
+    "CP2172-20270628-20270702-v23514",
+    "CP2172-20270705-20270709-v23513",
+    "CP2172-20270712-20270716-v23512",
+    "CP2172-20270719-20270723-v23511",
+    "CP2172-20270726-20270730-v23510",
+    "CP2172-20270802-20270806-v23509",
+    "CP2172-20270809-20270813-v23508",
+    "CP2172-20270816-20270820-v23507",
+    "CP2172-20270823-20270827-v22076",
+    "CP2173-20270215-20270219-v14950",
+    "CP2174-20270330-20270402-v23078",
+    "CP2174-20270405-20270409-v22290",
+    "CP2174-20270412-20270416-v15199",
+    "CP2175-20270712-20270716-v23583",
+    "CP2175-20270719-20270723-v23582",
+    "CP2175-20270726-20270730-v23581",
+    "CP2175-20270802-20270806-v23580",
+    "CP2175-20270809-20270813-v23579",
+    "CP2175-20270816-20270820-v23578",
+    "CP2175-20270823-20270827-v22825",
+    "CP2176-20270712-20270716-v23576",
+    "CP2176-20270719-20270723-v23575",
+    "CP2176-20270726-20270730-v23574",
+    "CP2176-20270802-20270806-v23573"
   ],
   "integration": {
-    "generated_sessions": 4548,
+    "generated_sessions": 4588,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

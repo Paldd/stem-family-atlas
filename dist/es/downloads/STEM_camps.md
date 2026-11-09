@@ -13462,6 +13462,38 @@ Limitaciones: El programa está publicado. Pendiente cotejar con el horario la f
 Fuente: https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary
 Se ha comprobado: 2026-11-08
 
+### L918 · Kidsapia · Young Engineers March Break 2027
+
+lugar: Canadá · Mississauga
+Fecha: Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.
+edad: Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Formato: unconfirmed_program
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Se anuncia March Break 2027. La organización prevé abrir la inscripción en enero de 2027. Confirmar días y precio.
+Limitaciones: Confirmar edad para el turno de primavera. La misma página indica 4–10 años para el programa de verano anterior.
+Fuente: https://kidsapia.ca/kidsapia-robotic-camps/
+Se ha comprobado: 2026-11-08
+
+### L919 · AI Kids Club Alicante · Semana Santa 2027
+
+lugar: España · Alicante
+Fecha: Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.
+edad: El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar el límite de edad del turno. Si el mínimo es 7 años, cuenta la edad en la fecha de inicio.
+Formato: unconfirmed_program
+Idioma: La información del campamento está publicada en español. Pendiente confirmar idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar días, dirección y precio.
+Limitaciones: El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
+Fuente: https://aikidsclub.org/es
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -86228,6 +86260,646 @@ Precio: 2027 · AUD 150 por niño y día. · suplementos y condiciones en el dos
 Acceso: Confirmar plaza, edad e idioma docente.
 Limitaciones: Matvey: Encaja por edad. La organización espera familiaridad con el juego. Oscar: Encaja por edad. La organización espera familiaridad con el juego. Suplementos: Confirmar plaza, edad e idioma docente. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G
+Se ha comprobado: 2026-11-08
+
+### CP2165-20270315-20270319-marchbreak · OAKLearning · Robotics March Break · Level 1 · Level 1 · 2027-03-15–2027-03-19
+
+lugar: Canadá · OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+Fecha: 2027-03-15 — 2027-03-19
+edad: 4–8 años en el grupo Level 1.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · CAD 425 por niño y semana. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://oaklearningcenter.com/robotics-march-break-in-oakville/
+Se ha comprobado: 2026-11-08
+
+### CP2166-20270315-20270319-marchbreak · OAKLearning · Robotics March Break · Level 2 · Level 2 · 2027-03-15–2027-03-19
+
+lugar: Canadá · OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville
+Fecha: 2027-03-15 — 2027-03-19
+edad: 9–13 años en el grupo Level 2.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · CAD 425 por niño y semana. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: La acogida de 15:30 a 18:00 cuesta CAD 95 por niño y semana y se contrata aparte. Confirmar impuestos, comisiones y descuento para hermanos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://oaklearningcenter.com/robotics-march-break-in-oakville/
+Se ha comprobado: 2026-11-08
+
+### CP2167-20270315-20270319-marchbreak · Access Alliance · Kids Robotics March Break · Kids Robotics · 2027-03-15–2027-03-19
+
+lugar: Canadá · AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto
+Fecha: 2027-03-15 — 2027-03-19
+edad: 8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Hace falta inscripción previa. Confirmar requisitos para recién llegados, coste e idioma.
+Limitaciones: Matvey: 8–12 años. Programa para familias recién llegadas a Canadá. Confirmar los requisitos locales de admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/
+Se ha comprobado: 2026-11-08
+
+### CP2168-20270215-20270219-v16421 · Richer Education · NAO V6 February Half-Term · NAO V6 February Half-Term · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-02-15 国 2027-02-19
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 899 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-february-half-term/
+Se ha comprobado: 2026-11-08
+
+### CP2169-20270330-20270402-v22450 · Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-03-30–2027-04-02
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-03-30 - 2027-04-02
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 880 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2169-20270405-20270409-v22287 · Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-04-05 — 2027-04-09
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 880 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2169-20270412-20270416-v16430 · Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-04-12–2027-04-16
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-04-12 — 2027-04-16
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 899 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2170-20270525-20270528-v16435 · Richer Education · NAO V6 May Half-Term · NAO V6 May Half-Term · 2027-05-25–2027-05-28
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-05-25 — 2027-05-28
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 850 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-may-half-term/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270628-20270702-v23499 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-06-28–2027-07-02
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-06-28 — 2027-07-02
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270705-20270709-v23500 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-05–2027-07-09
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-05 - 2027-07-09
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270712-20270716-v23501 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-12 — 2027-07-16
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270719-20270723-v23502 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-19 国 2027-07-23
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270726-20270730-v23503 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270802-20270806-v23504 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-08-02 - 2027-08-06
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270809-20270813-v23505 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-09–2027-08-13
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-08-09 — 2027-08-13
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 995 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2171-20270816-20270820-v23506 · Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-16–2027-08-20
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-16 — 2027-08-20
+edad: 9–17 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 950 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270628-20270702-v23514 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-06-28–2027-07-02
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-06-28 — 2027-07-02
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270705-20270709-v23513 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-05–2027-07-09
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-05 - 2027-07-09
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270712-20270716-v23512 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-12 — 2027-07-16
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270719-20270723-v23511 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-19 国 2027-07-23
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270726-20270730-v23510 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270802-20270806-v23509 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-08-02 - 2027-08-06
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270809-20270813-v23508 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-09–2027-08-13
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-08-09 — 2027-08-13
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270816-20270820-v23507 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-16–2027-08-20
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-16 — 2027-08-20
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 750 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2172-20270823-20270827-v22076 · Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-23–2027-08-27
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-23 — 2027-08-27
+edad: 9–14 años según la ficha del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 750 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: Encaja por edad. Confirmar plaza e idioma docente. Oscar: No cumple la edad mínima de este grupo. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2173-20270215-20270219-v14950 · Richer Education · Science February Half-Term · Science February Half-Term · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-02-15 国 2027-02-19
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 650 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/science-february-half-term/
+Se ha comprobado: 2026-11-08
+
+### CP2174-20270330-20270402-v23078 · Richer Education · STEAM Easter · STEAM Easter · 2027-03-30–2027-04-02
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-03-30 - 2027-04-02
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 599 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/steam-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2174-20270405-20270409-v22290 · Richer Education · STEAM Easter · STEAM Easter · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-04-05 — 2027-04-09
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 650 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/steam-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2174-20270412-20270416-v15199 · Richer Education · STEAM Easter · STEAM Easter · 2027-04-12–2027-04-16
+
+lugar: Reino Unido · Imperial College London · Exhibition Road · South Kensington, London
+Fecha: 2027-04-12 — 2027-04-16
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 650 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/steam-easter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270712-20270716-v23583 · Richer Education · STEAM Summer · STEAM Summer · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-12 — 2027-07-16
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270719-20270723-v23582 · Richer Education · STEAM Summer · STEAM Summer · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-19 国 2027-07-23
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270726-20270730-v23581 · Richer Education · STEAM Summer · STEAM Summer · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270802-20270806-v23580 · Richer Education · STEAM Summer · STEAM Summer · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-02 - 2027-08-06
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270809-20270813-v23579 · Richer Education · STEAM Summer · STEAM Summer · 2027-08-09–2027-08-13
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-09 — 2027-08-13
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270816-20270820-v23578 · Richer Education · STEAM Summer · STEAM Summer · 2027-08-16–2027-08-20
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-16 — 2027-08-20
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2175-20270823-20270827-v22825 · Richer Education · STEAM Summer · STEAM Summer · 2027-08-23–2027-08-27
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-23 — 2027-08-27
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-steam-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2176-20270712-20270716-v23576 · Richer Education · Science Summer · Science Summer · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-12 — 2027-07-16
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-science-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2176-20270719-20270723-v23575 · Richer Education · Science Summer · Science Summer · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-19 国 2027-07-23
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-science-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2176-20270726-20270730-v23574 · Richer Education · Science Summer · Science Summer · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-science-summer-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2176-20270802-20270806-v23573 · Richer Education · Science Summer · Science Summer · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · Knightsbridge, London
+Fecha: 2027-08-02 - 2027-08-06
+edad: 4–8 años según la ficha del programa.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Las condiciones incluyen requisitos de nivel de inglés para algunos cursos. Confirmar idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · GBP 799 por el turno elegido. · suplementos y condiciones en el dossier
+Acceso: Confirmar disponibilidad, edificio e idioma del grupo elegido.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Encaja por edad. Confirmar plaza e idioma docente. Suplementos: Cotejar importe final y servicios opcionales antes de pagar. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.richereducation.co.uk/face-to-face-science-summer-camp/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

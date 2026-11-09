@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5465,
-      "holiday": 4911,
+      "records": 5507,
+      "holiday": 4950,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -49264,6 +49264,114 @@
       "language_roles": {
         "instruction": [
           "EN"
+        ]
+      }
+    },
+    {
+      "id": "L918",
+      "title": "Kidsapia · Young Engineers March Break 2027",
+      "block": "Лагеря",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "iso": [
+        "CAN"
+      ],
+      "city": "Mississauga",
+      "start": "",
+      "end": "",
+      "period": "March Break 2027 анонсирован. Организатор планирует открыть запись в январе 2027. Дни и цену уточнить.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://kidsapia.ca/kidsapia-robotic-camps/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Возраст на весеннюю смену уточнить. На этой же странице для прошедшей летней программы указано 4–10 лет.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "format": "Формат и условия присмотра уточнить у организатора.",
+      "entry": "March Break 2027 анонсирован. Организатор планирует открыть запись в январе 2027. Дни и цену уточнить.",
+      "gear": "",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Точные даты, тариф и наличие мест ещё нужно подтвердить.",
+      "note": "Возраст на весеннюю смену уточнить. На этой же странице для прошедшей летней программы указано 4–10 лет.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "unconfirmed_program",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "date_precision": "month",
+      "announced_months": [
+        "2027-03"
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "L919",
+      "title": "AI Kids Club Alicante · Semana Santa 2027",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Alicante",
+      "start": "",
+      "end": "",
+      "period": "Пасхальные каникулы 2027 в Аликанте заявлены. Точные дни, адрес и цену уточнить.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://aikidsclub.org/es",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "В общей форме есть группы 7–14 лет. Возраст для пасхальной смены уточнить.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Уточнить возрастную границу смены. Если минимум 7 лет, важен возраст на дату начала.",
+      "format": "Дети работают над собственным проектом с инструментами ИИ. Программу пасхальной группы уточнить.",
+      "entry": "Пасхальные каникулы 2027 в Аликанте заявлены. Точные дни, адрес и цену уточнить.",
+      "gear": "",
+      "language": "Сведения о лагере опубликованы на испанском. Язык конкретной группы ещё нужно подтвердить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Сведения о лагере опубликованы на испанском. Язык конкретной группы ещё нужно подтвердить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Точные даты, тариф и наличие мест ещё нужно подтвердить.",
+      "note": "В общей форме есть группы 7–14 лет. Возраст для пасхальной смены уточнить.",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "unconfirmed_program",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "language_roles": {
+        "materials": [
+          "ES"
         ]
       }
     },
@@ -453791,6 +453899,3297 @@
       "language_mode": "materials",
       "languages": [
         "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2165-20270315-20270319-marchbreak",
+      "block": "Лагеря",
+      "title": "OAKLearning · Robotics March Break · Level 1 · Level 1 · 2027-03-15–2027-03-19",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+      "start": "2027-03-15",
+      "end": "2027-03-19",
+      "period": "15–19 марта 2027, 08:30–15:30. Обе возрастные группы в одном центре.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет в группе Level 1.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Робототехника RoboRobo, сборка и программирование проектов. Предыдущий опыт не нужен.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · CAD 425 за ребёнка за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Продлёнка 15:30–18:00 стоит CAD 95 за ребёнка за неделю и записывается отдельно. Уточнить налоги, сборы и размер скидки для братьев.; Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+      "references": [
+        {
+          "url": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Продлёнка 15:30–18:00 стоит CAD 95 за ребёнка за неделю и записывается отдельно. Уточнить налоги, сборы и размер скидки для братьев. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "oaklearning-march-break-level-1",
+      "camp_programme_id": "CP2165",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-15",
+          "topic": "OAKLearning · Robotics March Break · Level 1",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-15T12:30:00Z",
+          "end_utc": "2027-03-15T19:30:00Z"
+        },
+        {
+          "date": "2027-03-16",
+          "topic": "OAKLearning · Robotics March Break · Level 1",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-16T12:30:00Z",
+          "end_utc": "2027-03-16T19:30:00Z"
+        },
+        {
+          "date": "2027-03-17",
+          "topic": "OAKLearning · Robotics March Break · Level 1",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-17T12:30:00Z",
+          "end_utc": "2027-03-17T19:30:00Z"
+        },
+        {
+          "date": "2027-03-18",
+          "topic": "OAKLearning · Robotics March Break · Level 1",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-18T12:30:00Z",
+          "end_utc": "2027-03-18T19:30:00Z"
+        },
+        {
+          "date": "2027-03-19",
+          "topic": "OAKLearning · Robotics March Break · Level 1",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-19T12:30:00Z",
+          "end_utc": "2027-03-19T19:30:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2166-20270315-20270319-marchbreak",
+      "block": "Лагеря",
+      "title": "OAKLearning · Robotics March Break · Level 2 · Level 2 · 2027-03-15–2027-03-19",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "OAKLearning Center · 483 Dundas St. W., Unit 215 · Oakville",
+      "start": "2027-03-15",
+      "end": "2027-03-19",
+      "period": "15–19 марта 2027, 08:30–15:30. Обе возрастные группы в одном центре.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–13 лет в группе Level 2.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Робототехника RoboRobo, сборка и программирование проектов. Предыдущий опыт не нужен.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · CAD 425 за ребёнка за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Продлёнка 15:30–18:00 стоит CAD 95 за ребёнка за неделю и записывается отдельно. Уточнить налоги, сборы и размер скидки для братьев.; Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "source": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+      "references": [
+        {
+          "url": "https://oaklearningcenter.com/robotics-march-break-in-oakville/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Продлёнка 15:30–18:00 стоит CAD 95 за ребёнка за неделю и записывается отдельно. Уточнить налоги, сборы и размер скидки для братьев. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "oaklearning-march-break-level-2",
+      "camp_programme_id": "CP2166",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-15",
+          "topic": "OAKLearning · Robotics March Break · Level 2",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-15T12:30:00Z",
+          "end_utc": "2027-03-15T19:30:00Z"
+        },
+        {
+          "date": "2027-03-16",
+          "topic": "OAKLearning · Robotics March Break · Level 2",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-16T12:30:00Z",
+          "end_utc": "2027-03-16T19:30:00Z"
+        },
+        {
+          "date": "2027-03-17",
+          "topic": "OAKLearning · Robotics March Break · Level 2",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-17T12:30:00Z",
+          "end_utc": "2027-03-17T19:30:00Z"
+        },
+        {
+          "date": "2027-03-18",
+          "topic": "OAKLearning · Robotics March Break · Level 2",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-18T12:30:00Z",
+          "end_utc": "2027-03-18T19:30:00Z"
+        },
+        {
+          "date": "2027-03-19",
+          "topic": "OAKLearning · Robotics March Break · Level 2",
+          "start_time": "08:30",
+          "end_time": "15:30",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-19T12:30:00Z",
+          "end_utc": "2027-03-19T19:30:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2167-20270315-20270319-marchbreak",
+      "block": "Лагеря",
+      "title": "Access Alliance · Kids Robotics March Break · Kids Robotics · 2027-03-15–2027-03-19",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "AccessPoint on Jane · 761 Jane St., 2nd Floor · Toronto",
+      "start": "2027-03-15",
+      "end": "2027-03-19",
+      "period": "15–19 марта 2027, 14:00–16:00. Организатор отдельно опубликовал все пять занятий.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12 лет. Программа для семей, недавно приехавших в Канаду. Подтвердить местные условия приёма.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Предварительная запись обязательна. Уточнить требования к статусу newcomer, стоимость и язык.",
+      "gear": "Дневная мастерская по основам программирования и робототехники для детей.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · Полная стоимость и наличие мест ещё не подтверждены. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Предварительная запись обязательна. Уточнить требования к статусу newcomer, стоимость и язык.",
+      "source": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/",
+      "references": [
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-15/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-16/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-17/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-18/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://accessalliance.ca/event/kids-robotics-march-break-program-for-newcomers-ages-8-12/2027-03-19/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: 8–12 лет. Программа для семей, недавно приехавших в Канаду. Подтвердить местные условия приёма. Оскар: Нет по возрасту для этой группы. Доплаты: Полный счёт и условия возврата уточнить у организатора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "access-alliance-newcomer-robotics",
+      "camp_programme_id": "CP2167",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-15",
+          "topic": "Access Alliance · Kids Robotics March Break",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-15T18:00:00Z",
+          "end_utc": "2027-03-15T20:00:00Z"
+        },
+        {
+          "date": "2027-03-16",
+          "topic": "Access Alliance · Kids Robotics March Break",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-16T18:00:00Z",
+          "end_utc": "2027-03-16T20:00:00Z"
+        },
+        {
+          "date": "2027-03-17",
+          "topic": "Access Alliance · Kids Robotics March Break",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-17T18:00:00Z",
+          "end_utc": "2027-03-17T20:00:00Z"
+        },
+        {
+          "date": "2027-03-18",
+          "topic": "Access Alliance · Kids Robotics March Break",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-18T18:00:00Z",
+          "end_utc": "2027-03-18T20:00:00Z"
+        },
+        {
+          "date": "2027-03-19",
+          "topic": "Access Alliance · Kids Robotics March Break",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "America/Toronto",
+          "ical_timed": true,
+          "start_utc": "2027-03-19T18:00:00Z",
+          "end_utc": "2027-03-19T20:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2168-20270215-20270219-v16421",
+      "block": "Лагеря",
+      "title": "Richer Education · NAO V6 February Half-Term · NAO V6 February Half-Term · 2027-02-15–2027-02-19",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Программирование движений и поведения гуманоида NAO V6.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 899 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-nao-february",
+      "camp_programme_id": "CP2168",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2169-20270330-20270402-v22450",
+      "block": "Лагеря",
+      "title": "Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-03-30–2027-04-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Программирование движений и поведения гуманоида NAO V6.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 880 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-nao-easter",
+      "camp_programme_id": "CP2169",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2169-20270405-20270409-v22287",
+      "block": "Лагеря",
+      "title": "Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-04-05–2027-04-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Программирование движений и поведения гуманоида NAO V6.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 880 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-nao-easter",
+      "camp_programme_id": "CP2169",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2169-20270412-20270416-v16430",
+      "block": "Лагеря",
+      "title": "Richer Education · NAO V6 Easter · NAO V6 Easter · 2027-04-12–2027-04-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-04-12",
+      "end": "2027-04-16",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Программирование движений и поведения гуманоида NAO V6.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 899 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-nao-easter",
+      "camp_programme_id": "CP2169",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2170-20270525-20270528-v16435",
+      "block": "Лагеря",
+      "title": "Richer Education · NAO V6 May Half-Term · NAO V6 May Half-Term · 2027-05-25–2027-05-28",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-05-25",
+      "end": "2027-05-28",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Программирование движений и поведения гуманоида NAO V6.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 850 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/humanoid-robotics-may-half-term/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-may-half-term/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-nao-may",
+      "camp_programme_id": "CP2170",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270628-20270702-v23499",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-06-28–2027-07-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-06-28",
+      "end": "2027-07-02",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270705-20270709-v23500",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-05–2027-07-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-05",
+      "end": "2027-07-09",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270712-20270716-v23501",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270719-20270723-v23502",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270726-20270730-v23503",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270802-20270806-v23504",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270809-20270813-v23505",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-09–2027-08-13",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-08-09",
+      "end": "2027-08-13",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 995 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2171-20270816-20270820-v23506",
+      "block": "Лагеря",
+      "title": "Richer Education · Bionic Robotics Summer · Bionic Robotics Summer · 2027-08-16–2027-08-20",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-16",
+      "end": "2027-08-20",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–17 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний трек бионической робототехники. Организатор может выбрать NAO V6 или четвероногого робота для занятий.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 950 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-bionic-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-bionic-summer",
+      "camp_programme_id": "CP2171",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270628-20270702-v23514",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-06-28–2027-07-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-06-28",
+      "end": "2027-07-02",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270705-20270709-v23513",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-05–2027-07-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-05",
+      "end": "2027-07-09",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270712-20270716-v23512",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270719-20270723-v23511",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270726-20270730-v23510",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270802-20270806-v23509",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270809-20270813-v23508",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-09–2027-08-13",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-08-09",
+      "end": "2027-08-13",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270816-20270820-v23507",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-16–2027-08-20",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-16",
+      "end": "2027-08-20",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 750 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2172-20270823-20270827-v22076",
+      "block": "Лагеря",
+      "title": "Richer Education · Coding & Robotics Summer · Coding & Robotics Summer · 2027-08-23–2027-08-27",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-23",
+      "end": "2027-08-27",
+      "period": "Лондон, 09:15–15:15. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–14 лет по карточке программы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Летний практический курс программирования и робототехники для школьников.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 750 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-coding-and-robotics-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Подходит по возрасту. Подтвердить место и язык преподавателя. Оскар: Нет по возрасту для этой группы. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-coding-summer",
+      "camp_programme_id": "CP2172",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2173-20270215-20270219-v14950",
+      "block": "Лагеря",
+      "title": "Richer Education · Science February Half-Term · Science February Half-Term · 2027-02-15–2027-02-19",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Дневные научные опыты и практические задания для младшей группы.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 650 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/science-february-half-term/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/science-february-half-term/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-science-february",
+      "camp_programme_id": "CP2173",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2174-20270330-20270402-v23078",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Easter · STEAM Easter · 2027-03-30–2027-04-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 599 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/steam-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-easter",
+      "camp_programme_id": "CP2174",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2174-20270405-20270409-v22290",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Easter · STEAM Easter · 2027-04-05–2027-04-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 650 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/steam-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-easter",
+      "camp_programme_id": "CP2174",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2174-20270412-20270416-v15199",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Easter · STEAM Easter · 2027-04-12–2027-04-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Imperial College London · Exhibition Road · South Kensington, London",
+      "start": "2027-04-12",
+      "end": "2027-04-16",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 650 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/steam-easter-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/steam-easter-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-easter",
+      "camp_programme_id": "CP2174",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270712-20270716-v23583",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270719-20270723-v23582",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270726-20270730-v23581",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270802-20270806-v23580",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270809-20270813-v23579",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-08-09–2027-08-13",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-09",
+      "end": "2027-08-13",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270816-20270820-v23578",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-08-16–2027-08-20",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-16",
+      "end": "2027-08-20",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2175-20270823-20270827-v22825",
+      "block": "Лагеря",
+      "title": "Richer Education · STEAM Summer · STEAM Summer · 2027-08-23–2027-08-27",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-23",
+      "end": "2027-08-27",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Практические проекты по науке, технологиям, инженерии и творчеству.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-steam-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-steam-summer",
+      "camp_programme_id": "CP2175",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2176-20270712-20270716-v23576",
+      "block": "Лагеря",
+      "title": "Richer Education · Science Summer · Science Summer · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Дневные научные опыты и практические задания для младшей группы.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-science-summer",
+      "camp_programme_id": "CP2176",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2176-20270719-20270723-v23575",
+      "block": "Лагеря",
+      "title": "Richer Education · Science Summer · Science Summer · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Дневные научные опыты и практические задания для младшей группы.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-science-summer",
+      "camp_programme_id": "CP2176",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2176-20270726-20270730-v23574",
+      "block": "Лагеря",
+      "title": "Richer Education · Science Summer · Science Summer · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Дневные научные опыты и практические задания для младшей группы.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-science-summer",
+      "camp_programme_id": "CP2176",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2176-20270802-20270806-v23573",
+      "block": "Лагеря",
+      "title": "Richer Education · Science Summer · Science Summer · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "More House School · 22–24 Pont Street · Knightsbridge, London",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Лондон, 09:00–15:00. Даты и кампусы показаны по доступным вариантам организатора.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–8 лет по карточке программы.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Проверить наличие мест, текущий корпус и язык выбранной группы.",
+      "gear": "Дневные научные опыты и практические задания для младшей группы.",
+      "language": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "cost": "2027 · GBP 799 за выбранную смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить наличие мест, текущий корпус и язык выбранной группы.; Обед, перекусы и воду нужно принести с собой.",
+      "source": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+      "references": [
+        {
+          "url": "https://www.richereducation.co.uk/face-to-face-science-summer-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.richereducation.co.uk/tc/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше верхней границы группы. Оскар: Подходит по возрасту. Подтвердить место и язык преподавателя. Доплаты: Перепроверить финальный счёт и дополнительные услуги перед оплатой. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы на английском. В условиях есть требования к уровню английского для ряда курсов. Уточнить язык конкретной группы.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "richer-london-science-summer",
+      "camp_programme_id": "CP2176",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
       ],
       "delivery_mode": "in_person",
       "availability": {
