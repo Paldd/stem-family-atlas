@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5345,
-      "holiday": 4835,
-      "regular": 201,
+      "records": 5355,
+      "holiday": 4841,
+      "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1637,
@@ -40602,7 +40602,7 @@
       "city": "Sede por confirmar",
       "start": "",
       "end": "",
-      "period": "Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.",
+      "period": "Anunciado para diciembre de 2026. Duración de 2 semanas. Confirmar días, sede e inscripción.",
       "deadline": "",
       "date_status": "Anunciado",
       "checked": "2026-11-08",
@@ -40615,22 +40615,22 @@
       ],
       "proof": "Cotejado con la página oficial y las condiciones publicadas.",
       "status": "Idea",
-      "age": "6–18 años.",
-      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
-      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "age": "6–18 años según la página del programa.",
+      "mat": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
+      "osc": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
       "format": "Montaje de robots, programación y proyectos científicos. El programa de Fundi Bots tiene grupos de 6–7 y 8–9 años. Confirmar los grupos de diciembre.",
       "entry": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.",
       "gear": "",
-      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
       "cost": "La tarifa de 2026 no está publicada.",
       "level": "Programa formativo técnico",
       "reward": "",
       "priority": "P3 — confirmar condiciones",
       "action": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.",
-      "note": "Formato y sede pendientes.",
+      "note": "La edad y el período corresponden al campamento infantil. La cuota del programa juvenil contiguo se verifica por separado.",
       "themes": [
         "robotics",
         "coding",
@@ -40646,7 +40646,12 @@
       "announced_months": [
         "2026-12"
       ],
-      "registration_status": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad."
+      "registration_status": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "L782",
@@ -47315,6 +47320,356 @@
       "related_ids": [
         "E295"
       ]
+    },
+    {
+      "id": "L885",
+      "title": "TangNest · Robotics & Coding Lab",
+      "block": "Campamentos",
+      "country": "Ruanda",
+      "region": "África",
+      "iso": [
+        "RWA"
+      ],
+      "city": "TangNest Lab · Kigali",
+      "start": "",
+      "end": "",
+      "period": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lms.tangnest.rw/our-stem-program/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "mat": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Práctica presencial con robots y código. 3 horas cada fin de semana.",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "75000 RWF al mes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "tangnest-kigali-lab",
+      "camp_programme_id": "CP2126",
+      "related_ids": [
+        "L886",
+        "L887"
+      ]
+    },
+    {
+      "id": "L886",
+      "title": "TangNest · Computer Science & Virtual Robotics",
+      "block": "Campamentos",
+      "country": "Ruanda",
+      "region": "África",
+      "iso": [
+        "RWA"
+      ],
+      "city": "TangNest Lab · Kigali",
+      "start": "",
+      "end": "",
+      "period": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lms.tangnest.rw/our-stem-program/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "mat": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Sesiones en línea y VEX VR. Los laboratorios presenciales de diciembre y abril se anuncian sin fechas.",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "47500 RWF al mes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "delivery_mode": "hybrid",
+      "camp_dossier_slug": "tangnest-kigali-hybrid",
+      "camp_programme_id": "CP2127",
+      "related_ids": [
+        "L885",
+        "L887"
+      ]
+    },
+    {
+      "id": "L887",
+      "title": "TangNest · Computational Thinking with Scratch",
+      "block": "Campamentos",
+      "country": "Ruanda",
+      "region": "África",
+      "iso": [
+        "RWA"
+      ],
+      "city": "TangNest Lab · Kigali",
+      "start": "",
+      "end": "",
+      "period": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lms.tangnest.rw/our-stem-program/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "mat": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Proyectos en línea con Scratch, juegos, animaciones e historias interactivas.",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "19500 RWF al mes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "tangnest-kigali-scratch",
+      "camp_programme_id": "CP2128",
+      "related_ids": [
+        "L885",
+        "L886",
+        "L888"
+      ]
+    },
+    {
+      "id": "L888",
+      "title": "TangNest · Scratch Foundations · free online mini-course",
+      "block": "Campamentos",
+      "country": "Ruanda",
+      "region": "África",
+      "iso": [
+        "RWA"
+      ],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lms.tangnest.rw/courses/create-scratch-account/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "9–12 años. Se requiere comprender instrucciones en inglés.",
+      "mat": "Sí por edad para el minicurso autónomo.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Materiales en inglés para estudiar el editor de Scratch y un primer proyecto por cuenta propia.",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Las instrucciones del curso están en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Acceso gratuito al minicurso.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "La práctica requiere cuenta de Scratch. La familia revisa los datos del menor y las condiciones de la cuenta.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "related_ids": [
+        "L887"
+      ]
+    },
+    {
+      "id": "L889",
+      "title": "AfriKoda Kigali · school robotics and AI pilots 2027",
+      "block": "Campamentos",
+      "country": "Ruanda",
+      "region": "África",
+      "iso": [
+        "RWA"
+      ],
+      "city": "Kigali",
+      "start": "",
+      "end": "",
+      "period": "Lanzamiento anunciado para enero de 2027. Las fechas concretas de grupos vacacionales se acuerdan con el centro.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://afrikoda.com/rwanda",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Franja principal de 8–16 años. El centro acuerda las condiciones de su piloto.",
+      "mat": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Piloto a través del centro educativo. Aún no se confirman inscripción directa a un turno ni tarifa.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L890",
+      "title": "Lab Zero · Nairobi Tech Week · December 2026",
+      "block": "Campamentos",
+      "country": "Kenia",
+      "region": "África",
+      "iso": [
+        "KEN"
+      ],
+      "city": "Nairobi",
+      "start": "",
+      "end": "",
+      "period": "Diciembre de 2026. Se anuncia una semana. Aún faltan los días exactos.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://thelabzero.com/events/kenya",
+      "references": [
+        {
+          "url": "https://thelabzero.com/events",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Confirmar edad, precio, sede e idioma de instrucción con la organización.",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "CP001-20270606-20270619",
@@ -443502,6 +443857,306 @@
         "status": "unconfirmed",
         "label": "La página invita a inscribirse. Confirmar la plaza en el grupo."
       }
+    },
+    {
+      "id": "CP2123-20261214-20261218-claremont",
+      "block": "Campamentos",
+      "title": "STEMLab · December · Claremont · Claremont · 2026-12-14–2026-12-18",
+      "country": "Sudáfrica",
+      "region": "África",
+      "city": "Cavendish Place · 12 Cavendish Street · Claremont",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La página del turno de diciembre no indica su franja de edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · 2990 ZAR por participante. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://stemlab.co.za/holiday-camp/",
+      "references": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar grupo de edad, idioma y plaza para el menor. Oscar: Confirmar grupo de edad, idioma y plaza para el menor. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "ZAF"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stemlab-december-claremont",
+      "camp_programme_id": "CP2123",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2124-20261214-20261218-tygervalley",
+      "block": "Campamentos",
+      "title": "STEMLab · December · Tygervalley · Tygervalley · 2026-12-14–2026-12-18",
+      "country": "Sudáfrica",
+      "region": "África",
+      "city": "Golden Isle Building · 281 Durban Road · Tygervalley",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La página del turno de diciembre no indica su franja de edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2026/27 · 2990 ZAR por participante. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://stemlab.co.za/holiday-camp/",
+      "references": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar grupo de edad, idioma y plaza para el menor. Oscar: Confirmar grupo de edad, idioma y plaza para el menor. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "ZAF"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stemlab-december-tygervalley",
+      "camp_programme_id": "CP2124",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2125-20270406-20270410-easter",
+      "block": "Campamentos",
+      "title": "NARADA STEM Kids Academy · Explorers Holiday · Easter · Robotics Challenge · 2027-04-06–2027-04-10",
+      "country": "Ruanda",
+      "region": "África",
+      "city": "Kigali de la Salle School · Kicukiro – Gahanga",
+      "start": "2027-04-06",
+      "end": "2027-04-10",
+      "period": "Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "L1 Explorers: 8–12 años. La edad se comprueba por nivel.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+      "gear": "Práctica de ingeniería con electrónica, robots, IoT y fabricación digital. El tema depende del turno.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2027 · L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.; Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://iotnaradaelectronics.rw/stem-academy/",
+      "references": [
+        {
+          "url": "https://iotnaradaelectronics.rw/stem-academy/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "RWA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "narada-kigali-explorers-holiday",
+      "camp_programme_id": "CP2125",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos."
+    },
+    {
+      "id": "CP2125-20271222-20271226-christmas",
+      "block": "Campamentos",
+      "title": "NARADA STEM Kids Academy · Explorers Holiday · Christmas · Smart Home Devices · 2027-12-22–2027-12-26",
+      "country": "Ruanda",
+      "region": "África",
+      "city": "Kigali de la Salle School · Kicukiro – Gahanga",
+      "start": "2027-12-22",
+      "end": "2027-12-26",
+      "period": "Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "L1 Explorers: 8–12 años. La edad se comprueba por nivel.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+      "gear": "Práctica de ingeniería con electrónica, robots, IoT y fabricación digital. El tema depende del turno.",
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "cost": "2027 · L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.; Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://iotnaradaelectronics.rw/stem-academy/",
+      "references": [
+        {
+          "url": "https://iotnaradaelectronics.rw/stem-academy/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "RWA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "narada-kigali-explorers-holiday",
+      "camp_programme_id": "CP2125",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos."
     },
     {
       "id": "L491",

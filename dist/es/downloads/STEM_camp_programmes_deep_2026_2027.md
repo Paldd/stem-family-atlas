@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2122 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-08. 2128 fichas en 137 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -167641,6 +167641,302 @@ Costa Rica · Blue Valley School · San José
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://barcaacademycampscostarica.com/camps-costa-rica/) · 2026-11-08
+
+## CP2123 · STEMLab · December · Claremont
+
+Sudáfrica · Cavendish Place · 12 Cavendish Street · Claremont
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La página del turno de diciembre no indica su franja de edad.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.
+
+**Precio / año:** 2026 · 2990 ZAR por participante.
+
+**Incluido:** Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar grupo de edad, idioma y plaza para el menor.
+
+**Oscar:** Confirmar grupo de edad, idioma y plaza para el menor.
+
+**Motivo de selección:** 14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Claremont
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 2990 ZAR por participante.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://stemlab.co.za/holiday-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stemlab.co.za/holiday-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://stemlab.co.za/holiday-camp-calendar/) · 2026-11-08
+
+## CP2124 · STEMLab · December · Tygervalley
+
+Sudáfrica · Golden Isle Building · 281 Durban Road · Tygervalley
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La página del turno de diciembre no indica su franja de edad.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.
+
+**Precio / año:** 2026 · 2990 ZAR por participante.
+
+**Incluido:** Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar grupo de edad, idioma y plaza para el menor.
+
+**Oscar:** Confirmar grupo de edad, idioma y plaza para el menor.
+
+**Motivo de selección:** 14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Tygervalley
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 2990 ZAR por participante.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://stemlab.co.za/holiday-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stemlab.co.za/holiday-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://stemlab.co.za/holiday-camp-calendar/) · 2026-11-08
+
+## CP2125 · NARADA STEM Kids Academy · Explorers Holiday
+
+Ruanda · Kigali de la Salle School · Kicukiro – Gahanga
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** L1 Explorers: 8–12 años. La edad se comprueba por nivel.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Práctica de ingeniería con electrónica, robots, IoT y fabricación digital. El tema depende del turno.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.
+
+**Precio / año:** 2027 · L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.
+
+**Incluido:** La tabla general indica refrigerio y almuerzo. Confirmar servicios en las fechas elegidas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Motivo de selección:** Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.
+
+### Antes de solicitar plaza
+
+- Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Easter · Robotics Challenge
+
+**Fechas / estado:** 2027-04-06 — 2027-04-10
+
+**Precio:** L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.
+
+**condiciones de participación:** Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+[fuente](https://iotnaradaelectronics.rw/stem-academy/)
+
+### Christmas · Smart Home Devices
+
+**Fechas / estado:** 2027-12-22 — 2027-12-26
+
+**Precio:** L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.
+
+**condiciones de participación:** Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+[fuente](https://iotnaradaelectronics.rw/stem-academy/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://iotnaradaelectronics.rw/stem-academy/) · 2026-11-08
+
+## CP2126 · TangNest · Robotics & Coding Lab
+
+Ruanda · TangNest Lab · Kigali
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años para el curso lectivo publicado.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Práctica presencial con robots y código. 3 horas cada fin de semana.
+
+**Alojamiento:** Curso formativo. El alojamiento y la logística familiar se gestionan aparte.
+
+**Fechas / estado:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+**Precio / año:** 2027 · 75000 RWF al mes.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Motivo de selección:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lms.tangnest.rw/our-stem-program/) · 2026-11-08
+
+## CP2127 · TangNest · Computer Science & Virtual Robotics
+
+Ruanda · TangNest Lab · Kigali
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años para el curso lectivo publicado.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Sesiones en línea y VEX VR. Los laboratorios presenciales de diciembre y abril se anuncian sin fechas.
+
+**Alojamiento:** Curso formativo. El alojamiento y la logística familiar se gestionan aparte.
+
+**Fechas / estado:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+**Precio / año:** 2027 · 47500 RWF al mes.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Motivo de selección:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lms.tangnest.rw/our-stem-program/) · 2026-11-08
+
+## CP2128 · TangNest · Computational Thinking with Scratch
+
+Ruanda · TangNest Lab · Kigali
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años para el curso lectivo publicado.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Proyectos en línea con Scratch, juegos, animaciones e historias interactivas.
+
+**Alojamiento:** Curso formativo. El alojamiento y la logística familiar se gestionan aparte.
+
+**Fechas / estado:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+**Precio / año:** 2027 · 19500 RWF al mes.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Motivo de selección:** Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lms.tangnest.rw/our-stem-program/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

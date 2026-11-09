@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2122,
-    "countries": 136,
+    "dossiers": 2128,
+    "countries": 137,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
       "published_2027": 570,
-      "partial_2027": 152,
+      "partial_2027": 153,
       "next_unannounced": 440,
-      "published_2026": 426,
+      "published_2026": 428,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 6,
+      "regular_2026_27": 9,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3028
+    "source_urls": 3032
   },
   "countries": [
     {
@@ -436,6 +436,10 @@
       "count": 14
     },
     {
+      "country": "Руанда",
+      "count": 4
+    },
+    {
       "country": "Сальвадор",
       "count": 5
     },
@@ -581,7 +585,7 @@
     },
     {
       "country": "Южная Африка",
-      "count": 2
+      "count": 4
     },
     {
       "country": "Южные земли (французская заморская территория)",
@@ -370986,6 +370990,640 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2123",
+      "slug": "stemlab-december-claremont",
+      "provider": "STEMLab · December · Claremont",
+      "country": "Южная Африка",
+      "iso": "ZAF",
+      "place": "Cavendish Place · 12 Cavendish Street · Claremont",
+      "age": "Возрастные границы декабрьской группы на странице смены не указаны.",
+      "programme": "Конструирование и программирование роботов, инженерные задачи, CAD и 3D-печать.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 декабря 2026, ежедневно 09:00–14:00 по Кейптауну.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "claremont",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Claremont",
+            "price": "2990 ZAR за ребёнка.",
+            "source": "https://stemlab.co.za/holiday-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2990,
+        "currency": "ZAR",
+        "unit": "за ребёнка",
+        "label": "2990 ZAR за ребёнка.",
+        "included": "Конструирование и программирование роботов, инженерные задачи, CAD и 3D-печать.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возрастную группу, язык и наличие места для ребёнка."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить возрастную группу, язык и наличие места для ребёнка."
+        }
+      },
+      "editorial_reason": "14–18 декабря 2026, ежедневно 09:00–14:00 по Кейптауну.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2123-20261214-20261218-claremont"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2124",
+      "slug": "stemlab-december-tygervalley",
+      "provider": "STEMLab · December · Tygervalley",
+      "country": "Южная Африка",
+      "iso": "ZAF",
+      "place": "Golden Isle Building · 281 Durban Road · Tygervalley",
+      "age": "Возрастные границы декабрьской группы на странице смены не указаны.",
+      "programme": "Конструирование и программирование роботов, инженерные задачи, CAD и 3D-печать.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 декабря 2026, ежедневно 09:00–14:00 по Кейптауну.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "tygervalley",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Tygervalley",
+            "price": "2990 ZAR за ребёнка.",
+            "source": "https://stemlab.co.za/holiday-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2990,
+        "currency": "ZAR",
+        "unit": "за ребёнка",
+        "label": "2990 ZAR за ребёнка.",
+        "included": "Конструирование и программирование роботов, инженерные задачи, CAD и 3D-печать.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возрастную группу, язык и наличие места для ребёнка."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить возрастную группу, язык и наличие места для ребёнка."
+        }
+      },
+      "editorial_reason": "14–18 декабря 2026, ежедневно 09:00–14:00 по Кейптауну.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2124-20261214-20261218-tygervalley"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2125",
+      "slug": "narada-kigali-explorers-holiday",
+      "provider": "NARADA STEM Kids Academy · Explorers Holiday",
+      "country": "Руанда",
+      "iso": "RWA",
+      "place": "Kigali de la Salle School · Kicukiro – Gahanga",
+      "age": "L1 Explorers — 8–12 лет. Возраст проверяется по уровню.",
+      "programme": "Инженерная практика с электроникой, роботами, IoT и цифровым производством. Тема зависит от смены.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Анонсированы окна 6–10 апреля и 22–26 декабря 2027. Для августа 2027 указан месяц.",
+        "sessions": [
+          [
+            "2027-04-06",
+            "2027-04-10"
+          ],
+          [
+            "2027-12-22",
+            "2027-12-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "easter",
+            "start": "2027-04-06",
+            "end": "2027-04-10",
+            "label": "Easter · Robotics Challenge",
+            "price": "L1 указан как 160000 RWF на ученика в месяц. Полный тариф отдельной смены уточнить.",
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+            "entry": "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+            "questions": [
+              "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+              "Перед записью сверить допуск, язык и наличие места.",
+              "Полный счёт и условия возврата уточнить у организатора."
+            ]
+          },
+          {
+            "variant_key": "christmas",
+            "start": "2027-12-22",
+            "end": "2027-12-26",
+            "label": "Christmas · Smart Home Devices",
+            "price": "L1 указан как 160000 RWF на ученика в месяц. Полный тариф отдельной смены уточнить.",
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+            "entry": "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+            "questions": [
+              "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+              "Перед записью сверить допуск, язык и наличие места.",
+              "Полный счёт и условия возврата уточнить у организатора."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions_and_announced_month",
+        "announced_variants": [
+          {
+            "label": "Summer · IoT, AI & Digital Fabrication",
+            "announced_months": [
+              "2027-08"
+            ],
+            "age": "L1 Explorers — 8–12 лет. Возраст проверяется по уровню.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Нет по возрасту для этой группы."
+              }
+            },
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют.",
+              "checked": "2026-11-08"
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "RWF",
+        "unit": "за ученика в месяц",
+        "label": "L1 указан как 160000 RWF на ученика в месяц. Полный тариф отдельной смены уточнить.",
+        "included": "Общая таблица указывает перекус и обед. Состав услуг на даты сверить.",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Анонсированы окна 6–10 апреля и 22–26 декабря 2027. Для августа 2027 указан месяц.",
+      "shortlist": [],
+      "questions": [
+        "Опубликованные окна включают выходные. Общая таблица указывает понедельник–пятницу. Точные дни занятий подтвердить.",
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://iotnaradaelectronics.rw/stem-academy/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-04-06",
+          "end": "2027-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2125-20270406-20270410-easter"
+          ]
+        },
+        {
+          "start": "2027-12-22",
+          "end": "2027-12-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2125-20271222-20271226-christmas"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2126",
+      "slug": "tangnest-kigali-lab",
+      "provider": "TangNest · Robotics & Coding Lab",
+      "country": "Руанда",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 лет для опубликованного учебного года.",
+      "programme": "Очная практика с роботами и кодом. По 3 часа в выходные.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 75000,
+        "currency": "RWF",
+        "unit": "в месяц",
+        "label": "75000 RWF в месяц.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Учебный курс. Проживание и семейная логистика отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2127",
+      "slug": "tangnest-kigali-hybrid",
+      "provider": "TangNest · Computer Science & Virtual Robotics",
+      "country": "Руанда",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 лет для опубликованного учебного года.",
+      "programme": "Онлайн занятия и VEX VR. Очные лаборатории в декабре и апреле заявлены без дат.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 47500,
+        "currency": "RWF",
+        "unit": "в месяц",
+        "label": "47500 RWF в месяц.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Учебный курс. Проживание и семейная логистика отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2128",
+      "slug": "tangnest-kigali-scratch",
+      "provider": "TangNest · Computational Thinking with Scratch",
+      "country": "Руанда",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 лет для опубликованного учебного года.",
+      "programme": "Онлайн проекты на Scratch, игры, анимации и интерактивные истории.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 19500,
+        "currency": "RWF",
+        "unit": "в месяц",
+        "label": "19500 RWF в месяц.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Учебный курс. Проживание и семейная логистика отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Сентябрь 2026 – июнь 2027. График и возможность присоединиться уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -376311,7 +376949,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 309,
+  "version": 311,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -389546,7 +390184,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2122,
+      "total_dossiers": 2128,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -413286,6 +413924,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2123",
+      "event_id": "CP2123-20261214-20261218-claremont",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2124",
+      "event_id": "CP2124-20261214-20261218-tygervalley",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2125",
+      "event_id": "CP2125-20270406-20270410-easter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2125",
+      "event_id": "CP2125-20271222-20271226-christmas",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -418157,10 +418815,14 @@
     "CP2119-20270329-20270429-empire",
     "CP2121-20270621-20270709-session-one",
     "CP2121-20270712-20270730-session-two",
-    "CP2122-20270111-20270115-morning"
+    "CP2122-20270111-20270115-morning",
+    "CP2123-20261214-20261218-claremont",
+    "CP2124-20261214-20261218-tygervalley",
+    "CP2125-20270406-20270410-easter",
+    "CP2125-20271222-20271226-christmas"
   ],
   "integration": {
-    "generated_sessions": 4461,
+    "generated_sessions": 4465,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

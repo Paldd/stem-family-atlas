@@ -1,0 +1,49 @@
+{
+  "version": 311,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "L885",
+    "L886",
+    "L887",
+    "L888",
+    "L889",
+    "C4830",
+    "L890",
+    "E687",
+    "E688",
+    "E689",
+    "CP2123-20261214-20261218-claremont",
+    "CP2124-20261214-20261218-tygervalley",
+    "CP2125-20270406-20270410-easter",
+    "CP2125-20271222-20271226-christmas"
+  ],
+  "refreshed_event_ids": [
+    "L781"
+  ],
+  "legacy_overlay_event_ids": [
+    "L781"
+  ],
+  "source_requests": 20,
+  "stemlab_dossiers": [
+    "CP2123",
+    "CP2124"
+  ],
+  "narada_dossier": "CP2125",
+  "narada_calendar_conflict": true,
+  "tangnest_tracks": [
+    "L885",
+    "L886",
+    "L887"
+  ],
+  "scratch": "L888",
+  "afrikoda": "L889",
+  "labzero": "L890",
+  "robocon": "C4830",
+  "exhibitions": [
+    "E687",
+    "E688",
+    "E689"
+  ]
+}

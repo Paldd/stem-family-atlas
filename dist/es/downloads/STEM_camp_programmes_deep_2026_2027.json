@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2122,
-    "countries": 136,
+    "dossiers": 2128,
+    "countries": 137,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
       "published_2027": 570,
-      "partial_2027": 152,
+      "partial_2027": 153,
       "next_unannounced": 440,
-      "published_2026": 426,
+      "published_2026": 428,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 6,
+      "regular_2026_27": 9,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3028
+    "source_urls": 3032
   },
   "countries": [
     {
@@ -436,6 +436,10 @@
       "count": 14
     },
     {
+      "country": "Ruanda",
+      "count": 4
+    },
+    {
       "country": "El Salvador",
       "count": 5
     },
@@ -581,7 +585,7 @@
     },
     {
       "country": "Sudáfrica",
-      "count": 2
+      "count": 4
     },
     {
       "country": "Territorios Australes Franceses",
@@ -370986,6 +370990,640 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2123",
+      "slug": "stemlab-december-claremont",
+      "provider": "STEMLab · December · Claremont",
+      "country": "Sudáfrica",
+      "iso": "ZAF",
+      "place": "Cavendish Place · 12 Cavendish Street · Claremont",
+      "age": "La página del turno de diciembre no indica su franja de edad.",
+      "programme": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "claremont",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Claremont",
+            "price": "2990 ZAR por participante.",
+            "source": "https://stemlab.co.za/holiday-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2990,
+        "currency": "ZAR",
+        "unit": "por participante",
+        "label": "2990 ZAR por participante.",
+        "included": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo de edad, idioma y plaza para el menor."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar grupo de edad, idioma y plaza para el menor."
+        }
+      },
+      "editorial_reason": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2123-20261214-20261218-claremont"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2124",
+      "slug": "stemlab-december-tygervalley",
+      "provider": "STEMLab · December · Tygervalley",
+      "country": "Sudáfrica",
+      "iso": "ZAF",
+      "place": "Golden Isle Building · 281 Durban Road · Tygervalley",
+      "age": "La página del turno de diciembre no indica su franja de edad.",
+      "programme": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "tygervalley",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Tygervalley",
+            "price": "2990 ZAR por participante.",
+            "source": "https://stemlab.co.za/holiday-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2990,
+        "currency": "ZAR",
+        "unit": "por participante",
+        "label": "2990 ZAR por participante.",
+        "included": "Construcción y programación de robots, retos de ingeniería, CAD e impresión 3D.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar grupo de edad, idioma y plaza para el menor."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar grupo de edad, idioma y plaza para el menor."
+        }
+      },
+      "editorial_reason": "14–18 de diciembre de 2026, de 09:00 a 14:00 cada día en Ciudad del Cabo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlab.co.za/holiday-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://stemlab.co.za/holiday-camp-calendar/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2124-20261214-20261218-tygervalley"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2125",
+      "slug": "narada-kigali-explorers-holiday",
+      "provider": "NARADA STEM Kids Academy · Explorers Holiday",
+      "country": "Ruanda",
+      "iso": "RWA",
+      "place": "Kigali de la Salle School · Kicukiro – Gahanga",
+      "age": "L1 Explorers: 8–12 años. La edad se comprueba por nivel.",
+      "programme": "Práctica de ingeniería con electrónica, robots, IoT y fabricación digital. El tema depende del turno.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.",
+        "sessions": [
+          [
+            "2027-04-06",
+            "2027-04-10"
+          ],
+          [
+            "2027-12-22",
+            "2027-12-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "easter",
+            "start": "2027-04-06",
+            "end": "2027-04-10",
+            "label": "Easter · Robotics Challenge",
+            "price": "L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.",
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+            "entry": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+            "questions": [
+              "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+              "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+              "Confirmar el coste final y las condiciones de devolución con la organización."
+            ]
+          },
+          {
+            "variant_key": "christmas",
+            "start": "2027-12-22",
+            "end": "2027-12-26",
+            "label": "Christmas · Smart Home Devices",
+            "price": "L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.",
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+            "entry": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+            "questions": [
+              "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+              "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+              "Confirmar el coste final y las condiciones de devolución con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions_and_announced_month",
+        "announced_variants": [
+          {
+            "label": "Summer · IoT, AI & Digital Fabrication",
+            "announced_months": [
+              "2027-08"
+            ],
+            "age": "L1 Explorers: 8–12 años. La edad se comprueba por nivel.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No cumple la edad mínima de este grupo."
+              }
+            },
+            "source": "https://iotnaradaelectronics.rw/stem-academy/",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo.",
+              "checked": "2026-11-08"
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "RWF",
+        "unit": "por estudiante al mes",
+        "label": "L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto.",
+        "included": "La tabla general indica refrigerio y almuerzo. Confirmar servicios en las fechas elegidas.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Ventanas anunciadas del 6 al 10 de abril y del 22 al 26 de diciembre de 2027. Para agosto de 2027 se indica el mes.",
+      "shortlist": [],
+      "questions": [
+        "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://iotnaradaelectronics.rw/stem-academy/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-04-06",
+          "end": "2027-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2125-20270406-20270410-easter"
+          ]
+        },
+        {
+          "start": "2027-12-22",
+          "end": "2027-12-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2125-20271222-20271226-christmas"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2126",
+      "slug": "tangnest-kigali-lab",
+      "provider": "TangNest · Robotics & Coding Lab",
+      "country": "Ruanda",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "programme": "Práctica presencial con robots y código. 3 horas cada fin de semana.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 75000,
+        "currency": "RWF",
+        "unit": "al mes",
+        "label": "75000 RWF al mes.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Curso formativo. El alojamiento y la logística familiar se gestionan aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2127",
+      "slug": "tangnest-kigali-hybrid",
+      "provider": "TangNest · Computer Science & Virtual Robotics",
+      "country": "Ruanda",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "programme": "Sesiones en línea y VEX VR. Los laboratorios presenciales de diciembre y abril se anuncian sin fechas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 47500,
+        "currency": "RWF",
+        "unit": "al mes",
+        "label": "47500 RWF al mes.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Curso formativo. El alojamiento y la logística familiar se gestionan aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2128",
+      "slug": "tangnest-kigali-scratch",
+      "provider": "TangNest · Computational Thinking with Scratch",
+      "country": "Ruanda",
+      "iso": "RWA",
+      "place": "TangNest Lab · Kigali",
+      "age": "8–12 años para el curso lectivo publicado.",
+      "programme": "Proyectos en línea con Scratch, juegos, animaciones e historias interactivas.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 19500,
+        "currency": "RWF",
+        "unit": "al mes",
+        "label": "19500 RWF al mes.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Curso formativo. El alojamiento y la logística familiar se gestionan aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://lms.tangnest.rw/our-stem-program/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -376311,7 +376949,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 309,
+  "version": 311,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -389546,7 +390184,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2122,
+      "total_dossiers": 2128,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -413286,6 +413924,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2123",
+      "event_id": "CP2123-20261214-20261218-claremont",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2124",
+      "event_id": "CP2124-20261214-20261218-tygervalley",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2125",
+      "event_id": "CP2125-20270406-20270410-easter",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2125",
+      "event_id": "CP2125-20271222-20271226-christmas",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -418157,10 +418815,14 @@
     "CP2119-20270329-20270429-empire",
     "CP2121-20270621-20270709-session-one",
     "CP2121-20270712-20270730-session-two",
-    "CP2122-20270111-20270115-morning"
+    "CP2122-20270111-20270115-morning",
+    "CP2123-20261214-20261218-claremont",
+    "CP2124-20261214-20261218-tygervalley",
+    "CP2125-20270406-20270410-easter",
+    "CP2125-20271222-20271226-christmas"
   ],
   "integration": {
-    "generated_sessions": 4461,
+    "generated_sessions": 4465,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -11273,16 +11273,16 @@ Se ha comprobado: 2026-11-08
 ### L781 · Fundi Bots · Holiday Robotics Camp
 
 lugar: Uganda · Sede por confirmar
-Fecha: Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.
-edad: 6–18 años.
-Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
-Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Fecha: Anunciado para diciembre de 2026. Duración de 2 semanas. Confirmar días, sede e inscripción.
+edad: 6–18 años según la página del programa.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
 Formato: unconfirmed_program
-Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: La tarifa de 2026 no está publicada.
 Acceso: La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.
-Limitaciones: Formato y sede pendientes.
+Limitaciones: La edad y el período corresponden al campamento infantil. La cuota del programa juvenil contiguo se verifica por separado.
 Fuente: https://fundibots.org/training-2/
 Se ha comprobado: 2026-11-08
 
@@ -12932,6 +12932,102 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi México. Se comunica la decisión a centros seleccionados el 12 de febrero.
 Limitaciones: El colegio presenta el proyecto tras la selección interna. La visita a la feria tiene su propio registro.
 Fuente: https://feriamakerunoi.com/
+Se ha comprobado: 2026-11-08
+
+### L885 · TangNest · Robotics & Coding Lab
+
+lugar: Ruanda · TangNest Lab · Kigali
+Fecha: Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+edad: 8–12 años para el curso lectivo publicado.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 75000 RWF al mes.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.
+Fuente: https://lms.tangnest.rw/our-stem-program/
+Se ha comprobado: 2026-11-08
+
+### L886 · TangNest · Computer Science & Virtual Robotics
+
+lugar: Ruanda · TangNest Lab · Kigali
+Fecha: Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+edad: 8–12 años para el curso lectivo publicado.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 47500 RWF al mes.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.
+Fuente: https://lms.tangnest.rw/our-stem-program/
+Se ha comprobado: 2026-11-08
+
+### L887 · TangNest · Computational Thinking with Scratch
+
+lugar: Ruanda · TangNest Lab · Kigali
+Fecha: Septiembre de 2026 – junio de 2027. Confirmar horario y posibilidad de incorporarse.
+edad: 8–12 años para el curso lectivo publicado.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 19500 RWF al mes.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: Se indica una tarifa mensual. Confirmar fechas concretas y plazas del grupo.
+Fuente: https://lms.tangnest.rw/our-stem-program/
+Se ha comprobado: 2026-11-08
+
+### L888 · TangNest · Scratch Foundations · free online mini-course
+
+lugar: Ruanda · Online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 9–12 años. Se requiere comprender instrucciones en inglés.
+Matvey: Sí por edad para el minicurso autónomo.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: online_camp
+Idioma: Las instrucciones del curso están en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Acceso gratuito al minicurso.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: La práctica requiere cuenta de Scratch. La familia revisa los datos del menor y las condiciones de la cuenta.
+Fuente: https://lms.tangnest.rw/courses/create-scratch-account/
+Se ha comprobado: 2026-11-08
+
+### L889 · AfriKoda Kigali · school robotics and AI pilots 2027
+
+lugar: Ruanda · Kigali
+Fecha: Lanzamiento anunciado para enero de 2027. Las fechas concretas de grupos vacacionales se acuerdan con el centro.
+edad: Franja principal de 8–16 años. El centro acuerda las condiciones de su piloto.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: Piloto a través del centro educativo. Aún no se confirman inscripción directa a un turno ni tarifa.
+Fuente: https://afrikoda.com/rwanda
+Se ha comprobado: 2026-11-08
+
+### L890 · Lab Zero · Nairobi Tech Week · December 2026
+
+lugar: Kenia · Nairobi
+Fecha: Diciembre de 2026. Se anuncia una semana. Aún faltan los días exactos.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Formato: holiday_workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: Confirmar edad, precio, sede e idioma de instrucción con la organización.
+Fuente: https://thelabzero.com/events/kenya
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -84308,6 +84404,70 @@ Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. ·
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Se ha comprobado: 2026-11-08
+
+### CP2123-20261214-20261218-claremont · STEMLab · December · Claremont · Claremont · 2026-12-14–2026-12-18
+
+Lugar: Sudáfrica Cavendish Place · 12 Cavendish Street · Claremont
+Fecha: 2026-12-14 - 2026-12-18
+edad: La página del turno de diciembre no indica su franja de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 2990 ZAR por participante. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo de edad, idioma y plaza para el menor. Oscar: Confirmar grupo de edad, idioma y plaza para el menor. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://stemlab.co.za/holiday-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2124-20261214-20261218-tygervalley · STEMLab · December · Tygervalley · Tygervalley · 2026-12-14–2026-12-18
+
+Lugar: Sudáfrica Golden Isle Building · 281 Durban Road · Tygervalley
+Fecha: 2026-12-14 - 2026-12-18
+edad: La página del turno de diciembre no indica su franja de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 2990 ZAR por participante. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grupo de edad, idioma y plaza para el menor. Oscar: Confirmar grupo de edad, idioma y plaza para el menor. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://stemlab.co.za/holiday-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2125-20270406-20270410-easter · NARADA STEM Kids Academy · Explorers Holiday · Easter · Robotics Challenge · 2027-04-06–2027-04-10
+
+lugar: Ruanda · Kigali de la Salle School · Kicukiro – Gahanga
+Fecha: 2027-04-06 — 2027-04-10
+edad: L1 Explorers: 8–12 años. La edad se comprueba por nivel.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto. · suplementos y condiciones en el dossier
+Acceso: Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://iotnaradaelectronics.rw/stem-academy/
+Se ha comprobado: 2026-11-08
+
+### CP2125-20271222-20271226-christmas · NARADA STEM Kids Academy · Explorers Holiday · Christmas · Smart Home Devices · 2027-12-22–2027-12-26
+
+lugar: Ruanda · Kigali de la Salle School · Kicukiro – Gahanga
+Fecha: 2027-12-22 — 2027-12-26
+edad: L1 Explorers: 8–12 años. La edad se comprueba por nivel.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · L1 figura a 160000 RWF por estudiante al mes. Confirmar el coste total de un turno concreto. · suplementos y condiciones en el dossier
+Acceso: Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://iotnaradaelectronics.rw/stem-academy/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10859; competiciones: 4828; eventos: 686; campamentos / programas: 5345. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 587 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10873; competiciones: 4829; eventos: 689; campamentos / programas: 5355. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 590 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -17,13 +17,13 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 | América del Norte | 41 | 1975 | 153 | 1382 |
 | América del Sur | 15 | 452 | 52 | 233 |
 | Europa | 55 | 637 | 148 | 1540 |
-| África | 60 | 247 | 40 | 130 |
+| África | 60 | 248 | 43 | 140 |
 | Asia | 50 | 1183 | 160 | 1709 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4828 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
+VEX: 815 de 4829 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -964,6 +964,9 @@ VEX: 815 de 4828 fichas de competiciones (16.9%). La cobertura se concentra en e
 - **British Science Week 2027** — Reino Unido; 2027-03-05 – 2027-03-14. el permiso de entrada de niños. https://www.britishscienceweek.org/
 - **National STEM Festival US 2027 · public programme watch** — Estados Unidos; 2027-10-19 – 2027-10-24. el permiso de entrada de niños. https://www.nationalstemfestival.com/attend
 - **Andina Link Smart Cities Expo 2027** — Colombia; 2027-03-08 – 2027-03-11. el permiso de entrada de niños. https://cartagena.andinalink.com/
+- **Comic Con Cape Town 2027 · Gaming & KidsCon watch** — Sudáfrica; 2027-04-24 – 2027-04-27. el permiso de entrada de niños. https://comicconafrica.co.za/
+- **Nairobi Esports Expo 2027** — Kenia; 2027-12-17 – 2027-12-19. el permiso de entrada de niños. https://nairobiesportsexpo.co.ke/
+- **West Africa Gaming Convention 2027 · Conference & Exhibition** — Nigeria; 2027-04-29 – 2027-04-30. el permiso de entrada de niños. https://wagconvention.com/venues
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

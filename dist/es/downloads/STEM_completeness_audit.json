@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10859,
-    "competition_cards": 4828,
-    "event_cards": 686,
-    "camp_cards": 5345,
+    "cards": 10873,
+    "competition_cards": 4829,
+    "event_cards": 689,
+    "camp_cards": 5355,
     "league_profiles": 309,
-    "major_exhibition_cards": 587,
+    "major_exhibition_cards": 590,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 424,
+      "total": 438,
       "countries_with_records": 60,
-      "competitions": 247,
-      "events": 47,
-      "major_exhibitions": 40,
-      "camps": 130,
+      "competitions": 248,
+      "events": 50,
+      "major_exhibitions": 43,
+      "camps": 140,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -15375,6 +15375,39 @@
       "new": false
     },
     {
+      "id": "E687",
+      "name": "Comic Con Cape Town 2027 · Gaming & KidsCon watch",
+      "country": "Sudáfrica",
+      "region": "África",
+      "start": "2027-04-24",
+      "end": "2027-04-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://comicconafrica.co.za/",
+      "new": false
+    },
+    {
+      "id": "E688",
+      "name": "Nairobi Esports Expo 2027",
+      "country": "Kenia",
+      "region": "África",
+      "start": "2027-12-17",
+      "end": "2027-12-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://nairobiesportsexpo.co.ke/",
+      "new": false
+    },
+    {
+      "id": "E689",
+      "name": "West Africa Gaming Convention 2027 · Conference & Exhibition",
+      "country": "Nigeria",
+      "region": "África",
+      "start": "2027-04-29",
+      "end": "2027-04-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://wagconvention.com/venues",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17792,9 +17825,9 @@
       }
     ],
     "counts": {
-      "records": 5345,
-      "holiday": 4835,
-      "regular": 201,
+      "records": 5355,
+      "holiday": 4841,
+      "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1637,
