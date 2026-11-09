@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11380; соревнований: 5084; событий: 726; лагерей / программ: 5570. Профилей лиг и программ: 324. Карточек крупных и профильных выставок: 625 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11399; соревнований: 5085; событий: 728; лагерей / программ: 5586. Профилей лиг и программ: 324. Карточек крупных и профильных выставок: 625 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2062 | 165 | 1402 |
 | Южная Америка | 15 | 467 | 52 | 238 |
-| Европа | 55 | 724 | 155 | 1612 |
+| Европа | 55 | 725 | 155 | 1628 |
 | Африка | 60 | 272 | 45 | 156 |
 | Азия | 50 | 1200 | 174 | 1785 |
 | Океания | 27 | 175 | 32 | 362 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 206. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 5084 карточек соревнований (16.0%). Это явный перекос охвата.
+VEX: 815 из 5085 карточек соревнований (16.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -182,7 +182,7 @@ VEX: 815 из 5084 карточек соревнований (16.0%). Это я�
 - **RoboCupJunior Australia · Primary / Australian Open**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robocupjunior.org.au/challenge-regions/nat/
 - **WRO Switzerland · Starter / Elementary**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic с 6 лет / Elementary**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wroboto.es/competicion/
-- **FIRST LEGO League · Switzerland / Spain / France**: 11 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstlegoleague.soy/inscripciones-bioglow/
+- **FIRST LEGO League · Switzerland / Spain / France**: 12 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstlegoleague.soy/inscripciones-bioglow/
 - **Coupe de France de Robotique Junior / Eurobot Junior**: 7 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
 - **WRO India · национальные маршруты**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wroindia.org/season-2026/
 - **WRO Pakistan / PSSEC**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.linkedin.com/company/wro-pak/
@@ -190,12 +190,12 @@ VEX: 815 из 5084 карточек соревнований (16.0%). Это я�
 - **Bangladesh Robot Olympiad / IRO Bangladesh Open**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://bdro.org/
 - **RoboCupJunior France · Discovery / OnStage Entry**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robocup.fr/onstage
 - **WRO Germany · Starter / Elementary**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.worldrobotolympiad.de/saison-2027/
-- **FIRST LEGO League DACH · Германия**: 4 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.first-lego-league.org/en/divisions/explore
+- **FIRST LEGO League DACH · Германия**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.first-lego-league.org/en/divisions/explore
 - **RoboCupJunior Germany · младшие Entry и финал**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robocup.de/events/junior-finale-2027
 - **WRO Netherlands · Elementary**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-nederland.nl/Seizoen
 - **FIRST LEGO League Netherlands · сезон 2026/27**: 23 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstlegoleague.nl/seizoen_2026_2027/
 - **FIRST LEGO League Belgium / BeLux**: 10 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.voka.be/first-lego-league-be/timing
-- **FIRST LEGO League Switzerland · четыре младших маршрута 2026/27**: 15 карточек, 12 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.first-lego-league.org/en/faq
+- **FIRST LEGO League Switzerland · четыре младших маршрута 2026/27**: 16 карточек, 12 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.first-lego-league.org/en/faq
 - **FIRST LEGO League Italia · Founders / Future**: 43 карточек, 39 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstlegoleague.it/p/edizioni
 - **WRO Italia · Kids / Elementary / Starter**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.worldrobotolympiad.it/fasce-eta/
 - **RoboCupJunior Academy Italia · OnStage ступени**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robocupjra.it/
@@ -207,7 +207,7 @@ VEX: 815 из 5084 карточек соревнований (16.0%). Это я�
 - **IYRF / IYRC Indonesia · robots, AI animation, games**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://iyra-indonesia.id/iyrc-indonesia-2026/
 - **ROBOTACON Vietnam · WRO / FIRST LEGO League**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://edu.steamsolutions.com.vn/
 - **Philippines FELTA · PRO/WRO и FLL**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf
-- **LEGO League · самостоятельная ветка с 2027/28**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.education.lego.com/en-us/lego-league/program-update/
+- **LEGO League · самостоятельная ветка с 2027/28**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.education.lego.com/en-us/lego-league/program-update/
 - **FIRST K–8 · отдельная будущая программа**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstinspires.org/programs/k-8
 - **VEX Switzerland · младшая EN / DE подготовка**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.techlabs.ch/vex-events-products
 - **Bebras / Castor · три страны, разные классы и языки**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.informatik-biber.ch/was-ist-der-informatik-biber/
@@ -558,7 +558,7 @@ VEX: 815 из 5084 карточек соревнований (16.0%). Это я�
 - **Maker Faire Ulaanbaatar 2027** — Монголия; 2027-05-08 – 2027-05-09. Детский допуск уточнить. https://makerfaire.com/upcoming-faires/
 - **Maker Faire Trieste 2027** — Италия; 2027-05-22 – 2027-05-23. Детский допуск уточнить. https://trieste.makerfaire.com/en/home-page/
 - **Southeast Minnesota Maker Faire 2027** — США; 2027-06-12. Со взрослым; условия взрослого входа отдельно. https://southeastminnesota.makerfaire.com/
-- **Los Angeles Maker Faire 2027** — США; 2027-07-31. Детский допуск уточнить. https://losangeles.makerfaire.com/
+- **Los Angeles Maker Faire 2027** — США; 2027-07-31. Со взрослым; условия взрослого входа отдельно. https://losangeles.makerfaire.com/
 - **Long Island Maker Faire 2027** — США; 2027-09-19. Детский допуск уточнить. https://longisland.makerfaire.com/
 - **Maker Faire Bay Area 2027** — США; 2027-09-24 – 2027-09-26. Детский допуск уточнить. https://makerfaire.com/bay-area/
 - **Maker Faire Bilbao 2026** — Испания; 2026-11-16 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://bilbao.makerfaire.com/programa-2026/

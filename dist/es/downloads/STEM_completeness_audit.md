@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11380; competiciones: 5084; eventos: 726; campamentos / programas: 5570. Perfiles de ligas y programas: 324. Fichas de exposiciones grandes y especializadas: 625 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11399; competiciones: 5085; eventos: 728; campamentos / programas: 5586. Perfiles de ligas y programas: 324. Fichas de exposiciones grandes y especializadas: 625 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2062 | 165 | 1402 |
 | América del Sur | 15 | 467 | 52 | 238 |
-| Europa | 55 | 724 | 155 | 1612 |
+| Europa | 55 | 725 | 155 | 1628 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1200 | 174 | 1785 |
 | Oceanía | 27 | 175 | 32 | 362 |
 
 Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
 
-VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
+VEX: 815 de 5085 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
 
 ## Lo que queda
 
@@ -182,7 +182,7 @@ VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **RoboCupJunior Australia · Primary / Australian Open**: 1 tarjeta, 0 con fechas exactas futuras. https://www.robocupjunior.org.au/challenge-regions/nat/
 - **WRO Switzerland · Starter / Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic a partir de los 6 años / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.wroboto.es/competicion/
-- **FIRST LEGO League · Switzerland / Spain / France**: 11 tarjetas, 4 con fechas exactas futuras. https://firstlegoleague.soy/inscripciones-bioglow/
+- **FIRST LEGO League · Switzerland / Spain / France**: 12 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.soy/inscripciones-bioglow/
 - **Coupe de France de Robotique Junior / Eurobot Junior**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
 - **WRO India · Rutas nacionales**: 2 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://wroindia.org/season-2026/
 - **WRO Pakistan / PSSEC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.linkedin.com/company/wro-pak/
@@ -190,12 +190,12 @@ VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **Bangladesh Robot Olympiad / IRO Bangladesh Open**: 3 tarjetas, 0 con fechas exactas futuras. https://bdro.org/
 - **RoboCupJunior France · Discovery / OnStage Entry**: 2 tarjetas, 0 con fechas exactas futuras. https://www.robocup.fr/onstage
 - **WRO Germany · Starter / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.worldrobotolympiad.de/saison-2027/
-- **FIRST LEGO League DACH - Alemania**: 4 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.first-lego-league.org/en/divisions/explore
+- **FIRST LEGO League DACH · Alemania**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.first-lego-league.org/en/divisions/explore
 - **RoboCupJunior Germany ·Entry Junior y final**: 1 tarjeta, 1 con fechas exactas futuras. https://robocup.de/events/junior-finale-2027
 - **WRO Netherlands · Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro-nederland.nl/Seizoen
 - **FIRST LEGO League Netherlands · temporada 2026/27**: 23 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.nl/seizoen_2026_2027/
 - **FIRST LEGO League Belgium / BeLux**: 10 tarjetas, 9 con fechas exactas futuras. https://www.voka.be/first-lego-league-be/timing
-- **FIRST LEGO League Switzerland · cuatro rutas secundarias 2026/27**: 15 tarjetas, 12 con fechas exactas futuras. https://www.first-lego-league.org/en/faq
+- **FIRST LEGO League Switzerland · cuatro rutas menores 2026/27**: 16 fichas, 12 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.first-lego-league.org/en/faq
 - **FIRST LEGO League Italia · Founders / Future**: 43 fichas, 39 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.it/p/edizioni
 - **WRO Italia · Kids / Elementary / Starter**: 3 tarjetas, 0 con fechas exactas futuras. https://www.worldrobotolympiad.it/fasce-eta/
 - **RoboCupJunior Academy Italia · OnStage escalón**: 3 tarjetas, 0 con fechas exactas futuras. https://www.robocupjra.it/
@@ -207,7 +207,7 @@ VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **IYRF / IYRC Indonesia · robots, AI animation, games**: 4 tarjetas, 0 con fechas exactas futuras. https://iyra-indonesia.id/iyrc-indonesia-2026/
 - *ROBOTACON Vietnam · WRO / FIRST LEGO League**: 4 tarjetas, 0 con fechas exactas futuras. https://edu.steamsolutions.com.vn/
 - **Philippines FELTA · PRO/WRO y FLL**: 3 tarjetas, 0 con fechas exactas futuras. https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf
-- **LEGO League · rama independiente de 2027/28**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.education.lego.com/en-us/lego-league/program-update/
+- **LEGO League · una rama independiente desde 2027/28**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.education.lego.com/en-us/lego-league/program-update/
 - **FIRST K–8 · programa futuro**: 1 Tarjetas, 0 con fechas exactas futuras. Hay un perfil y tarjetas.; Cobertura local parcial. https://www.firstinspires.org/programs/k-8
 - **VEX Switzerland · EN/DE menor**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura parcial local. https://www.techlabs.ch/vex-events-products
 - **Bebras / Castor · tres países, diferentes clases y lenguas**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.informatik-biber.ch/was-ist-der-informatik-biber/
@@ -558,7 +558,7 @@ VEX: 815 de 5084 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **Maker Faire Ulaanbaatar 2027** — Mongolia; 2027-05-08 – 2027-05-09. el permiso de entrada de niños. https://makerfaire.com/upcoming-faires/
 - **Maker Faire Trieste 2027** — Italia; 2027-05-22 – 2027-05-23. el permiso de entrada de niños. https://trieste.makerfaire.com/en/home-page/
 - **Southeast Minnesota Maker Faire 2027** — Estados Unidos; 2027-06-12. con un adulto; condiciones de entrada adulta aparte. https://southeastminnesota.makerfaire.com/
-- **Los Angeles Maker Faire 2027** — Estados Unidos; 2027-07-31. el permiso de entrada de niños. https://losangeles.makerfaire.com/
+- **Los Angeles Maker Faire 2027** — Estados Unidos; 2027-07-31. con un adulto; condiciones de admisión adulta por separado. https://losangeles.makerfaire.com/
 - **Long Island Maker Faire 2027** — Estados Unidos; 2027-09-19. el permiso de entrada de niños. https://longisland.makerfaire.com/
 - **Maker Faire Bay Area 2027** — Estados Unidos; 2027-09-24 – 2027-09-26. el permiso de entrada de niños. https://makerfaire.com/bay-area/
 - **Maker Faire Bilbao 2026** — España; 2026-11-16 – 2026-11-22. con un adulto; condiciones de entrada adulta aparte. https://bilbao.makerfaire.com/programa-2026/

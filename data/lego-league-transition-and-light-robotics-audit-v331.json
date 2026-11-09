@@ -1,0 +1,201 @@
+{
+  "version": 331,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5086",
+    "L923",
+    "L924",
+    "L925",
+    "L926",
+    "L927",
+    "L928",
+    "L929",
+    "L930",
+    "L931",
+    "L932",
+    "L933",
+    "L934",
+    "L935",
+    "L936",
+    "L937",
+    "L938",
+    "E727",
+    "E728"
+  ],
+  "refreshed_event_ids": [
+    "C1048",
+    "C1049",
+    "E206",
+    "E075",
+    "E270",
+    "C1104",
+    "E180"
+  ],
+  "new_dossier_ids": [
+    "CP2213",
+    "CP2214",
+    "CP2215",
+    "CP2216",
+    "CP2217",
+    "CP2218",
+    "CP2219",
+    "CP2220",
+    "CP2221",
+    "CP2222",
+    "CP2223",
+    "CP2224",
+    "CP2225",
+    "CP2226",
+    "CP2227",
+    "CP2228"
+  ],
+  "updated_league_ids": [
+    "lego-league-2027",
+    "first-k8-next",
+    "fll-germany",
+    "fll-swiss-junior",
+    "fll-europe-three"
+  ],
+  "lego_global": "C1048",
+  "first_k8": "C1049",
+  "dach_event": "C5086",
+  "light_city_index": 9,
+  "light_redirected_city": "Leiden → Delft",
+  "light_confirmed_course_cities": 6,
+  "light_interest_cities": 3,
+  "light_camp_watches": 3,
+  "light_dossier_ids": {
+    "light-robotics-amsterdam-wedo": "CP2213",
+    "light-robotics-amstelveen-wedo": "CP2214",
+    "light-robotics-amstelveen-microbit": "CP2215",
+    "light-robotics-utrecht-wedo": "CP2216",
+    "light-robotics-utrecht-microbit": "CP2217",
+    "light-robotics-haarlem-wedo": "CP2218",
+    "light-robotics-haarlem-microbit": "CP2219",
+    "light-robotics-den-haag-wedo": "CP2220",
+    "light-robotics-den-haag-microbit": "CP2221",
+    "light-robotics-eindhoven-microbit": "CP2222",
+    "light-robotics-delft-interest": "CP2223",
+    "light-robotics-purmerend-interest": "CP2224",
+    "light-robotics-almere-interest": "CP2225",
+    "light-robotics-wedo-camp": "CP2226",
+    "light-robotics-robobattle": "CP2227",
+    "light-robotics-code-first": "CP2228"
+  },
+  "light_event_ids": {
+    "light-robotics-amsterdam-wedo": "L923",
+    "light-robotics-amstelveen-wedo": "L924",
+    "light-robotics-amstelveen-microbit": "L925",
+    "light-robotics-utrecht-wedo": "L926",
+    "light-robotics-utrecht-microbit": "L927",
+    "light-robotics-haarlem-wedo": "L928",
+    "light-robotics-haarlem-microbit": "L929",
+    "light-robotics-den-haag-wedo": "L930",
+    "light-robotics-den-haag-microbit": "L931",
+    "light-robotics-eindhoven-microbit": "L932",
+    "light-robotics-delft-interest": "L933",
+    "light-robotics-purmerend-interest": "L934",
+    "light-robotics-almere-interest": "L935",
+    "light-robotics-wedo-camp": "L936",
+    "light-robotics-robobattle": "L937",
+    "light-robotics-code-first": "L938"
+  },
+  "light_amsterdam_booking_readback_http": 404,
+  "light_invented_session_dates": 0,
+  "maker_network_index_mapped": {
+    "Bilbao": "E209",
+    "ITERA TEC": "E066",
+    "Olomouc": "E069",
+    "Galicia": "E007",
+    "Rochester": "E070",
+    "Ogaki": "E071",
+    "Sarawak": "E072",
+    "Shenzhen": "E009",
+    "Kochi": "E073",
+    "South Dallas": "E074",
+    "Lynchburg": "E202",
+    "Gent": "E270",
+    "Ulaanbaatar": "E203",
+    "Trieste": "E204",
+    "SE Minnesota": "E205",
+    "Los Angeles": "E206",
+    "Buffalo": "E075",
+    "Orange County": "E271",
+    "Long Island": "E207",
+    "Bay Area": "E208"
+  },
+  "maker_la_events": [
+    "E206",
+    "E727",
+    "E728"
+  ],
+  "source_requests": 30,
+  "legacy_overlay_event_ids": [
+    "C1048",
+    "C1049",
+    "E206",
+    "E075",
+    "E270",
+    "C1104",
+    "E180"
+  ],
+  "legacy_overlay_league_ids": [
+    "lego-league-2027",
+    "first-k8-next",
+    "fll-germany",
+    "fll-swiss-junior",
+    "fll-europe-three"
+  ],
+  "dossier_event_links": {
+    "light-robotics-amsterdam-wedo": [
+      "L923"
+    ],
+    "light-robotics-amstelveen-wedo": [
+      "L924"
+    ],
+    "light-robotics-amstelveen-microbit": [
+      "L925"
+    ],
+    "light-robotics-utrecht-wedo": [
+      "L926"
+    ],
+    "light-robotics-utrecht-microbit": [
+      "L927"
+    ],
+    "light-robotics-haarlem-wedo": [
+      "L928"
+    ],
+    "light-robotics-haarlem-microbit": [
+      "L929"
+    ],
+    "light-robotics-den-haag-wedo": [
+      "L930"
+    ],
+    "light-robotics-den-haag-microbit": [
+      "L931"
+    ],
+    "light-robotics-eindhoven-microbit": [
+      "L932"
+    ],
+    "light-robotics-delft-interest": [
+      "L933"
+    ],
+    "light-robotics-purmerend-interest": [
+      "L934"
+    ],
+    "light-robotics-almere-interest": [
+      "L935"
+    ],
+    "light-robotics-wedo-camp": [
+      "L936"
+    ],
+    "light-robotics-robobattle": [
+      "L937"
+    ],
+    "light-robotics-code-first": [
+      "L938"
+    ]
+  }
+}

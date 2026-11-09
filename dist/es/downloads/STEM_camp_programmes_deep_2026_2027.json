@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2212,
+    "dossiers": 2228,
     "countries": 140,
     "swiss": 137,
     "by_status": {
@@ -43,13 +43,14 @@
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 11,
+      "regular_2026_27": 24,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
-      "recurring_tbd": 3
+      "recurring_tbd": 3,
+      "future_cohort_unknown": 3
     },
-    "source_urls": 3147
+    "source_urls": 3161
   },
   "countries": [
     {
@@ -374,7 +375,7 @@
     },
     {
       "country": "Países Bajos",
-      "count": 5
+      "count": 21
     },
     {
       "country": "Nicaragua",
@@ -388668,6 +388669,1445 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2213",
+      "slug": "light-robotics-amsterdam-wedo",
+      "provider": "Light Robotics · LEGO WeDo · Amsterdam",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Amsterdam · The Science Camp · Kinkerstraat 70a",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-10-20. Los martes 15:30–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 280,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 280 por 8 clases de 90 minutos con materiales. Para dos, EUR 560 con la tarifa publicada.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-10-20. Los martes 15:30–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "El botón de inscripción lleva a una dirección de Wiigro que devolvió HTTP 404 al revisarse. Confirmar formulario vigente y plazas con la organización.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/amsterdam",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L923"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2214",
+      "slug": "light-robotics-amstelveen-wedo",
+      "provider": "Light Robotics · LEGO WeDo · Amstelveen",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Amstelveen · Buurtkamer KKP · Lindenlaan 75",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-10-25. Los domingos 15:30–16:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 275,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 275 por 8 clases de 75 minutos con materiales. Para dos, EUR 550 con la tarifa publicada.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-10-25. Los domingos 15:30–16:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/amstelveen",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L924"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2215",
+      "slug": "light-robotics-amstelveen-microbit",
+      "provider": "Light Robotics · Micro:bit Innovation Lab · Amstelveen",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Amstelveen · Buurtkamer KKP · Lindenlaan 75",
+      "age": "10–12 años. También se admiten participantes de 13 años en este bloque.",
+      "programme": "Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-10-25. Los domingos 16:45–18:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 320 por 8 clases de 90 minutos con materiales.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-10-25. Los domingos 16:45–18:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/amstelveen",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L925"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2216",
+      "slug": "light-robotics-utrecht-wedo",
+      "provider": "Light Robotics · LEGO WeDo · Utrecht",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Utrecht · Buurtcentrum Terwijde · Operettelaan 629",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-10-31. Los sábados 16:15–17:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 240,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-10-31. Los sábados 16:15–17:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/utrecht",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L926"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2217",
+      "slug": "light-robotics-utrecht-microbit",
+      "provider": "Light Robotics · Micro:bit Innovation Lab · Utrecht",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Utrecht · Buurtcentrum Terwijde · Operettelaan 629",
+      "age": "10–12 años. También se admiten participantes de 13 años en este bloque.",
+      "programme": "Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-10-31. Los sábados 17:45–19:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 240,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 240 por 7 clases de 75 minutos con materiales.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-10-31. Los sábados 17:45–19:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/utrecht",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L927"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2218",
+      "slug": "light-robotics-haarlem-wedo",
+      "provider": "Light Robotics · LEGO WeDo · Haarlem",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Haarlem · Hart · Kleine Houtweg 18",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente inglés para este bloque.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-11-05. Los jueves 15:45–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 240,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-11-05. Los jueves 15:45–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/haarlem",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L928"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2219",
+      "slug": "light-robotics-haarlem-microbit",
+      "provider": "Light Robotics · Micro:bit Innovation Lab · Haarlem",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Haarlem · Hart · Kleine Houtweg 18",
+      "age": "10–12 años. También se admiten participantes de 13 años en este bloque.",
+      "programme": "Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente inglés para este bloque.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-11-05. Los jueves 17:15–18:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 240,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 240 por 7 clases de 75 minutos con materiales.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-11-05. Los jueves 17:15–18:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/haarlem",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L929"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2220",
+      "slug": "light-robotics-den-haag-wedo",
+      "provider": "Light Robotics · LEGO WeDo · Den Haag",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Den Haag · De Hyacint · Anemoonstraat 25",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-11-21. Los sábados 15:00–16:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 200,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 200 por 8 clases de 75 minutos con materiales. Para dos, EUR 400 con la tarifa publicada. Antes de la subida del 15 de noviembre, EUR 185 por menor. Para dos, EUR 370.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-11-21. Los sábados 15:00–16:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/den-haag",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L930"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2221",
+      "slug": "light-robotics-den-haag-microbit",
+      "provider": "Light Robotics · Micro:bit Innovation Lab · Den Haag",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Den Haag · De Hyacint · Anemoonstraat 25",
+      "age": "10–13 años.",
+      "programme": "Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "NL"
+      ],
+      "language_evidence_role": "bilingual",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-11-21. Los sábados 16:30–17:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 200,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 200 por 8 clases de 75 minutos con materiales. Antes de la subida del 15 de noviembre, EUR 185 por menor.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-11-21. Los sábados 16:30–17:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/den-haag",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L931"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "NL"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2222",
+      "slug": "light-robotics-eindhoven-microbit",
+      "provider": "Light Robotics · Micro:bit Innovation Lab · Eindhoven",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Eindhoven · De Hoeksteen · Gerretsonlaan 1A",
+      "age": "12–15 años.",
+      "programme": "Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente inglés para este bloque.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primera clase 2026-11-01. Los domingos 12:00–13:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 245,
+        "currency": "EUR",
+        "unit": "block",
+        "label": "EUR 245 por 7 clases de 90 minutos con materiales.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Primera clase 2026-11-01. Los domingos 12:00–13:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.",
+      "shortlist": [],
+      "questions": [
+        "La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/eindhoven",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L932"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2223",
+      "slug": "light-robotics-delft-interest",
+      "provider": "Light Robotics · LEGO WeDo · Delft",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Delft",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "block",
+        "label": "Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/delft",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L933"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2224",
+      "slug": "light-robotics-purmerend-interest",
+      "provider": "Light Robotics · LEGO WeDo · Purmerend",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Purmerend · Weidevenne",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "block",
+        "label": "Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/purmerend",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L934"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2225",
+      "slug": "light-robotics-almere-interest",
+      "provider": "Light Robotics · LEGO WeDo · Almere",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Almere · The Hub · Rentmeesterstraat 46",
+      "age": "6–9 años.",
+      "programme": "LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "block",
+        "label": "Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.",
+        "included": "Los materiales están incluidos en el precio del bloque publicado.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/cities/almere",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L935"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2226",
+      "slug": "light-robotics-wedo-camp",
+      "provider": "Light Robotics · LEGO WeDo Explorers Camp",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Países Bajos · ciudad y sede por confirmar",
+      "age": "6–9 años.",
+      "programme": "Campamento diurno de 1–5 días, 09:30–16:30, con desayuno y almuerzo. Se montan modelos LEGO WeDo con motores y sensores.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "future_cohort_unknown",
+        "label": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "child",
+        "label": "Página del programa: 5 días EUR 520, anticipada EUR 450. 1 día EUR 105, anticipada EUR 90. Aún falta confirmar la tarifa del próximo turno.",
+        "included": "Campamento diurno de 1–5 días, 09:30–16:30, con desayuno y almuerzo. Se montan modelos LEGO WeDo con motores y sensores.",
+        "extras": "Primer día de prueba. Posible devolución de los días restantes según las condiciones. Confirmar fechas y vigencia de la tarifa.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Comprobar que el menor esté en la franja de 6–9 años en la fecha del campamento."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso."
+        }
+      },
+      "editorial_reason": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/legocamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L936"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2227",
+      "slug": "light-robotics-robobattle",
+      "provider": "Light Robotics · RoboBattle Arena",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Países Bajos · ciudad y sede por confirmar",
+      "age": "El catálogo indica 8–12 y la página detallada 8–16. La franja 8–12 figura en ambas. Confirmar el grupo mayor.",
+      "programme": "Cinco días de ingeniería de un robot LEGO con duelos formativos al final. Jornada 09:30–17:00, equipo, desayuno y almuerzo incluidos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "future_cohort_unknown",
+        "label": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "child",
+        "label": "Tarifas del programa: EUR 520 estándar, EUR 490 anticipada y EUR 468 de grupo si se cumplen las condiciones. Confirmar vigencia en el próximo turno.",
+        "included": "Cinco días de ingeniería de un robot LEGO con duelos formativos al final. Jornada 09:30–17:00, equipo, desayuno y almuerzo incluidos.",
+        "extras": "Primer día de prueba. Posible devolución de los días restantes según las condiciones. Confirmar fechas y vigencia de la tarifa.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple la franja de edad. Confirmar plaza en el grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/robo-battle",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L937"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2228",
+      "slug": "light-robotics-code-first",
+      "provider": "Light Robotics · Code First Micro:bit",
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "place": "Países Bajos · ciudad y sede por confirmar",
+      "age": "El catálogo Code First indica 10–16 años. Para grupos a medida, acordar edad y nivel por separado.",
+      "programme": "Programa itinerante para escuela, biblioteca o grupo de familias. De 6 a 20 participantes, de 1 día a una semana. La organización aporta micro:bit y portátiles, el anfitrión facilita sala y Wi‑Fi.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "future_cohort_unknown",
+        "label": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "child",
+        "label": "Precio según consulta para el grupo y duración concretos.",
+        "included": "Programa itinerante para escuela, biblioteca o grupo de familias. De 6 a 20 participantes, de 1 día a una semana. La organización aporta micro:bit y portátiles, el anfitrión facilita sala y Wi‑Fi.",
+        "extras": "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo."
+        }
+      },
+      "editorial_reason": "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.",
+        "El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lightrobotics.nl/coding-camp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.lightrobotics.nl/terms",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L938"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -393993,7 +395433,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 330,
+  "version": 331,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -407228,7 +408668,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2212,
+      "total_dossiers": 2228,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -431946,6 +433386,86 @@
       "programme_id": "CP2212",
       "event_id": "CP2212-20270226-20270226-feb-26",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2213",
+      "event_id": "L923",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2214",
+      "event_id": "L924",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2215",
+      "event_id": "L925",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2216",
+      "event_id": "L926",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2217",
+      "event_id": "L927",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2218",
+      "event_id": "L928",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2219",
+      "event_id": "L929",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2220",
+      "event_id": "L930",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2221",
+      "event_id": "L931",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2222",
+      "event_id": "L932",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2223",
+      "event_id": "L933",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2224",
+      "event_id": "L934",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2225",
+      "event_id": "L935",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2226",
+      "event_id": "L936",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2227",
+      "event_id": "L937",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2228",
+      "event_id": "L938",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

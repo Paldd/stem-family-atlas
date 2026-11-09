@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. 2212 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
+Estado de la base al 2026-11-09. 2228 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -175619,6 +175619,684 @@ Canadá · Calgary · TELUS Spark Science Centre · 220 St. George's Drive NE
 - [Página de la organización o reglamento de la categoría.](https://www.sparkscience.ca/winter) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.alberta.ca/albertas-new-time-system-abt) · 2026-11-09
+
+## CP2213 · Light Robotics · LEGO WeDo · Amsterdam
+
+Países Bajos · Amsterdam · The Science Camp · Kinkerstraat 70a
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-10-20. Los martes 15:30–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 280 por 8 clases de 90 minutos con materiales. Para dos, EUR 560 con la tarifa publicada.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Primera clase 2026-10-20. Los martes 15:30–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- El botón de inscripción lleva a una dirección de Wiigro que devolvió HTTP 404 al revisarse. Confirmar formulario vigente y plazas con la organización.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/amsterdam) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2214 · Light Robotics · LEGO WeDo · Amstelveen
+
+Países Bajos · Amstelveen · Buurtkamer KKP · Lindenlaan 75
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-10-25. Los domingos 15:30–16:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 275 por 8 clases de 75 minutos con materiales. Para dos, EUR 550 con la tarifa publicada.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Primera clase 2026-10-25. Los domingos 15:30–16:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/amstelveen) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2215 · Light Robotics · Micro:bit Innovation Lab · Amstelveen
+
+Países Bajos · Amstelveen · Buurtkamer KKP · Lindenlaan 75
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 10–12 años. También se admiten participantes de 13 años en este bloque.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-10-25. Los domingos 16:45–18:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 320 por 8 clases de 90 minutos con materiales.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Primera clase 2026-10-25. Los domingos 16:45–18:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/amstelveen) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2216 · Light Robotics · LEGO WeDo · Utrecht
+
+Países Bajos · Utrecht · Buurtcentrum Terwijde · Operettelaan 629
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-10-31. Los sábados 16:15–17:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Primera clase 2026-10-31. Los sábados 16:15–17:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/utrecht) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2217 · Light Robotics · Micro:bit Innovation Lab · Utrecht
+
+Países Bajos · Utrecht · Buurtcentrum Terwijde · Operettelaan 629
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 10–12 años. También se admiten participantes de 13 años en este bloque.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-10-31. Los sábados 17:45–19:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 240 por 7 clases de 75 minutos con materiales.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Primera clase 2026-10-31. Los sábados 17:45–19:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/utrecht) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2218 · Light Robotics · LEGO WeDo · Haarlem
+
+Países Bajos · Haarlem · Hart · Kleine Houtweg 18
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** La organización indica expresamente inglés para este bloque.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-11-05. Los jueves 15:45–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Primera clase 2026-11-05. Los jueves 15:45–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/haarlem) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2219 · Light Robotics · Micro:bit Innovation Lab · Haarlem
+
+Países Bajos · Haarlem · Hart · Kleine Houtweg 18
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 10–12 años. También se admiten participantes de 13 años en este bloque.
+
+**Idioma:** La organización indica expresamente inglés para este bloque.
+
+**Programa:** Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-11-05. Los jueves 17:15–18:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 240 por 7 clases de 75 minutos con materiales.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Primera clase 2026-11-05. Los jueves 17:15–18:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/haarlem) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2220 · Light Robotics · LEGO WeDo · Den Haag
+
+Países Bajos · Den Haag · De Hyacint · Anemoonstraat 25
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-11-21. Los sábados 15:00–16:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 200 por 8 clases de 75 minutos con materiales. Para dos, EUR 400 con la tarifa publicada. Antes de la subida del 15 de noviembre, EUR 185 por menor. Para dos, EUR 370.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Primera clase 2026-11-21. Los sábados 15:00–16:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/den-haag) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2221 · Light Robotics · Micro:bit Innovation Lab · Den Haag
+
+Países Bajos · Den Haag · De Hyacint · Anemoonstraat 25
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 10–13 años.
+
+**Idioma:** Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+
+**Programa:** Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-11-21. Los sábados 16:30–17:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 200 por 8 clases de 75 minutos con materiales. Antes de la subida del 15 de noviembre, EUR 185 por menor.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Primera clase 2026-11-21. Los sábados 16:30–17:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/den-haag) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2222 · Light Robotics · Micro:bit Innovation Lab · Eindhoven
+
+Países Bajos · Eindhoven · De Hoeksteen · Gerretsonlaan 1A
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 12–15 años.
+
+**Idioma:** La organización indica expresamente inglés para este bloque.
+
+**Programa:** Micro:bit Innovation Lab: los menores construyen un modelo LEGO, conectan micro:bit y lo programan con retos prácticos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera clase 2026-11-01. Los domingos 12:00–13:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+**Precio / año:** 2026 · EUR 245 por 7 clases de 90 minutos con materiales.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Primera clase 2026-11-01. Los domingos 12:00–13:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+
+### Antes de solicitar plaza
+
+- La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/eindhoven) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2223 · Light Robotics · LEGO WeDo · Delft
+
+Países Bajos · Delft
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+**Precio / año:** 2026 · Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+### Antes de solicitar plaza
+
+- Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/delft) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2224 · Light Robotics · LEGO WeDo · Purmerend
+
+Países Bajos · Purmerend · Weidevenne
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+**Precio / año:** 2026 · Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+### Antes de solicitar plaza
+
+- Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/purmerend) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2225 · Light Robotics · LEGO WeDo · Almere
+
+Países Bajos · Almere · The Hub · Rentmeesterstraat 46
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** LEGO WeDo: construcción de modelos móviles, sensores, mecánica y programación por bloques.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+**Precio / año:** 2026 · Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+
+**Incluido:** Los materiales están incluidos en el precio del bloque publicado.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+### Antes de solicitar plaza
+
+- Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/cities/almere) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2226 · Light Robotics · LEGO WeDo Explorers Camp
+
+Países Bajos · Países Bajos · ciudad y sede por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–9 años.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** Campamento diurno de 1–5 días, 09:30–16:30, con desayuno y almuerzo. Se montan modelos LEGO WeDo con motores y sensores.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+**Precio / año:** sin establecer · Página del programa: 5 días EUR 520, anticipada EUR 450. 1 día EUR 105, anticipada EUR 90. Aún falta confirmar la tarifa del próximo turno.
+
+**Incluido:** Campamento diurno de 1–5 días, 09:30–16:30, con desayuno y almuerzo. Se montan modelos LEGO WeDo con motores y sensores.
+
+**Suplementos:** Primer día de prueba. Posible devolución de los días restantes según las condiciones. Confirmar fechas y vigencia de la tarifa.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Comprobar que el menor esté en la franja de 6–9 años en la fecha del campamento.
+
+**Oscar:** Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+
+**Por qué se incluye:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+### Antes de solicitar plaza
+
+- Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/legocamp) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2227 · Light Robotics · RoboBattle Arena
+
+Países Bajos · Países Bajos · ciudad y sede por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** El catálogo indica 8–12 y la página detallada 8–16. La franja 8–12 figura en ambas. Confirmar el grupo mayor.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** Cinco días de ingeniería de un robot LEGO con duelos formativos al final. Jornada 09:30–17:00, equipo, desayuno y almuerzo incluidos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+**Precio / año:** sin establecer · Tarifas del programa: EUR 520 estándar, EUR 490 anticipada y EUR 468 de grupo si se cumplen las condiciones. Confirmar vigencia en el próximo turno.
+
+**Incluido:** Cinco días de ingeniería de un robot LEGO con duelos formativos al final. Jornada 09:30–17:00, equipo, desayuno y almuerzo incluidos.
+
+**Suplementos:** Primer día de prueba. Posible devolución de los días restantes según las condiciones. Confirmar fechas y vigencia de la tarifa.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la franja de edad. Confirmar plaza en el grupo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+### Antes de solicitar plaza
+
+- Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/robo-battle) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2228 · Light Robotics · Code First Micro:bit
+
+Países Bajos · Países Bajos · ciudad y sede por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** El catálogo Code First indica 10–16 años. Para grupos a medida, acordar edad y nivel por separado.
+
+**Idioma:** La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+
+**Programa:** Programa itinerante para escuela, biblioteca o grupo de familias. De 6 a 20 participantes, de 1 día a una semana. La organización aporta micro:bit y portátiles, el anfitrión facilita sala y Wi‑Fi.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+**Precio / año:** sin establecer · Precio según consulta para el grupo y duración concretos.
+
+**Incluido:** Programa itinerante para escuela, biblioteca o grupo de familias. De 6 a 20 participantes, de 1 día a una semana. La organización aporta micro:bit y portátiles, el anfitrión facilita sala y Wi‑Fi.
+
+**Suplementos:** El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Oscar:** No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+
+**Por qué se incluye:** Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+### Antes de solicitar plaza
+
+- Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+
+- El bloque se paga íntegramente. La primera clase es de prueba y después se puede solicitar devolución de las clases restantes. Ausencias y cancelación se rigen por las condiciones.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/coding-camp) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

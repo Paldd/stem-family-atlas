@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11380,
-    "competition_cards": 5084,
-    "event_cards": 726,
-    "camp_cards": 5570,
+    "cards": 11399,
+    "competition_cards": 5085,
+    "event_cards": 728,
+    "camp_cards": 5586,
     "league_profiles": 324,
     "major_exhibition_cards": 625,
     "vex_cards": 815,
@@ -34,10 +34,10 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3672,
+      "total": 3674,
       "countries_with_records": 41,
       "competitions": 2062,
-      "events": 208,
+      "events": 210,
       "major_exhibitions": 165,
       "camps": 1402,
       "status": "Частично исследовано",
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2516,
+      "total": 2533,
       "countries_with_records": 55,
-      "competitions": 724,
+      "competitions": 725,
       "events": 180,
       "major_exhibitions": 155,
-      "camps": 1612,
+      "camps": 1628,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -3976,11 +3976,12 @@
         "C1101",
         "C1102",
         "C1103",
-        "C1104"
+        "C1104",
+        "C5086"
       ],
-      "cards": 11,
+      "cards": 12,
       "future_dated": 4,
-      "linked_card_count": 11,
+      "linked_card_count": 12,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://firstlegoleague.soy/inscripciones-bioglow/",
       "new": false
@@ -4104,11 +4105,12 @@
         "C935",
         "C936",
         "C937",
-        "C939"
+        "C939",
+        "C5086"
       ],
-      "cards": 4,
+      "cards": 5,
       "future_dated": 1,
-      "linked_card_count": 5,
+      "linked_card_count": 6,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.first-lego-league.org/en/divisions/explore",
       "new": false
@@ -4220,11 +4222,12 @@
         "C1097",
         "C1098",
         "C1099",
-        "C1100"
+        "C1100",
+        "C5086"
       ],
-      "cards": 15,
+      "cards": 16,
       "future_dated": 12,
-      "linked_card_count": 16,
+      "linked_card_count": 17,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.first-lego-league.org/en/faq",
       "new": false
@@ -4453,11 +4456,12 @@
       "name": "LEGO League · самостоятельная ветка с 2027/28",
       "group": "core",
       "event_ids": [
-        "C1048"
+        "C1048",
+        "C5086"
       ],
-      "cards": 1,
+      "cards": 2,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.education.lego.com/en-us/lego-league/program-update/",
       "new": false
@@ -11174,7 +11178,7 @@
       "region": "Северная Америка",
       "start": "2027-07-31",
       "end": "2027-07-31",
-      "visitor_policy": "confirm_children",
+      "visitor_policy": "family",
       "source": "https://losangeles.makerfaire.com/",
       "new": false
     },
@@ -18634,14 +18638,14 @@
       }
     ],
     "counts": {
-      "records": 5570,
-      "holiday": 5012,
-      "regular": 210,
+      "records": 5586,
+      "holiday": 5015,
+      "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1649,
+      "en_es_instruction": 1659,
       "en_es_support": 66,
-      "family_instruction": 1649,
+      "family_instruction": 1659,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,

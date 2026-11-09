@@ -13542,6 +13542,262 @@ Limitaciones: Confirmar fecha, edad, idioma y precio de la sesión vacacional co
 Fuente: https://www.algorithmicsperu.com/
 Se ha comprobado: 2026-11-09
 
+### L923 · Light Robotics · LEGO WeDo · Amsterdam
+
+lugar: Países Bajos · Amsterdam · The Science Camp · Kinkerstraat 70a
+Fecha: Primera clase 2026-10-20. Los martes 15:30–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+Edad: 6–9 años.
+Matvey: Cumple la edad. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 280 por 8 clases de 90 minutos con materiales. Para dos, EUR 560 con la tarifa publicada.
+Acceso: El botón de inscripción lleva a una dirección de Wiigro que devolvió HTTP 404 al revisarse. Confirmar formulario vigente y plazas con la organización.
+Limitaciones: El botón de inscripción lleva a una dirección de Wiigro que devolvió HTTP 404 al revisarse. Confirmar formulario vigente y plazas con la organización.
+Fuente: https://www.lightrobotics.nl/cities/amsterdam
+Se ha comprobado: 2026-11-09
+
+### L924 · Light Robotics · LEGO WeDo · Amstelveen
+
+lugar: Países Bajos · Amstelveen · Buurtkamer KKP · Lindenlaan 75
+Fecha: Primera clase 2026-10-25. Los domingos 15:30–16:45. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+Edad: 6–9 años.
+Matvey: Cumple la edad. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 275 por 8 clases de 75 minutos con materiales. Para dos, EUR 550 con la tarifa publicada.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/amstelveen
+Se ha comprobado: 2026-11-09
+
+### L925 · Light Robotics · Micro:bit Innovation Lab · Amstelveen
+
+lugar: Países Bajos · Amstelveen · Buurtkamer KKP · Lindenlaan 75
+Fecha: Primera clase 2026-10-25. Los domingos 16:45–18:15. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+edad: 10–12 años. También se admiten participantes de 13 años en este bloque.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 320 por 8 clases de 90 minutos con materiales.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/amstelveen
+Se ha comprobado: 2026-11-09
+
+### L926 · Light Robotics · LEGO WeDo · Utrecht
+
+lugar: Países Bajos · Utrecht · Buurtcentrum Terwijde · Operettelaan 629
+Fecha: Primera clase 2026-10-31. Los sábados 16:15–17:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+Edad: 6–9 años.
+Matvey: Cumple la edad. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/utrecht
+Se ha comprobado: 2026-11-09
+
+### L927 · Light Robotics · Micro:bit Innovation Lab · Utrecht
+
+lugar: Países Bajos · Utrecht · Buurtcentrum Terwijde · Operettelaan 629
+Fecha: Primera clase 2026-10-31. Los sábados 17:45–19:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+edad: 10–12 años. También se admiten participantes de 13 años en este bloque.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 240 por 7 clases de 75 minutos con materiales.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/utrecht
+Se ha comprobado: 2026-11-09
+
+### L928 · Light Robotics · LEGO WeDo · Haarlem
+
+lugar: Países Bajos · Haarlem · Hart · Kleine Houtweg 18
+Fecha: Primera clase 2026-11-05. Los jueves 15:45–17:00. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+Edad: 6–9 años.
+Matvey: Cumple la edad. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: La organización indica expresamente inglés para este bloque.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 240 por 7 clases de 75 minutos con materiales. Para dos, EUR 480 con la tarifa publicada.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/haarlem
+Se ha comprobado: 2026-11-09
+
+### L929 · Light Robotics · Micro:bit Innovation Lab · Haarlem
+
+lugar: Países Bajos · Haarlem · Hart · Kleine Houtweg 18
+Fecha: Primera clase 2026-11-05. Los jueves 17:15–18:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+edad: 10–12 años. También se admiten participantes de 13 años en este bloque.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: regular
+Idioma: La organización indica expresamente inglés para este bloque.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 240 por 7 clases de 75 minutos con materiales.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/haarlem
+Se ha comprobado: 2026-11-09
+
+### L930 · Light Robotics · LEGO WeDo · Den Haag
+
+lugar: Países Bajos · Den Haag · De Hyacint · Anemoonstraat 25
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 6–9 años.
+Matvey: Cumple la edad. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 200 por 8 clases de 75 minutos con materiales. Para dos, EUR 400 con la tarifa publicada. Antes de la subida del 15 de noviembre, EUR 185 por menor. Para dos, EUR 370.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/den-haag
+Se ha comprobado: 2026-11-09
+
+### L931 · Light Robotics · Micro:bit Innovation Lab · Den Haag
+
+lugar: Países Bajos · Den Haag · De Hyacint · Anemoonstraat 25
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 10 a 13 años.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: regular
+Idioma: Para este bloque la organización indica inglés y neerlandés. Confirmar cómo se reparten los idiomas en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: EUR 200 por 8 clases de 75 minutos con materiales. Antes de la subida del 15 de noviembre, EUR 185 por menor.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/den-haag
+Se ha comprobado: 2026-11-09
+
+### L932 · Light Robotics · Micro:bit Innovation Lab · Eindhoven
+
+lugar: Países Bajos · Eindhoven · De Hoeksteen · Gerretsonlaan 1A
+Fecha: Primera clase 2026-11-01. Los domingos 12:00–13:30. Constan la primera clase y el horario semanal habitual. Aún falta confirmar la lista completa de fechas lectivas y pausas.
+Edad: 12–15 años.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: regular
+Idioma: La organización indica expresamente inglés para este bloque.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 245 por 7 clases de 90 minutos con materiales.
+Acceso: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Limitaciones: La página anuncia inscripción. Confirmar plazas reales y si se puede entrar en un bloque ya iniciado.
+Fuente: https://www.lightrobotics.nl/cities/eindhoven
+Se ha comprobado: 2026-11-09
+
+### L933 · Light Robotics · LEGO WeDo · Delft
+
+lugar: Países Bajos · Delft
+Fecha: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Edad: 6–9 años.
+Matvey: Condicional. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+Acceso: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Limitaciones: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Fuente: https://www.lightrobotics.nl/cities/delft
+Se ha comprobado: 2026-11-09
+
+### L934 · Light Robotics · LEGO WeDo · Purmerend
+
+lugar: Países Bajos · Purmerend · Weidevenne
+Fecha: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Edad: 6–9 años.
+Matvey: Condicional. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+Acceso: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Limitaciones: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Fuente: https://www.lightrobotics.nl/cities/purmerend
+Se ha comprobado: 2026-11-09
+
+### L935 · Light Robotics · LEGO WeDo · Almere
+
+lugar: Países Bajos · Almere · The Hub · Rentmeesterstraat 46
+Fecha: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Edad: 6–9 años.
+Matvey: Condicional. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: regular
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Se publican EUR 40 por 90 minutos y EUR 35 como tarifa anticipada. Bloques de 5, 8 o 12 clases tras confirmar el grupo.
+Acceso: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Limitaciones: Está abierto un formulario gratuito de interés. Inicio, docente e idioma del grupo aún sin confirmar.
+Fuente: https://www.lightrobotics.nl/cities/almere
+Se ha comprobado: 2026-11-09
+
+### L936 · Light Robotics · LEGO WeDo Explorers Camp
+
+lugar: Países Bajos · Países Bajos · ciudad y sede por confirmar
+Fecha: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Edad: 6–9 años.
+Matvey: Condicional. Condicional. Comprobar que el menor esté en la franja de 6–9 años en la fecha del campamento.
+Oscar: Condicional. Condicional si ha cumplido 6 años al inicio del grupo. Confirmar plaza y acceso.
+Formato: day_camp
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Página del programa: 5 días EUR 520, anticipada EUR 450. 1 día EUR 105, anticipada EUR 90. Aún falta confirmar la tarifa del próximo turno.
+Acceso: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Limitaciones: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Fuente: https://www.lightrobotics.nl/legocamp
+Se ha comprobado: 2026-11-09
+
+### L937 · Light Robotics · RoboBattle Arena
+
+lugar: Países Bajos · Países Bajos · ciudad y sede por confirmar
+Fecha: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+edad: El catálogo indica 8–12 y la página detallada 8–16. La franja 8–12 figura en ambas. Confirmar el grupo mayor.
+Matvey: Condicional. Cumple la franja de edad. Confirmar plaza en el grupo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: day_camp
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Tarifas del programa: EUR 520 estándar, EUR 490 anticipada y EUR 468 de grupo si se cumplen las condiciones. Confirmar vigencia en el próximo turno.
+Acceso: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Limitaciones: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Fuente: https://www.lightrobotics.nl/robo-battle
+Se ha comprobado: 2026-11-09
+
+### L938 · Light Robotics · Code First Micro:bit
+
+lugar: Países Bajos · Países Bajos · ciudad y sede por confirmar
+Fecha: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+edad: El catálogo Code First indica 10–16 años. Para grupos a medida, acordar edad y nivel por separado.
+Matvey: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Oscar: No. No cumple la edad de este bloque. Consultar la siguiente etapa cuando alcance el mínimo.
+Formato: day_camp
+Idioma: La página general está en inglés. Aún hay que confirmar el idioma de enseñanza del turno concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Precio según consulta para el grupo y duración concretos.
+Acceso: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Limitaciones: Fechas, ciudades y condiciones de inscripción del próximo turno por confirmar.
+Fuente: https://www.lightrobotics.nl/coding-camp
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
