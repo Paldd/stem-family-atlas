@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2281 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-09. 2284 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -180149,6 +180149,250 @@ Chile · Escuela San Carlos · Chonchi, Chiloé
 - [Página de la organización o reglamento de la categoría.](https://portal.inacap.cl/w/inacap-puerto-montt-presente-en-campamento-de-liga-rob%C3%B3tica) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://municipalidadchonchi.cl/web/con-gran-exito-se-realizo-el-campamento-nacional-de-ciencia-tecnologia-y-robotica-desarrollado-en-chonchi/) · 2026-11-09
+
+## CP2282 · Ecolint · Robotics · LEGO Space Challenge
+
+Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–12 años según ficha de la sesión.
+
+**Idioma:** El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+
+**Programa:** Montaje y programación de robots LEGO, sensores, motores y misiones Space Challenge. Niveles de iniciación a avanzado.
+
+**Alojamiento:** Programa diurno. Actividades 09:00–17:00. Llegada desde las 08:00 y supervisión hasta las 17:30 según condiciones generales.
+
+**Fechas / estado:** 15–19 de febrero de 2027. La ficha indica plazo el 12 de febrero a las 15:00. La sección general indica el jueves anterior, 11 de febrero.
+
+**Precio / año:** 2027 · 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint.
+
+**Incluido:** Comida y programa publicado.
+
+**Suplementos:** Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza.
+
+**Pago:** Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+
+**Matvey:** Cumple la edad. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Mínimo 8 años. Para Oscar, consultar Multi-Activity o fútbol en el mismo campus.
+
+**Motivo de selección:** Mismo campus y horario 09:00–17:00. Robotics y Multi-Activity de jornada completa suman 1280 CHF por ambos menores. Confirmar edades y dos plazas por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad al inicio, idioma del grupo, dos plazas y condiciones del seguro.
+
+- Cotejar el plazo antes del 11 de febrero. La ficha publica el 12 de febrero a las 15:00 y la sección general indica el jueves anterior.
+
+- Mismo campus y horario 09:00–17:00. Robotics y Multi-Activity de jornada completa suman 1280 CHF por ambos menores. Confirmar edades y dos plazas por separado.
+
+### Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Precio:** 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint.
+
+**condiciones de participación:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · Ecolint · Robotics · LEGO Space Challenge · Full Day
+
+**Disponibilidad de plazas:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+[fuente](https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/our-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf) · 2026-11-09
+
+## CP2283 · Ecolint · Multi-Activity
+
+Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–6 años según ficha de la sesión.
+
+**Idioma:** El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+
+**Programa:** Juegos, deporte, creatividad y exploración científica. Sin horario específico publicado de actividades técnicas.
+
+**Alojamiento:** Programa diurno. Opciones de 09:00–17:00 o 09:00–13:00.
+
+**Fechas / estado:** 15–19 de febrero de 2027. La ficha indica plazo el 12 de febrero a las 15:00. La sección general indica el jueves anterior, 11 de febrero.
+
+**Precio / año:** 2027 · 640 CHF jornada completa, 370 CHF media jornada. Comida incluida en ambas tarifas publicadas.
+
+**Incluido:** Comida y programa publicado.
+
+**Suplementos:** Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza.
+
+**Pago:** Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+
+**Matvey:** Supera la edad del grupo. Hay Robotics en el mismo campus.
+
+**Oscar:** Si tiene 6 años al inicio, cumple la edad. Si ya tiene 7, consultar fútbol en el mismo campus.
+
+**Motivo de selección:** Mismo campus y horario 09:00–17:00. Robotics y Multi-Activity de jornada completa suman 1280 CHF por ambos menores. Confirmar edades y dos plazas por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad al inicio, idioma del grupo, dos plazas y condiciones del seguro.
+
+- Cotejar el plazo antes del 11 de febrero. La ficha publica el 12 de febrero a las 15:00 y la sección general indica el jueves anterior.
+
+- Mismo campus y horario 09:00–17:00. Robotics y Multi-Activity de jornada completa suman 1280 CHF por ambos menores. Confirmar edades y dos plazas por separado.
+
+- Robotics y Multi-Activity de media jornada suman 1010 CHF. Oscar termina a las 13:00 y Matvey a las 17:00.
+
+### Ecolint · Multi-Activity · Full Day
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Precio:** 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint.
+
+**condiciones de participación:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · Ecolint · Multi-Activity · Full Day
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · Ecolint · Multi-Activity · Full Day
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · Ecolint · Multi-Activity · Full Day
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · Ecolint · Multi-Activity · Full Day
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · Ecolint · Multi-Activity · Full Day
+
+**Disponibilidad de plazas:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+[fuente](https://www.ecolint-camps.ch/en/camps/multi-activity-32)
+
+### Ecolint · Multi-Activity · Half Day
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Precio:** 370 CHF por menor. Media jornada con comida.
+
+**condiciones de participación:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+- 2027-02-15 · 09:00–13:00 · Europe/Zurich · Ecolint · Multi-Activity · Half Day
+
+- 2027-02-16 · 09:00–13:00 · Europe/Zurich · Ecolint · Multi-Activity · Half Day
+
+- 2027-02-17 · 09:00–13:00 · Europe/Zurich · Ecolint · Multi-Activity · Half Day
+
+- 2027-02-18 · 09:00–13:00 · Europe/Zurich · Ecolint · Multi-Activity · Half Day
+
+- 2027-02-19 · 09:00–13:00 · Europe/Zurich · Ecolint · Multi-Activity · Half Day
+
+**Disponibilidad de plazas:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+[fuente](https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/camps/multi-activity-32) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/our-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf) · 2026-11-09
+
+## CP2284 · Ecolint · Football · 4–7
+
+Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–7 años según ficha de la sesión.
+
+**Idioma:** El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+
+**Programa:** Fútbol y actividades generales. Alternativa diurna para el menor en el campus de Robotics.
+
+**Alojamiento:** Programa diurno. Actividades 09:00–17:00. Llegada desde las 08:00 y supervisión hasta las 17:30 según condiciones generales.
+
+**Fechas / estado:** 15–19 de febrero de 2027. La ficha indica plazo el 12 de febrero a las 15:00. La sección general indica el jueves anterior, 11 de febrero.
+
+**Precio / año:** 2027 · 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint.
+
+**Incluido:** Comida y programa publicado.
+
+**Suplementos:** Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza.
+
+**Pago:** Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+
+**Matvey:** Supera la edad de este grupo de 4–7 años.
+
+**Oscar:** La edad de 6 o 7 años encaja. Confirmar plaza.
+
+**Motivo de selección:** Misma semana y horario que Robotics. Robotics y fútbol suman 1280 CHF por ambos menores.
+
+### Antes de solicitar plaza
+
+- Confirmar edad al inicio, idioma del grupo, dos plazas y condiciones del seguro.
+
+- Cotejar el plazo antes del 11 de febrero. La ficha publica el 12 de febrero a las 15:00 y la sección general indica el jueves anterior.
+
+- Misma semana y horario que Robotics. Robotics y fútbol suman 1280 CHF por ambos menores.
+
+### Ecolint · Football · 4–7 · Full Day
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+
+**Precio:** 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint.
+
+**condiciones de participación:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+- 2027-02-15 · 09:00–17:00 · Europe/Zurich · Ecolint · Football · 4–7 · Full Day
+
+- 2027-02-16 · 09:00–17:00 · Europe/Zurich · Ecolint · Football · 4–7 · Full Day
+
+- 2027-02-17 · 09:00–17:00 · Europe/Zurich · Ecolint · Football · 4–7 · Full Day
+
+- 2027-02-18 · 09:00–17:00 · Europe/Zurich · Ecolint · Football · 4–7 · Full Day
+
+- 2027-02-19 · 09:00–17:00 · Europe/Zurich · Ecolint · Football · 4–7 · Full Day
+
+**Disponibilidad de plazas:** La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+
+[fuente](https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/our-camps) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

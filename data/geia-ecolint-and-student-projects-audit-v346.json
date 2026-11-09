@@ -1,0 +1,100 @@
+{
+  "version": 346,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E751",
+    "E752",
+    "E753",
+    "E754",
+    "E755",
+    "E756",
+    "E757",
+    "E758",
+    "C5305",
+    "C5306",
+    "C5307",
+    "C5308",
+    "C5309",
+    "C5310",
+    "C5311",
+    "C5312",
+    "C5313",
+    "C5314",
+    "C5315",
+    "C5316",
+    "C5317",
+    "C5318",
+    "C5319",
+    "CP2282-20270215-20270219-full",
+    "CP2283-20270215-20270219-full",
+    "CP2283-20270215-20270219-half",
+    "CP2284-20270215-20270219-full"
+  ],
+  "refreshed_event_ids": [
+    "C848",
+    "E331"
+  ],
+  "new_dossier_ids": [
+    "CP2282",
+    "CP2283",
+    "CP2284"
+  ],
+  "refreshed_dossier_ids": [],
+  "new_league_ids": [
+    "stogo-fest"
+  ],
+  "legacy_overlay_event_ids": [],
+  "legacy_overlay_league_ids": [],
+  "source_requests": 35,
+  "geia_network_entries": [
+    "E751",
+    "E752",
+    "E753",
+    "E754",
+    "E755",
+    "E756",
+    "E757",
+    "E758"
+  ],
+  "shanghai_tech_show": "E751",
+  "shanghai_exact_visit_days": 2,
+  "regional_exhibition_programme_refreshed": "E331",
+  "stogo_school_form": "C5305",
+  "stogo_international_submission": "C5306",
+  "stogo_national_form": "C5307",
+  "stogo_national_submission": "C5308",
+  "stogo_final": "C5309",
+  "stogo_competition_categories": [
+    "C5310",
+    "C5311",
+    "C5312",
+    "C5313",
+    "C5314",
+    "C5315",
+    "C5316",
+    "C5317",
+    "C5318"
+  ],
+  "checkpoint": "C5319",
+  "ecolint_camp_variants": [
+    "CP2282-20270215-20270219-full",
+    "CP2283-20270215-20270219-full",
+    "CP2283-20270215-20270219-half",
+    "CP2284-20270215-20270219-full"
+  ],
+  "ecolint_same_venue_pair": [
+    "CP2282-20270215-20270219-full",
+    "CP2283-20270215-20270219-full"
+  ],
+  "ecolint_same_hours_baseline_chf": 1280,
+  "ecolint_different_pickup_baseline_chf": 1010,
+  "source_exclusions": [
+    {
+      "url": "https://next-academy.ch/winter-tech-camp",
+      "detail": "2025",
+      "evidence": "https://next-academy.ch/assets/WinterTechCamp-vhWb73KL.js"
+    }
+  ]
+}

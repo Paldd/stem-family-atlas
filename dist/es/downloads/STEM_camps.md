@@ -89814,6 +89814,70 @@ Limitaciones: Matvey: La edad encaja. Confirmar plaza y condiciones de admisión
 Fuente: https://www.gowreads.com/roblox-game-development
 Se ha comprobado: 2026-11-09
 
+### CP2282-20270215-20270219-full · Ecolint · Robotics · LEGO Space Challenge · Ecolint · Robotics · LEGO Space Challenge · Full Day · 2027-02-15–2027-02-19
+
+lugar: Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+Fecha: 2027-02-15 国 2027-02-19
+edad: 8–12 años según ficha de la sesión.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: attend
+Idioma: El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint. · suplementos y condiciones en el dossier
+Acceso: La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+Limitaciones: Matvey: Cumple la edad. Confirmar plaza e idioma del grupo. Oscar: Mínimo 8 años. Para Oscar, consultar Multi-Activity o fútbol en el mismo campus. Suplementos: Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza. Pago: Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+Fuente: https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461
+Se ha comprobado: 2026-11-09
+
+### CP2283-20270215-20270219-full · Ecolint · Multi-Activity · Ecolint · Multi-Activity · Full Day · 2027-02-15–2027-02-19
+
+lugar: Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+Fecha: 2027-02-15 国 2027-02-19
+edad: 5–6 años según ficha de la sesión.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint. · suplementos y condiciones en el dossier
+Acceso: La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+Limitaciones: Matvey: Supera la edad del grupo. Hay Robotics en el mismo campus. Oscar: Si tiene 6 años al inicio, cumple la edad. Si ya tiene 7, consultar fútbol en el mismo campus. Suplementos: Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza. Pago: Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+Fuente: https://www.ecolint-camps.ch/en/camps/multi-activity-32
+Se ha comprobado: 2026-11-09
+
+### CP2283-20270215-20270219-half · Ecolint · Multi-Activity · Ecolint · Multi-Activity · Half Day · 2027-02-15–2027-02-19
+
+lugar: Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+Fecha: 2027-02-15 国 2027-02-19
+edad: 5–6 años según ficha de la sesión.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 370 CHF por menor. Media jornada con comida. · suplementos y condiciones en el dossier
+Acceso: La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+Limitaciones: Matvey: Supera la edad del grupo. Hay Robotics en el mismo campus. Oscar: Si tiene 6 años al inicio, cumple la edad. Si ya tiene 7, consultar fútbol en el mismo campus. Suplementos: Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza. Pago: Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+Fuente: https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451
+Se ha comprobado: 2026-11-09
+
+### CP2284-20270215-20270219-full · Ecolint · Football · 4–7 · Ecolint · Football · 4–7 · Full Day · 2027-02-15–2027-02-19
+
+lugar: Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
+Fecha: 2027-02-15 国 2027-02-19
+edad: 4–7 años según ficha de la sesión.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: attend
+Idioma: El programa general de Ecolint es bilingüe EN / FR. Confirmar el idioma de las explicaciones en el grupo concreto.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · 640 CHF por menor. Comida caliente, tentempiés, materiales y actividades incluidos según Ecolint. · suplementos y condiciones en el dossier
+Acceso: La organización publica enlace de inscripción. Confirmar plazas, admisión y plazo aplicable.
+Limitaciones: Matvey: Supera la edad de este grupo de 4–7 años. Oscar: La edad de 6 o 7 años encaja. Confirmar plaza. Suplementos: Viaje, alojamiento y seguros aparte. Menores residentes fuera de Suiza necesitan cobertura médica, de accidentes y de responsabilidad válida en Suiza. Pago: Pago al inscribirse según las CGV. La reserva ordinaria es definitiva. Ante enfermedad o lesión antes del inicio, un justificante permite crédito válido 1 año.
+Fuente: https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

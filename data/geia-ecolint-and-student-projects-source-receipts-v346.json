@@ -1,0 +1,285 @@
+{
+  "captures": [
+    {
+      "key": "geiaAgenda",
+      "url": "https://www.geiaasia.com/2027_GEIA_Asia_Agenda.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12625,
+      "sha256": "4d01bac77279d6a61d874fe9bf4fce5f1a0ed96f25d64344784470692b8dc322"
+    },
+    {
+      "key": "geiaShanghai",
+      "url": "https://www.geiaasia.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20853,
+      "sha256": "c9229c7508386dacac9f473fcf2fae22b801b4da8879d04d286ab1c18eaef668"
+    },
+    {
+      "key": "geiaScript-js",
+      "url": "https://www.geiaasia.com/js/script.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 33912,
+      "sha256": "7b83f03a3049ae7fbdc5e74bec30d09f305276f26fa1b373089091931f6326df"
+    },
+    {
+      "key": "geiaVisitor",
+      "url": "https://www.surveymonkey.com/r/272D3LL",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 103430,
+      "sha256": "ca9f55bab5d8f2860b50e0e577336c746d050b7178d3ac87aaaf44af296bdd38"
+    },
+    {
+      "key": "geiaShanghaiFloorplan",
+      "url": "https://www.geiaasia.com/EXHIBITION.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 9891,
+      "sha256": "f3f332f42fbcd0318c0f244a63e625a50bff61b718e8bfcd3d89df0e8d268feb"
+    },
+    {
+      "key": "geiaShanghaiExhibitors",
+      "url": "https://www.geiaasia.com/2027_Featured_Attendees.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2392,
+      "sha256": "99b306a3502cca408cca37f206a2da501f11d572bcc0a5738f165863efa5a72f"
+    },
+    {
+      "key": "geiaGbaScript-js",
+      "url": "https://www.geiaapac.com/js/script.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 33664,
+      "sha256": "4d06d4b7269f25c568649c060445d3347c4a77228c7f4bbf54498524a036edaa"
+    },
+    {
+      "key": "geiaBeijingOfficial",
+      "url": "https://g-eia.com/china/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20371,
+      "sha256": "6eb24de41235d62b5ddb2604fadc9bec85b0a0757563c4dd0bff3f2850bddbf6"
+    },
+    {
+      "key": "geiaGbaVisitor",
+      "url": "https://www.surveymonkey.com/r/9WW796P",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 103772,
+      "sha256": "4a70c406cb6434ea1c3ed37ce5f5de2d69f7ffbadcc12777e32453104e749f4e"
+    },
+    {
+      "key": "geiaParent",
+      "url": "https://g-eia.com/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46556,
+      "sha256": "767408db50462e213553eabd68eeb078fc1acb93fb905f4288d3ff9eca830282"
+    },
+    {
+      "key": "geiaEurope",
+      "url": "https://www.geiaeurope.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23317,
+      "sha256": "a3ea6bd89c55c7db40973ee759aaf70f9a786bd6903891644d3bc788e9623cea"
+    },
+    {
+      "key": "geiaEuropeScript-js",
+      "url": "https://www.geiaeurope.com/js/script.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 35835,
+      "sha256": "370fcfff2ad1818a2283f48d9aa1c379b405b6e241ac93be480bba69e5b8cc77"
+    },
+    {
+      "key": "geiaEuropeVisitor",
+      "url": "https://www.surveymonkey.com/r/F3STK2S",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 103385,
+      "sha256": "69f1e3dc8dde6eef2ef08377d8baf35a59e0db3a788e621782bb2aec15089bcc"
+    },
+    {
+      "key": "geiaGba",
+      "url": "https://www.geiaapac.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20103,
+      "sha256": "fb3eccd1f18c966e4381c2ec47e5fa7a69e38540be663282a4906a9838ecdf2f"
+    },
+    {
+      "key": "stkRobot",
+      "url": "https://www.smarttechkorea.com/robottechphysicalaishow",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1187865,
+      "sha256": "64071fe019fc7e7870e3b9b36410af5965fc12d1308db5a1bb32d60a77dbf160"
+    },
+    {
+      "key": "stkGuide",
+      "url": "https://en.smarttechkorea.com/visitorguide",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 862269,
+      "sha256": "1a74d85fe6506de3975f14cdb5efb962ff8546f5c311cd084ef71ff684e34bc4"
+    },
+    {
+      "key": "stkFaq",
+      "url": "https://smarttechkorea.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 604224,
+      "sha256": "d993502380e2c935fcf19edb904ef0f179b6d79b524c19786cd94485b2771a82"
+    },
+    {
+      "key": "stkOverview",
+      "url": "https://en.smarttechkorea.com/Exhibition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1218053,
+      "sha256": "b78ea80b5b9574cbaa74aec702ec1ae55fa9d3ef4d401806f7766925e2db61ce"
+    },
+    {
+      "key": "stogoSchoolForm",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeLmCWxgByARRBKMyCT9YnsXf6XlnreUh377apDDIrXEud2Xg/viewform",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 139719,
+      "sha256": "d97faf233965f8e1fa10195967995b9456df2cd1b0f4049afa3e96aab077db2b"
+    },
+    {
+      "key": "stogoRules",
+      "url": "https://stogofest.com/guidelines.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 367883,
+      "sha256": "aabb83afaaa1ec608cc90a38d6261a1d3a5f2ebb539857e15b4d3638adf98cc3"
+    },
+    {
+      "key": "stogoMain",
+      "url": "https://stogofest.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 47004,
+      "sha256": "d8081314096b7c5e5fe7199456a2b1e92d1ffa9cfc78ba7162a4e5d1cc4e75f9"
+    },
+    {
+      "key": "stogoProjectForm",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeLTQNwOvwvbPpbPFV1zhbqp6VTDx2sJQ1jiHi1QL_sDSCh_A/viewform",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 124651,
+      "sha256": "5e8dc180857e02cc4abacf150bcf5b912b098d18f0377bac883fe6f9a2b307d4"
+    },
+    {
+      "key": "checkpointGameJam",
+      "url": "https://checkpointhacks.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15649,
+      "sha256": "aeee6a1cb000852b95db5cecbab5035fa20c9fececdc8665c595917e915e127f"
+    },
+    {
+      "key": "checkpointRulesWeb",
+      "url": "https://checkpoint-1.devpost.com/rules",
+      "status": 200,
+      "mime": "text/plain",
+      "bytes": 264,
+      "sha256": "b5ca1d3318ea20e407db0c16d579a2dd4d0bd004c65be9a26b263d776e5bb4a9",
+      "retrieval": "public_web_readback"
+    },
+    {
+      "key": "g4cSubmission2027",
+      "url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40720,
+      "sha256": "77da8abfc58fc3fb8c8e224fd4cfafe1275172cf7833f58586b53aaa94143f32"
+    },
+    {
+      "key": "g4cLanding",
+      "url": "https://learn.gamesforchange.org/student-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86295,
+      "sha256": "c5f348a82826a788d0e64296e26863e9be41761e920c27cbafc56c9710fc6762"
+    },
+    {
+      "key": "ecolintRobotics",
+      "url": "https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32197,
+      "sha256": "a53568c382c51c8bb213feed1a07c8bc26920dc2e2c4afa58426861766b7dc15"
+    },
+    {
+      "key": "ecolintHome",
+      "url": "https://www.ecolint-camps.ch/en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 54731,
+      "sha256": "b0d22559b5563bf9f7c1dc07704dc216f1ec3041df5ef2b0ffe0b961c1df2cd3"
+    },
+    {
+      "key": "ecolintProgram",
+      "url": "https://www.ecolint-camps.ch/en/our-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36095,
+      "sha256": "831f7c083f94cd1b6c3d119c656a44d3bdda49e45e686244247e860f761b34df"
+    },
+    {
+      "key": "ecolintTerms",
+      "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 138543,
+      "sha256": "72e2861d121635c1997d875ca101fee310f6f8254dc5b99d9cbfda5564a70df3"
+    },
+    {
+      "key": "ecolintMultiFull",
+      "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-32",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 31137,
+      "sha256": "81a9ff5ba4301713ccae56fe6a2d2da3d1f3b68484d05d5874096030d2918d00"
+    },
+    {
+      "key": "ecolintMultiHalf",
+      "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32269,
+      "sha256": "7c598a7608b34d4e034dfc143ece1b67025df196b377a7240c2813623fa07ae8"
+    },
+    {
+      "key": "ecolintFootball",
+      "url": "https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32626,
+      "sha256": "e2c4cc8792d8c668e5e7782dd4729ebf14476eb38edc4476997e9743e0d05b82"
+    },
+    {
+      "key": "nextWinterCanonical",
+      "url": "https://next-academy.ch/winter-tech-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 13906,
+      "sha256": "9622fbef8e5eff3889f50b86eaed481f9add985eb66302ee780c83c4ae648887"
+    },
+    {
+      "key": "nextWinterModule-js",
+      "url": "https://next-academy.ch/assets/WinterTechCamp-vhWb73KL.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 19927,
+      "sha256": "85ef1d89776e521a73c4e4e7ab6d64fa0c302a5925dd26e8b06a0d7daab75522"
+    }
+  ]
+}

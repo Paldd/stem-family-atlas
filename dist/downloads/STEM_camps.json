@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5689,
+      "records": 5693,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1664,
+      "en_es_instruction": 1668,
       "en_es_support": 67,
-      "family_instruction": 1664,
+      "family_instruction": 1668,
       "family_support": 67,
       "ru_instruction": 4,
       "language_lessons": 423,
@@ -475191,6 +475191,576 @@
         "label": "Организатор открыл запись. Свободные места и возрастную группу уточнить."
       },
       "date_rule": "Курс по выходным. Указаны границы семестра. Полный список дат и исключений для выбранного потока нужно подтвердить."
+    },
+    {
+      "id": "CP2282-20270215-20270219-full",
+      "block": "Лагеря",
+      "title": "Ecolint · Robotics · LEGO Space Challenge · Ecolint · Robotics · LEGO Space Challenge · Full Day · 2027-02-15–2027-02-19",
+      "country": "Швейцария",
+      "region": "Европа",
+      "city": "La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 февраля 2027. В карточке смены крайний срок 12 февраля в 15:00. Общий раздел говорит о четверге перед стартом, 11 февраля.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-02-12",
+      "age": "8–12 лет по карточке смены.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа. Занятия 09:00–17:00. Ранний приём с 08:00, присмотр до 17:30 по общим условиям.",
+      "entry": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить.",
+      "gear": "Сборка и программирование роботов LEGO, датчики, моторы и миссии Space Challenge. Уровень от начинающих до продвинутых.",
+      "language": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "cost": "2027 · 640 CHF за ребёнка. Горячий обед, перекусы, материалы и занятия включены по условиям Ecolint. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст на начало смены, язык в группе, два места и условия страховки.; Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг.; Один кампус и одинаковые часы 09:00–17:00. Robotics и Multi-Activity полного дня вместе стоят 1280 CHF за двоих. Возраст и два места подтвердить отдельно.",
+      "source": "https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461",
+      "references": [
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/robotics-25?v=5461",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/our-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Место и язык группы подтвердить. Оскар: Минимум 8 лет. Для Оскара проверить Multi-Activity или футбол на той же площадке. Доплаты: Отдельно поездка, жильё и страхование. Иностранным детям нужны медицинская страховка, страхование от несчастного случая и ответственности с покрытием Швейцарии. Оплата: Оплата при записи по CGV. Обычная заявка окончательная. При болезни или травме до старта по справке возможен кредит на 1 год.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "participation": "attend",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ecolint-geneva-winter-2027-robotics",
+      "camp_programme_id": "CP2282",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "FR"
+        ],
+        "materials": [
+          "EN",
+          "FR"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Robotics · LEGO Space Challenge · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T08:00:00Z",
+          "end_utc": "2027-02-15T16:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Robotics · LEGO Space Challenge · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T08:00:00Z",
+          "end_utc": "2027-02-16T16:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Robotics · LEGO Space Challenge · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T08:00:00Z",
+          "end_utc": "2027-02-17T16:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Robotics · LEGO Space Challenge · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T08:00:00Z",
+          "end_utc": "2027-02-18T16:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Robotics · LEGO Space Challenge · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T08:00:00Z",
+          "end_utc": "2027-02-19T16:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить."
+      },
+      "deadline_utc": "2027-02-12T14:00:00Z",
+      "deadline_timezone": "Europe/Zurich",
+      "deadline_note": "Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг."
+    },
+    {
+      "id": "CP2283-20270215-20270219-full",
+      "block": "Лагеря",
+      "title": "Ecolint · Multi-Activity · Ecolint · Multi-Activity · Full Day · 2027-02-15–2027-02-19",
+      "country": "Швейцария",
+      "region": "Европа",
+      "city": "La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 февраля 2027. В карточке смены крайний срок 12 февраля в 15:00. Общий раздел говорит о четверге перед стартом, 11 февраля.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-02-12",
+      "age": "5–6 лет по карточке смены.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа. Варианты 09:00–17:00 или 09:00–13:00.",
+      "entry": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить.",
+      "gear": "Игры, спорт, творчество и знакомство с наукой. Расписание технических занятий отдельно не опубликовано.",
+      "language": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "cost": "2027 · 640 CHF за ребёнка. Горячий обед, перекусы, материалы и занятия включены по условиям Ecolint. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст на начало смены, язык в группе, два места и условия страховки.; Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг.; Один кампус и одинаковые часы 09:00–17:00. Robotics и Multi-Activity полного дня вместе стоят 1280 CHF за двоих. Возраст и два места подтвердить отдельно.; Robotics и Multi-Activity на полдня вместе 1010 CHF. У Оскара окончание 13:00, у Матвея 17:00.",
+      "source": "https://www.ecolint-camps.ch/en/camps/multi-activity-32",
+      "references": [
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-32",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/our-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Старше возрастной группы. На том же кампусе есть Robotics. Оскар: Если на начало смены 6 лет, возраст подходит. Если уже 7, проверить футбол на этом кампусе. Доплаты: Отдельно поездка, жильё и страхование. Иностранным детям нужны медицинская страховка, страхование от несчастного случая и ответственности с покрытием Швейцарии. Оплата: Оплата при записи по CGV. Обычная заявка окончательная. При болезни или травме до старта по справке возможен кредит на 1 год.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "science",
+        "creative",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "participation": "attend",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ecolint-geneva-winter-2027-multi-activity",
+      "camp_programme_id": "CP2283",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "FR"
+        ],
+        "materials": [
+          "EN",
+          "FR"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T08:00:00Z",
+          "end_utc": "2027-02-15T16:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T08:00:00Z",
+          "end_utc": "2027-02-16T16:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T08:00:00Z",
+          "end_utc": "2027-02-17T16:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T08:00:00Z",
+          "end_utc": "2027-02-18T16:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T08:00:00Z",
+          "end_utc": "2027-02-19T16:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить."
+      },
+      "deadline_utc": "2027-02-12T14:00:00Z",
+      "deadline_timezone": "Europe/Zurich",
+      "deadline_note": "Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг."
+    },
+    {
+      "id": "CP2283-20270215-20270219-half",
+      "block": "Лагеря",
+      "title": "Ecolint · Multi-Activity · Ecolint · Multi-Activity · Half Day · 2027-02-15–2027-02-19",
+      "country": "Швейцария",
+      "region": "Европа",
+      "city": "La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 февраля 2027. В карточке смены крайний срок 12 февраля в 15:00. Общий раздел говорит о четверге перед стартом, 11 февраля.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-02-12",
+      "age": "5–6 лет по карточке смены.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа. Варианты 09:00–17:00 или 09:00–13:00.",
+      "entry": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить.",
+      "gear": "Игры, спорт, творчество и знакомство с наукой. Расписание технических занятий отдельно не опубликовано.",
+      "language": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "cost": "2027 · 370 CHF за ребёнка. Полдня с обедом. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст на начало смены, язык в группе, два места и условия страховки.; Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг.; Один кампус и одинаковые часы 09:00–17:00. Robotics и Multi-Activity полного дня вместе стоят 1280 CHF за двоих. Возраст и два места подтвердить отдельно.; Robotics и Multi-Activity на полдня вместе 1010 CHF. У Оскара окончание 13:00, у Матвея 17:00.",
+      "source": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451",
+      "references": [
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-32",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-32?v=5451",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/our-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Старше возрастной группы. На том же кампусе есть Robotics. Оскар: Если на начало смены 6 лет, возраст подходит. Если уже 7, проверить футбол на этом кампусе. Доплаты: Отдельно поездка, жильё и страхование. Иностранным детям нужны медицинская страховка, страхование от несчастного случая и ответственности с покрытием Швейцарии. Оплата: Оплата при записи по CGV. Обычная заявка окончательная. При болезни или травме до старта по справке возможен кредит на 1 год.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "science",
+        "creative",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "participation": "attend",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ecolint-geneva-winter-2027-multi-activity",
+      "camp_programme_id": "CP2283",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "FR"
+        ],
+        "materials": [
+          "EN",
+          "FR"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Half Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T08:00:00Z",
+          "end_utc": "2027-02-15T12:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Half Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T08:00:00Z",
+          "end_utc": "2027-02-16T12:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Half Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T08:00:00Z",
+          "end_utc": "2027-02-17T12:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Half Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T08:00:00Z",
+          "end_utc": "2027-02-18T12:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Multi-Activity · Half Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T08:00:00Z",
+          "end_utc": "2027-02-19T12:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить."
+      },
+      "deadline_utc": "2027-02-12T14:00:00Z",
+      "deadline_timezone": "Europe/Zurich",
+      "deadline_note": "Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг."
+    },
+    {
+      "id": "CP2284-20270215-20270219-full",
+      "block": "Лагеря",
+      "title": "Ecolint · Football · 4–7 · Ecolint · Football · 4–7 · Full Day · 2027-02-15–2027-02-19",
+      "country": "Швейцария",
+      "region": "Европа",
+      "city": "La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 февраля 2027. В карточке смены крайний срок 12 февраля в 15:00. Общий раздел говорит о четверге перед стартом, 11 февраля.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-02-12",
+      "age": "4–7 лет по карточке смены.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа. Занятия 09:00–17:00. Ранний приём с 08:00, присмотр до 17:30 по общим условиям.",
+      "entry": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить.",
+      "gear": "Футбол и общие активности. Дневная альтернатива для младшего ребёнка на кампусе Robotics.",
+      "language": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "cost": "2027 · 640 CHF за ребёнка. Горячий обед, перекусы, материалы и занятия включены по условиям Ecolint. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст на начало смены, язык в группе, два места и условия страховки.; Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг.; Та же неделя и часы, что у Robotics. Robotics и футбол вместе 1280 CHF за двоих.",
+      "source": "https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462",
+      "references": [
+        {
+          "url": "https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/en/our-camps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Старше этой группы 4–7 лет. Оскар: Возраст 6 или 7 лет подходит. Наличие места уточнить. Доплаты: Отдельно поездка, жильё и страхование. Иностранным детям нужны медицинская страховка, страхование от несчастного случая и ответственности с покрытием Швейцарии. Оплата: Оплата при записи по CGV. Обычная заявка окончательная. При болезни или травме до старта по справке возможен кредит на 1 год.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Общая программа Ecolint двуязычная, EN / FR. Язык объяснений в конкретной группе уточнить.",
+      "participation": "attend",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ecolint-geneva-winter-2027-football",
+      "camp_programme_id": "CP2284",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "FR"
+        ],
+        "materials": [
+          "EN",
+          "FR"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Football · 4–7 · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T08:00:00Z",
+          "end_utc": "2027-02-15T16:00:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Football · 4–7 · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T08:00:00Z",
+          "end_utc": "2027-02-16T16:00:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Football · 4–7 · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T08:00:00Z",
+          "end_utc": "2027-02-17T16:00:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Football · 4–7 · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T08:00:00Z",
+          "end_utc": "2027-02-18T16:00:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Zurich",
+          "topic": "Ecolint · Football · 4–7 · Full Day",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T08:00:00Z",
+          "end_utc": "2027-02-19T16:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "operator_listed",
+        "label": "Организатор публикует ссылку записи. Наличие места, зачисление и применимый крайний срок подтвердить."
+      },
+      "deadline_utc": "2027-02-12T14:00:00Z",
+      "deadline_timezone": "Europe/Zurich",
+      "deadline_note": "Сверить срок до 11 февраля. Детальная страница публикует 12 февраля в 15:00, общий раздел указывает предыдущий четверг."
     },
     {
       "id": "L491",

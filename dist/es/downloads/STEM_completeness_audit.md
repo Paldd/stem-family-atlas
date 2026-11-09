@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11742; competiciones: 5303; eventos: 750; campamentos / programas: 5689. Perfiles de ligas y programas: 334. Fichas de exposiciones grandes y especializadas: 643 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11769; competiciones: 5318; eventos: 758; campamentos / programas: 5693. Perfiles de ligas y programas: 335. Fichas de exposiciones grandes y especializadas: 651 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2212 | 176 | 1428 |
+| América del Norte | 41 | 2212 | 177 | 1428 |
 | América del Sur | 15 | 479 | 52 | 259 |
-| Europa | 55 | 732 | 160 | 1668 |
+| Europa | 55 | 732 | 161 | 1672 |
 | África | 60 | 272 | 45 | 156 |
-| Asia | 50 | 1211 | 176 | 1793 |
+| Asia | 50 | 1211 | 182 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
-Fichas interregionales o mundiales sin asignar a un continente: 243. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
+Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX: 821 de 5303 fichas de competiciones (15.5%). La cobertura está concentrada en ese circuito.
+VEX: 821 de 5318 fichas de competiciones (15.4%). La cobertura está concentrada en ese circuito.
 
 ## Lo que queda
 
@@ -360,6 +360,7 @@ VEX: 821 de 5303 fichas de competiciones (15.5%). La cobertura está concentrada
 - **IAC National Science Bee**: 147 fichas, 115 con fechas futuras concretas. Hay perfil y fichas; cobertura local parcial. https://www.iacompetitions.com/emssciencebee/
 - **IAC National Mathematics Bee**: 18 fichas, 17 con fechas futuras concretas. Hay perfil y fichas; cobertura local parcial. https://www.iacompetitions.com/math/
 - **VEX IQ Thailand · Level Up**: 6 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4458.html
+- **STOGO Fest**: 14 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://stogofest.com/guidelines.html
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1045,6 +1046,14 @@ VEX: 821 de 5303 fichas de competiciones (15.5%). La cobertura está concentrada
 - **Universum UNAM · Átomos brillantes · 28 Nov** — México; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/11/28
 - **Neurofest 2026 · El cerebro enciende sus luces** — México; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
 - **Viernes de ciencia · Futboleno** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/389/viernes-de-ciencia-noviembre-2026
+- **GEIA Asia 2027 · Shanghai · Live Tech Show** — China; 2027-04-14 – 2027-04-15. el permiso de entrada de niños. https://www.geiaasia.com/2027_GEIA_Asia_Agenda.html
+- **GEIA China 2026 · Beijing** — China; 2026-12-09 – 2026-12-11. el permiso de entrada de niños. https://g-eia.com/china/
+- **GEIA Europe 2027 · Munich** — Alemania; 2027-05-12 – 2027-05-14. el permiso de entrada de niños. https://www.geiaeurope.com/
+- **GEIA GBA 2027 · Shenzhen** — China; 2027-09-22 – 2027-09-24. el permiso de entrada de niños. https://www.geiaapac.com/
+- **GEIA ASEAN 2027 · Bangkok** — Tailandia; 2027-10-21 – 2027-10-23. el permiso de entrada de niños. https://www.geiaasia.com/
+- **GEIA China 2027 · Beijing** — China; 2027-12-08 – 2027-12-10. el permiso de entrada de niños. https://www.geiaasia.com/
+- **GEIA Middle East 2027 · Dubai** — Emiratos Árabes Unidos; fecha desconocida. Confirmar acceso infantil. https://www.geiaasia.com/
+- **GEIA North America 2028 · Los Angeles** — Estados Unidos; fecha desconocida. Confirmar acceso infantil. https://www.geiaasia.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

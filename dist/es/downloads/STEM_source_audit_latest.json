@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11742,
-    "competition_cards": 5303,
-    "event_cards": 750,
-    "camp_cards": 5689,
-    "league_profiles": 334,
-    "major_exhibition_cards": 643,
+    "cards": 11769,
+    "competition_cards": 5318,
+    "event_cards": 758,
+    "camp_cards": 5693,
+    "league_profiles": 335,
+    "major_exhibition_cards": 651,
     "vex_cards": 821,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3863,
+      "total": 3864,
       "countries_with_records": 41,
       "competitions": 2212,
-      "events": 223,
-      "major_exhibitions": 176,
+      "events": 224,
+      "major_exhibitions": 177,
       "camps": 1428,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2584,
+      "total": 2589,
       "countries_with_records": 55,
       "competitions": 732,
-      "events": 184,
-      "major_exhibitions": 160,
-      "camps": 1668,
+      "events": 185,
+      "major_exhibitions": 161,
+      "camps": 1672,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 3193,
+      "total": 3199,
       "countries_with_records": 50,
       "competitions": 1211,
-      "events": 189,
-      "major_exhibitions": 176,
+      "events": 195,
+      "major_exhibitions": 182,
       "camps": 1793,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -8692,6 +8692,33 @@
       "new": false
     },
     {
+      "id": "stogo-fest",
+      "name": "STOGO Fest",
+      "group": "international",
+      "event_ids": [
+        "C5305",
+        "C5306",
+        "C5307",
+        "C5308",
+        "C5309",
+        "C5310",
+        "C5311",
+        "C5312",
+        "C5313",
+        "C5314",
+        "C5315",
+        "C5316",
+        "C5317",
+        "C5318"
+      ],
+      "cards": 14,
+      "future_dated": 4,
+      "linked_card_count": 14,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://stogofest.com/guidelines.html",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -16766,6 +16793,94 @@
       "new": false
     },
     {
+      "id": "E751",
+      "name": "GEIA Asia 2027 · Shanghai · Live Tech Show",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-04-14",
+      "end": "2027-04-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaasia.com/2027_GEIA_Asia_Agenda.html",
+      "new": false
+    },
+    {
+      "id": "E752",
+      "name": "GEIA China 2026 · Beijing",
+      "country": "China",
+      "region": "Asia",
+      "start": "2026-12-09",
+      "end": "2026-12-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://g-eia.com/china/",
+      "new": false
+    },
+    {
+      "id": "E753",
+      "name": "GEIA Europe 2027 · Munich",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-05-12",
+      "end": "2027-05-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaeurope.com/",
+      "new": false
+    },
+    {
+      "id": "E754",
+      "name": "GEIA GBA 2027 · Shenzhen",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-09-22",
+      "end": "2027-09-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaapac.com/",
+      "new": false
+    },
+    {
+      "id": "E755",
+      "name": "GEIA ASEAN 2027 · Bangkok",
+      "country": "Tailandia",
+      "region": "Asia",
+      "start": "2027-10-21",
+      "end": "2027-10-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaasia.com/",
+      "new": false
+    },
+    {
+      "id": "E756",
+      "name": "GEIA China 2027 · Beijing",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-12-08",
+      "end": "2027-12-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaasia.com/",
+      "new": false
+    },
+    {
+      "id": "E757",
+      "name": "GEIA Middle East 2027 · Dubai",
+      "country": "Emiratos Árabes Unidos",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaasia.com/",
+      "new": false
+    },
+    {
+      "id": "E758",
+      "name": "GEIA North America 2028 · Los Angeles",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.geiaasia.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18146,7 +18261,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 243,
+  "interregional_cards": 258,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -19183,14 +19298,14 @@
       }
     ],
     "counts": {
-      "records": 5689,
+      "records": 5693,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1664,
+      "en_es_instruction": 1668,
       "en_es_support": 67,
-      "family_instruction": 1664,
+      "family_instruction": 1668,
       "family_support": 67,
       "ru_instruction": 4,
       "language_lessons": 423,

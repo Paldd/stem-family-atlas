@@ -312,6 +312,9 @@ def integrate(catalog, dossier_report):
             if variant.get('delivery_mode'):
                 row['delivery_mode']=variant['delivery_mode']
             if variant.get('availability'):row['availability']=deepcopy(variant['availability'])
+            for key in ('deadline_utc', 'deadline_timezone', 'deadline_note'):
+                if variant.get(key):
+                    row[key] = variant[key]
             if variant.get('date_precision')=='published_rule':
                 legacy_rule='2027-07-04–2027-08-15; пансион Вс–Вс, дневной Пн–Пт; выбор 1/2/3 недель. Даты вариантов рассчитаны по этому опубликованному правилу.'
                 row['date_rule']=variant.get('date_rule') or (legacy_rule if p['slug']=='jfk-outdoor' else '')
