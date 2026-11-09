@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. 2228 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
+Estado de la base al 2026-11-09. 2234 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -8160,9 +8160,9 @@ Colombia · Cali / Pance
 
 ## CP050 · STEAM Academy · Vacacional
 
-Colombia - Bogotá
+Colombia - Bogotá · Cra. 57C #128B-73
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-09
 
 **Edad:** Holiday camp 6–12; regular Explorer 5–7 / Inventor 7–9 / Builder 9–12
 
@@ -8194,7 +8194,7 @@ Colombia - Bogotá
 
 ### Fuentes
 
-- [las canciones de edad / holiday](https://steamacademy.edu.co/) · 2026-10-04
+- [las canciones de edad / holiday](https://steamacademy.edu.co/) · 2026-11-09
 
 ## CP051 · Village Camps · Leysin Junior Adventure
 
@@ -176297,6 +176297,622 @@ Países Bajos · Países Bajos · ciudad y sede por confirmar
 - [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/camps) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.lightrobotics.nl/terms) · 2026-11-09
+
+## CP2229 · AKUMAYA Movies · Online
+
+Colombia · En línea · hora de Colombia
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+
+**Idioma:** Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+
+**Programa:** Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**Alojamiento:** En línea, no requiere alojamiento.
+
+**Fechas / estado:** 4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.
+
+**Precio / año:** 2026 · 134000 COP por 5 días, 114000 COP por 4 días por menor. Cálculo para 4 semanas: 516000 COP antes del descuento, 438600 COP con 15%.
+
+**Incluido:** Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**Suplementos:** Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido.
+
+**Oscar:** Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior.
+
+**Por qué se incluye:** 4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.
+
+### Antes de solicitar plaza
+
+- Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+
+### Minions · Mañana · 09:00–10:30
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-23 · 09:00–10:30 · America/Bogota · Minions
+
+- 2026-11-24 · 09:00–10:30 · America/Bogota · Minions
+
+- 2026-11-25 · 09:00–10:30 · America/Bogota · Minions
+
+- 2026-11-26 · 09:00–10:30 · America/Bogota · Minions
+
+- 2026-11-27 · 09:00–10:30 · America/Bogota · Minions
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minions · Tarde · 14:00–15:30
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-23 · 14:00–15:30 · America/Bogota · Minions
+
+- 2026-11-24 · 14:00–15:30 · America/Bogota · Minions
+
+- 2026-11-25 · 14:00–15:30 · America/Bogota · Minions
+
+- 2026-11-26 · 14:00–15:30 · America/Bogota · Minions
+
+- 2026-11-27 · 14:00–15:30 · America/Bogota · Minions
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minecraft Education · Mañana · 09:00–10:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Programación del agente, retos de construcción y modelado con TinkerCAD. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-30 · 09:00–10:30 · America/Bogota · Minecraft Education
+
+- 2026-12-01 · 09:00–10:30 · America/Bogota · Minecraft Education
+
+- 2026-12-02 · 09:00–10:30 · America/Bogota · Minecraft Education
+
+- 2026-12-03 · 09:00–10:30 · America/Bogota · Minecraft Education
+
+- 2026-12-04 · 09:00–10:30 · America/Bogota · Minecraft Education
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minecraft Education · Tarde · 14:00–15:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Programación del agente, retos de construcción y modelado con TinkerCAD. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-30 · 14:00–15:30 · America/Bogota · Minecraft Education
+
+- 2026-12-01 · 14:00–15:30 · America/Bogota · Minecraft Education
+
+- 2026-12-02 · 14:00–15:30 · America/Bogota · Minecraft Education
+
+- 2026-12-03 · 14:00–15:30 · America/Bogota · Minecraft Education
+
+- 2026-12-04 · 14:00–15:30 · America/Bogota · Minecraft Education
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Toy Story · Mañana · 09:00–10:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** 114000 COP por 4 días por menor.
+
+**Programa:** Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-07 · 09:00–10:30 · America/Bogota · Toy Story
+
+- 2026-12-09 · 09:00–10:30 · America/Bogota · Toy Story
+
+- 2026-12-10 · 09:00–10:30 · America/Bogota · Toy Story
+
+- 2026-12-11 · 09:00–10:30 · America/Bogota · Toy Story
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Toy Story · Tarde · 14:00–15:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** 114000 COP por 4 días por menor.
+
+**Programa:** Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-07 · 14:00–15:30 · America/Bogota · Toy Story
+
+- 2026-12-09 · 14:00–15:30 · America/Bogota · Toy Story
+
+- 2026-12-10 · 14:00–15:30 · America/Bogota · Toy Story
+
+- 2026-12-11 · 14:00–15:30 · America/Bogota · Toy Story
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Crea tu corto con IA · Mañana · 09:00–10:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-14 · 09:00–10:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-15 · 09:00–10:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-16 · 09:00–10:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-17 · 09:00–10:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-18 · 09:00–10:30 · America/Bogota · Crea tu corto con IA
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Crea tu corto con IA · Tarde · 14:00–15:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 134000 COP por 5 días por menor.
+
+**Programa:** Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-14 · 14:00–15:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-15 · 14:00–15:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-16 · 14:00–15:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-17 · 14:00–15:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-18 · 14:00–15:30 · America/Bogota · Crea tu corto con IA
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/vacaciones/fin-de-ano) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/terminos) · 2026-11-09
+
+## CP2230 · AKUMAYA Movies · Bucaramanga
+
+Colombia · Bucaramanga · AKUMAYA Educación
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+
+**Idioma:** Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+
+**Programa:** Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.
+
+**Precio / año:** 2026 · 199000 COP por 5 días, 167000 COP por 4 días por menor. Cálculo para 4 semanas: 764000 COP antes del descuento, 649400 COP con 15%.
+
+**Incluido:** Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**Suplementos:** Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido.
+
+**Oscar:** Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior.
+
+**Por qué se incluye:** 4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.
+
+### Antes de solicitar plaza
+
+- Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+
+### Minions · Mañana · 09:00–11:30
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-23 · 09:00–11:30 · America/Bogota · Minions
+
+- 2026-11-24 · 09:00–11:30 · America/Bogota · Minions
+
+- 2026-11-25 · 09:00–11:30 · America/Bogota · Minions
+
+- 2026-11-26 · 09:00–11:30 · America/Bogota · Minions
+
+- 2026-11-27 · 09:00–11:30 · America/Bogota · Minions
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minions · Tarde · 14:30–17:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-23 · 14:30–17:00 · America/Bogota · Minions
+
+- 2026-11-24 · 14:30–17:00 · America/Bogota · Minions
+
+- 2026-11-25 · 14:30–17:00 · America/Bogota · Minions
+
+- 2026-11-26 · 14:30–17:00 · America/Bogota · Minions
+
+- 2026-11-27 · 14:30–17:00 · America/Bogota · Minions
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minecraft Education · Mañana · 09:00–11:30
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Programación del agente, retos de construcción y modelado con TinkerCAD. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-30 · 09:00–11:30 · America/Bogota · Minecraft Education
+
+- 2026-12-01 · 09:00–11:30 · America/Bogota · Minecraft Education
+
+- 2026-12-02 · 09:00–11:30 · America/Bogota · Minecraft Education
+
+- 2026-12-03 · 09:00–11:30 · America/Bogota · Minecraft Education
+
+- 2026-12-04 · 09:00–11:30 · America/Bogota · Minecraft Education
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Minecraft Education · Tarde · 14:30–17:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Programación del agente, retos de construcción y modelado con TinkerCAD. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-11-30 · 14:30–17:00 · America/Bogota · Minecraft Education
+
+- 2026-12-01 · 14:30–17:00 · America/Bogota · Minecraft Education
+
+- 2026-12-02 · 14:30–17:00 · America/Bogota · Minecraft Education
+
+- 2026-12-03 · 14:30–17:00 · America/Bogota · Minecraft Education
+
+- 2026-12-04 · 14:30–17:00 · America/Bogota · Minecraft Education
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Toy Story · Mañana · 09:00–11:30
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** 167000 COP por 4 días por menor.
+
+**Programa:** Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-07 · 09:00–11:30 · America/Bogota · Toy Story
+
+- 2026-12-09 · 09:00–11:30 · America/Bogota · Toy Story
+
+- 2026-12-10 · 09:00–11:30 · America/Bogota · Toy Story
+
+- 2026-12-11 · 09:00–11:30 · America/Bogota · Toy Story
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Toy Story · Tarde · 14:30–17:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** 167000 COP por 4 días por menor.
+
+**Programa:** Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-07 · 14:30–17:00 · America/Bogota · Toy Story
+
+- 2026-12-09 · 14:30–17:00 · America/Bogota · Toy Story
+
+- 2026-12-10 · 14:30–17:00 · America/Bogota · Toy Story
+
+- 2026-12-11 · 14:30–17:00 · America/Bogota · Toy Story
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Crea tu corto con IA · Mañana · 09:00–11:30
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-14 · 09:00–11:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-15 · 09:00–11:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-16 · 09:00–11:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-17 · 09:00–11:30 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-18 · 09:00–11:30 · America/Bogota · Crea tu corto con IA
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Crea tu corto con IA · Tarde · 14:30–17:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 199000 COP por 5 días por menor.
+
+**Programa:** Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.
+
+**condiciones de participación:** Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+
+- 2026-12-14 · 14:30–17:00 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-15 · 14:30–17:00 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-16 · 14:30–17:00 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-17 · 14:30–17:00 · America/Bogota · Crea tu corto con IA
+
+- 2026-12-18 · 14:30–17:00 · America/Bogota · Crea tu corto con IA
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.akumaya.co/vacaciones/fin-de-ano)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/vacaciones/fin-de-ano) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.akumaya.co/terminos) · 2026-11-09
+
+## CP2231 · STEAM Academy Bogotá · Explorers
+
+Colombia - Bogotá · Cra. 57C #128B-73
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–7 años según la ruta por edades del club.
+
+**Idioma:** El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+
+**Programa:** Primeros robots sin pantalla y retos algorítmicos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+**Precio / año:** 2027 · Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja en la franja de edad de este grupo.
+
+**Oscar:** Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+
+**Por qué se incluye:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamacademy.edu.co/) · 2026-11-09
+
+## CP2232 · STEAM Academy Bogotá · Inventors
+
+Colombia - Bogotá · Cra. 57C #128B-73
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 7–9 años según la ruta por edades del club.
+
+**Idioma:** El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+
+**Programa:** LEGO Mindstorms Inventor, motores, sensores y engranajes.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+**Precio / año:** 2027 · Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se incluye:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamacademy.edu.co/) · 2026-11-09
+
+## CP2233 · STEAM Academy Bogotá · Builders
+
+Colombia - Bogotá · Cra. 57C #128B-73
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–12 años según la ruta por edades del club.
+
+**Idioma:** El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+
+**Programa:** LEGO Mindstorms Inventor y Makey Makey, fundamentos de electrónica, mecánica y diseño.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+**Precio / año:** 2027 · Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se incluye:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamacademy.edu.co/) · 2026-11-09
+
+## CP2234 · STEAM Academy Bogotá · Encoders
+
+Colombia - Bogotá · Cra. 57C #128B-73
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 12–14 años según la ruta por edades del club.
+
+**Idioma:** El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+
+**Programa:** LEGO Mindstorms, mBot y micro:bit, electrónica y programación de proyectos autónomos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+**Precio / año:** 2027 · Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja en la franja de edad de este grupo.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se incluye:** El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamacademy.edu.co/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

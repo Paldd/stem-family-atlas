@@ -1043,7 +1043,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 30 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-cdmx-tec-de-monterrey/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C790 · FTC México · Regional Nuevo León · San Pedro · BIOBUZZ 2026–2027
 
@@ -1056,7 +1056,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 31 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-nuevo-leon-san-pedro/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C791 · FTC México · Regional CDMX · Maguen David · BIOBUZZ 2026–2027
 
@@ -1069,7 +1069,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 10 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-cdmx-colegio-hebreo-maguen-david/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C792 · FTC México · Regional Coahuila · Torreón · BIOBUZZ 2026–2027
 
@@ -1082,7 +1082,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 30 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-coahuila-torreon/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C793 · FTC México · Regional Jalisco · Guadalajara · BIOBUZZ 2026–2027
 
@@ -1095,7 +1095,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 20 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-jalisco-guadalajara/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C794 · FTC México · Regional Chihuahua · BIOBUZZ 2026–2027
 
@@ -1108,7 +1108,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 18 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-chihuahua-chihuahua/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C795 · FTC México · Regional Estado de México · Toluca · BIOBUZZ 2026–2027
 
@@ -1121,7 +1121,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 24 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-edo-mex-metepec/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C796 · FTC México · Regional Yucatán · Mérida · BIOBUZZ 2026–2027
 
@@ -1134,7 +1134,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 16 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-yucatan-merida/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C797 · FTC México · Regional San Luis Potosí · BIOBUZZ 2026–2027
 
@@ -1147,7 +1147,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 18 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-slp-san-luis-potosi/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C798 · FTC México · Regional Estado de México · Cuautitlán · BIOBUZZ 2026–2027
 
@@ -1160,7 +1160,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 20 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-edo-mex-cuautitlan/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C799 · FTC México · Regional Nuevo León · San Nicolás · BIOBUZZ 2026–2027
 
@@ -1173,7 +1173,7 @@ Entrada: Activar el equipo oficial FIRST ○ pago de temporada local ○ solicit
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 24 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/regional-nuevo-leon-san-nicolas/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C800 · FTC México · Nacional CDMX · Azcapotzalco · BIOBUZZ 2026–2027
 
@@ -1186,7 +1186,7 @@ Entrada: Orden oficial FIRST → Etapas regionales resueltas → Selección naci
 Precio: Página México: US$350 Activar FIRST + MX$7 500 temporada; regional MX$3 750 c IVA. Cuenta actual, Aranceles y contribución nacional; robot, y viajes.
 Limitaciones: En la página de campo Number of Participants: 44 órdenes; No es un saldo de espacio comprobado.. El tiempo de las páginas no es el horario completo: Y CDMX Tec muestra 03:00. Antiguos lineamientos tienen versiones 2024–2025 / 2025–2026; - ¿Qué? HOME EVENT y cuotas no arrastradas a la temporada 2026–2027. Los pases de los niños no se publican en las páginas consultadas.
 Fuente: https://www.first.org.mx/fm/evento/torneo-nacional-cdmx-azcapotzalco/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-09
 
 ### C805 · TecPro Costa Rica · Artifact Fest · 2026
 
@@ -1691,9 +1691,9 @@ Oscar: Condicional: edad posible, requiere acreditación / permiso para esta fas
 Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
 Acceso: Acreditados de regionales / afiliados e invitados. PDF junto a plazo 23 de abril indica Registro por Cerrado; página sin plazo. Acordar admisión actual y condición de no acreditados.
 Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
-Limitaciones:
+Limitaciones: SOLACYT confirma la sede El Trompo y el 19–22 de mayo de 2027. Acceden acreditados de etapas regionales y afiliados internacionales. El plazo de envío del informe de esta final aún figura vacío.
 Fuente: https://infomatrix.lat/iberoamericana/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### C1209 · Infomatrix Nacional México 2027
 
@@ -3003,10 +3003,10 @@ Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso
 Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
 Idioma: Confirmar el idioma del grupo o sede concretos.
 Acceso: Acceso con Experience Card. Confirmar entrada infantil e inclusión de otras zonas del museo.
-Precio: CRC 8500 por Experience Card. La ficha no publica descuentos por edad.
-Limitaciones: 15 de noviembre de 2026, de 10:00 a 17:00. Juegos coleccionables, actividades de juego y taller. Los torneos se inscriben por separado.
+Precio: Experience Card desde 8500 CRC. El taller creativo aparte se anuncia por 15000 CRC. Confirmar tarifa infantil e inclusión de otras zonas del museo.
+Limitaciones: 15 de noviembre de 2026, inicio a las 10:00. Yokai indica cierre a las 17:00 y la página de entradas a las 18:00. Confirmar la última hora de acceso.
 Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C3161 · The Draw · One Piece TCG
 
@@ -5110,9 +5110,9 @@ Oscar: Condicional. Confirmar edad y acceso según las bases de la edición eleg
 Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
 Acceso: La organización invita a espectadores con entrada. La página enlazada de Eventbrite pide contraseña. Hay que confirmar compra, precio, disponibilidad y reglas para menores.
 Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: El 27 de noviembre hay eliminatorias de mTiny y varias categorías técnicas, el 28 sus finales y eliminatorias de Codey Rocky, y el 29 finales de Codey Rocky y otras categorías. Confirmar el horario de acceso del público.
+Limitaciones: Programa provisional: 27 de noviembre eliminatorias mTiny y categorías técnicas; 28 de noviembre 15:00–19:30 eliminatorias Codey Rocky, Inspire, Starter Elementary y Challenge; 29 de noviembre 09:00–14:00 sus finales. Confirmar apertura de puertas y acceso infantil con entrada.
 Fuente: https://www.creativakids.com/makex.php
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E575 · Semana de la Innovación TEC 2027
 
@@ -5932,6 +5932,32 @@ Precio: Entrada general MXN 180, reducida MXN 100 con credencial vigente. Entrad
 Limitaciones: De martes a domingo, 10:00–17:00. El museo cierra los lunes. La página oficial de entradas permite elegir turno. Confirmar las condiciones de uso de las gafas Ray-Ban Meta.
 Fuente: https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano
 Se ha comprobado: 2026-11-08
+
+### C5087 · Amco Summit México 2027 · Robot Challenge
+
+Fecha: 2027-05-22 — 2027-05-22
+edad: Primaria y secundaria. Confirmar con el colegio los cursos exactos, la edad de corte y la composición del equipo.
+Matvey: Condicional para alumnado del curso admitido en un colegio Amco. Confirmar categoría, equipo y selección con el colegio.
+Oscar: Condicional para alumnado del curso admitido en un colegio Amco. Confirmar categoría, equipo y selección con el colegio.
+Idioma: El Summit usa inglés en algunas disciplinas. Confirmar con el colegio el idioma del jurado y de la presentación de cada prueba.
+Acceso: La participación y el acompañamiento se reservan a la comunidad de colegios Amco. Acceso, plazos y bases a través del colegio en Amco Learning Suite. El formulario público pide datos del colegio.
+Precio: Confirmar mediante el colegio la cuota de la disciplina, pases de acompañantes y equipamiento incluido.
+Limitaciones: Horario provisional de Robot Challenge 09:30–16:20, hora local. Confirmar grupo y acceso al recinto.
+Fuente: https://amcosummit.com/es/mexico/
+Se ha comprobado: 2026-11-09
+
+### E729 · Amco Summit México 2027 · Liga DesafIA
+
+Fecha: 2027-05-22 — 2027-05-22
+edad: Cursos 7–9 o equivalente local según la descripción de 2027. Confirmar las bases concretas con el colegio.
+Matvey: No cumple el nivel escolar publicado. Es una etapa posterior.
+Oscar: No cumple el nivel escolar publicado. Es una etapa posterior.
+Idioma: El Summit usa inglés en algunas disciplinas. Confirmar con el colegio el idioma del jurado y de la presentación de cada prueba.
+Acceso: La participación y el acompañamiento se reservan a la comunidad de colegios Amco. Acceso, plazos y bases a través del colegio en Amco Learning Suite. El formulario público pide datos del colegio.
+Precio: Confirmar mediante el colegio la cuota de la disciplina, pases de acompañantes y equipamiento incluido.
+Limitaciones: El programa provisional incluye la muestra DesafIA. Confirmar horario y reglas de equipos con el colegio.
+Fuente: https://amcosummit.com/es/mexico/
+Se ha comprobado: 2026-11-09
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 

@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2228,
+    "dossiers": 2234,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 630,
+      "published_2027": 632,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -43,14 +43,14 @@
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 24,
+      "regular_2026_27": 28,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3161
+    "source_urls": 3164
   },
   "countries": [
     {
@@ -283,7 +283,7 @@
     },
     {
       "country": "Колумбия",
-      "count": 15
+      "count": 21
     },
     {
       "country": "Коста-Рика",
@@ -7422,7 +7422,7 @@
       "provider": "STEAM Academy · Vacacional",
       "country": "Колумбия",
       "iso": "COL",
-      "place": "Bogotá",
+      "place": "Bogotá · Cra. 57C #128B-73",
       "themes": [
         "robotics",
         "coding",
@@ -7470,10 +7470,10 @@
         {
           "title": "Официальные age tracks / holiday",
           "url": "https://steamacademy.edu.co/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-11-09"
     },
     {
       "id": "CP051",
@@ -337481,6 +337481,1625 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP2229",
+      "slug": "akumaya-movies-online",
+      "provider": "AKUMAYA Movies · Online",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Онлайн · время Колумбии",
+      "age": "8–13 лет на программу Movies. Уточнить возраст на первый день выбранной недели.",
+      "programme": "Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Описание и запись на испанском. Устный язык выбранной группы и поддержка на английском уточняются у преподавателя.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "4 самостоятельные недели с 23 ноября по 18 декабря 2026. Вторник 8 декабря выходной. Январские смены ещё ожидаются.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "minions-am",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Утро · 09:00–10:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Рисование в Python Turtle, моделирование в TinkerCAD и компьютерное зрение. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minions-pm",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · День · 14:00–15:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Рисование в Python Turtle, моделирование в TinkerCAD и компьютерное зрение. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minecraft-am",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Утро · 09:00–10:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Программирование агента, строительные задачи и моделирование в TinkerCAD. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minecraft-pm",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · День · 14:00–15:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Программирование агента, строительные задачи и моделирование в TinkerCAD. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "toy-story-am",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Утро · 09:00–10:30",
+            "price": "114000 COP за 4 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              }
+            ],
+            "price_amount": 114000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Проект игрушки в 3D, анимация и распознавание объектов камерой. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "toy-story-pm",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · День · 14:00–15:30",
+            "price": "114000 COP за 4 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              }
+            ],
+            "price_amount": 114000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Проект игрушки в 3D, анимация и распознавание объектов камерой. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "ai-film-am",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Утро · 09:00–10:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 09:00–10:30. В Коста-Рике 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Сценарий, персонажи, генеративные инструменты, озвучка и монтаж короткого фильма. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "ai-film-pm",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · День · 14:00–15:30",
+            "price": "134000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии 14:00–15:30. В Коста-Рике 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Сценарий, персонажи, генеративные инструменты, озвучка и монтаж короткого фильма. Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "COP",
+        "unit": "week",
+        "label": "134000 COP за 5 дней, 114000 COP за 4 дня на ребёнка. 4 недели по опубликованному расчёту: 516000 COP до скидки, 438600 COP с 15%.",
+        "included": "Прямые онлайн-занятия доступны из любой страны. До 8 детей, нужен компьютер с интернетом. Темы включают игровые проекты, 3D и ИИ.",
+        "extras": "Скидка 5% за 2 недели, 10% за 3, 15% за 4. При записи братьев и сестёр 5% каждому. Скидки не суммируются, применяется большая. Подтвердить счёт и правила возврата.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Онлайн, проживание не требуется.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в диапазон 8–13 лет. Нужны подтверждение места, расписания и языка выбранной группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимум 8 лет для этого выпуска. Другой курс академии с более низким порогом проверять отдельно."
+        }
+      },
+      "editorial_reason": "4 самостоятельные недели с 23 ноября по 18 декабря 2026. Вторник 8 декабря выходной. Январские смены ещё ожидаются.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+        "Описание и запись на испанском. Устный язык выбранной группы и поддержка на английском уточняются у преподавателя."
+      ],
+      "sources": [
+        {
+          "url": "https://www.akumaya.co/vacaciones/fin-de-ano",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/terminos",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "games",
+        "coding",
+        "3d"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2230",
+      "slug": "akumaya-movies-bucaramanga",
+      "provider": "AKUMAYA Movies · Bucaramanga",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Bucaramanga · AKUMAYA Educación",
+      "age": "8–13 лет на программу Movies. Уточнить возраст на первый день выбранной недели.",
+      "programme": "Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и запись на испанском. Устный язык выбранной группы и поддержка на английском уточняются у преподавателя.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "4 самостоятельные недели с 23 ноября по 18 декабря 2026. Вторник 8 декабря выходной. Январские смены ещё ожидаются.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "minions-am",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Утро · 09:00–11:30",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Рисование в Python Turtle, моделирование в TinkerCAD и компьютерное зрение. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minions-pm",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · День · 14:30–17:00",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Рисование в Python Turtle, моделирование в TinkerCAD и компьютерное зрение. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minecraft-am",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Утро · 09:00–11:30",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Программирование агента, строительные задачи и моделирование в TinkerCAD. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minecraft-pm",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · День · 14:30–17:00",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Программирование агента, строительные задачи и моделирование в TinkerCAD. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "toy-story-am",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Утро · 09:00–11:30",
+            "price": "167000 COP за 4 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 167000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Проект игрушки в 3D, анимация и распознавание объектов камерой. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "toy-story-pm",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · День · 14:30–17:00",
+            "price": "167000 COP за 4 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 167000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Проект игрушки в 3D, анимация и распознавание объектов камерой. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "ai-film-am",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Утро · 09:00–11:30",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Сценарий, персонажи, генеративные инструменты, озвучка и монтаж короткого фильма. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "ai-film-pm",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · День · 14:30–17:00",
+            "price": "199000 COP за 5 дней на ребёнка.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Время Колумбии."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+            "programme": "Сценарий, персонажи, генеративные инструменты, озвучка и монтаж короткого фильма. Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology",
+              "robotics"
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "COP",
+        "unit": "week",
+        "label": "199000 COP за 5 дней, 167000 COP за 4 дня на ребёнка. 4 недели по опубликованному расчёту: 764000 COP до скидки, 649400 COP с 15%.",
+        "included": "Занятия очно в Bucaramanga, группы до 10 детей. В стоимость входят материалы, робототехника с наборами центра и собственная напечатанная 3D модель. Перекус принести.",
+        "extras": "Скидка 5% за 2 недели, 10% за 3, 15% за 4. При записи братьев и сестёр 5% каждому. Скидки не суммируются, применяется большая. Подтвердить счёт и правила возврата.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в диапазон 8–13 лет. Нужны подтверждение места, расписания и языка выбранной группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимум 8 лет для этого выпуска. Другой курс академии с более низким порогом проверять отдельно."
+        }
+      },
+      "editorial_reason": "4 самостоятельные недели с 23 ноября по 18 декабря 2026. Вторник 8 декабря выходной. Январские смены ещё ожидаются.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Опубликованы варианты на утро и день. Место в выбранном потоке подтверждает оператор.",
+        "Описание и запись на испанском. Устный язык выбранной группы и поддержка на английском уточняются у преподавателя."
+      ],
+      "sources": [
+        {
+          "url": "https://www.akumaya.co/vacaciones/fin-de-ano",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/terminos",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "games",
+        "coding",
+        "3d",
+        "robotics"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2231",
+      "slug": "steam-academy-bogota-explorers",
+      "provider": "STEAM Academy Bogotá · Explorers",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "5–7 лет по возрастной лестнице клуба.",
+      "programme": "Первые роботы без экрана и алгоритмические задания.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Испанский указан в материалах. Язык занятий и помощь на английском уточнить по группе.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Опубликована пробная встреча. Стоимость регулярных занятий, состав оплаты и условия приёма уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрастному диапазону этой группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по возрасту. Проверить свободное место, уровень и язык группы."
+        }
+      },
+      "editorial_reason": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L939"
+      ]
+    },
+    {
+      "id": "CP2232",
+      "slug": "steam-academy-bogota-inventors",
+      "provider": "STEAM Academy Bogotá · Inventors",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "7–9 лет по возрастной лестнице клуба.",
+      "programme": "LEGO Mindstorms Inventor, моторы, датчики и шестерни.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Испанский указан в материалах. Язык занятий и помощь на английском уточнить по группе.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Опубликована пробная встреча. Стоимость регулярных занятий, состав оплаты и условия приёма уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по возрасту. Проверить свободное место, уровень и язык группы."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L940"
+      ]
+    },
+    {
+      "id": "CP2233",
+      "slug": "steam-academy-bogota-builders",
+      "provider": "STEAM Academy Bogotá · Builders",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "9–12 лет по возрастной лестнице клуба.",
+      "programme": "LEGO Mindstorms Inventor и Makey Makey, основы электроники, механики и проектирования.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Испанский указан в материалах. Язык занятий и помощь на английском уточнить по группе.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Опубликована пробная встреча. Стоимость регулярных занятий, состав оплаты и условия приёма уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по возрасту. Проверить свободное место, уровень и язык группы."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L941"
+      ]
+    },
+    {
+      "id": "CP2234",
+      "slug": "steam-academy-bogota-encoders",
+      "provider": "STEAM Academy Bogotá · Encoders",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "12–14 лет по возрастной лестнице клуба.",
+      "programme": "LEGO Mindstorms, mBot и micro:bit, электроника и программирование автономных проектов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Испанский указан в материалах. Язык занятий и помощь на английском уточнить по группе.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Опубликована пробная встреча. Стоимость регулярных занятий, состав оплаты и условия приёма уточнить.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрастному диапазону этой группы."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Клуб публикует часы по четвергам 15:00–17:00 и субботам 08:00–10:00 / 10:30–12:30. Уточнить расписание конкретной группы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L942"
+      ]
     }
   ],
   "gaps": [
@@ -342806,7 +344425,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 331,
+  "version": 332,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -356041,7 +357660,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2228,
+      "total_dossiers": 2234,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

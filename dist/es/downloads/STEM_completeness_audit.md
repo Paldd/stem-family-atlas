@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11399; competiciones: 5085; eventos: 728; campamentos / programas: 5586. Perfiles de ligas y programas: 324. Fichas de exposiciones grandes y especializadas: 625 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11425; competiciones: 5088; eventos: 731; campamentos / programas: 5606. Perfiles de ligas y programas: 326. Fichas de exposiciones grandes y especializadas: 625 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2062 | 165 | 1402 |
-| América del Sur | 15 | 467 | 52 | 238 |
+| América del Norte | 41 | 2064 | 165 | 1402 |
+| América del Sur | 15 | 468 | 52 | 258 |
 | Europa | 55 | 725 | 155 | 1628 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1200 | 174 | 1785 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
 
-VEX: 815 de 5085 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
+VEX: 815 de 5088 fichas de competiciones (16.0%). La cobertura se concentra en esta red.
 
 ## Lo que queda
 
@@ -350,6 +350,8 @@ VEX: 815 de 5085 fichas de competiciones (16.0%). La cobertura se concentra en e
 - **TEAM Alliance · Sphero Robotics Missions / Blueprint SRC**: 23 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://teamalliance.org/events/
 - **Colorado FIRST · LEGO League Explore**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://coloradofirst.org/programs/fll-explore/
 - **Wonder League Robotics Competition**: 10 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makewonder.com/robotics-competition/
+- **Amco Robot Challenge**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://amcosummit.com/es/
+- **Amco Liga DesafIA**: 0 fichas, 0 con fechas futuras precisas. programa de formación / asistencia; no hay etapas de concurso. https://amcosummit.com/es/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

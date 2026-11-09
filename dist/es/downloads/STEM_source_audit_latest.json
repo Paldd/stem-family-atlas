@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11399,
-    "competition_cards": 5085,
-    "event_cards": 728,
-    "camp_cards": 5586,
-    "league_profiles": 324,
+    "cards": 11425,
+    "competition_cards": 5088,
+    "event_cards": 731,
+    "camp_cards": 5606,
+    "league_profiles": 326,
     "major_exhibition_cards": 625,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -34,10 +34,10 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3674,
+      "total": 3678,
       "countries_with_records": 41,
-      "competitions": 2062,
-      "events": 210,
+      "competitions": 2064,
+      "events": 212,
       "major_exhibitions": 165,
       "camps": 1402,
       "status": "Se ha estudiado parcialmente",
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 761,
+      "total": 783,
       "countries_with_records": 15,
-      "competitions": 467,
-      "events": 56,
+      "competitions": 468,
+      "events": 57,
       "major_exhibitions": 52,
-      "camps": 238,
+      "camps": 258,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -8342,6 +8342,34 @@
       "linked_card_count": 10,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.makewonder.com/robotics-competition/",
+      "new": false
+    },
+    {
+      "id": "amco-robot-challenge",
+      "name": "Amco Robot Challenge",
+      "group": "international",
+      "event_ids": [
+        "C5087",
+        "C5088",
+        "C5089"
+      ],
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://amcosummit.com/es/",
+      "new": false
+    },
+    {
+      "id": "amco-desafia",
+      "name": "Amco Liga DesafIA",
+      "group": "international",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "linked_card_count": 3,
+      "status": "programa de formación / asistencia; no hay etapas de concurso",
+      "source": "https://amcosummit.com/es/",
       "new": false
     },
     {
@@ -18638,8 +18666,8 @@
       }
     ],
     "counts": {
-      "records": 5586,
-      "holiday": 5015,
+      "records": 5606,
+      "holiday": 5031,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

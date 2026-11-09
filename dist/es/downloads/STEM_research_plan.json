@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 331,
+    "version": 332,
     "status": "implementation_snapshot",
-    "events": 11399,
-    "competitions": 5085,
-    "league_profiles": 324,
-    "camp_dossiers": 2228,
+    "events": 11425,
+    "competitions": 5088,
+    "league_profiles": 326,
+    "camp_dossiers": 2234,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 728,
+    "exhibitions_events": 731,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 330,
+    "version": 331,
     "status": "implementation_snapshot",
-    "events": 11380,
-    "competitions": 5084,
+    "events": 11399,
+    "competitions": 5085,
     "league_profiles": 324,
-    "camp_dossiers": 2212,
+    "camp_dossiers": 2228,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 726,
+    "exhibitions_events": 728,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 331,
+    "prepared_ui_version": 332,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 330,
-    "previous_verified_commit": "b20fc4e4671ab9bec9b19d0d04e3261752d7bc63"
+    "previous_verified_ui_version": 331,
+    "previous_verified_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 330,
-    "published_version": 330,
-    "latest_source_commit": "b20fc4e4671ab9bec9b19d0d04e3261752d7bc63",
-    "published_commit": "b20fc4e4671ab9bec9b19d0d04e3261752d7bc63",
-    "latest_workflow": 42577544764,
+    "latest_source_version": 331,
+    "published_version": 331,
+    "latest_source_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23",
+    "published_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23",
+    "latest_workflow": 42579721148,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35180,6 +35180,141 @@
       ],
       "light-robotics-code-first": [
         "L938"
+      ]
+    }
+  },
+  "amco_summit_and_latam_holiday_tech_v332": {
+    "version": 332,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5087",
+      "E729",
+      "C5088",
+      "E730",
+      "C5089",
+      "E731",
+      "L939",
+      "L940",
+      "L941",
+      "L942",
+      "CP2229-20261123-20261127-minions-am",
+      "CP2229-20261123-20261127-minions-pm",
+      "CP2229-20261130-20261204-minecraft-am",
+      "CP2229-20261130-20261204-minecraft-pm",
+      "CP2229-20261207-20261211-toy-story-am",
+      "CP2229-20261207-20261211-toy-story-pm",
+      "CP2229-20261214-20261218-ai-film-am",
+      "CP2229-20261214-20261218-ai-film-pm",
+      "CP2230-20261123-20261127-minions-am",
+      "CP2230-20261123-20261127-minions-pm",
+      "CP2230-20261130-20261204-minecraft-am",
+      "CP2230-20261130-20261204-minecraft-pm",
+      "CP2230-20261207-20261211-toy-story-am",
+      "CP2230-20261207-20261211-toy-story-pm",
+      "CP2230-20261214-20261218-ai-film-am",
+      "CP2230-20261214-20261218-ai-film-pm"
+    ],
+    "refreshed_event_ids": [
+      "E574",
+      "E328",
+      "C1208",
+      "C789",
+      "C790",
+      "C791",
+      "C792",
+      "C793",
+      "C794",
+      "C795",
+      "C796",
+      "C797",
+      "C798",
+      "C799",
+      "C800"
+    ],
+    "new_dossier_ids": [
+      "CP2229",
+      "CP2230",
+      "CP2231",
+      "CP2232",
+      "CP2233",
+      "CP2234"
+    ],
+    "refreshed_dossier_ids": [
+      "CP050"
+    ],
+    "new_league_ids": [
+      "amco-robot-challenge",
+      "amco-desafia"
+    ],
+    "amco_event_ids": [
+      "C5087",
+      "E729",
+      "C5088",
+      "E730",
+      "C5089",
+      "E731"
+    ],
+    "amco_host_countries": [
+      "MEX",
+      "GTM",
+      "BRA"
+    ],
+    "amco_guatemala_ai_status": "listed-without-agenda",
+    "akumaya_profiles": [
+      "CP2229",
+      "CP2230"
+    ],
+    "akumaya_weeks": 4,
+    "akumaya_published_variants": 16,
+    "akumaya_holiday": "2026-12-08",
+    "akumaya_live_instruction_languages_confirmed": [],
+    "ftc_mexico_calendar_ids": [
+      "C789",
+      "C790",
+      "C791",
+      "C792",
+      "C793",
+      "C794",
+      "C795",
+      "C796",
+      "C797",
+      "C798",
+      "C799",
+      "C800"
+    ],
+    "bajabot_release_status": "rules-2027-not-yet-verified",
+    "source_requests": 29,
+    "legacy_overlay_event_ids": [
+      "E574",
+      "E328",
+      "C1208",
+      "C789",
+      "C790",
+      "C791",
+      "C792",
+      "C793",
+      "C794",
+      "C795",
+      "C796",
+      "C797",
+      "C798",
+      "C799",
+      "C800"
+    ],
+    "dossier_event_links": {
+      "steam-academy-bogota-explorers": [
+        "L939"
+      ],
+      "steam-academy-bogota-inventors": [
+        "L940"
+      ],
+      "steam-academy-bogota-builders": [
+        "L941"
+      ],
+      "steam-academy-bogota-encoders": [
+        "L942"
       ]
     }
   }

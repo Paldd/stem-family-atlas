@@ -6665,6 +6665,84 @@ Limitaciones: Confirmar fecha, edad, idioma y precio de la sesión vacacional co
 Fuente: https://www.algorithmicsperu.com/
 Se ha comprobado: 2026-11-09
 
+### C5089 · Amco Summit Brasil 2027 · Robot Challenge
+
+Fecha: 2027-10-02 — 2027-10-02
+edad: Primaria y secundaria. Confirmar con el colegio los cursos exactos, la edad de corte y la composición del equipo.
+Matvey: Condicional para alumnado del curso admitido en un colegio Amco. Confirmar categoría, equipo y selección con el colegio.
+Oscar: Condicional para alumnado del curso admitido en un colegio Amco. Confirmar categoría, equipo y selección con el colegio.
+Idioma: El Summit usa inglés en algunas disciplinas. Confirmar con el colegio el idioma del jurado y de la presentación de cada prueba.
+Acceso: La participación y el acompañamiento se reservan a la comunidad de colegios Amco. Acceso, plazos y bases a través del colegio en Amco Learning Suite. El formulario público pide datos del colegio.
+Precio: Confirmar mediante el colegio la cuota de la disciplina, pases de acompañantes y equipamiento incluido.
+Limitaciones: Horario provisional de Robot Challenge 09:15–15:10, hora local. Confirmar grupo y acceso al recinto.
+Fuente: https://amcosummit.com/es/brasil/
+Se ha comprobado: 2026-11-09
+
+### E731 · Amco Summit Brasil 2027 · Liga DesafIA
+
+Fecha: 2027-10-02 — 2027-10-02
+edad: Cursos 7–9 o equivalente local según la descripción de 2027. Confirmar las bases concretas con el colegio.
+Matvey: No cumple el nivel escolar publicado. Es una etapa posterior.
+Oscar: No cumple el nivel escolar publicado. Es una etapa posterior.
+Idioma: El Summit usa inglés en algunas disciplinas. Confirmar con el colegio el idioma del jurado y de la presentación de cada prueba.
+Acceso: La participación y el acompañamiento se reservan a la comunidad de colegios Amco. Acceso, plazos y bases a través del colegio en Amco Learning Suite. El formulario público pide datos del colegio.
+Precio: Confirmar mediante el colegio la cuota de la disciplina, pases de acompañantes y equipamiento incluido.
+Limitaciones: El programa provisional incluye la muestra DesafIA. Confirmar horario y reglas de equipos con el colegio.
+Fuente: https://amcosummit.com/es/brasil/
+Se ha comprobado: 2026-11-09
+
+### L939 · STEAM Academy Bogotá · Explorers
+
+Fecha: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+edad: 5–7 años según la ruta por edades del club.
+Matvey: No encaja en la franja de edad de este grupo.
+Oscar: Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+Idioma: El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+Acceso: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Precio: Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Fuente: https://steamacademy.edu.co/
+Se ha comprobado: 2026-11-09
+
+### L940 · STEAM Academy Bogotá · Inventors
+
+Fecha: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+edad: 7–9 años según la ruta por edades del club.
+Matvey: Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+Acceso: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Precio: Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Fuente: https://steamacademy.edu.co/
+Se ha comprobado: 2026-11-09
+
+### L941 · STEAM Academy Bogotá · Builders
+
+Fecha: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+edad: 9–12 años según la ruta por edades del club.
+Matvey: Condicional por edad. Confirmar plaza, nivel e idioma del grupo.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+Acceso: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Precio: Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Fuente: https://steamacademy.edu.co/
+Se ha comprobado: 2026-11-09
+
+### L942 · STEAM Academy Bogotá · Encoders
+
+Fecha: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+edad: 12–14 años según la ruta por edades del club.
+Matvey: No encaja en la franja de edad de este grupo.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.
+Acceso: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Precio: Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.
+Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.
+Fuente: https://steamacademy.edu.co/
+Se ha comprobado: 2026-11-09
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -9160,6 +9238,214 @@ Precio: 2026/27 · 238000 COP por menor, materiales incluidos. · suplementos y 
 Limitaciones: Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: Edad inferior al mínimo para este turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias
 Se ha comprobado: 2026-11-08
+
+### CP2229-20261123-20261127-minions-am · AKUMAYA Movies · Online · Minions · Mañana · 09:00–10:30 · 2026-11-23–2026-11-27
+
+Fecha: 2026-11-23 国 2026-11-27
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261123-20261127-minions-pm · AKUMAYA Movies · Online · Minions · Tarde · 14:00–15:30 · 2026-11-23–2026-11-27
+
+Fecha: 2026-11-23 国 2026-11-27
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261130-20261204-minecraft-am · AKUMAYA Movies · Online · Minecraft Education · Mañana · 09:00–10:30 · 2026-11-30–2026-12-04
+
+Fecha: 2026-11-30 — 2026-12-04
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261130-20261204-minecraft-pm · AKUMAYA Movies · Online · Minecraft Education · Tarde · 14:00–15:30 · 2026-11-30–2026-12-04
+
+Fecha: 2026-11-30 — 2026-12-04
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261207-20261211-toy-story-am · AKUMAYA Movies · Online · Toy Story · Mañana · 09:00–10:30 · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 114000 COP por 4 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261207-20261211-toy-story-pm · AKUMAYA Movies · Online · Toy Story · Tarde · 14:00–15:30 · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 114000 COP por 4 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261214-20261218-ai-film-am · AKUMAYA Movies · Online · Crea tu corto con IA · Mañana · 09:00–10:30 · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2229-20261214-20261218-ai-film-pm · AKUMAYA Movies · Online · Crea tu corto con IA · Tarde · 14:00–15:30 · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 134000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261123-20261127-minions-am · AKUMAYA Movies · Bucaramanga · Minions · Mañana · 09:00–11:30 · 2026-11-23–2026-11-27
+
+Fecha: 2026-11-23 国 2026-11-27
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261123-20261127-minions-pm · AKUMAYA Movies · Bucaramanga · Minions · Tarde · 14:30–17:00 · 2026-11-23–2026-11-27
+
+Fecha: 2026-11-23 国 2026-11-27
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261130-20261204-minecraft-am · AKUMAYA Movies · Bucaramanga · Minecraft Education · Mañana · 09:00–11:30 · 2026-11-30–2026-12-04
+
+Fecha: 2026-11-30 — 2026-12-04
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261130-20261204-minecraft-pm · AKUMAYA Movies · Bucaramanga · Minecraft Education · Tarde · 14:30–17:00 · 2026-11-30–2026-12-04
+
+Fecha: 2026-11-30 — 2026-12-04
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261207-20261211-toy-story-am · AKUMAYA Movies · Bucaramanga · Toy Story · Mañana · 09:00–11:30 · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 167000 COP por 4 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261207-20261211-toy-story-pm · AKUMAYA Movies · Bucaramanga · Toy Story · Tarde · 14:30–17:00 · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 167000 COP por 4 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261214-20261218-ai-film-am · AKUMAYA Movies · Bucaramanga · Crea tu corto con IA · Mañana · 09:00–11:30 · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
+
+### CP2230-20261214-20261218-ai-film-pm · AKUMAYA Movies · Bucaramanga · Crea tu corto con IA · Tarde · 14:30–17:00 · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.
+Acceso: Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.
+Precio: 2026/27 · 199000 COP por 5 días por menor. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido. Oscar: Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior. Suplementos: Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
+Se ha comprobado: 2026-11-09
 
 ### E298 · Brasil Game Show 2027 · public exhibition
 

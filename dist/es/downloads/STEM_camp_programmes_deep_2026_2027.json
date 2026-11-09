@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2228,
+    "dossiers": 2234,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 630,
+      "published_2027": 632,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -43,14 +43,14 @@
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 24,
+      "regular_2026_27": 28,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3161
+    "source_urls": 3164
   },
   "countries": [
     {
@@ -283,7 +283,7 @@
     },
     {
       "country": "Colombia",
-      "count": 15
+      "count": 21
     },
     {
       "country": "Costa Rica",
@@ -9114,7 +9114,7 @@
       "provider": "STEAM Academy · Vacacional",
       "country": "Colombia",
       "iso": "COL",
-      "place": "Bogotá",
+      "place": "Bogotá · Cra. 57C #128B-73",
       "themes": [
         "robotics",
         "coding",
@@ -9163,10 +9163,10 @@
         {
           "title": "las canciones de edad / holiday",
           "url": "https://steamacademy.edu.co/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-10-04",
+      "checked": "2026-11-09",
       "related_event_ids": [],
       "calendar_links": [],
       "language_roles": {}
@@ -390108,6 +390108,1797 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2229",
+      "slug": "akumaya-movies-online",
+      "provider": "AKUMAYA Movies · Online",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "En línea · hora de Colombia",
+      "age": "8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.",
+      "programme": "Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "minions-am",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Mañana · 09:00–10:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minions-pm",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Tarde · 14:00–15:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minecraft-am",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Mañana · 09:00–10:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Programación del agente, retos de construcción y modelado con TinkerCAD. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "minecraft-pm",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Tarde · 14:00–15:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Programación del agente, retos de construcción y modelado con TinkerCAD. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "toy-story-am",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Mañana · 09:00–10:30",
+            "price": "114000 COP por 4 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              }
+            ],
+            "price_amount": 114000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "toy-story-pm",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Tarde · 14:00–15:30",
+            "price": "114000 COP por 4 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              }
+            ],
+            "price_amount": 114000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d"
+            ]
+          },
+          {
+            "variant_key": "ai-film-am",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Mañana · 09:00–10:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "10:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 09:00–10:30. En Costa Rica 08:00–09:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "ai-film-pm",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Tarde · 14:00–15:30",
+            "price": "134000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia 14:00–15:30. En Costa Rica 13:00–14:30."
+              }
+            ],
+            "price_amount": 134000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "COP",
+        "unit": "week",
+        "label": "134000 COP por 5 días, 114000 COP por 4 días por menor. Cálculo para 4 semanas: 516000 COP antes del descuento, 438600 COP con 15%.",
+        "included": "Clases en directo en línea desde cualquier país. Hasta 8 menores y ordenador con internet. Temas de proyectos de videojuegos, 3D e IA.",
+        "extras": "Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "En línea, no requiere alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior."
+        }
+      },
+      "editorial_reason": "4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+        "Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.akumaya.co/vacaciones/fin-de-ano",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/terminos",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "games",
+        "coding",
+        "3d"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261123-20261127-minions-am"
+          ]
+        },
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261123-20261127-minions-pm"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261130-20261204-minecraft-am"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261130-20261204-minecraft-pm"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261207-20261211-toy-story-am"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261207-20261211-toy-story-pm"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261214-20261218-ai-film-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2229-20261214-20261218-ai-film-pm"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2230",
+      "slug": "akumaya-movies-bucaramanga",
+      "provider": "AKUMAYA Movies · Bucaramanga",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "Bucaramanga · AKUMAYA Educación",
+      "age": "8–13 años para el programa Movies. Confirmar edad en el primer día de la semana elegida.",
+      "programme": "Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "minions-am",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Mañana · 09:00–11:30",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minions-pm",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Minions · Tarde · 14:30–17:00",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minions",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Dibujo con Python Turtle, modelado en TinkerCAD y visión por computador. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "coding",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minecraft-am",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Mañana · 09:00–11:30",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Programación del agente, retos de construcción y modelado con TinkerCAD. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "minecraft-pm",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Minecraft Education · Tarde · 14:30–17:00",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Minecraft Education",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Programación del agente, retos de construcción y modelado con TinkerCAD. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "games",
+              "coding",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "toy-story-am",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Mañana · 09:00–11:30",
+            "price": "167000 COP por 4 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 167000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "toy-story-pm",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Toy Story · Tarde · 14:30–17:00",
+            "price": "167000 COP por 4 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Toy Story",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 167000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Diseño de juguete en 3D, animación y reconocimiento de objetos con cámara. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "design",
+              "ai",
+              "3d",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "ai-film-am",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Mañana · 09:00–11:30",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "11:30",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "ai-film-pm",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Crea tu corto con IA · Tarde · 14:30–17:00",
+            "price": "199000 COP por 5 días por menor.",
+            "source": "https://www.akumaya.co/vacaciones/fin-de-ano",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:30",
+                "end_time": "17:00",
+                "timezone": "America/Bogota",
+                "topic": "Crea tu corto con IA",
+                "ical_timed": true,
+                "time_note": "Hora de Colombia."
+              }
+            ],
+            "price_amount": 199000,
+            "price_currency": "COP",
+            "entry": "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+            "programme": "Guion, personajes, herramientas generativas, voces y montaje de un cortometraje. Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+            "catalog_themes": [
+              "ai",
+              "art",
+              "technology",
+              "robotics"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "COP",
+        "unit": "week",
+        "label": "199000 COP por 5 días, 167000 COP por 4 días por menor. Cálculo para 4 semanas: 764000 COP antes del descuento, 649400 COP con 15%.",
+        "included": "Clases presenciales en Bucaramanga, grupos de hasta 10. Incluye materiales, robótica con los kits de la sede y una pieza propia impresa en 3D. Llevar merienda.",
+        "extras": "Descuento de 5% por 2 semanas, 10% por 3 y 15% por 4. Si se inscriben hermanos, 5% a cada uno. Se aplica el descuento mayor sin acumular. Confirmar factura y devolución.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en la franja 8–13. Falta confirmar plaza, horario e idioma del grupo elegido."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad mínima de 8 años para esta edición. Comprobar aparte otros cursos de la academia con un mínimo inferior."
+        }
+      },
+      "editorial_reason": "4 semanas independientes del 23 de noviembre al 18 de diciembre de 2026. Martes 8 de diciembre festivo. Turnos de enero pendientes.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Se publican opciones de mañana y tarde. La academia confirma plaza en el grupo elegido.",
+        "Descripción e inscripción en español. Confirmar con el docente idioma hablado del grupo y apoyo en inglés."
+      ],
+      "sources": [
+        {
+          "url": "https://www.akumaya.co/vacaciones/fin-de-ano",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.akumaya.co/terminos",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "games",
+        "coding",
+        "3d",
+        "robotics"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261123-20261127-minions-am"
+          ]
+        },
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261123-20261127-minions-pm"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261130-20261204-minecraft-am"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261130-20261204-minecraft-pm"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261207-20261211-toy-story-am"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261207-20261211-toy-story-pm"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261214-20261218-ai-film-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2230-20261214-20261218-ai-film-pm"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2231",
+      "slug": "steam-academy-bogota-explorers",
+      "provider": "STEAM Academy Bogotá · Explorers",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "5–7 años según la ruta por edades del club.",
+      "programme": "Primeros robots sin pantalla y retos algorítmicos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional por edad. Confirmar plaza, nivel e idioma del grupo."
+        }
+      },
+      "editorial_reason": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L939"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2232",
+      "slug": "steam-academy-bogota-inventors",
+      "provider": "STEAM Academy Bogotá · Inventors",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "7–9 años según la ruta por edades del club.",
+      "programme": "LEGO Mindstorms Inventor, motores, sensores y engranajes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por edad. Confirmar plaza, nivel e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L940"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2233",
+      "slug": "steam-academy-bogota-builders",
+      "provider": "STEAM Academy Bogotá · Builders",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "9–12 años según la ruta por edades del club.",
+      "programme": "LEGO Mindstorms Inventor y Makey Makey, fundamentos de electrónica, mecánica y diseño.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional por edad. Confirmar plaza, nivel e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L941"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2234",
+      "slug": "steam-academy-bogota-encoders",
+      "provider": "STEAM Academy Bogotá · Encoders",
+      "country": "Colombia",
+      "iso": "COL",
+      "place": "Bogotá · Cra. 57C #128B-73",
+      "age": "12–14 años según la ruta por edades del club.",
+      "programme": "LEGO Mindstorms, mBot y micro:bit, electrónica y programación de proyectos autónomos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El material se publica en español. Confirmar idioma de las clases y apoyo en inglés por grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Se anuncia una clase de prueba. Confirmar precio de las clases regulares, conceptos cobrados y admisión.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10:30–12:30. Confirmar horario del grupo concreto.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://steamacademy.edu.co/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [
+        "L942"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -395433,7 +397224,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 331,
+  "version": 332,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -408668,7 +410459,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2228,
+      "total_dossiers": 2234,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -433468,6 +435259,106 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261123-20261127-minions-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261123-20261127-minions-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261130-20261204-minecraft-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261130-20261204-minecraft-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261207-20261211-toy-story-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261207-20261211-toy-story-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261214-20261218-ai-film-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2229",
+      "event_id": "CP2229-20261214-20261218-ai-film-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261123-20261127-minions-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261123-20261127-minions-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261130-20261204-minecraft-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261130-20261204-minecraft-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261207-20261211-toy-story-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261207-20261211-toy-story-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261214-20261218-ai-film-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2230",
+      "event_id": "CP2230-20261214-20261218-ai-film-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2231",
+      "event_id": "L939",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2232",
+      "event_id": "L940",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2233",
+      "event_id": "L941",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2234",
+      "event_id": "L942",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -438526,10 +440417,26 @@
     "CP2209-20261228-20261229-winter-tour",
     "CP2210-20270226-20270226-feb-26",
     "CP2211-20270226-20270226-feb-26",
-    "CP2212-20270226-20270226-feb-26"
+    "CP2212-20270226-20270226-feb-26",
+    "CP2229-20261123-20261127-minions-am",
+    "CP2229-20261123-20261127-minions-pm",
+    "CP2229-20261130-20261204-minecraft-am",
+    "CP2229-20261130-20261204-minecraft-pm",
+    "CP2229-20261207-20261211-toy-story-am",
+    "CP2229-20261207-20261211-toy-story-pm",
+    "CP2229-20261214-20261218-ai-film-am",
+    "CP2229-20261214-20261218-ai-film-pm",
+    "CP2230-20261123-20261127-minions-am",
+    "CP2230-20261123-20261127-minions-pm",
+    "CP2230-20261130-20261204-minecraft-am",
+    "CP2230-20261130-20261204-minecraft-pm",
+    "CP2230-20261207-20261211-toy-story-am",
+    "CP2230-20261207-20261211-toy-story-pm",
+    "CP2230-20261214-20261218-ai-film-am",
+    "CP2230-20261214-20261218-ai-film-pm"
   ],
   "integration": {
-    "generated_sessions": 4648,
+    "generated_sessions": 4664,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
