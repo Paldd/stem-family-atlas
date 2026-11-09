@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2202 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
+Estado de la base al 2026-11-09. 2209 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -175091,6 +175091,360 @@ Perú · Lima
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.algorithmicsperu.com/) · 2026-11-09
+
+## CP2203 · RoboParty Guimarães 2027
+
+Portugal · Guimarães · Pavilhão Desportivo de Azurém · Universidade do Minho
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Las bases publicadas no indican edad mínima. Equipo de hasta 4 personas, incluida una adulta.
+
+**Idioma:** No se confirma el idioma de la mentoría y la asistencia técnica. Las páginas y el formulario consultados están en portugués.
+
+**Programa:** 3 días y 2 noches. El equipo familiar monta y programa un robot autónomo y puede probarlo en retos formativos.
+
+**Alojamiento:** Pernocta en el recinto con la persona adulta responsable. La supervisión corresponde al adulto del equipo. Confirmar la zona de descanso y el saco propio antes del viaje.
+
+**Fechas / estado:** 17–19 de marzo de 2027. Las mismas personas integran el equipo los 3 días según las bases publicadas.
+
+**Precio / año:** 2027 · EUR 310 por equipo con kit, comidas +125, plaza para dormir +25 por equipo. Total EUR 460 con comidas y pernocta. Herramientas en el formulario +20 si hacen falta.
+
+**Incluido:** La tarifa base cubre un Bot’n Roll ONE A+, formación y acceso a las actividades. El equipo conserva el robot que monta.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura.
+
+**Oscar:** Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura.
+
+**Por qué se incluye:** 17–19 de marzo de 2027. Las mismas personas integran el equipo los 3 días según las bases publicadas.
+
+### Antes de solicitar plaza
+
+- La fecha exacta de cierre, las edades, el idioma de los mentores y las condiciones de pernocta requieren confirmación. La última versión accesible de las bases es V1.26.pt.
+
+- La universidad anunció inscripciones y el formulario público indica la edición 2027. Las bases admiten familias. El formulario pide institución y teléfono de 9 dígitos. Costa Rica y México no aparecen por separado, figura Outro. Consultar qué debe indicar un equipo familiar extranjero.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/register.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/price.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/js/register.js) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/deadlines.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboparty.org/RPGuimaraes/sleeping.php) · 2026-11-09
+
+## CP2204 · Big Bang Academy · Mini AI Innovators and Health Detectives
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–5 y 5–7 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de IA creativa, análisis capilar y una práctica de elaboración de champú.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2026 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Supera la edad máxima de los grupos infantiles.
+
+**Oscar:** Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Mini AI Innovators and Health Detectives
+
+**Fechas / estado:** 2026-12-17 — 2026-12-18
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2205 · Big Bang Academy · Mini Food Scientists and Farm Heros
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–5 y 5–7 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de tecnología alimentaria, cultivo urbano y un proyecto ecológico.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2026 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Supera la edad máxima de los grupos infantiles.
+
+**Oscar:** Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Mini Food Scientists and Farm Heros
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2206 · Big Bang Academy · Mini Pilots and Smart Drivers
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–5 y 5–7 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de transporte de ciudad inteligente, simuladores de aviación y proyecto de prueba. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2026 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Supera la edad máxima de los grupos infantiles.
+
+**Oscar:** Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Mini Pilots and Smart Drivers
+
+**Fechas / estado:** 2026-12-19 — 2026-12-20
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2207 · Big Bang Academy · Mini Plant Scientists and Smart Farmers
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–5 y 5–7 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de plantas, sensores y tecnología agrícola, con AR/VR dentro de la temática.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2027 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Supera la edad máxima de los grupos infantiles.
+
+**Oscar:** Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Mini Plant Scientists and Smart Farmers
+
+**Fechas / estado:** 2027-01-02 — 2027-01-03
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2208 · Big Bang Academy · Digital Game Designer & Robot Engineer
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 7–9, 9–11 y 11–14 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de mundos interactivos, robots, automatización, pruebas y presentación de prototipo. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2026 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado.
+
+**Oscar:** Sin acceso si aún no ha cumplido 7 años en la fecha del tour.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Digital Game Designer & Robot Engineer
+
+**Fechas / estado:** 2026-12-19 — 2026-12-20
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
+
+## CP2209 · Big Bang Academy · AI Engineer and Drone Controller
+
+RAE de Hong Kong (China) · Hong Kong · sede y punto de encuentro por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 7–9, 9–11 y 11–14 años.
+
+**Idioma:** La organización indica inglés para HK Global Programme Tours.
+
+**Programa:** Anuncio de decisiones con IA, vuelo de drones, programación y demostración de prototipo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+**Precio / año:** 2026 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Incluido:** Almuerzo y transporte según la descripción general de HK Global Programme Tours.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado.
+
+**Oscar:** Sin acceso si aún no ha cumplido 7 años en la fecha del tour.
+
+**Por qué se incluye:** Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+### Antes de solicitar plaza
+
+- Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### AI Engineer and Drone Controller
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Precio:** Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

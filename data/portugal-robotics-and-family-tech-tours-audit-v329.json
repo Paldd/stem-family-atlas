@@ -1,0 +1,96 @@
+{
+  "version": 329,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5069",
+    "C5070",
+    "C5071",
+    "E725",
+    "CP2204-20261217-20261218-winter-tour",
+    "CP2205-20261221-20261222-winter-tour",
+    "CP2206-20261219-20261220-winter-tour",
+    "CP2207-20270102-20270103-winter-tour",
+    "CP2208-20261219-20261220-winter-tour",
+    "CP2209-20261228-20261229-winter-tour"
+  ],
+  "refreshed_event_ids": [
+    "L307",
+    "C1012",
+    "C1013",
+    "C1014",
+    "C1015",
+    "C1016",
+    "C1017",
+    "C1018",
+    "C1019",
+    "C1020",
+    "E154"
+  ],
+  "new_dossier_ids": [
+    "CP2203",
+    "CP2204",
+    "CP2205",
+    "CP2206",
+    "CP2207",
+    "CP2208",
+    "CP2209"
+  ],
+  "fnr_junior_categories": {
+    "C1012": "fnrFirst",
+    "C1013": "fnrFree",
+    "C1014": "fnrOnStage",
+    "C1015": "fnrLine",
+    "C1016": "fnrRescue",
+    "C1017": "fnrMaze",
+    "C1018": "fnrSim",
+    "C1019": "fnrSoccer",
+    "C1020": "fnrFactory"
+  },
+  "fnr_specialist_categories": 10,
+  "fnr_public_visit_event": "E154",
+  "fnr_prices_eur": [
+    180,
+    198,
+    216
+  ],
+  "fnr_price_milestones": [
+    "C5070",
+    "C5071"
+  ],
+  "fnr_individual_micromouse": "C5069",
+  "roboparty_event": "L307",
+  "roboparty_dossier": "CP2203",
+  "roboparty_published_team_fees_eur": [
+    310,
+    125,
+    25,
+    460
+  ],
+  "vglx_event": "E725",
+  "vglx_current_ticket_link_edition": 2026,
+  "hk_tour_announcements": 6,
+  "hk_tour_primary_instruction": "EN",
+  "hk_tour_package_hkd": 6399,
+  "hk_tour_exact_sibling_pair_verified": false,
+  "source_requests": 26,
+  "legacy_overlay_event_ids": [
+    "L307",
+    "C1012",
+    "C1013",
+    "C1014",
+    "C1015",
+    "C1016",
+    "C1017",
+    "C1018",
+    "C1019",
+    "C1020",
+    "E154"
+  ],
+  "dossier_event_links": {
+    "roboparty-guimaraes-2027": [
+      "L307"
+    ]
+  }
+}

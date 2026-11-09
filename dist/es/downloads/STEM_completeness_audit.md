@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11352; competiciones: 5067; eventos: 724; campamentos / programas: 5561. Perfiles de ligas y programas: 323. Fichas de exposiciones grandes y especializadas: 623 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11362; competiciones: 5070; eventos: 725; campamentos / programas: 5567. Perfiles de ligas y programas: 323. Fichas de exposiciones grandes y especializadas: 624 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2061 | 164 | 1399 |
+| América del Norte | 41 | 2061 | 165 | 1399 |
 | América del Sur | 15 | 467 | 52 | 238 |
-| Europa | 55 | 721 | 154 | 1612 |
+| Europa | 55 | 724 | 154 | 1612 |
 | África | 60 | 272 | 45 | 156 |
-| Asia | 50 | 1197 | 174 | 1779 |
+| Asia | 50 | 1197 | 174 | 1785 |
 | Oceanía | 27 | 175 | 32 | 362 |
 
 Fichas interregionales o globales sin asignar a un continente: 196. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base, no el porcentaje de cobertura.
 
-VEX: 815 de 5067 fichas de competiciones (16.1%). Hay un sesgo claro de cobertura.
+VEX: 815 de 5070 fichas de competiciones (16.1%). La cobertura se concentra en esta red.
 
 ## Lo que queda
 
@@ -1014,6 +1014,7 @@ VEX: 815 de 5067 fichas de competiciones (16.1%). Hay un sesgo claro de cobertur
 - **Colorado FIRST LEGO League Explore · STEM School Highlands Ranch · Visita a las demostraciones** — Estados Unidos; 2027-04-17. el permiso de entrada de niños. https://coloradofirst.org/event/stem-school-highlands-ranch-first-lego-league-explore-festival-2027/
 - **Colorado FIRST LEGO League Explore · Lafayette · Visita a las demostraciones** — Estados Unidos; 2027-04-24. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/
 - **Museo Franz Mayer · IA: Más que humano** — México; 2026-10-09 – 2027-04-04. con un adulto; condiciones de admisión adulta por separado. https://franzmayer.org.mx/exposicion/ia-mas-alla-de-lo-humano
+- **VGLX · Video Game Live Expo 2027** — Canadá; 2027-10-16 – 2027-10-17. con un adulto; condiciones de admisión adulta por separado. https://vglx.ca/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

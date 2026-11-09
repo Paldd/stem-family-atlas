@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11352,
-    "competition_cards": 5067,
-    "event_cards": 724,
-    "camp_cards": 5561,
+    "cards": 11362,
+    "competition_cards": 5070,
+    "event_cards": 725,
+    "camp_cards": 5567,
     "league_profiles": 323,
-    "major_exhibition_cards": 623,
+    "major_exhibition_cards": 624,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3667,
+      "total": 3668,
       "countries_with_records": 41,
       "competitions": 2061,
-      "events": 207,
-      "major_exhibitions": 164,
+      "events": 208,
+      "major_exhibitions": 165,
       "camps": 1399,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2512,
+      "total": 2515,
       "countries_with_records": 55,
-      "competitions": 721,
+      "competitions": 724,
       "events": 179,
       "major_exhibitions": 154,
       "camps": 1612,
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3163,
+      "total": 3169,
       "countries_with_records": 50,
       "competitions": 1197,
       "events": 187,
       "major_exhibitions": 174,
-      "camps": 1779,
+      "camps": 1785,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -16170,6 +16170,17 @@
       "new": false
     },
     {
+      "id": "E725",
+      "name": "VGLX · Video Game Live Expo 2027",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-10-16",
+      "end": "2027-10-17",
+      "visitor_policy": "family",
+      "source": "https://vglx.ca/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18587,14 +18598,14 @@
       }
     ],
     "counts": {
-      "records": 5561,
-      "holiday": 5003,
+      "records": 5567,
+      "holiday": 5009,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1643,
+      "en_es_instruction": 1649,
       "en_es_support": 66,
-      "family_instruction": 1643,
+      "family_instruction": 1649,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,

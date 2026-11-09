@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5561,
-      "holiday": 5003,
+      "records": 5567,
+      "holiday": 5009,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1643,
+      "en_es_instruction": 1649,
       "en_es_support": 66,
-      "family_instruction": 1643,
+      "family_instruction": 1649,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,
@@ -19208,36 +19208,36 @@
     {
       "id": "L307",
       "block": "Campamentos",
-      "title": "RoboParty Guimarães · familia de montaje del robot · siguiente edición",
+      "title": "RoboParty Guimarães 2027 · montaje familiar de un robot autónomo",
       "country": "Portugal",
       "region": "Europa",
-      "city": "Guimarães · la precisión de la plataforma 2027 confirmar",
-      "source": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
-      "checked": "2026-10-01",
-      "start": "",
-      "end": "",
+      "city": "Guimarães · Pavilhão Desportivo de Azurém · Universidade do Minho",
+      "source": "https://www.roboparty.org/RPGuimaraes/",
+      "checked": "2026-11-09",
+      "start": "2027-03-17",
+      "end": "2027-03-19",
       "deadline": "",
-      "period": "La próxima edición de 2027 se prepara; no hay fechas exactas",
-      "date_status": "No se ha anunciado",
-      "age": "no se indica la edad mínima; equipo de hasta 4 personas, con adulto",
-      "mat": "aclarar: el límite de edad numérico no se publicó en la descripción leída",
-      "osc": "aclarar: el límite de edad numérico no se publicó en la descripción leída",
-      "format": "equipo familiar; dos noches en la plaza con su adulto y su dormitorio",
+      "period": "17–19 de marzo de 2027. Las mismas personas integran el equipo los 3 días según las bases publicadas.",
+      "date_status": "Confirmado",
+      "age": "Las bases publicadas no indican edad mínima. Equipo de hasta 4 personas, incluida una adulta.",
+      "mat": "Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura.",
+      "osc": "Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura.",
+      "format": "3 días y 2 noches. El equipo familiar monta y programa un robot autónomo y puede probarlo en retos formativos.",
       "participation": "residential",
       "admission_kind": "program",
-      "entry": "Las reglas permiten directamente que los equipos familiares tengan un adulto; no hay participación individual. El adulto es responsable de los niños, el staff no desempeña el papel de niñera.",
-      "gear": "BotnRoll One A: montaje de mecánica / electrónica, Arduino C; Open Roberta blocks en la página de precios. el robot permanece en el equipo.",
-      "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
+      "entry": "La universidad anunció inscripciones y el formulario público indica la edición 2027. Las bases admiten familias. El formulario pide institución y teléfono de 9 dígitos. Costa Rica y México no aparecen por separado, figura Outro. Consultar qué debe indicar un equipo familiar extranjero.",
+      "gear": "La tarifa base cubre un Bot’n Roll ONE A+, formación y acceso a las actividades. El equipo conserva el robot que monta.",
+      "language": "No se confirma el idioma de la mentoría y la asistencia técnica. Las páginas y el formulario consultados están en portugués.",
       "languages": [],
       "support_languages": [],
-      "cost": "EUR 310 por equipo; comida +120 y lugar para dormir +15 por equipo según el precio publicado. complementos adicionales y viaje por separado.",
+      "cost": "EUR 310 por equipo con kit, comidas +125, plaza para dormir +25 por equipo. Total EUR 460 con comidas y pernocta. Herramientas en el formulario +20 si hacen falta.",
       "scope": "international",
-      "level": "Programa formativo local",
-      "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
+      "level": "Programa formativo técnico",
+      "importance_reason": "Programa formativo técnico",
       "reward": "formación / propio proyecto; el certificado de formación no es igual a la victoria",
       "priority": "P2  después de comprobar la admisión",
       "status": "Idea",
-      "action": "confirmar el flujo, la lengua, la clase, el acceso de la familia extranjera y la disponibilidad de asientos antes de la inscripción o el viaje.",
+      "action": "La fecha exacta de cierre, las edades, el idioma de los mentores y las condiciones de pernocta requieren confirmación. La última versión accesible de las bases es V1.26.pt.",
       "proof": "Se ha leído la fuente primaria; se han dividido la fecha / edad y las condiciones desconocidas.",
       "evidence_level": "rules",
       "references": [
@@ -19248,11 +19248,35 @@
         {
           "label": "Anuncio de la preparación 2027",
           "url": "https://www.roboparty.org/"
+        },
+        {
+          "url": "https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/register.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/js/register.js",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/deadlines.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/sleeping.php",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
-      "note": "Tres días / dos noches, un campo en formato LAN-party; su dormitorio. no es una pensión infantil con cuidado separado. formación y tareas no obligatorias, sin promesa de medalla de competencia. la página principal ya prepara 2027, pero no hay fecha / plazo exacto. EN / ES enseñanza, edad 6/9 y registro extranjero aún no se han confirmado.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
-      "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
+      "note": "Pernocta en el recinto con la persona adulta responsable. La supervisión corresponde al adulto del equipo. Confirmar la zona de descanso y el saco propio antes del viaje.",
+      "registration_status": "El formulario de la edición está accesible. Acceso, plaza y pago de la familia sin confirmar.",
+      "language_certainty": "No se confirma el idioma de la mentoría y la asistencia técnica. Las páginas y el formulario consultados están en portugués.",
       "themes": [
         "robotics",
         "coding"
@@ -462843,6 +462867,416 @@
         "status": "closed",
         "label": "La organización marca el grupo como completo."
       }
+    },
+    {
+      "id": "CP2204-20261217-20261218-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · Mini AI Innovators and Health Detectives · Mini AI Innovators and Health Detectives · 2026-12-17–2026-12-18",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2026-12-17",
+      "end": "2026-12-18",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de IA creativa, análisis capilar y una práctica de elaboración de champú.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2026/27 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Supera la edad máxima de los grupos infantiles. Oscar: Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "ai",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-mini-ai-health",
+      "camp_programme_id": "CP2204",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
+    },
+    {
+      "id": "CP2205-20261221-20261222-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · Mini Food Scientists and Farm Heros · Mini Food Scientists and Farm Heros · 2026-12-21–2026-12-22",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de tecnología alimentaria, cultivo urbano y un proyecto ecológico.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2026/27 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Supera la edad máxima de los grupos infantiles. Oscar: Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-mini-food",
+      "camp_programme_id": "CP2205",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
+    },
+    {
+      "id": "CP2206-20261219-20261220-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · Mini Pilots and Smart Drivers · Mini Pilots and Smart Drivers · 2026-12-19–2026-12-20",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de transporte de ciudad inteligente, simuladores de aviación y proyecto de prueba. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2026/27 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Supera la edad máxima de los grupos infantiles. Oscar: Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-mini-pilots",
+      "camp_programme_id": "CP2206",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
+    },
+    {
+      "id": "CP2207-20270102-20270103-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · Mini Plant Scientists and Smart Farmers · Mini Plant Scientists and Smart Farmers · 2027-01-02–2027-01-03",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2027-01-02",
+      "end": "2027-01-03",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de plantas, sensores y tecnología agrícola, con AR/VR dentro de la temática.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2027 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Supera la edad máxima de los grupos infantiles. Oscar: Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-mini-agriscience",
+      "camp_programme_id": "CP2207",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
+    },
+    {
+      "id": "CP2208-20261219-20261220-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · Digital Game Designer & Robot Engineer · Digital Game Designer & Robot Engineer · 2026-12-19–2026-12-20",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 7–9, 9–11 y 11–14 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de mundos interactivos, robots, automatización, pruebas y presentación de prototipo. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2026/27 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado. Oscar: Sin acceso si aún no ha cumplido 7 años en la fecha del tour. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "games",
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-game-robot-engineer",
+      "camp_programme_id": "CP2208",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
+    },
+    {
+      "id": "CP2209-20261228-20261229-winter-tour",
+      "block": "Campamentos",
+      "title": "Big Bang Academy · AI Engineer and Drone Controller · AI Engineer and Drone Controller · 2026-12-28–2026-12-29",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "city": "Hong Kong · sede y punto de encuentro por confirmar",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Grupos de 7–9, 9–11 y 11–14 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Anuncio de decisiones con IA, vuelo de drones, programación y demostración de prototipo.",
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "cost": "2026/27 · Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "references": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado. Oscar: Sin acceso si aún no ha cumplido 7 años en la fecha del tour. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "HKG"
+      ],
+      "themes": [
+        "ai",
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La organización indica inglés para HK Global Programme Tours.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "big-bang-hk-tour-ai-drone-engineer",
+      "camp_programme_id": "CP2209",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      },
+      "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar."
     },
     {
       "id": "L491",

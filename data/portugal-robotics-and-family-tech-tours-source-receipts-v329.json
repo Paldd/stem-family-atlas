@@ -1,0 +1,260 @@
+{
+  "captures": [
+    {
+      "key": "robotParty",
+      "url": "https://www.roboparty.org/RPGuimaraes/",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23742,
+      "sha256": "072e79812f743bb749d3b0f9ec9eea958df876fbc5a7668de09e110a2f484d66",
+      "file": "robotParty.html"
+    },
+    {
+      "key": "robotPartyUni",
+      "url": "https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/",
+      "final_url": "https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73648,
+      "sha256": "2242c5827b8a9364b15e5754480710b2b50da8b7f281e8cb2cefc14b6bd11f3c",
+      "file": "robotPartyUni.html"
+    },
+    {
+      "key": "robotPartyRules",
+      "url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 244373,
+      "sha256": "cd6a5a259927ad6d6813be3519f787919f4267317d1e95d7845049b62689bb0d",
+      "file": "robotPartyRules.pdf"
+    },
+    {
+      "key": "robotPartyForm",
+      "url": "https://www.roboparty.org/RPGuimaraes/register.php",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/register.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 351656,
+      "sha256": "02d662039f83733010eb6b5a8c6b1db805c7b59f3acadeb8d6f63eac79d21dd4",
+      "file": "robotPartyForm.html"
+    },
+    {
+      "key": "robotPartyPrice",
+      "url": "https://www.roboparty.org/RPGuimaraes/price.php",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/price.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 179053,
+      "sha256": "f9e1a930d909210992db7e81f030e017e2bd185164482afc16e0d7ee93f3ba93",
+      "file": "robotPartyPrice.html"
+    },
+    {
+      "key": "robotPartyFormJS",
+      "url": "https://www.roboparty.org/RPGuimaraes/js/register.js",
+      "status": 200,
+      "bytes": 111725,
+      "sha256": "f25187455d65097dc92977b3617f3913f9b284065fda67bebd3791edb5667b17"
+    },
+    {
+      "key": "robotPartyDeadlines",
+      "url": "https://www.roboparty.org/RPGuimaraes/deadlines.php",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/deadlines.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8977,
+      "sha256": "40117106708629f00590dc7bd12423b76fd6b667cd6c9ac3535f1aa4fe5c4597",
+      "file": "robotPartyDeadlines.html"
+    },
+    {
+      "key": "robotPartySleep",
+      "url": "https://www.roboparty.org/RPGuimaraes/sleeping.php",
+      "final_url": "https://www.roboparty.org/RPGuimaraes/sleeping.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8957,
+      "sha256": "1ec31523dda76e0a40c74ff225282b5697d6e594b99126ef238b29685008582c",
+      "file": "robotPartySleep.html"
+    },
+    {
+      "key": "fnrFirst",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/first-challenger",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/first-challenger",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64759,
+      "sha256": "091249bfa8ee20a0d69c93c4eea6ba9db31b0f7fb201db35c2f0d56e47afba7d",
+      "file": "fnrFirst.html"
+    },
+    {
+      "key": "fnrIndex",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 135604,
+      "sha256": "58dd079461f3c964ca7cc788e70105ffd638261957c3ba73012a595773addacb",
+      "file": "fnrIndex.html"
+    },
+    {
+      "key": "fnrRegister",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/inscricoes",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/inscricoes",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 180927,
+      "sha256": "5e79c550c4d1a36aee7107517cb30afdd3094465fe1f713c0037f7c4de11bf40",
+      "file": "fnrRegister.html"
+    },
+    {
+      "key": "fnrSchedule",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/programa",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/programa",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 124086,
+      "sha256": "02483993d95848649b5c849eb1215fc8f2119bd95875143873c9fa5a201bb70f",
+      "file": "fnrSchedule.html"
+    },
+    {
+      "key": "fnrFree",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/freebots-junior",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/freebots-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60566,
+      "sha256": "d1af31b44cd82f33eac3bcb0ea8a402984743a1e0352e3f5ed9af15f7f275e81",
+      "file": "fnrFree.html"
+    },
+    {
+      "key": "fnrOnStage",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/onstage",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/onstage",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62827,
+      "sha256": "bb3e7bb4562cb2ad0030ba6e0a0dba8bdddba245a0c5fa16b6724fc1fec3d494",
+      "file": "fnrOnStage.html"
+    },
+    {
+      "key": "fnrLine",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-linha",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-linha",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65315,
+      "sha256": "0d73ab99ec7105f9909aad58b1991080f394175679af1f28a5a6b62622c617a4",
+      "file": "fnrLine.html"
+    },
+    {
+      "key": "fnrRescue",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-labirinto",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-labirinto",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64072,
+      "sha256": "adabd556bcfcd51ab911a2e8bb539b89ebd64e867a23405f05769b3ca9648bd6",
+      "file": "fnrRescue.html"
+    },
+    {
+      "key": "fnrMaze",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-labirinto-entry",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/busca-salvamento-labirinto-entry",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63612,
+      "sha256": "86b1777da8205ebdaafb1d2907158cffd517f397dc6680cbad51664e8a200459",
+      "file": "fnrMaze.html"
+    },
+    {
+      "key": "fnrSim",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/rescue-sim",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/rescue-sim",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64513,
+      "sha256": "edd137ee8bf840640c6575124b1539fe92db12a1712a8192972b28cc1ea0a3e0",
+      "file": "fnrSim.html"
+    },
+    {
+      "key": "fnrSoccer",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/soccer-junior",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/soccer-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64689,
+      "sha256": "1c564a1efba135d6f8c5156b39b0faf31fe36ed349cc8bff1ec48a748b84285a",
+      "file": "fnrSoccer.html"
+    },
+    {
+      "key": "fnrFactory",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/robot-at-factory-lite-junior",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/robot-at-factory-lite-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66161,
+      "sha256": "6eeadab0e0fba4078e7fbeaafd72179c8a20bbab0db69945c81d62db3a930c3e",
+      "file": "fnrFactory.html"
+    },
+    {
+      "key": "fnrSPR",
+      "url": "https://www.sprobotica.pt/fnr",
+      "final_url": "https://www.sprobotica.pt/fnr",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51328,
+      "sha256": "a73389484d6ca51e4b1e16458a683ab9778ce8bc6b697520c21da01510b15319",
+      "file": "fnrSPR.html"
+    },
+    {
+      "key": "fnrPortugal",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141023,
+      "sha256": "0799d39470b2af3a2e61ad5974c426fcb69059811cc723d33e8531095acd1967",
+      "file": "fnrPortugal.html"
+    },
+    {
+      "key": "fnrMicro",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/micromouse",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/ligas/micromouse",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65483,
+      "sha256": "c39f705d45470e1ab49ed40fae1df41cabbffb2ddb2bbbeb995554169cb4f1e7",
+      "file": "fnrMicro.html"
+    },
+    {
+      "key": "vglx",
+      "url": "https://vglx.ca/",
+      "final_url": "https://vglx.ca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 386617,
+      "sha256": "81d0d026f8ce59fd5bce1e6d030b4fb38d1f9a7b297ba9540d0f419ea96a6c9b",
+      "file": "vglx.html"
+    },
+    {
+      "key": "vglxTicket2026",
+      "url": "https://unitytickets.com/se/VGLX2026/Ticket",
+      "final_url": "https://unitytickets.com/se/VGLX2026/Ticket",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 688,
+      "sha256": "b8040aa22a63b9d8a480288e91eeb6655dcc439f73669340c2ebcf1d42286d99",
+      "file": "vglxTicket2026.html"
+    },
+    {
+      "key": "bigBangWinter",
+      "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "retrieval": "public_web_readback",
+      "checked": "2026-11-09",
+      "sha256": "45df093b0895760ac1225ed48762c0900f51b7da8da5a7679378d775901b2202",
+      "snapshot": "prior first-party HTML, material facts rechecked on current web source",
+      "direct_http_status": 403
+    }
+  ]
+}

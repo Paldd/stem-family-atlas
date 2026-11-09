@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2202,
+    "dossiers": 2209,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 621,
+      "published_2027": 627,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -43,13 +43,13 @@
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 10,
+      "regular_2026_27": 11,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3136
+    "source_urls": 3144
   },
   "countries": [
     {
@@ -274,7 +274,7 @@
     },
     {
       "country": "RAE de Hong Kong (China)",
-      "count": 60
+      "count": 66
     },
     {
       "country": "Islas Cocos",
@@ -430,7 +430,7 @@
     },
     {
       "country": "Portugal",
-      "count": 5
+      "count": 6
     },
     {
       "country": "Puerto Rico",
@@ -387524,6 +387524,771 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2203",
+      "slug": "roboparty-guimaraes-2027",
+      "provider": "RoboParty Guimarães 2027",
+      "country": "Portugal",
+      "iso": "PRT",
+      "place": "Guimarães · Pavilhão Desportivo de Azurém · Universidade do Minho",
+      "age": "Las bases publicadas no indican edad mínima. Equipo de hasta 4 personas, incluida una adulta.",
+      "programme": "3 días y 2 noches. El equipo familiar monta y programa un robot autónomo y puede probarlo en retos formativos.",
+      "format": "family",
+      "formats": [
+        "family"
+      ],
+      "language": "No se confirma el idioma de la mentoría y la asistencia técnica. Las páginas y el formulario consultados están en portugués.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "materials_languages": [],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "17–19 de marzo de 2027. Las mismas personas integran el equipo los 3 días según las bases publicadas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 310,
+        "currency": "EUR",
+        "unit": "team",
+        "label": "EUR 310 por equipo con kit, comidas +125, plaza para dormir +25 por equipo. Total EUR 460 con comidas y pernocta. Herramientas en el formulario +20 si hacen falta.",
+        "included": "La tarifa base cubre un Bot’n Roll ONE A+, formación y acceso a las actividades. El equipo conserva el robot que monta.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Pernocta en el recinto con la persona adulta responsable. La supervisión corresponde al adulto del equipo. Confirmar la zona de descanso y el saco propio antes del viaje.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar la edad admitida y el papel autónomo del menor durante el montaje y la soldadura."
+        }
+      },
+      "editorial_reason": "17–19 de marzo de 2027. Las mismas personas integran el equipo los 3 días según las bases publicadas.",
+      "shortlist": [],
+      "questions": [
+        "La fecha exacta de cierre, las edades, el idioma de los mentores y las condiciones de pernocta requieren confirmación. La última versión accesible de las bases es V1.26.pt.",
+        "La universidad anunció inscripciones y el formulario público indica la edición 2027. Las bases admiten familias. El formulario pide institución y teléfono de 9 dígitos. Costa Rica y México no aparecen por separado, figura Outro. Consultar qué debe indicar un equipo familiar extranjero."
+      ],
+      "sources": [
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://algoritmi.uminho.pt/news/roboparty-celebra-duas-decadas-em-2027-de-17-a-19-de-marco-os-robos-voltam-a-uminho/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/register.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/price.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/js/register.js",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/deadlines.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.roboparty.org/RPGuimaraes/sleeping.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "family_programme",
+      "catalog_participation": "residential",
+      "related_event_ids": [
+        "L307"
+      ],
+      "calendar_links": [],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2204",
+      "slug": "big-bang-hk-tour-mini-ai-health",
+      "provider": "Big Bang Academy · Mini AI Innovators and Health Detectives",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "programme": "Anuncio de IA creativa, análisis capilar y una práctica de elaboración de champú.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2026-12-17",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2026-12-17",
+            "end": "2026-12-18",
+            "label": "Mini AI Innovators and Health Detectives",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera la edad máxima de los grupos infantiles."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2204-20261217-20261218-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2205",
+      "slug": "big-bang-hk-tour-mini-food",
+      "provider": "Big Bang Academy · Mini Food Scientists and Farm Heros",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "programme": "Anuncio de tecnología alimentaria, cultivo urbano y un proyecto ecológico.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Mini Food Scientists and Farm Heros",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera la edad máxima de los grupos infantiles."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2205-20261221-20261222-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2206",
+      "slug": "big-bang-hk-tour-mini-pilots",
+      "provider": "Big Bang Academy · Mini Pilots and Smart Drivers",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "programme": "Anuncio de transporte de ciudad inteligente, simuladores de aviación y proyecto de prueba. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2026-12-19",
+            "2026-12-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2026-12-19",
+            "end": "2026-12-20",
+            "label": "Mini Pilots and Smart Drivers",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera la edad máxima de los grupos infantiles."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2206-20261219-20261220-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2207",
+      "slug": "big-bang-hk-tour-mini-agriscience",
+      "provider": "Big Bang Academy · Mini Plant Scientists and Smart Farmers",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 4–5 y 5–7 años.",
+      "programme": "Anuncio de plantas, sensores y tecnología agrícola, con AR/VR dentro de la temática.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2027-01-02",
+            "2027-01-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2027-01-02",
+            "end": "2027-01-03",
+            "label": "Mini Plant Scientists and Smart Farmers",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera la edad máxima de los grupos infantiles."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada del grupo 5–7. Confirmar la plaza y el grupo exacto."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2207-20270102-20270103-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2208",
+      "slug": "big-bang-hk-tour-game-robot-engineer",
+      "provider": "Big Bang Academy · Digital Game Designer & Robot Engineer",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 7–9, 9–11 y 11–14 años.",
+      "programme": "Anuncio de mundos interactivos, robots, automatización, pruebas y presentación de prototipo. El tour infantil y el de mayores coinciden en las fechas 19–20 de diciembre. Aún no se confirma sede, traslado ni horario compartido.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2026-12-19",
+            "2026-12-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2026-12-19",
+            "end": "2026-12-20",
+            "label": "Digital Game Designer & Robot Engineer",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Sin acceso si aún no ha cumplido 7 años en la fecha del tour."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "games",
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2208-20261219-20261220-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2209",
+      "slug": "big-bang-hk-tour-ai-drone-engineer",
+      "provider": "Big Bang Academy · AI Engineer and Drone Controller",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong · sede y punto de encuentro por confirmar",
+      "age": "Grupos de 7–9, 9–11 y 11–14 años.",
+      "programme": "Anuncio de decisiones con IA, vuelo de drones, programación y demostración de prototipo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica inglés para HK Global Programme Tours.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [],
+      "timing": {
+        "status": "published_2027",
+        "label": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-tour",
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "AI Engineer and Drone Controller",
+            "price": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+            "source": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 6399,
+        "currency": "HKD",
+        "unit": "child",
+        "label": "Tarifa general publicada HKD 6399 por el tour de dos días, incluye almuerzo y transporte. Confirmar el precio final y si aplican descuentos para el tour elegido.",
+        "included": "Almuerzo y transporte según la descripción general de HK Global Programme Tours.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple la edad anunciada. En el límite de 9 años la organización asigna el grupo adecuado."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Sin acceso si aún no ha cumplido 7 años en la fecha del tour."
+        }
+      },
+      "editorial_reason": "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Anuncio de dos días completos. Empresa, punto de encuentro, horario, programa definitivo y plazas por confirmar.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2209-20261228-20261229-winter-tour"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -392849,7 +393614,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 328,
+  "version": 329,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -406084,7 +406849,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2202,
+      "total_dossiers": 2209,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -430754,6 +431519,41 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2203",
+      "event_id": "L307",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2204",
+      "event_id": "CP2204-20261217-20261218-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2205",
+      "event_id": "CP2205-20261221-20261222-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2206",
+      "event_id": "CP2206-20261219-20261220-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2207",
+      "event_id": "CP2207-20270102-20270103-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2208",
+      "event_id": "CP2208-20261219-20261220-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2209",
+      "event_id": "CP2209-20261228-20261229-winter-tour",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -435803,10 +436603,16 @@
     "CP2196-20270125-20270129-winter",
     "CP2197-20270125-20270129-winter",
     "CP2198-20270125-20270129-winter",
-    "CP2199-20270125-20270129-winter"
+    "CP2199-20270125-20270129-winter",
+    "CP2204-20261217-20261218-winter-tour",
+    "CP2205-20261221-20261222-winter-tour",
+    "CP2206-20261219-20261220-winter-tour",
+    "CP2207-20270102-20270103-winter-tour",
+    "CP2208-20261219-20261220-winter-tour",
+    "CP2209-20261228-20261229-winter-tour"
   ],
   "integration": {
-    "generated_sessions": 4639,
+    "generated_sessions": 4645,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
