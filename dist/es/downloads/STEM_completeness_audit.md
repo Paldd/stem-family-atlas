@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11264; competiciones: 5039; eventos: 718; campamentos / programas: 5507. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 617 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11297; competiciones: 5067; eventos: 723; campamentos / programas: 5507. Perfiles de ligas y programas: 323. Fichas de exposiciones grandes y especializadas: 622 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2037 | 158 | 1399 |
+| América del Norte | 41 | 2061 | 163 | 1399 |
 | América del Sur | 15 | 467 | 52 | 235 |
 | Europa | 55 | 721 | 154 | 1612 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1197 | 174 | 1728 |
 | Oceanía | 27 | 175 | 32 | 362 |
 
-Fichas interregionales o globales sin continente asignado: 192. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base y su alcance.
+Fichas interregionales o globales sin asignar a un continente: 196. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base, no el porcentaje de cobertura.
 
-VEX: 815 de 5039 fichas de competiciones (16.2%). Esto muestra un desequilibrio en la cobertura.
+VEX: 815 de 5067 fichas de competiciones (16.1%). Hay un sesgo claro de cobertura.
 
 ## Lo que queda
 
@@ -347,6 +347,8 @@ VEX: 815 de 5039 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **NKCC România · Scratch Game-Script**: 4 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.nkcc.ikcc.info/
 - **LSC Challenge Singapore · Scratch and Python**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lsc-challenge.org/lsc2026
 - **ITICBOT · Colombia**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://iticbot.com/robotica.html
+- **TEAM Alliance · Sphero Robotics Missions / Blueprint SRC**: 23 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://teamalliance.org/events/
+- **Colorado FIRST · LEGO League Explore**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://coloradofirst.org/programs/fll-explore/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1006,6 +1008,11 @@ VEX: 815 de 5039 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **EXO Berlin 2027 · Assistive Robotics** — Alemania; 2027-06-15 – 2027-06-16. el permiso de entrada de niños. https://www.exo-berlin.de/
 - **IA Expo Internacional 2027 · Conferencias y XperiencIA** — México; 2027-01-29 – 2027-01-30. el permiso de entrada de niños. https://iaexpo.ai/
 - **Marketing Up 2027 · Expo y marketing con IA** — México; 2027-05-13 – 2027-05-14. el permiso de entrada de niños. https://www.marketingup.mx/
+- **Colorado FIRST LEGO League Explore · Grand Mountain · Visita a las demostraciones** — Estados Unidos; 2027-02-20. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/grand-mountain-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Charles Hay World · Visita a las demostraciones** — Estados Unidos; 2027-03-27. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/charles-hay-world-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Lopez Elementary · Visita a las demostraciones** — Estados Unidos; 2027-04-03. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/lopez-elementary-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · STEM School Highlands Ranch · Visita a las demostraciones** — Estados Unidos; 2027-04-17. el permiso de entrada de niños. https://coloradofirst.org/event/stem-school-highlands-ranch-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Lafayette · Visita a las demostraciones** — Estados Unidos; 2027-04-24. el permiso de entrada de niños. https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

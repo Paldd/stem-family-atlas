@@ -1,0 +1,110 @@
+{
+  "version": 326,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5041",
+    "C5042",
+    "C5043",
+    "C5044",
+    "C5045",
+    "C5046",
+    "C5047",
+    "C5048",
+    "C5049",
+    "C5050",
+    "C5051",
+    "C5052",
+    "C5053",
+    "C5054",
+    "C5055",
+    "C5056",
+    "C5057",
+    "C5058",
+    "C5059",
+    "C5060",
+    "C5061",
+    "C5062",
+    "C5063",
+    "C5064",
+    "E719",
+    "C5065",
+    "E720",
+    "C5066",
+    "E721",
+    "C5067",
+    "E722",
+    "C5068",
+    "E723"
+  ],
+  "refreshed_event_ids": [],
+  "team_online_qualifier_ids": {
+    "Discovery": [
+      "C5041",
+      "C5042",
+      "C5043"
+    ],
+    "Pathfinder": [
+      "C5045",
+      "C5046",
+      "C5047"
+    ],
+    "Voyager": [
+      "C5049",
+      "C5050",
+      "C5051"
+    ]
+  },
+  "team_online_championship_ids": {
+    "Discovery": "C5044",
+    "Pathfinder": "C5048",
+    "Voyager": "C5052"
+  },
+  "team_in_person_ids": {
+    "1455": "C5053",
+    "2869": "C5054",
+    "2999": "C5055",
+    "2439": "C5056",
+    "2917": "C5057",
+    "1029": "C5058",
+    "1030": "C5059",
+    "1482": "C5060",
+    "1723": "C5061",
+    "1031": "C5062",
+    "3000": "C5063"
+  },
+  "colorado_festival_pairs": [
+    {
+      "key": "coGrand",
+      "team": "C5064",
+      "visitor": "E719"
+    },
+    {
+      "key": "coHay",
+      "team": "C5065",
+      "visitor": "E720"
+    },
+    {
+      "key": "coLopez",
+      "team": "C5066",
+      "visitor": "E721"
+    },
+    {
+      "key": "coloradoHighlands",
+      "team": "C5067",
+      "visitor": "E722"
+    },
+    {
+      "key": "coLafayette",
+      "team": "C5068",
+      "visitor": "E723"
+    }
+  ],
+  "new_league_ids": [
+    "team-alliance-sphero-missions",
+    "first-colorado-explore"
+  ],
+  "organizer_calendar_rows": 14,
+  "source_requests": 28
+}

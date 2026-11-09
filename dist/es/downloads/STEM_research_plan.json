@@ -870,11 +870,11 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 325,
+    "version": 326,
     "status": "implementation_snapshot",
-    "events": 11264,
-    "competitions": 5039,
-    "league_profiles": 321,
+    "events": 11297,
+    "competitions": 5067,
+    "league_profiles": 323,
     "camp_dossiers": 2178,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 718,
+    "exhibitions_events": 723,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 324,
+    "version": 325,
     "status": "implementation_snapshot",
-    "events": 11219,
+    "events": 11264,
     "competitions": 5039,
     "league_profiles": 321,
-    "camp_dossiers": 2164,
+    "camp_dossiers": 2178,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 715,
+    "exhibitions_events": 718,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 325,
+    "prepared_ui_version": 326,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 324,
-    "previous_verified_commit": "a4c1f52c50b3dd0f31b3519c324be12ec979510f"
+    "previous_verified_ui_version": 325,
+    "previous_verified_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 324,
-    "published_version": 324,
-    "latest_source_commit": "a4c1f52c50b3dd0f31b3519c324be12ec979510f",
-    "published_commit": "a4c1f52c50b3dd0f31b3519c324be12ec979510f",
-    "latest_workflow": 42565316262,
+    "latest_source_version": 325,
+    "published_version": 325,
+    "latest_source_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223",
+    "published_commit": "b22f6ed43fa634d21c1ae26fa9845c333b3dc223",
+    "latest_workflow": 42567014600,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -34257,5 +34257,115 @@
         "L919"
       ]
     }
+  },
+  "team_alliance_and_colorado_explore_v326": {
+    "version": 326,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5041",
+      "C5042",
+      "C5043",
+      "C5044",
+      "C5045",
+      "C5046",
+      "C5047",
+      "C5048",
+      "C5049",
+      "C5050",
+      "C5051",
+      "C5052",
+      "C5053",
+      "C5054",
+      "C5055",
+      "C5056",
+      "C5057",
+      "C5058",
+      "C5059",
+      "C5060",
+      "C5061",
+      "C5062",
+      "C5063",
+      "C5064",
+      "E719",
+      "C5065",
+      "E720",
+      "C5066",
+      "E721",
+      "C5067",
+      "E722",
+      "C5068",
+      "E723"
+    ],
+    "refreshed_event_ids": [],
+    "team_online_qualifier_ids": {
+      "Discovery": [
+        "C5041",
+        "C5042",
+        "C5043"
+      ],
+      "Pathfinder": [
+        "C5045",
+        "C5046",
+        "C5047"
+      ],
+      "Voyager": [
+        "C5049",
+        "C5050",
+        "C5051"
+      ]
+    },
+    "team_online_championship_ids": {
+      "Discovery": "C5044",
+      "Pathfinder": "C5048",
+      "Voyager": "C5052"
+    },
+    "team_in_person_ids": {
+      "1455": "C5053",
+      "2869": "C5054",
+      "2999": "C5055",
+      "2439": "C5056",
+      "2917": "C5057",
+      "1029": "C5058",
+      "1030": "C5059",
+      "1482": "C5060",
+      "1723": "C5061",
+      "1031": "C5062",
+      "3000": "C5063"
+    },
+    "colorado_festival_pairs": [
+      {
+        "key": "coGrand",
+        "team": "C5064",
+        "visitor": "E719"
+      },
+      {
+        "key": "coHay",
+        "team": "C5065",
+        "visitor": "E720"
+      },
+      {
+        "key": "coLopez",
+        "team": "C5066",
+        "visitor": "E721"
+      },
+      {
+        "key": "coloradoHighlands",
+        "team": "C5067",
+        "visitor": "E722"
+      },
+      {
+        "key": "coLafayette",
+        "team": "C5068",
+        "visitor": "E723"
+      }
+    ],
+    "new_league_ids": [
+      "team-alliance-sphero-missions",
+      "first-colorado-explore"
+    ],
+    "organizer_calendar_rows": 14,
+    "source_requests": 28
   }
 }

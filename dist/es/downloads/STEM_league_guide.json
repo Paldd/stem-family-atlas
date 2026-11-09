@@ -26138,6 +26138,185 @@
         "checked": "2026-11-08"
       },
       {
+        "id": "team-alliance-sphero-missions",
+        "name": "TEAM Alliance · Sphero Robotics Missions / Blueprint SRC",
+        "group": "international",
+        "age_summary": "Hasta 8 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2017 o después. Generalmente grados K–2. Hasta 11 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2014 o después. Generalmente grados 3–5. Hasta 14 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2011 o después. Generalmente grados 6–8. Hasta 18 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2007 o después. Generalmente grados 7–12.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Tres divisiones Missions por edad y una liga Blueprint avanzada aparte. Para un equipo de Costa Rica o México, la vía principal es Discovery en línea.",
+        "strengths": [
+          "Evaluación a distancia de misiones grabadas y materiales del equipo.",
+          "Para equipos con sede fuera de EE. UU., incluidos Costa Rica y México. La ubicación del equipo define la región."
+        ],
+        "importance": "Clasificación internacional en línea",
+        "route": "Para equipos con sede fuera de EE. UU., incluidos Costa Rica y México. La ubicación del equipo define la región.",
+        "hardware": "Sphero indi, fichas de colores, diseño de rutas y retos de lógica. Sphero BOLT programable y campo de juego según el reglamento de la temporada. Sphero RVR, programación, sensores y campo de juego de la temporada. Blueprint Robotics, montaje, mecánica y programación del robot.",
+        "cost": "USD 100 por equipo para la temporada en línea. Robot y kit aparte. USD 200 por equipo para la temporada presencial Missions. Robot y kit aparte. USD 500 por equipo para la temporada 2026–2027 de Blueprint Robotics. Robot y kit aparte.",
+        "language": "El reglamento y las plantillas están en inglés. Confirmar el idioma admitido para el proyecto y la evaluación.",
+        "award": "La clasificación en línea lleva a la final de su región. Confirmar cupos por categoría y reglas de etapas posteriores.",
+        "requirements": [
+          "Equipo de 2 a 5 menores y al menos 1 coordinador adulto.",
+          "La persona coordinadora inscribe al equipo en myTEAMevents.org y luego sube las misiones y la presentación de la temporada. La organización aún marca la función de carga como «próximamente»."
+        ],
+        "nuances": [
+          "5 de marzo de 2027 a las 23:59 hora central de EE. UU., también las 23:59 en Costa Rica ese día. No se indica la hora de cierre de la inscripción aparte.",
+          "La organización indica 20 equipos destacados de indi, BOLT y RVR sin desglosar el cupo. Avisos hasta el 15 de marzo de 2027. Entrega adicional hasta el 16 de abril de 2027.",
+          "El trabajo adicional se entrega hasta el 16 de abril de 2027. Confirmar la hora exacta y posibles tasas adicionales."
+        ],
+        "categories": [
+          {
+            "name": "indi Missions",
+            "age": "Hasta 8 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2017 o después. Generalmente grados K–2.",
+            "team": "Equipo de 2 a 5 menores y al menos 1 coordinador adulto.",
+            "hardware": "Sphero indi, fichas de colores, diseño de rutas y retos de lógica.",
+            "entry": "Para equipos con sede fuera de EE. UU., incluidos Costa Rica y México. La ubicación del equipo define la región."
+          },
+          {
+            "name": "BOLT Missions",
+            "age": "Hasta 11 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2014 o después. Generalmente grados 3–5.",
+            "team": "Equipo de 2 a 5 menores y al menos 1 coordinador adulto.",
+            "hardware": "Sphero BOLT programable y campo de juego según el reglamento de la temporada.",
+            "entry": "Para equipos con sede fuera de EE. UU., incluidos Costa Rica y México. La ubicación del equipo define la región."
+          },
+          {
+            "name": "RVR Missions",
+            "age": "Hasta 14 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2011 o después. Generalmente grados 6–8.",
+            "team": "Equipo de 2 a 5 menores y al menos 1 coordinador adulto.",
+            "hardware": "Sphero RVR, programación, sensores y campo de juego de la temporada.",
+            "entry": "Para equipos con sede fuera de EE. UU., incluidos Costa Rica y México. La ubicación del equipo define la región."
+          },
+          {
+            "name": "Sphero Robotics Competition (SRC)",
+            "age": "Hasta 18 años inclusive el 31 de agosto de 2026. Nacimiento el 1 de septiembre de 2007 o después. Generalmente grados 7–12.",
+            "team": "Se recomiendan de 5 a 10 participantes y al menos 1 coordinador adulto.",
+            "hardware": "Blueprint Robotics, montaje, mecánica y programación del robot.",
+            "entry": "Evento del calendario de EE. UU. Confirmar admisión del equipo según región, categoría y plazas."
+          }
+        ],
+        "event_ids": [
+          "C5041",
+          "C5042",
+          "C5043",
+          "C5044",
+          "C5045",
+          "C5046",
+          "C5047",
+          "C5048",
+          "C5049",
+          "C5050",
+          "C5051",
+          "C5052",
+          "C5053",
+          "C5054",
+          "C5055",
+          "C5056",
+          "C5057",
+          "C5058",
+          "C5059",
+          "C5060",
+          "C5061",
+          "C5062",
+          "C5063"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://teamalliance.org/events/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/frequently-asked-questions/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/events/discovery-online-submission-qualifying-event/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/programs/indi-sphero-robotics-mission/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/programs/bolt-sphero-robotics-mission/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/programs/rvr-sphero-robotics-mission/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://teamalliance.org/competitions/sphero-blueprint-robotics/",
+            "label": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas.",
+        "checked": "2026-11-08"
+      },
+      {
+        "id": "first-colorado-explore",
+        "name": "Colorado FIRST · LEGO League Explore",
+        "group": "regional",
+        "age_summary": "De 6 a 10 años. La descripción del programa también indica grados 2–4.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "El equipo presenta el modelo LEGO y el póster Show Me y explica su proyecto a los evaluadores.",
+        "strengths": [
+          "El equipo presenta el modelo LEGO y el póster Show Me y explica su proyecto a los evaluadores.",
+          "Exposición de modelos y pósteres infantiles, con demostraciones de robots de equipos mayores."
+        ],
+        "importance": "Festival regional FIRST LEGO League Explore",
+        "route": "Primero inscripción del equipo en la temporada FIRST, después inscripción en el festival concreto de Colorado FIRST. Confirmar el acceso de equipos de otra región.",
+        "hardware": "LEGO Education SPIKE Essential o WeDo 2.0 y dispositivo Bluetooth compatible. El equipo lleva su modelo y póster.",
+        "cost": "Por equipo: USD 55 para el festival, USD 40 con tarifa de equipo anfitrión. Temporada USD 150 más unos USD 18 de envío. Kit USD 320 más unos USD 15 de envío. Impuestos si corresponden. Dispositivo de programación aparte.",
+        "language": "La página del festival está en inglés. Confirmar aparte el idioma de la presentación del equipo.",
+        "award": "Festival de proyectos Explore. La ficha publicada no indica ascenso a un campeonato.",
+        "requirements": [
+          "Equipo de 2 a 6 menores y 2 entrenadores adultos.",
+          "Primero inscripción del equipo en la temporada FIRST, después inscripción en el festival concreto de Colorado FIRST. Confirmar el acceso de equipos de otra región."
+        ],
+        "nuances": [
+          "Entrada gratuita para el público, sujeta a las reglas de la sede. La organización pide contactar antes a quienes van sin equipo.",
+          "De 6 a 10 años. La descripción del programa también indica grados 2–4."
+        ],
+        "categories": [
+          {
+            "name": "FIRST LEGO League Explore · Colorado",
+            "age": "De 6 a 10 años. La descripción del programa también indica grados 2–4.",
+            "team": "Equipo de 2 a 6 menores y 2 entrenadores adultos.",
+            "hardware": "LEGO Education SPIKE Essential o WeDo 2.0 y dispositivo Bluetooth compatible. El equipo lleva su modelo y póster.",
+            "entry": "Primero inscripción del equipo en la temporada FIRST, después inscripción en el festival concreto de Colorado FIRST. Confirmar el acceso de equipos de otra región."
+          }
+        ],
+        "event_ids": [
+          "C5064",
+          "C5065",
+          "C5066",
+          "C5067",
+          "C5068"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://coloradofirst.org/programs/fll-explore/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://coloradofirst.org/product-category/first-lego-league-explore/",
+            "label": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas.",
+        "checked": "2026-11-08"
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -31483,7 +31662,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 321; se conservan las 46 vías anteriores. Los formatos brasileños se distinguen por separado y Robofest LATAM y BajaBot se describen por sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 323. Se conservan las 46 vías anteriores. Los formatos brasileños se separan y Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

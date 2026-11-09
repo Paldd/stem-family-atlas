@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11264; соревнований: 5039; событий: 718; лагерей / программ: 5507. Профилей лиг и программ: 321. Карточек крупных и профильных выставок: 617 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11297; соревнований: 5067; событий: 723; лагерей / программ: 5507. Профилей лиг и программ: 323. Карточек крупных и профильных выставок: 622 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2037 | 158 | 1399 |
+| Северная Америка | 41 | 2061 | 163 | 1399 |
 | Южная Америка | 15 | 467 | 52 | 235 |
 | Европа | 55 | 721 | 154 | 1612 |
 | Африка | 60 | 272 | 45 | 156 |
 | Азия | 50 | 1197 | 174 | 1728 |
 | Океания | 27 | 175 | 32 | 362 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 192. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 196. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 5039 карточек соревнований (16.2%). Это явный перекос охвата.
+VEX: 815 из 5067 карточек соревнований (16.1%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -347,6 +347,8 @@ VEX: 815 из 5039 карточек соревнований (16.2%). Это я�
 - **NKCC România · Scratch Game-Script**: 4 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.nkcc.ikcc.info/
 - **LSC Challenge Singapore · Scratch and Python**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.lsc-challenge.org/lsc2026
 - **ITICBOT · Colombia**: 10 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://iticbot.com/robotica.html
+- **TEAM Alliance · Sphero Robotics Missions / Blueprint SRC**: 23 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://teamalliance.org/events/
+- **Colorado FIRST · LEGO League Explore**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://coloradofirst.org/programs/fll-explore/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1006,6 +1008,11 @@ VEX: 815 из 5039 карточек соревнований (16.2%). Это я�
 - **EXO Berlin 2027 · Assistive Robotics** — Германия; 2027-06-15 – 2027-06-16. Детский допуск уточнить. https://www.exo-berlin.de/
 - **IA Expo Internacional 2027 · Conferencias y XperiencIA** — Мексика; 2027-01-29 – 2027-01-30. Детский допуск уточнить. https://iaexpo.ai/
 - **Marketing Up 2027 · Expo y marketing con IA** — Мексика; 2027-05-13 – 2027-05-14. Детский допуск уточнить. https://www.marketingup.mx/
+- **Colorado FIRST LEGO League Explore · Grand Mountain · Посещение демонстраций** — Соединенные Штаты Америки; 2027-02-20. Детский допуск уточнить. https://legacy.coloradofirst.org/event/grand-mountain-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Charles Hay World · Посещение демонстраций** — Соединенные Штаты Америки; 2027-03-27. Детский допуск уточнить. https://legacy.coloradofirst.org/event/charles-hay-world-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Lopez Elementary · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-03. Детский допуск уточнить. https://legacy.coloradofirst.org/event/lopez-elementary-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · STEM School Highlands Ranch · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-17. Детский допуск уточнить. https://coloradofirst.org/event/stem-school-highlands-ranch-first-lego-league-explore-festival-2027/
+- **Colorado FIRST LEGO League Explore · Lafayette · Посещение демонстраций** — Соединенные Штаты Америки; 2027-04-24. Детский допуск уточнить. https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

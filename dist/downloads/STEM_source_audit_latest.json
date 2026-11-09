@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11264,
-    "competition_cards": 5039,
-    "event_cards": 718,
+    "cards": 11297,
+    "competition_cards": 5067,
+    "event_cards": 723,
     "camp_cards": 5507,
-    "league_profiles": 321,
-    "major_exhibition_cards": 617,
+    "league_profiles": 323,
+    "major_exhibition_cards": 622,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3637,
+      "total": 3666,
       "countries_with_records": 41,
-      "competitions": 2037,
-      "events": 201,
-      "major_exhibitions": 158,
+      "competitions": 2061,
+      "events": 206,
+      "major_exhibitions": 163,
       "camps": 1399,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -8262,6 +8262,60 @@
       "new": false
     },
     {
+      "id": "team-alliance-sphero-missions",
+      "name": "TEAM Alliance · Sphero Robotics Missions / Blueprint SRC",
+      "group": "international",
+      "event_ids": [
+        "C5041",
+        "C5042",
+        "C5043",
+        "C5044",
+        "C5045",
+        "C5046",
+        "C5047",
+        "C5048",
+        "C5049",
+        "C5050",
+        "C5051",
+        "C5052",
+        "C5053",
+        "C5054",
+        "C5055",
+        "C5056",
+        "C5057",
+        "C5058",
+        "C5059",
+        "C5060",
+        "C5061",
+        "C5062",
+        "C5063"
+      ],
+      "cards": 23,
+      "future_dated": 11,
+      "linked_card_count": 23,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://teamalliance.org/events/",
+      "new": false
+    },
+    {
+      "id": "first-colorado-explore",
+      "name": "Colorado FIRST · LEGO League Explore",
+      "group": "regional",
+      "event_ids": [
+        "C5064",
+        "C5065",
+        "C5066",
+        "C5067",
+        "C5068"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://coloradofirst.org/programs/fll-explore/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -16050,6 +16104,61 @@
       "new": false
     },
     {
+      "id": "E719",
+      "name": "Colorado FIRST LEGO League Explore · Grand Mountain · Посещение демонстраций",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://legacy.coloradofirst.org/event/grand-mountain-first-lego-league-explore-festival-2027/",
+      "new": false
+    },
+    {
+      "id": "E720",
+      "name": "Colorado FIRST LEGO League Explore · Charles Hay World · Посещение демонстраций",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://legacy.coloradofirst.org/event/charles-hay-world-first-lego-league-explore-festival-2027/",
+      "new": false
+    },
+    {
+      "id": "E721",
+      "name": "Colorado FIRST LEGO League Explore · Lopez Elementary · Посещение демонстраций",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://legacy.coloradofirst.org/event/lopez-elementary-first-lego-league-explore-festival-2027/",
+      "new": false
+    },
+    {
+      "id": "E722",
+      "name": "Colorado FIRST LEGO League Explore · STEM School Highlands Ranch · Посещение демонстраций",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://coloradofirst.org/event/stem-school-highlands-ranch-first-lego-league-explore-festival-2027/",
+      "new": false
+    },
+    {
+      "id": "E723",
+      "name": "Colorado FIRST LEGO League Explore · Lafayette · Посещение демонстраций",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-24",
+      "end": "2027-04-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://legacy.coloradofirst.org/event/lafayette-first-lego-league-explore-festival-2027/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17430,7 +17539,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 192,
+  "interregional_cards": 196,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
