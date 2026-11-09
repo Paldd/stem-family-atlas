@@ -1,0 +1,104 @@
+{
+  "captures": [
+    {
+      "key": "wicando",
+      "url": "https://wicando.org/programs",
+      "final_url": "https://wicando.org/programs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 199957,
+      "sha256": "788129a03b47346c7639472b1d05fe02b7d2dd79b8b9afdd86819681c5236dc8",
+      "file": "wicando.html"
+    },
+    {
+      "key": "candoCalendar",
+      "url": "https://wicando.org/calendar",
+      "final_url": "https://wicando.org/calendar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 220900,
+      "sha256": "4b0a3ae32ce1640f8d7a8cac5eadb290e337f3ff23a937fe02b70ac5ba76b08f",
+      "file": "candoCalendar.html"
+    },
+    {
+      "key": "candoContact",
+      "url": "https://wicando.org/contact-us",
+      "final_url": "https://wicando.org/contact-us",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 198574,
+      "sha256": "9666e3979a365a8e5fec6c93bfb753849c26420fc7cd6003cd118759c1dcea02",
+      "file": "candoContact.html"
+    },
+    {
+      "key": "sbcsSummer",
+      "url": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+      "final_url": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+      "retrieval": "public_web_readback",
+      "mime": "text/plain",
+      "bytes": 9269,
+      "sha256": "f19539851ac3296942cc3d0f8314286ce5fc357c3a89916d2a630952823d0d15",
+      "file": "sbcsSummer.txt"
+    },
+    {
+      "key": "sbcsPayments",
+      "url": "https://www.sbcs.edu.tt/covid-19/online-payments/",
+      "final_url": "https://www.sbcs.edu.tt/covid-19/online-payments/",
+      "retrieval": "public_web_readback",
+      "mime": "text/plain",
+      "bytes": 194,
+      "sha256": "a7f8604c84cabec9fd04de2df4d26faf8309dc484c99e2dbe9f133eceef6b68f",
+      "file": "sbcsPayments.txt"
+    },
+    {
+      "key": "sbcsExplorers",
+      "url": "https://www.sbcs.edu.tt/stem-explorers-camp/",
+      "final_url": "https://www.sbcs.edu.tt/stem-explorers-camp/",
+      "retrieval": "public_web_readback",
+      "mime": "text/plain",
+      "bytes": 12137,
+      "sha256": "5b7bc0c9e1c96e102da7f469bf95cbd1fc092ff94f6b315f4394d73b15d44dcf",
+      "file": "sbcsExplorers.txt"
+    },
+    {
+      "key": "ascendCamps",
+      "url": "https://ascendtechacademy.com/camps/",
+      "final_url": "https://ascendtechacademy.com/camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 168695,
+      "sha256": "60d4e36f57b329c2189c3a37e0e1fd33b06ca0e0e8e15c76093a6b404b48a8a9",
+      "file": "ascendCamps.html"
+    },
+    {
+      "key": "cso",
+      "url": "https://caribbeanscience.org/cso/",
+      "final_url": "https://caribbeanscience.org/cso/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 233918,
+      "sha256": "3f18f9fd309a856a42917743e259ad9f8d092fc6143ebad7f8086f5bdef488ad",
+      "file": "cso.html"
+    },
+    {
+      "key": "jamaica",
+      "url": "https://jamcoders.org.jm/",
+      "final_url": "https://jamcoders.org.jm/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40601,
+      "sha256": "6ccb3510a6074116c1b6222ffc885d7f3562a5f10016372af89e81eba5e42315",
+      "file": "jamaica.html"
+    },
+    {
+      "key": "jamApply",
+      "url": "https://apply.jamcoders.org.jm/apply/",
+      "final_url": "https://apply.jamcoders.org.jm/apply/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 3698,
+      "sha256": "a7887c60d47a037ade6555f47dd977ad328d6a2aa28def91855070208c2f7383",
+      "file": "jamApply.html"
+    }
+  ]
+}

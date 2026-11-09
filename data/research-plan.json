@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 341,
+    "version": 342,
     "status": "implementation_snapshot",
-    "events": 11535,
-    "competitions": 5124,
+    "events": 11550,
+    "competitions": 5128,
     "league_profiles": 331,
-    "camp_dossiers": 2265,
+    "camp_dossiers": 2271,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,11 +928,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 340,
+    "version": 341,
     "status": "implementation_snapshot",
-    "events": 11522,
-    "competitions": 5119,
-    "league_profiles": 330,
+    "events": 11535,
+    "competitions": 5124,
+    "league_profiles": 331,
     "camp_dossiers": 2265,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 740,
+    "exhibitions_events": 743,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 341,
+    "prepared_ui_version": 342,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 340,
-    "previous_verified_commit": "241c5de2297b8588d211949da9482693527f3012"
+    "previous_verified_ui_version": 341,
+    "previous_verified_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 340,
-    "published_version": 340,
-    "latest_source_commit": "241c5de2297b8588d211949da9482693527f3012",
-    "published_commit": "241c5de2297b8588d211949da9482693527f3012",
-    "latest_workflow": 42602410846,
+    "latest_source_version": 341,
+    "published_version": 341,
+    "latest_source_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138",
+    "published_commit": "47a2fd5ae50e39aee51f2aef1b0a504946474138",
+    "latest_workflow": 42605017132,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35784,5 +35784,78 @@
     "expo_tech_conflict_id": "E474",
     "panama_maker_id": "E743",
     "senacyt_research_id": "L956"
+  },
+  "tampa_and_caribbean_stem_schedules_v342": {
+    "version": 342,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5126",
+      "C5127",
+      "C5128",
+      "C5129",
+      "L957",
+      "CP2266-20261003-20261121-fall-saturdays",
+      "CP2267-20270712-20270723-tentative-july",
+      "CP2268-20260713-20260717-archive-1",
+      "CP2268-20260803-20260807-archive-2",
+      "CP2269-20260720-20260724-archive-1",
+      "CP2269-20260810-20260814-archive-2",
+      "CP2271-20260330-20260403-week-1-half",
+      "CP2271-20260330-20260403-week-1-full",
+      "CP2271-20260406-20260410-week-2-half",
+      "CP2271-20260406-20260410-week-2-full"
+    ],
+    "refreshed_event_ids": [
+      "C900",
+      "C901",
+      "C3358",
+      "E135",
+      "E392"
+    ],
+    "new_dossier_ids": [
+      "CP2266",
+      "CP2267",
+      "CP2268",
+      "CP2269",
+      "CP2270",
+      "CP2271"
+    ],
+    "refreshed_dossier_ids": [
+      "CP1758"
+    ],
+    "new_league_ids": [],
+    "legacy_overlay_event_ids": [
+      "C900",
+      "C901",
+      "C3358",
+      "E135",
+      "E392"
+    ],
+    "legacy_overlay_league_ids": [
+      "caribbean-stem"
+    ],
+    "source_requests": 10,
+    "tampa_tides_dossier": "CP2266",
+    "tampa_summer_dossier": "CP2267",
+    "tampa_remaining_dates": [
+      "2026-11-14",
+      "2026-11-21"
+    ],
+    "trinidad_dossiers": [
+      "CP2268",
+      "CP2269",
+      "CP2270"
+    ],
+    "cayman_easter_archive": "CP2271",
+    "cso_new_milestones": [
+      "C5126",
+      "C5127",
+      "C5128",
+      "C5129"
+    ],
+    "cso_public_ceremony": "E135",
+    "jamcoders_student_deadline_id": "L957"
   }
 }

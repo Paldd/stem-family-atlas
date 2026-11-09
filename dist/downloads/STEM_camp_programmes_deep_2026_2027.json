@@ -30,18 +30,18 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2265,
+    "dossiers": 2271,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 299,
       "published_2027": 648,
-      "partial_2027": 159,
+      "partial_2027": 160,
       "next_unannounced": 442,
-      "published_2026": 437,
+      "published_2026": 438,
       "partial_2026_27": 44,
       "partial_2026": 24,
-      "archive_next_unannounced": 147,
+      "archive_next_unannounced": 151,
       "regular_programme": 21,
       "regular_2026_27": 31,
       "historical_2026_next_season_unknown": 1,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3202
+    "source_urls": 3210
   },
   "countries": [
     {
@@ -247,7 +247,7 @@
     },
     {
       "country": "Кайман острова",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Камбоджа",
@@ -479,7 +479,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 170
+      "count": 172
     },
     {
       "country": "Суринам",
@@ -503,7 +503,7 @@
     },
     {
       "country": "Тринидад и Тобаго",
-      "count": 5
+      "count": 8
     },
     {
       "country": "Тунис",
@@ -308229,13 +308229,13 @@
       "formats": [
         "boarding"
       ],
-      "age": "Учащиеся школ Ямайки, классы 9–11.",
+      "age": "Учащиеся ямайских средних школ, 9–11 классы. Опыт программирования для заявки не требуется.",
       "language": "Страница программы на английском. Язык преподавания конкретной группы уточнить.",
       "confirmed_instruction_languages": [],
       "programme": "Алгоритмы и программирование. Нужны школьные табели за 2 года и эссе. Роль ассистента подаётся отдельно.",
       "timing": {
         "status": "partial_2027",
-        "label": "4 недели в июле 2027. Точные дни объявят. Заявки учеников до 17 января 2027.",
+        "label": "4 недели в июле 2027. Точные дни ещё не объявлены. Заявки учеников до 17 января 2027, 23:59 EST.",
         "sessions": [],
         "precision": "season_window"
       },
@@ -308263,16 +308263,22 @@
       "editorial_reason": "Проверены программа и возрастные условия. Следующий набор требует подтверждения.",
       "shortlist": [],
       "questions": [
-        "Подтвердить возрастную группу, набор и язык обучения."
+        "Заявка ученика до 17 января 2027, 23:59 EST по Ямайке. Для отправки нужна учётная запись. Запрашивают табели за 2 года и короткое эссе.",
+        "Полный счёт и условия возврата уточнить у организатора."
       ],
       "sources": [
         {
           "url": "https://jamcoders.org.jm/",
           "title": "Официальная страница организатора",
           "checked": "2026-11-07"
+        },
+        {
+          "url": "https://apply.jamcoders.org.jm/apply/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "availability": {
         "status": "open",
         "label": "Опубликована форма заявки для учеников. Решение о зачислении отдельно."
@@ -397459,6 +397465,1260 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2266",
+      "slug": "cando-tampa-tides-2026",
+      "provider": "CANDO · TIDES Innovation Team",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Тампа. Точная площадка занятий не опубликована.",
+      "age": "9–12 лет. Начальный уровень, опыт не требуется.",
+      "programme": "Начальная команда TIDES. Практические задачи по технике и инженерии, совместное конструирование и подготовка к будущим соревнованиям.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "3 октября – 21 ноября 2026, каждую субботу 13:00–15:00 в Тампе. Даты отдельных занятий рассчитаны по опубликованному правилу.",
+        "sessions": [
+          [
+            "2026-10-03",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "fall-saturdays",
+            "start": "2026-10-03",
+            "end": "2026-11-21",
+            "label": "CANDO TIDES",
+            "price": "На странице указано $25 и возможность финансовой помощи. Единица тарифа и полный счёт не указаны.",
+            "source": "https://wicando.org/programs",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_precision": "published_rule",
+            "date_rule": "3 октября – 21 ноября 2026, каждую субботу 13:00–15:00 в Тампе. Даты отдельных занятий рассчитаны по опубликованному правилу.",
+            "attendance_weekdays": [
+              "SA"
+            ],
+            "entry": "На сайте есть форма заявки и указано ограниченное число мест. Возможность присоединиться к уже идущему циклу уточнить.",
+            "sessions": [
+              {
+                "date": "2026-10-03",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-10",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-17",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-24",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-31",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-07",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-14",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "topic": "CANDO TIDES",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "На странице указано $25 и возможность финансовой помощи. Единица тарифа и полный счёт не указаны.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "3 октября – 21 ноября 2026, каждую субботу 13:00–15:00 в Тампе. Даты отдельных занятий рассчитаны по опубликованному правилу.",
+      "shortlist": [],
+      "questions": [
+        "На сайте есть форма заявки и указано ограниченное число мест. Возможность присоединиться к уже идущему циклу уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://wicando.org/programs",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://wicando.org/calendar",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://wicando.org/contact-us",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "На сайте есть форма заявки и указано ограниченное число мест. Возможность присоединиться к уже идущему циклу уточнить."
+      },
+      "calendar_links": [
+        {
+          "start": "2026-10-03",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2266-20261003-20261121-fall-saturdays"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2267",
+      "slug": "cando-tampa-robotics-summer-2027",
+      "provider": "CANDO · Summer Robotics Camp 2027",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Тампа. Точная площадка занятий не опубликована.",
+      "age": "9–12 лет. Начальный уровень, опыт не требуется.",
+      "programme": "Двухнедельная программа. Сборка и программирование роботов, инженерные задачи и командные проекты.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "Предварительные даты 12–23 июля 2027. Часы, точный адрес и распределение учебных дней ещё не опубликованы.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "tentative-july",
+            "start": "2027-07-12",
+            "end": "2027-07-23",
+            "label": "Summer Robotics Camp",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://wicando.org/programs",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "not_open",
+              "label": "Запись на лето 2027 ещё не открыта. Подтверждение дат и места ожидается."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Предварительные даты 12–23 июля 2027. Часы, точный адрес и распределение учебных дней ещё не опубликованы.",
+            "entry": "Запись на лето 2027 ещё не открыта. Подтверждение дат и места ожидается."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "Предварительные даты 12–23 июля 2027. Часы, точный адрес и распределение учебных дней ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Запись на лето 2027 ещё не открыта. Подтверждение дат и места ожидается.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://wicando.org/programs",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://wicando.org/contact-us",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "not_open",
+        "label": "Запись на лето 2027 ещё не открыта. Подтверждение дат и места ожидается."
+      },
+      "historical_editions": [
+        {
+          "start": "2026-07-06",
+          "end": "2026-07-17",
+          "source": "https://wicando.org/calendar",
+          "label": "В календаре 2026 были 6–17 июля, 09:00–13:00. Часы относятся к прошлому сезону."
+        }
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2267-20270712-20270723-tentative-july"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2268",
+      "slug": "sbcs-trinidad-coding-2026",
+      "provider": "SBCS · Coding the Future",
+      "country": "Тринидад и Тобаго",
+      "iso": "TTO",
+      "place": "SBCS Global Learning Institute · Champs Fleurs Campus",
+      "age": "7–12 лет по таблице лагеря 2026. Возрастные правила следующего набора уточнить.",
+      "programme": "Программирование и роботы, ИИ и автоматизация, VR, AR, 3D-печать и итоговая презентация проекта.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архивные смены 2026, понедельник–пятница 09:00–15:00. Даты и цены 2027 ещё не опубликованы.",
+        "sessions": [
+          [
+            "2026-07-13",
+            "2026-07-17"
+          ],
+          [
+            "2026-08-03",
+            "2026-08-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "archive-1",
+            "start": "2026-07-13",
+            "end": "2026-07-17",
+            "label": "Coding the Future",
+            "price": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+            "source": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "archive-2",
+            "start": "2026-08-03",
+            "end": "2026-08-07",
+            "label": "Coding the Future",
+            "price": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+            "source": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-08-03",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Coding the Future",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "week",
+        "label": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+        "included": "",
+        "extras": "Скидка до 10% на обучение для подходящих заявок. Можно принести еду из дома. Правила и тарифы следующего сезона не опубликованы.",
+        "deposit": "В 2026 требовалась полная оплата при записи за неделю до начала. Условия следующего набора и возврат уточнить."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит для опубликованного диапазона. Набор в архивную смену завершён."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "Архивные смены 2026, понедельник–пятница 09:00–15:00. Даты и цены 2027 ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+        "В 2026 требовалась полная оплата при записи за неделю до начала. Условия следующего набора и возврат уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sbcs.edu.tt/covid-19/online-payments/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+      },
+      "calendar_links": [
+        {
+          "start": "2026-07-13",
+          "end": "2026-07-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2268-20260713-20260717-archive-1"
+          ]
+        },
+        {
+          "start": "2026-08-03",
+          "end": "2026-08-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2268-20260803-20260807-archive-2"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2269",
+      "slug": "sbcs-trinidad-space-2026",
+      "provider": "SBCS · Space Odyssey",
+      "country": "Тринидад и Тобаго",
+      "iso": "TTO",
+      "place": "SBCS Global Learning Institute · Champs Fleurs Campus",
+      "age": "7–12 лет по таблице лагеря 2026. Возрастные правила следующего набора уточнить.",
+      "programme": "Роботы в космических исследованиях, возобновляемая энергия, модульные роботы, 3D-печать и итоговый проект.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архивные смены 2026, понедельник–пятница 09:00–15:00. Даты и цены 2027 ещё не опубликованы.",
+        "sessions": [
+          [
+            "2026-07-20",
+            "2026-07-24"
+          ],
+          [
+            "2026-08-10",
+            "2026-08-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "archive-1",
+            "start": "2026-07-20",
+            "end": "2026-07-24",
+            "label": "Space Odyssey",
+            "price": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+            "source": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-07-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "archive-2",
+            "start": "2026-08-10",
+            "end": "2026-08-14",
+            "label": "Space Odyssey",
+            "price": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+            "source": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-08-10",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-08-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Port_of_Spain",
+                "topic": "Space Odyssey",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "week",
+        "label": "Архив 2026: $1450 за смену и $150 административный сбор. Итого $1600 по опубликованным позициям. Ланч дополнительно $300. Таблица использует знак $, платёжный раздел для местных платежей указывает TT$.",
+        "included": "",
+        "extras": "Скидка до 10% на обучение для подходящих заявок. Можно принести еду из дома. Правила и тарифы следующего сезона не опубликованы.",
+        "deposit": "В 2026 требовалась полная оплата при записи за неделю до начала. Условия следующего набора и возврат уточнить."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит для опубликованного диапазона. Набор в архивную смену завершён."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "Архивные смены 2026, понедельник–пятница 09:00–15:00. Даты и цены 2027 ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+        "В 2026 требовалась полная оплата при записи за неделю до начала. Условия следующего набора и возврат уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sbcs.edu.tt/covid-19/online-payments/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+      },
+      "calendar_links": [
+        {
+          "start": "2026-07-20",
+          "end": "2026-07-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2269-20260720-20260724-archive-1"
+          ]
+        },
+        {
+          "start": "2026-08-10",
+          "end": "2026-08-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2269-20260810-20260814-archive-2"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2270",
+      "slug": "sbcs-trinidad-stem-explorers-2026",
+      "provider": "SBCS · STEM Explorers / Science Stars",
+      "country": "Тринидад и Тобаго",
+      "iso": "TTO",
+      "place": "SBCS Global Learning Institute · Champs Fleurs Campus",
+      "age": "В карточке оплаты 7–12 лет. В общем описании встречается 7–13. Верхнюю границу следующей группы уточнить.",
+      "programme": "Однодневная практика: робототехника и AR, программирование, гуманоиды, 3D-печать и VR. В расписании была выдача сертификата лагеря.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "7 марта, 8 и 11 апреля, 16 мая 2026. В таблице 09:30–15:30, вручение сертификата в программе до 15:45. Даты 2027 не объявлены.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "historical_sessions": [
+          [
+            "2026-03-07",
+            "2026-03-07"
+          ],
+          [
+            "2026-04-08",
+            "2026-04-08"
+          ],
+          [
+            "2026-04-11",
+            "2026-04-11"
+          ],
+          [
+            "2026-05-16",
+            "2026-05-16"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 400,
+        "currency": "TTD",
+        "unit": "day",
+        "label": "Архив 2026: 400 TTD или 62 USD за день. Отдельно указан регистрационный сбор 50 TTD или 8 USD.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит для опубликованного диапазона. Набор в архивную смену завершён."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "7 марта, 8 и 11 апреля, 16 мая 2026. В таблице 09:30–15:30, вручение сертификата в программе до 15:45. Даты 2027 не объявлены.",
+      "shortlist": [],
+      "questions": [
+        "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbcs.edu.tt/stem-explorers-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.sbcs.edu.tt/covid-19/online-payments/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+      },
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2271",
+      "slug": "ascend-cayman-easter-2026",
+      "provider": "Ascend Tech Academy · Easter Camp 2026",
+      "country": "Кайман острова",
+      "iso": "CYM",
+      "place": "George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road",
+      "age": "4–14 лет по архивной программе.",
+      "programme": "Сборка и программирование с LEGO, музыка, театр, творчество и спорт.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык преподавателя для конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архив 2026: 30 марта – 3 апреля и 6–10 апреля. Следующая пасхальная программа ещё не объявлена.",
+        "sessions": [
+          [
+            "2026-03-30",
+            "2026-04-03"
+          ],
+          [
+            "2026-03-30",
+            "2026-04-03"
+          ],
+          [
+            "2026-04-06",
+            "2026-04-10"
+          ],
+          [
+            "2026-04-06",
+            "2026-04-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1-half",
+            "start": "2026-03-30",
+            "end": "2026-04-03",
+            "label": "Half Day",
+            "price": "До 6 марта 2026: 180 KYD за неделю до 12:30 или 375 KYD до 15:00. Обычные тарифы после скидки не указаны.",
+            "source": "https://ascendtechacademy.com/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-03-30",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-03-31",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-01",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-02",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-03",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "week-1-full",
+            "start": "2026-03-30",
+            "end": "2026-04-03",
+            "label": "Full Day",
+            "price": "До 6 марта 2026: 180 KYD за неделю до 12:30 или 375 KYD до 15:00. Обычные тарифы после скидки не указаны.",
+            "source": "https://ascendtechacademy.com/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-03-30",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-03-31",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-01",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-02",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-03",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "week-2-half",
+            "start": "2026-04-06",
+            "end": "2026-04-10",
+            "label": "Half Day",
+            "price": "До 6 марта 2026: 180 KYD за неделю до 12:30 или 375 KYD до 15:00. Обычные тарифы после скидки не указаны.",
+            "source": "https://ascendtechacademy.com/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-04-06",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-07",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-08",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-09",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-10",
+                "start_time": "08:30",
+                "end_time": "12:30",
+                "timezone": "America/Cayman",
+                "topic": "Half Day",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "week-2-full",
+            "start": "2026-04-06",
+            "end": "2026-04-10",
+            "label": "Full Day",
+            "price": "До 6 марта 2026: 180 KYD за неделю до 12:30 или 375 KYD до 15:00. Обычные тарифы после скидки не указаны.",
+            "source": "https://ascendtechacademy.com/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "closed",
+              "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+            },
+            "include_published_past_schedule": true,
+            "entry": "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+            "sessions": [
+              {
+                "date": "2026-04-06",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-07",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-08",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-09",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-04-10",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "America/Cayman",
+                "topic": "Full Day",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 180,
+        "currency": "KYD",
+        "unit": "week",
+        "label": "До 6 марта 2026: 180 KYD за неделю до 12:30 или 375 KYD до 15:00. Обычные тарифы после скидки не указаны.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит для опубликованного диапазона. Набор в архивную смену завершён."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит для опубликованного диапазона. Набор в архивную смену завершён."
+        }
+      },
+      "editorial_reason": "Архив 2026: 30 марта – 3 апреля и 6–10 апреля. Следующая пасхальная программа ещё не объявлена.",
+      "shortlist": [],
+      "questions": [
+        "Архив 2026. Новый набор и его условия уточнить по странице организатора.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://ascendtechacademy.com/camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "general",
+        "technology",
+        "sport"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "availability": {
+        "status": "closed",
+        "label": "Архив 2026. Новый набор и его условия уточнить по странице организатора."
+      },
+      "calendar_links": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-04-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2271-20260330-20260403-week-1-half"
+          ]
+        },
+        {
+          "start": "2026-03-30",
+          "end": "2026-04-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2271-20260330-20260403-week-1-full"
+          ]
+        },
+        {
+          "start": "2026-04-06",
+          "end": "2026-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2271-20260406-20260410-week-2-half"
+          ]
+        },
+        {
+          "start": "2026-04-06",
+          "end": "2026-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2271-20260406-20260410-week-2-full"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -402784,7 +404044,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 340,
+  "version": 342,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -416019,7 +417279,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2265,
+      "total_dossiers": 2271,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -441159,6 +442419,56 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2266",
+      "event_id": "CP2266-20261003-20261121-fall-saturdays",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2267",
+      "event_id": "CP2267-20270712-20270723-tentative-july",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2268",
+      "event_id": "CP2268-20260713-20260717-archive-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2268",
+      "event_id": "CP2268-20260803-20260807-archive-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2269",
+      "event_id": "CP2269-20260720-20260724-archive-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2269",
+      "event_id": "CP2269-20260810-20260814-archive-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2271",
+      "event_id": "CP2271-20260330-20260403-week-1-half",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2271",
+      "event_id": "CP2271-20260330-20260403-week-1-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2271",
+      "event_id": "CP2271-20260406-20260410-week-2-half",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2271",
+      "event_id": "CP2271-20260406-20260410-week-2-full",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -446281,10 +447591,20 @@
     "CP2264-20270705-20270709-week-1",
     "CP2264-20270712-20270716-week-2",
     "CP2265-20261223-20270108-morning",
-    "CP2265-20261223-20270108-full-day"
+    "CP2265-20261223-20270108-full-day",
+    "CP2266-20261003-20261121-fall-saturdays",
+    "CP2267-20270712-20270723-tentative-july",
+    "CP2268-20260713-20260717-archive-1",
+    "CP2268-20260803-20260807-archive-2",
+    "CP2269-20260720-20260724-archive-1",
+    "CP2269-20260810-20260814-archive-2",
+    "CP2271-20260330-20260403-week-1-half",
+    "CP2271-20260330-20260403-week-1-full",
+    "CP2271-20260406-20260410-week-2-half",
+    "CP2271-20260406-20260410-week-2-full"
   ],
   "integration": {
-    "generated_sessions": 4712,
+    "generated_sessions": 4722,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

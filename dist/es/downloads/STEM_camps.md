@@ -14086,6 +14086,22 @@ Limitaciones: Solicitudes desde el 29 de septiembre de 2026. La prórroga oficia
 Fuente: https://www.senacyt.gob.pa/en/programa-de-jovenes-cientificos-para-el-ano-2027-3/
 Se ha comprobado: 2026-11-09
 
+### L957 · JamCoders 2027 · Student application deadline
+
+lugar: Jamaica · Kingston
+Fecha: 4 semanas en julio de 2027 en Kingston. Aún no se anuncian los días exactos.
+edad: Estudiantes de secundaria en Jamaica, 9.º–11.º grado. No se requiere experiencia previa de programación para solicitar plaza.
+Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+formato: programme_milestone
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Alojamiento y comidas gratuitos para estudiantes admitidos. Confirmar los gastos totales de la familia.
+Acceso: Solicitud para estudiantes de escuelas jamaicanas. La organización confirma la admisión por separado.
+Limitaciones: Solicitud del estudiante hasta el 17 de enero de 2027, 23:59 EST en Jamaica. Para enviarla se requiere cuenta. Piden notas de 2 años y un ensayo breve.
+Fuente: https://jamcoders.org.jm/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -89476,6 +89492,166 @@ Precio: 2026/27 · 50 EUR por día con comida. El segundo menor con descuento pa
 Acceso: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
 Limitaciones: Matvey: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Oscar: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Suplementos: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://geniosretiro.com/campamentos/campamento-de-navidad/
+Se ha comprobado: 2026-11-09
+
+### CP2266-20261003-20261121-fall-saturdays · CANDO · TIDES Innovation Team · CANDO TIDES · 2026-10-03–2026-11-21
+
+lugar: Estados Unidos · Tampa. Aún no se publica la sede exacta de las sesiones.
+Fecha: 2026-10-03 — 2026-11-21
+edad: 9–12 años. Nivel inicial, no se requiere experiencia.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página indica $25 y posibilidad de ayuda económica. No indica unidad de tarifa ni coste total. · suplementos y condiciones en el dossier
+Acceso: El sitio ofrece formulario y anuncia plazas limitadas. Confirmar si se puede incorporar al ciclo en curso.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://wicando.org/programs
+Se ha comprobado: 2026-11-09
+
+### CP2267-20270712-20270723-tentative-july · CANDO · Summer Robotics Camp 2027 · Summer Robotics Camp · 2027-07-12–2027-07-23
+
+lugar: Estados Unidos · Tampa. Aún no se publica la sede exacta de las sesiones.
+Fecha: 2027-07-12 — 2027-07-23
+edad: 9–12 años. Nivel inicial, no se requiere experiencia.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: La inscripción para el verano de 2027 aún no abre. Se espera confirmar fechas y plazas.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://wicando.org/programs
+Se ha comprobado: 2026-11-09
+
+### CP2268-20260713-20260717-archive-1 · SBCS · Coding the Future · Coding the Future · 2026-07-13–2026-07-17
+
+lugar: Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+Fecha: 2026-07-13 — 2026-07-17
+edad: 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada. Pago: En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+Fuente: https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2268-20260803-20260807-archive-2 · SBCS · Coding the Future · Coding the Future · 2026-08-03–2026-08-07
+
+lugar: Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+Fecha: 2026-08-03 — 2026-08-07
+edad: 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada. Pago: En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+Fuente: https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2269-20260720-20260724-archive-1 · SBCS · Space Odyssey · Space Odyssey · 2026-07-20–2026-07-24
+
+lugar: Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+Fecha: 2026-07-20 — 2026-07-24
+edad: 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada. Pago: En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+Fuente: https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2269-20260810-20260814-archive-2 · SBCS · Space Odyssey · Space Odyssey · 2026-08-10–2026-08-14
+
+lugar: Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+Fecha: 2026-08-10 — 2026-08-14
+edad: 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada. Pago: En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+Fuente: https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2271-20260330-20260403-week-1-half · Ascend Tech Academy · Easter Camp 2026 · Half Day · 2026-03-30–2026-04-03
+
+lugar: Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
+Fecha: 2026-03-30 — 2026-04-03
+edad: 4–14 años según el programa histórico.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://ascendtechacademy.com/camps/
+Se ha comprobado: 2026-11-09
+
+### CP2271-20260330-20260403-week-1-full · Ascend Tech Academy · Easter Camp 2026 · Full Day · 2026-03-30–2026-04-03
+
+lugar: Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
+Fecha: 2026-03-30 — 2026-04-03
+edad: 4–14 años según el programa histórico.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://ascendtechacademy.com/camps/
+Se ha comprobado: 2026-11-09
+
+### CP2271-20260406-20260410-week-2-half · Ascend Tech Academy · Easter Camp 2026 · Half Day · 2026-04-06–2026-04-10
+
+lugar: Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
+Fecha: 2026-04-06 — 2026-04-10
+edad: 4–14 años según el programa histórico.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://ascendtechacademy.com/camps/
+Se ha comprobado: 2026-11-09
+
+### CP2271-20260406-20260410-week-2-full · Ascend Tech Academy · Easter Camp 2026 · Full Day · 2026-04-06–2026-04-10
+
+lugar: Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
+Fecha: 2026-04-06 — 2026-04-10
+edad: 4–14 años según el programa histórico.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores. · suplementos y condiciones en el dossier
+Acceso: Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+Limitaciones: Matvey: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Oscar: La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://ascendtechacademy.com/camps/
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

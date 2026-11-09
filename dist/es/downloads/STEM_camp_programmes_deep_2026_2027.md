@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado del catálogo: 2026-11-09. 2265 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado del catálogo: 2026-11-09. 2271 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -141396,9 +141396,9 @@ Guyana · Guyana
 
 Jamaica · Kingston · UWI Mona
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-09
 
-**edad:** Estudiantes de secundaria en Jamaica, cursos 9–11.
+**edad:** Estudiantes de secundaria en Jamaica, 9.º–11.º grado. No se requiere experiencia previa de programación para solicitar plaza.
 
 **Idioma:** Página del programa en inglés. Confirmar el idioma de enseñanza del grupo concreto.
 
@@ -141406,7 +141406,7 @@ Jamaica · Kingston · UWI Mona
 
 **Alojamiento:** Alojamiento en residencia y comidas gratis para estudiantes admitidos.
 
-**Fechas / estado:** 4 semanas en julio de 2027. Días exactos pendientes. Solicitudes de estudiantes hasta el 17 de enero de 2027.
+**Fechas / estado:** 4 semanas en julio de 2027. Los días exactos aún no se anuncian. Solicitudes de estudiantes hasta el 17 de enero de 2027, 23:59 EST.
 
 **Precio / año:** 2027 · Alojamiento en residencia y comidas gratis para estudiantes admitidos.
 
@@ -141424,11 +141424,15 @@ Jamaica · Kingston · UWI Mona
 
 ### Antes de solicitar plaza
 
-- Confirmar grupo de edad, admisión e idioma de enseñanza.
+- Solicitud del estudiante hasta el 17 de enero de 2027, 23:59 EST en Jamaica. Para enviarla se requiere cuenta. Piden notas de 2 años y un ensayo breve.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
 
 ### Fuentes
 
 - [Página oficial del organizador](https://jamcoders.org.jm/) · 2026-11-07
+
+- [Página de la organización o reglamento de la categoría.](https://apply.jamcoders.org.jm/apply/) · 2026-11-09
 
 ## CP1759 · iCode Peoria
 
@@ -179121,6 +179125,460 @@ España · Madrid · Plaza del Doctor Laguna 11
 - [Página de la organización o reglamento de la categoría.](https://geniosretiro.com/campamentos/campamento-de-navidad/) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://geniosretiro.com/campamentos/) · 2026-11-09
+
+## CP2266 · CANDO · TIDES Innovation Team
+
+Estados Unidos · Tampa. Aún no se publica la sede exacta de las sesiones.
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–12 años. Nivel inicial, no se requiere experiencia.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Equipo inicial TIDES. Retos prácticos de tecnología e ingeniería, construcción en equipo y preparación para futuros torneos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 3 de octubre – 21 de noviembre de 2026, cada sábado de 13:00–15:00 en Tampa. Las fechas de las sesiones se calculan a partir de la regla publicada.
+
+**Precio / año:** 2026 · La página indica $25 y posibilidad de ayuda económica. No indica unidad de tarifa ni coste total.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** 3 de octubre – 21 de noviembre de 2026, cada sábado de 13:00–15:00 en Tampa. Las fechas de las sesiones se calculan a partir de la regla publicada.
+
+### Antes de solicitar plaza
+
+- El sitio ofrece formulario y anuncia plazas limitadas. Confirmar si se puede incorporar al ciclo en curso.
+
+### CANDO TIDES
+
+**Fechas / estado:** 2026-10-03 — 2026-11-21
+
+**Precio:** La página indica $25 y posibilidad de ayuda económica. No indica unidad de tarifa ni coste total.
+
+**condiciones de participación:** El sitio ofrece formulario y anuncia plazas limitadas. Confirmar si se puede incorporar al ciclo en curso.
+
+- 2026-10-03 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-10-10 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-10-17 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-10-24 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-10-31 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-11-07 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-11-14 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+- 2026-11-21 · 13:00–15:00 · America/New_York · CANDO TIDES
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://wicando.org/programs)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wicando.org/programs) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://wicando.org/calendar) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://wicando.org/contact-us) · 2026-11-09
+
+## CP2267 · CANDO · Summer Robotics Camp 2027
+
+Estados Unidos · Tampa. Aún no se publica la sede exacta de las sesiones.
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–12 años. Nivel inicial, no se requiere experiencia.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Programa de dos semanas. Montaje y programación de robots, retos de ingeniería y proyectos en equipo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Fechas provisionales del 12 al 23 de julio de 2027. Aún no se publican horas, dirección exacta ni distribución de días lectivos.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** Fechas provisionales del 12 al 23 de julio de 2027. Aún no se publican horas, dirección exacta ni distribución de días lectivos.
+
+### Antes de solicitar plaza
+
+- La inscripción para el verano de 2027 aún no abre. Se espera confirmar fechas y plazas.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Summer Robotics Camp
+
+**Fechas / estado:** 2027-07-12 — 2027-07-23
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** La inscripción para el verano de 2027 aún no abre. Se espera confirmar fechas y plazas.
+
+**Disponibilidad de plazas:** La inscripción para el verano de 2027 aún no abre. Se espera confirmar fechas y plazas.
+
+[fuente](https://wicando.org/programs)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wicando.org/programs) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://wicando.org/contact-us) · 2026-11-09
+
+## CP2268 · SBCS · Coding the Future
+
+Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Programación y robótica, IA y automatización, VR, AR, impresión 3D y presentación final del proyecto.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Turnos históricos de 2026, lunes–viernes 09:00–15:00. Aún no se publican fechas ni precios de 2027.
+
+**Precio / año:** 2026 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**Suplementos:** Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada.
+
+**Pago:** En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+
+**Matvey:** La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** Turnos históricos de 2026, lunes–viernes 09:00–15:00. Aún no se publican fechas ni precios de 2027.
+
+### Antes de solicitar plaza
+
+- Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+
+### Coding the Future
+
+**Fechas / estado:** 2026-07-13 — 2026-07-17
+
+**Precio:** Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-07-13 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-07-14 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-07-15 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-07-16 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-07-17 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/)
+
+### Coding the Future
+
+**Fechas / estado:** 2026-08-03 — 2026-08-07
+
+**Precio:** Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-08-03 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-08-04 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-08-05 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-08-06 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+- 2026-08-07 · 09:00–15:00 · America/Port_of_Spain · Coding the Future
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/covid-19/online-payments/) · 2026-11-09
+
+## CP2269 · SBCS · Space Odyssey
+
+Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 7–12 años según la tabla del campamento de 2026. Confirmar las reglas de edad de la próxima convocatoria.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Robots para la exploración espacial, energía renovable, robots modulares, impresión 3D y proyecto final.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Turnos históricos de 2026, lunes–viernes 09:00–15:00. Aún no se publican fechas ni precios de 2027.
+
+**Precio / año:** 2026 · Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**Suplementos:** Descuento de hasta 10% en matrícula para solicitudes elegibles. Se permite comida de casa. Aún no se publican las reglas ni tarifas de la siguiente temporada.
+
+**Pago:** En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+
+**Matvey:** La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** Turnos históricos de 2026, lunes–viernes 09:00–15:00. Aún no se publican fechas ni precios de 2027.
+
+### Antes de solicitar plaza
+
+- Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- En 2026 se exigía pago íntegro al inscribirse una semana antes del inicio. Confirmar condiciones de la próxima convocatoria y reembolsos.
+
+### Space Odyssey
+
+**Fechas / estado:** 2026-07-20 — 2026-07-24
+
+**Precio:** Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-07-20 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-07-21 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-07-22 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-07-23 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-07-24 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/)
+
+### Space Odyssey
+
+**Fechas / estado:** 2026-08-10 — 2026-08-14
+
+**Precio:** Archivo de 2026: $1450 por turno y $150 de administración. Total de $1600 según los conceptos publicados. Comida opcional de $300. La tabla usa $, la sección de pagos locales indica TT$.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-08-10 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-08-11 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-08-12 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-08-13 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+- 2026-08-14 · 09:00–15:00 · America/Port_of_Spain · Space Odyssey
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/2026-vacation-courses-stem-camps/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/covid-19/online-payments/) · 2026-11-09
+
+## CP2270 · SBCS · STEM Explorers / Science Stars
+
+Trinidad y Tobago · SBCS Global Learning Institute · Champs Fleurs Campus
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** La ficha de pago indica 7–12 años. La descripción general menciona 7–13. Confirmar el límite superior del próximo grupo.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Práctica de un día: robótica y AR, programación, humanoides, impresión 3D y VR. El horario incluía entrega del certificado del campamento.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 7 de marzo, 8 y 11 de abril, 16 de mayo de 2026. La tabla indica 09:30–15:30 y el programa entrega del certificado hasta las 15:45. Sin fechas anunciadas de 2027.
+
+**Precio / año:** 2026 · Archivo de 2026: 400 TTD o 62 USD por día. Se indica por separado cuota de inscripción de 50 TTD u 8 USD.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** 7 de marzo, 8 y 11 de abril, 16 de mayo de 2026. La tabla indica 09:30–15:30 y el programa entrega del certificado hasta las 15:45. Sin fechas anunciadas de 2027.
+
+### Antes de solicitar plaza
+
+- Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/stem-explorers-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.sbcs.edu.tt/covid-19/online-payments/) · 2026-11-09
+
+## CP2271 · Ascend Tech Academy · Easter Camp 2026
+
+Islas Caimán · George Town, Grand Cayman · Windjammer Plaza, 461 Walkers Road
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–14 años según el programa histórico.
+
+**Idioma:** El programa está publicado en inglés. Confirmar el idioma del instructor para el grupo concreto.
+
+**Programa:** Montaje y programación con LEGO, música, teatro, arte y deporte.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Archivo de 2026: 30 de marzo – 3 de abril y 6–10 de abril. Aún no se anuncia el próximo programa de Pascua.
+
+**Precio / año:** 2026 · Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido.
+
+**Oscar:** La edad encaja en la franja publicada. La inscripción del turno histórico ha concluido.
+
+**Por qué se incluye:** Archivo de 2026: 30 de marzo – 3 de abril y 6–10 de abril. Aún no se anuncia el próximo programa de Pascua.
+
+### Antes de solicitar plaza
+
+- Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Half Day
+
+**Fechas / estado:** 2026-03-30 — 2026-04-03
+
+**Precio:** Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-03-30 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-03-31 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-01 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-02 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-03 · 08:30–12:30 · America/Cayman · Half Day
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://ascendtechacademy.com/camps/)
+
+### Full Day
+
+**Fechas / estado:** 2026-03-30 — 2026-04-03
+
+**Precio:** Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-03-30 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-03-31 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-01 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-02 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-03 · 08:30–15:00 · America/Cayman · Full Day
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://ascendtechacademy.com/camps/)
+
+### Half Day
+
+**Fechas / estado:** 2026-04-06 — 2026-04-10
+
+**Precio:** Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-04-06 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-07 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-08 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-09 · 08:30–12:30 · America/Cayman · Half Day
+
+- 2026-04-10 · 08:30–12:30 · America/Cayman · Half Day
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://ascendtechacademy.com/camps/)
+
+### Full Day
+
+**Fechas / estado:** 2026-04-06 — 2026-04-10
+
+**Precio:** Hasta el 6 de marzo de 2026: 180 KYD por semana hasta las 12:30 o 375 KYD hasta las 15:00. No se indican tarifas ordinarias posteriores.
+
+**condiciones de participación:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+- 2026-04-06 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-07 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-08 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-09 · 08:30–15:00 · America/Cayman · Full Day
+
+- 2026-04-10 · 08:30–15:00 · America/Cayman · Full Day
+
+**Disponibilidad de plazas:** Archivo de 2026. Consultar la nueva convocatoria y sus condiciones en la página de la organización.
+
+[fuente](https://ascendtechacademy.com/camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://ascendtechacademy.com/camps/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

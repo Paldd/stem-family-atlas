@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11535,
-    "competition_cards": 5124,
+    "cards": 11550,
+    "competition_cards": 5128,
     "event_cards": 743,
-    "camp_cards": 5668,
+    "camp_cards": 5679,
     "league_profiles": 331,
-    "major_exhibition_cards": 635,
+    "major_exhibition_cards": 636,
     "vex_cards": 817,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3709,
+      "total": 3724,
       "countries_with_records": 41,
-      "competitions": 2080,
+      "competitions": 2084,
       "events": 216,
-      "major_exhibitions": 168,
-      "camps": 1413,
+      "major_exhibitions": 169,
+      "camps": 1424,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -3870,11 +3870,15 @@
       "event_ids": [
         "C900",
         "C901",
-        "C3358"
+        "C3358",
+        "C5126",
+        "C5127",
+        "C5128",
+        "C5129"
       ],
-      "cards": 3,
-      "future_dated": 3,
-      "linked_card_count": 5,
+      "cards": 7,
+      "future_dated": 4,
+      "linked_card_count": 9,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://caribbeanscience.org/cso/",
       "new": false
@@ -10797,6 +10801,17 @@
       "end": "",
       "visitor_policy": "family",
       "source": "https://muci.org/",
+      "new": false
+    },
+    {
+      "id": "E135",
+      "name": "Caribbean STEM Olympiads 2027 · ceremonia pública de premios",
+      "country": "en línea / CARICOM",
+      "region": "Caribe",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "visitor_policy": "family",
+      "source": "https://caribbeanscience.org/cso/",
       "new": false
     },
     {
@@ -18871,9 +18886,9 @@
       }
     ],
     "counts": {
-      "records": 5668,
-      "holiday": 5060,
-      "regular": 223,
+      "records": 5679,
+      "holiday": 5069,
+      "regular": 224,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1660,

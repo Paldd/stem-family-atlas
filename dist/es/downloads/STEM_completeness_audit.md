@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11535; competiciones: 5124; eventos: 743; campamentos / programas: 5668. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 635 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11550; competiciones: 5128; eventos: 743; campamentos / programas: 5679. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 636 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2080 | 168 | 1413 |
+| América del Norte | 41 | 2084 | 169 | 1424 |
 | América del Sur | 15 | 473 | 52 | 258 |
 | Europa | 55 | 732 | 160 | 1663 |
 | África | 60 | 272 | 45 | 156 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
 
-VEX: 817 de 5124 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
+VEX: 817 de 5128 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -175,7 +175,7 @@ VEX: 817 de 5124 fichas de competiciones (15.9%). Esta concentración muestra un
 - **IGVC · Intelligent Ground Vehicle Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://robonation.org/2027-season-launch/
 - **IARC · International Aerial Robotics Competition**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://robonation.org/2027-season-launch/
 - **Barbados Robotics Innovation Challenge**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/bric/
-- **Caribbean STEM Olympiads**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/cso/
+- **Caribbean STEM Olympiads**: 7 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/cso/
 - **CoderZ League · robótica virtual**: 1 tarjeta, 0 con fechas exactas futuras. https://competition.gocoderz.com/fall-league/
 - **CodeAI / Hour of AI · capacitación**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://code.org/es/curriculum/computer-science-fundamentals
 - *Australian STEM Video Game Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://www.stemgames.org.au/
@@ -520,6 +520,7 @@ VEX: 817 de 5124 fichas de competiciones (15.9%). Esta concentración muestra un
 - **Taiwan Innotech Expo · 2027** Taiwán; 2027-10-14 2027-10-16. https://www.inventaipei.com.tw/zh-tw/index.html
 - **Robótica 2026 · Visita pública al festival** — Brasil; 2026-11-23 – 2026-11-29. Acceso de los niños a la educación. https://robotica.robocup.org.br/
 - **MuCi San Cosmos · Planetario digital / Visita familiar SEM** ○ Paraguay; fecha desconocida: adulto; condiciones de entrada de adultos por separado. https://muci.org/
+- **Caribbean STEM Olympiads 2027 · ceremonia pública de premios** — en línea / CARICOM; 2027-01-17. con un adulto; condiciones de admisión adulta por separado. https://caribbeanscience.org/cso/
 - **Swiss Robotics Day 2026** Suiza; 2026-11-13. https://swissroboticsday.ch/
 - **Global Industrie Lyon 2027** — Francia; 2027-03-15 – 2027-03-18. Acceso de los niños a la educación. https://www.global-industrie.com/
 - **SIDO Lyon 2027 · IoT / AI / Robotics / XR** — Francia; 2027-09-15 – 2027-09-16. Niños 6/9 No puedes.. https://www.sido-lyon.com/
