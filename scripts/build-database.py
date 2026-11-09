@@ -921,17 +921,20 @@ for e in d['events']:
     if calendar_excluded(e):continue
     if e['start'] and e['end']>=d['asof']:
         if e.get('date_scope')=='session_days':
+            competition=e['block']=='Соревнования'
+            session_title=('[Соревнование] ' if competition else '[Учебный день] ')+e['title']
+            session_label='Раунд' if competition else 'Занятие'
             for key, session in zip(session_keys(e['id'], e['sessions']), e['sessions']):
                 if session['date']<d['asof']:continue
-                row=dict(e,session_note=f"Занятие: {session['topic']}; {session['start_time']}–{session['end_time']} {session['timezone']}. {session.get('time_note','')}")
+                row=dict(e,session_note=f"{session_label}: {session['topic']}; {session['start_time']}–{session['end_time']} {session['timezone']}. {session.get('time_note','')}")
                 if session.get('ical_timed'):
                     start_dt=local_to_utc(session['date'],session['start_time'],session['timezone'])
                     end_dt=local_to_utc(session['date'],session['end_time'],session['timezone'])
                     assert end_dt>start_dt
-                    cal_event(row,key,'[Учебный день] '+e['title'],start_dt.strftime('%Y%m%dT%H%M%SZ'),end_dt.strftime('%Y%m%dT%H%M%SZ'),True)
+                    cal_event(row,key,session_title,start_dt.strftime('%Y%m%dT%H%M%SZ'),end_dt.strftime('%Y%m%dT%H%M%SZ'),True)
                     continue
                 end=(datetime.date.fromisoformat(session['date'])+datetime.timedelta(days=1)).strftime('%Y%m%d')
-                cal_event(row,key,'[Учебный день] '+e['title'],session['date'].replace('-',''),end)
+                cal_event(row,key,session_title,session['date'].replace('-',''),end)
         else:
             prefix='[Публикация правил] ' if e.get('date_scope')=='rules_publication' else '[Открытие регистрации] ' if e.get('date_scope')=='registration_open' else '[Открытие подачи проектов] ' if e.get('date_scope')=='submission_open' else '[Виртуальная защита] ' if e.get('date_scope')=='judging' else '[Окно прохождения конкурса] ' if e.get('date_scope')=='assessment_window' else '[Окно подачи результатов] ' if e.get('date_scope')=='submission_window' else '[Окно · один назначенный день] ' if e.get('date_scope')=='assigned_day_window' else '[Дни мероприятия] ' if e.get('date_scope')=='festival_window' else '[Окно смены · расписание уточнить] ' if e.get('date_scope')=='camp_window' else '[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else '[Дни выбора мастер-класса] ' if e.get('date_scope')=='workshop_window' else ('[Окно дневного лагеря · Пн–Пт] ' if e.get('attendance_weekdays') else '[Окно дневного лагеря · расписание уточнить] ') if e.get('date_scope')=='day_camp_window' else '[Смена лагеря] ' if e.get('date_scope')=='camp_session' else '[Идея] '
             if e.get('date_scope')=='release_milestone':prefix='[Публикация материалов] '

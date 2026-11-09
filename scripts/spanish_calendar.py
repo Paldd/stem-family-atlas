@@ -59,8 +59,10 @@ def localize_calendar(source, original, translated):
             else:
                 session_note = ''
                 if session:
-                    session_note = f"Clase: {session['topic']}; {session['start_time']}–{session['end_time']} {session['timezone']}. {session.get('time_note', '')}"
-                    prefix = '[Día de clase] '
+                    competition = ru['block'] == 'Соревнования'
+                    session_label = 'Ronda' if competition else 'Clase'
+                    session_note = f"{session_label}: {session['topic']}; {session['start_time']}–{session['end_time']} {session['timezone']}. {session.get('time_note', '')}"
+                    prefix = '[Competición] ' if competition else '[Día de clase] '
                 elif deadline:
                     label = e.get('deadline_label') or 'Plazo límite'
                     timed = any(v.startswith('DTSTART:') for v in block)

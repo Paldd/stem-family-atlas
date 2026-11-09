@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11566; competiciones: 5128; eventos: 750; campamentos / programas: 5688. Perfiles de ligas y programas: 331. Fichas de exposiciones grandes y especializadas: 643 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11731; competiciones: 5293; eventos: 750; campamentos y programas: 5688. Perfiles de ligas y programas: 333. Fichas de exposiciones principales y especializadas: 643, contando ediciones y sedes.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2084 | 176 | 1428 |
+| América del Norte | 41 | 2211 | 176 | 1428 |
 | América del Sur | 15 | 473 | 52 | 258 |
 | Europa | 55 | 732 | 160 | 1668 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1208 | 176 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
-Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
+Fichas interregionales o mundiales sin asignar a un continente: 243. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX: 817 de 5128 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
+VEX: 817 de 5293 fichas de competiciones (15.4%). La cobertura está concentrada en ese circuito.
 
 ## Lo que queda
 
@@ -357,6 +357,8 @@ VEX: 817 de 5128 fichas de competiciones (15.9%). Esta concentración muestra un
 - **FIRA Brasil · Kids**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firabrasil.com/fira-kids
 - **RoboCup Canada Open · RoboCupJunior / Primary**: 11 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocup.org/events/91
 - **OlimPIA Panamá · Olimpiada Panameña de Inteligencia Artificial**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://olimpanama-ia.org/
+- **IAC National Science Bee**: 147 fichas, 115 con fechas futuras concretas. Hay perfil y fichas; cobertura local parcial. https://www.iacompetitions.com/emssciencebee/
+- **IAC National Mathematics Bee**: 18 fichas, 17 con fechas futuras concretas. Hay perfil y fichas; cobertura local parcial. https://www.iacompetitions.com/math/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
