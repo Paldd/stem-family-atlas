@@ -13382,6 +13382,38 @@ Limitaciones: 2500 TND por el programa. Un anticipo de 500 TND reserva la plaza 
 Fuente: https://grainesentrepreneurs.tn/formations/programme-annuel
 Se ha comprobado: 2026-11-08
 
+### L913 · Modern Age Coders · Scratch to Games, Apps and AI
+
+lugar: India · Online
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6*12 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Formato: online
+Idioma: Se imparte en inglés o hindi según el grupo. Para la familia, elegir un grupo en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: En línea y en directo. Acordar horario de Costa Rica, grupo de edad, precio y docente.
+Limitaciones: Se imparte en inglés o hindi según el grupo. Para la familia, elegir un grupo en inglés.
+Fuente: https://learn.modernagecoders.com/courses/kids-coding-blocks-masterclass
+Se ha comprobado: 2026-11-08
+
+### L914 · Modern Age Coders · First Games in Scratch · summer 2027
+
+lugar: India · Online
+Fecha: El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+Edad: 6–9 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Formato: online_camp
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: En línea y en directo. Acordar horario de Costa Rica, grupo de edad, precio y docente.
+Limitaciones: El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+Fuente: https://learn.modernagecoders.com/online-coding-summer-camp-canada
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -72612,7 +72644,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1702-20261221-20261224-wan-chai-2026-12-21-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-21–2026-12-24
 
@@ -72628,7 +72660,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1702-20261228-20261231-wan-chai-2026-12-28-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-28–2026-12-31
 
@@ -72644,7 +72676,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1702-20261228-20261231-wan-chai-2026-12-28-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-28–2026-12-31
 
@@ -72660,7 +72692,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1703-20261221-20261224-wan-chai-2026-12-21-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-21–2026-12-24
 
@@ -72676,7 +72708,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1703-20261221-20261224-wan-chai-2026-12-21-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-21–2026-12-24
 
@@ -72692,7 +72724,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1703-20261228-20261231-wan-chai-2026-12-28-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-28–2026-12-31
 
@@ -72708,7 +72740,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1703-20261228-20261231-wan-chai-2026-12-28-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-28–2026-12-31
 
@@ -72724,7 +72756,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1704-20261207-20261211-wan-chai-2026-12-07-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-07–2026-12-11
 
@@ -72740,7 +72772,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1704-20261214-20261218-wan-chai-2026-12-14-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-14–2026-12-18
 
@@ -72756,7 +72788,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1704-20261214-20261218-wan-chai-2026-12-14-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-14–2026-12-18
 
@@ -72772,7 +72804,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1704-20270104-20270108-wan-chai-2027-01-04-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2027-01-04–2027-01-08
 
@@ -72788,7 +72820,7 @@ Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1705-20261207-20261211-wan-chai-2026-12-07-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-07–2026-12-11
 
@@ -72804,7 +72836,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1705-20261214-20261218-wan-chai-2026-12-14-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-14–2026-12-18
 
@@ -72820,7 +72852,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1705-20261214-20261218-wan-chai-2026-12-14-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-14–2026-12-18
 
@@ -72836,7 +72868,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1705-20270104-20270108-wan-chai-2027-01-04-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2027-01-04–2027-01-08
 
@@ -72852,7 +72884,7 @@ Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1706-20261221-20261224-kowloon-tong-2026-12-21-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-21–2026-12-24
 
@@ -72868,7 +72900,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1706-20261221-20261224-kowloon-tong-2026-12-21-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-21–2026-12-24
 
@@ -72884,7 +72916,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1706-20261228-20261231-kowloon-tong-2026-12-28-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-28–2026-12-31
 
@@ -72900,7 +72932,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1706-20261228-20261231-kowloon-tong-2026-12-28-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-28–2026-12-31
 
@@ -72916,7 +72948,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1707-20261221-20261224-kowloon-tong-2026-12-21-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-21–2026-12-24
 
@@ -72932,7 +72964,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1707-20261221-20261224-kowloon-tong-2026-12-21-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-21–2026-12-24
 
@@ -72948,7 +72980,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1707-20261228-20261231-kowloon-tong-2026-12-28-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-28–2026-12-31
 
@@ -72964,7 +72996,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1707-20261228-20261231-kowloon-tong-2026-12-28-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-28–2026-12-31
 
@@ -72980,7 +73012,7 @@ Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1708-20261207-20261211-kowloon-tong-2026-12-07-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-07–2026-12-11
 
@@ -72996,7 +73028,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1708-20261214-20261218-kowloon-tong-2026-12-14-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-14–2026-12-18
 
@@ -73012,7 +73044,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1708-20261214-20261218-kowloon-tong-2026-12-14-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-14–2026-12-18
 
@@ -73028,7 +73060,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1708-20270104-20270108-kowloon-tong-2027-01-04-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2027-01-04–2027-01-08
 
@@ -73044,7 +73076,7 @@ Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1709-20261207-20261211-kowloon-tong-2026-12-07-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-07–2026-12-11
 
@@ -73060,7 +73092,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1709-20261214-20261218-kowloon-tong-2026-12-14-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-14–2026-12-18
 
@@ -73076,7 +73108,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1709-20261214-20261218-kowloon-tong-2026-12-14-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-14–2026-12-18
 
@@ -73092,7 +73124,7 @@ Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1709-20270104-20270108-kowloon-tong-2027-01-04-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2027-01-04–2027-01-08
 
@@ -73108,7 +73140,7 @@ Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.coboacademy.com/holiday-camps/index.asp
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1710-20270125-20270129-taipei · HUHU · Mystery Island STEAM · Mystery Island STEAM · Taipei · 2027-01-25–2027-01-29
 
@@ -78622,13 +78654,13 @@ edad: De K2 a 6.º de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
 Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
 Fuente: https://www.littleeartheducation.com/holiday-programmes
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1882-20261130-20261204-2026-11-30-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-11-30–2026-12-04
 
@@ -78638,13 +78670,13 @@ edad: De K2 a 6.º de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
 Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
 Fuente: https://www.littleeartheducation.com/holiday-programmes
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1882-20261207-20261211-2026-12-07-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-12-07–2026-12-11
 
@@ -78654,13 +78686,13 @@ edad: De K2 a 6.º de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
 Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
 Fuente: https://www.littleeartheducation.com/holiday-programmes
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1882-20261214-20261218-2026-12-14-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-12-14–2026-12-18
 
@@ -78670,13 +78702,45 @@ edad: De K2 a 6.º de primaria.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
 Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
 Fuente: https://www.littleeartheducation.com/holiday-programmes
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
+
+### CP1882-20261221-20261223-2026-12-21-full · Little Earth · Full-Day Holiday Programme · Little Earth · Full Day · 2026-12-21–2026-12-23
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-12-21 - 2026-12-23
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Tres días completos del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-08
+
+### CP1882-20261228-20261231-2026-12-28-full · Little Earth · Full-Day Holiday Programme · Little Earth · Full Day · 2026-12-28–2026-12-31
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-12-28 - 2026-12-31
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-08
 
 ### CP1883-20270106-20270106-2027-01-06-short · SCRATCHPAD · Scratch · Día de 09:00 a 15:00 · 2027-01-06–2027-01-06
 
@@ -85398,6 +85462,86 @@ Limitaciones: Matvey: Preinscripción. Confirmar primero la edad del grupo de in
 Fuente: https://makerspacekids.ma/en/
 Se ha comprobado: 2026-11-08
 
+### CP2143-20261130-20261204-week-1 · Little Earth · K2 to P1 Bridging · Little Earth · K2 to P1 Bridging · 2026-11-30–2026-12-04
+
+Lugar: Singapur Tampines / Kovan / Bishan · Singapore
+Fecha: 2026-11-30 — 2026-12-04
+edad: K2 si el niño pasa a Primary 1 en 2027.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Condicional. Confirmar equivalencia de K2 y paso a Primary 1. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
+Se ha comprobado: 2026-11-08
+
+### CP2143-20261207-20261211-week-2 · Little Earth · K2 to P1 Bridging · Little Earth · K2 to P1 Bridging · 2026-12-07–2026-12-11
+
+Lugar: Singapur Tampines / Kovan / Bishan · Singapore
+Fecha: 2026-12-07 — 2026-12-11
+edad: K2 si el niño pasa a Primary 1 en 2027.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Condicional. Confirmar equivalencia de K2 y paso a Primary 1. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
+Se ha comprobado: 2026-11-08
+
+### CP2143-20261214-20261218-week-3 · Little Earth · K2 to P1 Bridging · Little Earth · K2 to P1 Bridging · 2026-12-14–2026-12-18
+
+Lugar: Singapur Tampines / Kovan / Bishan · Singapore
+Fecha: 2026-12-14 - 2026-12-18
+edad: K2 si el niño pasa a Primary 1 en 2027.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Condicional. Confirmar equivalencia de K2 y paso a Primary 1. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
+Se ha comprobado: 2026-11-08
+
+### CP2143-20261221-20261223-week-4 · Little Earth · K2 to P1 Bridging · Little Earth · K2 to P1 Bridging · 2026-12-21–2026-12-23
+
+Lugar: Singapur Tampines / Kovan / Bishan · Singapore
+Fecha: 2026-12-21 - 2026-12-23
+edad: K2 si el niño pasa a Primary 1 en 2027.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Actividades del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Condicional. Confirmar equivalencia de K2 y paso a Primary 1. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
+Se ha comprobado: 2026-11-08
+
+### CP2143-20261228-20261231-week-5 · Little Earth · K2 to P1 Bridging · Little Earth · K2 to P1 Bridging · 2026-12-28–2026-12-31
+
+Lugar: Singapur Tampines / Kovan / Bishan · Singapore
+Fecha: 2026-12-28 - 2026-12-31
+edad: K2 si el niño pasa a Primary 1 en 2027.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Acceso: Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+Limitaciones: Matvey: No encaja por edad. Necesita un grupo superior. Oscar: Condicional. Confirmar equivalencia de K2 y paso a Primary 1. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -86809,7 +86953,7 @@ Comprobado: 2026-10-01
 ### C841 · LSC Challenge2026 · U8 Explorer
 
 Lugar: Singapur · Online submission platform / presencia local especificar
-Fecha: 2026-12-02 国 2026-12-02
+Fecha: 2026-12-02 — 2026-12-20
 Edad: 7–8
 No más de 8 años
 Oscar: No en 2026 menos de 7
@@ -86817,15 +86961,15 @@ Formato: individual
 Idioma: No se ha confirmado el idioma de la sesión técnica EN / ES
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: S$40 standardregistration on competitionguide
-Entrada: Solicitud a través de un sitio web: Acceso internacional/a distancia desde Costa Rica, amputación de la edad y un eslogan exacto de 120 minutos, anunciado el 17 de agosto, optional workshops el 2 de noviembre.
+Acceso: Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes.
 Limitaciones: 2 de diciembre, el lanzamiento anunciado de la competencia, no confirmado el día de su reunión. 21 de diciembre, los resultados, no el plazo de entrega. La Guía planea un premio para la segunda semana de enero de 2027, no hay un día exacto. AI tools, código de código y cheat sheets están prohibidos. El niño escribe por sí mismo; los padres sólo proporcionan ayuda general para la preparación.
 Fuente: https://www.lsc-challenge.org/lsc2026
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### C842 · LSC Challenge2026 · U10 Builder
 
 Lugar: Singapur · Online submission platform / presencia local especificar
-Fecha: 2026-12-02 国 2026-12-02
+Fecha: 2026-12-02 — 2026-12-20
 Edad: 9*10
 Matwey: Sí, por edad publicada; cutoff / aceptación extranjera
 Óscar: No menos de 9
@@ -86833,10 +86977,10 @@ Formato: individual
 Idioma: No se ha confirmado el idioma de la sesión técnica EN / ES
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: S$40 standardregistration on competitionguide
-Entrada: Solicitud a través de un sitio web: Acceso internacional/a distancia desde Costa Rica, amputación de la edad y un eslogan exacto de 120 minutos, anunciado el 17 de agosto, optional workshops el 2 de noviembre.
+Acceso: Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes.
 Limitaciones: 2 de diciembre, el lanzamiento anunciado de la competencia, no confirmado el día de su reunión. 21 de diciembre, los resultados, no el plazo de entrega. La Guía planea un premio para la segunda semana de enero de 2027, no hay un día exacto. AI tools, código de código y cheat sheets están prohibidos. El niño escribe por sí mismo; los padres sólo proporcionan ayuda general para la preparación.
 Fuente: https://www.lsc-challenge.org/lsc2026
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### ~#C843 · IKCC · World Game Coding 2027 · Inicio
 

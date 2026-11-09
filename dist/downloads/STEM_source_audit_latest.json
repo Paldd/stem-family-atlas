@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11113,
-    "competition_cards": 4994,
+    "cards": 11132,
+    "competition_cards": 5004,
     "event_cards": 706,
-    "camp_cards": 5413,
-    "league_profiles": 317,
+    "camp_cards": 5422,
+    "league_profiles": 320,
     "major_exhibition_cards": 606,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3614,
+      "total": 3615,
       "countries_with_records": 41,
-      "competitions": 2030,
+      "competitions": 2031,
       "events": 196,
       "major_exhibitions": 154,
       "camps": 1388,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 2460,
+      "total": 2466,
       "countries_with_records": 55,
-      "competitions": 714,
+      "competitions": 720,
       "events": 175,
       "major_exhibitions": 150,
       "camps": 1571,
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3089,
+      "total": 3101,
       "countries_with_records": 50,
-      "competitions": 1193,
+      "competitions": 1196,
       "events": 184,
       "major_exhibitions": 171,
-      "camps": 1712,
+      "camps": 1721,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -8182,6 +8182,57 @@
       "linked_card_count": 10,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://atast.org/",
+      "new": false
+    },
+    {
+      "id": "dvla-wales-code-challenge",
+      "name": "DVLA Code Challenge · Wales",
+      "group": "regional",
+      "event_ids": [
+        "C4997",
+        "C4998",
+        "C1778"
+      ],
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+      "new": false
+    },
+    {
+      "id": "nkcc-romania-scratch",
+      "name": "NKCC România · Scratch Game-Script",
+      "group": "regional",
+      "event_ids": [
+        "C4999",
+        "C5000",
+        "C5001",
+        "C5002"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.nkcc.ikcc.info/",
+      "new": false
+    },
+    {
+      "id": "lsc-singapore-coding",
+      "name": "LSC Challenge Singapore · Scratch and Python",
+      "group": "regional",
+      "event_ids": [
+        "C841",
+        "C842",
+        "C5003",
+        "C5004",
+        "C5005"
+      ],
+      "cards": 5,
+      "future_dated": 1,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.lsc-challenge.org/lsc2026",
       "new": false
     },
     {
@@ -18261,8 +18312,8 @@
       }
     ],
     "counts": {
-      "records": 5413,
-      "holiday": 4878,
+      "records": 5422,
+      "holiday": 4886,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,

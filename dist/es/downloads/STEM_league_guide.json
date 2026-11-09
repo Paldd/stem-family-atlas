@@ -23701,10 +23701,20 @@
         ],
         "summary": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
         "categories": [
-          "Encode Creative Coding 2026 · Junior · ScratchJr",
-          "Encode Creative Coding 2026 · Senior · Scratch",
-          "Encode Creative Coding 2026 · Registration closes",
-          "Encode Creative Coding 2026 · Results"
+          {
+            "name": "ScratchJr",
+            "age": "3–6 años.",
+            "team": "El participante escribe el código por su cuenta. El adulto puede ayudar con las operaciones técnicas.",
+            "hardware": "ScratchJr. Enlace al archivo .sjr. Tema: una historia con mi robot.",
+            "entry": "Antes de pagar, confirmar acceso desde Costa Rica y forma de pago. Se publican PayMe y FPS."
+          },
+          {
+            "name": "Scratch",
+            "age": "Desde los 7 años. La página del concurso no indica un máximo.",
+            "team": "El participante escribe el código por su cuenta. El adulto puede ayudar con las operaciones técnicas.",
+            "hardware": "Scratch. Enlace público al proyecto. Tema: tecnología y nuestra vida.",
+            "entry": "Antes de pagar, confirmar acceso desde Costa Rica y forma de pago. Se publican PayMe y FPS."
+          }
         ],
         "event_ids": [
           "C4486",
@@ -23713,20 +23723,21 @@
           "C4489"
         ],
         "legacy_ids": [],
-        "route": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
+        "route": "Antes de pagar, confirmar acceso desde Costa Rica y forma de pago. Se publican PayMe y FPS.",
         "hardware": "Animación o historia interactiva sobre un robot. Enviar enlace a 1 archivo .sjr.",
-        "language": "Presentación en vídeo en inglés o cantonés.",
+        "language": "Presentación en inglés o cantonés según las bases del concurso.",
         "importance": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
         "strengths": [
           "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos."
         ],
         "requirements": [
-          "Grupo menor de 3 a 6 años, mayor desde 7 años."
+          "El participante escribe el código por su cuenta. El adulto puede ayudar con las operaciones técnicas."
         ],
         "nuances": [
-          "Se requiere vídeo de hasta 60 segundos con rostro del menor y grabación de pantalla. La organización se reserva el derecho de publicar los materiales y usarlos en promoción."
+          "El vídeo de hasta 60 segundos debe mostrar la cara del niño y la pantalla. La organización indica que puede usar los proyectos, fotos y vídeos enviados, también con fines promocionales.",
+          "Antes de pagar, confirmar acceso desde Costa Rica y forma de pago. Se publican PayMe y FPS."
         ],
-        "cost": "HKD 200 por menor. La cuota no se reembolsa tras confirmar. Pago mediante PayMe o FPS.",
+        "cost": "200 HKD por participante. La cuota no se devuelve tras confirmar la inscripción.",
         "award": "Certificado físico de participación. Para ganadores, medallas, trofeos o vales según la categoría del premio.",
         "sources": [
           {
@@ -25788,6 +25799,211 @@
           },
           {
             "url": "https://atast.org/isef",
+            "label": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "dvla-wales-code-challenge",
+        "name": "DVLA Code Challenge · Wales",
+        "group": "regional",
+        "age_summary": "Categorías de 7 a 11, 11 a 16 y 16 a 18 años.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Desarrollo de juegos en equipo con selección para la final en Swansea.",
+        "strengths": "Desarrollo de juegos en equipo con selección para la final en Swansea.",
+        "importance": "Etapa nacional",
+        "route": "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales.",
+        "hardware": "Scratch para edades de 7 a 11 años. Cualquier lenguaje para mayores.",
+        "language": "Hay materiales en inglés. Confirmar el idioma en la sede.",
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+        "requirements": [
+          "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales."
+        ],
+        "nuances": [
+          "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales."
+        ],
+        "categories": [
+          {
+            "name": "7–11",
+            "age": "7–11 · colegio / club con base en Wales",
+            "team": "Equipo de 2 a 6 personas. Hace falta un vídeo del proyecto.",
+            "hardware": "Computador, software y herramientas AI permitidas según disciplina elegida. Robot físico solo donde se indica expresamente.",
+            "entry": "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales."
+          },
+          {
+            "name": "11–16",
+            "age": "De 11 a 16 años.",
+            "team": "Equipo de 2 a 6 personas. Hace falta un vídeo del proyecto.",
+            "hardware": "Cualquier lenguaje de programación según las preguntas frecuentes.",
+            "entry": "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales."
+          },
+          {
+            "name": "16–18",
+            "age": "De 16 a 18 años.",
+            "team": "Equipo de 2 a 6 personas. Hace falta un vídeo del proyecto.",
+            "hardware": "Cualquier lenguaje de programación según las preguntas frecuentes.",
+            "entry": "Solo equipos de una escuela, colegio, club o grupo con dirección en Gales."
+          }
+        ],
+        "event_ids": [
+          "C1778",
+          "C4997",
+          "C4998"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://stem.dvla.gov.uk/dvla-code-challenge/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://stem.dvla.gov.uk/code-challenge-frequently-asked-questions",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://stem.dvla.gov.uk/wp-content/uploads/2026/09/DVLA-Code-Challenge-Terms-and-Conditions-2027-V1.docx",
+            "label": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "nkcc-romania-scratch",
+        "name": "NKCC România · Scratch Game-Script",
+        "group": "regional",
+        "age_summary": "Desde los 7 años en el grupo menor.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Juego sobre Lică y el campeonato de coches. Código nuevo escrito durante el concurso. Las bases excluyen IA, remezclas y reutilización de código.",
+        "strengths": "Juego sobre Lică y el campeonato de coches. Código nuevo escrito durante el concurso. Las bases excluyen IA, remezclas y reutilización de código.",
+        "importance": "Etapa nacional",
+        "route": "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador.",
+        "hardware": "Scratch 3.0",
+        "language": "El proyecto se puede entregar en rumano o en inglés.",
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+        "requirements": [
+          "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador."
+        ],
+        "nuances": [
+          "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador."
+        ],
+        "categories": [
+          {
+            "name": "7–10",
+            "age": "7–10 años.",
+            "team": "",
+            "hardware": "Scratch 3.0",
+            "entry": "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador."
+          },
+          {
+            "name": "11–12",
+            "age": "De 11 a 12 años.",
+            "team": "",
+            "hardware": "Scratch 3.0",
+            "entry": "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador."
+          },
+          {
+            "name": "13–14",
+            "age": "De 13 a 14 años.",
+            "team": "",
+            "hardware": "Scratch 3.0",
+            "entry": "Clasificación nacional de Rumanía. Confirmar acceso local y aportar un documento escolar oficial en la cuenta del organizador."
+          }
+        ],
+        "event_ids": [
+          "C4999",
+          "C5000",
+          "C5001",
+          "C5002"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.nkcc.ikcc.info/",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://www.nkcc.ikcc.info/ro/regulament-pag3",
+            "label": "Página de la organización o reglamento de la categoría."
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "lsc-singapore-coding",
+        "name": "LSC Challenge Singapore · Scratch and Python",
+        "group": "regional",
+        "age_summary": "Grupos de 7 a 8, 9 a 10 y 11 a 12 años.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Sesiones del 2 al 20 de diciembre de 2026. Se asigna un solo día y turno al participante.",
+        "strengths": "Sesiones del 2 al 20 de diciembre de 2026. Se asigna un solo día y turno al participante.",
+        "importance": "Etapa nacional",
+        "route": "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes.",
+        "hardware": "Scratch / Python",
+        "language": "Hay materiales en inglés. Confirmar el idioma en la sede.",
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+        "requirements": [
+          "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes."
+        ],
+        "nuances": [
+          "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes."
+        ],
+        "categories": [
+          {
+            "name": "U8 Explorer",
+            "age": "7–8",
+            "team": "un proyecto de Scratch fresco en los 120 minutos previstos",
+            "hardware": "Scratch;U12 por separado Python11–12",
+            "entry": "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes."
+          },
+          {
+            "name": "U10 Builder",
+            "age": "9–10",
+            "team": "un proyecto de Scratch fresco en los 120 minutos previstos",
+            "hardware": "Scratch;U12 por separado Python11–12",
+            "entry": "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes."
+          },
+          {
+            "name": "U12 Creator",
+            "age": "De 11 a 12 años.",
+            "team": "",
+            "hardware": "Python",
+            "entry": "Elegir una sola sesión del grupo adecuado. Sede Far East Shopping Centre. Confirmar plaza, idioma del jurado y acceso de visitantes."
+          }
+        ],
+        "event_ids": [
+          "C841",
+          "C842",
+          "C5003",
+          "C5004",
+          "C5005"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.lsc-challenge.org/lsc2026",
+            "label": "Página de la organización o reglamento de la categoría."
+          },
+          {
+            "url": "https://www.lsc-challenge.org/register",
             "label": "Página de la organización o reglamento de la categoría."
           }
         ],
@@ -31070,7 +31286,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 317; se conservan las 46 vías anteriores. Los formatos brasileños se separan y se describen las categorías locales de Robofest LATAM y BajaBot. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 320; se conservan las 46 vías anteriores. Los formatos brasileños se separan y se describen las categorías locales de Robofest LATAM y BajaBot. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

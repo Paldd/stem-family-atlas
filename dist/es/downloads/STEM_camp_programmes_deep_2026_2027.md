@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2142 fichas en 139 países. Las fechas de comprobación de fuentes figuran en cada ficha.
+Estado de la base: 2026-11-08. 2144 fichas en 140 países. Las fechas de comprobación de fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -7784,7 +7784,7 @@ México · Ciudad de México
 
 Argentina · Ramos Mejía / Buenos Aires
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Junior 6–9; Senior 10–13
 
@@ -7912,7 +7912,7 @@ Uno de los primeros candidatos técnicos para la prueba del verano sudamericano.
 
 ### Fuentes
 
-- [Colonia 2027 · semanas y ARS 95000 revisados otra vez](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-05
+- [Colonia 2027 · semanas y ARS 95000 revisados otra vez](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-08
 
 ## CP047 · Camp Mákemáke
 
@@ -135930,7 +135930,7 @@ Hong Kong · Wan Chai / Tsim Sha Tsui / Sha Tin / Tseung Kwan O / Tsuen Wan
 
 Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6 años y 8 años
 
@@ -136076,7 +136076,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
 
@@ -136090,7 +136090,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–11 años
 
@@ -136236,7 +136236,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
 
@@ -136250,7 +136250,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6 años y 8 años
 
@@ -136404,7 +136404,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
 
@@ -136418,7 +136418,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–11 años
 
@@ -136572,7 +136572,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
 
@@ -136586,7 +136586,7 @@ Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
 Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6 años y 8 años
 
@@ -136732,7 +136732,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
 
@@ -136746,7 +136746,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–11 años
 
@@ -136892,7 +136892,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
 
@@ -136906,7 +136906,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6 años y 8 años
 
@@ -137060,7 +137060,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
 
@@ -137074,7 +137074,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–11 años
 
@@ -137228,7 +137228,7 @@ Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue �
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
 
@@ -150944,11 +150944,11 @@ Singapur · Tampines / Kovan · elegir sede
 
 Singapur · Tampines / Kovan / Bishan / Bukit Timah · elegir sede
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** De K2 a 6.º de primaria.
 
-**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+**Idioma:** El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
 
 **Programa:** Programa vacacional con bloques técnicos, deporte y excursiones.
 
@@ -151070,9 +151070,59 @@ Singapur · Tampines / Kovan / Bishan / Bukit Timah · elegir sede
 
 [fuente](https://www.littleeartheducation.com/holiday-programmes)
 
+### Little Earth · Full Day
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Tres días completos del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+
+**condiciones de participación:** Tres días completos del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+
+- 2026-12-21 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-22 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-23 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar el curso K2–P6, la sede, las plazas y el idioma de las sesiones técnicas.
+
+- Tres días completos del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
+### Little Earth · Full Day
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+
+**condiciones de participación:** Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+
+- 2026-12-28 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-29 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-30 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Little Earth · Full Day
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar el curso K2–P6, la sede, las plazas y el idioma de las sesiones técnicas.
+
+- Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
 ### Fuentes
 
-- [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-07
+- [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-08
 
 ## CP1883 · SCRATCHPAD · Scratch
 
@@ -169575,6 +169625,222 @@ Túnez · Tunisia
 - [Página de la organización o reglamento de la categoría.](https://atast.org/camp) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://atast.org/) · 2026-11-08
+
+## CP2143 · Little Earth · K2 to P1 Bridging
+
+Singapur · Tampines / Kovan / Bishan · Singapore
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** K2 si el niño pasa a Primary 1 en 2027.
+
+**Idioma:** El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+**Precio / año:** 2026 · Precio a consultar para la sede y el bloque elegidos.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja por edad. Necesita un grupo superior.
+
+**Oscar:** Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+**Por qué figura en la selección:** Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+### Antes de solicitar plaza
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- El programa incluye clases de inglés y chino. Confirmar el idioma de los talleres técnicos.
+
+- Precio a consultar para la sede y el bloque elegidos.
+
+### Little Earth · K2 to P1 Bridging
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**condiciones de participación:** Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+- 2026-11-30 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-01 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-02 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-03 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-04 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**condiciones de participación:** Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+- 2026-12-07 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-08 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-09 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-10 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-11 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**condiciones de participación:** Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+- 2026-12-14 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-15 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-16 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-17 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-18 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- Jornada completa de 07:30 a 19:00 o media jornada. En semanas festivas se reducen horas y días.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**condiciones de participación:** Actividades del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+
+- 2026-12-21 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-22 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-23 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- Actividades del 21 al 23 de diciembre. El centro cierra el 24 y el 25 de diciembre.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Preparación para Primary 1, clases de inglés, matemáticas y chino, programación y juegos.
+
+**condiciones de participación:** Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+
+- 2026-12-28 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-29 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-30 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Condicional. Confirmar equivalencia de K2 y paso a Primary 1.
+
+- Días completos del 28 al 30 de diciembre. El 31 de diciembre solo hay actividades de mañana. Confirmar hora de salida.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-08
+
+## CP2144 · Modern Age Coders · First Games in Scratch
+
+India · Online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–9 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+
+**Alojamiento:** En línea desde casa.
+
+**Fechas / estado:** El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** En línea y en directo. Acordar horario de Costa Rica, grupo de edad, precio y docente.
+
+**Oscar:** En línea y en directo. Acordar horario de Costa Rica, grupo de edad, precio y docente.
+
+**Por qué figura en la selección:** El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+
+### Antes de solicitar plaza
+
+- En línea y en directo. Acordar horario de Costa Rica, grupo de edad, precio y docente.
+
+- El curso de verano First Games in Scratch se anuncia para edades de 6 a 9 años. Confirmar fechas concretas y acceso desde Costa Rica.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://learn.modernagecoders.com/online-coding-summer-camp-canada) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://learn.modernagecoders.com/courses/kids-coding-blocks-masterclass) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

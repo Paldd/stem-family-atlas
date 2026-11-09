@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11113; competiciones: 4994; eventos: 706; campamentos / programas: 5413. Perfiles de ligas y programas: 317. Fichas de exposiciones grandes y especializadas: 606 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11132; competiciones: 5004; eventos: 706; campamentos / programas: 5422. Perfiles de ligas y programas: 320. Fichas de exposiciones grandes y especializadas: 606 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2030 | 154 | 1388 |
+| América del Norte | 41 | 2031 | 154 | 1388 |
 | América del Sur | 15 | 452 | 52 | 235 |
-| Europa | 55 | 714 | 150 | 1571 |
+| Europa | 55 | 720 | 150 | 1571 |
 | África | 60 | 271 | 45 | 156 |
-| Asia | 50 | 1193 | 171 | 1712 |
+| Asia | 50 | 1196 | 171 | 1721 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4994 fichas de competiciones (16.3%). Hay un desequilibrio visible en la cobertura.
+VEX: 815 de 5004 fichas de competiciones (16.3%). Hay un desequilibrio visible en la cobertura.
 
 ## Lo que queda
 
@@ -343,6 +343,9 @@ VEX: 815 de 4994 fichas de competiciones (16.3%). Hay un desequilibrio visible e
 - **ENJOY AI Morocco · Robots Makers / Crafters / Titans**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaimorocco.org/competition/
 - **Eurobot Junior Tunisia · ATR**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://atr.tn/eurobot.html
 - **ATAST Tunisia · Robotics and science routes**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://atast.org/
+- **DVLA Code Challenge · Wales**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://stem.dvla.gov.uk/dvla-code-challenge/
+- **NKCC România · Scratch Game-Script**: 4 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.nkcc.ikcc.info/
+- **LSC Challenge Singapore · Scratch and Python**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lsc-challenge.org/lsc2026
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

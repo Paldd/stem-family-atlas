@@ -1,6 +1,6 @@
 # Каникулы 2026–2027: подробные досье
 
-Состояние базы: 2026-11-08. 2142 досье в 139 странах. Даты проверки отдельных источников приведены в каждом досье.
+Состояние базы: 2026-11-08. 2144 досье в 140 странах. Даты проверки отдельных источников приведены в каждом досье.
 
 Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.
 
@@ -7784,7 +7784,7 @@ Magic Factory 1–4 классы 25–29 января; Physical Workshop 1–5 �
 
 Аргентина · Ramos Mejía / Buenos Aires
 
-**Проверено:** 2026-11-05
+**Проверено:** 2026-11-08
 
 **Возраст:** Junior 6–9; Senior 10–13
 
@@ -7912,7 +7912,7 @@ Magic Factory 1–4 классы 25–29 января; Physical Workshop 1–5 �
 
 ### Источники
 
-- [Colonia 2027 · повторно проверены недели и ARS 95000](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-05
+- [Colonia 2027 · повторно проверены недели и ARS 95000](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-08
 
 ## CP047 · Camp Mákemáke
 
@@ -135930,7 +135930,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 6–8 лет
 
@@ -136076,7 +136076,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
 
@@ -136090,7 +136090,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–11 лет
 
@@ -136236,7 +136236,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
 
@@ -136250,7 +136250,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 6–8 лет
 
@@ -136404,7 +136404,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
 
@@ -136418,7 +136418,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–11 лет
 
@@ -136572,7 +136572,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
 
@@ -136586,7 +136586,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 6–8 лет
 
@@ -136732,7 +136732,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
 
@@ -136746,7 +136746,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–11 лет
 
@@ -136892,7 +136892,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
 
@@ -136906,7 +136906,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 6–8 лет
 
@@ -137060,7 +137060,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
 
@@ -137074,7 +137074,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–11 лет
 
@@ -137228,7 +137228,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+- [Официальная страница организатора](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-08
 
 - [Официальная страница организатора](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
 
@@ -150944,11 +150944,11 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Сингапур · Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** От K2 до 6 класса начальной школы.
 
-**Язык:** Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.
+**Язык:** В расписании есть занятия английским и китайским. Язык технических мастерских нужно подтвердить.
 
 **Программа:** Каникулярная программа с техническими блоками, спортом и экскурсиями.
 
@@ -151070,9 +151070,59 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 [Источник](https://www.littleeartheducation.com/holiday-programmes)
 
+### Little Earth · Full Day
+
+**Даты / статус:** 2026-12-21 — 2026-12-23
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Три полных дня 21–23 декабря. Центр закрыт 24 и 25 декабря.
+
+**Условия участия:** Три полных дня 21–23 декабря. Центр закрыт 24 и 25 декабря.
+
+- 2026-12-21 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-22 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-23 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Уточнить класс K2–P6, кампус, места и язык технических занятий.
+
+- Три полных дня 21–23 декабря. Центр закрыт 24 и 25 декабря.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes)
+
+### Little Earth · Full Day
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** 28–30 декабря полные дни. 31 декабря только утренние занятия. Час окончания уточнить.
+
+**Условия участия:** 28–30 декабря полные дни. 31 декабря только утренние занятия. Час окончания уточнить.
+
+- 2026-12-28 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-29 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-30 · 08:00–18:00 · Asia/Singapore · Little Earth · Full Day
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Little Earth · Full Day
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Уточнить класс K2–P6, кампус, места и язык технических занятий.
+
+- 28–30 декабря полные дни. 31 декабря только утренние занятия. Час окончания уточнить.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes)
+
 ### Источники
 
-- [Официальная страница или регламент организатора.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-07
+- [Официальная страница или регламент организатора.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-08
 
 ## CP1883 · SCRATCHPAD · Scratch
 
@@ -169575,6 +169625,222 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 - [Страница организатора или регламент категории.](https://atast.org/camp) · 2026-11-08
 
 - [Страница организатора или регламент категории.](https://atast.org/) · 2026-11-08
+
+## CP2143 · Little Earth · K2 to P1 Bridging
+
+Сингапур · Tampines / Kovan / Bishan · Singapore
+
+**Проверено:** 2026-11-08
+
+**Возраст:** K2, если ребёнок переходит в Primary 1 в 2027.
+
+**Язык:** В расписании есть занятия английским и китайским. Язык технических мастерских нужно подтвердить.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Проживание:** Дневные занятия без проживания.
+
+**Даты / статус:** Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+**Цена / год:** 2026 · Цена по запросу для выбранного филиала и блока.
+
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
+
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
+
+**Матвей:** Нет по возрасту. Нужна старшая группа.
+
+**Оскар:** Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+**Почему в отборе:** Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+### Перед заявкой
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- В расписании есть занятия английским и китайским. Язык технических мастерских нужно подтвердить.
+
+- Цена по запросу для выбранного филиала и блока.
+
+### Little Earth · K2 to P1 Bridging
+
+**Даты / статус:** 2026-11-30 — 2026-12-04
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Условия участия:** Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+- 2026-11-30 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-01 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-02 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-03 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-04 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Даты / статус:** 2026-12-07 — 2026-12-11
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Условия участия:** Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+- 2026-12-07 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-08 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-09 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-10 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-11 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Даты / статус:** 2026-12-14 — 2026-12-18
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Условия участия:** Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+- 2026-12-14 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-15 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-16 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-17 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-18 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- Полный день 07:30–19:00 или половина дня. В праздничные недели часы и дни сокращены.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Даты / статус:** 2026-12-21 — 2026-12-23
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Условия участия:** Занятия 21–23 декабря. Центр закрыт 24 и 25 декабря.
+
+- 2026-12-21 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-22 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-23 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- Занятия 21–23 декабря. Центр закрыт 24 и 25 декабря.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Little Earth · K2 to P1 Bridging
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Цена:** Цена по запросу для выбранного филиала и блока.
+
+**Программа:** Подготовка к Primary 1, уроки английского, математики и китайского, кодинг и игры.
+
+**Условия участия:** 28–30 декабря полные дни. 31 декабря только утренние занятия. Час окончания уточнить.
+
+- 2026-12-28 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-29 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-30 · 07:30–19:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Little Earth · K2 to P1 Bridging
+
+**Наличие мест:** Сведения о месте в группе пока отсутствуют.
+
+- Условно. Подтвердить эквивалент K2 и переход в Primary 1.
+
+- 28–30 декабря полные дни. 31 декабря только утренние занятия. Час окончания уточнить.
+
+[Источник](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026)
+
+### Источники
+
+- [Страница организатора или регламент категории.](https://www.littleeartheducation.com/holiday-programmes/k2-p1-bridging-2026) · 2026-11-08
+
+- [Страница организатора или регламент категории.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-08
+
+## CP2144 · Modern Age Coders · First Games in Scratch
+
+Индия · Online
+
+**Проверено:** 2026-11-08
+
+**Возраст:** 6–9 лет.
+
+**Язык:** Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.
+
+**Программа:** Летний курс First Games in Scratch заявлен для 6–9 лет. Конкретные даты и доступ из Коста-Рики уточнить.
+
+**Проживание:** Онлайн из дома.
+
+**Даты / статус:** Летний курс First Games in Scratch заявлен для 6–9 лет. Конкретные даты и доступ из Коста-Рики уточнить.
+
+**Цена / год:** 2027 · Полная стоимость и наличие мест ещё не подтверждены.
+
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
+
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
+
+**Матвей:** Онлайн вживую. Согласовать часовой пояс Коста-Рики, возрастную группу, цену и преподавателя.
+
+**Оскар:** Онлайн вживую. Согласовать часовой пояс Коста-Рики, возрастную группу, цену и преподавателя.
+
+**Почему в отборе:** Летний курс First Games in Scratch заявлен для 6–9 лет. Конкретные даты и доступ из Коста-Рики уточнить.
+
+### Перед заявкой
+
+- Онлайн вживую. Согласовать часовой пояс Коста-Рики, возрастную группу, цену и преподавателя.
+
+- Летний курс First Games in Scratch заявлен для 6–9 лет. Конкретные даты и доступ из Коста-Рики уточнить.
+
+### Источники
+
+- [Страница организатора или регламент категории.](https://learn.modernagecoders.com/online-coding-summer-camp-canada) · 2026-11-08
+
+- [Страница организатора или регламент категории.](https://learn.modernagecoders.com/courses/kids-coding-blocks-masterclass) · 2026-11-08
 
 ## Не закрытые проверки
 
