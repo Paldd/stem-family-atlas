@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2152,
+    "dossiers": 2155,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 576,
+      "published_2027": 579,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,12 +49,12 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3065
+    "source_urls": 3076
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 24
+      "count": 27
     },
     {
       "country": "Австрия",
@@ -326349,6 +326349,592 @@
       "related_event_ids": [
         "L917"
       ]
+    },
+    {
+      "id": "CP2153",
+      "slug": "brisbane-libraries-intelino",
+      "provider": "Brisbane Libraries · Intelino Holiday Train",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Brisbane",
+      "age": "5–8 лет на дату занятия.",
+      "programme": "Управление умным поездом Intelino. Программирование без экрана с помощью физических команд.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+        "sessions": [
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intelcarindale",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Carindale Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210805122",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Carindale Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3407 1490. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "topic": "Intelino Holiday Train",
+                "start_time": "10:30",
+                "end_time": "11:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "intelsquare",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Brisbane Square Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/209943797",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Brisbane Square Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 4166. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "topic": "Intelino Holiday Train",
+                "start_time": "11:30",
+                "end_time": "12:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "inteltoowong",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Toowong Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210188820",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Toowong Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 2590. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "topic": "Intelino Holiday Train",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "intelzillmere",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Zillmere Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/211645812",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Zillmere Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 1455. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "topic": "Intelino Holiday Train",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 0,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "Бесплатно, AUD 0 за занятие.",
+        "included": "Бесплатно, AUD 0 за занятие.",
+        "extras": "Библиотека указывает бесплатный вход и обязательную бронь.",
+        "deposit": "Библиотека указывает бесплатный вход и обязательную бронь."
+      },
+      "accommodation": "Разовый мастер-класс в библиотеке без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхней границы 8 лет."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит по возрасту. Подтвердить бронь и язык занятия."
+        }
+      },
+      "editorial_reason": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+      "shortlist": [],
+      "questions": [
+        "Позвонить в библиотеку выбранного сеанса и проверить наличие мест и язык занятия.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210805122",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/209943797",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210188820",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/211645812",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2154",
+      "slug": "brisbane-libraries-ozobots",
+      "provider": "Brisbane Libraries · Ozobots in space",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Brisbane",
+      "age": "8–12 лет на дату занятия.",
+      "programme": "Программирование Ozobot Evo для маршрута по модели Солнечной системы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+        "sessions": [
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ozfair",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Fairfield Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/210128954",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Fairfield Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 8615. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "topic": "Ozobots in space",
+                "start_time": "10:30",
+                "end_time": "11:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "ozholland",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Holland Park Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/209937109",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Holland Park Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 7755. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "topic": "Ozobots in space",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "ozgarden",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Garden City Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/209955015",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Garden City Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3403 7745. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Ozobots in space",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "ozommaney",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Mt Ommaney Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/211646707",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Mt Ommaney Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3407 7010. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "topic": "Ozobots in space",
+                "start_time": "11:00",
+                "end_time": "12:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 0,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "Бесплатно, AUD 0 за занятие.",
+        "included": "Бесплатно, AUD 0 за занятие.",
+        "extras": "Библиотека указывает бесплатный вход и обязательную бронь.",
+        "deposit": "Библиотека указывает бесплатный вход и обязательную бронь."
+      },
+      "accommodation": "Разовый мастер-класс в библиотеке без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту для этой группы."
+        }
+      },
+      "editorial_reason": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+      "shortlist": [],
+      "questions": [
+        "Позвонить в библиотеку выбранного сеанса и проверить наличие мест и язык занятия.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/210128954",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/209937109",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/209955015",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/ozobots-in-space/211646707",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "space"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2155",
+      "slug": "brisbane-libraries-sphero",
+      "provider": "Brisbane Libraries · Sphero Summer games",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Brisbane",
+      "age": "7–12 лет на дату занятия.",
+      "programme": "Программирование Sphero для гонок и игровых заданий с полосой препятствий.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "sphsunny",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Sunnybank Hills Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210958895",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Sunnybank Hills Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3407 0571. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "topic": "Sphero Summer games",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "sphbracken",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Bracken Ridge Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Bracken Ridge Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3667 6060. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "topic": "Sphero Summer games",
+                "start_time": "14:30",
+                "end_time": "15:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "sphcarindale",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Carindale Library",
+            "price": "Бесплатно, AUD 0 за занятие.",
+            "source": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Carindale Library · Brisbane",
+            "entry": "Обязательная бронь по телефону библиотеки 07 3407 1490. Наличие мест уточнить.",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "topic": "Sphero Summer games",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 0,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "Бесплатно, AUD 0 за занятие.",
+        "included": "Бесплатно, AUD 0 за занятие.",
+        "extras": "Библиотека указывает бесплатный вход и обязательную бронь.",
+        "deposit": "Библиотека указывает бесплатный вход и обязательную бронь."
+      },
+      "accommodation": "Разовый мастер-класс в библиотеке без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Условно. Возраст подходит. Проверить место, язык и условия приёма."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Допуск возможен, если Оскару уже исполнилось 7 лет к выбранному сеансу."
+        }
+      },
+      "editorial_reason": "Январь 2027. Точное время каждого занятия указано в календаре по Брисбену.",
+      "shortlist": [],
+      "questions": [
+        "Позвонить в библиотеку выбранного сеанса и проверить наличие мест и язык занятия.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210958895",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -331674,7 +332260,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 321,
+  "version": 322,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -344909,7 +345495,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2152,
+      "total_dossiers": 2155,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

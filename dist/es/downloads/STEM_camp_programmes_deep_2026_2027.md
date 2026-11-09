@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2152 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-08. 2155 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -170335,6 +170335,318 @@ RAE de Hong Kong (China) · Hong Kong
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary) · 2026-11-08
+
+## CP2153 · Brisbane Libraries · Intelino Holiday Train
+
+Australia · Brisbane
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–8 años en la fecha del taller.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Control de un tren inteligente Intelino. Programación sin pantalla mediante comandos físicos.
+
+**Alojamiento:** Taller puntual en biblioteca sin alojamiento.
+
+**Fechas / estado:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+**Precio / año:** 2027 · Gratis, AUD 0 por sesión.
+
+**Incluido:** Gratis, AUD 0 por sesión.
+
+**Suplementos:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Pago:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Matvey:** Matvey supera el máximo de 8 años.
+
+**Oscar:** Encaja por edad. Confirmar reserva e idioma de la sesión.
+
+**Por qué se seleccionó:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+### Antes de solicitar plaza
+
+- Llamar a la biblioteca de la sesión elegida para confirmar plazas e idioma del taller.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Carindale Library
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Carindale Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3407 1490. Confirmar disponibilidad.
+
+- 2027-01-08 · 10:30–11:30 · Australia/Brisbane · Intelino Holiday Train
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210805122)
+
+### Brisbane Square Library
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Brisbane Square Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 4166. Confirmar disponibilidad.
+
+- 2027-01-08 · 11:30–12:30 · Australia/Brisbane · Intelino Holiday Train
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/209943797)
+
+### Toowong Library
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Toowong Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 2590. Confirmar disponibilidad.
+
+- 2027-01-08 · 10:00–11:00 · Australia/Brisbane · Intelino Holiday Train
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210188820)
+
+### Zillmere Library
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Zillmere Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 1455. Confirmar disponibilidad.
+
+- 2027-01-08 · 14:00–15:00 · Australia/Brisbane · Intelino Holiday Train
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/211645812)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210805122) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/209943797) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210188820) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/211645812) · 2026-11-08
+
+## CP2154 · Brisbane Libraries · Ozobots in space
+
+Australia · Brisbane
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años en la fecha del taller.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Programación de Ozobot Evo para recorrer un modelo del sistema solar.
+
+**Alojamiento:** Taller puntual en biblioteca sin alojamiento.
+
+**Fechas / estado:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+**Precio / año:** 2027 · Gratis, AUD 0 por sesión.
+
+**Incluido:** Gratis, AUD 0 por sesión.
+
+**Suplementos:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Pago:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** No cumple la edad mínima de este grupo.
+
+**Por qué se seleccionó:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+### Antes de solicitar plaza
+
+- Llamar a la biblioteca de la sesión elegida para confirmar plazas e idioma del taller.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Fairfield Library
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Fairfield Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 8615. Confirmar disponibilidad.
+
+- 2027-01-08 · 10:30–11:30 · Australia/Brisbane · Ozobots in space
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/ozobots-in-space/210128954)
+
+### Holland Park Library
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Holland Park Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 7755. Confirmar disponibilidad.
+
+- 2027-01-12 · 14:00–15:00 · Australia/Brisbane · Ozobots in space
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/ozobots-in-space/209937109)
+
+### Garden City Library
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Garden City Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3403 7745. Confirmar disponibilidad.
+
+- 2027-01-21 · 10:00–11:00 · Australia/Brisbane · Ozobots in space
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/ozobots-in-space/209955015)
+
+### Mt Ommaney Library
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Mt Ommaney Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3407 7010. Confirmar disponibilidad.
+
+- 2027-01-22 · 11:00–12:00 · Australia/Brisbane · Ozobots in space
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/ozobots-in-space/211646707)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/ozobots-in-space/210128954) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/ozobots-in-space/209937109) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/ozobots-in-space/209955015) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/ozobots-in-space/211646707) · 2026-11-08
+
+## CP2155 · Brisbane Libraries · Sphero Summer games
+
+Australia · Brisbane
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años en la fecha del taller.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Programación de Sphero para carreras y retos lúdicos con obstáculos.
+
+**Alojamiento:** Taller puntual en biblioteca sin alojamiento.
+
+**Fechas / estado:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+**Precio / año:** 2027 · Gratis, AUD 0 por sesión.
+
+**Incluido:** Gratis, AUD 0 por sesión.
+
+**Suplementos:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Pago:** La biblioteca indica acceso gratuito y reserva obligatoria.
+
+**Matvey:** Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+
+**Oscar:** Condicional. Puede asistir si Oscar ya ha cumplido 7 años el día de la sesión.
+
+**Por qué se seleccionó:** Enero de 2027. La hora exacta de cada taller figura en el calendario de Brisbane.
+
+### Antes de solicitar plaza
+
+- Llamar a la biblioteca de la sesión elegida para confirmar plazas e idioma del taller.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Sunnybank Hills Library
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Sunnybank Hills Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3407 0571. Confirmar disponibilidad.
+
+- 2027-01-19 · 10:30–12:00 · Australia/Brisbane · Sphero Summer games
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210958895)
+
+### Bracken Ridge Library
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Bracken Ridge Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3667 6060. Confirmar disponibilidad.
+
+- 2027-01-21 · 14:30–15:30 · Australia/Brisbane · Sphero Summer games
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938)
+
+### Carindale Library
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Carindale Library · Brisbane
+
+**Precio:** Gratis, AUD 0 por sesión.
+
+**condiciones de participación:** Reserva obligatoria por teléfono de la biblioteca 07 3407 1490. Confirmar disponibilidad.
+
+- 2027-01-22 · 10:00–11:00 · Australia/Brisbane · Sphero Summer games
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210958895) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 321,
+    "version": 322,
     "status": "implementation_snapshot",
-    "events": 11166,
-    "competitions": 5022,
+    "events": 11186,
+    "competitions": 5030,
     "league_profiles": 321,
-    "camp_dossiers": 2152,
+    "camp_dossiers": 2155,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 709,
+    "exhibitions_events": 710,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 320,
+    "version": 321,
     "status": "implementation_snapshot",
-    "events": 11146,
-    "competitions": 5010,
-    "league_profiles": 320,
-    "camp_dossiers": 2148,
+    "events": 11166,
+    "competitions": 5022,
+    "league_profiles": 321,
+    "camp_dossiers": 2152,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 707,
+    "exhibitions_events": 709,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 321,
+    "prepared_ui_version": 322,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 320,
-    "previous_verified_commit": "af9d8b297fc927be040f813df2415cff1036a326"
+    "previous_verified_ui_version": 321,
+    "previous_verified_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 320,
-    "published_version": 320,
-    "latest_source_commit": "af9d8b297fc927be040f813df2415cff1036a326",
-    "published_commit": "af9d8b297fc927be040f813df2415cff1036a326",
-    "latest_workflow": 42558258094,
+    "latest_source_version": 321,
+    "published_version": 321,
+    "latest_source_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39",
+    "published_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39",
+    "latest_workflow": 42559991580,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -33870,5 +33870,83 @@
       "C1776",
       "E106"
     ]
+  },
+  "australia_junior_and_panama_expo_v322": {
+    "version": 322,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5024",
+      "C5025",
+      "C5026",
+      "C5027",
+      "C5028",
+      "C5029",
+      "C5030",
+      "C5031",
+      "E710",
+      "CP2153-20270108-20270108-intelcarindale",
+      "CP2153-20270108-20270108-intelsquare",
+      "CP2153-20270108-20270108-inteltoowong",
+      "CP2153-20270108-20270108-intelzillmere",
+      "CP2154-20270108-20270108-ozfair",
+      "CP2154-20270112-20270112-ozholland",
+      "CP2154-20270121-20270121-ozgarden",
+      "CP2154-20270122-20270122-ozommaney",
+      "CP2155-20270119-20270119-sphsunny",
+      "CP2155-20270121-20270121-sphbracken",
+      "CP2155-20270122-20270122-sphcarindale"
+    ],
+    "refreshed_event_ids": [
+      "C1874"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1874"
+    ],
+    "legacy_overlay_league_ids": [
+      "techfest-au-watch"
+    ],
+    "techfest_junior_event_ids": [
+      "C5024",
+      "C5025",
+      "C5026",
+      "C5027",
+      "C5028",
+      "C5029",
+      "C5030",
+      "C5031"
+    ],
+    "techfest_junior_team_caps": {
+      "AI-01": 5,
+      "RB-02": 6,
+      "SP-03": 6,
+      "AV-04": 5,
+      "AG-06": 5,
+      "CE-07": 5,
+      "OC-09": 6,
+      "DR-12": 5
+    },
+    "expo_event_id": "E710",
+    "expo_published_exhibitors": 51,
+    "brisbane_session_ids": [
+      "CP2153-20270108-20270108-intelcarindale",
+      "CP2153-20270108-20270108-intelsquare",
+      "CP2153-20270108-20270108-inteltoowong",
+      "CP2153-20270108-20270108-intelzillmere",
+      "CP2154-20270108-20270108-ozfair",
+      "CP2154-20270112-20270112-ozholland",
+      "CP2154-20270121-20270121-ozgarden",
+      "CP2154-20270122-20270122-ozommaney",
+      "CP2155-20270119-20270119-sphsunny",
+      "CP2155-20270121-20270121-sphbracken",
+      "CP2155-20270122-20270122-sphcarindale"
+    ],
+    "new_dossier_ids": [
+      "CP2153",
+      "CP2154",
+      "CP2155"
+    ],
+    "source_requests": 16
   }
 }

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11166,
-    "competition_cards": 5022,
-    "event_cards": 709,
-    "camp_cards": 5435,
+    "cards": 11186,
+    "competition_cards": 5030,
+    "event_cards": 710,
+    "camp_cards": 5446,
     "league_profiles": 321,
-    "major_exhibition_cards": 609,
+    "major_exhibition_cards": 610,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3619,
+      "total": 3620,
       "countries_with_records": 41,
       "competitions": 2033,
-      "events": 196,
-      "major_exhibitions": 154,
+      "events": 197,
+      "major_exhibitions": 155,
       "camps": 1390,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 540,
+      "total": 559,
       "countries_with_records": 27,
-      "competitions": 167,
+      "competitions": 175,
       "events": 36,
       "major_exhibitions": 32,
-      "camps": 337,
+      "camps": 348,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -9207,11 +9207,19 @@
       "name": "TechFest Australia · provisional watch",
       "group": "regional",
       "event_ids": [
+        "C5024",
+        "C5025",
+        "C5026",
+        "C5027",
+        "C5028",
+        "C5029",
+        "C5030",
+        "C5031",
         "C1874"
       ],
-      "cards": 1,
+      "cards": 9,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 9,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://techfestaustralia.com.au/",
       "new": false
@@ -15952,6 +15960,17 @@
       "new": false
     },
     {
+      "id": "E710",
+      "name": "ExpoLatam Consumer Electronics Show · Panamá 2027",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "start": "2027-01-14",
+      "end": "2027-01-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ce-expolatam.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18369,7 +18388,7 @@
       }
     ],
     "counts": {
-      "records": 5435,
+      "records": 5446,
       "holiday": 4897,
       "regular": 210,
       "self_paced_materials": 4,

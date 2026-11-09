@@ -85750,6 +85750,182 @@ Limitaciones: Matvey: Está abierto el formulario de interés. Confirmar edad, p
 Fuente: https://www.helveticinstitute.ch/winter-kids-camp/
 Se ha comprobado: 2026-11-08
 
+### CP2153-20270108-20270108-intelcarindale · Brisbane Libraries · Intelino Holiday Train · Carindale Library · 2027-01-08–2027-01-08
+
+lugar: Australia · Carindale Library · Brisbane
+Fecha: 2027-01-08 — 2027-01-08
+edad: 5–8 años en la fecha del taller.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3407 1490. Confirmar disponibilidad.
+Limitaciones: Matvey: Matvey supera el máximo de 8 años. Oscar: Encaja por edad. Confirmar reserva e idioma de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210805122
+Se ha comprobado: 2026-11-08
+
+### CP2153-20270108-20270108-intelsquare · Brisbane Libraries · Intelino Holiday Train · Brisbane Square Library · 2027-01-08–2027-01-08
+
+lugar: Australia · Brisbane Square Library · Brisbane
+Fecha: 2027-01-08 — 2027-01-08
+edad: 5–8 años en la fecha del taller.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 4166. Confirmar disponibilidad.
+Limitaciones: Matvey: Matvey supera el máximo de 8 años. Oscar: Encaja por edad. Confirmar reserva e idioma de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/209943797
+Se ha comprobado: 2026-11-08
+
+### CP2153-20270108-20270108-inteltoowong · Brisbane Libraries · Intelino Holiday Train · Toowong Library · 2027-01-08–2027-01-08
+
+lugar: Australia · Toowong Library · Brisbane
+Fecha: 2027-01-08 — 2027-01-08
+edad: 5–8 años en la fecha del taller.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 2590. Confirmar disponibilidad.
+Limitaciones: Matvey: Matvey supera el máximo de 8 años. Oscar: Encaja por edad. Confirmar reserva e idioma de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/210188820
+Se ha comprobado: 2026-11-08
+
+### CP2153-20270108-20270108-intelzillmere · Brisbane Libraries · Intelino Holiday Train · Zillmere Library · 2027-01-08–2027-01-08
+
+lugar: Australia · Zillmere Library · Brisbane
+Fecha: 2027-01-08 — 2027-01-08
+edad: 5–8 años en la fecha del taller.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 1455. Confirmar disponibilidad.
+Limitaciones: Matvey: Matvey supera el máximo de 8 años. Oscar: Encaja por edad. Confirmar reserva e idioma de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/steam-ahead-on-the-intelino-school-holiday-train/211645812
+Se ha comprobado: 2026-11-08
+
+### CP2154-20270108-20270108-ozfair · Brisbane Libraries · Ozobots in space · Fairfield Library · 2027-01-08–2027-01-08
+
+lugar: Australia · Fairfield Library · Brisbane
+Fecha: 2027-01-08 — 2027-01-08
+edad: 8–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 8615. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/ozobots-in-space/210128954
+Se ha comprobado: 2026-11-08
+
+### CP2154-20270112-20270112-ozholland · Brisbane Libraries · Ozobots in space · Holland Park Library · 2027-01-12–2027-01-12
+
+lugar: Australia · Holland Park Library · Brisbane
+Fecha: 2027-01-12 — 2027-01-12
+edad: 8–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 7755. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/ozobots-in-space/209937109
+Se ha comprobado: 2026-11-08
+
+### CP2154-20270121-20270121-ozgarden · Brisbane Libraries · Ozobots in space · Garden City Library · 2027-01-21–2027-01-21
+
+lugar: Australia · Garden City Library · Brisbane
+Fecha: 2027-01-21 — 2027-01-21
+edad: 8–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3403 7745. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/ozobots-in-space/209955015
+Se ha comprobado: 2026-11-08
+
+### CP2154-20270122-20270122-ozommaney · Brisbane Libraries · Ozobots in space · Mt Ommaney Library · 2027-01-22–2027-01-22
+
+lugar: Australia · Mt Ommaney Library · Brisbane
+Fecha: 2027-01-22 — 2027-01-22
+edad: 8–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3407 7010. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: No cumple la edad mínima de este grupo. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/ozobots-in-space/211646707
+Se ha comprobado: 2026-11-08
+
+### CP2155-20270119-20270119-sphsunny · Brisbane Libraries · Sphero Summer games · Sunnybank Hills Library · 2027-01-19–2027-01-19
+
+lugar: Australia · Sunnybank Hills Library · Brisbane
+Fecha: 2027-01-19 — 2027-01-19
+edad: 7–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3407 0571. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: Condicional. Puede asistir si Oscar ya ha cumplido 7 años el día de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/sphero-summer-games/210958895
+Se ha comprobado: 2026-11-08
+
+### CP2155-20270121-20270121-sphbracken · Brisbane Libraries · Sphero Summer games · Bracken Ridge Library · 2027-01-21–2027-01-21
+
+lugar: Australia · Bracken Ridge Library · Brisbane
+Fecha: 2027-01-21 — 2027-01-21
+edad: 7–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3667 6060. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: Condicional. Puede asistir si Oscar ya ha cumplido 7 años el día de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938
+Se ha comprobado: 2026-11-08
+
+### CP2155-20270122-20270122-sphcarindale · Brisbane Libraries · Sphero Summer games · Carindale Library · 2027-01-22–2027-01-22
+
+lugar: Australia · Carindale Library · Brisbane
+Fecha: 2027-01-22 — 2027-01-22
+edad: 7–12 años en la fecha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Gratis, AUD 0 por sesión. · suplementos y condiciones en el dossier
+Acceso: Reserva obligatoria por teléfono de la biblioteca 07 3407 1490. Confirmar disponibilidad.
+Limitaciones: Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión. Oscar: Condicional. Puede asistir si Oscar ya ha cumplido 7 años el día de la sesión. Suplementos: La biblioteca indica acceso gratuito y reserva obligatoria. Pago: La biblioteca indica acceso gratuito y reserva obligatoria.
+Fuente: https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
