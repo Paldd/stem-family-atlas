@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10895,
-    "competition_cards": 4847,
-    "event_cards": 690,
-    "camp_cards": 5358,
+    "cards": 10919,
+    "competition_cards": 4857,
+    "event_cards": 701,
+    "camp_cards": 5361,
     "league_profiles": 309,
-    "major_exhibition_cards": 590,
+    "major_exhibition_cards": 601,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3065,
+      "total": 3089,
       "countries_with_records": 50,
-      "competitions": 1183,
-      "events": 173,
-      "major_exhibitions": 160,
-      "camps": 1709,
+      "competitions": 1193,
+      "events": 184,
+      "major_exhibitions": 171,
+      "camps": 1712,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -3345,11 +3345,15 @@
       "name": "ROBO-ONE / Light / auto / Beginners",
       "group": "international",
       "event_ids": [
-        "C773"
+        "C773",
+        "C4855",
+        "C4856",
+        "C4857",
+        "C4858"
       ],
-      "cards": 1,
-      "future_dated": 1,
-      "linked_card_count": 1,
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robo-one.com/en/",
       "new": false
@@ -15425,6 +15429,127 @@
       "new": false
     },
     {
+      "id": "E691",
+      "name": "Aichi RoboFes 2026 · Robot Town / Robot Lab",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://robot.pref.aichi.jp/field/robofest/",
+      "new": false
+    },
+    {
+      "id": "E692",
+      "name": "Tankyu Fes 2026 · Hokkaido · family programme",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.rise.or.jp/tankyu_fes/hokkaido/",
+      "new": false
+    },
+    {
+      "id": "E693",
+      "name": "Tankyu Fes 2026 · Okinawa · family programme",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-26",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.rise.or.jp/tankyu_fes/okinawa/",
+      "new": false
+    },
+    {
+      "id": "E694",
+      "name": "Tamarokuto Science Center · Robot Battle · Dec 25–27",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-25",
+      "end": "2026-12-27",
+      "visitor_policy": "family",
+      "source": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723",
+      "new": false
+    },
+    {
+      "id": "E695",
+      "name": "Tamarokuto Science Center · Robot Battle · Jan 4–6",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-01-04",
+      "end": "2027-01-06",
+      "visitor_policy": "family",
+      "source": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723",
+      "new": false
+    },
+    {
+      "id": "E696",
+      "name": "Tamarokuto Science Center · Robot Battle · Jan 9–11",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-01-09",
+      "end": "2027-01-11",
+      "visitor_policy": "family",
+      "source": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723",
+      "new": false
+    },
+    {
+      "id": "E697",
+      "name": "Youth RoboFesta 2026 · Yokohama",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "visitor_policy": "family",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robofesta.html",
+      "new": false
+    },
+    {
+      "id": "E698",
+      "name": "ROBO-FIGHT & Pipe Robocon 2027 · Hamamatsu",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-01-16",
+      "end": "2027-01-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://robotyuenchi.com/event.html",
+      "new": false
+    },
+    {
+      "id": "E699",
+      "name": "ROBO-FIGHT & Pipe Robocon 2027 · Kobe",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://robotyuenchi.com/event.html",
+      "new": false
+    },
+    {
+      "id": "E700",
+      "name": "AI Summit Seoul & Expo 2027 · Exhibition Hall B",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2027-08-11",
+      "end": "2027-08-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.aisummit.co.kr/expo-visitor-2027",
+      "new": false
+    },
+    {
+      "id": "E701",
+      "name": "Industrial AI EXPO 2027 · KINTEX",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2027-10-20",
+      "end": "2027-10-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.industrialaiexpo.or.kr/Contents.asp?LoadPage=Overview_2026",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17842,14 +17967,14 @@
       }
     ],
     "counts": {
-      "records": 5358,
-      "holiday": 4844,
+      "records": 5361,
+      "holiday": 4847,
       "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1637,
+      "en_es_instruction": 1638,
       "en_es_support": 66,
-      "family_instruction": 1637,
+      "family_instruction": 1638,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 420,

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10895; соревнований: 4847; событий: 690; лагерей / программ: 5358. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 590 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10919; соревнований: 4857; событий: 701; лагерей / программ: 5361. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 601 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 15 | 452 | 52 | 235 |
 | Европа | 55 | 655 | 148 | 1540 |
 | Африка | 60 | 248 | 43 | 140 |
-| Азия | 50 | 1183 | 160 | 1709 |
+| Азия | 50 | 1193 | 171 | 1712 |
 | Океания | 27 | 167 | 32 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4847 карточек соревнований (16.8%). Это явный перекос охвата.
+VEX: 815 из 4857 карточек соревнований (16.8%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -144,7 +144,7 @@ VEX: 815 из 4847 карточек соревнований (16.8%). Это я�
 - **ICYS · Young Scientists**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://icysconference.com/
 - **PARC · Pan-African Robotics Competition**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.parcrobotics.org/
 - **ABU Robocon**: 2 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
-- **ROBO-ONE / Light / auto / Beginners**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robo-one.com/en/
+- **ROBO-ONE / Light / auto / Beginners**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robo-one.com/en/
 - **RoboCup Major · Soccer / Rescue / @Home / Industrial**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robocup.org/
 - **MARC Taiwan**: 4 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
@@ -967,6 +967,17 @@ VEX: 815 из 4847 карточек соревнований (16.8%). Это я�
 - **Nairobi Esports Expo 2027** — Кения; 2027-12-17 – 2027-12-19. Детский допуск уточнить. https://nairobiesportsexpo.co.ke/
 - **West Africa Gaming Convention 2027 · Conference & Exhibition** — Нигерия; 2027-04-29 – 2027-04-30. Детский допуск уточнить. https://wagconvention.com/venues
 - **BUAP Guerra de Dioses 2026 · Exhibición de drones** — Мексика; 2026-11-09. Детский допуск уточнить. https://siro.cs.buap.mx/GDD/index.html
+- **Aichi RoboFes 2026 · Robot Town / Robot Lab** — Япония; 2026-12-12 – 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://robot.pref.aichi.jp/field/robofest/
+- **Tankyu Fes 2026 · Hokkaido · family programme** — Япония; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.rise.or.jp/tankyu_fes/hokkaido/
+- **Tankyu Fes 2026 · Okinawa · family programme** — Япония; 2026-12-26 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.rise.or.jp/tankyu_fes/okinawa/
+- **Tamarokuto Science Center · Robot Battle · Dec 25–27** — Япония; 2026-12-25 – 2026-12-27. Со взрослым; условия взрослого входа отдельно. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Tamarokuto Science Center · Robot Battle · Jan 4–6** — Япония; 2027-01-04 – 2027-01-06. Со взрослым; условия взрослого входа отдельно. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Tamarokuto Science Center · Robot Battle · Jan 9–11** — Япония; 2027-01-09 – 2027-01-11. Со взрослым; условия взрослого входа отдельно. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Youth RoboFesta 2026 · Yokohama** — Япония; 2026-11-29. Со взрослым; условия взрослого входа отдельно. https://www.pref.kanagawa.jp/docs/ch3/kagaku/robofesta.html
+- **ROBO-FIGHT & Pipe Robocon 2027 · Hamamatsu** — Япония; 2027-01-16 – 2027-01-17. Детский допуск уточнить. https://robotyuenchi.com/event.html
+- **ROBO-FIGHT & Pipe Robocon 2027 · Kobe** — Япония; 2027-01-30 – 2027-01-31. Детский допуск уточнить. https://robotyuenchi.com/event.html
+- **AI Summit Seoul & Expo 2027 · Exhibition Hall B** — Республика Корея; 2027-08-11 – 2027-08-13. Детский допуск уточнить. https://www.aisummit.co.kr/expo-visitor-2027
+- **Industrial AI EXPO 2027 · KINTEX** — Республика Корея; 2027-10-20 – 2027-10-22. Детский допуск уточнить. https://www.industrialaiexpo.or.kr/Contents.asp?LoadPage=Overview_2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

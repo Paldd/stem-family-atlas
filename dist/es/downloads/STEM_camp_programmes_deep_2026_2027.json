@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2131,
+    "dossiers": 2132,
     "countries": 137,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
-      "published_2027": 570,
+      "published_2027": 571,
       "partial_2027": 153,
       "next_unannounced": 440,
       "published_2026": 430,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 3036
+    "source_urls": 3037
   },
   "countries": [
     {
@@ -489,7 +489,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 175
+      "count": 176
     },
     {
       "country": "Trinidad y Tobago",
@@ -126922,14 +126922,16 @@
             ],
             "availability": {
               "status": "unconfirmed",
-              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+              "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+              "checked": "2026-11-08"
             },
             "deadline": "2026-11-13",
             "questions": [
               "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
             ],
             "programme": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
-            "variant_key": "2027-01-11"
+            "variant_key": "2027-01-11",
+            "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual."
           },
           {
             "start": "2027-01-18",
@@ -127218,9 +127220,14 @@
           "title": "condiciones de devolución",
           "url": "https://www.dcampskorea.com/policy",
           "checked": "2026-10-06"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-10-06",
+      "checked": "2026-11-08",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -287027,13 +287034,15 @@
             ],
             "availability": {
               "status": "unconfirmed",
-              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+              "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+              "checked": "2026-11-08"
             },
             "deadline": "2026-11-13",
             "questions": [
               "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
             ],
-            "programme": "Proyectos creativos de tecnología y diseño."
+            "programme": "Proyectos creativos de tecnología y diseño.",
+            "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual."
           },
           {
             "start": "2027-01-18",
@@ -287098,13 +287107,15 @@
             ],
             "availability": {
               "status": "unconfirmed",
-              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+              "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+              "checked": "2026-11-08"
             },
             "deadline": "2026-11-13",
             "questions": [
               "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
             ],
-            "programme": "Proyectos creativos de tecnología y diseño."
+            "programme": "Proyectos creativos de tecnología y diseño.",
+            "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual."
           }
         ],
         "precision": "published_sessions"
@@ -287116,7 +287127,7 @@
         "unit": "per_child_course",
         "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
-        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "extras": "Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       },
       "accommodation": "Programa diurno sin alojamiento.",
@@ -287139,7 +287150,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -287152,7 +287163,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -287381,7 +287392,7 @@
         "unit": "per_child_course",
         "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
-        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "extras": "Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       },
       "accommodation": "Programa diurno sin alojamiento.",
@@ -287404,7 +287415,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -287417,7 +287428,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -287552,13 +287563,15 @@
             ],
             "availability": {
               "status": "unconfirmed",
-              "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+              "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+              "checked": "2026-11-08"
             },
             "deadline": "2026-11-13",
             "questions": [
               "Confirmar grado, preparación técnica, admisión internacional y plaza vigente antes de pagar."
             ],
-            "programme": "Itinerario espacial inicial para grado 1."
+            "programme": "Itinerario espacial inicial para grado 1.",
+            "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual."
           }
         ],
         "precision": "published_sessions"
@@ -287570,7 +287583,7 @@
         "unit": "per_child_course",
         "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
-        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "extras": "Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       },
       "accommodation": "Programa diurno sin alojamiento.",
@@ -287593,7 +287606,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -287606,7 +287619,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -287827,7 +287840,7 @@
         "unit": "per_child_course",
         "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
-        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "extras": "Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       },
       "accommodation": "Programa diurno sin alojamiento.",
@@ -287850,7 +287863,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -287863,7 +287876,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -288017,7 +288030,7 @@
         "unit": "per_child_course",
         "label": "KRW 989000 por 5 días. El autobús se paga por separado.",
         "included": "Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.",
-        "extras": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+        "extras": "Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.",
         "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
       },
       "accommodation": "Programa diurno sin alojamiento.",
@@ -288040,7 +288053,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -288053,7 +288066,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -372016,6 +372029,123 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2132",
+      "slug": "see-tainan-lego-world-history",
+      "provider": "S.E.E. Tainan · LEGO World History Tour",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "National Cheng Kung University · Green Magic School · Tainan",
+      "age": "Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.",
+      "programme": "Construcción LEGO y razonamiento espacial a través de la historia de distintas civilizaciones.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "confirmed_instruction",
+      "materials_languages": [
+        "ZH"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "tainan",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Tainan · LEGO",
+            "price": "16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza.",
+            "source": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 16300,
+        "currency": "TWD",
+        "unit": "por participante",
+        "label": "16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza.",
+        "included": "Clases, almuerzo, refrigerio, alquiler de LEGO y kit obligatorio.",
+        "extras": "La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2027-02-28",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera."
+        }
+      },
+      "editorial_reason": "Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar el coste final y las condiciones de devolución con la organización."
+      ],
+      "sources": [
+        {
+          "url": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "support_languages": [
+        "ZH"
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ],
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "ZH"
+        ]
+      },
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2132-20270125-20270129-tainan"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -377341,7 +377471,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 313,
+  "version": 314,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -390576,7 +390706,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2131,
+      "total_dossiers": 2132,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -414356,6 +414486,11 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2132",
+      "event_id": "CP2132-20270125-20270129-tainan",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -419233,10 +419368,11 @@
     "CP2125-20270406-20270410-easter",
     "CP2125-20271222-20271226-christmas",
     "CP2129-20261209-20261212-december",
-    "CP2130-20261209-20261212-december"
+    "CP2130-20261209-20261212-december",
+    "CP2132-20270125-20270129-tainan"
   ],
   "integration": {
-    "generated_sessions": 4467,
+    "generated_sessions": 4468,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

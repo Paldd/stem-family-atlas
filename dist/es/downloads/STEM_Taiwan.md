@@ -182,7 +182,7 @@ Acceso: La organización permite solicitar por adelantado el derecho de visita. 
 Precio: El precio para visitantes aún no se ha publicado.
 Limitaciones: Fechas del 24 al 26 de marzo de 2027. El interés anticipado, la tarifa de un stand y la entrada de visitante se registran por separado.
 Fuente: https://ai-expo.tw/en/exhibit.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E027 · Maker Faire Taipei 2026
 
@@ -3744,6 +3744,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Confirmar pago y devolución, y si se puede llevar el dron a casa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://amecaenglish.com/camp/
+Se ha comprobado: 2026-11-08
+
+### CP2132-20270125-20270129-tainan · S.E.E. Tainan · LEGO World History Tour · Tainan · LEGO · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Oscar: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Suplementos: La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/
 Se ha comprobado: 2026-11-08
 
 ## ~ Comprobar de nuevo

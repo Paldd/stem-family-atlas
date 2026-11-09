@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 313,
+    "version": 314,
     "status": "implementation_snapshot",
-    "events": 10895,
-    "competitions": 4847,
+    "events": 10919,
+    "competitions": 4857,
     "league_profiles": 309,
-    "camp_dossiers": 2131,
+    "camp_dossiers": 2132,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 690,
+    "exhibitions_events": 701,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 312,
+    "version": 313,
     "status": "implementation_snapshot",
-    "events": 10891,
+    "events": 10895,
     "competitions": 4847,
     "league_profiles": 309,
-    "camp_dossiers": 2128,
+    "camp_dossiers": 2131,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 689,
+    "exhibitions_events": 690,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 313,
+    "prepared_ui_version": 314,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 312,
-    "previous_verified_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6"
+    "previous_verified_ui_version": 313,
+    "previous_verified_commit": "f23862e45c51b9303eb7d79eac50df44da738712"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 312,
-    "published_version": 312,
-    "latest_source_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6",
-    "published_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6",
-    "latest_workflow": 42542305078,
+    "latest_source_version": 313,
+    "published_version": 313,
+    "latest_source_commit": "f23862e45c51b9303eb7d79eac50df44da738712",
+    "published_commit": "f23862e45c51b9303eb7d79eac50df44da738712",
+    "latest_workflow": 42544398934,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -32414,5 +32414,100 @@
     ],
     "papalote": "L891",
     "drone": "E690"
+  },
+  "east_asia_family_robotics_and_ai_v314": {
+    "version": 314,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E691",
+      "L892",
+      "L893",
+      "C4849",
+      "C4850",
+      "E692",
+      "C4851",
+      "C4852",
+      "C4853",
+      "C4854",
+      "E693",
+      "E694",
+      "E695",
+      "E696",
+      "E697",
+      "C4855",
+      "C4856",
+      "C4857",
+      "C4858",
+      "E698",
+      "E699",
+      "E700",
+      "E701",
+      "CP2132-20270125-20270129-tainan"
+    ],
+    "refreshed_event_ids": [
+      "C773",
+      "E280",
+      "E106",
+      "E021",
+      "E025",
+      "C3176",
+      "C4618",
+      "C442"
+    ],
+    "legacy_overlay_event_ids": [
+      "C773",
+      "E280",
+      "E106",
+      "E021",
+      "E025",
+      "C3176",
+      "C4618",
+      "C442"
+    ],
+    "legacy_overlay_league_ids": [
+      "roboone"
+    ],
+    "source_requests": 31,
+    "aichi_id": "E691",
+    "rise_competitions": [
+      "C4849",
+      "C4850",
+      "C4851",
+      "C4852",
+      "C4853",
+      "C4854"
+    ],
+    "aichi_workshops": [
+      "L892",
+      "L893"
+    ],
+    "tama_ids": [
+      "E694",
+      "E695",
+      "E696"
+    ],
+    "korea_expos": [
+      "E700",
+      "E701"
+    ],
+    "taiwan_dossier": "CP2132",
+    "roboone_ids": [
+      "C4855",
+      "C4856",
+      "C4857",
+      "C4858"
+    ],
+    "refreshed_camp_dossiers": [
+      "CP1672",
+      "CP1673",
+      "CP1674",
+      "CP1675",
+      "CP1676",
+      "CP2109",
+      "CP877",
+      "CP878"
+    ]
   }
 }

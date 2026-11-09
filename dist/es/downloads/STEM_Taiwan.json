@@ -864,7 +864,7 @@
       "action": "Confirmar con la organización la admisión infantil antes del viaje.",
       "source": "https://ai-expo.tw/en/exhibit.html",
       "proof": "Cotejado con la página de la organización o del recinto. Las condiciones de la exposición y de las actividades se comprueban por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Fechas del 24 al 26 de marzo de 2027. El interés anticipado, la tarifa de un stand y la entrada de visitante se registran por separado.",
       "iso": [
@@ -903,6 +903,10 @@
         {
           "url": "https://ai-expo.tw/early_visit.html",
           "label": "Información oficial para visitantes."
+        },
+        {
+          "url": "https://ai-expo.tw/",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "date_scope": "exhibition_window",
@@ -22254,6 +22258,90 @@
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2132-20270125-20270129-tainan",
+      "block": "Campamentos",
+      "title": "S.E.E. Tainan · LEGO World History Tour · Tainan · LEGO · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "National Cheng Kung University · Green Magic School · Tainan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "2027-02-28",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Construcción LEGO y razonamiento espacial a través de la historia de distintas civilizaciones.",
+      "language": "Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.",
+      "cost": "2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+      "references": [
+        {
+          "url": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Oscar: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Suplementos: La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "see-tainan-lego-world-history",
+      "camp_programme_id": "CP2132",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ],
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "ZH"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "support_languages": [
+        "ZH"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
       }
     }
   ]

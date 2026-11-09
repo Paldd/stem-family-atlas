@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10895; competiciones: 4847; eventos: 690; campamentos y programas: 5358. Perfiles de ligas y programas: 309. Las 590 fichas de ferias principales y especializadas corresponden a ediciones y recintos.
+Fichas en la base: 10919; competiciones: 4857; eventos: 701; campamentos / programas: 5361. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 601 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -18,12 +18,12 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 | América del Sur | 15 | 452 | 52 | 235 |
 | Europa | 55 | 655 | 148 | 1540 |
 | África | 60 | 248 | 43 | 140 |
-| Asia | 50 | 1183 | 160 | 1709 |
+| Asia | 50 | 1193 | 171 | 1712 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en esta liga.
+VEX: 815 de 4857 fichas de competiciones (16.8%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -144,7 +144,7 @@ VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en e
 - **ICYS · Young Scientifics**: 1 tarjeta, 1 con fechas exactas futuras. https://icysconference.com/
 - **PARC · Pan-African Robotics Competition**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.parcrobotics.org/
 - **ABU Robocon**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
-- **ROBO-ONE / Light / auto / Beginners**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robo-one.com/en/
+- **ROBO-ONE / Light / auto / Beginners**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robo-one.com/en/
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
 - **MARC Taiwan**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
@@ -967,6 +967,17 @@ VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en e
 - **Nairobi Esports Expo 2027** — Kenia; 2027-12-17 – 2027-12-19. el permiso de entrada de niños. https://nairobiesportsexpo.co.ke/
 - **West Africa Gaming Convention 2027 · Conference & Exhibition** — Nigeria; 2027-04-29 – 2027-04-30. el permiso de entrada de niños. https://wagconvention.com/venues
 - **BUAP Guerra de Dioses 2026 · Exhibición de drones** — México; 2026-11-09. el permiso de entrada de niños. https://siro.cs.buap.mx/GDD/index.html
+- **Aichi RoboFes 2026 · Robot Town / Robot Lab** — Japón; 2026-12-12 – 2026-12-13. con un adulto; condiciones de admisión adulta por separado. https://robot.pref.aichi.jp/field/robofest/
+- **Tankyu Fes 2026 · Hokkaido · family programme** — Japón; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.rise.or.jp/tankyu_fes/hokkaido/
+- **Tankyu Fes 2026 · Okinawa · family programme** — Japón; 2026-12-26 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.rise.or.jp/tankyu_fes/okinawa/
+- **Tamarokuto Science Center · Robot Battle · Dec 25–27** — Japón; 2026-12-25 – 2026-12-27. con un adulto; condiciones de admisión adulta por separado. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Tamarokuto Science Center · Robot Battle · Jan 4–6** — Japón; 2027-01-04 – 2027-01-06. con un adulto; condiciones de admisión adulta por separado. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Tamarokuto Science Center · Robot Battle · Jan 9–11** — Japón; 2027-01-09 – 2027-01-11. con un adulto; condiciones de admisión adulta por separado. https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-12-25&info=3723
+- **Youth RoboFesta 2026 · Yokohama** — Japón; 2026-11-29. con un adulto; condiciones de admisión adulta por separado. https://www.pref.kanagawa.jp/docs/ch3/kagaku/robofesta.html
+- **ROBO-FIGHT & Pipe Robocon 2027 · Hamamatsu** — Japón; 2027-01-16 – 2027-01-17. el permiso de entrada de niños. https://robotyuenchi.com/event.html
+- **ROBO-FIGHT & Pipe Robocon 2027 · Kobe** — Japón; 2027-01-30 – 2027-01-31. el permiso de entrada de niños. https://robotyuenchi.com/event.html
+- **AI Summit Seoul & Expo 2027 · Exhibition Hall B** — Corea del Sur; 2027-08-11 – 2027-08-13. el permiso de entrada de niños. https://www.aisummit.co.kr/expo-visitor-2027
+- **Industrial AI EXPO 2027 · KINTEX** — Corea del Sur; 2027-10-20 – 2027-10-22. el permiso de entrada de niños. https://www.industrialaiexpo.or.kr/Contents.asp?LoadPage=Overview_2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

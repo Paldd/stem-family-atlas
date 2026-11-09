@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5358,
-      "holiday": 4844,
+      "records": 5361,
+      "holiday": 4847,
       "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1637,
+      "en_es_instruction": 1638,
       "en_es_support": 66,
-      "family_instruction": 1637,
+      "family_instruction": 1638,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 420,
@@ -47761,6 +47761,135 @@
       "delivery_mode": "in_person",
       "camp_dossier_slug": "creadores-papalote-laboratorio-de-ideas",
       "camp_programme_id": "CP2131"
+    },
+    {
+      "id": "L892",
+      "title": "Aichi RoboFes 2026 · Biped coding / autonomous driving",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Aichi Sky Expo · Hall C · Tokoname",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "period": "12 de diciembre de 2026 de 10:00 a 17:00. 13 de diciembre de 2026 de 10:00 a 16:00.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://robot.pref.aichi.jp/field/robofest/",
+      "references": [
+        {
+          "url": "https://aichifes.stores.jp/reserve/aichirobofest2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://manabi.pref.aichi.jp/event/detail/1095",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Desde 1.º de primaria.",
+      "mat": "Condicional. Confirmar curso escolar, idioma de comunicación y plaza.",
+      "osc": "Condicional. Confirmar curso escolar, idioma de comunicación y plaza.",
+      "format": "CoderDojo ofrece sesiones separadas de programación de robots bípedos y conducción autónoma. Elegir hora en el programa.",
+      "entry": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "gear": "",
+      "language": "Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.",
+      "cost": "Entrada gratuita.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "delivery_mode": "in_person",
+      "date_precision": "announced_window",
+      "date_rule": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "related_ids": [
+        "E691",
+        "L893"
+      ]
+    },
+    {
+      "id": "L893",
+      "title": "Aichi RoboFes 2026 · AI RoBoHoN",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Aichi Sky Expo · Hall C · Tokoname",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "period": "12 de diciembre de 2026 de 10:00 a 17:00. 13 de diciembre de 2026 de 10:00 a 16:00.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://robot.pref.aichi.jp/field/robofest/",
+      "references": [
+        {
+          "url": "https://aichifes.stores.jp/reserve/aichirobofest2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://manabi.pref.aichi.jp/event/detail/1095",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "3–6 de primaria.",
+      "mat": "Condicional. Confirmar curso escolar, idioma de comunicación y plaza.",
+      "osc": "Condicional. Se requiere al menos 3.º de primaria.",
+      "format": "Control de RoBoHoN mediante programación. Confirmar hora y disponibilidad de la sesión al reservar.",
+      "entry": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "gear": "",
+      "language": "Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.",
+      "cost": "Entrada gratuita.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "delivery_mode": "in_person",
+      "date_precision": "announced_window",
+      "date_rule": "Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.",
+      "related_ids": [
+        "E691",
+        "L892"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -193344,7 +193473,7 @@
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "El campamento de día; el shuttle se forma por dirección. Conocerse en línea de unos cinco minutos no es un examen de selección obligatorio.",
-      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
       "gear": "Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.",
       "language": "Todo el programa se imparte en inglés.",
       "cost": "2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier",
@@ -193466,7 +193595,8 @@
       ],
       "availability": {
         "status": "unconfirmed",
-        "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+        "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+        "checked": "2026-11-08"
       },
       "deadline_label": "Inscripción ordinaria"
     },
@@ -193656,10 +193786,14 @@
         {
           "url": "https://www.dcampskorea.com/policy",
           "label": "condiciones de devolución"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-06",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: sólo es posible si el documento es conforme 4–6 de clase; 2017 El año por sí mismo no confirma el año de enero 2027. Oscar: Edad 6–7 y la clase primaria ordinaria inferior a las publicadas 4–6; la pensión de invierno estándar no es adecuada. Gastos adicionales: el camino hasta SNU, estacionamiento, seguro/gastos médicos y cosas personales por separado. no hay lavado por separado durante el turno de cinco días. el pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto elegido, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre 18.09.2026.",
       "iso": [
@@ -359868,7 +360002,7 @@
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Programa diurno sin alojamiento.",
-      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
       "gear": "Proyectos creativos de tecnología y diseño.",
       "language": "Todo el programa se imparte en inglés.",
       "cost": "2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier",
@@ -359892,9 +360026,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -359976,7 +360110,8 @@
       ],
       "availability": {
         "status": "unconfirmed",
-        "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+        "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+        "checked": "2026-11-08"
       }
     },
     {
@@ -359995,7 +360130,7 @@
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Programa diurno sin alojamiento.",
-      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
       "gear": "Proyectos creativos de tecnología y diseño.",
       "language": "Todo el programa se imparte en inglés.",
       "cost": "2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier",
@@ -360019,9 +360154,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360103,7 +360238,8 @@
       ],
       "availability": {
         "status": "unconfirmed",
-        "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+        "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+        "checked": "2026-11-08"
       }
     },
     {
@@ -360146,9 +360282,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360273,9 +360409,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360376,7 +360512,7 @@
       "mat": "no según las condiciones de la pista seleccionada",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Programa diurno sin alojamiento.",
-      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "entry": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
       "gear": "Itinerario espacial inicial para grado 1.",
       "language": "Todo el programa se imparte en inglés.",
       "cost": "2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier",
@@ -360400,9 +360536,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: No por ahora según el nivel escolar publicado. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: No por ahora según el nivel escolar publicado. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360483,7 +360619,8 @@
       ],
       "availability": {
         "status": "unconfirmed",
-        "label": "Al verificar, la organización marca el módulo como casi completo. Confirmar plaza."
+        "label": "En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.",
+        "checked": "2026-11-08"
       }
     },
     {
@@ -360526,9 +360663,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360653,9 +360790,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -360780,9 +360917,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
         "KOR"
       ],
@@ -444472,6 +444609,90 @@
         "status": "unconfirmed",
         "label": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.",
         "checked": "2026-11-08"
+      }
+    },
+    {
+      "id": "CP2132-20270125-20270129-tainan",
+      "block": "Campamentos",
+      "title": "S.E.E. Tainan · LEGO World History Tour · Tainan · LEGO · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "National Cheng Kung University · Green Magic School · Tainan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "2027-02-28",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Construcción LEGO y razonamiento espacial a través de la historia de distintas civilizaciones.",
+      "language": "Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.",
+      "cost": "2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar el coste final y las condiciones de devolución con la organización.",
+      "source": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+      "references": [
+        {
+          "url": "https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Oscar: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Suplementos: La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "see-tainan-lego-world-history",
+      "camp_programme_id": "CP2132",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ],
+        "instruction": [
+          "EN"
+        ],
+        "support": [
+          "ZH"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "support_languages": [
+        "ZH"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
       }
     },
     {

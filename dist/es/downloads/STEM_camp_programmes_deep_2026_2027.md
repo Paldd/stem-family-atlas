@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-08. 2131 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base al 2026-11-08. 2132 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -65414,6 +65414,8 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 **Programa:** Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
 
+**condiciones de participación:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+
 - 2027-01-11 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
 
 - 2027-01-12 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
@@ -65424,7 +65426,7 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 - 2027-01-15 · 09:00–14:30 · Asia/Seoul · Coding & Robotics. Programación por bloques, retos de robótica y montaje según el módulo.
 
-**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+**Disponibilidad de plazas:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
 
 **Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
 
@@ -65484,7 +65486,7 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 Corea del Sur - SNU Gwanak Campus - Seoul
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Sólo 4–6 Clases; no determinada por una sola edad.
 
@@ -65525,6 +65527,8 @@ Corea del Sur - SNU Gwanak Campus - Seoul
 - [FAQ: Inglés, seguridad coreana y grupos](https://www.dcampskorea.com/faq) · 2026-10-06
 
 - [condiciones de devolución](https://www.dcampskorea.com/policy) · 2026-10-06
+
+- [Página de la organización o reglamento de la categoría.](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 ## CP879 · Gamja Uhak · Jeju Fun & Learn Winter
 
@@ -132202,7 +132206,7 @@ Costa Rica · Blue Valley School · San José
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grados 1–3 de primaria.
 
@@ -132218,7 +132222,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
 
-**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+**Suplementos:** Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -132244,6 +132248,8 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Programa:** Proyectos creativos de tecnología y diseño.
 
+**condiciones de participación:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+
 - 2027-01-11 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
 
 - 2027-01-12 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
@@ -132254,7 +132260,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 - 2027-01-15 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
 
-**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+**Disponibilidad de plazas:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
 
 **Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
 
@@ -132276,6 +132282,8 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Programa:** Proyectos creativos de tecnología y diseño.
 
+**condiciones de participación:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+
 - 2027-01-18 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
 
 - 2027-01-19 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
@@ -132286,7 +132294,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 - 2027-01-22 · 09:00–14:30 · Asia/Seoul · Proyectos creativos de tecnología y diseño.
 
-**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+**Disponibilidad de plazas:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
 
 **Matvey:** Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad.
 
@@ -132298,7 +132306,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
@@ -132308,7 +132316,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grados 1–3 de primaria.
 
@@ -132324,7 +132332,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
 
-**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+**Suplementos:** Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -132404,7 +132412,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
@@ -132414,7 +132422,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grado 1 de primaria.
 
@@ -132430,7 +132438,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
 
-**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+**Suplementos:** Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -132456,6 +132464,8 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Programa:** Itinerario espacial inicial para grado 1.
 
+**condiciones de participación:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+
 - 2027-01-11 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
 
 - 2027-01-12 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
@@ -132466,7 +132476,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 - 2027-01-15 · 09:00–14:30 · Asia/Seoul · Itinerario espacial inicial para grado 1.
 
-**Disponibilidad de plazas:** Al verificar, la organización marca el módulo como casi completo. Confirmar plaza.
+**Disponibilidad de plazas:** En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
 
 **Matvey:** No por ahora según el nivel escolar publicado.
 
@@ -132478,7 +132488,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
@@ -132488,7 +132498,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grados 4–6 de primaria.
 
@@ -132504,7 +132514,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
 
-**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+**Suplementos:** Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -132584,7 +132594,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
@@ -132594,7 +132604,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grados 4–6 de primaria.
 
@@ -132610,7 +132620,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 **Incluido:** Cinco días lectivos, materiales y clases en el tema elegido. Confirmar comida y equipo.
 
-**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+**Suplementos:** Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte.
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
@@ -132658,7 +132668,7 @@ Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
 
@@ -168107,6 +168117,56 @@ México · Papalote Museo del Niño · Chapultepec · Ciudad de México
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://eventos.papalote.org.mx/creadores-papalote) · 2026-11-08
+
+## CP2132 · S.E.E. Tainan · LEGO World History Tour
+
+Taiwán · National Cheng Kung University · Green Magic School · Tainan
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.
+
+**Idioma:** Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.
+
+**Programa:** Construcción LEGO y razonamiento espacial a través de la historia de distintas civilizaciones.
+
+**Alojamiento:** 2027-02-28
+
+**Fechas / estado:** Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.
+
+**Precio / año:** 2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza.
+
+**Incluido:** Clases, almuerzo, refrigerio, alquiler de LEGO y kit obligatorio.
+
+**Suplementos:** La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.
+
+**Oscar:** Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.
+
+**Motivo de selección:** Del 25 al 29 de enero de 2027, clases de 09:00 a 17:00. Recogida a las 17:10 o a las 17:40.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Tainan · LEGO
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

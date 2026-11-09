@@ -13046,6 +13046,38 @@ Restricciones: Los talleres se anuncian gratuitos. Confirmar entrada al museo y 
 Fuente: https://eventos.papalote.org.mx/creadores-papalote
 Se ha comprobado: 2026-11-08
 
+### L892 · Aichi RoboFes 2026 · Biped coding / autonomous driving
+
+Lugar: Japón Aichi Sky Expo · Hall C · Tokoname
+Fecha: 2026-12-12 — 2026-12-13
+edad: Desde 1.º de primaria.
+Matvey: Condicional. Confirmar curso escolar, idioma de comunicación y plaza.
+Oscar: Condicional. Confirmar curso escolar, idioma de comunicación y plaza.
+Formato: holiday_workshop
+Idioma: Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Entrada gratuita.
+Acceso: Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.
+Limitaciones: Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.
+Fuente: https://robot.pref.aichi.jp/field/robofest/
+Se ha comprobado: 2026-11-08
+
+### L893 · Aichi RoboFes 2026 · AI RoBoHoN
+
+Lugar: Japón Aichi Sky Expo · Hall C · Tokoname
+Fecha: 2026-12-12 — 2026-12-13
+edad: 3–6 de primaria.
+Matvey: Condicional. Confirmar curso escolar, idioma de comunicación y plaza.
+Oscar: Condicional. Se requiere al menos 3.º de primaria.
+Formato: holiday_workshop
+Idioma: Condiciones publicadas en japonés. Confirmar idioma de monitores y apoyo en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Entrada gratuita.
+Acceso: Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.
+Limitaciones: Por la mañana se necesita reserva en línea. Por la tarde se reserva en el recinto desde las 10:00. Elegir sesión y confirmar plazas.
+Fuente: https://robot.pref.aichi.jp/field/robofest/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -43521,7 +43553,7 @@ Formato: day_camp
 Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Acceso: En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
 Restricciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
 Se ha comprobado: 2026-11-08
@@ -43556,7 +43588,7 @@ Costo: 2027 - KRW 1790000; no se aplicó el precio más bajo de septiembre de 16
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sólo se puede obtener mediante documentación 4–6 clase; 2017 El año no confirma por sí solo la pensión de enero 2027. Oscar: Edad 6–7 y la clase primaria ordinaria por debajo de la clase publicada 4–6; El régimen de pensiones de invierno no es adecuado.. Gastos adicionales: Camino a la carretera SNU, Aparcamiento, Seguro/Gastos médicos y efectos personales por separado. No hay lavandería separada durante el turno de cinco días. Pago: Normas internas: hasta el inicio 100% por 20 días, 90% por 10, 80% Por uno; al día de comienzo 70%, hasta la mitad del turno 50%, luego no.. Aplicabilidad a la selección, Seguro y gastos médicos de un niño extranjero para verificar el contrato. El descuento de septiembre terminó. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-snu
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### CP879-20270105-20270124 · Gamja Uhak · Jeju Fun & Learn Winter · 2027-01-05–2027-01-24
 
@@ -70465,10 +70497,10 @@ Formato: holiday_workshop
 Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Acceso: En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1672-20270118-20270122 · D.CAMPS Daewon · Art & Technology · Art & Technology · 2027-01-18–2027-01-22
 
@@ -70481,10 +70513,10 @@ Formato: holiday_workshop
 Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Acceso: En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1673-20270111-20270115 · D.CAMPS Daewon · Interstellar Explorer · Interstellar Explorer · 2027-01-11–2027-01-15
 
@@ -70498,9 +70530,9 @@ Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1673-20270118-20270122 · D.CAMPS Daewon · Interstellar Explorer · Interstellar Explorer · 2027-01-18–2027-01-22
 
@@ -70514,9 +70546,9 @@ Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1674-20270111-20270115 · D.CAMPS Daewon · Interstellar Endeavor · Interstellar Endeavor · 2027-01-11–2027-01-15
 
@@ -70529,10 +70561,10 @@ Formato: holiday_workshop
 Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: No por ahora según el nivel escolar publicado. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Acceso: En el anuncio publicado el turno figura como casi lleno. Confirmar disponibilidad actual.
+Limitaciones: Matvey: No por ahora según el nivel escolar publicado. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1675-20270111-20270115 · D.CAMPS Daewon · Interstellar Astronaut · Interstellar Astronaut · 2027-01-11–2027-01-15
 
@@ -70546,9 +70578,9 @@ Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1675-20270118-20270122 · D.CAMPS Daewon · Interstellar Astronaut · Interstellar Astronaut · 2027-01-18–2027-01-22
 
@@ -70562,9 +70594,9 @@ Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1676-20270118-20270122 · D.CAMPS Daewon · Artificial Intelligence · Artificial Intelligence · 2027-01-18–2027-01-22
 
@@ -70578,9 +70610,9 @@ Idioma: Todo el programa se imparte en inglés.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Limitaciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: No por ahora según el nivel escolar publicado. Suplementos: Para una familia con dos participantes se anuncia reembolso del 5% tras el programa y la comprobación de asistencia. Se abona el precio completo al inscribirse. Transporte aparte. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1677-20270111-20270115 · Doodlish · English Skills Boost Camp · English Skills Boost Camp · 2027-01-11–2027-01-15
 
@@ -84516,6 +84548,22 @@ Precio: 2026/27 · 238000 COP por menor, materiales incluidos. · suplementos y 
 Acceso: La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
 Limitaciones: Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: Edad inferior al mínimo para este turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias
+Se ha comprobado: 2026-11-08
+
+### CP2132-20270125-20270129-tainan · S.E.E. Tainan · LEGO World History Tour · Tainan · LEGO · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Cheng Kung University · Green Magic School · Tainan
+Fecha: 2027-01-25 国 2027-01-29
+edad: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Todo el programa es en inglés. Un miembro del equipo ayuda en chino cuando hace falta.
+Etiqueta de idioma: primary; apoyo: ZH
+Precio: 2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. Tarifa anticipada individual de 14524 TWD hasta el 10 de noviembre de 2026, sujeta a plaza. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Oscar: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Suplementos: La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
