@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 347,
+    "prepared_ui_version": 348,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 346,
-    "previous_verified_commit": "55174c02bbf471cb5a9dc48f35721621103f812a"
+    "previous_verified_ui_version": 347,
+    "previous_verified_commit": "23c87285da5f243e9e907b1ad877080925916fd6"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 346,
-    "published_version": 346,
-    "latest_source_commit": "55174c02bbf471cb5a9dc48f35721621103f812a",
-    "published_commit": "55174c02bbf471cb5a9dc48f35721621103f812a",
-    "latest_workflow": 42626571146,
+    "latest_source_version": 347,
+    "published_version": 347,
+    "latest_source_commit": "23c87285da5f243e9e907b1ad877080925916fd6",
+    "published_commit": "23c87285da5f243e9e907b1ad877080925916fd6",
+    "latest_workflow": 42631861547,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -36993,5 +36993,74 @@
     ],
     "external_registrations_or_messages": false,
     "source_requests": 123
+  },
+  "indonesia_chile_and_family_exhibitions_v348": {
+    "version": 348,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5369",
+      "C5370",
+      "C5371",
+      "C5372",
+      "C5373",
+      "C5374",
+      "C5375",
+      "C5376",
+      "C5377",
+      "C5378",
+      "E762",
+      "L959",
+      "L960",
+      "L961"
+    ],
+    "refreshed_event_ids": [
+      "C4696",
+      "C4694",
+      "C4695",
+      "E674",
+      "E521",
+      "E405",
+      "C3316"
+    ],
+    "new_league_ids": [
+      "idn-it-fest",
+      "shaastra-junior-makeathon"
+    ],
+    "updated_dossier_ids": [
+      "CP1183",
+      "CP1184"
+    ],
+    "legacy_overlay_event_ids": [
+      "C4696",
+      "C4694",
+      "C4695",
+      "E674",
+      "E521",
+      "E405",
+      "C3316"
+    ],
+    "source_requests": 42,
+    "withdrawn_unconfirmed_exact_event_dates": [
+      "C4696"
+    ],
+    "date_conflict_watch_ids": [
+      "C4696",
+      "C5374",
+      "E674"
+    ],
+    "uncertain_primary_age_route_ids": [
+      "C4694",
+      "C4695",
+      "L961"
+    ],
+    "techlab_sibling_full_base_clp": {
+      "09:00–13:00": 230000,
+      "09:00–14:00": 350000,
+      "09:00–16:00": 390000,
+      "09:00–18:00": 500000
+    },
+    "external_registrations_or_messages": false
   }
 }

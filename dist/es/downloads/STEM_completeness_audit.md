@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 11829 fichas en la base, con 5367 de competiciones, 761 de eventos y 5701 de campamentos o programas. Hay 336 perfiles de ligas y programas. Las 654 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 11843 fichas en la base, con 5377 de competiciones, 762 de eventos y 5704 de campamentos o programas. Hay 338 perfiles de ligas y programas. Las 655 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2223 | 177 | 1428 |
-| América del Sur | 15 | 485 | 52 | 259 |
-| Europa | 55 | 733 | 161 | 1672 |
+| América del Sur | 15 | 485 | 52 | 262 |
+| Europa | 55 | 733 | 162 | 1672 |
 | África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1232 | 184 | 1801 |
+| Asia | 51 | 1242 | 184 | 1801 |
 | Oceanía | 27 | 177 | 32 | 370 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5367 fichas de competiciones (15.3%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5377 fichas de competiciones (15.3%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -92,6 +92,7 @@ VEX concentra 821 de las 5367 fichas de competiciones (15.3%). La cobertura est�
 - v48: SingapurGrade5/4/edad9; Overseas sin SGWorldquota; NRC-WRO, Worklab/CoboInglés, Computhink, International/internacionalWorlds, GITEXstrictlyover18.
 - Se verificaron 47 vías escolares nacionales de Spirit of Math, se publicaron 8 opciones del horario general de Cobo Academy en inglés y se añadieron 3 fichas históricas de exposiciones. Dos nuevos territorios están representados por eventos históricos. La auditoría mundial continúa.
 - Se revisaron fuentes específicas para cinco territorios sin fichas. La infraestructura científica, las actividades escolares internas y los permisos de visita se registran por separado.
+- Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -364,6 +365,8 @@ VEX concentra 821 de las 5367 fichas de competiciones (15.3%). La cobertura est�
 - **VEX IQ Thailand · Level Up**: 6 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4458.html
 - **STOGO Fest**: 14 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://stogofest.com/guidelines.html
 - **International Spirit of Math® Contest**: 48 fichas, 2 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://www.spiritofmathcontest.com/
+- **International IDN IT FEST**: 9 fichas, 7 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://itfest.idn.sch.id/
+- **Shaastra Junior Make-a-Thon**: 4 fichas, 3 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://jmt.shaastra.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1060,6 +1063,7 @@ VEX concentra 821 de las 5367 fichas de competiciones (15.3%). La cobertura est�
 - **Moroccan Sahara Innovation Challenge 2026 · Laâyoune** — Sáhara Occidental; 2026-10-31. Confirme el acceso para menores. https://ensas.uca.ma/Home/Eventgallerie/1162
 - **National Exhibition of Children’s Science Fiction Models and Inventions 2026 · Pyongyang** — Corea del Norte; 2026-06-02 – 2026-06-07. Confirme el acceso para menores. https://kcnawatch.org/newstream/1780467285-50411868/national-exhibition-of-childrens-science-fiction-models-and-inventions-2026-opens-in-dprk/
 - **National Youth Sci-tech Successes Exhibition 2026 · Pyongyang** — Corea del Norte; 2026-08-27 – 2026-09-01. Confirme el acceso para menores. https://oananews.org/node/712260
+- **Physical AI Expo Global · London 2027** — Reino Unido de Gran Bretaña e Irlanda del Norte; 2027-02-03 – 2027-02-04. Sin acceso para menores de 6/9 años. https://physicalaiconference.com/global/visitor-faqs/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

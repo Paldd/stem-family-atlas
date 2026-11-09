@@ -85082,7 +85082,7 @@ Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 
 **Fechas / estado:** Dos semanas navideñas de diciembre de 2026 y ocho semanas de enero–febrero de 2027. Mañana y tarde son bloques elegibles distintos; tres tarifas ampliadas de cuidado figuran en precios, sin ser campamentos independientes.
 
-**Precio / año:** 2027 · CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima.
+**Precio / año:** 2027 · CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima. Una semana de verano para los dos antes de descuentos: 230 000 CLP hasta las 13:00, 350 000 CLP hasta las 14:00, 390 000 CLP hasta las 16:00 y 500 000 CLP hasta las 18:00. Cada menor en su grupo de edad, con almuerzo en los tres últimos planes. Confirme plazas y precio del pedido.
 
 **Incluido:** Kits y notebooks de laboratorio incluidos, ordenador propio opcional. Sin experiencia previa exigida; tras tres años de competiciones acordar nivel del grupo.
 
@@ -85352,7 +85352,7 @@ Chile · Av. Vitacura 3568 · Oficina 611 · Vitacura · Santiago
 
 **Fechas / estado:** Dos semanas navideñas de diciembre de 2026 y ocho semanas de enero–febrero de 2027. Mañana y tarde son bloques elegibles distintos; tres tarifas ampliadas de cuidado figuran en precios, sin ser campamentos independientes.
 
-**Precio / año:** 2027 · CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima.
+**Precio / año:** 2027 · CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima. Una semana de verano para los dos antes de descuentos: 230 000 CLP hasta las 13:00, 350 000 CLP hasta las 14:00, 390 000 CLP hasta las 16:00 y 500 000 CLP hasta las 18:00. Cada menor en su grupo de edad, con almuerzo en los tres últimos planes. Confirme plazas y precio del pedido.
 
 **Incluido:** Kits y notebooks de laboratorio incluidos, ordenador propio opcional. Sin experiencia previa exigida; tras tres años de competiciones acordar nivel del grupo.
 

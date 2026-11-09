@@ -15186,7 +15186,7 @@
       "deadline": "",
       "period": "El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.",
       "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://cambiemoselchipfest.com/",
@@ -15200,13 +15200,13 @@
       "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
       "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
       "format": "Exposición pública y demostraciones",
-      "entry": "",
+      "entry": "Las entradas aún no están a la venta. La entrada general incluye exposición, proyectos y zonas temáticas. Montar la credencial PCB y algunos talleres pueden exigir inscripción adicional.",
       "gear": "",
       "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "cost": "Precio sin publicar.",
+      "cost": "Las entradas aún no están a la venta. La entrada general incluye exposición, proyectos y zonas temáticas. Montar la credencial PCB y algunos talleres pueden exigir inscripción adicional.",
       "level": "Festival nacional de electrónica",
       "reward": "",
       "priority": "P3 — seguir el anuncio",
@@ -15218,7 +15218,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Gran exposición nacional de videojuegos",
+      "importance_reason": "Festival nacional de electrónica y proyectos de hardware.",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -15226,7 +15226,7 @@
       "visitor_policy": "confirm_children",
       "visitor_policy_note": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
       "exhibition_tier": "family_alternative",
-      "adult_entry": "Precio sin publicar.",
+      "adult_entry": "Las entradas aún no están a la venta. La entrada general incluye exposición, proyectos y zonas temáticas. Montar la credencial PCB y algunos talleres pueden exigir inscripción adicional.",
       "exhibitor_directory_url": "https://cambiemoselchipfest.com/",
       "exhibitors": [],
       "highlights": [],
@@ -15251,7 +15251,7 @@
       "deadline": "",
       "period": "Marzo de 2027, días exactos pendientes.",
       "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://cambiemoselchipfest.com/tne",
@@ -15265,13 +15265,13 @@
       "mat": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
       "osc": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
       "format": "Concurso técnico individual",
-      "entry": "Condicional. Confirmar edad y acompañamiento para la actividad elegida.",
+      "entry": "La participación requiere una entrada separada del TNE que incluye todo el festival. La venta aún no está abierta. Precio y acceso pendientes.",
       "gear": "Concurso individual. Diseño de placa de circuito impreso de dos capas y creación de un dispositivo con reconocimiento de gestos. Se puede elegir uno o ambos retos. Edad, herramientas, cuotas y días exactos pendientes.",
       "language": "Información del organizador en español. Confirmar idiomas de cada actividad.",
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "cost": "Precio sin publicar.",
+      "cost": "La participación requiere una entrada separada del TNE que incluye todo el festival. La venta aún no está abierta. Precio y acceso pendientes.",
       "level": "Programa nacional",
       "reward": "",
       "priority": "P3 — seguir el anuncio",
@@ -15284,7 +15284,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Etapa regional",
+      "importance_reason": "Concurso nacional de diseño electrónico.",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -35197,6 +35197,190 @@
       "admission_kind": "school_only",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L959",
+      "title": "My Robot School Las Condes · Firstbot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/firstbot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Mayores de 5 años.",
+      "mat": "La edad encaja. Para un participante experimentado, compare el nivel con Onebot.",
+      "osc": "Sí según la edad publicada. Confirme plaza e idioma de la clase.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Robótica inicial, piezas grandes, tarjetas de comandos y proyectos nuevos en las clases.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P2 — clases locales según edad",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L960",
+        "L961"
+      ]
+    },
+    {
+      "id": "L960",
+      "title": "My Robot School Las Condes · Onebot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/onebot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La descripción indica de 7 a 12 años. El encabezado y el paquete de 4 clases indican 8+.",
+      "mat": "Sí según la edad publicada. Confirme plaza e idioma de la clase.",
+      "osc": "No según la edad de este curso. Firstbot es una opción separada.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Robótica, sensores y programación por bloques con Arduino.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P2 — clases locales según edad",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L959",
+        "L961"
+      ]
+    },
+    {
+      "id": "L961",
+      "title": "My Robot School Las Condes · Gamebot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La descripción principal indica 12+, el encabezado 10+ y el paquete 9+. Confirme la edad de la oferta concreta.",
+      "mat": "Condicional para el paquete de regalo. La descripción principal indica 12+, el encabezado 10+ y el paquete 9+.",
+      "osc": "No según la edad de este curso. Firstbot es una opción separada.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Diseño de juegos 2D, lógica, escenarios, modelado y edición.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P3 — la edad depende del paquete",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L959",
+        "L960"
+      ]
     },
     {
       "id": "CP047-20270103-20270108",

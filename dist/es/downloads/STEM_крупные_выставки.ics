@@ -6229,7 +6229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E521@family-stem.local
-DTSTAMP:20261108T145309Z
+DTSTAMP:20261109T232708Z
 SUMMARY:[Exposición · visita en familia] RoboCup 2027 · Family Day
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
@@ -6238,10 +6238,14 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las familia
  s el horario\, la entrada y el acceso a cada actividad. Entrada de adult
  os: Las familias y el público externo están invitados al Family Day. Q
  uedan pendientes el horario\, la entrada y el acceso a cada actividad.. 
- Family Day previsto el 20 de junio de 2027 en Max Morlock Stadium. La pr
- ogramación nocturna tiene condiciones separadas. Empresas: Cotejar el e
- lenco y el horario de cada demostración con el programa de la edición 
- vigente.. Fuente verificada el 2026-11-08.
+ De la mañana a la tarde se prevén actividades prácticas con robots\, 
+ escenario y premiación de RoboCupJunior seguida de Major Leagues. Horar
+ io exacto y precio pendientes. La fiesta nocturna requiere otra entrada 
+ para invitados. Empresas: De la mañana a la tarde se prevén actividade
+ s prácticas con robots\, escenario y premiación de RoboCupJunior segui
+ da de Major Leagues. Horario exacto y precio pendientes. La fiesta noctu
+ rna requiere otra entrada para invitados.. Fuente verificada el 2026-11-
+ 09.
 LOCATION:Max Morlock Stadium · Nürnberg\, Alemania
 URL:https://2027.robocup.org/wm27/participation/family-day
 STATUS:TENTATIVE
@@ -11711,6 +11715,28 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
   edición aún no se ha establecido.. Fuente verificada el 2026-11-09.
 LOCATION:Beijing\, China
 URL:https://www.geiaasia.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E762@family-stem.local
+DTSTAMP:20261109T232708Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Physical AI Exp
+ o Global · London 2027
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270205
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El organiza
+ dor solo admite profesionales del sector y excluye expresamente a escola
+ res y estudiantes. El pase gratuito para profesionales elegibles requier
+ e registro. Entrada de adultos: Los profesionales admitidos tienen acces
+ o gratuito a la exposición y a sesiones abiertas. Consulte los pases de
+  pago y sus condiciones en el registro.. 3–4 de febrero de 2027 en Oly
+ mpia London. Para el primer día la página del recinto indica 08:30–1
+ 8:00 y las preguntas frecuentes 08:30–17:30 con el año 2026 por error
+ . Verifique el horario. Empresas: Consulte los expositores y las demostr
+ aciones del programa de 2027.. Fuente verificada el 2026-11-09.
+LOCATION:Olympia London\, Reino Unido
+URL:https://physicalaiconference.com/global/visitor-faqs/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

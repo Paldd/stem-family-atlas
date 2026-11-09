@@ -14118,6 +14118,54 @@ Limitaciones: Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inv
 Fuente: https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/
 Se ha comprobado: 2026-11-09
 
+### L959 · My Robot School Las Condes · Firstbot
+
+Lugar: Chile · Camino el Alba 9500 · local 1 · Las Condes · Santiago
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: Mayores de 5 años.
+Matvey: La edad encaja. Para un participante experimentado, compare el nivel con Onebot.
+Oscar: Sí según la edad publicada. Confirme plaza e idioma de la clase.
+Formato: regular
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/firstbot/
+Se ha comprobado: 2026-11-09
+
+### L960 · My Robot School Las Condes · Onebot
+
+Lugar: Chile · Camino el Alba 9500 · local 1 · Las Condes · Santiago
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: La descripción indica de 7 a 12 años. El encabezado y el paquete de 4 clases indican 8+.
+Matvey: Sí según la edad publicada. Confirme plaza e idioma de la clase.
+Oscar: No según la edad de este curso. Firstbot es una opción separada.
+Formato: regular
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/onebot/
+Se ha comprobado: 2026-11-09
+
+### L961 · My Robot School Las Condes · Gamebot
+
+Lugar: Chile · Camino el Alba 9500 · local 1 · Las Condes · Santiago
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: La descripción principal indica 12+, el encabezado 10+ y el paquete 9+. Confirme la edad de la oferta concreta.
+Matvey: Condicional para el paquete de regalo. La descripción principal indica 12+, el encabezado 10+ y el paquete 9+.
+Oscar: No según la edad de este curso. Firstbot es una opción separada.
+Formato: regular
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

@@ -3123,11 +3123,11 @@ edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
-Acceso:
-Precio: Precio sin publicar.
+Acceso: Las entradas aún no están a la venta. La entrada general incluye exposición, proyectos y zonas temáticas. Montar la credencial PCB y algunos talleres pueden exigir inscripción adicional.
+Costo: Las entradas aún no están a la venta. La entrada general incluye exposición, proyectos y zonas temáticas. Montar la credencial PCB y algunos talleres pueden exigir inscripción adicional.
 Limitaciones: El organizador reprogramó el festival para marzo de 2027. Fechas exactas y sede pendientes. Demostraciones públicas, electrónica, prototipado y talleres. Confirmar edad y precio.
 Fuente: https://cambiemoselchipfest.com/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C3316 · Torneo Nacional de Electrónica · Cali 2027
 
@@ -3136,11 +3136,11 @@ edad: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Matvey: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Oscar: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
 Idioma: Información del organizador en español. Confirmar idiomas de cada actividad.
-Acceso: Condicional. Confirmar edad y acompañamiento para la actividad elegida.
-Precio: Precio sin publicar.
+Acceso: La participación requiere una entrada separada del TNE que incluye todo el festival. La venta aún no está abierta. Precio y acceso pendientes.
+Costo: La participación requiere una entrada separada del TNE que incluye todo el festival. La venta aún no está abierta. Precio y acceso pendientes.
 Limitaciones: Concurso individual. Diseño de placa de circuito impreso de dos capas y creación de un dispositivo con reconocimiento de gestos. Se puede elegir uno o ambos retos. Edad, herramientas, cuotas y días exactos pendientes.
 Fuente: https://cambiemoselchipfest.com/tne
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### E406 · Game Fest Minas 2026
 
@@ -6988,6 +6988,45 @@ Acceso: La vía habitual pasa por el centro escolar y el representante nacional.
 Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
 Condiciones: Representante local: Grupo Olímpico Mate E.I.R.L.. El grado y el idioma se verifican con la sede correspondiente.
 Fuente: https://www.spiritofmathcontest.com/countries/peru
+Se ha comprobado: 2026-11-09
+
+### L959 · My Robot School Las Condes · Firstbot
+
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: Mayores de 5 años.
+Matvey: La edad encaja. Para un participante experimentado, compare el nivel con Onebot.
+Oscar: Sí según la edad publicada. Confirme plaza e idioma de la clase.
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/firstbot/
+Se ha comprobado: 2026-11-09
+
+### L960 · My Robot School Las Condes · Onebot
+
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: La descripción indica de 7 a 12 años. El encabezado y el paquete de 4 clases indican 8+.
+Matvey: Sí según la edad publicada. Confirme plaza e idioma de la clase.
+Oscar: No según la edad de este curso. Firstbot es una opción separada.
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/onebot/
+Se ha comprobado: 2026-11-09
+
+### L961 · My Robot School Las Condes · Gamebot
+
+Fecha: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Edad: La descripción principal indica 12+, el encabezado 10+ y el paquete 9+. Confirme la edad de la oferta concreta.
+Matvey: Condicional para el paquete de regalo. La descripción principal indica 12+, el encabezado 10+ y el paquete 9+.
+Oscar: No según la edad de este curso. Firstbot es una opción separada.
+Idioma: Páginas en español. Confirme el idioma del docente concreto.
+Acceso: Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.
+Costo: El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.
+Condiciones: Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.
+Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/
 Se ha comprobado: 2026-11-09
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

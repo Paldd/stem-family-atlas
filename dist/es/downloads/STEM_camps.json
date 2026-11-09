@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5701,
+      "records": 5704,
       "holiday": 5073,
-      "regular": 229,
+      "regular": 232,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1676,
@@ -51894,6 +51894,190 @@
         "status": "closed"
       },
       "delivery_mode": "in_person"
+    },
+    {
+      "id": "L959",
+      "title": "My Robot School Las Condes · Firstbot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/firstbot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Mayores de 5 años.",
+      "mat": "La edad encaja. Para un participante experimentado, compare el nivel con Onebot.",
+      "osc": "Sí según la edad publicada. Confirme plaza e idioma de la clase.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Robótica inicial, piezas grandes, tarjetas de comandos y proyectos nuevos en las clases.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P2 — clases locales según edad",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L960",
+        "L961"
+      ]
+    },
+    {
+      "id": "L960",
+      "title": "My Robot School Las Condes · Onebot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/onebot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La descripción indica de 7 a 12 años. El encabezado y el paquete de 4 clases indican 8+.",
+      "mat": "Sí según la edad publicada. Confirme plaza e idioma de la clase.",
+      "osc": "No según la edad de este curso. Firstbot es una opción separada.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Robótica, sensores y programación por bloques con Arduino.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P2 — clases locales según edad",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L959",
+        "L961"
+      ]
+    },
+    {
+      "id": "L961",
+      "title": "My Robot School Las Condes · Gamebot",
+      "block": "Campamentos",
+      "country": "Chile",
+      "region": "América del Sur",
+      "iso": [
+        "CHL"
+      ],
+      "city": "Camino el Alba 9500 · local 1 · Las Condes · Santiago",
+      "start": "",
+      "end": "",
+      "period": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "deadline": "",
+      "date_status": "Fecha por confirmar",
+      "checked": "2026-11-09",
+      "source": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/",
+      "references": [
+        {
+          "url": "https://myrobotschool.cl/tienda/cursos-de-robotica/dia-del-nino/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://myrobotschool.cl/cursos-de-robotica-y-programacion/cursos-de-verano/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La descripción principal indica 12+, el encabezado 10+ y el paquete 9+. Confirme la edad de la oferta concreta.",
+      "mat": "Condicional para el paquete de regalo. La descripción principal indica 12+, el encabezado 10+ y el paquete 9+.",
+      "osc": "No según la edad de este curso. Firstbot es una opción separada.",
+      "format": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "entry": "Clases individuales presenciales con horario flexible. Puede solicitarse una clase de prueba gratuita. Acuerde fechas y disponibilidad con el centro.",
+      "gear": "Diseño de juegos 2D, lógica, escenarios, modelado y edición.",
+      "language": "Páginas en español. Confirme el idioma del docente concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Páginas en español. Confirme el idioma del docente concreto.",
+      "cost": "El paquete de regalo de 4 clases cuesta 115 000 CLP. Confirme la tarifa regular, las condiciones del paquete y la disponibilidad.",
+      "level": "Curso presencial continuo en Santiago",
+      "reward": "",
+      "priority": "P3 — la edad depende del paquete",
+      "action": "Confirme la edad del producto concreto, el idioma del docente, el horario y la tarifa total.",
+      "note": "Curso continuo con horario acordado. No se confirma una sesión fechada para 2027.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Curso presencial continuo en Santiago",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L959",
+        "L960"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
