@@ -11,6 +11,7 @@ import zipfile
 from pathlib import Path
 from localization import (ROOT,RU,protected,translate,translate_tree,translate_markup,
                           unfold_ics,collect_pool,english_pool)
+from atlas_web_data import read_web_data, write_web_data
 from database_download import package_json,package_database
 from spanish_workbook import write_workbook
 from spanish_calendar import localize_calendar
@@ -29,7 +30,7 @@ def tr(s):return translate(s,dictionary)
 
 # Share non-language assets; project-relative URLs work on GitHub Pages and localhost.
 for p in (DIST/'assets').rglob('*'):
-    if p.is_file():
+    if p.is_file() and p.name not in {'data.js', 'atlas-core.js'}:
         q=ES/'assets'/p.relative_to(DIST/'assets');q.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,q)
 
 manifest=json.loads((ROOT/'data/i18n/ui-source-tokens.json').read_text())
@@ -77,9 +78,9 @@ for file,spec in manifest.items():
     if file=='assets/leagues.js':result=result.replace("leagueState.query.trim().toLocaleLowerCase('es')",'foldSearch(leagueState.query.trim())').replace("JSON.stringify(g).toLocaleLowerCase('es')",'foldSearch(JSON.stringify(g))')
     (ES/file).write_text(result)
 
-web=json.loads((DIST/'assets/data.js').read_text().removeprefix('window.STEM_DATA=').rstrip(';\n'))
+web=read_web_data(DIST/'assets/data.js')
 translated=translate_tree(web,dictionary)
-(ES/'assets/data.js').write_text('window.STEM_DATA='+json.dumps(translated,ensure_ascii=False,separators=(',',':'))+';\n')
+write_web_data(ES/'assets', translated)
 fit_values={e[k] for e in web['events'] for k in ['mat','osc']}
 fit_patterns={'yes':r'^(Да|Explore|Junior|Little Coders|Little|Codey)','no':r'^Нет','maybe':r'Условно|уточни|подтвер|требуе|не провер','conditional':r'^Условно','journey_yes':r'^(Да|Explore|Junior)'}
 fit_text={k:sorted({tr(v) for v in fit_values if re.search(pattern,v,re.I if k in ['yes','maybe','journey_yes'] else 0)}) for k,pattern in fit_patterns.items()}

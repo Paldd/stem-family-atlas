@@ -27,7 +27,7 @@ for(const lang of ['', 'es/']){
  }
  if(lang){const app=fs.readFileSync(path.join(base,'assets/app.js'),'utf8');const fold=app.match(/^const foldSearch=.*;$/m);assert(fold);vm.runInContext(fold[0],context);}
  vm.runInContext(fs.readFileSync(path.join(base,'assets/camp-planning.js'),'utf8'),context);const M=context.window.STEM_CAMP_PLANNER;
- let ui=fs.readFileSync(path.join(base,'assets/camp-programmes.js'),'utf8');const end=' init();\n})();';assert(ui.includes(end));
+ let ui=fs.readFileSync(path.join(base,'assets/camp-programmes.js'),'utf8');const end=' if(!document.getElementById(\'camps-view\').hidden)window.mountCampDossiers();\n})();';assert(ui.includes(end));
  ui=ui.replace(end,' window.TEST_CAMP_UI={filtered,card,editorialSummary,editorialDetails,editorialMethod,state:cs,setGuide:value=>{guide=value;}};\n})();');
  vm.runInContext(ui,context);const U=context.window.TEST_CAMP_UI;U.setGuide(guide);
  const editorialFile='STEM_camp_editorial_selection_v'+selection.version+'.json';assert(U.editorialMethod().includes(editorialFile),'Editorial download must refer to the current reviewed collection');assert.deepEqual(JSON.parse(fs.readFileSync(path.join(base,'downloads',editorialFile),'utf8')),selection);

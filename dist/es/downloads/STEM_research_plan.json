@@ -870,7 +870,7 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 309,
+    "version": 310,
     "status": "implementation_snapshot",
     "events": 10859,
     "competitions": 4828,
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 308,
+    "version": 309,
     "status": "implementation_snapshot",
-    "events": 10848,
-    "competitions": 4820,
+    "events": 10859,
+    "competitions": 4828,
     "league_profiles": 309,
-    "camp_dossiers": 2121,
+    "camp_dossiers": 2122,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 685,
+    "exhibitions_events": 686,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 309,
+    "prepared_ui_version": 310,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 308,
-    "previous_verified_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f"
+    "previous_verified_ui_version": 309,
+    "previous_verified_commit": "086552c725fa51d40ffa5eadc7f726020ecc1674"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 308,
-    "published_version": 308,
-    "latest_source_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f",
-    "published_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f",
-    "latest_workflow": 42535644283,
+    "latest_source_version": 309,
+    "published_version": 309,
+    "latest_source_commit": "086552c725fa51d40ffa5eadc7f726020ecc1674",
+    "published_commit": "086552c725fa51d40ffa5eadc7f726020ecc1674",
+    "latest_workflow": 42537233808,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },

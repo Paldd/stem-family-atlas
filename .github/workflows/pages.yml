@@ -39,6 +39,8 @@ jobs:
         run: node scripts/verify-camp-month-filter.cjs
       - name: Verify editorial camp goals, eligibility gates and shareable filters
         run: node scripts/verify-camp-editorial.cjs
+      - name: Verify on-demand camp dossiers and cold deep links
+        run: node scripts/verify-lazy-camp-dossiers.cjs
       - name: Verify sibling groups share a sourced venue and exact timetable
         run: node scripts/verify-family-pairing.cjs
       - name: Verify nearby WRO league and qualification history filters

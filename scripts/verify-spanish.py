@@ -16,8 +16,9 @@ DIST=ROOT/'dist';ES=DIST/'es'
 dictionary=json.loads((ROOT/'data/i18n/es.json').read_text())
 dictionary.update(json.loads((ROOT/'data/i18n/es-reviewed.json').read_text()))
 missing=(collect_pool()|english_pool())-dictionary.keys();assert not missing,repr(sorted(missing)[:10])
-read=lambda base:json.loads((base/'assets/data.js').read_text().removeprefix('window.STEM_DATA=').rstrip(';\n'))
-ru=read(DIST);es=read(ES)
+from atlas_web_data import read_web_data, verify_core_data
+ru=read_web_data(DIST/'assets/data.js');es=read_web_data(ES/'assets/data.js')
+verify_core_data(ES, es)
 assert ru.keys()==es.keys()
 for base,data in [(DIST,ru),(ES,es)]:
     md=(base/'downloads/STEM_camp_programmes_deep_2026_2027.md').read_text()

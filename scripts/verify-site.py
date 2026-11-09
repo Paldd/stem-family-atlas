@@ -8,14 +8,14 @@ import sqlite3
 import tempfile
 from urllib.parse import unquote, urlsplit
 import zipfile
+from atlas_web_data import read_web_data, verify_core_data
 from calendar_time import local_to_utc, session_keys
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / 'dist'
 source = json.loads((ROOT / 'data/catalog.json').read_text())
-text = (DIST / 'assets/data.js').read_text().strip()
-assert text.startswith('window.STEM_DATA=') and text.endswith(';')
-web = json.loads(text[len('window.STEM_DATA='):-1])
+web = read_web_data(DIST / 'assets/data.js')
+verify_core_data(DIST, web)
 for key in ['events', 'countries', 'schools', 'league_guide', 'development_routes', 'camp_programmes']:
     assert web[key] == source[key], f'Browser data diverges from source: {key}'
 for key in ['events', 'schools']:

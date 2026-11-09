@@ -490,7 +490,8 @@ if 'asia_english_focus' in d: web['asia_english_focus']=d['asia_english_focus']
 if 'east_asia_focus' in d: web['east_asia_focus']=d['east_asia_focus']
 if 'top_picks' in d: web['top_picks']=d['top_picks']
 web.update(audit_count=len(d['audit']),wro_members=d['wro_members'])
-(assets/'data.js').write_text('window.STEM_DATA='+json.dumps(web,ensure_ascii=False,separators=(',',':'))+';\n')
+from atlas_web_data import write_web_data
+write_web_data(assets, web)
 (out/'STEM_database.json').write_text(json.dumps(d,ensure_ascii=False,indent=2))
 from database_download import package_json
 json_database_download = package_json(out/'STEM_database.json')
