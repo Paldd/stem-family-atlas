@@ -16666,24 +16666,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C918@family-stem.local
-DTSTAMP:20261107T113326Z
+DTSTAMP:20261109T090558Z
 SUMMARY:[Días del evento] Coupe de France de Robotique Junior 2027 · Oc
  citanie
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C9
- 18. . Matvey: condicionalmente: la edad es adecuada\; el idioma\, el per
- miso extranjero y el lugar confirmen\; Oscar: No: menor a la edad mínim
- a publicada. Cómo participar: El equipo a través de Planète Sciences 
- y la delegación local. final nacional después de la selección local. 
- registro extranjero\, organización y idioma de la entrevista confirmar.
- . Próximo paso: confirmar el flujo\, la lengua\, la clase\, el acceso d
- e la familia extranjera y la disponibilidad de asientos antes de la insc
- ripción o el viaje.. La organización movió la etapa de Occitanie del 
- 27 al 20 de marzo de 2027. Vía vigente de 8–18 años por equipo y del
- egación local. Plazo de la nueva temporada sin publicar.. . No se ha pr
- esentado la solicitud de la familia\; el programa publicado no confirma 
- el lugar.. Fuente verificada el 2026-11-07.
+ 18. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pla
+ za e idioma hablado.\; Oscar: No encaja en la franja de edad de este gru
+ po.. Cómo participar: Clasificatoria regional → final de Francia → 
+ plaza separada de Eurobot Junior. El país del equipo depende de la dire
+ cción de la entidad que lo apoya. El equipo puede incluir menores de di
+ stintas nacionalidades.. Próximo paso: confirmar el flujo\, la lengua\,
+  la clase\, el acceso de la familia extranjera y la disponibilidad de as
+ ientos antes de la inscripción o el viaje.. La clasificatoria de Toulou
+ se pide al menos 2 participantes y un adulto. Tras homologar el robot\, 
+ los equipos juegan partidas de 90 segundos.. . No se ha presentado la so
+ licitud de la familia\; el programa publicado no confirma el lugar.. Fue
+ nte verificada el 2026-11-09.
 LOCATION:Toulouse · Cité de l’espace\, Francia
 URL:https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/
 STATUS:TENTATIVE
@@ -16691,30 +16691,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C919@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261109T090558Z
 SUMMARY:[Días del evento] Coupe de France de Robotique Junior 2027 · Î
  le-de-France
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C9
- 19. . Matvey: condicionalmente: la edad es adecuada\; el idioma\, el per
- miso extranjero y el lugar confirmen\; Oscar: No: menor a la edad mínim
- a publicada. Cómo participar: El equipo a través de Planète Sciences 
- y la delegación local. final nacional después de la selección local. 
- registro extranjero\, organización y idioma de la entrevista confirmar.
- . Próximo paso: confirmar el flujo\, la lengua\, la clase\, el acceso d
- e la familia extranjera y la disponibilidad de asientos antes de la insc
- ripción o el viaje.. la página actual de participación indica 8–18 
- años\, la descripción antigua — 7–18. Oscar menor a ambos límites
- . las nuevas fechas regionales 2027 publicados\; el plazo anterior 31 di
- ciembre 2025 y el final de mayo 2026 No se han trasladado a la nueva tem
- porada. el resultado local del premio conduce a la final nacional\, lueg
- o a Eurobot Junior por las reglas de selección. fecha de la final inter
- nacional 2027 No se sabe.. . No se ha presentado la solicitud de la fami
- lia\; el programa publicado no confirma el lugar.. Fuente verificada el 
- 2026-10-01.
-LOCATION:Savigny-le-Temple · Le Millénaire\, Francia
+ 19. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pla
+ za e idioma hablado.\; Oscar: No encaja en la franja de edad de este gru
+ po.. Cómo participar: Se admiten solicitudes de centros educativos\, cl
+ ubes\, centros de ocio y particulares. Confirmar afiliación\, admisión
+  de un equipo extranjero e idioma de la entrevista.. Próximo paso: Se a
+ dmiten solicitudes de centros educativos\, clubes\, centros de ocio y pa
+ rticulares. Confirmar afiliación\, admisión de un equipo extranjero e 
+ idioma de la entrevista.. Clasificatoria regional → final de Francia 
+ → plaza separada de Eurobot Junior. El país del equipo depende de la 
+ dirección de la entidad que lo apoya. El equipo puede incluir menores d
+ e distintas nacionalidades.. La página regional indica el 31 de diciemb
+ re antes de la etapa 2027. Confirmar la hora exacta y las plazas en el f
+ ormulario.. La página regional indica el 31 de diciembre antes de la et
+ apa 2027. Confirmar la hora exacta y las plazas en el formulario.. Fuent
+ e verificada el 2026-11-09.
+LOCATION:Savigny-le-Temple · Le Millénaire · 3 place du 19 mars 1962\,
+  Francia
 URL:https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-ile-de-france-2027/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C919-deadline@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Plazo límite\, confirmar hora] Coupe de France de Robotique Jun
+ ior 2027 · Île-de-France
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C9
+ 19. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pla
+ za e idioma hablado.\; Oscar: No encaja en la franja de edad de este gru
+ po.. Cómo participar: Se admiten solicitudes de centros educativos\, cl
+ ubes\, centros de ocio y particulares. Confirmar afiliación\, admisión
+  de un equipo extranjero e idioma de la entrevista.. Próximo paso: Se a
+ dmiten solicitudes de centros educativos\, clubes\, centros de ocio y pa
+ rticulares. Confirmar afiliación\, admisión de un equipo extranjero e 
+ idioma de la entrevista.. Clasificatoria regional → final de Francia 
+ → plaza separada de Eurobot Junior. El país del equipo depende de la 
+ dirección de la entidad que lo apoya. El equipo puede incluir menores d
+ e distintas nacionalidades.. La página regional indica el 31 de diciemb
+ re antes de la etapa 2027. Confirmar la hora exacta y las plazas en el f
+ ormulario.. La página regional indica el 31 de diciembre antes de la et
+ apa 2027. Confirmar la hora exacta y las plazas en el formulario.. Fuent
+ e verificada el 2026-11-09.
+LOCATION:Savigny-le-Temple · Le Millénaire · 3 place du 19 mars 1962\,
+  Francia
+URL:https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-ile-de-france-2027/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C920@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Días del evento] Coupe de France de Robotique Junior 2027 · Na
+ tional Final
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270509
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C9
+ 20. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pla
+ za e idioma hablado.\; Oscar: No encaja en la franja de edad de este gru
+ po.. Cómo participar: Clasificatoria regional → final de Francia → 
+ plaza separada de Eurobot Junior. El país del equipo depende de la dire
+ cción de la entidad que lo apoya. El equipo puede incluir menores de di
+ stintas nacionalidades.. Próximo paso: Clasificatoria regional → fina
+ l de Francia → plaza separada de Eurobot Junior. El país del equipo d
+ epende de la dirección de la entidad que lo apoya. El equipo puede incl
+ uir menores de distintas nacionalidades.. La final nacional se anuncia e
+ n la ventana del 5–8 de mayo de 2027 en Parc Expo Les Oudairies. Queda
+ n por confirmar días de partidas\, homologación y premiación.. . No s
+ e ha presentado la solicitud de la familia\; el programa publicado no co
+ nfirma el lugar.. Fuente verificada el 2026-11-09.
+LOCATION:Parc Expo Les Oudairies · La Roche-sur-Yon\, Francia
+URL:https://www.coupederobotique.fr/calendrier/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -73466,8 +73521,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C3250@family-stem.local
-DTSTAMP:20261107T155554Z
-SUMMARY:[Idea] Shanghai Robot Challenge 2027
+DTSTAMP:20261109T090558Z
+SUMMARY:[Días del evento] Shanghai Robot Challenge 2027
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C3
@@ -73477,17 +73532,16 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C3
  r: Condicional. Confirmar curso escolar\, equipo e inscripción internac
  ional con el comité de Shanghai. El portal general de RobotChallenge no
   confirma por sí solo una solicitud para esta etapa.. Cómo participar:
-  Condicional. Confirmar curso escolar\, equipo e inscripción internacio
- nal con el comité de Shanghai. El portal general de RobotChallenge no c
- onfirma por sí solo una solicitud para esta etapa.. Próximo paso: Cond
- icional. Confirmar curso escolar\, equipo e inscripción internacional c
- on el comité de Shanghai. El portal general de RobotChallenge no confir
- ma por sí solo una solicitud para esta etapa.. La organización enumera
-  15 disciplinas en tres programas. Confirmar día de participación\, cu
- ota\, acceso de espectadores e idioma de evaluación para la disciplina 
- elegida. La organización anuncia un taller separado para entrenadores y
-  docentes el 28 de noviembre de 2026.. . . Fuente verificada el 2026-11-
- 07.
+  El botón Participate lleva al portal general de RobotChallenge. Confir
+ mar con el comité de SUIS Qingpu la inscripción específica de Shangh
+ ái\, plazo\, cuota y admisión extranjera.. Próximo paso: El botón Pa
+ rticipate lleva al portal general de RobotChallenge. Confirmar con el co
+ mité de SUIS Qingpu la inscripción específica de Shanghái\, plazo\, 
+ cuota y admisión extranjera.. Campeonato del 27–28 de febrero de 2027
+ . Aún no se establecen las horas por disciplina ni el acceso de especta
+ dores. Se anuncia un taller separado para entrenadores y docentes el 28 
+ de noviembre de 2026. Hay un formulario de interés\; horario\, idioma\,
+  tarifa y formato por confirmar.. . . Fuente verificada el 2026-11-09.
 LOCATION:Shanghai United International School · Qingpu Campus · 32 Yeji
  n Rd.\, China
 URL:https://shanghairobotchallenge.com/
@@ -73750,27 +73804,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C3263@family-stem.local
-DTSTAMP:20261107T155554Z
-SUMMARY:[Idea] Shanghai Robot Challenge · ROBOBOOM · Curling Challenge
+DTSTAMP:20261109T090558Z
+SUMMARY:[Días del evento] Shanghai Robot Challenge · ROBOBOOM · Curlin
+ g Challenge
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C3
- 263. . Matvey: Condicional. Confirmar curso escolar\, equipo e inscripci
- ón internacional con el comité de Shanghai. El portal general de Robot
- Challenge no confirma por sí solo una solicitud para esta etapa.\; Osca
- r: Condicional. Confirmar curso escolar\, equipo e inscripción internac
- ional con el comité de Shanghai. El portal general de RobotChallenge no
-  confirma por sí solo una solicitud para esta etapa.. Cómo participar:
-  Condicional. Confirmar curso escolar\, equipo e inscripción internacio
- nal con el comité de Shanghai. El portal general de RobotChallenge no c
- onfirma por sí solo una solicitud para esta etapa.. Próximo paso: Cond
- icional. Confirmar curso escolar\, equipo e inscripción internacional c
- on el comité de Shanghai. El portal general de RobotChallenge no confir
- ma por sí solo una solicitud para esta etapa.. 27–28 de febrero de 20
- 27 es el periodo general del campeonato. La organización aún no public
- ó día y hora de cada disciplina. Hasta 3.º curso inclusive según el 
- PDF. Confirmar límite inferior y equivalencia del curso local.. . . Fue
- nte verificada el 2026-11-07.
+ 263. . Matvey: Condicional. Confirmar curso o edad en la fecha de corte\
+ , equipo y admisión de participantes extranjeros.\; Oscar: Condicional.
+  Confirmar curso o edad en la fecha de corte\, equipo y admisión de par
+ ticipantes extranjeros.. Cómo participar: El botón Participate lleva a
+ l portal general de RobotChallenge. Confirmar con el comité de SUIS Qin
+ gpu la inscripción específica de Shanghái\, plazo\, cuota y admisión
+  extranjera.. Próximo paso: El botón Participate lleva al portal gener
+ al de RobotChallenge. Confirmar con el comité de SUIS Qingpu la inscrip
+ ción específica de Shanghái\, plazo\, cuota y admisión extranjera.. 
+ Campeonato del 27–28 de febrero de 2027. Aún no se establecen las hor
+ as por disciplina ni el acceso de espectadores.. . . Fuente verificada e
+ l 2026-11-09.
 LOCATION:Shanghai United International School · Qingpu Campus · 32 Yeji
  n Rd.\, China
 URL:https://shanghairobotchallenge.com/docs/RB-Curling-Challenge.pdf
@@ -73779,28 +73830,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C3264@family-stem.local
-DTSTAMP:20261107T155554Z
-SUMMARY:[Idea] Shanghai Robot Challenge · ROBOBOOM · Line Straight Spri
- nt
+DTSTAMP:20261109T090558Z
+SUMMARY:[Días del evento] Shanghai Robot Challenge · ROBOBOOM · Line S
+ traight Sprint
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C3
- 264. . Matvey: Condicional. Confirmar curso escolar\, equipo e inscripci
- ón internacional con el comité de Shanghai. El portal general de Robot
- Challenge no confirma por sí solo una solicitud para esta etapa.\; Osca
- r: Condicional. Confirmar curso escolar\, equipo e inscripción internac
- ional con el comité de Shanghai. El portal general de RobotChallenge no
-  confirma por sí solo una solicitud para esta etapa.. Cómo participar:
-  Condicional. Confirmar curso escolar\, equipo e inscripción internacio
- nal con el comité de Shanghai. El portal general de RobotChallenge no c
- onfirma por sí solo una solicitud para esta etapa.. Próximo paso: Cond
- icional. Confirmar curso escolar\, equipo e inscripción internacional c
- on el comité de Shanghai. El portal general de RobotChallenge no confir
- ma por sí solo una solicitud para esta etapa.. 27–28 de febrero de 20
- 27 es el periodo general del campeonato. La organización aún no public
- ó día y hora de cada disciplina. El PDF indica hasta 4.º curso inclus
- ive y la tabla de la organización indica 3–4. Confirmar admisión de 
- 1–2 y de preescolar.. . . Fuente verificada el 2026-11-07.
+ 264. . Matvey: Condicional. Confirmar curso o edad en la fecha de corte\
+ , equipo y admisión de participantes extranjeros.\; Oscar: Condicional.
+  Confirmar curso o edad en la fecha de corte\, equipo y admisión de par
+ ticipantes extranjeros.. Cómo participar: El botón Participate lleva a
+ l portal general de RobotChallenge. Confirmar con el comité de SUIS Qin
+ gpu la inscripción específica de Shanghái\, plazo\, cuota y admisión
+  extranjera.. Próximo paso: El botón Participate lleva al portal gener
+ al de RobotChallenge. Confirmar con el comité de SUIS Qingpu la inscrip
+ ción específica de Shanghái\, plazo\, cuota y admisión extranjera.. 
+ Campeonato del 27–28 de febrero de 2027. Aún no se establecen las hor
+ as por disciplina ni el acceso de espectadores.. . . Fuente verificada e
+ l 2026-11-09.
 LOCATION:Shanghai United International School · Qingpu Campus · 32 Yeji
  n Rd.\, China
 URL:https://shanghairobotchallenge.com/docs/RB-Line-Straight-Sprint.pdf
@@ -73809,27 +73856,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C3265@family-stem.local
-DTSTAMP:20261107T155554Z
-SUMMARY:[Idea] Shanghai Robot Challenge · ROBOBOOM · RoboParade
+DTSTAMP:20261109T090558Z
+SUMMARY:[Días del evento] Shanghai Robot Challenge · ROBOBOOM · RoboPa
+ rade
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C3
- 265. . Matvey: Condicional. Confirmar curso escolar\, equipo e inscripci
- ón internacional con el comité de Shanghai. El portal general de Robot
- Challenge no confirma por sí solo una solicitud para esta etapa.\; Osca
- r: Condicional. Confirmar curso escolar\, equipo e inscripción internac
- ional con el comité de Shanghai. El portal general de RobotChallenge no
-  confirma por sí solo una solicitud para esta etapa.. Cómo participar:
-  Condicional. Confirmar curso escolar\, equipo e inscripción internacio
- nal con el comité de Shanghai. El portal general de RobotChallenge no c
- onfirma por sí solo una solicitud para esta etapa.. Próximo paso: Cond
- icional. Confirmar curso escolar\, equipo e inscripción internacional c
- on el comité de Shanghai. El portal general de RobotChallenge no confir
- ma por sí solo una solicitud para esta etapa.. 27–28 de febrero de 20
- 27 es el periodo general del campeonato. La organización aún no public
- ó día y hora de cada disciplina. El PDF indica edad ≤ 12 años y la 
- tabla indica por debajo de 6.º curso. Confirmar ambos criterios y fecha
-  de corte.. . . Fuente verificada el 2026-11-07.
+ 265. . Matvey: Condicional. Confirmar curso o edad en la fecha de corte\
+ , equipo y admisión de participantes extranjeros.\; Oscar: Condicional.
+  Confirmar curso o edad en la fecha de corte\, equipo y admisión de par
+ ticipantes extranjeros.. Cómo participar: El botón Participate lleva a
+ l portal general de RobotChallenge. Confirmar con el comité de SUIS Qin
+ gpu la inscripción específica de Shanghái\, plazo\, cuota y admisión
+  extranjera.. Próximo paso: El botón Participate lleva al portal gener
+ al de RobotChallenge. Confirmar con el comité de SUIS Qingpu la inscrip
+ ción específica de Shanghái\, plazo\, cuota y admisión extranjera.. 
+ Campeonato del 27–28 de febrero de 2027. Aún no se establecen las hor
+ as por disciplina ni el acceso de espectadores.. . . Fuente verificada e
+ l 2026-11-09.
 LOCATION:Shanghai United International School · Qingpu Campus · 32 Yeji
  n Rd.\, China
 URL:https://shanghairobotchallenge.com/docs/RB-RoboParade.pdf
@@ -104730,21 +104774,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C4460@family-stem.local
-DTSTAMP:20261108T035343Z
+DTSTAMP:20261109T090558Z
 SUMMARY:[Idea] Robotix’s Junior · Eurobot Junior Belgium 2027
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C4
- 460. . Matvey: Condicional según el rango anterior. Confirmar el reglam
- ento de 2027 y la admisión de equipos del extranjero.\; Oscar: Por deba
- jo del mínimo anterior de 8 años. Comprobar las reglas de la nueva edi
- ción.. Cómo participar: Confirmar inscripción local\, admisión de eq
- uipos extranjeros\, pago\, idioma del jurado y asignación de plazas par
- a la fase internacional.. Próximo paso: Confirmar inscripción local\, 
- admisión de equipos extranjeros\, pago\, idioma del jurado y asignació
- n de plazas para la fase internacional.. . . . Fuente verificada el 2026
- -11-07.
-LOCATION:Frameries\, Bélgica
+ 460. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pl
+ aza e idioma hablado.\; Oscar: No encaja en la franja de edad de este gr
+ upo.. Cómo participar: Hay una vía para grupos\, clases y familias. El
+  equipo sigue el proceso del organizador local. Confirmar plazo\, cuota\
+ , idiomas y plaza internacional.. Próximo paso: Hay una vía para grupo
+ s\, clases y familias. El equipo sigue el proceso del organizador local.
+  Confirmar plazo\, cuota\, idiomas y plaza internacional.. Robo-day el 1
+ 8 de marzo de 2027: los equipos muestran el proyecto y robot en un puest
+ o ante un jurado profesional. Confirmar si es obligatorio y el horario..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:SPARKOH! · 3 rue de Mons · Frameries\, Bélgica
 URL:https://www.eurobot.org/event/robotixs-junior-eurobot-junior-belgium-2/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -122350,6 +122395,51 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C5
  de la temporada 2027.. Fuente verificada el 2026-11-09.
 LOCATION:FHNW Brugg-Windisch · Klosterzelgstrasse 2 · Windisch\, Suiza
 URL:https://www.fhnw.ch/de/technik-umwelt/ueber-uns/nachwuchsfoerdung/wro
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-E735@family-stem.local
+DTSTAMP:20261109T090814Z
+SUMMARY:[Idea] Coupe de France Junior · Village scientifique Île-de-Fra
+ nce 2027
+DTSTART:20270417T093000Z
+DTEND:20270417T160000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E7
+ 35. . Matvey: 17 de abril de 2027\, 11:30–18:00. Abierto a familias co
+ n entrada libre y gratuita.\; Oscar: 17 de abril de 2027\, 11:30–18:00
+ . Abierto a familias con entrada libre y gratuita.. Cómo participar: 17
+  de abril de 2027\, 11:30–18:00. Abierto a familias con entrada libre 
+ y gratuita.. Próximo paso: 17 de abril de 2027\, 11:30–18:00. Abierto
+  a familias con entrada libre y gratuita.. Partidos Junior\, muestra de 
+ robots\, conversaciones con equipos y puestos de empresas y asociaciones
+  técnicas.. . . Fuente verificada el 2026-11-09.
+LOCATION:Savigny-le-Temple · Le Millénaire · 3 place du 19 mars 1962\,
+  Francia
+URL:https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C5099@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Presentación virtual] Robotix’s Junior 2027 · Robo-day · Pr
+ oject Review
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C5
+ 099. . Matvey: Condicional por edad. Confirmar admisión del equipo\, pl
+ aza e idioma hablado.\; Oscar: No encaja en la franja de edad de este gr
+ upo.. Cómo participar: Hay una vía para grupos\, clases y familias. El
+  equipo sigue el proceso del organizador local. Confirmar plazo\, cuota\
+ , idiomas y plaza internacional.. Próximo paso: Hay una vía para grupo
+ s\, clases y familias. El equipo sigue el proceso del organizador local.
+  Confirmar plazo\, cuota\, idiomas y plaza internacional.. Robo-day el 1
+ 8 de marzo de 2027: los equipos muestran el proyecto y robot en un puest
+ o ante un jurado profesional. Confirmar si es obligatorio y el horario..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:SPARKOH! · 3 rue de Mons · Frameries\, Bélgica
+URL:https://sparkoh.be/robotixs-junior/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -393112,7 +393202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12-26@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] Tokyo YMCA · Winter Magic · STEAM · Winter Mag
  ic · 2026-12-26–2026-12-28
 DTSTART:20261226T003000Z
@@ -393140,7 +393230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12-27@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] Tokyo YMCA · Winter Magic · STEAM · Winter Mag
  ic · 2026-12-26–2026-12-28
 DTSTART:20261227T003000Z
@@ -403350,7 +403440,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-04@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270104T080000Z
@@ -403379,7 +403469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-05@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270105T080000Z
@@ -403408,7 +403498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-06@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270106T080000Z
@@ -403437,7 +403527,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-07@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270107T080000Z
@@ -403495,7 +403585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-04@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270104T080000Z
@@ -403524,7 +403614,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-05@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270105T080000Z
@@ -403553,7 +403643,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-06@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270106T080000Z
@@ -403582,7 +403672,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-07@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270107T080000Z
@@ -403760,7 +403850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-22@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270322T080000Z
@@ -403789,7 +403879,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-23@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270323T080000Z
@@ -403818,7 +403908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-24@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270324T080000Z
@@ -403992,7 +404082,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-28@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270628T070000Z
@@ -404021,7 +404111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-29@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270629T070000Z
@@ -404050,7 +404140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-30@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270630T070000Z
@@ -404079,7 +404169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-07-01@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270701T070000Z
@@ -413612,7 +413702,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22-2026-12-22@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] SUP Education · AI × STEAM Christmas · 7+ · M
  y Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-22–2
  026-12-23
@@ -413666,7 +413756,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29-2026-12-29@family-stem.local
-DTSTAMP:20261109T084402Z
+DTSTAMP:20261109T090814Z
 SUMMARY:[Día de clase] SUP Education · AI × STEAM Christmas · 7+ · M
  y Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-29–2
  026-12-30
@@ -431196,6 +431286,890 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
   organización.. . . Fuente verificada el 2026-11-09.
 LOCATION:ITschool · 130 avenue Foch · Saint-Maur-des-Fossés\, Francia
 URL:https://www.itschool.fr/cours/stage-robotique-6-9
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-11-14@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261114T083000Z
+DTEND:20261114T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-11-21@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261121T083000Z
+DTEND:20261121T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-11-28@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261128T083000Z
+DTEND:20261128T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-12-05@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261205T083000Z
+DTEND:20261205T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-12-12@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261212T083000Z
+DTEND:20261212T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2252-20261114-20261219-remaining-2026-12-19@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Robotique 
+ primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+DTSTART:20261219T083000Z
+DTEND:20261219T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2252-20261114-20261219-remaining. Clase: Caen Robotics · Primary\; 09:3
+ 0–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar
+ : La organización permite incorporarse al grupo de primaria desde el 14
+  de noviembre. Confirmar la plaza antes de pagar.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; La organización permite incorporarse al 
+ grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de 
+ pagar.. Matvey: Puede encajar por nivel. Confirmar el curso francés y e
+ l idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Con
+ firmar el curso escolar equivalente. Suplementos: Confirmar el coste fin
+ al y las condiciones de devolución con la organización. Pago: Confirma
+ r el coste final y las condiciones de devolución con la organización..
+  . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261114-20261114-1114-2026-11-14@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Robotique · 2026-11-14–2026-11-14
+DTSTART:20261114T100000Z
+DTEND:20261114T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261114-20261114-1114. Clase: Robotique\; 11:00–12:30 Europe/Par
+ is. . Matvey: Condicional\; confirmar edad\, curso y admisión\; Oscar: 
+ No ahora\; el futuro nivel de edad. Cómo participar: Confirmar la equiv
+ alencia del curso francés\, idioma\, admisión de una familia extranjer
+ a y plaza libre.. Próximo paso: Confirmar la equivalencia del curso fra
+ ncés\, idioma\, admisión de una familia extranjera y plaza libre.. Mat
+ vey: Puede encajar por nivel. Confirmar el curso francés y el idioma ha
+ blado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el c
+ urso escolar equivalente. Suplementos: Confirmar el coste final y las co
+ ndiciones de devolución con la organización. Pago: Confirmar el coste 
+ final y las condiciones de devolución con la organización.. . . Fuente
+  verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261121-20261121-1121-2026-11-21@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Astronomie · 2026-11-21–2026-11-21
+DTSTART:20261121T100000Z
+DTEND:20261121T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261121-20261121-1121. Clase: Astronomie\; 11:00–12:30 Europe/Pa
+ ris. . Matvey: Condicional\; confirmar edad\, curso y admisión\; Oscar:
+  No ahora\; el futuro nivel de edad. Cómo participar: Confirmar la equi
+ valencia del curso francés\, idioma\, admisión de una familia extranje
+ ra y plaza libre.. Próximo paso: Confirmar la equivalencia del curso fr
+ ancés\, idioma\, admisión de una familia extranjera y plaza libre.. Ma
+ tvey: Puede encajar por nivel. Confirmar el curso francés y el idioma h
+ ablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el 
+ curso escolar equivalente. Suplementos: Confirmar el coste final y las c
+ ondiciones de devolución con la organización. Pago: Confirmar el coste
+  final y las condiciones de devolución con la organización.. . . Fuent
+ e verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261128-20261128-1128-2026-11-28@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Programmation · 2026-11-28–2026-11-28
+DTSTART:20261128T100000Z
+DTEND:20261128T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261128-20261128-1128. Clase: Programmation\; 11:00–12:30 Europe
+ /Paris. . Matvey: Condicional\; confirmar edad\, curso y admisión\; Osc
+ ar: No ahora\; el futuro nivel de edad. Cómo participar: Confirmar la e
+ quivalencia del curso francés\, idioma\, admisión de una familia extra
+ njera y plaza libre.. Próximo paso: Confirmar la equivalencia del curso
+  francés\, idioma\, admisión de una familia extranjera y plaza libre..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261205-20261205-1205-2026-12-05@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Environnement · 2026-12-05–2026-12-05
+DTSTART:20261205T100000Z
+DTEND:20261205T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261205-20261205-1205. Clase: Environnement\; 11:00–12:30 Europe
+ /Paris. . Matvey: Condicional\; confirmar edad\, curso y admisión\; Osc
+ ar: No ahora\; el futuro nivel de edad. Cómo participar: Confirmar la e
+ quivalencia del curso francés\, idioma\, admisión de una familia extra
+ njera y plaza libre.. Próximo paso: Confirmar la equivalencia del curso
+  francés\, idioma\, admisión de una familia extranjera y plaza libre..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261212-20261212-1212-2026-12-12@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Fusée · 2026-12-12–2026-12-12
+DTSTART:20261212T100000Z
+DTEND:20261212T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261212-20261212-1212. Clase: Fusée\; 11:00–12:30 Europe/Paris.
+  . Matvey: Condicional\; confirmar edad\, curso y admisión\; Oscar: No 
+ ahora\; el futuro nivel de edad. Cómo participar: Confirmar la equivale
+ ncia del curso francés\, idioma\, admisión de una familia extranjera y
+  plaza libre.. Próximo paso: Confirmar la equivalencia del curso franc
+ és\, idioma\, admisión de una familia extranjera y plaza libre.. Matve
+ y: Puede encajar por nivel. Confirmar el curso francés y el idioma habl
+ ado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el cur
+ so escolar equivalente. Suplementos: Confirmar el coste final y las cond
+ iciones de devolución con la organización. Pago: Confirmar el coste fi
+ nal y las condiciones de devolución con la organización.. . . Fuente v
+ erificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2253-20261219-20261219-1219-2026-12-19@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Séances d
+ ’essai · Astronomie – planétarium · 2026-12-19–2026-12-19
+DTSTART:20261219T100000Z
+DTEND:20261219T113000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2253-20261219-20261219-1219. Clase: Astronomie – planétarium\; 11:00
+ –12:30 Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y 
+ admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar:
+  Confirmar la equivalencia del curso francés\, idioma\, admisión de un
+ a familia extranjera y plaza libre.. Próximo paso: Confirmar la equival
+ encia del curso francés\, idioma\, admisión de una familia extranjera 
+ y plaza libre.. Matvey: Puede encajar por nivel. Confirmar el curso fran
+ cés y el idioma hablado del grupo. Oscar: No corresponde a la etapa act
+ ual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el c
+ oste final y las condiciones de devolución con la organización. Pago: 
+ Confirmar el coste final y las condiciones de devolución con la organiz
+ ación.. . . Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-01-09@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270109T083000Z
+DTEND:20270109T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-01-16@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270116T083000Z
+DTEND:20270116T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-01-23@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270123T083000Z
+DTEND:20270123T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-01-30@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270130T083000Z
+DTEND:20270130T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-02-06@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270206T083000Z
+DTEND:20270206T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-02-13@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270213T083000Z
+DTEND:20270213T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270109-20270220-coding-2027-02-20@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Programmation\, jeux vidéo & robots · 2027-01-09–2027-02-20
+DTSTART:20270220T083000Z
+DTEND:20270220T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270109-20270220-coding. Clase: Programmation\, jeux vidéo & robo
+ ts\; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\
+ , curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo p
+ articipar: Está abierta la preinscripción. Las fechas están publicada
+ s y el inicio depende del mínimo de participantes.. Próximo paso: Conf
+ irmar la equivalencia del curso francés\, idioma\, admisión de una fam
+ ilia extranjera y plaza libre.\; Está abierta la preinscripción. Las f
+ echas están publicadas y el inicio depende del mínimo de participantes
+ .. Matvey: Puede encajar por nivel. Confirmar el curso francés y el idi
+ oma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirma
+ r el curso escolar equivalente. Suplementos: Confirmar el coste final y 
+ las condiciones de devolución con la organización. Pago: Confirmar el 
+ coste final y las condiciones de devolución con la organización.. . . 
+ Fuente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-03-13@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270313T083000Z
+DTEND:20270313T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-03-20@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270320T083000Z
+DTEND:20270320T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-03-27@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270327T083000Z
+DTEND:20270327T100000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-04-03@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270403T073000Z
+DTEND:20270403T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-04-10@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270410T073000Z
+DTEND:20270410T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270313-20270417-space-2027-04-17@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Espace & astronomie · 2027-03-13–2027-04-17
+DTSTART:20270417T073000Z
+DTEND:20270417T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270313-20270417-space. Clase: Espace & astronomie\; 09:30–11:00
+  Europe/Paris. . Matvey: Condicional\; confirmar edad\, curso y admisió
+ n\; Oscar: No ahora\; el futuro nivel de edad. Cómo participar: Está a
+ bierta la preinscripción. Las fechas están publicadas y el inicio depe
+ nde del mínimo de participantes.. Próximo paso: Confirmar la equivalen
+ cia del curso francés\, idioma\, admisión de una familia extranjera y 
+ plaza libre.\; Está abierta la preinscripción. Las fechas están publi
+ cadas y el inicio depende del mínimo de participantes.. Matvey: Puede e
+ ncajar por nivel. Confirmar el curso francés y el idioma hablado del gr
+ upo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar
+  equivalente. Suplementos: Confirmar el coste final y las condiciones de
+  devolución con la organización. Pago: Confirmar el coste final y las 
+ condiciones de devolución con la organización.. . . Fuente verificada 
+ el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-05-15@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270515T073000Z
+DTEND:20270515T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-05-22@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270522T073000Z
+DTEND:20270522T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-05-29@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270529T073000Z
+DTEND:20270529T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-06-05@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270605T073000Z
+DTEND:20270605T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-06-12@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270612T073000Z
+DTEND:20270612T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-06-19@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270619T073000Z
+DTEND:20270619T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2254-20270515-20270626-energy-2027-06-26@family-stem.local
+DTSTAMP:20261109T090558Z
+SUMMARY:[Día de clase] Planète Sciences Normandie · Caen · Cycles pri
+ mary · Énergies & développement durable · 2027-05-15–2027-06-26
+DTSTART:20270626T073000Z
+DTEND:20270626T090000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2254-20270515-20270626-energy. Clase: Énergies & développement durable
+ \; 09:30–11:00 Europe/Paris. . Matvey: Condicional\; confirmar edad\, 
+ curso y admisión\; Oscar: No ahora\; el futuro nivel de edad. Cómo par
+ ticipar: Está abierta la preinscripción. Las fechas están publicadas 
+ y el inicio depende del mínimo de participantes.. Próximo paso: Confir
+ mar la equivalencia del curso francés\, idioma\, admisión de una famil
+ ia extranjera y plaza libre.\; Está abierta la preinscripción. Las fec
+ has están publicadas y el inicio depende del mínimo de participantes..
+  Matvey: Puede encajar por nivel. Confirmar el curso francés y el idiom
+ a hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar 
+ el curso escolar equivalente. Suplementos: Confirmar el coste final y la
+ s condiciones de devolución con la organización. Pago: Confirmar el co
+ ste final y las condiciones de devolución con la organización.. . . Fu
+ ente verificada el 2026-11-09.
+LOCATION:Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen\, Fr
+ ancia
+URL:https://www.planete-sciences.org/normandie/site/club-sciences.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 335,
+    "version": 336,
     "status": "implementation_snapshot",
-    "events": 11458,
-    "competitions": 5097,
+    "events": 11474,
+    "competitions": 5098,
     "league_profiles": 327,
-    "camp_dossiers": 2251,
+    "camp_dossiers": 2258,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 734,
+    "exhibitions_events": 735,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 333,
+    "version": 335,
     "status": "implementation_snapshot",
-    "events": 11443,
-    "competitions": 5093,
+    "events": 11458,
+    "competitions": 5097,
     "league_profiles": 327,
-    "camp_dossiers": 2244,
+    "camp_dossiers": 2251,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 733,
+    "exhibitions_events": 734,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 335,
+    "prepared_ui_version": 336,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 334,
-    "previous_verified_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9"
+    "previous_verified_ui_version": 335,
+    "previous_verified_commit": "75e30ac08a5b37695bb158e4331940ed5b49237d"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 334,
-    "published_version": 334,
-    "latest_source_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9",
-    "published_commit": "ad5232b2c9dc3d3dcb020dc9105bb821f3d0f6b9",
-    "latest_workflow": 42586262938,
+    "latest_source_version": 335,
+    "published_version": 335,
+    "latest_source_commit": "75e30ac08a5b37695bb158e4331940ed5b49237d",
+    "published_commit": "75e30ac08a5b37695bb158e4331940ed5b49237d",
+    "latest_workflow": 42588915089,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35471,6 +35471,89 @@
     "legacy_overlay_league_ids": [
       "wro-switzerland",
       "juniorbotball"
+    ]
+  },
+  "camelot_qualifiers_and_shanghai_junior_v336": {
+    "version": 336,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E735",
+      "C5099",
+      "L943",
+      "CP2252-20261114-20261219-remaining",
+      "CP2253-20261114-20261114-1114",
+      "CP2253-20261121-20261121-1121",
+      "CP2253-20261128-20261128-1128",
+      "CP2253-20261205-20261205-1205",
+      "CP2253-20261212-20261212-1212",
+      "CP2253-20261219-20261219-1219",
+      "CP2254-20270109-20270220-coding",
+      "CP2254-20270313-20270417-space",
+      "CP2254-20270515-20270626-energy",
+      "CP2255-20270109-20270220-coding",
+      "CP2255-20270313-20270417-space",
+      "CP2255-20270515-20270626-energy"
+    ],
+    "refreshed_event_ids": [
+      "C919",
+      "C918",
+      "C920",
+      "E153",
+      "C4460",
+      "C3250",
+      "C3263",
+      "C3264",
+      "C3265"
+    ],
+    "new_dossier_ids": [
+      "CP2252",
+      "CP2253",
+      "CP2254",
+      "CP2255",
+      "CP2256",
+      "CP2257",
+      "CP2258"
+    ],
+    "refreshed_league_ids": [
+      "eurobot-junior-fr"
+    ],
+    "france_final": "C920",
+    "idf_visit": "E735",
+    "idf_qualifier": "C919",
+    "belgium_review": "C5099",
+    "shanghai_coach": "L943",
+    "shanghai_junior_ids": [
+      "C3263",
+      "C3264",
+      "C3265"
+    ],
+    "caen_profiles": {
+      "robotics": "CP2252",
+      "trials": "CP2253",
+      "primary": "CP2254",
+      "middle": "CP2255"
+    },
+    "aura_profiles": {
+      "grenoble": "CP2256",
+      "vaulx-primary": "CP2257",
+      "vaulx-middle": "CP2258"
+    },
+    "source_requests": 26,
+    "legacy_overlay_event_ids": [
+      "C919",
+      "C918",
+      "C920",
+      "E153",
+      "C4460",
+      "C3250",
+      "C3263",
+      "C3264",
+      "C3265"
+    ],
+    "legacy_overlay_league_ids": [
+      "eurobot-junior-fr"
     ]
   }
 }

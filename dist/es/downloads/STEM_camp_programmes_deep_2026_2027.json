@@ -30,27 +30,27 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2251,
+    "dossiers": 2258,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 298,
       "published_2027": 644,
-      "partial_2027": 157,
+      "partial_2027": 159,
       "next_unannounced": 442,
-      "published_2026": 433,
+      "published_2026": 435,
       "partial_2026_27": 44,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 28,
+      "regular_2026_27": 31,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3189
+    "source_urls": 3192
   },
   "countries": [
     {
@@ -543,7 +543,7 @@
     },
     {
       "country": "Francia",
-      "count": 140
+      "count": 147
     },
     {
       "country": "Guayana Francesa",
@@ -394384,6 +394384,1450 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2252",
+      "slug": "planete-caen-robotics-primary",
+      "provider": "Planète Sciences Normandie · Caen · Robotique primaire",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen",
+      "age": "Grupo de primaria CE2, CM1, CM2 del sistema francés.",
+      "programme": "Construcción y control de robots pequeños, mecánica, motores y primeros montajes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "Sábados del 14 de noviembre al 19 de diciembre de 2026, 09:30–11:00, 6 sesiones.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-14",
+            "end": "2026-12-19",
+            "label": "Caen Robotics · Primary",
+            "price": "95 EUR por las 6 sesiones restantes. La primera clase del 7 de noviembre de 2026 ya pasó y se descuenta del precio.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar."
+            },
+            "entry": "La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar.",
+            "price_amount": 95,
+            "price_currency": "EUR",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-28",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-05",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Caen Robotics · Primary",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 95,
+        "currency": "EUR",
+        "unit": "course",
+        "label": "95 EUR por las 6 sesiones restantes. La primera clase del 7 de noviembre de 2026 ya pasó y se descuenta del precio.",
+        "included": "Material y consumibles incluidos. Cursos presenciales sin alojamiento.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "Sábados del 14 de noviembre al 19 de diciembre de 2026, 09:30–11:00, 6 sesiones.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+        "La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2252-20261114-20261219-remaining"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2253",
+      "slug": "planete-caen-free-science-trials",
+      "provider": "Planète Sciences Normandie · Caen · Séances d’essai",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen",
+      "age": "De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.",
+      "programme": "Sesiones separadas: robótica, programación de juegos, cohetes, astronomía y medio ambiente.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "6 sábados separados del 14 de noviembre al 19 de diciembre de 2026, 11:00–12:30. Se puede elegir la sesión por tema.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ],
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ],
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ],
+          [
+            "2026-12-05",
+            "2026-12-05"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "1114",
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Robotique",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "robotics",
+              "engineering"
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Robotique",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "1121",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Astronomie",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "space",
+              "science"
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Astronomie",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "1128",
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Programmation",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "coding",
+              "games"
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "1205",
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "label": "Environnement",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "science"
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-05",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Environnement",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "1212",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "Fusée",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "space",
+              "engineering"
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Fusée",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "1219",
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "label": "Astronomie – planétarium",
+            "price": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Gratis con reserva previa, hasta 12 plazas por sesión."
+            },
+            "entry": "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+            "price_amount": 0,
+            "price_currency": "EUR",
+            "themes": [
+              "space",
+              "science"
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-19",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Astronomie – planétarium",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "Gratis con reserva previa, hasta 12 plazas por sesión.",
+        "included": "Material y consumibles incluidos. Cursos presenciales sin alojamiento.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "6 sábados separados del 14 de noviembre al 19 de diciembre de 2026, 11:00–12:30. Se puede elegir la sesión por tema.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering",
+        "space",
+        "science"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261114-20261114-1114"
+          ]
+        },
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261121-20261121-1121"
+          ]
+        },
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261128-20261128-1128"
+          ]
+        },
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261205-20261205-1205"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261212-20261212-1212"
+          ]
+        },
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2253-20261219-20261219-1219"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2254",
+      "slug": "planete-caen-cycles-primary",
+      "provider": "Planète Sciences Normandie · Caen · Cycles primary",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen",
+      "age": "Grupo de primaria CE2, CM1, CM2 del sistema francés.",
+      "programme": "Tres ciclos sucesivos: juegos, robots e IA, después espacio y luego circuitos eléctricos y energías renovables.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-02-20"
+          ],
+          [
+            "2027-03-13",
+            "2027-04-17"
+          ],
+          [
+            "2027-05-15",
+            "2027-06-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "coding",
+            "start": "2027-01-09",
+            "end": "2027-02-20",
+            "label": "Programmation, jeux vidéo & robots",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "coding",
+              "games",
+              "robotics",
+              "ai"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-09",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-16",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-23",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-30",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-06",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-13",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-20",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "space",
+            "start": "2027-03-13",
+            "end": "2027-04-17",
+            "label": "Espace & astronomie",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "space",
+              "science"
+            ],
+            "sessions": [
+              {
+                "date": "2027-03-13",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-20",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-27",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-03",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-10",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-17",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "energy",
+            "start": "2027-05-15",
+            "end": "2027-06-26",
+            "label": "Énergies & développement durable",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "science",
+              "engineering",
+              "technology"
+            ],
+            "sessions": [
+              {
+                "date": "2027-05-15",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-22",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-29",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-05",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-12",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-19",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-26",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 110,
+        "currency": "EUR",
+        "unit": "course",
+        "label": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+        "included": "Material y consumibles incluidos. Cursos presenciales sin alojamiento.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+        "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games",
+        "robotics",
+        "ai",
+        "space",
+        "science",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-09",
+          "end": "2027-02-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2254-20270109-20270220-coding"
+          ]
+        },
+        {
+          "start": "2027-03-13",
+          "end": "2027-04-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2254-20270313-20270417-space"
+          ]
+        },
+        {
+          "start": "2027-05-15",
+          "end": "2027-06-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2254-20270515-20270626-energy"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2255",
+      "slug": "planete-caen-cycles-middle",
+      "provider": "Planète Sciences Normandie · Caen · Cycles middle",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen",
+      "age": "Grupo de collège: cursos franceses 6e y 5e.",
+      "programme": "Tres ciclos sucesivos: juegos, robots e IA, después espacio y luego circuitos eléctricos y energías renovables.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-02-20"
+          ],
+          [
+            "2027-03-13",
+            "2027-04-17"
+          ],
+          [
+            "2027-05-15",
+            "2027-06-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "coding",
+            "start": "2027-01-09",
+            "end": "2027-02-20",
+            "label": "Programmation, jeux vidéo & robots",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "coding",
+              "games",
+              "robotics",
+              "ai"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-09",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-16",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-23",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-30",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-06",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-13",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-20",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Programmation, jeux vidéo & robots",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "space",
+            "start": "2027-03-13",
+            "end": "2027-04-17",
+            "label": "Espace & astronomie",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "space",
+              "science"
+            ],
+            "sessions": [
+              {
+                "date": "2027-03-13",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-20",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-27",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-03",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-10",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-17",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Espace & astronomie",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "energy",
+            "start": "2027-05-15",
+            "end": "2027-06-26",
+            "label": "Énergies & développement durable",
+            "price": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+            "source": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+            },
+            "entry": "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.",
+            "price_amount": 110,
+            "price_currency": "EUR",
+            "themes": [
+              "science",
+              "engineering",
+              "technology"
+            ],
+            "sessions": [
+              {
+                "date": "2027-05-15",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-22",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-29",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-05",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-12",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-19",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-26",
+                "start_time": "11:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Paris",
+                "topic": "Énergies & développement durable",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 110,
+        "currency": "EUR",
+        "unit": "course",
+        "label": "110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.",
+        "included": "Material y consumibles incluidos. Cursos presenciales sin alojamiento.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.",
+        "Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/normandie/site/club-sciences.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games",
+        "robotics",
+        "ai",
+        "space",
+        "science",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-09",
+          "end": "2027-02-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2255-20270109-20270220-coding"
+          ]
+        },
+        {
+          "start": "2027-03-13",
+          "end": "2027-04-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2255-20270313-20270417-space"
+          ]
+        },
+        {
+          "start": "2027-05-15",
+          "end": "2027-06-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2255-20270515-20270626-energy"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2256",
+      "slug": "planete-aura-grenoble",
+      "provider": "Planète Sciences AURA · Grenoble · Club robotique",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Grenoble · Planète Sciences AURA",
+      "age": "9–16 años según la página del club.",
+      "programme": "Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Semestre de septiembre de 2026 a finales de febrero de 2027. Miércoles, 14:00–16:00, salvo vacaciones y festivos.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 150,
+        "currency": "EUR",
+        "unit": "semester",
+        "label": "150 EUR por el semestre 2026/27. Confirmar inscripción vigente, costes adicionales y resto del programa.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "Semestre de septiembre de 2026 a finales de febrero de 2027. Miércoles, 14:00–16:00, salvo vacaciones y festivos.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/aura/animations/individuel/a-grenoble/les-clubs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2257",
+      "slug": "planete-aura-vaulx-primary",
+      "provider": "Planète Sciences AURA · Vaulx-en-Velin · Robotique primaire",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Vaulx-en-Velin · Planétarium",
+      "age": "Grupo de primaria de 8–10 años.",
+      "programme": "Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primer semestre 2026/27. Miércoles, 10:00–12:00, salvo vacaciones escolares.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 150,
+        "currency": "EUR",
+        "unit": "semester",
+        "label": "150 EUR por el semestre 2026/27, 140 EUR para residentes de Vaulx-en-Velin. Confirmar plazas en el grupo en marcha.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "Primer semestre 2026/27. Miércoles, 10:00–12:00, salvo vacaciones escolares.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/aura/animations/individuel/a-vaulx-en-velin/les-clubs-vaulx-en-velin/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
+    },
+    {
+      "id": "CP2258",
+      "slug": "planete-aura-vaulx-middle",
+      "provider": "Planète Sciences AURA · Vaulx-en-Velin · Robotique collège",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Vaulx-en-Velin · Planétarium",
+      "age": "Grupo de collège de 11–14 años.",
+      "programme": "Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "FR"
+      ],
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Primer semestre 2026/27. Miércoles, 14:00–16:00, salvo vacaciones escolares.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 150,
+        "currency": "EUR",
+        "unit": "semester",
+        "label": "150 EUR por el semestre 2026/27, 140 EUR para residentes de Vaulx-en-Velin. Confirmar plazas en el grupo en marcha.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "2026-12-19",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "Primer semestre 2026/27. Miércoles, 14:00–16:00, salvo vacaciones escolares.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre."
+      ],
+      "sources": [
+        {
+          "url": "https://www.planete-sciences.org/aura/animations/individuel/a-vaulx-en-velin/les-clubs-vaulx-en-velin/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -399709,7 +401153,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 335,
+  "version": 336,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -412944,7 +414388,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2251,
+      "total_dossiers": 2258,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -437949,6 +439393,71 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2252",
+      "event_id": "CP2252-20261114-20261219-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261114-20261114-1114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261121-20261121-1121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261128-20261128-1128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261205-20261205-1205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261212-20261212-1212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2253",
+      "event_id": "CP2253-20261219-20261219-1219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2254",
+      "event_id": "CP2254-20270109-20270220-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2254",
+      "event_id": "CP2254-20270313-20270417-space",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2254",
+      "event_id": "CP2254-20270515-20270626-energy",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2255",
+      "event_id": "CP2255-20270109-20270220-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2255",
+      "event_id": "CP2255-20270313-20270417-space",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2255",
+      "event_id": "CP2255-20270515-20270626-energy",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -443044,10 +444553,23 @@
     "CP2249-20261221-20261224-dec21",
     "CP2249-20261228-20261231-dec28",
     "CP2250-20261221-20261224-dec21",
-    "CP2250-20261228-20261231-dec28"
+    "CP2250-20261228-20261231-dec28",
+    "CP2252-20261114-20261219-remaining",
+    "CP2253-20261114-20261114-1114",
+    "CP2253-20261121-20261121-1121",
+    "CP2253-20261128-20261128-1128",
+    "CP2253-20261205-20261205-1205",
+    "CP2253-20261212-20261212-1212",
+    "CP2253-20261219-20261219-1219",
+    "CP2254-20270109-20270220-coding",
+    "CP2254-20270313-20270417-space",
+    "CP2254-20270515-20270626-energy",
+    "CP2255-20270109-20270220-coding",
+    "CP2255-20270313-20270417-space",
+    "CP2255-20270515-20270626-energy"
   ],
   "integration": {
-    "generated_sessions": 4685,
+    "generated_sessions": 4698,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11458; competiciones: 5097; eventos: 734; campamentos / programas: 5627. Perfiles de ligas y programas: 327. Fichas de exposiciones grandes y especializadas: 628 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11474; competiciones: 5098; eventos: 735; campamentos / programas: 5641. Perfiles de ligas y programas: 327. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2064 | 165 | 1402 |
 | América del Sur | 15 | 468 | 52 | 258 |
-| Europa | 55 | 729 | 156 | 1638 |
+| Europa | 55 | 730 | 158 | 1651 |
 | África | 60 | 272 | 45 | 156 |
-| Asia | 50 | 1204 | 176 | 1788 |
+| Asia | 50 | 1204 | 176 | 1789 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
 Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
 
-VEX: 815 de 5097 fichas de competición (16.0%). Hay un claro desequilibrio de cobertura.
+VEX: 815 de 5098 fichas de competición (16.0%). Hay un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -183,7 +183,7 @@ VEX: 815 de 5097 fichas de competición (16.0%). Hay un claro desequilibrio de c
 - **WRO Switzerland · Starter / Elementary**: 5 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic a partir de los 6 años / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.wroboto.es/competicion/
 - **FIRST LEGO League · Switzerland / Spain / France**: 12 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.soy/inscripciones-bioglow/
-- **Coupe de France de Robotique Junior / Eurobot Junior**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
+- **Coupe de France de Robotique Junior / Eurobot Junior**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
 - **WRO India · Rutas nacionales**: 2 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://wroindia.org/season-2026/
 - **WRO Pakistan / PSSEC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.linkedin.com/company/wro-pak/
 - **WRO Sri Lanka / Burhani Serendib School**: 1 tarjeta, 0 con fechas exactas futuras. https://www.burhani.edu.lk/world-robot-olympiad-sri-lanka-nationals-2026/
@@ -524,6 +524,7 @@ VEX: 815 de 5097 fichas de competición (16.0%). Hay un claro desequilibrio de c
 - *Advanced Factories Barcelona 2027 · Automation / robotics / AI** htm España; 2027-03-31  tío 2027-04-02. https://www.advancedfactories.com/en/
 - **Machineering2027 · robots / industrial technology** - Bélgica; 2027-03-24 Å 2027-03-26. https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/
 - **Smart City Expo World Congress2026 · Technology / AI / urban systems** htm España; 2026-11-03 Å 2026-11-05. https://www.smartcityexpo.com/exhibitor-faqs/
+- **Coupe de France de Robotique 2027 · vista familiar / WE R TECH** — Francia; fecha desconocida. Confirmar acceso infantil. https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-2027/
 - **Festival Nacional de Robótica / RoboCup Portugal Open 2027 · visita** — Portugal; 2027-04-22 – 2027-04-24. con un adulto; condiciones de admisión adulta por separado. https://www.festivalnacionalrobotica.pt/en/2027
 - **WMF We Make Future 2027 · AI / robotics / tech expo** ○ Italia; 2027-06-10 ♫ 2027-06-12. https://www.wemakefuture.it/
 - **AI Festival Milano 2027 · AI y tecnología** Italia; 2027-02-11 国 2027-02-12; con adultos; condiciones de entrada de adultos por separado. https://www.aifestival.it/
@@ -1023,6 +1024,7 @@ VEX: 815 de 5097 fichas de competición (16.0%). Hay un claro desequilibrio de c
 - **CIEX / CIRE Tianjin 2027 · Robotics & Embodied AI** — China; 2027-03-10 – 2027-03-13. el permiso de entrada de niños. https://www.ciex-expo.com/
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — China; fecha desconocida. Confirmar acceso infantil. https://www.lxhtexpo.com/
 - **FHNW Robot Day 2027** — Suiza; 2027-05-15. con un adulto; condiciones de admisión adulta por separado. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+- **Coupe de France Junior · Village scientifique Île-de-France 2027** — Francia; 2027-04-17. con un adulto; condiciones de admisión adulta por separado. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

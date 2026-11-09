@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11458,
-    "competition_cards": 5097,
-    "event_cards": 734,
-    "camp_cards": 5627,
+    "cards": 11474,
+    "competition_cards": 5098,
+    "event_cards": 735,
+    "camp_cards": 5641,
     "league_profiles": 327,
-    "major_exhibition_cards": 628,
+    "major_exhibition_cards": 630,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2548,
+      "total": 2563,
       "countries_with_records": 55,
-      "competitions": 729,
-      "events": 181,
-      "major_exhibitions": 156,
-      "camps": 1638,
+      "competitions": 730,
+      "events": 182,
+      "major_exhibitions": 158,
+      "camps": 1651,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3181,
+      "total": 3182,
       "countries_with_records": 50,
       "competitions": 1204,
       "events": 189,
       "major_exhibitions": 176,
-      "camps": 1788,
+      "camps": 1789,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -4003,7 +4003,7 @@
         "C3139"
       ],
       "cards": 7,
-      "future_dated": 6,
+      "future_dated": 7,
       "linked_card_count": 7,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.coupederobotique.fr/participer-a-la-coupe-junior/",
@@ -10813,6 +10813,17 @@
       "new": false
     },
     {
+      "id": "E153",
+      "name": "Coupe de France de Robotique 2027 · vista familiar / WE R TECH",
+      "country": "Francia",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-2027/",
+      "new": false
+    },
+    {
       "id": "E154",
       "name": "Festival Nacional de Robótica / RoboCup Portugal Open 2027 · visita",
       "country": "Portugal",
@@ -16302,6 +16313,17 @@
       "new": false
     },
     {
+      "id": "E735",
+      "name": "Coupe de France Junior · Village scientifique Île-de-France 2027",
+      "country": "Francia",
+      "region": "Europa",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "visitor_policy": "family",
+      "source": "https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18719,7 +18741,7 @@
       }
     ],
     "counts": {
-      "records": 5627,
+      "records": 5641,
       "holiday": 5046,
       "regular": 223,
       "self_paced_materials": 4,

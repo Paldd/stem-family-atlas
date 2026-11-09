@@ -10887,13 +10887,13 @@
         "id": "eurobot-junior-fr",
         "name": "Coupe de France de Robotique Junior / Eurobot Junior",
         "group": "regional",
-        "age_summary": "8–18 en el currententrypage; 7–18 en el olderpresentation",
+        "age_summary": "Vía francesa: desde los 8 años. El máximo depende de la inscripción local. Las reglas generales de la final internacional indican hasta 18 años inclusive en el año de la final.",
         "age_tags": [
           "9",
           "10-12",
           "teen"
         ],
-        "summary": "un robot controlado, un largo proyecto de ingeniería y selección regional; un nivel de edad adecuado Matvey, Oscar temprano.",
+        "summary": "Clasificatoria regional → final de Francia → plaza separada de Eurobot Junior. El país del equipo depende de la dirección de la entidad que lo apoya. El equipo puede incluir menores de distintas nacionalidades.",
         "categories": [
           {
             "name": "Junior",
@@ -10914,21 +10914,20 @@
           "C3139"
         ],
         "legacy_ids": [],
-        "route": "proyecto de ingeniería propio en el transcurso de 6–8 meses → selección local → resultado del premio en la final nacional → Eurobot Junior por las reglas vigentes.",
-        "hardware": "el equipo depende de la categoría y la edición; no se compre hasta que se elija la etapa local.",
-        "language": "El idioma de la entrevista técnica y el nivel local se confirman; el sitio en inglés no prueba la capacidad de la jueza en inglés.",
+        "route": "Clasificatoria regional → final de Francia → plaza separada de Eurobot Junior. El país del equipo depende de la dirección de la entidad que lo apoya. El equipo puede incluir menores de distintas nacionalidades.",
+        "hardware": "Robot para las misiones de The Legend of Camelot. Leer el reglamento general 1.4 y las reglas del juego 1.0, incluidas la homologación y el póster del proyecto.",
+        "language": "Los documentos de Camelot 2027 versión 1.0 están disponibles en francés, inglés y español. Confirmar el idioma de la entrevista y el jurado en cada sede.",
         "importance": "una ruta nacional dentro de la familia internacional; no una nueva liga mundial separada.",
         "strengths": "un robot controlado, un largo proyecto de ingeniería y selección regional; un nivel de edad adecuado Matvey, Oscar temprano.",
         "requirements": [
-          "La membresía de la organización de acogida es de EUR50; el robot y el viaje se pagan por separado.",
-          "el plazo de registro 2027 no se ha obtenido; el anterior 31 de diciembre de 2025 no se ha trasladado a la nueva temporada.",
-          "El idioma del juez y la delegación extranjera deben ser acordados."
+          "Mínimo 2 menores y un acompañante. Los menores construyen y explican el robot. El equipo y la edad se cotejan en la clasificatoria concreta.",
+          "Se admiten solicitudes de centros educativos, clubes, centros de ocio y particulares. Confirmar afiliación, admisión de un equipo extranjero e idioma de la entrevista."
         ],
         "nuances": [
-          "El robot Junior es diferente del robot Senior Eurobot autónomo.",
-          "fechas generales 5–8 mayo 2027 no confirman las fechas exactas Junior final."
+          "Las condiciones de inscripción indican 8–17 años. El anuncio y la guía de entrenadores indican 8–18. Confirmar el límite superior con la delegación.",
+          "La final nacional se anuncia en la ventana del 5–8 de mayo de 2027 en Parc Expo Les Oudairies. Quedan por confirmar días de partidas, homologación y premiación."
         ],
-        "cost": "La cotización, el robot y el viaje se cuentan por separado; los precios publicados para un año en particular no garantizan el precio de la próxima temporada.",
+        "cost": "La inscripción Junior se describe como gratuita con afiliación. La página general indica 50 EUR por la afiliación de una entidad. Confirmar el total para un equipo particular.",
         "award": "El reconocimiento académico, la calificación y la victoria mundial son diferentes.",
         "sources": [
           {
@@ -10950,9 +10949,45 @@
             "url": "https://www.coupederobotique.fr/calendrier/",
             "title": "Página oficial del organizador",
             "checked": "2026-11-07"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.eurobot.org/wp-content/uploads/2026/10/Eurobot_General_Rules_JR_EN.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.eurobot.org/eurobot-junior/eurobot-junior-2027/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.eurobot.org/wp-content/uploads/2026/10/Eurobot2027_Rules_FR.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.eurobot.org/wp-content/uploads/2026/10/Eurobot2027_Rules_EN.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.eurobot.org/wp-content/uploads/2026/10/Eurobot2027_Rules_ES.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.planete-sciences.org/iledefrance/images/PSidf/Evenements/CDFR/2027/Livret_encadrant_27.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2",
+            "checked": "2026-11-09"
           }
         ],
-        "evidence": "Las condiciones desconocidas de la próxima temporada y la admisión extranjera se han marcado por separado."
+        "evidence": "Las condiciones desconocidas de la próxima temporada y la admisión extranjera se han marcado por separado.",
+        "checked": "2026-11-09"
       },
       {
         "id": "wro-india",

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11458; соревнований: 5097; событий: 734; лагерей / программ: 5627. Профилей лиг и программ: 327. Карточек крупных и профильных выставок: 628 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11474; соревнований: 5098; событий: 735; лагерей / программ: 5641. Профилей лиг и программ: 327. Карточек крупных и профильных выставок: 630 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2064 | 165 | 1402 |
 | Южная Америка | 15 | 468 | 52 | 258 |
-| Европа | 55 | 729 | 156 | 1638 |
+| Европа | 55 | 730 | 158 | 1651 |
 | Африка | 60 | 272 | 45 | 156 |
-| Азия | 50 | 1204 | 176 | 1788 |
+| Азия | 50 | 1204 | 176 | 1789 |
 | Океания | 27 | 176 | 32 | 370 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 206. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 5097 карточек соревнований (16.0%). Это явный перекос охвата.
+VEX: 815 из 5098 карточек соревнований (16.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -183,7 +183,7 @@ VEX: 815 из 5097 карточек соревнований (16.0%). Это я�
 - **WRO Switzerland · Starter / Elementary**: 5 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro.swiss/en/information-on/categories-and-age-groups/
 - **WRO Spain · RoboBasic с 6 лет / Elementary**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wroboto.es/competicion/
 - **FIRST LEGO League · Switzerland / Spain / France**: 12 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstlegoleague.soy/inscripciones-bioglow/
-- **Coupe de France de Robotique Junior / Eurobot Junior**: 7 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
+- **Coupe de France de Robotique Junior / Eurobot Junior**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
 - **WRO India · национальные маршруты**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wroindia.org/season-2026/
 - **WRO Pakistan / PSSEC**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.linkedin.com/company/wro-pak/
 - **WRO Sri Lanka / Burhani Serendib School**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.burhani.edu.lk/world-robot-olympiad-sri-lanka-nationals-2026/
@@ -524,6 +524,7 @@ VEX: 815 из 5097 карточек соревнований (16.0%). Это я�
 - **Advanced Factories Barcelona 2027 · automation / robotics / AI** — Испания; 2027-03-31 – 2027-04-02. Детский допуск уточнить. https://www.advancedfactories.com/en/
 - **Machineering2027 · robots / industrial technology** — Бельгия; 2027-03-24 – 2027-03-26. Детский допуск уточнить. https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/
 - **Smart City Expo World Congress2026 · технологии / AI / urban systems** — Испания; 2026-11-03 – 2026-11-05. Детский допуск уточнить. https://www.smartcityexpo.com/exhibitor-faqs/
+- **Coupe de France de Robotique 2027 · семейный просмотр / WE R TECH** — Франция; дата неизвестна. Детский допуск уточнить. https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-2027/
 - **Festival Nacional de Robótica / RoboCup Portugal Open 2027 · посещение** — Португалия; 2027-04-22 – 2027-04-24. Со взрослым; условия взрослого входа отдельно. https://www.festivalnacionalrobotica.pt/en/2027
 - **WMF We Make Future 2027 · AI / robotics / tech expo** — Италия; 2027-06-10 – 2027-06-12. Детский допуск уточнить. https://www.wemakefuture.it/
 - **AI Festival Milano 2027 · AI-компании и технологии** — Италия; 2027-02-11 – 2027-02-12. Со взрослым; условия взрослого входа отдельно. https://www.aifestival.it/
@@ -1023,6 +1024,7 @@ VEX: 815 из 5097 карточек соревнований (16.0%). Это я�
 - **CIEX / CIRE Tianjin 2027 · Robotics & Embodied AI** — Китай; 2027-03-10 – 2027-03-13. Детский допуск уточнить. https://www.ciex-expo.com/
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — Китай; дата неизвестна. Детский допуск уточнить. https://www.lxhtexpo.com/
 - **FHNW Robot Day 2027** — Швейцария; 2027-05-15. Со взрослым; условия взрослого входа отдельно. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+- **Coupe de France Junior · Village scientifique Île-de-France 2027** — Франция; 2027-04-17. Со взрослым; условия взрослого входа отдельно. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

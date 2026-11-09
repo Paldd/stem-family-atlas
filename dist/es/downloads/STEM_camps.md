@@ -13862,6 +13862,22 @@ Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10
 Fuente: https://steamacademy.edu.co/
 Se ha comprobado: 2026-11-09
 
+### L943 · Shanghai Robot Challenge 2027 · Coach & Teacher Workshop
+
+lugar: China · Shanghai United International School · Qingpu Campus · 32 Yejin Rd.
+Fecha: 2026-11-28 — 2026-11-28
+edad: Docentes y entrenadores. Formación de adultos para preparar equipos.
+Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+formato: workshop
+Idioma: El organizador publica materiales técnicos en inglés y chino. Confirmar el idioma del jurado y de las instrucciones para el grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Se anuncia un taller separado para entrenadores y docentes el 28 de noviembre de 2026. Hay un formulario de interés; horario, idioma, tarifa y formato por confirmar.
+Limitaciones: Se anuncia un taller separado para entrenadores y docentes el 28 de noviembre de 2026. Hay un formulario de interés; horario, idioma, tarifa y formato por confirmar.
+Fuente: https://shanghairobotchallenge.com/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -88820,6 +88836,214 @@ Precio: 2026/27 · La ficha indica 129 EUR. No se confirma a qué turno corto o 
 Acceso: Inscripción mediante la cuenta del adulto responsable. Confirmar horario, curso, idioma y plaza para un menor extranjero.
 Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.itschool.fr/cours/stage-ia-ados
+Se ha comprobado: 2026-11-09
+
+### CP2252-20261114-20261219-remaining · Planète Sciences Normandie · Caen · Robotique primaire · Caen Robotics · Primary · 2026-11-14–2026-12-19
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-11-14 — 2026-12-19
+edad: Grupo de primaria CE2, CM1, CM2 del sistema francés.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 95 EUR por las 6 sesiones restantes. La primera clase del 7 de noviembre de 2026 ya pasó y se descuenta del precio. · suplementos y condiciones en el dossier
+Acceso: La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261114-20261114-1114 · Planète Sciences Normandie · Caen · Séances d’essai · Robotique · 2026-11-14–2026-11-14
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-11-14 — 2026-11-14
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261121-20261121-1121 · Planète Sciences Normandie · Caen · Séances d’essai · Astronomie · 2026-11-21–2026-11-21
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-11-21 — 2026-11-21
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261128-20261128-1128 · Planète Sciences Normandie · Caen · Séances d’essai · Programmation · 2026-11-28–2026-11-28
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-11-28 — 2026-11-28
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261205-20261205-1205 · Planète Sciences Normandie · Caen · Séances d’essai · Environnement · 2026-12-05–2026-12-05
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-12-05 — 2026-12-05
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261212-20261212-1212 · Planète Sciences Normandie · Caen · Séances d’essai · Fusée · 2026-12-12–2026-12-12
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-12-12 — 2026-12-12
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2253-20261219-20261219-1219 · Planète Sciences Normandie · Caen · Séances d’essai · Astronomie – planétarium · 2026-12-19–2026-12-19
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2026-12-19 - 2026-12-19
+edad: De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis con reserva previa, hasta 12 plazas por sesión. · suplementos y condiciones en el dossier
+Acceso: Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2254-20270109-20270220-coding · Planète Sciences Normandie · Caen · Cycles primary · Programmation, jeux vidéo & robots · 2027-01-09–2027-02-20
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-01-09 — 2027-02-20
+edad: Grupo de primaria CE2, CM1, CM2 del sistema francés.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2254-20270313-20270417-space · Planète Sciences Normandie · Caen · Cycles primary · Espace & astronomie · 2027-03-13–2027-04-17
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-03-13 — 2027-04-17
+edad: Grupo de primaria CE2, CM1, CM2 del sistema francés.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2254-20270515-20270626-energy · Planète Sciences Normandie · Caen · Cycles primary · Énergies & développement durable · 2027-05-15–2027-06-26
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-05-15 — 2027-06-26
+edad: Grupo de primaria CE2, CM1, CM2 del sistema francés.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2255-20270109-20270220-coding · Planète Sciences Normandie · Caen · Cycles middle · Programmation, jeux vidéo & robots · 2027-01-09–2027-02-20
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-01-09 — 2027-02-20
+edad: Grupo de collège: cursos franceses 6e y 5e.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2255-20270313-20270417-space · Planète Sciences Normandie · Caen · Cycles middle · Espace & astronomie · 2027-03-13–2027-04-17
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-03-13 — 2027-04-17
+edad: Grupo de collège: cursos franceses 6e y 5e.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2255-20270515-20270626-energy · Planète Sciences Normandie · Caen · Cycles middle · Énergies & développement durable · 2027-05-15–2027-06-26
+
+lugar: Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+Fecha: 2027-05-15 — 2027-06-26
+edad: Grupo de collège: cursos franceses 6e y 5e.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10. · suplementos y condiciones en el dossier
+Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

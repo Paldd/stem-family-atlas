@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2251 fichas en 140 países. Las fechas de comprobación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-09. 2258 fichas en 140 países. Las fechas de comprobación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -177981,6 +177981,532 @@ Francia · ITschool · 130 avenue Foch · Saint-Maur-des-Fossés
 - [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-paques/) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.itschool.fr/stage-vacances-ete/) · 2026-11-09
+
+## CP2252 · Planète Sciences Normandie · Caen · Robotique primaire
+
+Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Grupo de primaria CE2, CM1, CM2 del sistema francés.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Construcción y control de robots pequeños, mecánica, motores y primeros montajes.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Sábados del 14 de noviembre al 19 de diciembre de 2026, 09:30–11:00, 6 sesiones.
+
+**Precio / año:** 2026 · 95 EUR por las 6 sesiones restantes. La primera clase del 7 de noviembre de 2026 ya pasó y se descuenta del precio.
+
+**Incluido:** Material y consumibles incluidos. Cursos presenciales sin alojamiento.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Motivo de selección:** Sábados del 14 de noviembre al 19 de diciembre de 2026, 09:30–11:00, 6 sesiones.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar.
+
+### Caen Robotics · Primary
+
+**Fechas / estado:** 2026-11-14 — 2026-12-19
+
+**Precio:** 95 EUR por las 6 sesiones restantes. La primera clase del 7 de noviembre de 2026 ya pasó y se descuenta del precio.
+
+**condiciones de participación:** La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar.
+
+- 2026-11-14 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+- 2026-11-21 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+- 2026-11-28 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+- 2026-12-05 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+- 2026-12-12 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+- 2026-12-19 · 09:30–11:00 · Europe/Paris · Caen Robotics · Primary
+
+**Disponibilidad de plazas:** La organización permite incorporarse al grupo de primaria desde el 14 de noviembre. Confirmar la plaza antes de pagar.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/normandie/site/club-sciences.html) · 2026-11-09
+
+## CP2253 · Planète Sciences Normandie · Caen · Séances d’essai
+
+Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** De CE2 a 5e del sistema francés. Confirmar la equivalencia de curso.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Sesiones separadas: robótica, programación de juegos, cohetes, astronomía y medio ambiente.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** 6 sábados separados del 14 de noviembre al 19 de diciembre de 2026, 11:00–12:30. Se puede elegir la sesión por tema.
+
+**Precio / año:** 2026 · Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**Incluido:** Material y consumibles incluidos. Cursos presenciales sin alojamiento.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Motivo de selección:** 6 sábados separados del 14 de noviembre al 19 de diciembre de 2026, 11:00–12:30. Se puede elegir la sesión por tema.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+### Robotique
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-11-14 · 11:00–12:30 · Europe/Paris · Robotique
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Astronomie
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-11-21 · 11:00–12:30 · Europe/Paris · Astronomie
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Programmation
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-11-28 · 11:00–12:30 · Europe/Paris · Programmation
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Environnement
+
+**Fechas / estado:** 2026-12-05 — 2026-12-05
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-12-05 · 11:00–12:30 · Europe/Paris · Environnement
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Fusée
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-12-12 · 11:00–12:30 · Europe/Paris · Fusée
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Astronomie – planétarium
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**Precio:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+**condiciones de participación:** Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- 2026-12-19 · 11:00–12:30 · Europe/Paris · Astronomie – planétarium
+
+**Disponibilidad de plazas:** Gratis con reserva previa, hasta 12 plazas por sesión.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/normandie/site/club-sciences.html) · 2026-11-09
+
+## CP2254 · Planète Sciences Normandie · Caen · Cycles primary
+
+Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Grupo de primaria CE2, CM1, CM2 del sistema francés.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Tres ciclos sucesivos: juegos, robots e IA, después espacio y luego circuitos eléctricos y energías renovables.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** 2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.
+
+**Precio / año:** 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**Incluido:** Material y consumibles incluidos. Cursos presenciales sin alojamiento.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Puede encajar por nivel. Confirmar el curso francés y el idioma hablado del grupo.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Motivo de selección:** 2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+### Programmation, jeux vidéo & robots
+
+**Fechas / estado:** 2027-01-09 — 2027-02-20
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-01-09 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-16 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-23 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-30 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-06 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-13 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-20 · 09:30–11:00 · Europe/Paris · Programmation, jeux vidéo & robots
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Espace & astronomie
+
+**Fechas / estado:** 2027-03-13 — 2027-04-17
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-03-13 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+- 2027-03-20 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+- 2027-03-27 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+- 2027-04-03 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+- 2027-04-10 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+- 2027-04-17 · 09:30–11:00 · Europe/Paris · Espace & astronomie
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Énergies & développement durable
+
+**Fechas / estado:** 2027-05-15 — 2027-06-26
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-05-15 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-05-22 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-05-29 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-05 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-12 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-19 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-26 · 09:30–11:00 · Europe/Paris · Énergies & développement durable
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/normandie/site/club-sciences.html) · 2026-11-09
+
+## CP2255 · Planète Sciences Normandie · Caen · Cycles middle
+
+Francia · Planète Sciences Normandie · 1 rue Montcalm · 14000 Caen
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Grupo de collège: cursos franceses 6e y 5e.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Tres ciclos sucesivos: juegos, robots e IA, después espacio y luego circuitos eléctricos y energías renovables.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** 2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.
+
+**Precio / año:** 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**Incluido:** Material y consumibles incluidos. Cursos presenciales sin alojamiento.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Motivo de selección:** 2027: 9 de enero – 20 de febrero, 13 de marzo – 17 de abril, 15 de mayo – 26 de junio. Cada ciclo se paga por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+- Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+### Programmation, jeux vidéo & robots
+
+**Fechas / estado:** 2027-01-09 — 2027-02-20
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-01-09 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-16 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-23 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-01-30 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-06 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-13 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+- 2027-02-20 · 11:00–12:30 · Europe/Paris · Programmation, jeux vidéo & robots
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Espace & astronomie
+
+**Fechas / estado:** 2027-03-13 — 2027-04-17
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-03-13 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+- 2027-03-20 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+- 2027-03-27 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+- 2027-04-03 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+- 2027-04-10 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+- 2027-04-17 · 11:00–12:30 · Europe/Paris · Espace & astronomie
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Énergies & développement durable
+
+**Fechas / estado:** 2027-05-15 — 2027-06-26
+
+**Precio:** 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pago, inicio con 8 participantes, máximo 10.
+
+**condiciones de participación:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+- 2027-05-15 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-05-22 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-05-29 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-05 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-12 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-19 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+- 2027-06-26 · 11:00–12:30 · Europe/Paris · Énergies & développement durable
+
+**Disponibilidad de plazas:** Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
+
+[fuente](https://www.planete-sciences.org/normandie/site/club-sciences.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/normandie/site/club-sciences.html) · 2026-11-09
+
+## CP2256 · Planète Sciences AURA · Grenoble · Club robotique
+
+Francia · Grenoble · Planète Sciences AURA
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–16 años según la página del club.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** Semestre de septiembre de 2026 a finales de febrero de 2027. Miércoles, 14:00–16:00, salvo vacaciones y festivos.
+
+**Precio / año:** 2026 · 150 EUR por el semestre 2026/27. Confirmar inscripción vigente, costes adicionales y resto del programa.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** Semestre de septiembre de 2026 a finales de febrero de 2027. Miércoles, 14:00–16:00, salvo vacaciones y festivos.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/aura/animations/individuel/a-grenoble/les-clubs/) · 2026-11-09
+
+## CP2257 · Planète Sciences AURA · Vaulx-en-Velin · Robotique primaire
+
+Francia · Vaulx-en-Velin · Planétarium
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Grupo de primaria de 8–10 años.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** Primer semestre 2026/27. Miércoles, 10:00–12:00, salvo vacaciones escolares.
+
+**Precio / año:** 2026 · 150 EUR por el semestre 2026/27, 140 EUR para residentes de Vaulx-en-Velin. Confirmar plazas en el grupo en marcha.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** Primer semestre 2026/27. Miércoles, 10:00–12:00, salvo vacaciones escolares.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/aura/animations/individuel/a-vaulx-en-velin/les-clubs-vaulx-en-velin/) · 2026-11-09
+
+## CP2258 · Planète Sciences AURA · Vaulx-en-Velin · Robotique collège
+
+Francia · Vaulx-en-Velin · Planétarium
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Grupo de collège de 11–14 años.
+
+**Idioma:** Materiales del programa en francés. Aún no se confirma la enseñanza en inglés o español.
+
+**Programa:** Diseño en equipo de un robot teledirigido, mecánica y programación. Preparación para la clasificatoria del 13 de febrero de 2027.
+
+**Alojamiento:** 2026-12-19
+
+**Fechas / estado:** Primer semestre 2026/27. Miércoles, 14:00–16:00, salvo vacaciones escolares.
+
+**Precio / año:** 2026 · 150 EUR por el semestre 2026/27, 140 EUR para residentes de Vaulx-en-Velin. Confirmar plazas en el grupo en marcha.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Motivo de selección:** Primer semestre 2026/27. Miércoles, 14:00–16:00, salvo vacaciones escolares.
+
+### Antes de solicitar plaza
+
+- Confirmar la equivalencia del curso francés, idioma, admisión de una familia extranjera y plaza libre.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/aura/animations/individuel/a-vaulx-en-velin/les-clubs-vaulx-en-velin/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

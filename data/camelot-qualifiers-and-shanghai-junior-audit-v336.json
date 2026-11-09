@@ -1,0 +1,83 @@
+{
+  "version": 336,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E735",
+    "C5099",
+    "L943",
+    "CP2252-20261114-20261219-remaining",
+    "CP2253-20261114-20261114-1114",
+    "CP2253-20261121-20261121-1121",
+    "CP2253-20261128-20261128-1128",
+    "CP2253-20261205-20261205-1205",
+    "CP2253-20261212-20261212-1212",
+    "CP2253-20261219-20261219-1219",
+    "CP2254-20270109-20270220-coding",
+    "CP2254-20270313-20270417-space",
+    "CP2254-20270515-20270626-energy",
+    "CP2255-20270109-20270220-coding",
+    "CP2255-20270313-20270417-space",
+    "CP2255-20270515-20270626-energy"
+  ],
+  "refreshed_event_ids": [
+    "C919",
+    "C918",
+    "C920",
+    "E153",
+    "C4460",
+    "C3250",
+    "C3263",
+    "C3264",
+    "C3265"
+  ],
+  "new_dossier_ids": [
+    "CP2252",
+    "CP2253",
+    "CP2254",
+    "CP2255",
+    "CP2256",
+    "CP2257",
+    "CP2258"
+  ],
+  "refreshed_league_ids": [
+    "eurobot-junior-fr"
+  ],
+  "france_final": "C920",
+  "idf_visit": "E735",
+  "idf_qualifier": "C919",
+  "belgium_review": "C5099",
+  "shanghai_coach": "L943",
+  "shanghai_junior_ids": [
+    "C3263",
+    "C3264",
+    "C3265"
+  ],
+  "caen_profiles": {
+    "robotics": "CP2252",
+    "trials": "CP2253",
+    "primary": "CP2254",
+    "middle": "CP2255"
+  },
+  "aura_profiles": {
+    "grenoble": "CP2256",
+    "vaulx-primary": "CP2257",
+    "vaulx-middle": "CP2258"
+  },
+  "source_requests": 26,
+  "legacy_overlay_event_ids": [
+    "C919",
+    "C918",
+    "C920",
+    "E153",
+    "C4460",
+    "C3250",
+    "C3263",
+    "C3264",
+    "C3265"
+  ],
+  "legacy_overlay_league_ids": [
+    "eurobot-junior-fr"
+  ]
+}

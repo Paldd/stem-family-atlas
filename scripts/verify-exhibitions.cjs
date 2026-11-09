@@ -14,7 +14,8 @@ for (const locale of ['', 'es']) {
     favoriteIds: new Set(), state: { view: 'exhibitions', compare: new Set() },
     DIRECTIONS: { attributes: blank, chips: blank }, shortTitles: {},
     esc: value => String(value ?? ''), classes: blank, art: blank, icon: blank,
-    dateText: blank, shortDate: blank, visitorBadge: blank, campLanguageBadge: blank,
+    dateText: blank, shortDate: date => date, visitorBadge: blank, campLanguageBadge: blank,
+    addDays: () => '2027-04-18',
     kidChip: blank, campDossierLink: blank,
   });
   vm.runInContext(read('atlas-core.js'), context);
@@ -29,6 +30,14 @@ for (const locale of ['', 'es']) {
   }
   const directory = 'https://example.com/exhibitors';
   assert(context.exhibitionDetails({ ...exhibition, exhibitor_directory_url: directory }).includes(`href="${directory}"`));
+  const day = { date: '2027-04-17', start_time: '11:30', end_time: '18:00', ical_timed: true,
+    start_utc: '2027-04-17T09:30:00Z', end_utc: '2027-04-17T16:00:00Z' };
+  assert(context.exhibitionDetails({ ...exhibition, public_days: ['2027-04-16', day] })
+    .includes('2027-04-16, 2027-04-17 · 11:30–18:00'));
+  const singleDay = { start: day.date, end: day.date, public_days: [day] };
+  assert.deepEqual(Array.from(context.exhibitionCalendarBounds(singleDay)), ['20270417T093000Z', '20270417T160000Z', true]);
+  assert.deepEqual(Array.from(context.exhibitionCalendarBounds({ ...singleDay, public_days: [day.date] })),
+    ['2027-04-17', '2027-04-18', false]);
   const exhibitions = context.window.STEM_DATA.events.filter(event => event.exhibition_tier);
   assert(exhibitions.length > 0);
   for (const event of exhibitions) {
