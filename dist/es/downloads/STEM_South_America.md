@@ -5530,9 +5530,9 @@ Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisi�
 Idioma: Confirmar idioma de entrevistas y jurado en la sede.
 Acceso: El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
 Precio: La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.
-Limitaciones: La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.
+Limitaciones: La inscripción indica el 5 de diciembre de 2026 y la sede American School of Asunción. La agenda conserva el 5 de octubre. Confirmar fecha y horarios con la organización.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E492 · Parque Explora · Temporada de fin de año
 
@@ -8899,6 +8899,32 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · La página muestra 1 800 por el programa y 500 de anticipo no reembolsable, ambos con el símbolo $. Confirmar la moneda en la factura. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés. Oscar: No cumple la edad mínima publicada. Suplementos: Alojamiento, vuelos, comidas y seguro aparte. El fin de semana familiar en Machu Picchu es un extra de pago. Pago: El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
 Fuente: https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027
+Se ha comprobado: 2026-11-08
+
+### CP2129-20261209-20261212-december · Parque Explora · Vacaciones científicas · Diciembre 2026 · 2026-12-09–2026-12-12
+
+Fecha: 2026-12-09 — 2026-12-12
+edad: De 5 a 11 años. No se requieren conocimientos previos.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+Acceso: La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+Precio: 2026/27 · 225000 COP por menor, materiales incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora
+Se ha comprobado: 2026-11-08
+
+### CP2130-20261209-20261212-december · Planetario de Medellín · Vacaciones planetarias · Diciembre 2026 · 2026-12-09–2026-12-12
+
+Fecha: 2026-12-09 — 2026-12-12
+edad: De 8 a 12 años según el programa de diciembre.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+Acceso: La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+Precio: 2026/27 · 238000 COP por menor, materiales incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: Edad inferior al mínimo para este turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias
 Se ha comprobado: 2026-11-08
 
 ### E298 · Brasil Game Show 2027 · public exhibition

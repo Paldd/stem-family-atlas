@@ -27818,7 +27818,7 @@
       "city": "",
       "venue": "Augusto Roa Bastos casi España, Asuncion, 1405, Paraguay",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Даты, площадка и статус сопоставлены с календарём и карточкой VEX Events. Допуск конкретной команды проверяется отдельно.",
       "start": "2026-12-05",
       "end": "2026-12-05",
@@ -27854,7 +27854,7 @@
       "reward": "Места и награды по протоколу турнира. Квоту на следующий уровень проверять по действующим правилам.",
       "priority": "P2 — участие по условиям",
       "action": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
-      "note": "Формат интервью и сдачи инженерной тетради опубликован в карточке. Срок тетради проверять отдельно от регистрации.",
+      "note": "Регистрация указывает 5 декабря 2026 и площадку American School of Asunción. В блоке повестки осталось 5 октября. Дату и почасовое расписание подтвердить у организатора.",
       "themes": [
         "robotics",
         "coding",
@@ -50631,6 +50631,230 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP2129-20261209-20261212-december",
+      "block": "Лагеря",
+      "title": "Parque Explora · Vacaciones científicas · Diciembre 2026 · 2026-12-09–2026-12-12",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "city": "Parque Explora · Medellín",
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "period": "9–12 декабря 2026, ежедневно 08:00–12:00 по Медельину.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–11 лет. Предварительная подготовка не нужна.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.",
+      "gear": "Как животные воспринимают мир. Биология и нейронауки через наблюдения, опыты, книги и печать по ткани.",
+      "language": "Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.",
+      "cost": "2026/27 · 225000 COP за ребёнка, материалы включены. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.; Перед записью сверить допуск, язык и наличие места.",
+      "source": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora",
+      "references": [
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora/ficha-tecnica",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места. Оскар: Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места. Доплаты: Полный счёт и условия возврата уточнить у организатора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "COL"
+      ],
+      "themes": [
+        "science",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "parque-explora-medellin-vacaciones-cientificas",
+      "camp_programme_id": "CP2129",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T13:00:00Z",
+          "end_utc": "2026-12-09T17:00:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T13:00:00Z",
+          "end_utc": "2026-12-10T17:00:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T13:00:00Z",
+          "end_utc": "2026-12-11T17:00:00Z"
+        },
+        {
+          "date": "2026-12-12",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T13:00:00Z",
+          "end_utc": "2026-12-12T17:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.",
+        "checked": "2026-11-08"
+      }
+    },
+    {
+      "id": "CP2130-20261209-20261212-december",
+      "block": "Лагеря",
+      "title": "Planetario de Medellín · Vacaciones planetarias · Diciembre 2026 · 2026-12-09–2026-12-12",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "city": "Laboratorio Planetario y Domo · Medellín",
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "period": "9–12 декабря 2026, ежедневно 17:00–19:00 по Медельину.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12 лет по декабрьской программе.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.",
+      "gear": "Наблюдение неба, карты созвездий, модельные путешествия по Солнечной системе и дневник наблюдений.",
+      "language": "Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.",
+      "cost": "2026/27 · 238000 COP за ребёнка, материалы включены. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.; Перед записью сверить допуск, язык и наличие места.",
+      "source": "https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias",
+      "references": [
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места. Оскар: Возраст ниже минимума для этой смены. Доплаты: Полный счёт и условия возврата уточнить у организатора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "COL"
+      ],
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "planetario-medellin-vacaciones-planetarias",
+      "camp_programme_id": "CP2130",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T22:00:00Z",
+          "end_utc": "2026-12-10T00:00:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T22:00:00Z",
+          "end_utc": "2026-12-11T00:00:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T22:00:00Z",
+          "end_utc": "2026-12-12T00:00:00Z"
+        },
+        {
+          "date": "2026-12-12",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T22:00:00Z",
+          "end_utc": "2026-12-13T00:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.",
+        "checked": "2026-11-08"
       }
     },
     {

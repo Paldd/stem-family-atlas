@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5355,
-      "holiday": 4841,
+      "records": 5358,
+      "holiday": 4844,
       "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -41584,11 +41584,11 @@
       "city": "San José",
       "start": "",
       "end": "",
-      "period": "Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.",
+      "period": "17 grupos en diciembre de 2026 y enero de 2027. Fechas y horarios de cada curso en las fichas vinculadas.",
       "deadline": "",
       "date_status": "Anunciado",
       "checked": "2026-11-08",
-      "source": "https://fod.ac.cr/",
+      "source": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
       "references": [
         {
           "url": "https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/",
@@ -41597,28 +41597,32 @@
         {
           "url": "https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/",
           "label": "Información sobre el programa comunicada por la fundación."
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Cotejado con la página oficial y las condiciones publicadas.",
       "status": "Idea",
-      "age": "6–16 años para el programa general. Confirmar edades de cada grupo.",
+      "age": "De 6 a 16 años en el programa. Cada curso tiene su propia franja de edad.",
       "mat": "Condicional. Cumple por edad. Confirmar idioma y plaza.",
       "osc": "Condicional. Cumple por edad. Confirmar idioma y plaza.",
       "format": "Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.",
-      "entry": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
+      "entry": "Elegir curso en el formulario de la fundación. El formulario prevé cédula, pasaporte o DIMEX. Confirmar idioma, nivel del grupo y plazas disponibles.",
       "gear": "",
-      "language": "Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.",
+      "language": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
       "languages": [
         "ES"
       ],
       "language_mode": "materials",
-      "language_certainty": "Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.",
-      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "cost": "60000 CRC por menor y curso, con impuesto. Para dos menores con un curso cada uno, 120000 CRC.",
       "level": "Etapa regional",
       "reward": "",
       "priority": "P1 — inicio local para la familia",
-      "action": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
-      "note": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
+      "action": "Elegir curso en el formulario de la fundación. El formulario prevé cédula, pasaporte o DIMEX. Confirmar idioma, nivel del grupo y plazas disponibles.",
+      "note": "Panorama del programa. Hay dos grupos paralelos de robótica del 7 al 11 de diciembre de 2026 y del 11 al 15 de enero de 2027 de 08:00 a 12:00. Cada menor debe confirmar su plaza por separado.",
       "themes": [
         "robotics",
         "coding",
@@ -41637,7 +41641,31 @@
         "2027-01"
       ],
       "camp_programme_id": "CP2024",
-      "camp_dossier_slug": "fod-lideres-futuro-vacaciones-2026-27"
+      "camp_dossier_slug": "fod-lideres-futuro-vacaciones-2026-27",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "CP1124-20261207-20261211",
+        "CP1124-20270111-20270115",
+        "CP1124-20270125-20270129",
+        "CP1125-20270118-20270122",
+        "CP1126-20270125-20270129",
+        "CP1127-20261207-20261211",
+        "CP1127-20270111-20270115",
+        "CP1128-20270118-20270122",
+        "CP1129-20270125-20270129",
+        "CP1130-20270111-20270115",
+        "CP1131-20270118-20270122",
+        "CP1132-20261207-20261211",
+        "CP1132-20270111-20270115",
+        "CP1132-20270118-20270122",
+        "CP1133-20270125-20270129",
+        "CP1134-20270118-20270122",
+        "CP1135-20270125-20270129"
+      ]
     },
     {
       "id": "L799",
@@ -47678,6 +47706,61 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "L891",
+      "title": "Creadores Papalote · Laboratorio de Ideas",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Papalote Museo del Niño · Chapultepec · Ciudad de México",
+      "start": "",
+      "end": "",
+      "period": "Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://eventos.papalote.org.mx/creadores-papalote",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Desde 6 años. Hasta 10 participantes por sesión.",
+      "mat": "La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.",
+      "osc": "La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.",
+      "format": "Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.",
+      "entry": "Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.",
+      "gear": "",
+      "language": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "cost": "Los talleres se anuncian gratuitos. Confirmar entrada al museo y disponibilidad de la sesión.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Los talleres se anuncian gratuitos. Confirmar entrada al museo y disponibilidad de la sesión.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "creadores-papalote-laboratorio-de-ideas",
+      "camp_programme_id": "CP2131"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -213043,7 +213126,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213152,7 +213235,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213479,7 +213562,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213588,7 +213671,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213697,7 +213780,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213806,7 +213889,7 @@
         }
       ],
       "proof": "La opción del curso indica 18–22 de enero. El año 2027 procede del encabezado de temporada del organizador.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -213915,7 +213998,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -214024,7 +214107,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -214133,7 +214216,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -214242,7 +214325,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -214351,7 +214434,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -214460,7 +214543,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -444166,6 +444249,230 @@
         "label": "Aún no hay confirmación de plaza en el grupo."
       },
       "date_rule": "Las ventanas publicadas incluyen días de fin de semana. La tabla general indica lunes a viernes. Confirmar los días lectivos exactos."
+    },
+    {
+      "id": "CP2129-20261209-20261212-december",
+      "block": "Campamentos",
+      "title": "Parque Explora · Vacaciones científicas · Diciembre 2026 · 2026-12-09–2026-12-12",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "city": "Parque Explora · Medellín",
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "period": "Del 9 al 12 de diciembre de 2026, cada día de 08:00 a 12:00 en Medellín.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 5 a 11 años. No se requieren conocimientos previos.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.",
+      "gear": "Cómo perciben el mundo los animales. Biología y neurociencia con observación, experimentos, libros y estampado.",
+      "language": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "cost": "2026/27 · 225000 COP por menor, materiales incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.; Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "source": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora",
+      "references": [
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora/ficha-tecnica",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "COL"
+      ],
+      "themes": [
+        "science",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "parque-explora-medellin-vacaciones-cientificas",
+      "camp_programme_id": "CP2129",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T13:00:00Z",
+          "end_utc": "2026-12-09T17:00:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T13:00:00Z",
+          "end_utc": "2026-12-10T17:00:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T13:00:00Z",
+          "end_utc": "2026-12-11T17:00:00Z"
+        },
+        {
+          "date": "2026-12-12",
+          "topic": "Parque Explora · Vacaciones científicas",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T13:00:00Z",
+          "end_utc": "2026-12-12T17:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.",
+        "checked": "2026-11-08"
+      }
+    },
+    {
+      "id": "CP2130-20261209-20261212-december",
+      "block": "Campamentos",
+      "title": "Planetario de Medellín · Vacaciones planetarias · Diciembre 2026 · 2026-12-09–2026-12-12",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "city": "Laboratorio Planetario y Domo · Medellín",
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "period": "Del 9 al 12 de diciembre de 2026, cada día de 17:00 a 19:00 en Medellín.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 8 a 12 años según el programa de diciembre.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.",
+      "gear": "Observación del cielo, mapas de constelaciones, recorridos simulados por el sistema solar y bitácora de observación.",
+      "language": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "cost": "2026/27 · 238000 COP por menor, materiales incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.; Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "source": "https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias",
+      "references": [
+        {
+          "url": "https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad. Oscar: Edad inferior al mínimo para este turno. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "COL"
+      ],
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "planetario-medellin-vacaciones-planetarias",
+      "camp_programme_id": "CP2130",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T22:00:00Z",
+          "end_utc": "2026-12-10T00:00:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T22:00:00Z",
+          "end_utc": "2026-12-11T00:00:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T22:00:00Z",
+          "end_utc": "2026-12-12T00:00:00Z"
+        },
+        {
+          "date": "2026-12-12",
+          "topic": "Planetario de Medellín · Vacaciones planetarias",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "timezone": "America/Bogota",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T22:00:00Z",
+          "end_utc": "2026-12-13T00:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.",
+        "checked": "2026-11-08"
+      }
     },
     {
       "id": "L491",

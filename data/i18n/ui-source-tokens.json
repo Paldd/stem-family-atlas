@@ -1,6 +1,6 @@
 {
   "assets/app.js": {
-    "sha256": "95196329543c8791bff794ee6787486a9d115192f59f22e7f8a282f650750039",
+    "sha256": "82415264478f38ba4c6d1ed70b8a6581f92d1ab815df6a6171266879d444f495",
     "tokens": [
       {
         "start": 3401,
@@ -1683,876 +1683,883 @@
         "type": "template"
       },
       {
-        "start": 33795,
-        "end": 33803,
+        "start": 33700,
+        "end": 33720,
+        "raw": "'Связанные карточки'",
+        "value": "Связанные карточки",
+        "type": "literal"
+      },
+      {
+        "start": 34393,
+        "end": 34401,
         "raw": "'Матвей'",
         "value": "Матвей",
         "type": "literal"
       },
       {
-        "start": 33823,
-        "end": 33830,
+        "start": 34421,
+        "end": 34428,
         "raw": "'Оскар'",
         "value": "Оскар",
         "type": "literal"
       },
       {
-        "start": 33832,
-        "end": 33934,
+        "start": 34430,
+        "end": 34532,
         "raw": "</div></header><div class=\"dialog-body\"><div class=\"dialog-data\"><div><label>ДАТА И ДЕДЛАЙН</label><p>",
         "value": "</div></header><div class=\"dialog-body\"><div class=\"dialog-data\"><div><label>ДАТА И ДЕДЛАЙН</label><p>",
         "type": "template"
       },
       {
-        "start": 34101,
-        "end": 34110,
+        "start": 34699,
+        "end": 34708,
         "raw": "'Дедлайн'",
         "value": "Дедлайн",
         "type": "literal"
       },
       {
-        "start": 34191,
-        "end": 34241,
+        "start": 34789,
+        "end": 34839,
         "raw": "</p></div><div><label>ВОЗРАСТ И КОМАНДА</label><p>",
         "value": "</p></div><div><label>ВОЗРАСТ И КОМАНДА</label><p>",
         "type": "template"
       },
       {
-        "start": 34274,
-        "end": 34314,
+        "start": 34872,
+        "end": 34912,
         "raw": "</p></div><div><label>ТЕХНИКА</label><p>",
         "value": "</p></div><div><label>ТЕХНИКА</label><p>",
         "type": "template"
       },
       {
-        "start": 34328,
-        "end": 34377,
+        "start": 34926,
+        "end": 34975,
         "raw": "</p></div><div><label>ЯЗЫК И СТОИМОСТЬ</label><p>",
         "value": "</p></div><div><label>ЯЗЫК И СТОИМОСТЬ</label><p>",
         "type": "template"
       },
       {
-        "start": 34499,
-        "end": 34545,
+        "start": 35097,
+        "end": 35143,
         "raw": "<div class=\"dialog-block\"><h3>Как попасть</h3>",
         "value": "<div class=\"dialog-block\"><h3>Как попасть</h3>",
         "type": "template"
       },
       {
-        "start": 34655,
-        "end": 34715,
+        "start": 35253,
+        "end": 35313,
         "raw": "</p></div><div class=\"dialog-next\"><h3>Следующий шаг</h3><p>",
         "value": "</p></div><div class=\"dialog-next\"><h3>Следующий шаг</h3><p>",
         "type": "template"
       },
       {
-        "start": 34731,
-        "end": 34798,
+        "start": 35329,
+        "end": 35396,
         "raw": "</p></div><div class=\"dialog-block\"><h3>Масштаб и приоритет</h3><p>",
         "value": "</p></div><div class=\"dialog-block\"><h3>Масштаб и приоритет</h3><p>",
         "type": "template"
       },
       {
-        "start": 34878,
-        "end": 34939,
+        "start": 35476,
+        "end": 35537,
         "raw": "</p></div><div class=\"dialog-block\"><h3>Тема и формат</h3><p>",
         "value": "</p></div><div class=\"dialog-block\"><h3>Тема и формат</h3><p>",
         "type": "template"
       },
       {
-        "start": 35047,
-        "end": 35111,
+        "start": 35645,
+        "end": 35709,
         "raw": "</p></div><div class=\"dialog-block\"><h3>Что даст участие</h3><p>",
         "value": "</p></div><div class=\"dialog-block\"><h3>Что даст участие</h3><p>",
         "type": "template"
       },
       {
-        "start": 35146,
-        "end": 35211,
+        "start": 35744,
+        "end": 35809,
         "raw": "</p></div><div class=\"dialog-block\"><h3>Что ещё проверить</h3><p>",
         "value": "</p></div><div class=\"dialog-block\"><h3>Что ещё проверить</h3><p>",
         "type": "template"
       },
       {
-        "start": 35257,
-        "end": 35315,
+        "start": 35855,
+        "end": 35913,
         "raw": "</p></div><div class=\"proof-line\"><b>Основание проверки · ",
         "value": "</p></div><div class=\"proof-line\"><b>Основание проверки · ",
         "type": "template"
       },
       {
-        "start": 35422,
-        "end": 35434,
+        "start": 36020,
+        "end": 36032,
         "raw": "<br>Матвей: ",
         "value": "<br>Матвей: ",
         "type": "template"
       },
       {
-        "start": 35447,
-        "end": 35456,
+        "start": 36045,
+        "end": 36054,
         "raw": ". Оскар: ",
         "value": ". Оскар: ",
         "type": "template"
       },
       {
-        "start": 35469,
-        "end": 35504,
+        "start": 36067,
+        "end": 36102,
         "raw": ".<br>Состояние по исходным данным: ",
         "value": ".<br>Состояние по исходным данным: ",
         "type": "template"
       },
       {
-        "start": 35520,
-        "end": 35573,
+        "start": 36118,
+        "end": 36171,
         "raw": ". Сохранение в планы не изменяет статус заявки.</div>",
         "value": ". Сохранение в планы не изменяет статус заявки.</div>",
         "type": "template"
       },
       {
-        "start": 35597,
-        "end": 35692,
+        "start": 36195,
+        "end": 36290,
         "raw": "<div class=\"dialog-block\"><h3>Регламенты и связанные источники</h3><ul class=\"reference-links\">",
         "value": "<div class=\"dialog-block\"><h3>Регламенты и связанные источники</h3><ul class=\"reference-links\">",
         "type": "template"
       },
       {
-        "start": 35963,
-        "end": 36017,
+        "start": 36584,
+        "end": 36638,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Официальная страница ",
         "value": "\" target=\"_blank\" rel=\"noopener\">Официальная страница ",
         "type": "template"
       },
       {
-        "start": 36136,
-        "end": 36154,
+        "start": 36757,
+        "end": 36775,
         "raw": "'Убрать из планов'",
         "value": "Убрать из планов",
         "type": "literal"
       },
       {
-        "start": 36155,
-        "end": 36170,
+        "start": 36776,
+        "end": 36791,
         "raw": "'В планы семьи'",
         "value": "В планы семьи",
         "type": "literal"
       },
       {
-        "start": 36346,
-        "end": 36379,
+        "start": 36967,
+        "end": 37000,
         "raw": "'Даты выставки · допуск отдельно'",
         "value": "Даты выставки · допуск отдельно",
         "type": "literal"
       },
       {
-        "start": 36380,
-        "end": 36402,
+        "start": 37001,
+        "end": 37023,
         "raw": "'Скачать даты / сроки'",
         "value": "Скачать даты / сроки",
         "type": "literal"
       },
       {
-        "start": 36846,
-        "end": 36853,
+        "start": 37571,
+        "end": 37578,
         "raw": "'Когда'",
         "value": "Когда",
         "type": "literal"
       },
       {
-        "start": 36863,
-        "end": 36880,
+        "start": 37588,
+        "end": 37605,
         "raw": "'Возраст / класс'",
         "value": "Возраст / класс",
         "type": "literal"
       },
       {
-        "start": 36889,
-        "end": 36897,
+        "start": 37614,
+        "end": 37622,
         "raw": "'Матвей'",
         "value": "Матвей",
         "type": "literal"
       },
       {
-        "start": 36906,
-        "end": 36913,
+        "start": 37631,
+        "end": 37638,
         "raw": "'Оскар'",
         "value": "Оскар",
         "type": "literal"
       },
       {
-        "start": 36922,
-        "end": 36931,
+        "start": 37647,
+        "end": 37656,
         "raw": "'Команда'",
         "value": "Команда",
         "type": "literal"
       },
       {
-        "start": 36943,
-        "end": 36955,
+        "start": 37668,
+        "end": 37680,
         "raw": "'Путь входа'",
         "value": "Путь входа",
         "type": "literal"
       },
       {
-        "start": 36966,
-        "end": 36975,
+        "start": 37691,
+        "end": 37700,
         "raw": "'Техника'",
         "value": "Техника",
         "type": "literal"
       },
       {
-        "start": 36985,
-        "end": 36991,
+        "start": 37710,
+        "end": 37716,
         "raw": "'Язык'",
         "value": "Язык",
         "type": "literal"
       },
       {
-        "start": 37005,
-        "end": 37016,
+        "start": 37730,
+        "end": 37741,
         "raw": "'Стоимость'",
         "value": "Стоимость",
         "type": "literal"
       },
       {
-        "start": 37026,
-        "end": 37037,
+        "start": 37751,
+        "end": 37762,
         "raw": "'Результат'",
         "value": "Результат",
         "type": "literal"
       },
       {
-        "start": 37049,
-        "end": 37064,
+        "start": 37774,
+        "end": 37789,
         "raw": "'Следующий шаг'",
         "value": "Следующий шаг",
         "type": "literal"
       },
       {
-        "start": 37417,
-        "end": 37492,
+        "start": 38142,
+        "end": 38217,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Официальный источник ↗</a></div></article>",
         "value": "\" target=\"_blank\" rel=\"noopener\">Официальный источник ↗</a></div></article>",
         "type": "template"
       },
       {
-        "start": 37903,
-        "end": 37917,
+        "start": 38628,
+        "end": 38642,
         "raw": "'Анонсировано'",
         "value": "Анонсировано",
         "type": "literal"
       },
       {
-        "start": 37918,
-        "end": 37950,
+        "start": 38643,
+        "end": 38675,
         "raw": "'Анонс · проведение уточнить · '",
         "value": "Анонс · проведение уточнить · ",
         "type": "literal"
       },
       {
-        "start": 37981,
-        "end": 38012,
+        "start": 38706,
+        "end": 38737,
         "raw": "'Виртуальная защита проектов: '",
         "value": "Виртуальная защита проектов: ",
         "type": "literal"
       },
       {
-        "start": 38048,
-        "end": 38077,
+        "start": 38773,
+        "end": 38802,
         "raw": "'Окно прохождения конкурса: '",
         "value": "Окно прохождения конкурса: ",
         "type": "literal"
       },
       {
-        "start": 38113,
-        "end": 38140,
+        "start": 38838,
+        "end": 38865,
         "raw": "'Окно подачи результатов: '",
         "value": "Окно подачи результатов: ",
         "type": "literal"
       },
       {
-        "start": 38165,
-        "end": 38180,
+        "start": 38890,
+        "end": 38905,
         "raw": "'Период лиги: '",
         "value": "Период лиги: ",
         "type": "literal"
       },
       {
-        "start": 38218,
-        "end": 38250,
+        "start": 38943,
+        "end": 38975,
         "raw": "'Окно · один назначенный день: '",
         "value": "Окно · один назначенный день: ",
         "type": "literal"
       },
       {
-        "start": 38284,
-        "end": 38303,
+        "start": 39009,
+        "end": 39028,
         "raw": "'Дни мероприятия: '",
         "value": "Дни мероприятия: ",
         "type": "literal"
       },
       {
-        "start": 38438,
-        "end": 38447,
+        "start": 39163,
+        "end": 39172,
         "raw": "'Дедлайн'",
         "value": "Дедлайн",
         "type": "literal"
       },
       {
-        "start": 38613,
-        "end": 38635,
+        "start": 39338,
+        "end": 39360,
         "raw": "'Проверить форму LUVÁ'",
         "value": "Проверить форму LUVÁ",
         "type": "literal"
       },
       {
-        "start": 39537,
-        "end": 39578,
+        "start": 40262,
+        "end": 40303,
         "raw": " событий\"><span class=\"day-number\"><span>",
         "value": " событий\"><span class=\"day-number\"><span>",
         "type": "template"
       },
       {
-        "start": 39842,
-        "end": 39869,
+        "start": 40567,
+        "end": 40594,
         "raw": "' · Срок заявки / проверки'",
         "value": " · Срок заявки / проверки",
         "type": "literal"
       },
       {
-        "start": 39957,
-        "end": 39984,
+        "start": 40682,
+        "end": 40709,
         "raw": "<span class=\"more-day\">Ещё ",
         "value": "<span class=\"more-day\">Ещё ",
         "type": "template"
       },
       {
-        "start": 40491,
-        "end": 40514,
+        "start": 41216,
+        "end": 41239,
         "raw": "' · дедлайн / проверка'",
         "value": " · дедлайн / проверка",
         "type": "literal"
       },
       {
-        "start": 40611,
-        "end": 40625,
+        "start": 41336,
+        "end": 41350,
         "raw": "'Соревнования'",
         "value": "Соревнования",
         "type": "literal"
       },
       {
-        "start": 40652,
-        "end": 40661,
+        "start": 41377,
+        "end": 41386,
         "raw": "'События'",
         "value": "События",
         "type": "literal"
       },
       {
-        "start": 40730,
-        "end": 40798,
+        "start": 41455,
+        "end": 41523,
         "raw": "'<p class=\"inline-note\">Точных событий в выбранном периоде нет.</p>'",
         "value": "<p class=\"inline-note\">Точных событий в выбранном периоде нет.</p>",
         "type": "literal"
       },
       {
-        "start": 40835,
-        "end": 40839,
+        "start": 41560,
+        "end": 41564,
         "raw": "Ещё ",
         "value": "Ещё ",
         "type": "template"
       },
       {
-        "start": 40870,
-        "end": 40976,
+        "start": 41595,
+        "end": 41701,
         "raw": " возможностей ждут точного анонса. Их можно изучить в каталоге; придуманные даты в календарь не добавлены.",
         "value": " возможностей ждут точного анонса. Их можно изучить в каталоге; придуманные даты в календарь не добавлены.",
         "type": "template"
       },
       {
-        "start": 43306,
-        "end": 43315,
+        "start": 44031,
+        "end": 44040,
         "raw": " карточек",
         "value": " карточек",
         "type": "template"
       },
       {
-        "start": 43462,
-        "end": 43471,
+        "start": 44187,
+        "end": 44196,
         "raw": " карточек",
         "value": " карточек",
         "type": "template"
       },
       {
-        "start": 44939,
-        "end": 44970,
+        "start": 45664,
+        "end": 45695,
         "raw": "</p><small>Проверка источника: ",
         "value": "</p><small>Проверка источника: ",
         "type": "template"
       },
       {
-        "start": 45200,
-        "end": 45247,
+        "start": 45925,
+        "end": 45972,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Сайт партнёра ",
         "value": "\" target=\"_blank\" rel=\"noopener\">Сайт партнёра ",
         "type": "template"
       },
       {
-        "start": 45269,
-        "end": 45312,
+        "start": 45994,
+        "end": 46037,
         "raw": "'<span>Сайт партнёра не подтверждён</span>'",
         "value": "<span>Сайт партнёра не подтверждён</span>",
         "type": "literal"
       },
       {
-        "start": 45446,
-        "end": 45469,
+        "start": 46171,
+        "end": 46194,
         "raw": "'Источник организатора'",
         "value": "Источник организатора",
         "type": "literal"
       },
       {
-        "start": 45470,
-        "end": 45494,
+        "start": 46195,
+        "end": 46219,
         "raw": "'Официальный справочник'",
         "value": "Официальный справочник",
         "type": "literal"
       },
       {
-        "start": 45554,
-        "end": 45701,
+        "start": 46279,
+        "end": 46426,
         "raw": "<section class=\"national-routes\" aria-label=\"Маршруты участия по стране\"><div class=\"national-route-heading\"><h3>Через кого войти в лигу</h3><span>",
         "value": "<section class=\"national-routes\" aria-label=\"Маршруты участия по стране\"><div class=\"national-route-heading\"><h3>Через кого войти в лигу</h3><span>",
         "type": "template"
       },
       {
-        "start": 45717,
-        "end": 45778,
+        "start": 46442,
+        "end": 46503,
         "raw": " · контакты сетей</span></div><p class=\"national-route-gate\">",
         "value": " · контакты сетей</span></div><p class=\"national-route-gate\">",
         "type": "template"
       },
       {
-        "start": 46365,
-        "end": 46527,
+        "start": 47090,
+        "end": 47252,
         "raw": " <a href=\"https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/\" target=\"_blank\" rel=\"noopener\">Источник WRO</a></p>",
         "value": " <a href=\"https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/\" target=\"_blank\" rel=\"noopener\">Источник WRO</a></p>",
         "type": "template"
       },
       {
-        "start": 46532,
-        "end": 46671,
+        "start": 47257,
+        "end": 47396,
         "raw": "<details class=\"national-route-guide\"><summary>Как пройти путь от команды к международному участию</summary><div class=\"national-pathways\">",
         "value": "<details class=\"national-route-guide\"><summary>Как пройти путь от команды к международному участию</summary><div class=\"national-pathways\">",
         "type": "template"
       },
       {
-        "start": 46832,
-        "end": 46882,
+        "start": 47557,
+        "end": 47607,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Правила маршрута ",
         "value": "\" target=\"_blank\" rel=\"noopener\">Правила маршрута ",
         "type": "template"
       },
       {
-        "start": 47136,
-        "end": 47202,
+        "start": 47861,
+        "end": 47927,
         "raw": "<a href=\"downloads/STEM_national_routes.csv\">Скачать контакты CSV ",
         "value": "<a href=\"downloads/STEM_national_routes.csv\">Скачать контакты CSV ",
         "type": "template"
       },
       {
-        "start": 47615,
-        "end": 47643,
+        "start": 48340,
+        "end": 48368,
         "raw": "' карточек в исследовании. '",
         "value": " карточек в исследовании. ",
         "type": "literal"
       },
       {
-        "start": 47644,
-        "end": 47693,
+        "start": 48369,
+        "end": 48418,
         "raw": "'Конкретные местные события ещё не исследованы. '",
         "value": "Конкретные местные события ещё не исследованы. ",
         "type": "literal"
       },
       {
-        "start": 47694,
-        "end": 47739,
+        "start": 48419,
+        "end": 48464,
         "raw": "</p><p class=\"coverage-detail\">Соревнования: ",
         "value": "</p><p class=\"coverage-detail\">Соревнования: ",
         "type": "template"
       },
       {
-        "start": 47767,
-        "end": 47780,
+        "start": 48492,
+        "end": 48505,
         "raw": " · Выставки: ",
         "value": " · Выставки: ",
         "type": "template"
       },
       {
-        "start": 47807,
-        "end": 47827,
+        "start": 48532,
+        "end": 48552,
         "raw": " · Лагеря/обучение: ",
         "value": " · Лагеря/обучение: ",
         "type": "template"
       },
       {
-        "start": 47883,
-        "end": 47910,
+        "start": 48608,
+        "end": 48635,
         "raw": "'Исследование продолжается'",
         "value": "Исследование продолжается",
         "type": "literal"
       },
       {
-        "start": 47930,
-        "end": 48003,
+        "start": 48655,
+        "end": 48728,
         "raw": "'<button class=\"button primary\" data-view=\"explore\">События этой страны '",
         "value": "<button class=\"button primary\" data-view=\"explore\">События этой страны ",
         "type": "literal"
       },
       {
-        "start": 48742,
-        "end": 48753,
+        "start": 49467,
+        "end": 49478,
         "raw": "' карточек'",
         "value": " карточек",
         "type": "literal"
       },
       {
-        "start": 48754,
-        "end": 48787,
+        "start": 49479,
+        "end": 49512,
         "raw": "'местный календарь не исследован'",
         "value": "местный календарь не исследован",
         "type": "literal"
       },
       {
-        "start": 48801,
-        "end": 48852,
+        "start": 49526,
+        "end": 49577,
         "raw": "<small class=\"country-route-count\">Контакты сетей: ",
         "value": "<small class=\"country-route-count\">Контакты сетей: ",
         "type": "template"
       },
       {
-        "start": 48924,
-        "end": 49015,
+        "start": 49649,
+        "end": 49740,
         "raw": "'<p class=\"inline-note\">Страна или организатор не найдены. Попробуйте другое название.</p>'",
         "value": "<p class=\"inline-note\">Страна или организатор не найдены. Попробуйте другое название.</p>",
         "type": "literal"
       },
       {
-        "start": 49186,
-        "end": 49202,
+        "start": 49911,
+        "end": 49927,
         "raw": "Контакты сетей: ",
         "value": "Контакты сетей: ",
         "type": "template"
       },
       {
-        "start": 49214,
-        "end": 49238,
+        "start": 49939,
+        "end": 49963,
         "raw": " · Страны и территории: ",
         "value": " · Страны и территории: ",
         "type": "template"
       },
       {
-        "start": 49253,
-        "end": 49299,
+        "start": 49978,
+        "end": 50024,
         "raw": ". Организаторы и события учитываются отдельно.",
         "value": ". Организаторы и события учитываются отдельно.",
         "type": "template"
       },
       {
-        "start": 49769,
-        "end": 49839,
+        "start": 50494,
+        "end": 50564,
         "raw": "'В выборе нет подходящих карточек с указанными датами или дедлайнами.'",
         "value": "В выборе нет подходящих карточек с указанными датами или дедлайнами.",
         "type": "literal"
       },
       {
-        "start": 50021,
-        "end": 50056,
+        "start": 50746,
+        "end": 50781,
         "raw": "'выставки, детский допуск отдельно'",
         "value": "выставки, детский допуск отдельно",
         "type": "literal"
       },
       {
-        "start": 50057,
-        "end": 50070,
+        "start": 50782,
+        "end": 50795,
         "raw": "'планы семьи'",
         "value": "планы семьи",
         "type": "literal"
       },
       {
-        "start": 50577,
-        "end": 50616,
+        "start": 51302,
+        "end": 51341,
         "raw": "Идея, не принятая регистрация. Матвей: ",
         "value": "Идея, не принятая регистрация. Матвей: ",
         "type": "template"
       },
       {
-        "start": 50624,
-        "end": 50633,
+        "start": 51349,
+        "end": 51358,
         "raw": "; Оскар: ",
         "value": "; Оскар: ",
         "type": "template"
       },
       {
-        "start": 50641,
-        "end": 50656,
+        "start": 51366,
+        "end": 51381,
         "raw": ". Как попасть: ",
         "value": ". Как попасть: ",
         "type": "template"
       },
       {
-        "start": 50686,
-        "end": 50698,
+        "start": 51411,
+        "end": 51423,
         "raw": "'Выставка: '",
         "value": "Выставка: ",
         "type": "literal"
       },
       {
-        "start": 50721,
-        "end": 50739,
+        "start": 51446,
+        "end": 51464,
         "raw": "' Взрослый вход: '",
         "value": " Взрослый вход: ",
         "type": "literal"
       },
       {
-        "start": 50757,
-        "end": 50774,
+        "start": 51482,
+        "end": 51499,
         "raw": ". Следующий шаг: ",
         "value": ". Следующий шаг: ",
         "type": "template"
       },
       {
-        "start": 50850,
-        "end": 50870,
+        "start": 51575,
+        "end": 51595,
         "raw": ". Источник проверен ",
         "value": ". Источник проверен ",
         "type": "template"
       },
       {
-        "start": 51616,
-        "end": 51633,
+        "start": 52341,
+        "end": 52358,
         "raw": "'[Учебный день] '",
         "value": "[Учебный день] ",
         "type": "literal"
       },
       {
-        "start": 51724,
-        "end": 51741,
+        "start": 52449,
+        "end": 52466,
         "raw": "'[Учебный день] '",
         "value": "[Учебный день] ",
         "type": "literal"
       },
       {
-        "start": 51857,
-        "end": 51871,
+        "start": 52582,
+        "end": 52596,
         "raw": "'Анонсировано'",
         "value": "Анонсировано",
         "type": "literal"
       },
       {
-        "start": 51872,
-        "end": 51904,
+        "start": 52597,
+        "end": 52629,
         "raw": "'[Анонс · проведение уточнить] '",
         "value": "[Анонс · проведение уточнить] ",
         "type": "literal"
       },
       {
-        "start": 51926,
-        "end": 51940,
+        "start": 52651,
+        "end": 52665,
         "raw": "'[Выставка · '",
         "value": "[Выставка · ",
         "type": "literal"
       },
       {
-        "start": 51975,
-        "end": 51989,
+        "start": 52700,
+        "end": 52714,
         "raw": "'детям нельзя'",
         "value": "детям нельзя",
         "type": "literal"
       },
       {
-        "start": 52018,
-        "end": 52036,
+        "start": 52743,
+        "end": 52761,
         "raw": "'семейный вариант'",
         "value": "семейный вариант",
         "type": "literal"
       },
       {
-        "start": 52037,
-        "end": 52062,
+        "start": 52762,
+        "end": 52787,
         "raw": "'детский допуск уточнить'",
         "value": "детский допуск уточнить",
         "type": "literal"
       },
       {
-        "start": 52104,
-        "end": 52130,
+        "start": 52829,
+        "end": 52855,
         "raw": "'[Публикация материалов] '",
         "value": "[Публикация материалов] ",
         "type": "literal"
       },
       {
-        "start": 52166,
-        "end": 52191,
+        "start": 52891,
+        "end": 52916,
         "raw": "'[Открытие регистрации] '",
         "value": "[Открытие регистрации] ",
         "type": "literal"
       },
       {
-        "start": 52225,
-        "end": 52254,
+        "start": 52950,
+        "end": 52979,
         "raw": "'[Открытие подачи проектов] '",
         "value": "[Открытие подачи проектов] ",
         "type": "literal"
       },
       {
-        "start": 52280,
-        "end": 52303,
+        "start": 53005,
+        "end": 53028,
         "raw": "'[Виртуальная защита] '",
         "value": "[Виртуальная защита] ",
         "type": "literal"
       },
       {
-        "start": 52339,
-        "end": 52369,
+        "start": 53064,
+        "end": 53094,
         "raw": "'[Окно прохождения конкурса] '",
         "value": "[Окно прохождения конкурса] ",
         "type": "literal"
       },
       {
-        "start": 52405,
-        "end": 52433,
+        "start": 53130,
+        "end": 53158,
         "raw": "'[Окно подачи результатов] '",
         "value": "[Окно подачи результатов] ",
         "type": "literal"
       },
       {
-        "start": 52471,
-        "end": 52504,
+        "start": 53196,
+        "end": 53229,
         "raw": "'[Окно · один назначенный день] '",
         "value": "[Окно · один назначенный день] ",
         "type": "literal"
       },
       {
-        "start": 52538,
-        "end": 52558,
+        "start": 53263,
+        "end": 53283,
         "raw": "'[Дни мероприятия] '",
         "value": "[Дни мероприятия] ",
         "type": "literal"
       },
       {
-        "start": 52592,
-        "end": 52625,
+        "start": 53317,
+        "end": 53350,
         "raw": "'[Окно дневного лагеря · Пн–Пт] '",
         "value": "[Окно дневного лагеря · Пн–Пт] ",
         "type": "literal"
       },
       {
-        "start": 52656,
-        "end": 52673,
+        "start": 53381,
+        "end": 53398,
         "raw": "'[Смена лагеря] '",
         "value": "[Смена лагеря] ",
         "type": "literal"
       },
       {
-        "start": 52703,
-        "end": 52740,
+        "start": 53428,
+        "end": 53465,
         "raw": "'[Окно смены · расписание уточнить] '",
         "value": "[Окно смены · расписание уточнить] ",
         "type": "literal"
       },
       {
-        "start": 52773,
-        "end": 52809,
+        "start": 53498,
+        "end": 53534,
         "raw": "'[Начало · полный период уточнить] '",
         "value": "[Начало · полный период уточнить] ",
         "type": "literal"
       },
       {
-        "start": 52843,
-        "end": 52872,
+        "start": 53568,
+        "end": 53597,
         "raw": "'[Дни выбора мастер-класса] '",
         "value": "[Дни выбора мастер-класса] ",
         "type": "literal"
       },
       {
-        "start": 52873,
-        "end": 52882,
+        "start": 53598,
+        "end": 53607,
         "raw": "'[Идея] '",
         "value": "[Идея] ",
         "type": "literal"
       },
       {
-        "start": 53172,
-        "end": 53181,
+        "start": 53897,
+        "end": 53906,
         "raw": "'Дедлайн'",
         "value": "Дедлайн",
         "type": "literal"
       },
       {
-        "start": 53374,
-        "end": 53386,
+        "start": 54099,
+        "end": 54111,
         "raw": "'[Дедлайн] '",
         "value": "[Дедлайн] ",
         "type": "literal"
       },
       {
-        "start": 53513,
-        "end": 53525,
+        "start": 54238,
+        "end": 54250,
         "raw": "'[Дедлайн] '",
         "value": "[Дедлайн] ",
         "type": "literal"
       },
       {
-        "start": 53631,
-        "end": 53640,
+        "start": 54356,
+        "end": 54365,
         "raw": "'Дедлайн'",
         "value": "Дедлайн",
         "type": "literal"
       },
       {
-        "start": 53642,
-        "end": 53660,
+        "start": 54367,
+        "end": 54385,
         "raw": "', час уточнить] '",
         "value": ", час уточнить] ",
         "type": "literal"
       },
       {
-        "start": 54115,
-        "end": 54144,
+        "start": 54840,
+        "end": 54869,
         "raw": "'STEM_выбранные_выставки.ics'",
         "value": "STEM_выбранные_выставки.ics",
         "type": "literal"
       },
       {
-        "start": 54145,
-        "end": 54170,
+        "start": 54870,
+        "end": 54895,
         "raw": "'STEM_выбранные_даты.ics'",
         "value": "STEM_выбранные_даты.ics",
         "type": "literal"
       },
       {
-        "start": 54238,
-        "end": 54246,
+        "start": 54963,
+        "end": 54971,
         "raw": "Скачано ",
         "value": "Скачано ",
         "type": "template"
       },
       {
-        "start": 54250,
-        "end": 54288,
+        "start": 54975,
+        "end": 55013,
         "raw": " событий и дедлайнов для планирования.",
         "value": " событий и дедлайнов для планирования.",
         "type": "template"
       },
       {
-        "start": 56161,
-        "end": 56204,
+        "start": 56886,
+        "end": 56929,
         "raw": "'<option value=\"\">Все направления</option>'",
         "value": "<option value=\"\">Все направления</option>",
         "type": "literal"
       },
       {
-        "start": 58939,
-        "end": 58977,
+        "start": 59664,
+        "end": 59702,
         "raw": "'<option value=\"\">Все страны</option>'",
         "value": "<option value=\"\">Все страны</option>",
         "type": "literal"

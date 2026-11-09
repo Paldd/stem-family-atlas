@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10891; competiciones: 4847; eventos: 689; campamentos / programas: 5355. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 590 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10895; competiciones: 4847; eventos: 690; campamentos y programas: 5358. Perfiles de ligas y programas: 309. Las 590 fichas de ferias principales y especializadas corresponden a ediciones y recintos.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1975 | 153 | 1382 |
-| América del Sur | 15 | 452 | 52 | 233 |
+| América del Norte | 41 | 1975 | 153 | 1383 |
+| América del Sur | 15 | 452 | 52 | 235 |
 | Europa | 55 | 655 | 148 | 1540 |
 | África | 60 | 248 | 43 | 140 |
 | Asia | 50 | 1183 | 160 | 1709 |
@@ -876,7 +876,6 @@ VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en e
 - **Noche de las Estrellas 2026 · México · Ensenada** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://todos.cicese.mx/evento/ndee-2026/
 - **Planetario de San José · UCR · Telescopiadas** — Costa Rica. Actividad regular. Visita con un adulto. Confirmar las condiciones de acceso. https://planetario.ucr.ac.cr/horarios.html
 - **Fiji Tech Summit 2026 · Exhibitions & Business Forum** — Fiyi; 2026-11-12 – 2026-11-13. el permiso de entrada de niños. https://fijitechsummit.com/
-- **FNCTI UCR 2026 · Exposición pública de proyectos** — Costa Rica; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 - **HKPC · GBA International AI and Robotics Summit 2026** — RAE de Hong Kong (China); 2026-11-30. el permiso de entrada de niños. https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en
 - **HKPC · Embodied AI International Applications Hub · Guided tour** — RAE de Hong Kong (China); 2026-12-03 – 2026-12-04. con un adulto; condiciones de admisión adulta por separado. https://bizform.hkpc.org/766776?lang=en
 - **TIBS 2027 · Taipei International Bakery Show · Equipment** — Taiwán; 2027-03-18 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://www.tibs.org.tw/visitor.asp
@@ -967,6 +966,7 @@ VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en e
 - **Comic Con Cape Town 2027 · Gaming & KidsCon watch** — Sudáfrica; 2027-04-24 – 2027-04-27. el permiso de entrada de niños. https://comicconafrica.co.za/
 - **Nairobi Esports Expo 2027** — Kenia; 2027-12-17 – 2027-12-19. el permiso de entrada de niños. https://nairobiesportsexpo.co.ke/
 - **West Africa Gaming Convention 2027 · Conference & Exhibition** — Nigeria; 2027-04-29 – 2027-04-30. el permiso de entrada de niños. https://wagconvention.com/venues
+- **BUAP Guerra de Dioses 2026 · Exhibición de drones** — México; 2026-11-09. el permiso de entrada de niños. https://siro.cs.buap.mx/GDD/index.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

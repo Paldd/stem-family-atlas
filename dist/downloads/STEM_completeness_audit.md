@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10891; соревнований: 4847; событий: 689; лагерей / программ: 5355. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 590 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10895; соревнований: 4847; событий: 690; лагерей / программ: 5358. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 590 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1975 | 153 | 1382 |
-| Южная Америка | 15 | 452 | 52 | 233 |
+| Северная Америка | 41 | 1975 | 153 | 1383 |
+| Южная Америка | 15 | 452 | 52 | 235 |
 | Европа | 55 | 655 | 148 | 1540 |
 | Африка | 60 | 248 | 43 | 140 |
 | Азия | 50 | 1183 | 160 | 1709 |
@@ -876,7 +876,6 @@ VEX: 815 из 4847 карточек соревнований (16.8%). Это я�
 - **Noche de las Estrellas 2026 · México · Ensenada** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://todos.cicese.mx/evento/ndee-2026/
 - **Planetario de San José · UCR · Telescopiadas** — Коста-Рика; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://planetario.ucr.ac.cr/horarios.html
 - **Fiji Tech Summit 2026 · Exhibitions & Business Forum** — Фиджи; 2026-11-12 – 2026-11-13. Детский допуск уточнить. https://fijitechsummit.com/
-- **FNCTI UCR 2026 · Exposición pública de proyectos** — Коста-Рика; 2026-11-12. Со взрослым; условия взрослого входа отдельно. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 - **HKPC · GBA International AI and Robotics Summit 2026** — Китай, Специальный административный район Гонконг; 2026-11-30. Детский допуск уточнить. https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en
 - **HKPC · Embodied AI International Applications Hub · Guided tour** — Китай, Специальный административный район Гонконг; 2026-12-03 – 2026-12-04. Со взрослым; условия взрослого входа отдельно. https://bizform.hkpc.org/766776?lang=en
 - **TIBS 2027 · Taipei International Bakery Show · Equipment** — Тайвань; 2027-03-18 – 2027-03-21. Со взрослым; условия взрослого входа отдельно. https://www.tibs.org.tw/visitor.asp
@@ -967,6 +966,7 @@ VEX: 815 из 4847 карточек соревнований (16.8%). Это я�
 - **Comic Con Cape Town 2027 · Gaming & KidsCon watch** — Южная Африка; 2027-04-24 – 2027-04-27. Детский допуск уточнить. https://comicconafrica.co.za/
 - **Nairobi Esports Expo 2027** — Кения; 2027-12-17 – 2027-12-19. Детский допуск уточнить. https://nairobiesportsexpo.co.ke/
 - **West Africa Gaming Convention 2027 · Conference & Exhibition** — Нигерия; 2027-04-29 – 2027-04-30. Детский допуск уточнить. https://wagconvention.com/venues
+- **BUAP Guerra de Dioses 2026 · Exhibición de drones** — Мексика; 2026-11-09. Детский допуск уточнить. https://siro.cs.buap.mx/GDD/index.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

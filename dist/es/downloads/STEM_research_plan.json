@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 312,
+    "version": 313,
     "status": "implementation_snapshot",
-    "events": 10891,
+    "events": 10895,
     "competitions": 4847,
     "league_profiles": 309,
-    "camp_dossiers": 2128,
+    "camp_dossiers": 2131,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 689,
+    "exhibitions_events": 690,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 311,
+    "version": 312,
     "status": "implementation_snapshot",
-    "events": 10873,
-    "competitions": 4829,
+    "events": 10891,
+    "competitions": 4847,
     "league_profiles": 309,
     "camp_dossiers": 2128,
     "budget_offers": 312,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 312,
+    "prepared_ui_version": 313,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 311,
-    "previous_verified_commit": "bfadc0a534311a9420642e63ee9b7b19cfd4dd6e"
+    "previous_verified_ui_version": 312,
+    "previous_verified_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 311,
-    "published_version": 311,
-    "latest_source_commit": "bfadc0a534311a9420642e63ee9b7b19cfd4dd6e",
-    "published_commit": "bfadc0a534311a9420642e63ee9b7b19cfd4dd6e",
-    "latest_workflow": 42540387054,
+    "latest_source_version": 312,
+    "published_version": 312,
+    "latest_source_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6",
+    "published_commit": "c108b2e485c791cae1093dbf471bc719b433e4a6",
+    "latest_workflow": 42542305078,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -32317,5 +32317,102 @@
     "refreshed_camp_dossiers": [
       "CP1246"
     ]
+  },
+  "latam_family_camps_and_junior_routes_v313": {
+    "version": 313,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "L891",
+      "E690",
+      "CP2129-20261209-20261212-december",
+      "CP2130-20261209-20261212-december"
+    ],
+    "refreshed_event_ids": [
+      "L798",
+      "C003",
+      "C1295",
+      "C1296",
+      "L139",
+      "E267",
+      "E595",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C082",
+      "C4209"
+    ],
+    "legacy_overlay_event_ids": [
+      "L798",
+      "C003",
+      "C1295",
+      "C1296",
+      "L139",
+      "E267",
+      "E595",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C082",
+      "C4209"
+    ],
+    "source_requests": 17,
+    "fod_verified_sessions": [
+      "CP1124-20261207-20261211",
+      "CP1124-20270111-20270115",
+      "CP1124-20270125-20270129",
+      "CP1125-20270118-20270122",
+      "CP1126-20270125-20270129",
+      "CP1127-20261207-20261211",
+      "CP1127-20270111-20270115",
+      "CP1128-20270118-20270122",
+      "CP1129-20270125-20270129",
+      "CP1130-20270111-20270115",
+      "CP1131-20270118-20270122",
+      "CP1132-20261207-20261211",
+      "CP1132-20270111-20270115",
+      "CP1132-20270118-20270122",
+      "CP1133-20270125-20270129",
+      "CP1134-20270118-20270122",
+      "CP1135-20270125-20270129"
+    ],
+    "robojam_date_conflict_ids": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179"
+    ],
+    "merged_into": {
+      "E595": "E267"
+    },
+    "new_camp_dossiers": [
+      "CP2129",
+      "CP2130",
+      "CP2131"
+    ],
+    "explora_dossiers": [
+      "CP2129",
+      "CP2130"
+    ],
+    "papalote": "L891",
+    "drone": "E690"
   }
 }

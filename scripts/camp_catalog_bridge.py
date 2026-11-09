@@ -4,6 +4,8 @@ import re
 
 # Explicit relations: a shared operator/domain is not proof of an identical track.
 RELATED = {
+    'fod-lideres-futuro-vacaciones-2026-27': ['L798'],
+    'creadores-papalote-laboratorio-de-ideas': ['L891'],
     'jersey-college-creative-minds-robotics': ['L693'],
     'guernsey-library-twine-game-design': ['L694'],
     'guernsey-library-sphero-taster': ['L695'],

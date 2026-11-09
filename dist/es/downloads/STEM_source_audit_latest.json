@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10891,
+    "cards": 10895,
     "competition_cards": 4847,
-    "event_cards": 689,
-    "camp_cards": 5355,
+    "event_cards": 690,
+    "camp_cards": 5358,
     "league_profiles": 309,
     "major_exhibition_cards": 590,
     "vex_cards": 815,
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3551,
+      "total": 3553,
       "countries_with_records": 41,
       "competitions": 1975,
-      "events": 194,
+      "events": 195,
       "major_exhibitions": 153,
-      "camps": 1382,
+      "camps": 1383,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 741,
+      "total": 743,
       "countries_with_records": 15,
       "competitions": 452,
       "events": 56,
       "major_exhibitions": 52,
-      "camps": 233,
+      "camps": 235,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -14424,17 +14424,6 @@
       "new": false
     },
     {
-      "id": "E595",
-      "name": "FNCTI UCR 2026 · Exposición pública de proyectos",
-      "country": "Costa Rica",
-      "region": "América Central",
-      "start": "2026-11-12",
-      "end": "2026-11-12",
-      "visitor_policy": "family",
-      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
-      "new": false
-    },
-    {
       "id": "E596",
       "name": "HKPC · GBA International AI and Robotics Summit 2026",
       "country": "RAE de Hong Kong (China)",
@@ -15422,6 +15411,17 @@
       "end": "2027-04-30",
       "visitor_policy": "confirm_children",
       "source": "https://wagconvention.com/venues",
+      "new": false
+    },
+    {
+      "id": "E690",
+      "name": "BUAP Guerra de Dioses 2026 · Exhibición de drones",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://siro.cs.buap.mx/GDD/index.html",
       "new": false
     },
     {
@@ -17842,8 +17842,8 @@
       }
     ],
     "counts": {
-      "records": 5355,
-      "holiday": 4841,
+      "records": 5358,
+      "holiday": 4844,
       "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,

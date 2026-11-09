@@ -1,6 +1,6 @@
 # Каникулы 2026–2027: подробные досье
 
-Состояние базы: 2026-11-08. 2128 досье в 137 странах. Даты проверки отдельных источников приведены в каждом досье.
+Состояние базы: 2026-11-08. 2131 досье в 137 странах. Даты проверки отдельных источников приведены в каждом досье.
 
 Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.
 
@@ -69412,9 +69412,9 @@ Pro — более сложные приключения для старшего
 
 ### Источники
 
-- [UCR · Matenciar 2027 и сроки](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-06
+- [UCR · Matenciar 2027 и сроки](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-08
 
-- [UCR · условия допуска и подтверждения места](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-06
+- [UCR · условия допуска и подтверждения места](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-08
 
 ## CP945 · Parque La Libertad × ColibrIA · AI for Good Boot Camp
 
@@ -78992,7 +78992,7 @@ FOD · Juguemos a crear Robots · проверенный возраст и ра�
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 6–8 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79094,15 +79094,15 @@ FOD · Mis Historias Animadas · проверенный возраст и рас
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1126 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 7–9 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79204,9 +79204,9 @@ FOD · Creatividad y diseño con robótica · 7–9 · проверенный в
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1127 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación
 
@@ -79350,7 +79350,7 @@ FOD · Nivel 1 · Principios de construcción y programación · провере�
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–12 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79454,15 +79454,15 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–12 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79564,15 +79564,15 @@ FOD · Nivel 3 · Grados de libertad, sincronización y publicación · пров
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1130 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 9–16 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79674,15 +79674,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1131 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 10–12 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79744,15 +79744,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1132 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 12–16 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79866,15 +79866,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1133 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 12–16 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -79936,15 +79936,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1134 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 12–16 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -80006,15 +80006,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1135 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables
 
 Коста-Рика · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Проверено:** 2026-11-07
+**Проверено:** 2026-11-08
 
 **Возраст:** 12–16 лет; контрольную дату подтвердить, класс не заменяет возраст
 
@@ -80076,9 +80076,9 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1136 · Code Camp Liechtenstein · Ignite
 
@@ -161408,35 +161408,33 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 **Проверено:** 2026-11-08
 
-**Возраст:** 6–16 лет для всей программы. Возрастные группы отдельных занятий уточнить.
+**Возраст:** 6–16 лет по программе. Для каждого курса свой возрастной диапазон.
 
-**Язык:** Анонс на испанском. Язык преподавания выбранной группы уточнить.
+**Язык:** Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.
 
-**Программа:** Робототехника, программирование, дизайн и инженерные проекты на каникулах.
+**Программа:** Общий обзор программы. Две параллельные робототехнические группы идут 7–11 декабря 2026 и 11–15 января 2027 с 08:00 до 12:00. Место для каждого ребёнка подтверждается отдельно.
 
 **Проживание:** Дневной формат без проживания.
 
-**Даты / статус:** Анонс на декабрь 2026 и январь 2027. Дни, часы, цена и техника по группам пока не подтверждены.
+**Даты / статус:** 17 групп в декабре 2026 и январе 2027. Даты и часы каждого курса в связанных карточках.
 
-**Цена / год:** 2026 · Полная стоимость и наличие мест ещё не подтверждены.
+**Цена / год:** 2026 · 60000 CRC за ребёнка и курс, с налогом. Для двух детей по одному курсу 120000 CRC.
 
-**Включено:** Робототехника, программирование, дизайн и инженерные проекты на каникулах.
+**Включено:** Занятия по одному выбранному курсу, налог включён.
 
-**Доплаты:** Запросить у фонда расписание по возрастам, стоимость и места. О наборе сообщает радио по просьбе фонда. На сайте фонда точных смен пока нет.
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
 
-**Оплата:** Условия возврата и итоговый счёт уточнить до оплаты.
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
 
 **Матвей:** Условно. Возраст подходит. Подтвердить язык и место.
 
 **Оскар:** Условно. Возраст подходит. Подтвердить язык и место.
 
-**Почему в отборе:** Анонс на декабрь 2026 и январь 2027. Дни, часы, цена и техника по группам пока не подтверждены.
+**Почему в отборе:** Общий обзор программы. Две параллельные робототехнические группы идут 7–11 декабря 2026 и 11–15 января 2027 с 08:00 до 12:00. Место для каждого ребёнка подтверждается отдельно.
 
 ### Перед заявкой
 
-- Перед записью сверить допуск, язык и наличие места.
-
-- Условия возврата и итоговый счёт уточнить до оплаты.
+- Выбрать курс в форме фонда. В форме предусмотрены cédula, паспорт или DIMEX. Проверить язык, уровень группы и свободные места.
 
 ### Источники
 
@@ -161445,6 +161443,10 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 - [Сообщение о программе со слов фонда.](https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/) · 2026-11-08
 
 - [Сообщение о программе со слов фонда.](https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/) · 2026-11-08
+
+- [Страница организатора или регламент категории.](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
+
+- [Страница организатора или регламент категории.](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP2025 · American Nicaraguan School · TigerBot Elementary
 
@@ -167937,6 +167939,174 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 ### Источники
 
 - [Страница организатора или регламент категории.](https://lms.tangnest.rw/our-stem-program/) · 2026-11-08
+
+## CP2129 · Parque Explora · Vacaciones científicas
+
+Колумбия · Parque Explora · Medellín
+
+**Проверено:** 2026-11-08
+
+**Возраст:** 5–11 лет. Предварительная подготовка не нужна.
+
+**Язык:** Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.
+
+**Программа:** Как животные воспринимают мир. Биология и нейронауки через наблюдения, опыты, книги и печать по ткани.
+
+**Проживание:** Дневные занятия без проживания.
+
+**Даты / статус:** 9–12 декабря 2026, ежедневно 08:00–12:00 по Медельину.
+
+**Цена / год:** 2026 · 225000 COP за ребёнка, материалы включены.
+
+**Включено:** Занятия и материалы.
+
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
+
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
+
+**Матвей:** Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места.
+
+**Оскар:** Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места.
+
+**Почему в отборе:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.
+
+### Перед заявкой
+
+- Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.
+
+- Перед записью сверить допуск, язык и наличие места.
+
+### Diciembre 2026
+
+**Даты / статус:** 2026-12-09 — 2026-12-12
+
+**Цена:** 225000 COP за ребёнка, материалы включены.
+
+**Условия участия:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.
+
+- 2026-12-09 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-10 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-11 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-12 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+**Наличие мест:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.
+
+- Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 24 участников. При недоборе предусмотрен возврат.
+
+- Перед записью сверить допуск, язык и наличие места.
+
+[Источник](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora)
+
+### Источники
+
+- [Страница организатора или регламент категории.](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora) · 2026-11-08
+
+- [Страница организатора или регламент категории.](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora/ficha-tecnica) · 2026-11-08
+
+## CP2130 · Planetario de Medellín · Vacaciones planetarias
+
+Колумбия · Laboratorio Planetario y Domo · Medellín
+
+**Проверено:** 2026-11-08
+
+**Возраст:** 8–12 лет по декабрьской программе.
+
+**Язык:** Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.
+
+**Программа:** Наблюдение неба, карты созвездий, модельные путешествия по Солнечной системе и дневник наблюдений.
+
+**Проживание:** Дневные занятия без проживания.
+
+**Даты / статус:** 9–12 декабря 2026, ежедневно 17:00–19:00 по Медельину.
+
+**Цена / год:** 2026 · 238000 COP за ребёнка, материалы включены.
+
+**Включено:** Занятия и материалы.
+
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
+
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
+
+**Матвей:** Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места.
+
+**Оскар:** Возраст ниже минимума для этой смены.
+
+**Почему в отборе:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.
+
+### Перед заявкой
+
+- Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.
+
+- Перед записью сверить допуск, язык и наличие места.
+
+### Diciembre 2026
+
+**Даты / статус:** 2026-12-09 — 2026-12-12
+
+**Цена:** 238000 COP за ребёнка, материалы включены.
+
+**Условия участия:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.
+
+- 2026-12-09 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-10 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-11 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-12 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+**Наличие мест:** Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.
+
+- Организатор планирует подтвердить смену 23 ноября 2026. Нужно не менее 12 участников. При недоборе предусмотрен возврат.
+
+- Перед записью сверить допуск, язык и наличие места.
+
+[Источник](https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias)
+
+### Источники
+
+- [Страница организатора или регламент категории.](https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias) · 2026-11-08
+
+## CP2131 · Creadores Papalote · Laboratorio de Ideas
+
+Мексика · Papalote Museo del Niño · Chapultepec · Ciudad de México
+
+**Проверено:** 2026-11-08
+
+**Возраст:** С 6 лет. До 10 участников в сеансе.
+
+**Язык:** Программа опубликована на испанском. Язык живых занятий и языковую поддержку уточнить.
+
+**Программа:** Мастерские на 30 или 60 минут в Laboratorio de Ideas. Электроника, столярное дело и проекты. День и время уточнить на площадке.
+
+**Проживание:** Дневные занятия без проживания.
+
+**Даты / статус:** Мастерские на 30 или 60 минут в Laboratorio de Ideas. Электроника, столярное дело и проекты. День и время уточнить на площадке.
+
+**Цена / год:** 2026 · Мастерские заявлены бесплатными. Билет в музей и доступность сеанса уточнить.
+
+**Доплаты:** Полный счёт и условия возврата уточнить у организатора.
+
+**Оплата:** Полный счёт и условия возврата уточнить у организатора.
+
+**Матвей:** Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места.
+
+**Оскар:** Возраст входит в опубликованный диапазон. Подтвердить язык занятий и наличие места.
+
+**Почему в отборе:** Мастерские на 30 или 60 минут в Laboratorio de Ideas. Электроника, столярное дело и проекты. День и время уточнить на площадке.
+
+### Перед заявкой
+
+- Перед записью сверить допуск, язык и наличие места.
+
+- Полный счёт и условия возврата уточнить у организатора.
+
+### Источники
+
+- [Страница организатора или регламент категории.](https://eventos.papalote.org.mx/creadores-papalote) · 2026-11-08
 
 ## Не закрытые проверки
 

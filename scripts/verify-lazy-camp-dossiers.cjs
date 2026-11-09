@@ -15,6 +15,25 @@ async function verifyEdition(locale) {
   const app = read('assets/app.js');
   assert.match(app, /if\(state\.view==='camps'\)\{\s*drawCamps\(a\);\s*window\.mountCampDossiers\?\.\(\)/);
 
+  const related = vm.createContext({
+    EVENTS: [{ id: 'current', title: 'Current' }, { id: 'main', title: '<Main>' }],
+    esc: value => value.replaceAll('<', '&lt;').replaceAll('>', '&gt;'),
+  });
+  const relatedStart = app.indexOf('function relatedEventLinks(');
+  const relatedEnd = app.indexOf('function openEvent(', relatedStart);
+  assert(relatedStart >= 0 && relatedEnd > relatedStart);
+  vm.runInContext(app.slice(relatedStart, relatedEnd), related);
+  const links = related.relatedEventLinks({
+    id: 'current',
+    canonical_event_id: 'main',
+    related_ids: ['main', 'missing', 'current'],
+  });
+  assert.equal(links.match(/data-open="main"/g)?.length, 1);
+  assert(links.includes('&lt;Main&gt;'));
+  assert(!links.includes('data-open="current"') && !links.includes('data-open="missing"'));
+  assert(app.includes('${relatedEventLinks(e)}'));
+  assert(app.includes('if(target.dataset.open)openEvent(target.dataset.open)'));
+
   // Use the real initializer. Substitute the DOM-heavy rendering calls
   // to isolate routing, asynchronous loading, caching and failure states.
   const source = read('assets/camp-programmes.js');

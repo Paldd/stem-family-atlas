@@ -497,7 +497,7 @@ Acceso: RRID de cada alumno y coach → evento → challenge → division → in
 Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
 Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
 Fuente: https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C083 · RoboRAVE Guanajuato Open 2027
 
@@ -1424,118 +1424,118 @@ Se ha comprobado: 2026-11-05
 
 ### C1171 · RoboJam MX Norestense · ASFM · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1172 · RoboJam MX Norestense · Bristle Race · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.
 Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1174 · RoboJam MX Norestense · CrossBot · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1175 · RoboJam MX Norestense · Skill Drive · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1176 · RoboJam MX Norestense · Stack.IN · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1179 · RoboJam MX Norestense · Disk Derby · 2027
 
-Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
+Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
+Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -5220,14 +5220,14 @@ Se ha comprobado: 2026-11-08
 
 ### E595 · FNCTI UCR 2026 · Exposición pública de proyectos
 
-Fecha: 2026-11-12 — 2026-11-12
+Fecha: No se ha fijado el período/plan de trabajo
 edad: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
 Matvey: Sí. Se puede asistir con menores según las normas de visita.
 Oscar: Sí. Se puede asistir con menores según las normas de visita.
 Idioma: Materiales de la organización en español. Confirmar el idioma de la persona a cargo y de las demostraciones.
 Acceso: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
 Precio: La invitación se abre al público. No se indican coste ni trámite de visita.
-Limitaciones: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
+Limitaciones: Es la misma exposición matinal de la UCR. La ficha principal contiene el horario y ambas sedes.
 Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 Se ha comprobado: 2026-11-08
 
@@ -5259,15 +5259,15 @@ Se ha comprobado: 2026-11-08
 
 ### L798 · FOD Líderes del Futuro · Vacaciones 2026–27
 
-Fecha: Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
-edad: 6–16 años para el programa general. Confirmar edades de cada grupo.
+Fecha: 17 grupos en diciembre de 2026 y enero de 2027. Fechas y horarios de cada curso en las fichas vinculadas.
+edad: De 6 a 16 años en el programa. Cada curso tiene su propia franja de edad.
 Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza.
 Oscar: Condicional. Cumple por edad. Confirmar idioma y plaza.
-Idioma: Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.
-Acceso: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
-Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
-Fuente: https://fod.ac.cr/
+Idioma: El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+Acceso: Elegir curso en el formulario de la fundación. El formulario prevé cédula, pasaporte o DIMEX. Confirmar idioma, nivel del grupo y plazas disponibles.
+Precio: 60000 CRC por menor y curso, con impuesto. Para dos menores con un curso cada uno, 120000 CRC.
+Limitaciones: Panorama del programa. Hay dos grupos paralelos de robótica del 7 al 11 de diciembre de 2026 y del 11 al 15 de enero de 2027 de 08:00 a 12:00. Cada menor debe confirmar su plaza por separado.
+Fuente: https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/
 Se ha comprobado: 2026-11-08
 
 ### E615 · Papalote · México STEM Week 2026
@@ -5749,6 +5749,32 @@ Acceso: Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi Méxic
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones: El colegio presenta el proyecto tras la selección interna. La visita a la feria tiene su propio registro.
 Fuente: https://feriamakerunoi.com/
+Se ha comprobado: 2026-11-08
+
+### L891 · Creadores Papalote · Laboratorio de Ideas
+
+Fecha: Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.
+edad: Desde 6 años. Hasta 10 participantes por sesión.
+Matvey: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+Oscar: La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+Idioma: El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+Acceso: Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.
+Precio: Los talleres se anuncian gratuitos. Confirmar entrada al museo y disponibilidad de la sesión.
+Restricciones: Los talleres se anuncian gratuitos. Confirmar entrada al museo y disponibilidad de la sesión.
+Fuente: https://eventos.papalote.org.mx/creadores-papalote
+Se ha comprobado: 2026-11-08
+
+### E690 · BUAP Guerra de Dioses 2026 · Exhibición de drones
+
+Fecha: 2026-11-09 — 2026-11-09
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Torneo para estudiantes de ingeniería y áreas afines. Los drones figuran como demostración. Confirmar hora y acceso para público y menores.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Torneo para estudiantes de ingeniería y áreas afines. Los drones figuran como demostración. Confirmar hora y acceso para público y menores.
+Fuente: https://siro.cs.buap.mx/GDD/index.html
 Se ha comprobado: 2026-11-08
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
@@ -6490,7 +6516,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1126-20270125-20270129 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29
 
@@ -6503,7 +6529,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 7–9. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1127-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11
 
@@ -6542,7 +6568,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1129-20270125-20270129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29
 
@@ -6555,7 +6581,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1130-20270111-20270115 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15
 
@@ -6568,7 +6594,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1131-20270118-20270122 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22
 
@@ -6581,7 +6607,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 10–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1132-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11
 
@@ -6594,7 +6620,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1132-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15
 
@@ -6607,7 +6633,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1132-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22
 
@@ -6620,7 +6646,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1133-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29
 
@@ -6633,7 +6659,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1134-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22
 
@@ -6646,7 +6672,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1135-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29
 
@@ -6659,7 +6685,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 12–16. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1163-20261112-20261112 · Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12
 

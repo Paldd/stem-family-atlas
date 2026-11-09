@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2128 fichas en 137 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base al 2026-11-08. 2131 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -69412,9 +69412,9 @@ Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
 ### Fuentes
 
-- [UCR · Matenciar 2027 y fechas](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-06
+- [UCR · Matenciar 2027 y fechas](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-08
 
-- [UCR · requisitos y confirmación de plaza](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-06
+- [UCR · requisitos y confirmación de plaza](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-08
 
 ## CP945 · Parque La Libertad × ColibrIA · AI for Good Boot Camp
 
@@ -78992,7 +78992,7 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79094,15 +79094,15 @@ FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por a
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1126 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 7–9 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79204,9 +79204,9 @@ FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobado
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1127 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación
 
@@ -79350,7 +79350,7 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79454,15 +79454,15 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79564,15 +79564,15 @@ FOD · Nivel 3 · Grados de libertad, sincronización y publicación · edad y h
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1130 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79674,15 +79674,15 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · edad y horario
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1131 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 10–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79744,15 +79744,15 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1132 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79866,15 +79866,15 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1133 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -79936,15 +79936,15 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1134 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -80006,15 +80006,15 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1135 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 12–16 años; confirmar corte, curso escolar no sustituye edad
 
@@ -80076,9 +80076,9 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-04
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1136 · Code Camp Liechtenstein · Ignite
 
@@ -161408,35 +161408,33 @@ Costa Rica · San José
 
 **Se ha comprobado:** 2026-11-08
 
-**edad:** 6–16 años para el programa general. Confirmar edades de cada grupo.
+**edad:** De 6 a 16 años en el programa. Cada curso tiene su propia franja de edad.
 
-**Idioma:** Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.
+**Idioma:** El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
 
-**Programa:** Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.
+**Programa:** Panorama del programa. Hay dos grupos paralelos de robótica del 7 al 11 de diciembre de 2026 y del 11 al 15 de enero de 2027 de 08:00 a 12:00. Cada menor debe confirmar su plaza por separado.
 
 **Alojamiento:** Formato diurno sin alojamiento.
 
-**Fechas / estado:** Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+**Fechas / estado:** 17 grupos en diciembre de 2026 y enero de 2027. Fechas y horarios de cada curso en las fichas vinculadas.
 
-**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+**Precio / año:** 2026 · 60000 CRC por menor y curso, con impuesto. Para dos menores con un curso cada uno, 120000 CRC.
 
-**Incluido:** Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.
+**Incluido:** Clases de un curso elegido, impuesto incluido.
 
-**Suplementos:** Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
 
-**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
 
 **Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
 
 **Oscar:** Condicional. Encaja por edad. Confirmar idioma y plaza.
 
-**Motivo de selección:** Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+**Motivo de selección:** Panorama del programa. Hay dos grupos paralelos de robótica del 7 al 11 de diciembre de 2026 y del 11 al 15 de enero de 2027 de 08:00 a 12:00. Cada menor debe confirmar su plaza por separado.
 
 ### Antes de solicitar plaza
 
-- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
-
-- Confirmar las condiciones de devolución y la factura final antes de pagar.
+- Elegir curso en el formulario de la fundación. El formulario prevé cédula, pasaporte o DIMEX. Confirmar idioma, nivel del grupo y plazas disponibles.
 
 ### Fuentes
 
@@ -161445,6 +161443,10 @@ Costa Rica · San José
 - [Información sobre el programa comunicada por la fundación.](https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/) · 2026-11-08
 
 - [Información sobre el programa comunicada por la fundación.](https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP2025 · American Nicaraguan School · TigerBot Elementary
 
@@ -167937,6 +167939,174 @@ Ruanda · TangNest Lab · Kigali
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://lms.tangnest.rw/our-stem-program/) · 2026-11-08
+
+## CP2129 · Parque Explora · Vacaciones científicas
+
+Colombia · Parque Explora · Medellín
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 5 a 11 años. No se requieren conocimientos previos.
+
+**Idioma:** El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+
+**Programa:** Cómo perciben el mundo los animales. Biología y neurociencia con observación, experimentos, libros y estampado.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 9 al 12 de diciembre de 2026, cada día de 08:00 a 12:00 en Medellín.
+
+**Precio / año:** 2026 · 225000 COP por menor, materiales incluidos.
+
+**Incluido:** Clases y materiales.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+
+**Oscar:** La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+
+**Motivo de selección:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+### Antes de solicitar plaza
+
+- La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Diciembre 2026
+
+**Fechas / estado:** 2026-12-09 — 2026-12-12
+
+**Precio:** 225000 COP por menor, materiales incluidos.
+
+**condiciones de participación:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- 2026-12-09 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-10 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-11 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+- 2026-12-12 · 08:00–12:00 · America/Bogota · Parque Explora · Vacaciones científicas
+
+**Disponibilidad de plazas:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 24 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+[fuente](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.parqueexplora.org/tienda/cursos/vacaciones-cientificas-explora/ficha-tecnica) · 2026-11-08
+
+## CP2130 · Planetario de Medellín · Vacaciones planetarias
+
+Colombia · Laboratorio Planetario y Domo · Medellín
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 8 a 12 años según el programa de diciembre.
+
+**Idioma:** El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+
+**Programa:** Observación del cielo, mapas de constelaciones, recorridos simulados por el sistema solar y bitácora de observación.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 9 al 12 de diciembre de 2026, cada día de 17:00 a 19:00 en Medellín.
+
+**Precio / año:** 2026 · 238000 COP por menor, materiales incluidos.
+
+**Incluido:** Clases y materiales.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+
+**Oscar:** Edad inferior al mínimo para este turno.
+
+**Motivo de selección:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+### Antes de solicitar plaza
+
+- La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Diciembre 2026
+
+**Fechas / estado:** 2026-12-09 — 2026-12-12
+
+**Precio:** 238000 COP por menor, materiales incluidos.
+
+**condiciones de participación:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- 2026-12-09 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-10 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-11 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+- 2026-12-12 · 17:00–19:00 · America/Bogota · Planetario de Medellín · Vacaciones planetarias
+
+**Disponibilidad de plazas:** La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- La organización prevé confirmar el curso el 23 de noviembre de 2026. Se requieren al menos 12 participantes. Si no se alcanza el mínimo, se prevé reembolso.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+[fuente](https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias) · 2026-11-08
+
+## CP2131 · Creadores Papalote · Laboratorio de Ideas
+
+México · Papalote Museo del Niño · Chapultepec · Ciudad de México
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Desde 6 años. Hasta 10 participantes por sesión.
+
+**Idioma:** El programa está publicado en español. Confirmar el idioma de las sesiones y el apoyo lingüístico.
+
+**Programa:** Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.
+
+**Precio / año:** 2026 · Los talleres se anuncian gratuitos. Confirmar entrada al museo y disponibilidad de la sesión.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+
+**Oscar:** La edad encaja en la franja publicada. Confirmar idioma de las sesiones y disponibilidad.
+
+**Motivo de selección:** Talleres de 30 o 60 minutos en el Laboratorio de Ideas. Electrónica, carpintería y proyectos. Consultar fecha y horario en el espacio.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://eventos.papalote.org.mx/creadores-papalote) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

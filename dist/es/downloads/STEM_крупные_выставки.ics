@@ -2678,7 +2678,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E267@family-stem.local
-DTSTAMP:20261108T084023Z
+DTSTAMP:20261109T010656Z
 SUMMARY:[Exposición · visita en familia] FNCTI UCR 2026 · exposición 
  pública
 DTSTART;VALUE=DATE:20261112
@@ -2695,8 +2695,8 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Según el a
  3 de noviembre indica 202 proyectos de 27 regiones educativas. La public
  ación anterior de la facultad indicaba 205 proyectos.. Fuente verificad
  a el 2026-11-08.
-LOCATION:UCR Sede Rodrigo Facio · Facultad de Educación y Educación Co
- ntinua\, Costa Rica
+LOCATION:UCR Sede Rodrigo Facio · Facultad de Educación / Edificio de E
+ ducación Continua · San José\, Costa Rica
 URL:https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -7520,28 +7520,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stem-exhibition-E595@family-stem.local
-DTSTAMP:20261108T145309Z
-SUMMARY:[Exposición · visita en familia] FNCTI UCR 2026 · Exposición 
- pública de proyectos
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Exposición
-  pública el 12 de noviembre de 2026\, de 08:30 a 12:00. Dos sedes de la
-  UCR. Por la tarde hay talleres para participantes y docentes. Entrada d
- e adultos: La invitación se abre al público. No se indican coste ni tr
- ámite de visita.. Exposición pública el 12 de noviembre de 2026\, de 
- 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para parti
- cipantes y docentes. Empresas: 202 proyectos escolares de ciencia\, comp
- utación\, ingeniería y tecnología de 27 regiones educativas.. Fuente 
- verificada el 2026-11-08.
-LOCATION:Sede Rodrigo Facio UCR · Facultad de Educación / Edificio de E
- ducación Continua · San José\, Costa Rica
-URL:https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stem-exhibition-E596@family-stem.local
 DTSTAMP:20261108T145309Z
 SUMMARY:[Exposición · confirmar admisión de menores] HKPC · GBA Inter
@@ -9034,6 +9012,28 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Confirmar a
   2026-11-08.
 LOCATION:Lagos Oriental Hotel · Victoria Island · Lagos\, Nigeria
 URL:https://wagconvention.com/venues
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E690@family-stem.local
+DTSTAMP:20261109T010656Z
+SUMMARY:[Exposición · confirmar admisión de menores] BUAP Guerra de Di
+ oses 2026 · Exhibición de drones
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Torneo para
+  estudiantes de ingeniería y áreas afines. Los drones figuran como dem
+ ostración. Confirmar hora y acceso para público y menores. Entrada de 
+ adultos: Torneo para estudiantes de ingeniería y áreas afines. Los dro
+ nes figuran como demostración. Confirmar hora y acceso para público y 
+ menores.. Torneo para estudiantes de ingeniería y áreas afines. Los dr
+ ones figuran como demostración. Confirmar hora y acceso para público y
+  menores. Empresas: Torneo para estudiantes de ingeniería y áreas afin
+ es. Los drones figuran como demostración. Confirmar hora y acceso para 
+ público y menores.. Fuente verificada el 2026-11-08.
+LOCATION:Ciudad Universitaria 2 · BUAP · Puebla\, México
+URL:https://siro.cs.buap.mx/GDD/index.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
