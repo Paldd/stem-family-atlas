@@ -6918,7 +6918,9 @@
           }
         ],
         "event_ids": [
-          "C763"
+          "C763",
+          "C5105",
+          "C5106"
         ],
         "legacy_ids": [],
         "route": "elegir la disciplina → capítulo o HQ → calificación → etapa internacional.",
@@ -6932,7 +6934,11 @@
         ],
         "nuances": [
           "La edad de 6/9 no está excluida por la frontera superior U14, pero no es una confirmación de la admisión.",
-          "Se aclaran las reglas de la próxima temporada y los requisitos del TDP; los padres no ingresan a la zona de trabajo de Youth."
+          "Se aclaran las reglas de la próxima temporada y los requisitos del TDP; los padres no ingresan a la zona de trabajo de Youth.",
+          "26–30 de julio de 2027 es la semana general. Aún se confirman la sede y los días de cada disciplina.",
+          "Se invita a equipos de Malasia y otros países. Aún no se publican edad, formato del equipo, precios ni inscripción de cada disciplina.",
+          "La vía hacia FIRA World 2028 se anuncia para participantes de Malasia sujetos a futuras reglas de clasificación.",
+          "Clasificación internacional abierta. Este torneo no ofrece plazas para FIRA World."
         ],
         "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
@@ -6941,6 +6947,11 @@
             "title": "reglas y calificación 2026",
             "url": "https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/",
             "checked": "2026-09-30"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://firamalaysia.mypolycc.edu.my/public/",
+            "checked": "2026-11-09"
           }
         ],
         "evidence": "la fuente original se ha leído 30.09.2026. la admisión de la familia y la representación nacional no se han confirmado."
@@ -26806,6 +26817,154 @@
         "checked": "2026-11-09"
       },
       {
+        "id": "lnr-brazil",
+        "name": "Liga Nacional de Robótica · Brasil",
+        "group": "regional",
+        "age_summary": "Kids: 1.º–8.º cursos de Ensino Fundamental. Juvenil también incluye el 8.º. El equipo compite en un solo nivel.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Liga nacional de Brasil con disciplinas presenciales y a distancia y reglamentos separados para las etapas locales.",
+        "categories": [
+          {
+            "name": "LNR Kids · São Luís",
+            "age": "Kids: 1.º–8.º cursos de Ensino Fundamental. Juvenil también incluye el 8.º. El equipo compite en un solo nivel.",
+            "age_rule": "Matrícula en el curso correspondiente en el año del torneo.",
+            "team": "2–4 estudiantes. Un docente o entrenador registra el equipo y los documentos.",
+            "hardware": "Las pruebas presenciales incluyen Smart Maze, Robot Sumô, Balloon Battle, Tug of War, Artistic Performance, Drone Rescue y Robot Soccer. Confirmar la revisión técnica y el acceso de Kids a la disciplina elegida.",
+            "entry": "El anuncio de ambos formatos indica 25 de noviembre de 2026. La ficha de la sede todavía indica Em breve. Confirmar el formulario activo y las condiciones del formato elegido."
+          },
+          {
+            "name": "LNR Kids · Brasil Online",
+            "age": "Kids: 1.º–8.º cursos de Ensino Fundamental. Juvenil también incluye el 8.º. El equipo compite en un solo nivel.",
+            "age_rule": "Matrícula en el curso correspondiente en el año del torneo.",
+            "team": "2–4 estudiantes. Un docente o entrenador registra el equipo y los documentos.",
+            "hardware": "Delivery Challenge, Traction Race y Relay Race. Arena propia según el reglamento, dos cámaras independientes, vídeo continuo simultáneo sin edición y código de validación. Relay Race requiere dos robots.",
+            "entry": "El anuncio de ambos formatos indica 25 de noviembre de 2026. La ficha de la sede todavía indica Em breve. Confirmar el formulario activo y las condiciones del formato elegido."
+          },
+          {
+            "name": "CONNEPI · IF / IFCE",
+            "age": "La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita.",
+            "age_rule": "Matrícula en el curso correspondiente en el año del torneo.",
+            "team": "2–4 estudiantes. Un docente o entrenador registra el equipo y los documentos.",
+            "hardware": "9 de diciembre: Estoura Bolas y Robô Artístico. 10 de diciembre: Sumô, Seguidor de Linha y Cabo de Guerra. 11 de diciembre: premiación.",
+            "entry": "Selección interna y solicitud por el departamento del instituto federal o IFCE. La corrección fija el plazo en 9 de noviembre de 2026. No indica hora exacta."
+          }
+        ],
+        "event_ids": [
+          "C5100",
+          "C5101",
+          "C5102"
+        ],
+        "legacy_ids": [],
+        "route": "Elegir sede o disciplina en línea, confirmar curso y equipo, leer las bases y comprobar el plazo de su etapa.",
+        "hardware": "Las pruebas presenciales incluyen Smart Maze, Robot Sumô, Balloon Battle, Tug of War, Artistic Performance, Drone Rescue y Robot Soccer. Confirmar la revisión técnica y el acceso de Kids a la disciplina elegida.",
+        "language": "Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.",
+        "importance": "Etapa nacional",
+        "strengths": "Liga nacional de Brasil con disciplinas presenciales y a distancia y reglamentos separados para las etapas locales.",
+        "requirements": [
+          "2–4 estudiantes. Un docente o entrenador registra el equipo y los documentos.",
+          "Confirmar las reglas de admisión de equipos de Costa Rica o México y el idioma del jurado."
+        ],
+        "nuances": [
+          "Podio y reconocimiento oficial por categoría. La página de São Luís menciona MRC 2026, que discrepa de la fecha de la prueba en diciembre. La plaza para MRC 2027 aquí requiere confirmación aparte.",
+          "Los puestos 1–3 de cada una de las 5 disciplinas reciben documentos oficiales para participar en MRC Global Olympiad 2027. La plaza no cubre el viaje ni los gastos.",
+          "La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita."
+        ],
+        "cost": "300 BRL por equipo. La validez de la inscripción depende de confirmar el pago y los documentos.",
+        "award": "Certificado oficial de premiación y documentación para participación internacional cuando proceda. La plaza concreta de cada disciplina en línea aún requiere confirmación.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.lnrobotica.com.br/",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.lnrobotica.com.br/regulamento.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.lnrobotica.com.br/regulamento_online.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://drive.google.com/uc?export=download&id=1xco1XhzkqPQpBBtgqxygj-gFogMaf1CB",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "fira-brasil",
+        "name": "FIRA Brasil · Kids",
+        "group": "regional",
+        "age_summary": "FIRA Kids de la temporada 2026: 6–9 años. Confirmar la fecha de corte de edad y las reglas para equipos extranjeros.",
+        "age_tags": [
+          "6",
+          "9"
+        ],
+        "summary": "Clasificación brasileña con etapas regionales, envío a distancia y final nacional presencial.",
+        "categories": [
+          {
+            "name": "FIRA Kids",
+            "age": "FIRA Kids de la temporada 2026: 6–9 años. Confirmar la fecha de corte de edad y las reglas para equipos extranjeros.",
+            "age_rule": "FIRA Kids de la temporada 2026: 6–9 años. Confirmar la fecha de corte de edad y las reglas para equipos extranjeros.",
+            "team": "2–4 menores por equipo.",
+            "hardware": "Tema Agro. La categoría usa exclusivamente LEGO SPIKE Essential y el tapete FIRA Kids.",
+            "entry": "Las 5 plazas Kids de la clasificatoria por vídeo llevan a la final presencial de Brasil. La plaza Kids para la fase mundial 2027 no se ha confirmado por separado."
+          }
+        ],
+        "event_ids": [
+          "C5103",
+          "C5104"
+        ],
+        "legacy_ids": [],
+        "route": "Elegir división de edad y superar la fase regional o por vídeo para la final de Brasil. Cada plaza mundial tiene condiciones propias.",
+        "hardware": "Tema Agro. La categoría usa exclusivamente LEGO SPIKE Essential y el tapete FIRA Kids.",
+        "language": "Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.",
+        "importance": "Etapa nacional",
+        "strengths": "Clasificación brasileña con etapas regionales, envío a distancia y final nacional presencial.",
+        "requirements": [
+          "2–4 menores por equipo.",
+          "Confirmar las reglas de admisión de equipos de Costa Rica o México y el idioma del jurado."
+        ],
+        "nuances": [
+          "Las 5 plazas Kids de la clasificatoria por vídeo llevan a la final presencial de Brasil. La plaza Kids para la fase mundial 2027 no se ha confirmado por separado.",
+          "El plazo publicado ya pasó. Se conserva para preparar la próxima temporada."
+        ],
+        "cost": "150 BRL por equipo mediante PIX tras el correo de la organización.",
+        "award": "Las 5 plazas Kids de la clasificatoria por vídeo llevan a la final presencial de Brasil. La plaza Kids para la fase mundial 2027 no se ha confirmado por separado.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.firabrasil.com/fira-kids",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.firabrasil.com/mundial-2021",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.firabrasil.com/_files/ugd/fb1f15_8be90c0f766f476683fce4c7a0b33bd6.pdf",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.firabrasil.com/final-nacional-2021",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -32151,7 +32310,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 327. Se conservan las 46 vías anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot por sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias de ligas y programas: 329. Se conservan las 46 rutas anteriores. Los formatos brasileños figuran por separado. Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

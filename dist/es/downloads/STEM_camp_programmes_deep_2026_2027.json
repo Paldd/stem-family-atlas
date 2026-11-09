@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2258,
+    "dossiers": 2259,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 644,
+      "published_2027": 645,
       "partial_2027": 159,
       "next_unannounced": 442,
       "published_2026": 435,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3192
+    "source_urls": 3194
   },
   "countries": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "country": "Malasia",
-      "count": 24
+      "count": 25
     },
     {
       "country": "Maldivas",
@@ -17705,7 +17705,7 @@
         {
           "title": "Página de la organización o reglamento de la categoría.",
           "url": "https://www.englishcamp.com.br/programas/kids/",
-          "checked": "2026-11-08"
+          "checked": "2026-11-09"
         },
         {
           "title": "la plaza",
@@ -17718,7 +17718,7 @@
           "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "language_evidence_role": "camp_life",
       "related_event_ids": [],
       "calendar_links": [
@@ -395828,6 +395828,344 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2259",
+      "slug": "nova-klcc-winter-tech",
+      "provider": "NOVA IT Academy · Winter School Holiday Camp",
+      "country": "Malasia",
+      "iso": "MYS",
+      "place": "Soho Suites KLCC · Kuala Lumpur",
+      "age": "6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.",
+      "programme": "Junior: Minecraft Education, Tinkercad, postales digitales y manejo básico del ordenador. Senior: Python, Minecraft, impresión 3D y ciberseguridad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Cuatro turnos: 14–17, 21–24 y 28–31 de diciembre de 2026, 4–7 de enero de 2027. Lunes a jueves, 10:00–13:00, máximo 12 menores por grupo.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-1",
+            "start": "2026-12-14",
+            "end": "2026-12-17",
+            "label": "Winter School Holiday Camp",
+            "price": "614,80 MYR por turno con 6% de SST, antes de descuentos.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar con la organización las condiciones de inscripción y las plazas."
+            },
+            "price_amount": 614.8,
+            "price_currency": "MYR",
+            "entry": "Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-2",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Winter School Holiday Camp",
+            "price": "614,80 MYR por turno con 6% de SST, antes de descuentos.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar con la organización las condiciones de inscripción y las plazas."
+            },
+            "price_amount": 614.8,
+            "price_currency": "MYR",
+            "entry": "Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-3",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter School Holiday Camp",
+            "price": "583 MYR por turno con 6% de SST, antes de descuentos.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar con la organización las condiciones de inscripción y las plazas."
+            },
+            "price_amount": 583,
+            "price_currency": "MYR",
+            "entry": "Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-4",
+            "start": "2027-01-04",
+            "end": "2027-01-07",
+            "label": "Winter School Holiday Camp",
+            "price": "583 MYR por turno con 6% de SST, antes de descuentos.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Confirmar con la organización las condiciones de inscripción y las plazas."
+            },
+            "price_amount": 583,
+            "price_currency": "MYR",
+            "entry": "Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "MYR",
+        "unit": "shift",
+        "label": "580 MYR para 14–17 y 21–24 de diciembre, 550 MYR para 28–31 de diciembre y 4–7 de enero. Más 6% de SST: 614,80 MYR o 583 MYR por menor sin descuentos.",
+        "included": "Ordenadores para las clases, sesiones, proyectos, portafolio y certificado. Sesiones diurnas sin alojamiento.",
+        "extras": "Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "Cuatro turnos: 14–17, 21–24 y 28–31 de diciembre de 2026, 4–7 de enero de 2027. Lunes a jueves, 10:00–13:00, máximo 12 menores por grupo.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.",
+        "Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador."
+      ],
+      "sources": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261214-20261217-winter-1"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261221-20261224-winter-2"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261228-20261231-winter-3"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20270104-20270107-winter-4"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -401153,7 +401491,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 336,
+  "version": 338,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -414388,7 +414726,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2258,
+      "total_dossiers": 2259,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -439458,6 +439796,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261214-20261217-winter-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261221-20261224-winter-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261228-20261231-winter-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20270104-20270107-winter-4",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -444566,10 +444924,14 @@
     "CP2254-20270515-20270626-energy",
     "CP2255-20270109-20270220-coding",
     "CP2255-20270313-20270417-space",
-    "CP2255-20270515-20270626-energy"
+    "CP2255-20270515-20270626-energy",
+    "CP2259-20261214-20261217-winter-1",
+    "CP2259-20261221-20261224-winter-2",
+    "CP2259-20261228-20261231-winter-3",
+    "CP2259-20270104-20270107-winter-4"
   ],
   "integration": {
-    "generated_sessions": 4698,
+    "generated_sessions": 4702,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

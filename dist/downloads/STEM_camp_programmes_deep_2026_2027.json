@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2258,
+    "dossiers": 2259,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 644,
+      "published_2027": 645,
       "partial_2027": 159,
       "next_unannounced": 442,
       "published_2026": 435,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3192
+    "source_urls": 3194
   },
   "countries": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 24
+      "count": 25
     },
     {
       "country": "Мальдивские Острова",
@@ -17705,7 +17705,7 @@
         {
           "title": "Страница организатора или регламент категории.",
           "url": "https://www.englishcamp.com.br/programas/kids/",
-          "checked": "2026-11-08"
+          "checked": "2026-11-09"
         },
         {
           "title": "Площадка",
@@ -17718,7 +17718,7 @@
           "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "language_evidence_role": "camp_life",
       "related_event_ids": [],
       "calendar_links": [
@@ -395828,6 +395828,344 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2259",
+      "slug": "nova-klcc-winter-tech",
+      "provider": "NOVA IT Academy · Winter School Holiday Camp",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Soho Suites KLCC · Kuala Lumpur",
+      "age": "6–15 лет. В Junior опыт не требуется. Для Senior нужно уверенное базовое пользование компьютером.",
+      "programme": "Junior: Minecraft Education, Tinkercad, цифровые открытки и основы работы с компьютером. Senior: Python, Minecraft, 3D-печать и кибербезопасность.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter-1",
+            "start": "2026-12-14",
+            "end": "2026-12-17",
+            "label": "Winter School Holiday Camp",
+            "price": "614,80 MYR за смену с 6% SST до скидок.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Условия регистрации и места уточнить у организатора."
+            },
+            "price_amount": 614.8,
+            "price_currency": "MYR",
+            "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-2",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Winter School Holiday Camp",
+            "price": "614,80 MYR за смену с 6% SST до скидок.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Условия регистрации и места уточнить у организатора."
+            },
+            "price_amount": 614.8,
+            "price_currency": "MYR",
+            "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-3",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter School Holiday Camp",
+            "price": "583 MYR за смену с 6% SST до скидок.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Условия регистрации и места уточнить у организатора."
+            },
+            "price_amount": 583,
+            "price_currency": "MYR",
+            "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "winter-4",
+            "start": "2027-01-04",
+            "end": "2027-01-07",
+            "label": "Winter School Holiday Camp",
+            "price": "583 MYR за смену с 6% SST до скидок.",
+            "source": "https://novaitacademy.com/holiday-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Условия регистрации и места уточнить у организатора."
+            },
+            "price_amount": 583,
+            "price_currency": "MYR",
+            "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "topic": "Winter School Holiday Camp",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "MYR",
+        "unit": "shift",
+        "label": "580 MYR за 14–17 и 21–24 декабря, 550 MYR за 28–31 декабря и 4–7 января. Сверх тарифа 6% SST: 614,80 MYR или 583 MYR за ребёнка без скидок.",
+        "included": "Учебные компьютеры, занятия, проекты, портфолио и сертификат. Дневные занятия без проживания.",
+        "extras": "Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        }
+      },
+      "editorial_reason": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+        "Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261214-20261217-winter-1"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261221-20261224-winter-2"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20261228-20261231-winter-3"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2259-20270104-20270107-winter-4"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -401153,7 +401491,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 336,
+  "version": 338,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -414388,7 +414726,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2258,
+      "total_dossiers": 2259,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -439458,6 +439796,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261214-20261217-winter-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261221-20261224-winter-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20261228-20261231-winter-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2259",
+      "event_id": "CP2259-20270104-20270107-winter-4",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -444566,10 +444924,14 @@
     "CP2254-20270515-20270626-energy",
     "CP2255-20270109-20270220-coding",
     "CP2255-20270313-20270417-space",
-    "CP2255-20270515-20270626-energy"
+    "CP2255-20270515-20270626-energy",
+    "CP2259-20261214-20261217-winter-1",
+    "CP2259-20261221-20261224-winter-2",
+    "CP2259-20261228-20261231-winter-3",
+    "CP2259-20270104-20270107-winter-4"
   ],
   "integration": {
-    "generated_sessions": 4698,
+    "generated_sessions": 4702,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

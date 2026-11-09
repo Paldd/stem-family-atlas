@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11474; competiciones: 5098; eventos: 735; campamentos / programas: 5641. Perfiles de ligas y programas: 327. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11488; competiciones: 5106; eventos: 737; campamentos / programas: 5645. Perfiles de ligas y programas: 329. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2064 | 165 | 1402 |
-| América del Sur | 15 | 468 | 52 | 258 |
+| América del Sur | 15 | 473 | 52 | 258 |
 | Europa | 55 | 730 | 158 | 1651 |
 | África | 60 | 272 | 45 | 156 |
-| Asia | 50 | 1204 | 176 | 1789 |
+| Asia | 50 | 1208 | 176 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
-Fichas interregionales o mundiales sin un solo continente asignado: 206. América del Norte incluye América Central y el Caribe. Las cantidades describen el inventario actual.
+Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
 
-VEX: 815 de 5098 fichas de competición (16.0%). Hay un claro desequilibrio de cobertura.
+VEX: 815 de 5106 fichas de competiciones (16.0%). La cobertura muestra un claro desequilibrio.
 
 ## Lo que queda
 
@@ -135,7 +135,7 @@ VEX: 815 de 5098 fichas de competición (16.0%). Hay un claro desequilibrio de c
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
 - **FIRST Global Challenge**: 16 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
-- **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
+- **FIRA RoboWorld Cup / Youth**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 fichas, 88 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.worldrobotconference.com/contest/regulations/2632.html
 - **IAIO · International Artificial Intelligence Olympiad**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://iaio-official.org/
@@ -353,6 +353,8 @@ VEX: 815 de 5098 fichas de competición (16.0%). Hay un claro desequilibrio de c
 - **Amco Robot Challenge**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://amcosummit.com/es/
 - **Amco Liga DesafIA**: 0 fichas, 0 con fechas futuras precisas. programa de formación / asistencia; no hay etapas de concurso. https://amcosummit.com/es/
 - **Junior Robot Competition · Kumamoto**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
+- **Liga Nacional de Robótica · Brasil**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lnrobotica.com.br/
+- **FIRA Brasil · Kids**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firabrasil.com/fira-kids
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

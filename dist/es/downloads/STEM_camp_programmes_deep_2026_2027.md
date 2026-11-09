@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2258 fichas en 140 países. Las fechas de comprobación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-09. 2259 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -12572,7 +12572,7 @@ Chile · Río Achibueno 65 km al este de Linares / Maule
 
 Brasil - Morro do Alto / Itapetininga / Estado São Paulo
 
-**Se ha comprobado:** 2026-11-08
+**Se ha comprobado:** 2026-11-09
 
 **Edad:** 8–12; Gratuita International Guest — Una pista separada 12–16
 
@@ -12604,7 +12604,7 @@ Brasil - Morro do Alto / Itapetininga / Estado São Paulo
 
 ### Fuentes
 
-- [Página de la organización o reglamento de la categoría.](https://www.englishcamp.com.br/programas/kids/) · 2026-11-08
+- [Página de la organización o reglamento de la categoría.](https://www.englishcamp.com.br/programas/kids/) · 2026-11-09
 
 - [la plaza](https://www.englishcamp.com.br/localizacao-e-contato/) · 2026-10-04
 
@@ -178507,6 +178507,128 @@ Francia · Vaulx-en-Velin · Planétarium
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.planete-sciences.org/aura/animations/individuel/a-vaulx-en-velin/les-clubs-vaulx-en-velin/) · 2026-11-09
+
+## CP2259 · NOVA IT Academy · Winter School Holiday Camp
+
+Malasia · Soho Suites KLCC · Kuala Lumpur
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Junior: Minecraft Education, Tinkercad, postales digitales y manejo básico del ordenador. Senior: Python, Minecraft, impresión 3D y ciberseguridad.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Cuatro turnos: 14–17, 21–24 y 28–31 de diciembre de 2026, 4–7 de enero de 2027. Lunes a jueves, 10:00–13:00, máximo 12 menores por grupo.
+
+**Precio / año:** 2026 · 580 MYR para 14–17 y 21–24 de diciembre, 550 MYR para 28–31 de diciembre y 4–7 de enero. Más 6% de SST: 614,80 MYR o 583 MYR por menor sin descuentos.
+
+**Incluido:** Ordenadores para las clases, sesiones, proyectos, portafolio y certificado. Sesiones diurnas sin alojamiento.
+
+**Suplementos:** Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Motivo de selección:** Cuatro turnos: 14–17, 21–24 y 28–31 de diciembre de 2026, 4–7 de enero de 2027. Lunes a jueves, 10:00–13:00, máximo 12 menores por grupo.
+
+### Antes de solicitar plaza
+
+- Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+
+- Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador.
+
+### Winter School Holiday Camp
+
+**Fechas / estado:** 2026-12-14 — 2026-12-17
+
+**Precio:** 614,80 MYR por turno con 6% de SST, antes de descuentos.
+
+**condiciones de participación:** Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+
+- 2026-12-14 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-15 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-16 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-17 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+**Disponibilidad de plazas:** Confirmar con la organización las condiciones de inscripción y las plazas.
+
+[fuente](https://novaitacademy.com/holiday-camp/)
+
+### Winter School Holiday Camp
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 614,80 MYR por turno con 6% de SST, antes de descuentos.
+
+**condiciones de participación:** Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+
+- 2026-12-21 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-22 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-23 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-24 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+**Disponibilidad de plazas:** Confirmar con la organización las condiciones de inscripción y las plazas.
+
+[fuente](https://novaitacademy.com/holiday-camp/)
+
+### Winter School Holiday Camp
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 583 MYR por turno con 6% de SST, antes de descuentos.
+
+**condiciones de participación:** Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+
+- 2026-12-28 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-29 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-30 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2026-12-31 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+**Disponibilidad de plazas:** Confirmar con la organización las condiciones de inscripción y las plazas.
+
+[fuente](https://novaitacademy.com/holiday-camp/)
+
+### Winter School Holiday Camp
+
+**Fechas / estado:** 2027-01-04 — 2027-01-07
+
+**Precio:** 583 MYR por turno con 6% de SST, antes de descuentos.
+
+**condiciones de participación:** Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+
+- 2027-01-04 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2027-01-05 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2027-01-06 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+- 2027-01-07 · 10:00–13:00 · Asia/Kuala_Lumpur · Winter School Holiday Camp
+
+**Disponibilidad de plazas:** Confirmar con la organización las condiciones de inscripción y las plazas.
+
+[fuente](https://novaitacademy.com/holiday-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://novaitacademy.com/holiday-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

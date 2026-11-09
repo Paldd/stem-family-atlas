@@ -82,7 +82,8 @@ current_audits = [
                  'amco-summit-and-latam-holiday-tech-audit-v332.json',
                  'pacific-junior-robotics-and-expo-access-audit-v333.json',
                  'swiss-regional-robots-and-franco-swiss-winter-audit-v335.json',
-                 'camelot-qualifiers-and-shanghai-junior-audit-v336.json')
+                 'camelot-qualifiers-and-shanghai-junior-audit-v336.json',
+                 'brazil-robot-leagues-and-malaysia-week-audit-v338.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

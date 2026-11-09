@@ -6743,6 +6743,97 @@ Limitaciones: El club publica jueves 15:00–17:00 y sábados 08:00–10:00 / 10
 Fuente: https://steamacademy.edu.co/
 Se ha comprobado: 2026-11-09
 
+### C5100 · Liga Nacional de Robótica 2026 · São Luís
+
+Fecha: 2026-12-01 — 2026-12-04
+edad: Kids: 1.º–8.º cursos de Ensino Fundamental. Juvenil también incluye el 8.º. El equipo compite en un solo nivel.
+Matvey: Condicional. Confirmar matrícula en el curso escolar adecuado, equivalencia y admisión extranjera.
+Oscar: Condicional. Admisión posible con matrícula como mínimo en el 1.º curso equivalente. Kids no indica grupo preescolar.
+Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
+Acceso: El anuncio de ambos formatos indica 25 de noviembre de 2026. La ficha de la sede todavía indica Em breve. Confirmar el formulario activo y las condiciones del formato elegido.
+Precio: 300 BRL por equipo. La validez de la inscripción depende de confirmar el pago y los documentos.
+Limitaciones:
+Fuente: https://www.lnrobotica.com.br/
+Se ha comprobado: 2026-11-09
+
+### C5101 · Liga Nacional de Robótica 2026 · LNR Brasil Online
+
+Fecha: 2026-12-01 — 2026-12-04
+edad: Kids: 1.º–8.º cursos de Ensino Fundamental. Juvenil también incluye el 8.º. El equipo compite en un solo nivel.
+Matvey: Condicional. Confirmar matrícula en el curso escolar adecuado, equivalencia y admisión extranjera.
+Oscar: Condicional. Admisión posible con matrícula como mínimo en el 1.º curso equivalente. Kids no indica grupo preescolar.
+Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
+Acceso: El anuncio de ambos formatos indica 25 de noviembre de 2026. La ficha de la sede todavía indica Em breve. Confirmar el formulario activo y las condiciones del formato elegido.
+Precio: 300 BRL por equipo. La validez de la inscripción depende de confirmar el pago y los documentos.
+Limitaciones: 1–4 de diciembre de 2026 es el período del evento. Confirmar aparte el plazo para enviar vídeos y la entrega del código.
+Fuente: https://www.lnrobotica.com.br/
+Se ha comprobado: 2026-11-09
+
+### C5102 · CONNEPI 2026 · Torneio de Robótica
+
+Fecha: 2026-12-09 国 2026-12-11
+edad: La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita.
+Matvey: No encaja en la franja de edad de este grupo.
+Oscar: No encaja en la franja de edad de este grupo.
+Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
+Acceso: Selección interna y solicitud por el departamento del instituto federal o IFCE. La corrección fija el plazo en 9 de noviembre de 2026. No indica hora exacta.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita.
+Fuente: https://portal.ifce.edu.br/noticias/ifce-sedia-congresso-norte-nordeste-de-pesquisa-e-inovacao-em-2026/
+Se ha comprobado: 2026-11-09
+
+### E736 · CONNEPI 2026 · Mostra Tecnológica / Arena Gamer
+
+Fecha: 2026-12-09 国 2026-12-11
+edad: El programa público no indica edad mínima para visitantes.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: El programa incluye Mostra Tecnológica, juegos y proyectos científicos. Antes de viajar, confirmar la inscripción de visitantes y los días de acceso familiar.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Las fechas corresponden a todo el congreso. Confirmar por separado el acceso como visitante y las reglas de participación en juegos.
+Fuente: https://www.even3.com.br/connepi-fortaleza-2026/
+Se ha comprobado: 2026-11-09
+
+### C5103 · FIRA Meu Brasil 2026 · FIRA Kids Online
+
+Fecha: 2026-09-05 — 2026-09-07
+edad: FIRA Kids de la temporada 2026: 6–9 años. Confirmar la fecha de corte de edad y las reglas para equipos extranjeros.
+Matvey: El plazo publicado ya pasó. Se conserva para preparar la próxima temporada.
+Oscar: El plazo publicado ya pasó. Se conserva para preparar la próxima temporada.
+Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
+Acceso: Recibir el código del operador y enviar 2 vídeos. Las reglas piden subir las grabaciones a un canal público de YouTube. El plazo de esta fase ya pasó.
+Precio: 150 BRL por equipo mediante PIX tras el correo de la organización.
+Limitaciones:
+Fuente: https://www.firabrasil.com/mundial-2021
+Se ha comprobado: 2026-11-09
+
+### C5104 · FIRA Brasil 2026 · Final Nacional · FIRA Kids
+
+Fecha: 2026-11-17 — 2026-11-19
+edad: FIRA Kids de la temporada 2026: 6–9 años. Confirmar la fecha de corte de edad y las reglas para equipos extranjeros.
+Matvey: El plazo publicado ya pasó. Se conserva para preparar la próxima temporada.
+Oscar: El plazo publicado ya pasó. Se conserva para preparar la próxima temporada.
+Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
+Acceso: Tras clasificarse, el equipo se registra con el operador nacional. La página general indica el 5 de noviembre de 2026 como plazo para inscribirse en la final.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://www.firabrasil.com/final-nacional-2021
+Se ha comprobado: 2026-11-09
+
+### E737 · FIRA Brasil 2026 · Final Nacional · Visitantes
+
+Fecha: 2026-11-17 — 2026-11-19
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: La organización indica una acreditación aparte para visitantes. Confirmar condiciones para menores, acompañantes, horarios de acceso y coste.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Las fechas corresponden a la final. La acreditación de visitantes figura por separado de la inscripción de equipos.
+Fuente: https://www.firabrasil.com/final-nacional-2021
+Se ha comprobado: 2026-11-09
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -6962,7 +7053,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 4 968 BRL de tarifa estándar o 4 570 BRL mediante PIX. La tarifa 2027 puede cambiar antes del pago.
 Limitaciones: Matway: 8-12 es adecuado; la admisión de un niño extranjero menor de 12 años se confirma por separado; Oscar: 2027 menos 8; los pagos: el camino al punto de reunión de São Paulo, el seguro internacional y los pagos complementarios, se especifica. Airport pickup se indica para una Guest internacional separada y no se transfiere a Kids. Pago: PIX/Traducción total o aplazamiento de la tarjeta a petición. El precio cambia; no se devuelve ni se lee el anticipo.
 Fuente: https://www.englishcamp.com.br/programas/kids/
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### CP222-20270104-20270104 · Astranutas · Verano 2027 · EvKids · Inicio del curso · Pn/Cr · 75 minutos; final del curso para especificar · 2027-01-04________________2027-01-04
 

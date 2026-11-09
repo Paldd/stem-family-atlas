@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11474,
-    "competition_cards": 5098,
-    "event_cards": 735,
-    "camp_cards": 5641,
-    "league_profiles": 327,
+    "cards": 11488,
+    "competition_cards": 5106,
+    "event_cards": 737,
+    "camp_cards": 5645,
+    "league_profiles": 329,
     "major_exhibition_cards": 630,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -48,10 +48,10 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 783,
+      "total": 790,
       "countries_with_records": 15,
-      "competitions": 468,
-      "events": 57,
+      "competitions": 473,
+      "events": 59,
       "major_exhibitions": 52,
       "camps": 258,
       "status": "Частично исследовано",
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3182,
+      "total": 3190,
       "countries_with_records": 50,
-      "competitions": 1204,
+      "competitions": 1208,
       "events": 189,
       "major_exhibitions": 176,
-      "camps": 1789,
+      "camps": 1793,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -3108,11 +3108,13 @@
       "name": "FIRA RoboWorld Cup / Youth",
       "group": "international",
       "event_ids": [
-        "C763"
+        "C763",
+        "C5105",
+        "C5106"
       ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/",
       "new": false
@@ -8390,6 +8392,37 @@
       "linked_card_count": 4,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+      "new": false
+    },
+    {
+      "id": "lnr-brazil",
+      "name": "Liga Nacional de Robótica · Brasil",
+      "group": "regional",
+      "event_ids": [
+        "C5100",
+        "C5101",
+        "C5102"
+      ],
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.lnrobotica.com.br/",
+      "new": false
+    },
+    {
+      "id": "fira-brasil",
+      "name": "FIRA Brasil · Kids",
+      "group": "regional",
+      "event_ids": [
+        "C5103",
+        "C5104"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.firabrasil.com/fira-kids",
       "new": false
     },
     {
@@ -17704,7 +17737,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 206,
+  "interregional_cards": 205,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -18741,8 +18774,8 @@
       }
     ],
     "counts": {
-      "records": 5641,
-      "holiday": 5046,
+      "records": 5645,
+      "holiday": 5050,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

@@ -18308,7 +18308,7 @@ Precio: 2027 · 4 968 BRL de tarifa estándar o 4 570 BRL mediante PIX. La tarif
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matway: 8-12 es adecuado; la admisión de un niño extranjero menor de 12 años se confirma por separado; Oscar: 2027 menos 8; los pagos: el camino al punto de reunión de São Paulo, el seguro internacional y los pagos complementarios, se especifica. Airport pickup se indica para una Guest internacional separada y no se transfiere a Kids. Pago: PIX/Traducción total o aplazamiento de la tarjeta a petición. El precio cambia; no se devuelve ni se lee el anticipo.
 Fuente: https://www.englishcamp.com.br/programas/kids/
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### CP103-20261012-20261015-amsterdam-4days · Bricks & Robots · Campamentos robóticos de otoño · Amsterdam · 4 días · 2026-10-12 国2026-10-15
 
@@ -89044,6 +89044,70 @@ Precio: 2027 · 110 EUR por ciclo. Materiales incluidos. Preinscripción sin pag
 Acceso: Está abierta la preinscripción. Las fechas están publicadas y el inicio depende del mínimo de participantes.
 Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.planete-sciences.org/normandie/site/club-sciences.html
+Se ha comprobado: 2026-11-09
+
+### CP2259-20261214-20261217-winter-1 · NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-14–2026-12-17
+
+lugar: Malasia · Soho Suites KLCC · Kuala Lumpur
+Fecha: 2026-12-14 — 2026-12-17
+edad: 6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 614,80 MYR por turno con 6% de SST, antes de descuentos. · suplementos y condiciones en el dossier
+Acceso: Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://novaitacademy.com/holiday-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2259-20261221-20261224-winter-2 · NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-21–2026-12-24
+
+lugar: Malasia · Soho Suites KLCC · Kuala Lumpur
+Fecha: 2026-12-21 - 2026-12-24
+edad: 6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 614,80 MYR por turno con 6% de SST, antes de descuentos. · suplementos y condiciones en el dossier
+Acceso: Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://novaitacademy.com/holiday-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2259-20261228-20261231-winter-3 · NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-28–2026-12-31
+
+lugar: Malasia · Soho Suites KLCC · Kuala Lumpur
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 583 MYR por turno con 6% de SST, antes de descuentos. · suplementos y condiciones en el dossier
+Acceso: Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://novaitacademy.com/holiday-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2259-20270104-20270107-winter-4 · NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2027-01-04–2027-01-07
+
+lugar: Malasia · Soho Suites KLCC · Kuala Lumpur
+Fecha: 2027-01-04 国 2027-01-07
+edad: 6–15 años. Junior no requiere experiencia. Senior requiere soltura básica con el ordenador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 583 MYR por turno con 6% de SST, antes de descuentos. · suplementos y condiciones en el dossier
+Acceso: Confirmar inglés oral, plaza y grupo adecuado por habilidades. Los hermanos pueden elegir la misma semana si hay plazas.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Los descuentos no se acumulan: 50 MYR al inscribirse antes del 15 de noviembre, 10% para el segundo menor antes del 25 de noviembre o 10% para 2 turnos antes del 20 de noviembre. Confirmar el total con el operador. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://novaitacademy.com/holiday-camp/
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

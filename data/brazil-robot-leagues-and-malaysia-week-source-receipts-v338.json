@@ -1,0 +1,242 @@
+{
+  "captures": [
+    {
+      "key": "lnr",
+      "url": "https://www.lnrobotica.com.br/",
+      "final_url": "https://www.lnrobotica.com.br/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 122338,
+      "sha256": "165be5ad2a061e674e24ba360117355bfe7572bb69d9b41dda1af0ea6df9aafc",
+      "file": "lnr.html"
+    },
+    {
+      "key": "lnrRules",
+      "url": "https://www.lnrobotica.com.br/regulamento.pdf",
+      "final_url": "https://www.lnrobotica.com.br/regulamento.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 43010693,
+      "sha256": "92306b4db423757720291046f8592d164b5238db3566237dad5799838dfb7aa0",
+      "file": "lnrRules.pdf"
+    },
+    {
+      "key": "lnrOnlineRules",
+      "url": "https://www.lnrobotica.com.br/regulamento_online.pdf",
+      "final_url": "https://www.lnrobotica.com.br/regulamento_online.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 12053093,
+      "sha256": "6e19809252847bc0566e26f664219074c5afc4b316fc77ccda8b3b6715f4fd85",
+      "file": "lnrOnlineRules.pdf"
+    },
+    {
+      "key": "connepiHost",
+      "url": "https://portal.ifce.edu.br/noticias/ifce-sedia-congresso-norte-nordeste-de-pesquisa-e-inovacao-em-2026/",
+      "final_url": "https://portal.ifce.edu.br/noticias/ifce-sedia-congresso-norte-nordeste-de-pesquisa-e-inovacao-em-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52874,
+      "sha256": "0bfe9a96f43611e69faa6d6323ba2071cf8a63f55712497cf61362015bc1db1a",
+      "file": "connepiHost.html"
+    },
+    {
+      "key": "connepiProgramme",
+      "url": "https://www.even3.com.br/connepi-fortaleza-2026/",
+      "final_url": "https://www.even3.com.br/connepi-fortaleza-2026/",
+      "status": 200,
+      "mime": "text/plain",
+      "bytes": 171130,
+      "sha256": "21bcfa99c1cb3626f1ac03f35e0baf585dcf3e125b2c8a0eaba14321d72e0d10",
+      "file": "connepiProgramme.html"
+    },
+    {
+      "key": "connepiRules",
+      "url": "https://drive.google.com/uc?export=download&id=1dh6DxXdXYDd1KzOFc4AH5xZ2WolCmegb",
+      "final_url": "https://drive.usercontent.google.com/download?id=1dh6DxXdXYDd1KzOFc4AH5xZ2WolCmegb&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 605169,
+      "sha256": "fef6114433a69702720d0ffe05f7f74df62126a9d018393cd76149670b35ecba",
+      "file": "connepiRules.pdf"
+    },
+    {
+      "key": "connepiExtension",
+      "url": "https://drive.google.com/uc?export=download&id=1xco1XhzkqPQpBBtgqxygj-gFogMaf1CB",
+      "final_url": "https://drive.usercontent.google.com/download?id=1xco1XhzkqPQpBBtgqxygj-gFogMaf1CB&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 3970183,
+      "sha256": "9d1f9009531b5720d7a8b35f2ed39de70ad2bfb175d4096a8adb083438438a02",
+      "file": "connepiExtension.pdf"
+    },
+    {
+      "key": "firaBrazilOnline",
+      "url": "https://www.firabrasil.com/mundial-2021",
+      "final_url": "https://www.firabrasil.com/mundial-2021",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 856597,
+      "sha256": "751b0e3dbe3875190070368fd20e36e1f4f8d177d21993248fb952e212037309",
+      "file": "firaBrazilOnline.html"
+    },
+    {
+      "key": "firaKids",
+      "url": "https://www.firabrasil.com/fira-kids",
+      "final_url": "https://www.firabrasil.com/fira-kids",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 851027,
+      "sha256": "72b12c8209db1db01f13a8cb9572b6e039bafbb3f373ad0dc733eb2b87a5a0dc",
+      "file": "firaKids.html"
+    },
+    {
+      "key": "firaQuota",
+      "url": "https://www.firabrasil.com/_files/ugd/fb1f15_8be90c0f766f476683fce4c7a0b33bd6.pdf",
+      "final_url": "https://www.firabrasil.com/_files/ugd/fb1f15_8be90c0f766f476683fce4c7a0b33bd6.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1272566,
+      "sha256": "f24bcefa8bddad6427bdcdfecab2d40aa35ac0156285b9bd25bc31d9d1d77ea6",
+      "file": "firaQuota.pdf"
+    },
+    {
+      "key": "firaOnlineFee",
+      "url": "https://www.firabrasil.com/_files/ugd/fb1f15_92088ad796474577a3ab22051df03ac8.pdf",
+      "final_url": "https://www.firabrasil.com/_files/ugd/fb1f15_92088ad796474577a3ab22051df03ac8.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1279980,
+      "sha256": "d31243dd6c82bae8b3a8f0aca39d0cd1299bdeb55ef53896cc946acb1297a227",
+      "file": "firaOnlineFee.pdf"
+    },
+    {
+      "key": "firaOnlineTime",
+      "url": "https://www.firabrasil.com/_files/ugd/fb1f15_6ff7b0b71c4c4687b83b79afcd70db41.pdf",
+      "final_url": "https://www.firabrasil.com/_files/ugd/fb1f15_6ff7b0b71c4c4687b83b79afcd70db41.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1277629,
+      "sha256": "e295fd3a47ceeb3d6dd405fa9eb74422490ca9d9084d7f527eb44831c2d8aaac",
+      "file": "firaOnlineTime.pdf"
+    },
+    {
+      "key": "firaFinal",
+      "url": "https://www.firabrasil.com/final-nacional-2021",
+      "final_url": "https://www.firabrasil.com/final-nacional-2021",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 836667,
+      "sha256": "910522350288b4980362778fed57b4efb9141494d8692f18834d6a9efc69264c",
+      "file": "firaFinal.html"
+    },
+    {
+      "key": "firaPoster",
+      "url": "https://static.wixstatic.com/media/fb1f15_9dd8461afc60455e819d7a448b2e6e4a~mv2.jpg",
+      "final_url": "https://static.wixstatic.com/media/fb1f15_9dd8461afc60455e819d7a448b2e6e4a~mv2.jpg",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 189054,
+      "sha256": "ef6f1b4c321b7c4e8f09d61dab4ca8bc760894d366c24c7ee0e97ac076eef056",
+      "file": "firaPoster.html"
+    },
+    {
+      "key": "fira",
+      "url": "https://www.firabrasil.com/",
+      "final_url": "https://www.firabrasil.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 864483,
+      "sha256": "cb6d3ab0fdf0062577998219f189536710714c605d3b44f42c4f605700271443",
+      "file": "fira.html"
+    },
+    {
+      "key": "firaMalaysia",
+      "url": "https://firamalaysia.mypolycc.edu.my/public/",
+      "retrieval": "public_web_readback",
+      "bytes": 595,
+      "sha256": "e6392fe67ec96091423c4c1d59aa332b44da0d0d153078f0cce451d45f482be0",
+      "file": "firaMalaysia.txt"
+    },
+    {
+      "key": "firaGlobal",
+      "url": "https://firaworldcup.org/",
+      "final_url": "https://firaworldcup.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214774,
+      "sha256": "d376463ab613436c0fe26caf4f04e55282c40f008b76a0e4d97cdffff1ea976a",
+      "file": "firaGlobal.html"
+    },
+    {
+      "key": "mrcRegistration",
+      "url": "https://minoanrobotsports.gr/",
+      "final_url": "https://minoanrobotsports.gr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44833,
+      "sha256": "1aaf5ea734d633187f56381038162016f8972e1af9dbad2895d0742947e5e148",
+      "file": "mrcRegistration.html"
+    },
+    {
+      "key": "mrcGlobal",
+      "url": "https://minoanrobotsports.gr/",
+      "final_url": "https://minoanrobotsports.gr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44833,
+      "sha256": "1aaf5ea734d633187f56381038162016f8972e1af9dbad2895d0742947e5e148",
+      "file": "mrcGlobal.html"
+    },
+    {
+      "key": "p3",
+      "url": "https://www.p3platform.com/events/p3-interschool-robotics-competition-2026",
+      "final_url": "https://www.p3platform.com/events/p3-interschool-robotics-competition-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 245294,
+      "sha256": "6227a549bd28b5c96c8490e0b67513eec5c55ae01cc052810ce6e46698643d1f",
+      "file": "p3.html"
+    },
+    {
+      "key": "p3Brief",
+      "url": "https://drive.google.com/uc?export=download&id=1Ib469zToQdqv9FivEE2hTGW1myFna8Sp",
+      "final_url": "https://drive.usercontent.google.com/download?id=1Ib469zToQdqv9FivEE2hTGW1myFna8Sp&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 2589578,
+      "sha256": "489ee5be1b65f3c7b6693e7a9f162ee03449c55c1934e710da3e804977a745c2",
+      "file": "p3Brief.pdf"
+    },
+    {
+      "key": "nova",
+      "url": "https://novaitacademy.com/holiday-camp/",
+      "final_url": "https://novaitacademy.com/holiday-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 175537,
+      "sha256": "8d178281beef37038c248defed811b24a0a5aefa351b175056b1918d744bc769",
+      "file": "nova.html"
+    },
+    {
+      "key": "novaBrochure",
+      "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+      "final_url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1589951,
+      "sha256": "8abcd4ca333ea830e0ee0d22ab2c6ba2e4db5a6b919dc83d265269805cf55f16",
+      "file": "novaBrochure.pdf"
+    },
+    {
+      "key": "englishcamp",
+      "url": "https://www.englishcamp.com.br/programas/kids/",
+      "final_url": "https://www.englishcamp.com.br/programas/kids/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165073,
+      "sha256": "fcae87242b84582acae5a02b88c40222b8444109471bc0927716d23f03d02deb",
+      "file": "englishcamp.html"
+    }
+  ]
+}

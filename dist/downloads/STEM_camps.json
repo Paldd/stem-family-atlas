@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5641,
-      "holiday": 5046,
+      "records": 5645,
+      "holiday": 5050,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -73075,7 +73075,7 @@
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Идея",
       "note": "Матвей: 8–12 подходит; платный приём иностранного ребёнка младше 12 подтвердить отдельно. Оскар: В 2027 младше 8. Доплаты: Дорога до пункта сбора в São Paulo, международная страховка и доплаты уточнить. Airport pickup указан для отдельного International Guest и не переносится на Kids. Оплата: PIX/перевод полностью либо рассрочка картой по запросу. Цена меняется; возврат и аванс не прочитаны.",
       "iso": [
@@ -470465,6 +470465,466 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Открыта предварительная заявка. Даты опубликованы, запуск группы зависит от минимального числа участников."
+      }
+    },
+    {
+      "id": "CP2259-20261214-20261217-winter-1",
+      "block": "Лагеря",
+      "title": "NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-14–2026-12-17",
+      "country": "Малайзия",
+      "region": "Азия",
+      "city": "Soho Suites KLCC · Kuala Lumpur",
+      "start": "2026-12-14",
+      "end": "2026-12-17",
+      "period": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–15 лет. В Junior опыт не требуется. Для Senior нужно уверенное базовое пользование компьютером.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+      "gear": "Junior: Minecraft Education, Tinkercad, цифровые открытки и основы работы с компьютером. Senior: Python, Minecraft, 3D-печать и кибербезопасность.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 614,80 MYR за смену с 6% SST до скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.; Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора.",
+      "source": "https://novaitacademy.com/holiday-camp/",
+      "references": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Проверить класс, язык и наличие мест. Оскар: Возраст подходит. Проверить класс, язык и наличие мест. Доплаты: Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nova-klcc-winter-tech",
+      "camp_programme_id": "CP2259",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-14T02:00:00Z",
+          "end_utc": "2026-12-14T05:00:00Z"
+        },
+        {
+          "date": "2026-12-15",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-15T02:00:00Z",
+          "end_utc": "2026-12-15T05:00:00Z"
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T02:00:00Z",
+          "end_utc": "2026-12-16T05:00:00Z"
+        },
+        {
+          "date": "2026-12-17",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-17T02:00:00Z",
+          "end_utc": "2026-12-17T05:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Условия регистрации и места уточнить у организатора."
+      }
+    },
+    {
+      "id": "CP2259-20261221-20261224-winter-2",
+      "block": "Лагеря",
+      "title": "NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-21–2026-12-24",
+      "country": "Малайзия",
+      "region": "Азия",
+      "city": "Soho Suites KLCC · Kuala Lumpur",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–15 лет. В Junior опыт не требуется. Для Senior нужно уверенное базовое пользование компьютером.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+      "gear": "Junior: Minecraft Education, Tinkercad, цифровые открытки и основы работы с компьютером. Senior: Python, Minecraft, 3D-печать и кибербезопасность.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 614,80 MYR за смену с 6% SST до скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.; Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора.",
+      "source": "https://novaitacademy.com/holiday-camp/",
+      "references": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Проверить класс, язык и наличие мест. Оскар: Возраст подходит. Проверить класс, язык и наличие мест. Доплаты: Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nova-klcc-winter-tech",
+      "camp_programme_id": "CP2259",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T02:00:00Z",
+          "end_utc": "2026-12-21T05:00:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T02:00:00Z",
+          "end_utc": "2026-12-22T05:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T02:00:00Z",
+          "end_utc": "2026-12-23T05:00:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T02:00:00Z",
+          "end_utc": "2026-12-24T05:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Условия регистрации и места уточнить у организатора."
+      }
+    },
+    {
+      "id": "CP2259-20261228-20261231-winter-3",
+      "block": "Лагеря",
+      "title": "NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2026-12-28–2026-12-31",
+      "country": "Малайзия",
+      "region": "Азия",
+      "city": "Soho Suites KLCC · Kuala Lumpur",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–15 лет. В Junior опыт не требуется. Для Senior нужно уверенное базовое пользование компьютером.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+      "gear": "Junior: Minecraft Education, Tinkercad, цифровые открытки и основы работы с компьютером. Senior: Python, Minecraft, 3D-печать и кибербезопасность.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 583 MYR за смену с 6% SST до скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.; Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора.",
+      "source": "https://novaitacademy.com/holiday-camp/",
+      "references": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Проверить класс, язык и наличие мест. Оскар: Возраст подходит. Проверить класс, язык и наличие мест. Доплаты: Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nova-klcc-winter-tech",
+      "camp_programme_id": "CP2259",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T02:00:00Z",
+          "end_utc": "2026-12-28T05:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T02:00:00Z",
+          "end_utc": "2026-12-29T05:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T02:00:00Z",
+          "end_utc": "2026-12-30T05:00:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T02:00:00Z",
+          "end_utc": "2026-12-31T05:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Условия регистрации и места уточнить у организатора."
+      }
+    },
+    {
+      "id": "CP2259-20270104-20270107-winter-4",
+      "block": "Лагеря",
+      "title": "NOVA IT Academy · Winter School Holiday Camp · Winter School Holiday Camp · 2027-01-04–2027-01-07",
+      "country": "Малайзия",
+      "region": "Азия",
+      "city": "Soho Suites KLCC · Kuala Lumpur",
+      "start": "2027-01-04",
+      "end": "2027-01-07",
+      "period": "Четыре смены: 14–17, 21–24 и 28–31 декабря 2026, 4–7 января 2027. Понедельник–четверг, 10:00–13:00, максимум 12 детей в группе.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–15 лет. В Junior опыт не требуется. Для Senior нужно уверенное базовое пользование компьютером.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.",
+      "gear": "Junior: Minecraft Education, Tinkercad, цифровые открытки и основы работы с компьютером. Senior: Python, Minecraft, 3D-печать и кибербезопасность.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 583 MYR за смену с 6% SST до скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить устный английский, место и подходящую группу по навыкам. Братья могут выбрать одну неделю при наличии мест.; Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора.",
+      "source": "https://novaitacademy.com/holiday-camp/",
+      "references": [
+        {
+          "url": "https://novaitacademy.com/holiday-camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Проверить класс, язык и наличие мест. Оскар: Возраст подходит. Проверить класс, язык и наличие мест. Доплаты: Скидки не суммируются: 50 MYR при записи до 15 ноября, 10% на второго ребёнка до 25 ноября или 10% на 2 смены до 20 ноября. Итог уточнить у оператора. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "MYS"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nova-klcc-winter-tech",
+      "camp_programme_id": "CP2259",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T02:00:00Z",
+          "end_utc": "2027-01-04T05:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T02:00:00Z",
+          "end_utc": "2027-01-05T05:00:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T02:00:00Z",
+          "end_utc": "2027-01-06T05:00:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Asia/Kuala_Lumpur",
+          "topic": "Winter School Holiday Camp",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T02:00:00Z",
+          "end_utc": "2027-01-07T05:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Условия регистрации и места уточнить у организатора."
       }
     },
     {
