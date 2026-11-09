@@ -86,7 +86,7 @@ window.initAtlasLinks = function initAtlasLinks(state, leagueProfiles) {
   eventDialog.addEventListener('click', event => {
     if (!event.target.closest('[data-share-event]') || !eventDialog.dataset.eventId) return;
     const url = publicURL();
-    url.hash = 'catalog';
+    url.hash = state.view === 'exhibitions' ? 'exhibitions' : 'catalog';
     url.searchParams.set(param('event'), eventDialog.dataset.eventId);
     show(url);
   });
@@ -107,7 +107,7 @@ window.initAtlasLinks = function initAtlasLinks(state, leagueProfiles) {
     syncButton() { shareButton.hidden = !supportedViews.has(state.view); },
     openSharedEvent(view, openEvent, notify) {
       const id = new URL(location.href).searchParams.get(param('event'));
-      if (view !== 'catalog' || !id || (eventDialog.open && eventDialog.dataset.eventId === id)) return;
+      if (!supportedViews.has(view) || !id || (eventDialog.open && eventDialog.dataset.eventId === id)) return;
       if (!openEvent(id)) notify(dialog.dataset.missingEvent);
     }
   };
