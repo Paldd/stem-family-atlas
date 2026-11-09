@@ -89878,6 +89878,134 @@ Limitaciones: Matvey: Supera la edad de este grupo de 4–7 años. Oscar: La eda
 Fuente: https://www.ecolint-camps.ch/en/camps/ecolint-football-camp-4-7-years-old-27?v=5462
 Se ha comprobado: 2026-11-09
 
+### CP2285-20261207-20261211-w1-am · Cobo Academy · Winter Coding, Robotics & AI · Semana 1 · mañana 10:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261214-20261218-w2-am · Cobo Academy · Winter Coding, Robotics & AI · Semana 2 · mañana 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261214-20261218-w2-pm · Cobo Academy · Winter Coding, Robotics & AI · Semana 2 · tarde 14:00–16:00 · 2026-12-14–2026-12-18
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261221-20261224-w3-am · Cobo Academy · Winter Coding, Robotics & AI · Semana 3 · mañana 10:00–12:00 · 2026-12-21–2026-12-24
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261221-20261224-w3-pm · Cobo Academy · Winter Coding, Robotics & AI · Semana 3 · tarde 14:00–16:00 · 2026-12-21–2026-12-24
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261228-20261231-w4-am · Cobo Academy · Winter Coding, Robotics & AI · Semana 4 · mañana 10:00–12:00 · 2026-12-28–2026-12-31
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20261228-20261231-w4-pm · Cobo Academy · Winter Coding, Robotics & AI · Semana 4 · tarde 14:00–16:00 · 2026-12-28–2026-12-31
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
+### CP2285-20270104-20270108-w5-am · Cobo Academy · Winter Coding, Robotics & AI · Semana 5 · mañana 10:00–12:00 · 2027-01-04–2027-01-08
+
+Lugar: RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: attend
+Idioma: El organizador indica expresamente que la enseñanza es en inglés.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte. · cargos y condiciones en la ficha
+Acceso: Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+Condiciones: Matvey: Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto. Oscar: Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto. Cargos extra: Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte. Pago: El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

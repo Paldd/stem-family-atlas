@@ -6925,6 +6925,71 @@ Limitaciones: Robótica, IA, diseño e impresión 3D, Raspberry, Python, App Inv
 Fuente: https://torneorobotica.cl/torneos/campamento-de-ciencias-y-tecnologia-escolar-en-chonchi-2026/
 Se ha comprobado: 2026-11-09
 
+### C5325 · Spirit of Math 2027 · Bolivia · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: Bolivian Society of Science and Technology. El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/bolivia
+Se ha comprobado: 2026-11-09
+
+### C5331 · Spirit of Math 2027 · Chile · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: Paes Pro Spa. El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/chile
+Se ha comprobado: 2026-11-09
+
+### C5332 · Spirit of Math 2027 · Colombia · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: International Education Opportunities (IEO). El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/colombia
+Se ha comprobado: 2026-11-09
+
+### C5335 · Spirit of Math 2027 · Ecuador · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: Academia de Ciencias Exactas APOL. El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/ecuador
+Se ha comprobado: 2026-11-09
+
+### C5354 · Spirit of Math 2027 · Perú · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: Grupo Olímpico Mate E.I.R.L.. El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/peru
+Se ha comprobado: 2026-11-09
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

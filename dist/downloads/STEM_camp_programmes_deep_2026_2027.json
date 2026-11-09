@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2284,
+    "dossiers": 2285,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 299,
+      "published_2026_27": 300,
       "published_2027": 657,
       "partial_2027": 160,
       "next_unannounced": 442,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3223
+    "source_urls": 3225
   },
   "countries": [
     {
@@ -275,7 +275,7 @@
     },
     {
       "country": "Китай, Специальный административный район Гонконг",
-      "count": 66
+      "count": 67
     },
     {
       "country": "Кокосовых (Килинг) островов",
@@ -567,11 +567,11 @@
     },
     {
       "country": "Чили",
-      "count": 41
+      "count": 42
     },
     {
       "country": "Швейцария",
-      "count": 150
+      "count": 153
     },
     {
       "country": "Швеция",
@@ -400698,6 +400698,701 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2285",
+      "slug": "cobo-hong-kong-winter-coding-2026-27",
+      "provider": "Cobo Academy · Winter Coding, Robotics & AI",
+      "country": "Китай, Специальный административный район Гонконг",
+      "iso": "HKG",
+      "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+      "age": "4–16 лет по группам 4–5, 6–8, 9–11, 12–14 и 15–16. Для отдельных курсов действует дополнительный минимум.",
+      "programme": "Junior 6–8: ScratchJr, Codey Rocky, LEGO SPIKE Prime, Scratch и основы ИИ. Senior 9–11: VEX IQ, LEGO SPIKE Prime, Roblox, Minecraft, Python и приложения с ИИ. Программа MakeCode Arcade в Junior требует 8+.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор прямо указывает английский язык преподавания.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "7 декабря 2026 – 8 января 2027. Пять недель по общему расписанию: утро 10:00–12:00, день 14:00–16:00 только в выбранные недели.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "w1-am",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Неделя 1 · утро 10:00–12:00",
+            "price": "4500 HKD за ребёнка, 9000 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-am",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Неделя 2 · утро 10:00–12:00",
+            "price": "4500 HKD за ребёнка, 9000 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w2-pm",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Неделя 2 · день 14:00–16:00",
+            "price": "4500 HKD за ребёнка, 9000 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-am",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Неделя 3 · утро 10:00–12:00",
+            "price": "3600 HKD за ребёнка, 7200 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w3-pm",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Неделя 3 · день 14:00–16:00",
+            "price": "3600 HKD за ребёнка, 7200 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-am",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Неделя 4 · утро 10:00–12:00",
+            "price": "3600 HKD за ребёнка, 7200 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w4-pm",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Неделя 4 · день 14:00–16:00",
+            "price": "3600 HKD за ребёнка, 7200 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "w5-am",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Неделя 5 · утро 10:00–12:00",
+            "price": "4500 HKD за ребёнка, 9000 HKD за двоих до скидок и отдельных расходов.",
+            "source": "https://www.coboacademy.com/holiday-camps/index.asp",
+            "place": "Wan Chai / Kowloon Tong · площадку подтвердить",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "date_precision": "published_session",
+            "entry": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор.",
+            "proof": "Официальный общий график и карточки курсов сверены. Вариант показывает часы оператора, распределение занятий по кампусам уточняется.",
+            "availability": {
+              "status": "operator_listed",
+              "label": "Опубликована форма интереса. Выбранный курс, кампус, расписание группы и наличие места подтверждает оператор."
+            },
+            "questions": [
+              "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "topic": "Cobo Academy · Winter Coding, Robotics & AI",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "HKD",
+        "unit": "week",
+        "label": "3600 HKD за 4 дня или 4500 HKD за 5 дней на ребёнка. Базовая сумма за двоих 7200 HKD или 9000 HKD.",
+        "included": "Два часа занятий в день. Оборудование и условия возврата уточнить по выбранному курсу.",
+        "extras": "Сверить ноутбук и адаптер для курса, а также оплату оборудования. Для MakeCode Arcade консоль указана как 400 HKD inclusive. Перелёт, жильё и транспорт отдельно.",
+        "deposit": "Организатор указывает раннюю скидку 10% до 30 ноября и дополнительную скидку 10% с другом. Как они суммируются и подходят ли братьям, подтвердить по счёту."
+      },
+      "accommodation": "Дневные занятия, без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Кандидат для Senior 9–11. VEX IQ, LEGO SPIKE Prime и основы ИИ есть в перечне. Конкретную группу подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Кандидат для Junior 6–8, если уже 6 лет на старте. Codey Rocky от 6 лет, MakeCode Arcade от 8 лет. Конкретную группу подтвердить."
+        }
+      },
+      "editorial_reason": "Два возрастных трека с одним общим графиком. Подтверждённой пары в конкретном кампусе пока нет.",
+      "shortlist": [],
+      "questions": [
+        "Попросить подтверждение двух мест на одной площадке и в одинаковые часы. Некоторые курсы в Kowloon Tong доступны по запросу."
+      ],
+      "sources": [
+        {
+          "url": "https://www.coboacademy.com/holiday-camps/index.asp",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/F65eJmGptg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=144",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=186",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=189",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=190",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=210",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=211",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=223",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.coboacademy.com/camp_detail/index.asp?CourseID=224",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "camp",
+      "catalog_participation": "attend",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261207-20261211-w1-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261214-20261218-w2-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261214-20261218-w2-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261221-20261224-w3-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261221-20261224-w3-pm"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261228-20261231-w4-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20261228-20261231-w4-pm"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2285-20270104-20270108-w5-am"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -419258,7 +419953,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2284,
+      "total_dossiers": 2285,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -444518,6 +445213,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261207-20261211-w1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261214-20261218-w2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261214-20261218-w2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261221-20261224-w3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261221-20261224-w3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261228-20261231-w4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20261228-20261231-w4-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2285",
+      "event_id": "CP2285-20270104-20270108-w5-am",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -449663,10 +450398,18 @@
     "CP2282-20270215-20270219-full",
     "CP2283-20270215-20270219-full",
     "CP2283-20270215-20270219-half",
-    "CP2284-20270215-20270219-full"
+    "CP2284-20270215-20270219-full",
+    "CP2285-20261207-20261211-w1-am",
+    "CP2285-20261214-20261218-w2-am",
+    "CP2285-20261214-20261218-w2-pm",
+    "CP2285-20261221-20261224-w3-am",
+    "CP2285-20261221-20261224-w3-pm",
+    "CP2285-20261228-20261231-w4-am",
+    "CP2285-20261228-20261231-w4-pm",
+    "CP2285-20270104-20270108-w5-am"
   ],
   "integration": {
-    "generated_sessions": 4735,
+    "generated_sessions": 4743,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

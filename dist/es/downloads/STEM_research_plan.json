@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 346,
+    "prepared_ui_version": 347,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 345,
-    "previous_verified_commit": "e4df79acc3003cbfcadcaa62d577c99b60229b91"
+    "previous_verified_ui_version": 346,
+    "previous_verified_commit": "55174c02bbf471cb5a9dc48f35721621103f812a"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 345,
-    "published_version": 345,
-    "latest_source_commit": "e4df79acc3003cbfcadcaa62d577c99b60229b91",
-    "published_commit": "e4df79acc3003cbfcadcaa62d577c99b60229b91",
-    "latest_workflow": 42623106070,
+    "latest_source_version": 346,
+    "published_version": 346,
+    "latest_source_commit": "55174c02bbf471cb5a9dc48f35721621103f812a",
+    "published_commit": "55174c02bbf471cb5a9dc48f35721621103f812a",
+    "latest_workflow": 42626571146,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -36460,5 +36460,538 @@
         "evidence": "https://next-academy.ch/assets/WinterTechCamp-vhWb73KL.js"
       }
     ]
+  },
+  "spirit_math_cobo_and_territories_v347": {
+    "version": 347,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5320",
+      "C5321",
+      "C5322",
+      "C5323",
+      "C5324",
+      "C5325",
+      "C5326",
+      "C5327",
+      "C5328",
+      "C5329",
+      "C5330",
+      "C5331",
+      "C5332",
+      "C5333",
+      "C5334",
+      "C5335",
+      "C5336",
+      "C5337",
+      "C5338",
+      "C5339",
+      "C5340",
+      "C5341",
+      "C5342",
+      "C5343",
+      "C5344",
+      "C5345",
+      "C5346",
+      "C5347",
+      "C5348",
+      "C5349",
+      "C5350",
+      "C5351",
+      "C5352",
+      "C5353",
+      "C5354",
+      "C5355",
+      "C5356",
+      "C5357",
+      "C5358",
+      "C5359",
+      "C5360",
+      "C5361",
+      "C5362",
+      "C5363",
+      "C5364",
+      "C5365",
+      "C5366",
+      "C5367",
+      "E759",
+      "E760",
+      "E761",
+      "C5368",
+      "CP2285-20261207-20261211-w1-am",
+      "CP2285-20261214-20261218-w2-am",
+      "CP2285-20261214-20261218-w2-pm",
+      "CP2285-20261221-20261224-w3-am",
+      "CP2285-20261221-20261224-w3-pm",
+      "CP2285-20261228-20261231-w4-am",
+      "CP2285-20261228-20261231-w4-pm",
+      "CP2285-20270104-20270108-w5-am"
+    ],
+    "refreshed_event_ids": [
+      "C4996"
+    ],
+    "new_dossier_ids": [
+      "CP2285"
+    ],
+    "new_league_ids": [
+      "spirit-of-math"
+    ],
+    "spirit_national_routes": [
+      {
+        "iso": "DZA",
+        "event_id": "C5320",
+        "source": "https://www.spiritofmathcontest.com/countries/algeria",
+        "representative": "DOC SERVICES",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "AUS",
+        "event_id": "C5321",
+        "source": "https://www.spiritofmathcontest.com/countries/australia",
+        "representative": "Russian School of Western Australia",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "AZE",
+        "event_id": "C5322",
+        "source": "https://www.spiritofmathcontest.com/countries/azerbaijan",
+        "representative": "Global Olympiad Center",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "BRB",
+        "event_id": "C5323",
+        "source": "https://www.spiritofmathcontest.com/countries/barbados",
+        "representative": "Math A Plus Academy",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "BMU",
+        "event_id": "C5324",
+        "source": "https://www.spiritofmathcontest.com/countries/bermuda",
+        "representative": "Planet Math",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "BOL",
+        "event_id": "C5325",
+        "source": "https://www.spiritofmathcontest.com/countries/bolivia",
+        "representative": "Bolivian Society of Science and Technology",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "BWA",
+        "event_id": "C5326",
+        "source": "https://www.spiritofmathcontest.com/countries/botswana",
+        "representative": "MAB Trust",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "BRN",
+        "event_id": "C5327",
+        "source": "https://www.spiritofmathcontest.com/countries/brunei",
+        "representative": "Mavensdotlive",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "KHM",
+        "event_id": "C5328",
+        "source": "https://www.spiritofmathcontest.com/countries/cambodia",
+        "representative": "Bright Consultant Education and Travel",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "CMR",
+        "event_id": "C5329",
+        "source": "https://www.spiritofmathcontest.com/countries/cameroon",
+        "representative": "Xpand Olympiad",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "CAN",
+        "event_id": "C5330",
+        "source": "https://www.spiritofmathcontest.com/countries/canada",
+        "representative": "Spirit of Math",
+        "exact_national_sitting": "2027-02-26",
+        "window_only": false
+      },
+      {
+        "iso": "CHL",
+        "event_id": "C5331",
+        "source": "https://www.spiritofmathcontest.com/countries/chile",
+        "representative": "Paes Pro Spa",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "COL",
+        "event_id": "C5332",
+        "source": "https://www.spiritofmathcontest.com/countries/colombia",
+        "representative": "International Education Opportunities (IEO)",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "CRI",
+        "event_id": "C5333",
+        "source": "https://www.spiritofmathcontest.com/countries/costa-rica",
+        "representative": "Einstein Prep & Learning Center",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "DOM",
+        "event_id": "C5334",
+        "source": "https://www.spiritofmathcontest.com/countries/dominican-republic",
+        "representative": "Fundación Steam RD",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "ECU",
+        "event_id": "C5335",
+        "source": "https://www.spiritofmathcontest.com/countries/ecuador",
+        "representative": "Academia de Ciencias Exactas APOL",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "GHA",
+        "event_id": "C5336",
+        "source": "https://www.spiritofmathcontest.com/countries/ghana",
+        "representative": "Academic Talent Development Program",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "GTM",
+        "event_id": "C5337",
+        "source": "https://www.spiritofmathcontest.com/countries/guatemala",
+        "representative": "STEAM Group",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "HTI",
+        "event_id": "C5338",
+        "source": "https://www.spiritofmathcontest.com/countries/haiti",
+        "representative": "Haiti STEM Alliance",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "HKG",
+        "event_id": "C5339",
+        "source": "https://www.spiritofmathcontest.com/countries/hong-kong",
+        "representative": "Miss Man International Education",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "IND",
+        "event_id": "C5340",
+        "source": "https://www.spiritofmathcontest.com/countries/india",
+        "representative": "Institute of Global Olympiads",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "IDN",
+        "event_id": "C5341",
+        "source": "https://www.spiritofmathcontest.com/countries/indonesia",
+        "representative": "Maju (Markas Juara), part of Edukultur",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "ITA",
+        "event_id": "C5342",
+        "source": "https://www.spiritofmathcontest.com/countries/italy",
+        "representative": "Dreampuzzle Aps ets",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "KAZ",
+        "event_id": "C5343",
+        "source": "https://www.spiritofmathcontest.com/countries/kazakhstan",
+        "representative": "EduVerse KZ LLP",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "KGZ",
+        "event_id": "C5344",
+        "source": "https://www.spiritofmathcontest.com/countries/kyrgyz-republic",
+        "representative": "Zeen Education",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "LAO",
+        "event_id": "C5345",
+        "source": "https://www.spiritofmathcontest.com/countries/laos",
+        "representative": "BrightPath",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "LBN",
+        "event_id": "C5346",
+        "source": "https://www.spiritofmathcontest.com/countries/lebanon",
+        "representative": "Mind Power",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "MAC",
+        "event_id": "C5347",
+        "source": "https://www.spiritofmathcontest.com/countries/macau",
+        "representative": "Miss Man Education",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "MYS",
+        "event_id": "C5348",
+        "source": "https://www.spiritofmathcontest.com/countries/malaysia",
+        "representative": "E Mathematics Olympiad System",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "MAR",
+        "event_id": "C5349",
+        "source": "https://www.spiritofmathcontest.com/countries/morocco",
+        "representative": "GuidED Olympiad",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "MMR",
+        "event_id": "C5350",
+        "source": "https://www.spiritofmathcontest.com/countries/myanmar",
+        "representative": "KKMT Company Limited",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "NER",
+        "event_id": "C5351",
+        "source": "https://www.spiritofmathcontest.com/countries/niger",
+        "representative": "Organization for the Promotion of Excellence",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "NGA",
+        "event_id": "C5352",
+        "source": "https://www.spiritofmathcontest.com/countries/nigeria",
+        "representative": "International Academy for the Gifted",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "PAK",
+        "event_id": "C5353",
+        "source": "https://www.spiritofmathcontest.com/countries/pakistan",
+        "representative": "International Academic Competitions Services",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "PER",
+        "event_id": "C5354",
+        "source": "https://www.spiritofmathcontest.com/countries/peru",
+        "representative": "Grupo Olímpico Mate E.I.R.L.",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "PHL",
+        "event_id": "C5355",
+        "source": "https://www.spiritofmathcontest.com/countries/philippines",
+        "representative": "Mathematics Trainers' Guild Philippines",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "LCA",
+        "event_id": "C5356",
+        "source": "https://www.spiritofmathcontest.com/countries/saint-lucia",
+        "representative": "Caribbean After School Tutoring",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "SGP",
+        "event_id": "C5357",
+        "source": "https://www.spiritofmathcontest.com/countries/singapore",
+        "representative": "Asia Maths Alliance Pte. Ltd.",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "LKA",
+        "event_id": "C5358",
+        "source": "https://www.spiritofmathcontest.com/countries/sri-lanka",
+        "representative": "Sri Lanka Olympiad Mathematics Foundation",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "SDN",
+        "event_id": "C5359",
+        "source": "https://www.spiritofmathcontest.com/countries/sudan",
+        "representative": "University of Bahri",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "TWN",
+        "event_id": "C5360",
+        "source": "https://www.spiritofmathcontest.com/countries/taiwan",
+        "representative": "Chinese Mathematics Association",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "TJK",
+        "event_id": "C5361",
+        "source": "https://www.spiritofmathcontest.com/countries/tajikistan",
+        "representative": "Innovation Lyceum Javoni",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "TZA",
+        "event_id": "C5362",
+        "source": "https://www.spiritofmathcontest.com/countries/tanzania",
+        "representative": "Mwambe Excel Consultancy",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "TUR",
+        "event_id": "C5363",
+        "source": "https://www.spiritofmathcontest.com/countries/turkiye",
+        "representative": "Kanguru Eğitim ve Sınav Hizmetleri",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "USA",
+        "event_id": "C5364",
+        "source": "https://www.spiritofmathcontest.com/countries/united-states",
+        "representative": "Spirit of Math",
+        "exact_national_sitting": "2027-02-26",
+        "window_only": false
+      },
+      {
+        "iso": "VEN",
+        "event_id": "C5365",
+        "source": "https://www.spiritofmathcontest.com/countries/venezuela",
+        "representative": "Fundación Amigos de las Artes Humanidades y Educación",
+        "exact_national_sitting": null,
+        "window_only": true
+      },
+      {
+        "iso": "VNM",
+        "event_id": "C5366",
+        "source": "https://www.spiritofmathcontest.com/countries/vietnam",
+        "representative": "Ikemso Global Joint Stock Company",
+        "exact_national_sitting": null,
+        "window_only": true
+      }
+    ],
+    "spirit_global_2027_exact_date": null,
+    "spirit_absent_from_directory": [
+      "MEX",
+      "BRA"
+    ],
+    "newly_represented_geographies": [
+      "ESH",
+      "PRK"
+    ],
+    "no_open_programme_found": {
+      "NFK": {
+        "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+        "sources": [
+          "https://norfolkislandcs.eq.edu.au/facilities",
+          "https://norfolkislandhealth.gov.nf/wp-content/uploads/2025/05/20-NIHRACS-community-update-15.05.2025.pdf"
+        ]
+      },
+      "HMD": {
+        "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+        "sources": [
+          "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/"
+        ]
+      },
+      "BVT": {
+        "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+        "sources": [
+          "https://npolar.no/en/themes/bouvetoya/",
+          "https://npolar.no/en/regulations-bouvetoya-nature-reserve/"
+        ]
+      },
+      "IOT": {
+        "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+        "sources": [
+          "https://www.gov.uk/world/british-indian-ocean-territory/news"
+        ]
+      },
+      "UMI": {
+        "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+        "sources": [
+          "https://www.fws.gov/national-monument/pacific-islands-heritage-marine",
+          "https://www.fws.gov/refuge/midway-atoll"
+        ]
+      }
+    },
+    "archive_only_ids": [
+      "E759",
+      "E760",
+      "E761"
+    ],
+    "cobo_primary_course_links": 38,
+    "cobo_published_week_count": 5,
+    "cobo_schedule_variant_ids": [
+      "CP2285-20261207-20261211-w1-am",
+      "CP2285-20261214-20261218-w2-am",
+      "CP2285-20261214-20261218-w2-pm",
+      "CP2285-20261221-20261224-w3-am",
+      "CP2285-20261221-20261224-w3-pm",
+      "CP2285-20261228-20261231-w4-am",
+      "CP2285-20261228-20261231-w4-pm",
+      "CP2285-20270104-20270108-w5-am"
+    ],
+    "cobo_course_campus_allocation_confirmed": false,
+    "cobo_base_budget_two_children_hkd": {
+      "four_days": 7200,
+      "five_days": 9000
+    },
+    "rechecked_unchanged_event_ids": [
+      "C003",
+      "C1295",
+      "C1296",
+      "C008",
+      "E280",
+      "C2960",
+      "C4588",
+      "C4589"
+    ],
+    "external_registrations_or_messages": false,
+    "source_requests": 123
   }
 }

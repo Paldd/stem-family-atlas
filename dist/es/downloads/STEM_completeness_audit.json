@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11769,
-    "competition_cards": 5318,
-    "event_cards": 758,
-    "camp_cards": 5693,
-    "league_profiles": 335,
-    "major_exhibition_cards": 651,
+    "cards": 11829,
+    "competition_cards": 5367,
+    "event_cards": 761,
+    "camp_cards": 5701,
+    "league_profiles": 336,
+    "major_exhibition_cards": 654,
     "vex_cards": 821,
-    "countries_with_records": 242,
+    "countries_with_records": 244,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3864,
+      "total": 3875,
       "countries_with_records": 41,
-      "competitions": 2212,
+      "competitions": 2223,
       "events": 224,
       "major_exhibitions": 177,
       "camps": 1428,
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 797,
+      "total": 803,
       "countries_with_records": 15,
-      "competitions": 479,
+      "competitions": 485,
       "events": 59,
       "major_exhibitions": 52,
       "camps": 259,
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2589,
+      "total": 2590,
       "countries_with_records": 55,
-      "competitions": 732,
+      "competitions": 733,
       "events": 185,
       "major_exhibitions": 161,
       "camps": 1672,
@@ -76,11 +76,11 @@
       "regions": [
         "África"
       ],
-      "total": 480,
-      "countries_with_records": 60,
-      "competitions": 272,
-      "events": 52,
-      "major_exhibitions": 45,
+      "total": 490,
+      "countries_with_records": 61,
+      "competitions": 281,
+      "events": 53,
+      "major_exhibitions": 46,
       "camps": 156,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3199,
-      "countries_with_records": 50,
-      "competitions": 1211,
-      "events": 195,
-      "major_exhibitions": 182,
-      "camps": 1793,
+      "total": 3230,
+      "countries_with_records": 51,
+      "competitions": 1232,
+      "events": 197,
+      "major_exhibitions": 184,
+      "camps": 1801,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 582,
+      "total": 583,
       "countries_with_records": 27,
-      "competitions": 176,
+      "competitions": 177,
       "events": 36,
       "major_exhibitions": 32,
       "camps": 370,
@@ -8719,6 +8719,67 @@
       "new": false
     },
     {
+      "id": "spirit-of-math",
+      "name": "International Spirit of Math® Contest",
+      "group": "international",
+      "event_ids": [
+        "C5320",
+        "C5321",
+        "C5322",
+        "C5323",
+        "C5324",
+        "C5325",
+        "C5326",
+        "C5327",
+        "C5328",
+        "C5329",
+        "C5330",
+        "C5331",
+        "C5332",
+        "C5333",
+        "C5334",
+        "C5335",
+        "C5336",
+        "C5337",
+        "C5338",
+        "C5339",
+        "C5340",
+        "C5341",
+        "C5342",
+        "C5343",
+        "C5344",
+        "C5345",
+        "C5346",
+        "C5347",
+        "C5348",
+        "C5349",
+        "C5350",
+        "C5351",
+        "C5352",
+        "C5353",
+        "C5354",
+        "C5355",
+        "C5356",
+        "C5357",
+        "C5358",
+        "C5359",
+        "C5360",
+        "C5361",
+        "C5362",
+        "C5363",
+        "C5364",
+        "C5365",
+        "C5366",
+        "C5367"
+      ],
+      "cards": 48,
+      "future_dated": 2,
+      "linked_card_count": 48,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.spiritofmathcontest.com/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -16881,6 +16942,39 @@
       "new": false
     },
     {
+      "id": "E759",
+      "name": "Moroccan Sahara Innovation Challenge 2026 · Laâyoune",
+      "country": "Sáhara Occidental",
+      "region": "África",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://ensas.uca.ma/Home/Eventgallerie/1162",
+      "new": false
+    },
+    {
+      "id": "E760",
+      "name": "National Exhibition of Children’s Science Fiction Models and Inventions 2026 · Pyongyang",
+      "country": "Corea del Norte",
+      "region": "Asia",
+      "start": "2026-06-02",
+      "end": "2026-06-07",
+      "visitor_policy": "confirm_children",
+      "source": "https://kcnawatch.org/newstream/1780467285-50411868/national-exhibition-of-childrens-science-fiction-models-and-inventions-2026-opens-in-dprk/",
+      "new": false
+    },
+    {
+      "id": "E761",
+      "name": "National Youth Sci-tech Successes Exhibition 2026 · Pyongyang",
+      "country": "Corea del Norte",
+      "region": "Asia",
+      "start": "2026-08-27",
+      "end": "2026-09-01",
+      "visitor_policy": "confirm_children",
+      "source": "https://oananews.org/node/712260",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17395,7 +17489,9 @@
     "v 38: 38 tarjetas ≠38 de eventos internacionales independientes.8 datas Mini-Robots  cambios de un operador; 2 programas globales futuros no confirman la selección local. ninguna nueva escuela fue declarada líder mundial por programa / premio local.",
     "v 39: el recorrido por edad 2026–2030 calculado según las reglas actuales y no crea futuras fechas de torneos. posible ventana general WRO Elementary de los hermanos — 2028/29; no se ha confirmado la cuota extranjera.",
     "v47: HIF minimum10 al comienzo del turno; Aiglon robotics8 no es el day7 general; EISB summer cutoff2019 excluye el 2020. VivaTech no confirma el public day individual de los niños. nuevos podios y victorias nacionales no el ranking general mundial de las escuelas.",
-    "v48: Singapur Grade5/4 ≠ edad9; Overseas sin plaza SG World; NRC separado de WRO. Worklab/Cobo: inglés confirmado directamente; Computhink: desconocido. AIS regional/internal ≠ Worlds. GITEX: estrictamente mayores de18."
+    "v48: Singapur Grade5/4 ≠ edad9; Overseas sin plaza SG World; NRC separado de WRO. Worklab/Cobo: inglés confirmado directamente; Computhink: desconocido. AIS regional/internal ≠ Worlds. GITEX: estrictamente mayores de18.",
+    "Se verificaron 47 vías escolares nacionales de Spirit of Math, se publicaron 8 opciones del horario general de Cobo Academy en inglés y se añadieron 3 fichas históricas de exposiciones. Dos nuevos territorios están representados por eventos históricos. La auditoría mundial continúa.",
+    "Se revisaron fuentes específicas para cinco territorios sin fichas. La infraestructura científica, las actividades escolares internas y los permisos de visita se registran por separado."
   ],
   "source_issues": [
     {
@@ -19298,14 +19394,14 @@
       }
     ],
     "counts": {
-      "records": 5693,
+      "records": 5701,
       "holiday": 5073,
       "regular": 229,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1668,
+      "en_es_instruction": 1676,
       "en_es_support": 67,
-      "family_instruction": 1668,
+      "family_instruction": 1676,
       "family_support": 67,
       "ru_instruction": 4,
       "language_lessons": 423,
@@ -21506,5 +21602,40 @@
     "source_receipts": "33 solicitudes de HTTP,3no logradas;17 organismos primarios leyeron más2 resúmenes de LATI; páginas PDF pertinentes inspeccionadas visualmente; págines con sólo shell no declaradas leídas"
   },
   "updated_profile_ids": [],
-  "calendar_counts_asof": "2026-11-09"
+  "calendar_counts_asof": "2026-11-09",
+  "territory_access_checks": {
+    "NFK": {
+      "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+      "sources": [
+        "https://norfolkislandcs.eq.edu.au/facilities",
+        "https://norfolkislandhealth.gov.nf/wp-content/uploads/2025/05/20-NIHRACS-community-update-15.05.2025.pdf"
+      ]
+    },
+    "HMD": {
+      "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+      "sources": [
+        "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/"
+      ]
+    },
+    "BVT": {
+      "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+      "sources": [
+        "https://npolar.no/en/themes/bouvetoya/",
+        "https://npolar.no/en/regulations-bouvetoya-nature-reserve/"
+      ]
+    },
+    "IOT": {
+      "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+      "sources": [
+        "https://www.gov.uk/world/british-indian-ocean-territory/news"
+      ]
+    },
+    "UMI": {
+      "status": "Se consultaron fuentes específicas. No se confirma un programa local abierto.",
+      "sources": [
+        "https://www.fws.gov/national-monument/pacific-islands-heritage-marine",
+        "https://www.fws.gov/refuge/midway-atoll"
+      ]
+    }
+  }
 }

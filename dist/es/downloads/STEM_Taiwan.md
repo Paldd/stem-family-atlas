@@ -1094,6 +1094,19 @@ Limitaciones: Foro profesional con ponencias sobre aplicaciones de IA en videoju
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
 Se ha comprobado: 2026-11-08
 
+### C5360 · Spirit of Math 2027 · Taiwán · ronda nacional
+
+Fecha: Ventana general del 4 de enero al 5 de abril de 2027. La escuela fija el día exacto.
+Edad: Grados 1–8. La categoría se determina por el grado escolar real del estudiante.
+Matvey: Condicional. Se requiere cursar un grado del 1 al 8 y confirmar la participación de la escuela o de un centro autorizado.
+Oscar: Condicional. Se requiere cursar efectivamente el 1.º grado o uno superior dentro de 1–8. El grado escolar se comprueba por separado de la edad.
+Idioma: Confirme con la escuela el idioma de las preguntas y las instrucciones. La página del concurso en inglés no lo determina por sí sola.
+Acceso: La vía habitual pasa por el centro escolar y el representante nacional. Las familias consultan al docente o coordinador.
+Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
+Condiciones: Representante local: Chinese Mathematics Association. El grado y el idioma se verifican con la sede correspondiente.
+Fuente: https://www.spiritofmathcontest.com/countries/taiwan
+Se ha comprobado: 2026-11-09
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

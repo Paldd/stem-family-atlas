@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2284 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2285 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -180393,6 +180393,262 @@ Suiza · La Grande Boissière · 7 rue Marie-Thérèse-Maurette · Genève
 - [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/en/our-camps) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf) · 2026-11-09
+
+## CP2285 · Cobo Academy · Winter Coding, Robotics & AI
+
+RAE de Hong Kong (China) · Wan Chai / Kowloon Tong · sede por confirmar
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 4–16 años en grupos 4–5, 6–8, 9–11, 12–14 y 15–16. Algunos cursos aplican una edad mínima adicional.
+
+**Idioma:** El organizador indica expresamente que la enseñanza es en inglés.
+
+**Programa:** Junior 6–8: ScratchJr, Codey Rocky, LEGO SPIKE Prime, Scratch y fundamentos de IA. Senior 9–11: VEX IQ, LEGO SPIKE Prime, Roblox, Minecraft, Python y aplicaciones de IA. MakeCode Arcade en Junior exige 8+.
+
+**Alojamiento:** Clases diurnas, sin alojamiento.
+
+**Fechas / estado:** Del 7 de diciembre de 2026 al 8 de enero de 2027. Cinco semanas en el calendario general: mañana 10:00–12:00 y tarde 14:00–16:00 solo en ciertas semanas.
+
+**Precio / año:** 2027 · 3600 HKD por 4 días o 4500 HKD por 5 días por menor. El total base para dos es 7200 HKD o 9000 HKD.
+
+**Incluye:** Dos horas de clases al día. Confirme los equipos y las condiciones de devolución para el curso elegido.
+
+**Cargos extra:** Confirme el portátil y el adaptador del curso, así como el cargo de equipos. En MakeCode Arcade la consola figura como 400 HKD inclusive. Vuelos, alojamiento y transporte se pagan aparte.
+
+**Pago:** El organizador indica un 10% de descuento anticipado antes del 30 de noviembre y otro 10% con un amigo. Confirme en la factura cómo se combinan y si se aplican a los hermanos.
+
+**Matvey:** Candidato a Senior 9–11. La lista incluye VEX IQ, LEGO SPIKE Prime y fundamentos de IA. Confirme el grupo concreto.
+
+**Oscar:** Candidato a Junior 6–8 si ya tiene 6 años al inicio. Codey Rocky desde 6 años y MakeCode Arcade desde 8 años. Confirme el grupo concreto.
+
+**Motivo de selección:** Dos itinerarios de edad con un horario general común. Aún no hay una combinación confirmada en un campus concreto.
+
+### Antes de solicitar plaza
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+### Semana 1 · mañana 10:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-07 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-08 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-09 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-10 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-11 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 2 · mañana 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-15 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-16 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-17 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-18 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 2 · tarde 14:00–16:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-14 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-15 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-16 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-17 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-18 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 3 · mañana 10:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 3 · tarde 14:00–16:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 4 · mañana 10:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 4 · tarde 14:00–16:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 3600 HKD por menor y 7200 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Semana 5 · mañana 10:00–12:00
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Wan Chai / Kowloon Tong · sede por confirmar
+
+**Precio:** 4500 HKD por menor y 9000 HKD para dos antes de descuentos y gastos aparte.
+
+**Condiciones de participación:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- 2027-01-04 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2027-01-05 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2027-01-06 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2027-01-07 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+- 2027-01-08 · 10:00–12:00 · Asia/Hong_Kong · Cobo Academy · Winter Coding, Robotics & AI
+
+**Disponibilidad:** Se publica un formulario de interés. El proveedor confirma el curso, el campus, el horario del grupo y la disponibilidad.
+
+- Solicite confirmación de dos plazas en la misma sede y horario. Algunos cursos en Kowloon Tong se ofrecen previa consulta.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://forms.cloud.microsoft/r/F65eJmGptg) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=144) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=186) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=189) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=190) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=210) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=211) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=223) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.coboacademy.com/camp_detail/index.asp?CourseID=224) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

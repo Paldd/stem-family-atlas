@@ -88,7 +88,8 @@ current_audits = [
                  'panama-ai-vex-and-maker-routes-audit-v341.json',
                  'tampa-and-caribbean-stem-schedules-audit-v342.json',
                  'mexico-museum-and-winter-robotics-audit-v343.json',
-                 'chile-guatemala-thailand-robotics-audit-v345.json')
+                 'chile-guatemala-thailand-robotics-audit-v345.json',
+                 'spirit-math-cobo-and-territories-audit-v347.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}
@@ -327,10 +328,13 @@ first_global_directory=json.loads((ROOT/'data/first-global-2026-team-directory-v
 first_global_routes['routes'].extend(first_global_directory['routes'])
 apicta_routes=json.loads((ROOT/'data/apicta-national-routes-v238.json').read_text())
 national_routes=d['national_routes']
-for bundle in (first_global_routes, apicta_routes):
+national_bundles = [audit['national_route_bundle'] for audit in current_audits
+                    if 'national_route_bundle' in audit]
+for bundle in (first_global_routes, apicta_routes, *national_bundles):
     national_routes['routes'].extend(bundle['routes'])
     national_routes['pathways'].append(bundle['pathway'])
     national_routes['sources'].extend(bundle['sources'])
+    national_routes.setdefault('country_notes', {}).update(bundle.get('country_notes', {}))
     for country in d['countries']:
         country['network_route_ids'].extend(r['id'] for r in bundle['routes'] if r['iso']==country['iso'])
 route_updates = {
@@ -410,9 +414,12 @@ for e in d['events']:
         assert datetime.date.fromisoformat(e['start'])<=datetime.date.fromisoformat(e['end'])
 assert len(set(e['id'] for e in d['events']))==len(d['events'])
 coverage=[]
+territory_checks = d.get('completeness_audit', {}).get('territory_access_checks', {})
 for c in countries:
     a=[e for e in d['events'] if c['iso'] in e['iso']]
-    row=dict(iso=c['iso'],country=c['country'],region=c['region'],research_status='Частично: есть записи; полный местный аудит не завершён' if a else 'Местный календарь ещё не исследован',competitions=sum(e['block']=='Соревнования' for e in a),exhibitions=sum(e['block']=='События' for e in a),camps=sum(e['block']=='Лагеря' for e in a),dated=sum(bool(e['start']) for e in a),organizer=c['wro'],organizer_url=c['url'])
+    unchecked_status = 'Местный календарь ещё не исследован'
+    empty_status = territory_checks.get(c['iso'], {}).get('status', unchecked_status)
+    row=dict(iso=c['iso'],country=c['country'],region=c['region'],research_status='Частично: есть записи; полный местный аудит не завершён' if a else empty_status,competitions=sum(e['block']=='Соревнования' for e in a),exhibitions=sum(e['block']=='События' for e in a),camps=sum(e['block']=='Лагеря' for e in a),dated=sum(bool(e['start']) for e in a),organizer=c['wro'],organizer_url=c['url'])
     row.update(network_routes=len(c['network_route_ids']),wro_directory_checked=c['wro_checked'])
     c['coverage']=row['research_status']
     coverage.append(row)

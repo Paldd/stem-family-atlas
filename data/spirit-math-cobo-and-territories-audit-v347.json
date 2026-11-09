@@ -1,0 +1,1419 @@
+{
+  "version": 347,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5320",
+    "C5321",
+    "C5322",
+    "C5323",
+    "C5324",
+    "C5325",
+    "C5326",
+    "C5327",
+    "C5328",
+    "C5329",
+    "C5330",
+    "C5331",
+    "C5332",
+    "C5333",
+    "C5334",
+    "C5335",
+    "C5336",
+    "C5337",
+    "C5338",
+    "C5339",
+    "C5340",
+    "C5341",
+    "C5342",
+    "C5343",
+    "C5344",
+    "C5345",
+    "C5346",
+    "C5347",
+    "C5348",
+    "C5349",
+    "C5350",
+    "C5351",
+    "C5352",
+    "C5353",
+    "C5354",
+    "C5355",
+    "C5356",
+    "C5357",
+    "C5358",
+    "C5359",
+    "C5360",
+    "C5361",
+    "C5362",
+    "C5363",
+    "C5364",
+    "C5365",
+    "C5366",
+    "C5367",
+    "E759",
+    "E760",
+    "E761",
+    "C5368",
+    "CP2285-20261207-20261211-w1-am",
+    "CP2285-20261214-20261218-w2-am",
+    "CP2285-20261214-20261218-w2-pm",
+    "CP2285-20261221-20261224-w3-am",
+    "CP2285-20261221-20261224-w3-pm",
+    "CP2285-20261228-20261231-w4-am",
+    "CP2285-20261228-20261231-w4-pm",
+    "CP2285-20270104-20270108-w5-am"
+  ],
+  "refreshed_event_ids": [
+    "C4996"
+  ],
+  "new_dossier_ids": [
+    "CP2285"
+  ],
+  "new_league_ids": [
+    "spirit-of-math"
+  ],
+  "spirit_national_routes": [
+    {
+      "iso": "DZA",
+      "event_id": "C5320",
+      "source": "https://www.spiritofmathcontest.com/countries/algeria",
+      "representative": "DOC SERVICES",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "AUS",
+      "event_id": "C5321",
+      "source": "https://www.spiritofmathcontest.com/countries/australia",
+      "representative": "Russian School of Western Australia",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "AZE",
+      "event_id": "C5322",
+      "source": "https://www.spiritofmathcontest.com/countries/azerbaijan",
+      "representative": "Global Olympiad Center",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "BRB",
+      "event_id": "C5323",
+      "source": "https://www.spiritofmathcontest.com/countries/barbados",
+      "representative": "Math A Plus Academy",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "BMU",
+      "event_id": "C5324",
+      "source": "https://www.spiritofmathcontest.com/countries/bermuda",
+      "representative": "Planet Math",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "BOL",
+      "event_id": "C5325",
+      "source": "https://www.spiritofmathcontest.com/countries/bolivia",
+      "representative": "Bolivian Society of Science and Technology",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "BWA",
+      "event_id": "C5326",
+      "source": "https://www.spiritofmathcontest.com/countries/botswana",
+      "representative": "MAB Trust",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "BRN",
+      "event_id": "C5327",
+      "source": "https://www.spiritofmathcontest.com/countries/brunei",
+      "representative": "Mavensdotlive",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "KHM",
+      "event_id": "C5328",
+      "source": "https://www.spiritofmathcontest.com/countries/cambodia",
+      "representative": "Bright Consultant Education and Travel",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "CMR",
+      "event_id": "C5329",
+      "source": "https://www.spiritofmathcontest.com/countries/cameroon",
+      "representative": "Xpand Olympiad",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "CAN",
+      "event_id": "C5330",
+      "source": "https://www.spiritofmathcontest.com/countries/canada",
+      "representative": "Spirit of Math",
+      "exact_national_sitting": "2027-02-26",
+      "window_only": false
+    },
+    {
+      "iso": "CHL",
+      "event_id": "C5331",
+      "source": "https://www.spiritofmathcontest.com/countries/chile",
+      "representative": "Paes Pro Spa",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "COL",
+      "event_id": "C5332",
+      "source": "https://www.spiritofmathcontest.com/countries/colombia",
+      "representative": "International Education Opportunities (IEO)",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "CRI",
+      "event_id": "C5333",
+      "source": "https://www.spiritofmathcontest.com/countries/costa-rica",
+      "representative": "Einstein Prep & Learning Center",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "DOM",
+      "event_id": "C5334",
+      "source": "https://www.spiritofmathcontest.com/countries/dominican-republic",
+      "representative": "Fundación Steam RD",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "ECU",
+      "event_id": "C5335",
+      "source": "https://www.spiritofmathcontest.com/countries/ecuador",
+      "representative": "Academia de Ciencias Exactas APOL",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "GHA",
+      "event_id": "C5336",
+      "source": "https://www.spiritofmathcontest.com/countries/ghana",
+      "representative": "Academic Talent Development Program",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "GTM",
+      "event_id": "C5337",
+      "source": "https://www.spiritofmathcontest.com/countries/guatemala",
+      "representative": "STEAM Group",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "HTI",
+      "event_id": "C5338",
+      "source": "https://www.spiritofmathcontest.com/countries/haiti",
+      "representative": "Haiti STEM Alliance",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "HKG",
+      "event_id": "C5339",
+      "source": "https://www.spiritofmathcontest.com/countries/hong-kong",
+      "representative": "Miss Man International Education",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "IND",
+      "event_id": "C5340",
+      "source": "https://www.spiritofmathcontest.com/countries/india",
+      "representative": "Institute of Global Olympiads",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "IDN",
+      "event_id": "C5341",
+      "source": "https://www.spiritofmathcontest.com/countries/indonesia",
+      "representative": "Maju (Markas Juara), part of Edukultur",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "ITA",
+      "event_id": "C5342",
+      "source": "https://www.spiritofmathcontest.com/countries/italy",
+      "representative": "Dreampuzzle Aps ets",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "KAZ",
+      "event_id": "C5343",
+      "source": "https://www.spiritofmathcontest.com/countries/kazakhstan",
+      "representative": "EduVerse KZ LLP",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "KGZ",
+      "event_id": "C5344",
+      "source": "https://www.spiritofmathcontest.com/countries/kyrgyz-republic",
+      "representative": "Zeen Education",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "LAO",
+      "event_id": "C5345",
+      "source": "https://www.spiritofmathcontest.com/countries/laos",
+      "representative": "BrightPath",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "LBN",
+      "event_id": "C5346",
+      "source": "https://www.spiritofmathcontest.com/countries/lebanon",
+      "representative": "Mind Power",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "MAC",
+      "event_id": "C5347",
+      "source": "https://www.spiritofmathcontest.com/countries/macau",
+      "representative": "Miss Man Education",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "MYS",
+      "event_id": "C5348",
+      "source": "https://www.spiritofmathcontest.com/countries/malaysia",
+      "representative": "E Mathematics Olympiad System",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "MAR",
+      "event_id": "C5349",
+      "source": "https://www.spiritofmathcontest.com/countries/morocco",
+      "representative": "GuidED Olympiad",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "MMR",
+      "event_id": "C5350",
+      "source": "https://www.spiritofmathcontest.com/countries/myanmar",
+      "representative": "KKMT Company Limited",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "NER",
+      "event_id": "C5351",
+      "source": "https://www.spiritofmathcontest.com/countries/niger",
+      "representative": "Organization for the Promotion of Excellence",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "NGA",
+      "event_id": "C5352",
+      "source": "https://www.spiritofmathcontest.com/countries/nigeria",
+      "representative": "International Academy for the Gifted",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "PAK",
+      "event_id": "C5353",
+      "source": "https://www.spiritofmathcontest.com/countries/pakistan",
+      "representative": "International Academic Competitions Services",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "PER",
+      "event_id": "C5354",
+      "source": "https://www.spiritofmathcontest.com/countries/peru",
+      "representative": "Grupo Olímpico Mate E.I.R.L.",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "PHL",
+      "event_id": "C5355",
+      "source": "https://www.spiritofmathcontest.com/countries/philippines",
+      "representative": "Mathematics Trainers' Guild Philippines",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "LCA",
+      "event_id": "C5356",
+      "source": "https://www.spiritofmathcontest.com/countries/saint-lucia",
+      "representative": "Caribbean After School Tutoring",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "SGP",
+      "event_id": "C5357",
+      "source": "https://www.spiritofmathcontest.com/countries/singapore",
+      "representative": "Asia Maths Alliance Pte. Ltd.",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "LKA",
+      "event_id": "C5358",
+      "source": "https://www.spiritofmathcontest.com/countries/sri-lanka",
+      "representative": "Sri Lanka Olympiad Mathematics Foundation",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "SDN",
+      "event_id": "C5359",
+      "source": "https://www.spiritofmathcontest.com/countries/sudan",
+      "representative": "University of Bahri",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "TWN",
+      "event_id": "C5360",
+      "source": "https://www.spiritofmathcontest.com/countries/taiwan",
+      "representative": "Chinese Mathematics Association",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "TJK",
+      "event_id": "C5361",
+      "source": "https://www.spiritofmathcontest.com/countries/tajikistan",
+      "representative": "Innovation Lyceum Javoni",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "TZA",
+      "event_id": "C5362",
+      "source": "https://www.spiritofmathcontest.com/countries/tanzania",
+      "representative": "Mwambe Excel Consultancy",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "TUR",
+      "event_id": "C5363",
+      "source": "https://www.spiritofmathcontest.com/countries/turkiye",
+      "representative": "Kanguru Eğitim ve Sınav Hizmetleri",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "USA",
+      "event_id": "C5364",
+      "source": "https://www.spiritofmathcontest.com/countries/united-states",
+      "representative": "Spirit of Math",
+      "exact_national_sitting": "2027-02-26",
+      "window_only": false
+    },
+    {
+      "iso": "VEN",
+      "event_id": "C5365",
+      "source": "https://www.spiritofmathcontest.com/countries/venezuela",
+      "representative": "Fundación Amigos de las Artes Humanidades y Educación",
+      "exact_national_sitting": null,
+      "window_only": true
+    },
+    {
+      "iso": "VNM",
+      "event_id": "C5366",
+      "source": "https://www.spiritofmathcontest.com/countries/vietnam",
+      "representative": "Ikemso Global Joint Stock Company",
+      "exact_national_sitting": null,
+      "window_only": true
+    }
+  ],
+  "spirit_global_2027_exact_date": null,
+  "spirit_absent_from_directory": [
+    "MEX",
+    "BRA"
+  ],
+  "newly_represented_geographies": [
+    "ESH",
+    "PRK"
+  ],
+  "no_open_programme_found": {
+    "NFK": {
+      "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",
+      "sources": [
+        "https://norfolkislandcs.eq.edu.au/facilities",
+        "https://norfolkislandhealth.gov.nf/wp-content/uploads/2025/05/20-NIHRACS-community-update-15.05.2025.pdf"
+      ]
+    },
+    "HMD": {
+      "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",
+      "sources": [
+        "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/"
+      ]
+    },
+    "BVT": {
+      "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",
+      "sources": [
+        "https://npolar.no/en/themes/bouvetoya/",
+        "https://npolar.no/en/regulations-bouvetoya-nature-reserve/"
+      ]
+    },
+    "IOT": {
+      "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",
+      "sources": [
+        "https://www.gov.uk/world/british-indian-ocean-territory/news"
+      ]
+    },
+    "UMI": {
+      "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",
+      "sources": [
+        "https://www.fws.gov/national-monument/pacific-islands-heritage-marine",
+        "https://www.fws.gov/refuge/midway-atoll"
+      ]
+    }
+  },
+  "archive_only_ids": [
+    "E759",
+    "E760",
+    "E761"
+  ],
+  "cobo_primary_course_links": 38,
+  "cobo_published_week_count": 5,
+  "cobo_schedule_variant_ids": [
+    "CP2285-20261207-20261211-w1-am",
+    "CP2285-20261214-20261218-w2-am",
+    "CP2285-20261214-20261218-w2-pm",
+    "CP2285-20261221-20261224-w3-am",
+    "CP2285-20261221-20261224-w3-pm",
+    "CP2285-20261228-20261231-w4-am",
+    "CP2285-20261228-20261231-w4-pm",
+    "CP2285-20270104-20270108-w5-am"
+  ],
+  "cobo_course_campus_allocation_confirmed": false,
+  "cobo_base_budget_two_children_hkd": {
+    "four_days": 7200,
+    "five_days": 9000
+  },
+  "rechecked_unchanged_event_ids": [
+    "C003",
+    "C1295",
+    "C1296",
+    "C008",
+    "E280",
+    "C2960",
+    "C4588",
+    "C4589"
+  ],
+  "external_registrations_or_messages": false,
+  "source_requests": 123,
+  "national_route_bundle": {
+    "routes": [
+      {
+        "id": "NR-SPIRIT-MATH-DZA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "DZA",
+        "provider": "DOC SERVICES",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/algeria",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/algeria",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-AUS",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "AUS",
+        "provider": "Russian School of Western Australia",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/australia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/australia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-AZE",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "AZE",
+        "provider": "Global Olympiad Center",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/azerbaijan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/azerbaijan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-BRB",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "BRB",
+        "provider": "Math A Plus Academy",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/barbados",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/barbados",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-BMU",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "BMU",
+        "provider": "Planet Math",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/bermuda",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/bermuda",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-BOL",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "BOL",
+        "provider": "Bolivian Society of Science and Technology",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/bolivia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/bolivia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-BWA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "BWA",
+        "provider": "MAB Trust",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/botswana",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/botswana",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-BRN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "BRN",
+        "provider": "Mavensdotlive",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/brunei",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/brunei",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-KHM",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "KHM",
+        "provider": "Bright Consultant Education and Travel",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/cambodia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/cambodia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-CMR",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "CMR",
+        "provider": "Xpand Olympiad",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/cameroon",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/cameroon",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-CAN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "CAN",
+        "provider": "Spirit of Math",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/canada",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/canada",
+        "website_note": "26 февраля 2027. Время и запись подтверждает школа или конкурсный центр.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-CHL",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "CHL",
+        "provider": "Paes Pro Spa",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/chile",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/chile",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-COL",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "COL",
+        "provider": "International Education Opportunities (IEO)",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/colombia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/colombia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-CRI",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "CRI",
+        "provider": "Einstein Prep & Learning Center",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/costa-rica",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/costa-rica",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-DOM",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "DOM",
+        "provider": "Fundación Steam RD",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/dominican-republic",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/dominican-republic",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-ECU",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "ECU",
+        "provider": "Academia de Ciencias Exactas APOL",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/ecuador",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/ecuador",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-GHA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "GHA",
+        "provider": "Academic Talent Development Program",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/ghana",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/ghana",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-GTM",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "GTM",
+        "provider": "STEAM Group",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/guatemala",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/guatemala",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-HTI",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "HTI",
+        "provider": "Haiti STEM Alliance",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/haiti",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/haiti",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-HKG",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "HKG",
+        "provider": "Miss Man International Education",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/hong-kong",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/hong-kong",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-IND",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "IND",
+        "provider": "Institute of Global Olympiads",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/india",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/india",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-IDN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "IDN",
+        "provider": "Maju (Markas Juara), part of Edukultur",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/indonesia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/indonesia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-ITA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "ITA",
+        "provider": "Dreampuzzle Aps ets",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/italy",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/italy",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-KAZ",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "KAZ",
+        "provider": "EduVerse KZ LLP",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/kazakhstan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/kazakhstan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-KGZ",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "KGZ",
+        "provider": "Zeen Education",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/kyrgyz-republic",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/kyrgyz-republic",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-LAO",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "LAO",
+        "provider": "BrightPath",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/laos",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/laos",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-LBN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "LBN",
+        "provider": "Mind Power",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/lebanon",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/lebanon",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-MAC",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "MAC",
+        "provider": "Miss Man Education",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/macau",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/macau",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-MYS",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "MYS",
+        "provider": "E Mathematics Olympiad System",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/malaysia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/malaysia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-MAR",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "MAR",
+        "provider": "GuidED Olympiad",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/morocco",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/morocco",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-MMR",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "MMR",
+        "provider": "KKMT Company Limited",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/myanmar",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/myanmar",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-NER",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "NER",
+        "provider": "Organization for the Promotion of Excellence",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/niger",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/niger",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-NGA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "NGA",
+        "provider": "International Academy for the Gifted",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/nigeria",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/nigeria",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-PAK",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "PAK",
+        "provider": "International Academic Competitions Services",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/pakistan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/pakistan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-PER",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "PER",
+        "provider": "Grupo Olímpico Mate E.I.R.L.",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/peru",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/peru",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-PHL",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "PHL",
+        "provider": "Mathematics Trainers' Guild Philippines",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/philippines",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/philippines",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-LCA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "LCA",
+        "provider": "Caribbean After School Tutoring",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/saint-lucia",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/saint-lucia",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-SGP",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "SGP",
+        "provider": "Asia Maths Alliance Pte. Ltd.",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/singapore",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/singapore",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-LKA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "LKA",
+        "provider": "Sri Lanka Olympiad Mathematics Foundation",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/sri-lanka",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/sri-lanka",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-SDN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "SDN",
+        "provider": "University of Bahri",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/sudan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/sudan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-TWN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "TWN",
+        "provider": "Chinese Mathematics Association",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/taiwan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/taiwan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-TJK",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "TJK",
+        "provider": "Innovation Lyceum Javoni",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/tajikistan",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/tajikistan",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-TZA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "TZA",
+        "provider": "Mwambe Excel Consultancy",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/tanzania",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/tanzania",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-TUR",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "TUR",
+        "provider": "Kanguru Eğitim ve Sınav Hizmetleri",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/turkiye",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/turkiye",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-USA",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "USA",
+        "provider": "Spirit of Math",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/united-states",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/united-states",
+        "website_note": "26 февраля 2027. Время и запись подтверждает школа или конкурсный центр.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-VEN",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "VEN",
+        "provider": "Fundación Amigos de las Artes Humanidades y Educación",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/venezuela",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/venezuela",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      },
+      {
+        "id": "NR-SPIRIT-MATH-VNM",
+        "network": "Spirit of Math",
+        "league_id": "spirit-of-math",
+        "iso": "VNM",
+        "provider": "Ikemso Global Joint Stock Company",
+        "division": "grades_1_8",
+        "url": "https://www.spiritofmathcontest.com/countries/vietnam",
+        "source": "https://www.spiritofmathcontest.com/countries",
+        "checked": "2026-11-09",
+        "evidence_level": "official_directory",
+        "website_status": "available",
+        "website_checked": "2026-11-09",
+        "access_url": "https://www.spiritofmathcontest.com/countries/vietnam",
+        "website_note": "Общее окно 4 января – 5 апреля 2027. Точный день назначает школа.",
+        "programme": "Классы 1–8. Категория определяется фактическим классом ученика."
+      }
+    ],
+    "pathway": {
+      "id": "spirit-of-math-national",
+      "network": "Spirit of Math",
+      "title": "Spirit of Math: от школы к финалу в Торонто",
+      "summary": "Международный школьный конкурс по математике и логике. Национальные работы проводятся в 47 странах и территориях, затем лучших приглашают в Торонто.",
+      "steps": [
+        "Уточнить в школе класс, язык задач, точную дату, стоимость и возможность местной регистрации.",
+        "Обычный путь — через школу и национального представителя. Родители уточняют участие у преподавателя или координатора.",
+        "Лучшие результаты национального этапа могут дать приглашение на отдельный Global Round."
+      ],
+      "source": "https://www.spiritofmathcontest.com/countries",
+      "gate": "Только после национального этапа и приглашения. Дату, площадку и стоимость выпуска 2027 организатор ещё не подтвердил."
+    },
+    "sources": [
+      {
+        "title": "Страница организатора или регламент категории.",
+        "url": "https://www.spiritofmathcontest.com/countries"
+      }
+    ],
+    "country_notes": {
+      "NFK": {
+        "title": "Школьный makerspace на Норфолке",
+        "detail": "Norfolk Island Central School описывает учебную мастерскую для своих учеников. В местном документе 2025 года робототехника и программирование входили в условия школьного ваучера. Именованный открытый лагерь или турнир 2026–2027 не подтверждён.",
+        "sources": [
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://norfolkislandcs.eq.edu.au/facilities"
+          },
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://norfolkislandhealth.gov.nf/wp-content/uploads/2025/05/20-NIHRACS-community-update-15.05.2025.pdf"
+          }
+        ]
+      },
+      "HMD": {
+        "title": "Научные экспедиции на Херд и Макдональд",
+        "detail": "Australian Antarctic Division описывает необитаемые охраняемые острова и исследовательские выезды. Публичная детская программа в проверенном источнике не найдена.",
+        "sources": [
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/"
+          }
+        ]
+      },
+      "BVT": {
+        "title": "Природный заповедник Буве",
+        "detail": "Norwegian Polar Institute публикует режим охраны и ограничения доступа. Исследовательская деятельность по разрешению не подтверждает открытый STEM-календарь.",
+        "sources": [
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://npolar.no/en/themes/bouvetoya/"
+          },
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://npolar.no/en/regulations-bouvetoya-nature-reserve/"
+          }
+        ]
+      },
+      "IOT": {
+        "title": "Проверка официального географического справочника",
+        "detail": "Официальная страница сообщает об отсутствии постоянного населения. В проверенном источнике нет объявленной детской программы.",
+        "sources": [
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://www.gov.uk/world/british-indian-ocean-territory/news"
+          }
+        ]
+      },
+      "UMI": {
+        "title": "Тихоокеанские заповедники и разрешения",
+        "detail": "US Fish & Wildlife Service описывает научный доступ и отдельные правила посещения. Разрешение на визит само по себе не подтверждает детское STEM-событие.",
+        "sources": [
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://www.fws.gov/national-monument/pacific-islands-heritage-marine"
+          },
+          {
+            "title": "Страница организатора или регламент категории.",
+            "url": "https://www.fws.gov/refuge/midway-atoll"
+          }
+        ]
+      }
+    }
+  }
+}
