@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-08. 2132 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base al 2026-11-08. 2136 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -168167,6 +168167,294 @@ Taiwán · National Cheng Kung University · Green Magic School · Tainan
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/) · 2026-11-08
+
+## CP2133 · Durham Museum · The Best of The Durham · K–2
+
+Estados Unidos · The Durham Museum · Omaha, Nebraska
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Jardín de infancia y cursos 1.º y 2.º.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** LEGO, experimentos y retos de ingeniería en el museo.
+
+**Alojamiento:** 2027-02-06
+
+**Fechas / estado:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+**Precio / año:** 2026 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**Suplementos:** Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar grupo escolar. Para el menor se indica un turno distinto.
+
+**Oscar:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Motivo de selección:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+### Antes de solicitar plaza
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+### The Best of The Durham
+
+**Fechas / estado:** 2026-12-21 — 2027-01-04
+
+**Precio:** 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**condiciones de participación:** Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- 2026-12-21 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2026-12-22 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2026-12-23 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2026-12-28 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2026-12-29 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2026-12-30 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+- 2027-01-04 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · K–2
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+[fuente](https://durhammuseum.org/camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://durhammuseum.org/camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-K-2nd) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-K-2nd) · 2026-11-08
+
+## CP2134 · Durham Museum · The Best of The Durham · Grades 3–5
+
+Estados Unidos · The Durham Museum · Omaha, Nebraska
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 3.º a 5.º.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** LEGO, experimentos y retos de ingeniería en el museo.
+
+**Alojamiento:** 2027-02-06
+
+**Fechas / estado:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+**Precio / año:** 2026 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**Suplementos:** Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Oscar:** Confirmar grupo escolar. Para el menor se indica un turno distinto.
+
+**Motivo de selección:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+### Antes de solicitar plaza
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+### The Best of The Durham
+
+**Fechas / estado:** 2026-12-21 — 2027-01-04
+
+**Precio:** 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**condiciones de participación:** Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- 2026-12-21 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2026-12-22 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2026-12-23 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2026-12-28 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2026-12-29 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2026-12-30 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+- 2027-01-04 · 09:00–16:00 · America/Chicago · Durham Museum · The Best of The Durham · Grades 3–5
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+[fuente](https://durhammuseum.org/camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://durhammuseum.org/camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-3rd-5th) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-3rd-5th) · 2026-11-08
+
+## CP2135 · Durham Museum · LEGO Colorful Creations · K–2
+
+Estados Unidos · The Durham Museum · Omaha, Nebraska
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Jardín de infancia y cursos 1.º y 2.º.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Construcción LEGO, diseño de laberintos y trabajo con modelos.
+
+**Alojamiento:** 2027-02-06
+
+**Fechas / estado:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+**Precio / año:** 2027 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**Suplementos:** Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Confirmar grupo escolar. Para el menor se indica un turno distinto.
+
+**Oscar:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Motivo de selección:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+### Antes de solicitar plaza
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+### LEGO Colorful Creations
+
+**Fechas / estado:** 2027-03-11 — 2027-03-19
+
+**Precio:** 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**condiciones de participación:** Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- 2027-03-11 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-12 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-15 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-16 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-17 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-18 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+- 2027-03-19 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · K–2
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+[fuente](https://durhammuseum.org/camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://durhammuseum.org/camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-K-2nd) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-K-2nd) · 2026-11-08
+
+## CP2136 · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+Estados Unidos · The Durham Museum · Omaha, Nebraska
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 3.º a 5.º.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Construcción LEGO, diseño de laberintos y trabajo con modelos.
+
+**Alojamiento:** 2027-02-06
+
+**Fechas / estado:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+**Precio / año:** 2027 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**Suplementos:** Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Oscar:** Confirmar grupo escolar. Para el menor se indica un turno distinto.
+
+**Motivo de selección:** Puede elegirse un solo día o el paquete de 7 días publicados.
+
+### Antes de solicitar plaza
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+### LEGO Colorful Creations
+
+**Fechas / estado:** 2027-03-11 — 2027-03-19
+
+**Precio:** 55 USD por un día o 330 USD por el paquete de 7 días sin membresía.
+
+**condiciones de participación:** Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- 2027-03-11 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-12 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-15 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-16 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-17 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-18 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+- 2027-03-19 · 09:00–16:00 · America/Chicago · Durham Museum · LEGO Colorful Creations · Grades 3–5
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+
+- Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción.
+
+[fuente](https://durhammuseum.org/camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://durhammuseum.org/camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-3rd-5th) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-3rd-5th) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

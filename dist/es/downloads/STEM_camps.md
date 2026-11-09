@@ -13078,6 +13078,22 @@ Limitaciones: Por la mañana se necesita reserva en línea. Por la tarde se rese
 Fuente: https://robot.pref.aichi.jp/field/robofest/
 Se ha comprobado: 2026-11-08
 
+### L894 · Museum of Aviation · Summer STEM 2027 · registration watch
+
+lugar: Estados Unidos · Museum of Aviation · Warner Robins, Georgia
+Fecha: La inscripción para el verano de 2027 se anuncia para el 1 de febrero de 2027. Confirmar turnos, horarios y precios de la nueva temporada.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: programme_milestone
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: La inscripción para el verano de 2027 se anuncia para el 1 de febrero de 2027. Confirmar turnos, horarios y precios de la nueva temporada.
+Fuente: https://museumofaviation.org/educate/camps-stem-labs/summer-camps/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -84564,6 +84580,70 @@ Precio: 2027 · 16300 TWD por menor, con kit obligatorio de 1500 TWD incluido. T
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Oscar: Para alumnado de 1.º a 5.º. Confirmar curso y posibilidad de participación de una familia extranjera. Suplementos: La recogida después de las 18:00 cuesta 100 o 200 TWD según la hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://seecamp.com.tw/product/2027see-winter-lego-world-history-tour-5d/
+Se ha comprobado: 2026-11-08
+
+### CP2133-20261221-20270104-winter · Durham Museum · The Best of The Durham · K–2 · The Best of The Durham · 2026-12-21–2027-01-04
+
+lugar: Estados Unidos · The Durham Museum · Omaha, Nebraska
+Fecha: 2026-12-21 — 2027-01-04
+edad: Jardín de infancia y cursos 1.º y 2.º.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía. · suplementos y condiciones en el dossier
+Acceso: Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+Limitaciones: Matvey: Confirmar grupo escolar. Para el menor se indica un turno distinto. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://durhammuseum.org/camps/
+Se ha comprobado: 2026-11-08
+
+### CP2134-20261221-20270104-winter · Durham Museum · The Best of The Durham · Grades 3–5 · The Best of The Durham · 2026-12-21–2027-01-04
+
+lugar: Estados Unidos · The Durham Museum · Omaha, Nebraska
+Fecha: 2026-12-21 — 2027-01-04
+edad: De 3.º a 5.º.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía. · suplementos y condiciones en el dossier
+Acceso: Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Confirmar grupo escolar. Para el menor se indica un turno distinto. Suplementos: Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://durhammuseum.org/camps/
+Se ha comprobado: 2026-11-08
+
+### CP2135-20270311-20270319-spring · Durham Museum · LEGO Colorful Creations · K–2 · LEGO Colorful Creations · 2027-03-11–2027-03-19
+
+lugar: Estados Unidos · The Durham Museum · Omaha, Nebraska
+Fecha: 2027-03-11 — 2027-03-19
+edad: Jardín de infancia y cursos 1.º y 2.º.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía. · suplementos y condiciones en el dossier
+Acceso: Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+Limitaciones: Matvey: Confirmar grupo escolar. Para el menor se indica un turno distinto. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://durhammuseum.org/camps/
+Se ha comprobado: 2026-11-08
+
+### CP2136-20270311-20270319-spring · Durham Museum · LEGO Colorful Creations · Grades 3–5 · LEGO Colorful Creations · 2027-03-11–2027-03-19
+
+lugar: Estados Unidos · The Durham Museum · Omaha, Nebraska
+Fecha: 2027-03-11 — 2027-03-19
+edad: De 3.º a 5.º.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 55 USD por un día o 330 USD por el paquete de 7 días sin membresía. · suplementos y condiciones en el dossier
+Acceso: Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Confirmar grupo escolar. Para el menor se indica un turno distinto. Suplementos: Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://durhammuseum.org/camps/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

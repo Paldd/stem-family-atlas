@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2132,
+    "dossiers": 2136,
     "countries": 137,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 290,
-      "published_2027": 571,
+      "published_2026_27": 292,
+      "published_2027": 573,
       "partial_2027": 153,
       "next_unannounced": 440,
       "published_2026": 430,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 3037
+    "source_urls": 3046
   },
   "countries": [
     {
@@ -469,7 +469,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 164
+      "count": 168
     },
     {
       "country": "Суринам",
@@ -321799,6 +321799,630 @@
           "ZH"
         ]
       }
+    },
+    {
+      "id": "CP2133",
+      "slug": "durham-omaha-winter-k2-2026-27",
+      "provider": "Durham Museum · The Best of The Durham · K–2",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "The Durham Museum · Omaha, Nebraska",
+      "age": "Детский сад и 1–2 классы.",
+      "programme": "LEGO, эксперименты и инженерные задачи в музее.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2027-01-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2026-12-21",
+            "end": "2027-01-04",
+            "label": "The Best of The Durham",
+            "price": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+            "source": "https://durhammuseum.org/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-28",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-01-04",
+                "topic": "Durham Museum · The Best of The Durham · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              }
+            ],
+            "questions": [
+              "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+              "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+            ],
+            "entry": "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 330,
+        "currency": "USD",
+        "unit": "пакет 7 дней",
+        "label": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+        "included": "",
+        "extras": "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "2027-02-06",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Проверить школьную группу. Для ребёнка указан отдельный поток."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, местный допуск и место в команде."
+        }
+      },
+      "editorial_reason": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+      "shortlist": [],
+      "questions": [
+        "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+        "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+      ],
+      "sources": [
+        {
+          "url": "https://durhammuseum.org/camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-K-2nd",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-K-2nd",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2134",
+      "slug": "durham-omaha-winter-grades35-2026-27",
+      "provider": "Durham Museum · The Best of The Durham · Grades 3–5",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "The Durham Museum · Omaha, Nebraska",
+      "age": "3–5 классы.",
+      "programme": "LEGO, эксперименты и инженерные задачи в музее.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2027-01-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2026-12-21",
+            "end": "2027-01-04",
+            "label": "The Best of The Durham",
+            "price": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+            "source": "https://durhammuseum.org/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-28",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-01-04",
+                "topic": "Durham Museum · The Best of The Durham · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              }
+            ],
+            "questions": [
+              "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+              "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+            ],
+            "entry": "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 330,
+        "currency": "USD",
+        "unit": "пакет 7 дней",
+        "label": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+        "included": "",
+        "extras": "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "2027-02-06",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, местный допуск и место в команде."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Проверить школьную группу. Для ребёнка указан отдельный поток."
+        }
+      },
+      "editorial_reason": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+      "shortlist": [],
+      "questions": [
+        "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+        "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+      ],
+      "sources": [
+        {
+          "url": "https://durhammuseum.org/camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-3rd-5th",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-3rd-5th",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2135",
+      "slug": "durham-omaha-spring-k2-2027",
+      "provider": "Durham Museum · LEGO Colorful Creations · K–2",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "The Durham Museum · Omaha, Nebraska",
+      "age": "Детский сад и 1–2 классы.",
+      "programme": "Конструирование LEGO, проектирование лабиринтов и работа с моделями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+        "sessions": [
+          [
+            "2027-03-11",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-11",
+            "end": "2027-03-19",
+            "label": "LEGO Colorful Creations",
+            "price": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+            "source": "https://durhammuseum.org/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-11",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-12",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-15",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Durham Museum · LEGO Colorful Creations · K–2",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              }
+            ],
+            "questions": [
+              "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+              "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+            ],
+            "entry": "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 330,
+        "currency": "USD",
+        "unit": "пакет 7 дней",
+        "label": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+        "included": "",
+        "extras": "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "2027-02-06",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Проверить школьную группу. Для ребёнка указан отдельный поток."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, местный допуск и место в команде."
+        }
+      },
+      "editorial_reason": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+      "shortlist": [],
+      "questions": [
+        "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+        "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+      ],
+      "sources": [
+        {
+          "url": "https://durhammuseum.org/camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-K-2nd",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-K-2nd",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2136",
+      "slug": "durham-omaha-spring-grades35-2027",
+      "provider": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "The Durham Museum · Omaha, Nebraska",
+      "age": "3–5 классы.",
+      "programme": "Конструирование LEGO, проектирование лабиринтов и работа с моделями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+        "sessions": [
+          [
+            "2027-03-11",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-11",
+            "end": "2027-03-19",
+            "label": "LEGO Colorful Creations",
+            "price": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+            "source": "https://durhammuseum.org/camps/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-11",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-12",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-15",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-16",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-17",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-18",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              },
+              {
+                "date": "2027-03-19",
+                "topic": "Durham Museum · LEGO Colorful Creations · Grades 3–5",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago"
+              }
+            ],
+            "questions": [
+              "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+              "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+            ],
+            "entry": "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 330,
+        "currency": "USD",
+        "unit": "пакет 7 дней",
+        "label": "55 USD за один день или 330 USD за пакет 7 дней без членства.",
+        "included": "",
+        "extras": "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "2027-02-06",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, местный допуск и место в команде."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Проверить школьную группу. Для ребёнка указан отдельный поток."
+        }
+      },
+      "editorial_reason": "Можно выбрать один день или пакет из 7 опубликованных дней.",
+      "shortlist": [],
+      "questions": [
+        "Карточки записи указывают 09:00–16:00 даже на один день. В общей таблице одиночный день указан до 12:00. Время своего билета подтвердить.",
+        "Продлёнка отдельно, 15 USD за день или 90 USD за пакет по странице записи."
+      ],
+      "sources": [
+        {
+          "url": "https://durhammuseum.org/camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-3rd-5th",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-3rd-5th",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -327124,7 +327748,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 314,
+  "version": 315,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -340359,7 +340983,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2132,
+      "total_dossiers": 2136,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

@@ -1,0 +1,334 @@
+{
+  "captures": [
+    {
+      "key": "zone-fr",
+      "url": "https://www.zone01.ca/index.php/fr-ca/evenements/regionales",
+      "final_url": "https://www.zone01.ca/index.php/fr-ca/evenements/regionales",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41877,
+      "sha256": "603b4f80723f26265958519808bdf1ca8004271fcc325c3723ab047629dd78fe",
+      "file": "zone-fr.html"
+    },
+    {
+      "key": "zone-registration",
+      "url": "https://zone01.coopetition-zone.ca/shop/en/15-events",
+      "final_url": "https://zone01.coopetition-zone.ca/shop/en/15-events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83879,
+      "sha256": "90b697077a3c951e4be4e7b3fd3e696cd0e5e0482fd42dba9909124e45bec31b",
+      "file": "zone-registration.html"
+    },
+    {
+      "key": "zone-regionals",
+      "url": "https://www.zone01.ca/index.php/en-ca/events/regionals-2027",
+      "final_url": "https://www.zone01.ca/index.php/en-ca/events/regionals-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41449,
+      "sha256": "ab64e94b6528f806b8736969b17ee8ad13e112775e7d74c635ca1d7ade4c0198",
+      "file": "zone-regionals.html"
+    },
+    {
+      "key": "zone-challenges",
+      "url": "https://www.zone01.ca/index.php/en-ca/pages/zone01-2027-challenges",
+      "final_url": "https://www.zone01.ca/index.php/en-ca/pages/zone01-2027-challenges",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41125,
+      "sha256": "2142b7a31fb4025a2a181253ef85e4417de353a4a31d80f14013120c51e22394",
+      "file": "zone-challenges.html"
+    },
+    {
+      "key": "zone-nationals",
+      "url": "https://zone01.ca/index.php/en-ca/events/nationals-2027",
+      "final_url": "https://zone01.ca/index.php/en-ca/events/nationals-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28722,
+      "sha256": "0dee6bb0bd23e31d7a875516c954ec7cb865f11da2ccc27f2339f54ad41d9f42",
+      "file": "zone-nationals.html"
+    },
+    {
+      "key": "mn-explore",
+      "url": "https://hightechkids.org/fll-explore-overview/fll-explore-festival-schedule/festival-schedule-in-person-events/",
+      "final_url": "https://hightechkids.org/fll-explore-overview/fll-explore-festival-schedule/festival-schedule-in-person-events/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 114622,
+      "sha256": "bafae60d500b7dd37cfd89410addcfb6925af9349cd6375efbe319f9544494d8",
+      "file": "mn-explore.html"
+    },
+    {
+      "key": "mn-explore-local-reg",
+      "url": "https://hightechkids.org/fll-explore-overview/fll-explore-registration/mn-fll-explore-registration/",
+      "final_url": "https://hightechkids.org/fll-explore-overview/fll-explore-registration/mn-fll-explore-registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76511,
+      "sha256": "e010d00c9bbcabb4845981c5ec150e1d859f9003c4293c3b3509bc3e3fdc4bf0",
+      "file": "mn-explore-local-reg.html"
+    },
+    {
+      "key": "mn-challenge",
+      "url": "https://hightechkids.org/fll-overview/tournament-schedule/regional-qualifiers/",
+      "final_url": "https://hightechkids.org/fll-overview/tournament-schedule/regional-qualifiers/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 128890,
+      "sha256": "0dc40600679dbb600a57dd8f9c51b36f14bd7c9cde027aa641c786274c7a68f1",
+      "file": "mn-challenge.html"
+    },
+    {
+      "key": "mn-reg",
+      "url": "https://hightechkids.org/fll-overview/fll-registration/mn-fll-registration/",
+      "final_url": "https://hightechkids.org/fll-overview/fll-registration/mn-fll-registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 91569,
+      "sha256": "aebf7421da91726ef985dc154f3e7e16662df5d88e75c966e0e9fed4f78549bc",
+      "file": "mn-reg.html"
+    },
+    {
+      "key": "mn-sp-school",
+      "url": "https://hightechkids.org/fll-overview/tournament-schedule/regional-qualifiers/fll-regional-st-paul-public-school-only/",
+      "final_url": "https://hightechkids.org/fll-overview/tournament-schedule/regional-qualifiers/fll-regional-st-paul-public-school-only/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80268,
+      "sha256": "d19ea4b837337dc0ea61e30b67d70175b17b9933c8569dc2994a512ff7350728",
+      "file": "mn-sp-school.html"
+    },
+    {
+      "key": "mn-champ",
+      "url": "https://hightechkids.org/fll-overview/tournament-schedule/fll-state/",
+      "final_url": "https://hightechkids.org/fll-overview/tournament-schedule/fll-state/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81507,
+      "sha256": "26f0c235dd7fcaa1a257bf81674d61a91944b136be0d88ad113ea3b8a88c2533",
+      "file": "mn-champ.html"
+    },
+    {
+      "key": "mn-all",
+      "url": "https://hightechkids.org/fll-overview/tournament-schedule/",
+      "final_url": "https://hightechkids.org/fll-overview/tournament-schedule/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78328,
+      "sha256": "75197616bb9b851143e74f03f457587d974a617072f99b2e540b2c8729b846b2",
+      "file": "mn-all.html"
+    },
+    {
+      "key": "mn-recreation",
+      "url": "https://hightechkids.org/fll-overview/tournament-schedule/mn-fll-challenge-recreational/",
+      "final_url": "https://hightechkids.org/fll-overview/tournament-schedule/mn-fll-challenge-recreational/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82414,
+      "sha256": "7111d9d0063f6feef7d269048928ac2768ede70ec84abc1f5f54df7226edcb20",
+      "file": "mn-recreation.html"
+    },
+    {
+      "key": "mn-future-k2",
+      "url": "https://hightechkids.org/fll-future-k-2/festival-schedule/",
+      "final_url": "https://hightechkids.org/fll-future-k-2/festival-schedule/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73355,
+      "sha256": "483e481453595a4649882a96078deba07565bbbb35000ad191596f22f5909ed5",
+      "file": "mn-future-k2.html"
+    },
+    {
+      "key": "mn-future-k2-registration",
+      "url": "https://hightechkids.org/fll-future-k-2/registration/",
+      "final_url": "https://hightechkids.org/fll-future-k-2/registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69237,
+      "sha256": "270cea4bce8f2915a087ef1261a81b27a5f6fe919db93bdcf54c448e97f7fc92",
+      "file": "mn-future-k2-registration.html"
+    },
+    {
+      "key": "mn-future-overview",
+      "url": "https://hightechkids.org/fll-future-overview/",
+      "final_url": "https://hightechkids.org/fll-future-overview/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 72025,
+      "sha256": "7af8bdc7979517f36fad2a60a799c15b0bf9c749722435cab5fbcb64e45ab689",
+      "file": "mn-future-overview.html"
+    },
+    {
+      "key": "mn-future38",
+      "url": "https://hightechkids.org/fll-future-3-8/tournament-schedule/",
+      "final_url": "https://hightechkids.org/fll-future-3-8/tournament-schedule/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73412,
+      "sha256": "d44316a2b36c633a849b1d32e816f70bc7885562f37f7de23b8fa01a7fcabf9e",
+      "file": "mn-future38.html"
+    },
+    {
+      "key": "mn-future38-reg",
+      "url": "https://hightechkids.org/fll-future-3-8/fll-future-registration/",
+      "final_url": "https://hightechkids.org/fll-future-3-8/fll-future-registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69343,
+      "sha256": "586ac07b5e19a64fee1fd27ee2d247d0ef41bc3a839d7c3df8441b4c0be0c355",
+      "file": "mn-future38-reg.html"
+    },
+    {
+      "key": "tx-fll",
+      "url": "https://www.kidsroboticfoundation.org/fll/schedule",
+      "final_url": "https://www.kidsroboticfoundation.org/fll/schedule",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40382,
+      "sha256": "d6f01f983ccd9b66d54edf1800f26f15432a687b05d591c962bbb8fade620ce0",
+      "file": "tx-fll.html"
+    },
+    {
+      "key": "tx-challenge",
+      "url": "https://www.kidsroboticfoundation.org/fll/challenge",
+      "final_url": "https://www.kidsroboticfoundation.org/fll/challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43082,
+      "sha256": "7f3569af7282d74cb54929a97965c7ab4401638ab7f335cf1552b570f5d58f97",
+      "file": "tx-challenge.html"
+    },
+    {
+      "key": "tx-explore",
+      "url": "https://www.kidsroboticfoundation.org/fll/explore",
+      "final_url": "https://www.kidsroboticfoundation.org/fll/explore",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 30102,
+      "sha256": "c828d8707ddcd78bc60974ef21b51843487cee2d9a2da575bd56a5a5b5699d8c",
+      "file": "tx-explore.html"
+    },
+    {
+      "key": "durham",
+      "url": "https://durhammuseum.org/camps/",
+      "final_url": "https://durhammuseum.org/camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73602,
+      "sha256": "517f3d07353660a085eaf9e47173a96f60a5e653ae2313b2f109b7a27fc5bfa4",
+      "file": "durham.html"
+    },
+    {
+      "key": "durham-winter-bundle",
+      "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-K-2nd",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-K-2nd",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71492,
+      "sha256": "94b3211c3a5460be0a6c13dae68329896c96efef23bdb9db25b5143315ca2187",
+      "file": "durham-winter-bundle.html"
+    },
+    {
+      "key": "durham-winter-day",
+      "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-K-2nd",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-K-2nd",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68426,
+      "sha256": "9163caf8cc803ae699b9c029a9f70d1b267c449509774b4d7f72d8fc297ce2aa",
+      "file": "durham-winter-day.html"
+    },
+    {
+      "key": "durham-winter-older-bundle",
+      "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-3rd-5th",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-All-7-Days-3rd-5th",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71498,
+      "sha256": "06dad8bf92f5cfd1a75874e13321aebc52370e313bc1dd19961ec7e3f2ded0f2",
+      "file": "durham-winter-older-bundle.html"
+    },
+    {
+      "key": "durham-winter-older-day",
+      "url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-3rd-5th",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Winter-Camp-2627-The-Best-of-The-Durham-Day-1-December-21-3rd-5th",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68432,
+      "sha256": "c32ab42e1099c529cfbd094983967ab2d2cc90d3f3245f66a2ef676c2cc1fab9",
+      "file": "durham-winter-older-day.html"
+    },
+    {
+      "key": "durham-spring-younger-bundle",
+      "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-K-2nd",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-K-2nd",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71443,
+      "sha256": "af231c49174b13b0c0deb482860183539c65d1429f241ed1a1ff08cdc303c997",
+      "file": "durham-spring-younger-bundle.html"
+    },
+    {
+      "key": "durham-spring-younger-day",
+      "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-K-2nd",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-K-2nd",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68380,
+      "sha256": "c168184675f016fe942c6f8d85d177f654dd9e00609c353e1a678f0b01a3145c",
+      "file": "durham-spring-younger-day.html"
+    },
+    {
+      "key": "durham-spring-bundle",
+      "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-3rd-5th",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-3rd-5th",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71449,
+      "sha256": "0b81ca78bc92a5cd9ded77c414b0a3a4e2f86199231ec76153db7ef91ec67199",
+      "file": "durham-spring-bundle.html"
+    },
+    {
+      "key": "durham-spring-day",
+      "url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-3rd-5th",
+      "final_url": "https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-3rd-5th",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68410,
+      "sha256": "e683a20b651152fd366e11d42465f84ba1e1f7cd5304b16261ff7d7a07e9ffe7",
+      "file": "durham-spring-day.html"
+    },
+    {
+      "key": "aviation",
+      "url": "https://museumofaviation.org/educate/camps-stem-labs/summer-camps/",
+      "final_url": "https://museumofaviation.org/educate/camps-stem-labs/summer-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213527,
+      "sha256": "d78bad56ce094ad17861d8dbb4f130e2253cafb27724a559181d0b69db39cc7d",
+      "file": "aviation.html"
+    },
+    {
+      "key": "stem-expo",
+      "url": "https://stemexpo.scwist.ca/about",
+      "final_url": "https://stemexpo.scwist.ca/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45847,
+      "sha256": "1aeb5978501e0aef93576b539e4f6bc5d9d29ed91c40bb27489a9eb31509fc4f",
+      "file": "stem-expo.html"
+    },
+    {
+      "key": "sci-north",
+      "url": "https://www.sciencenorth.ca/school-break-camps",
+      "final_url": "https://www.sciencenorth.ca/school-break-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86407,
+      "sha256": "a55e59ae27dc15ecee7dc7b5a8c2c6f9c00f076cb018bea9918dd756728dc917",
+      "file": "sci-north.html"
+    }
+  ]
+}

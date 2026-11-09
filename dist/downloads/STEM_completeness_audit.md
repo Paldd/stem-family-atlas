@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10919; соревнований: 4857; событий: 701; лагерей / программ: 5361. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 601 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10980; соревнований: 4912; событий: 702; лагерей / программ: 5366. Профилей лиг и программ: 312. Карточек крупных и профильных выставок: 602 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,7 +14,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1975 | 153 | 1383 |
+| Северная Америка | 41 | 2030 | 154 | 1388 |
 | Южная Америка | 15 | 452 | 52 | 235 |
 | Европа | 55 | 655 | 148 | 1540 |
 | Африка | 60 | 248 | 43 | 140 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4857 карточек соревнований (16.8%). Это явный перекос охвата.
+VEX: 815 из 4912 карточек соревнований (16.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -335,6 +335,9 @@ VEX: 815 из 4857 карточек соревнований (16.8%). Это я�
 - **USSEO Human-in-the-Loop Robotics & AI**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/online_challenge/usseo-human-in-the-loop-robotics-ai-challenge/
 - **VEXcode VR Autonomous Skills · Global STEM Challenge**: 4 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://kb.vex.com/hc/en-us/articles/53216784941716-Entering-the-VEXcode-VR-Autonomous-Skills-Global-STEM-Challenge
 - **Innokas · Robotics and Programming Tournament**: 8 карточек, 8 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/
+- **Zone01 Robotics / WRO Canada · 2027**: 23 карточек, 17 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.zone01.ca/index.php/en-ca/events/regionals-2027
+- **FIRST LEGO League Minnesota · BIOGLOW 2026/27**: 21 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://hightechkids.org/fll-explore-overview/fll-explore-festival-schedule/festival-schedule-in-person-events/
+- **FIRST LEGO League East Texas · BIOGLOW 2026/27**: 11 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kidsroboticfoundation.org/fll/schedule
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -978,6 +981,7 @@ VEX: 815 из 4857 карточек соревнований (16.8%). Это я�
 - **ROBO-FIGHT & Pipe Robocon 2027 · Kobe** — Япония; 2027-01-30 – 2027-01-31. Детский допуск уточнить. https://robotyuenchi.com/event.html
 - **AI Summit Seoul & Expo 2027 · Exhibition Hall B** — Республика Корея; 2027-08-11 – 2027-08-13. Детский допуск уточнить. https://www.aisummit.co.kr/expo-visitor-2027
 - **Industrial AI EXPO 2027 · KINTEX** — Республика Корея; 2027-10-20 – 2027-10-22. Детский допуск уточнить. https://www.industrialaiexpo.or.kr/Contents.asp?LoadPage=Overview_2026
+- **FLL Minnesota · Challenge State Championship · Public Viewing** — Соединенные Штаты Америки; 2027-02-14. Со взрослым; условия взрослого входа отдельно. https://hightechkids.org/fll-overview/tournament-schedule/fll-state/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
