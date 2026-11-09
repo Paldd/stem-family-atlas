@@ -30,16 +30,16 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2148,
+    "dossiers": 2152,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 573,
+      "published_2027": 576,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
-      "partial_2026_27": 39,
+      "partial_2026_27": 40,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3062
+    "source_urls": 3065
   },
   "countries": [
     {
@@ -274,7 +274,7 @@
     },
     {
       "country": "RAE de Hong Kong (China)",
-      "count": 59
+      "count": 60
     },
     {
       "country": "Islas Cocos",
@@ -570,7 +570,7 @@
     },
     {
       "country": "Suiza",
-      "count": 146
+      "count": 149
     },
     {
       "country": "Suecia",
@@ -376821,6 +376821,447 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2149",
+      "slug": "helvetic-zug-winter-2027-studio",
+      "provider": "Helvetic Institute · Studio Lab (ENG)",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "programme": "Studio Lab de mañana con robótica, proyectos creativos y caligrafía.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Studio Lab (ENG)",
+            "price": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "included": "",
+        "extras": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        }
+      },
+      "editorial_reason": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "shortlist": [],
+      "questions": [
+        "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+        "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+        "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "art",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2149-20270215-20270219-feb2027"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2150",
+      "slug": "helvetic-zug-winter-2027-english",
+      "provider": "Helvetic Institute · English Camp",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "programme": "Inglés por la mañana, excursiones y actividades por la tarde.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "English Camp",
+            "price": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "included": "",
+        "extras": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        }
+      },
+      "editorial_reason": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "shortlist": [],
+      "questions": [
+        "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+        "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+        "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2150-20270215-20270219-feb2027"
+          ]
+        }
+      ],
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2151",
+      "slug": "helvetic-zug-winter-2027-robotics",
+      "provider": "Helvetic Institute · Robotics & Coding Camp",
+      "country": "Suiza",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "programme": "Itinerario de mañana de robótica y programación, con actividades diurnas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Robotics & Coding Camp",
+            "price": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "included": "",
+        "extras": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar."
+        }
+      },
+      "editorial_reason": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "shortlist": [],
+      "questions": [
+        "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+        "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+        "Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.",
+        "Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2151-20270215-20270219-feb2027"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2152",
+      "slug": "british-council-hk-winter-steam-lego",
+      "provider": "British Council Hong Kong · STEAM Adventures with LEGO",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong",
+      "age": "P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.",
+      "programme": "Los niños montan y prueban modelos LEGO, resuelven problemas prácticos y explican el resultado en inglés.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El curso usa inglés para debatir y presentar soluciones LEGO.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "HKD",
+        "unit": "",
+        "label": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés."
+        }
+      },
+      "editorial_reason": "El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.",
+      "shortlist": [],
+      "questions": [
+        "P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.",
+        "El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido."
+      ],
+      "sources": [
+        {
+          "url": "https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L917"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -382146,7 +382587,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 320,
+  "version": 321,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -395381,7 +395822,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2148,
+      "total_dossiers": 2152,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -419401,6 +419842,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2149",
+      "event_id": "CP2149-20270215-20270219-feb2027",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2150",
+      "event_id": "CP2150-20270215-20270219-feb2027",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2151",
+      "event_id": "CP2151-20270215-20270219-feb2027",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2152",
+      "event_id": "L917",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -424326,10 +424787,13 @@
     "CP2146-20261214-20261218-johor",
     "CP2147-20261221-20261223-petaling",
     "CP2147-20261221-20261223-johor",
-    "CP2148-20261215-20261215-dec15"
+    "CP2148-20261215-20261215-dec15",
+    "CP2149-20270215-20270219-feb2027",
+    "CP2150-20270215-20270219-feb2027",
+    "CP2151-20270215-20270219-feb2027"
   ],
   "integration": {
-    "generated_sessions": 4515,
+    "generated_sessions": 4518,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

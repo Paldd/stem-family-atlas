@@ -30,16 +30,16 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2148,
+    "dossiers": 2152,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 573,
+      "published_2027": 576,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
-      "partial_2026_27": 39,
+      "partial_2026_27": 40,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3062
+    "source_urls": 3065
   },
   "countries": [
     {
@@ -274,7 +274,7 @@
     },
     {
       "country": "Китай, Специальный административный район Гонконг",
-      "count": 59
+      "count": 60
     },
     {
       "country": "Кокосовых (Килинг) островов",
@@ -570,7 +570,7 @@
     },
     {
       "country": "Швейцария",
-      "count": 146
+      "count": 149
     },
     {
       "country": "Швеция",
@@ -325972,6 +325972,383 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP2149",
+      "slug": "helvetic-zug-winter-2027-studio",
+      "provider": "Helvetic Institute · Studio Lab (ENG)",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+      "programme": "Утренний Studio Lab с робототехникой, творческими проектами и каллиграфией.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Английский указан для Studio Lab. Язык экскурсий и остальных занятий уточнить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Studio Lab (ENG)",
+            "price": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "included": "",
+        "extras": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        }
+      },
+      "editorial_reason": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+      "shortlist": [],
+      "questions": [
+        "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+        "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой.",
+        "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "Английский указан для Studio Lab. Язык экскурсий и остальных занятий уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "art",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": []
+    },
+    {
+      "id": "CP2150",
+      "slug": "helvetic-zug-winter-2027-english",
+      "provider": "Helvetic Institute · English Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+      "programme": "Английский утром, экскурсии и активная программа после обеда.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Утром занятия английским. Язык послеобеденной программы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "English Camp",
+            "price": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "included": "",
+        "extras": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        }
+      },
+      "editorial_reason": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+      "shortlist": [],
+      "questions": [
+        "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+        "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой.",
+        "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "Утром занятия английским. Язык послеобеденной программы уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2151",
+      "slug": "helvetic-zug-winter-2027-robotics",
+      "provider": "Helvetic Institute · Robotics & Coding Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Helvetic Institute · Central Zug",
+      "age": "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+      "programme": "Утренний трек робототехники и программирования, дневная программа лагеря.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык отдельного трека Robotics & Coding уточняется. Пометка ENG относится к Studio Lab.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "feb2027",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Robotics & Coding Camp",
+            "price": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+            "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "Helvetic Institute · Central Zug",
+            "entry": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "CHF",
+        "unit": "",
+        "label": "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "included": "",
+        "extras": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой."
+        }
+      },
+      "editorial_reason": "15–19 февраля 2027. Типовой день 09:00–16:00. Обед с собой, ранний и поздний присмотр CHF 25 в час.",
+      "shortlist": [],
+      "questions": [
+        "На общей странице 4–13 и 5–13 лет. Возраст и уровень конкретного трека уточнить.",
+        "Открыта форма интереса. Возраст, цену и наличие места подтвердить перед оплатой.",
+        "Цена выбранного трека на 2027 год по запросу. Подтвердить материалы, экскурсии и возврат.",
+        "Язык отдельного трека Robotics & Coding уточняется. Пометка ENG относится к Studio Lab."
+      ],
+      "sources": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "confirmed_support_languages": []
+    },
+    {
+      "id": "CP2152",
+      "slug": "british-council-hk-winter-steam-lego",
+      "provider": "British Council Hong Kong · STEAM Adventures with LEGO",
+      "country": "Китай, Специальный административный район Гонконг",
+      "iso": "HKG",
+      "place": "Hong Kong",
+      "age": "P1–P2 по программе Гонконга. Согласовать эквивалент школьного класса и уровень английского.",
+      "programme": "Дети собирают и испытывают модели LEGO, решают прикладные задачи и объясняют результат на английском.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "В курсе используют английский для обсуждения и презентации решений LEGO.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "technical_instruction",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Программа опубликована. Дату, площадку и полную цену выбранной группы пока нужно сверить с расписанием.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "HKD",
+        "unit": "",
+        "label": "Полный счёт и условия возврата уточнить у организатора.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "P1–P2 по программе Гонконга. Согласовать эквивалент школьного класса и уровень английского."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "P1–P2 по программе Гонконга. Согласовать эквивалент школьного класса и уровень английского."
+        }
+      },
+      "editorial_reason": "Программа опубликована. Дату, площадку и полную цену выбранной группы пока нужно сверить с расписанием.",
+      "shortlist": [],
+      "questions": [
+        "P1–P2 по программе Гонконга. Согласовать эквивалент школьного класса и уровень английского.",
+        "Программа опубликована. Дату, площадку и полную цену выбранной группы пока нужно сверить с расписанием."
+      ],
+      "sources": [
+        {
+          "url": "https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L917"
+      ]
     }
   ],
   "gaps": [
@@ -331297,7 +331674,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 320,
+  "version": 321,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -344532,7 +344909,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2148,
+      "total_dossiers": 2152,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

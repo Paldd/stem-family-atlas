@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2148 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-08. 2152 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -170123,6 +170123,218 @@ Nueva Zelanda · Cox's Bay Pavilion · Herne Bay · Auckland
 - [Página de la organización o reglamento de la categoría.](https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=12&year=2026) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.trybooking.com/nz/apiv2/events/21821/sessions?month=1&year=2027) · 2026-11-08
+
+## CP2149 · Helvetic Institute · Studio Lab (ENG)
+
+Suiza · Helvetic Institute · Central Zug
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+**Idioma:** Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.
+
+**Programa:** Studio Lab de mañana con robótica, proyectos creativos y caligrafía.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Precio / año:** 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**Suplementos:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Oscar:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Por qué se seleccionó:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+### Antes de solicitar plaza
+
+- La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+- Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+- Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+- Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.
+
+### Studio Lab (ENG)
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Helvetic Institute · Central Zug
+
+**Precio:** Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**condiciones de participación:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.helveticinstitute.ch/winter-kids-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/winter-kids-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/kids-camps/) · 2026-11-08
+
+## CP2150 · Helvetic Institute · English Camp
+
+Suiza · Helvetic Institute · Central Zug
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+**Idioma:** Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.
+
+**Programa:** Inglés por la mañana, excursiones y actividades por la tarde.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Precio / año:** 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**Suplementos:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Oscar:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Por qué se seleccionó:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+### Antes de solicitar plaza
+
+- La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+- Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+- Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+- Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.
+
+### English Camp
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Helvetic Institute · Central Zug
+
+**Precio:** Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**condiciones de participación:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.helveticinstitute.ch/winter-kids-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/winter-kids-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/kids-camps/) · 2026-11-08
+
+## CP2151 · Helvetic Institute · Robotics & Coding Camp
+
+Suiza · Helvetic Institute · Central Zug
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+**Idioma:** Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.
+
+**Programa:** Itinerario de mañana de robótica y programación, con actividades diurnas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Precio / año:** 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**Suplementos:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Oscar:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Por qué se seleccionó:** 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.
+
+### Antes de solicitar plaza
+
+- La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+
+- Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+- Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+- Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.
+
+### Robotics & Coding Camp
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Helvetic Institute · Central Zug
+
+**Precio:** Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.
+
+**condiciones de participación:** Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.helveticinstitute.ch/winter-kids-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/winter-kids-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.helveticinstitute.ch/kids-camps/) · 2026-11-08
+
+## CP2152 · British Council Hong Kong · STEAM Adventures with LEGO
+
+RAE de Hong Kong (China) · Hong Kong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.
+
+**Idioma:** El curso usa inglés para debatir y presentar soluciones LEGO.
+
+**Programa:** Los niños montan y prueban modelos LEGO, resuelven problemas prácticos y explican el resultado en inglés.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.
+
+**Precio / año:** 2027 · Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.
+
+**Oscar:** P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.
+
+**Por qué se seleccionó:** El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.
+
+### Antes de solicitar plaza
+
+- P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.
+
+- El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

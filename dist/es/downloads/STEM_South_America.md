@@ -6496,6 +6496,136 @@ Limitaciones: Fechas publicadas en el calendario de la organización. Confirmar 
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 Se ha comprobado: 2026-11-08
 
+### C5012 · ITICBOT 2026 · Cali
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: El torneo se celebra el 14 de noviembre de 2026 en Cali. Hay 8 categorías juveniles de robótica y una categoría escolar de innovación. Programación y videojuegos aún figuran como «Próximamente».
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Categoría escolar para menores de hasta 16 años. Confirmar edad mínima y equivalencia del curso escolar.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5013 · ITICBOT Cali · Mini Sumo · Junior DC TT
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5014 · ITICBOT Cali · Mini Sumo · Modular Junior
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5015 · ITICBOT Cali · Laberinto · Junior DC TT
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5016 · ITICBOT Cali · Laberinto · Modular Junior
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5017 · ITICBOT Cali · Robot Soccer · Junior DC TT
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5018 · ITICBOT Cali · Robot Soccer · Modular Junior
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5019 · ITICBOT Cali · Seguidor de Línea · Junior DC TT
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5020 · ITICBOT Cali · Seguidor de Línea · Modular Junior
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: 9–16 años según las bases de la categoría. Confirmar la fecha de corte.
+Matvey: Encaja por edad si ya ha cumplido 9 años en la fecha del torneo. Hace falta confirmar la solicitud y la categoría.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: La organización invita a escuelas, academias STEM, clubes y participantes internacionales. Confirmar composición, plazo, tarifa y admisión de la categoría elegida.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/robotica.html
+Se ha comprobado: 2026-11-08
+
+### C5021 · ITICBOT Cali · Semilleros de Inspiración
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Categoría escolar para menores de hasta 16 años. Confirmar edad mínima y equivalencia del curso escolar.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: Presentar un proyecto escolar en Semilleros de Inspiración. Confirmar si se admite una solicitud familiar por medio de una escuela fuera de Colombia.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y acceso de visitantes.
+Fuente: https://iticbot.com/innovacion.html
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

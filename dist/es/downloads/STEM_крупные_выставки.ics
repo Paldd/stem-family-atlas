@@ -3148,7 +3148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E293@family-stem.local
-DTSTAMP:20261107T082208Z
+DTSTAMP:20261109T040142Z
 SUMMARY:[Exposición · confirmar admisión de menores] ROBOTECH Shenzhen
   2027
 DTSTART;VALUE=DATE:20271027
@@ -3156,9 +3156,11 @@ DTEND;VALUE=DATE:20271030
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
  . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Exp
  osición profesional. Confirmar registro de adultos y normas para menore
- s para esta edición..  Empresas: Consultar la lista de expositores de e
- sta edición en el catálogo del organizador.. Fuente verificada el 2026
- -11-07.
+ s para esta edición.. Se anuncian humanoides\, cuadrúpedos y robots in
+ dustriales y de servicio. Pendientes empresas\, tarifa y acceso infantil
+  para la edición 2027. Empresas: Se anuncian humanoides\, cuadrúpedos 
+ y robots industriales y de servicio. Pendientes empresas\, tarifa y acce
+ so infantil para la edición 2027.. Fuente verificada el 2026-11-08.
 LOCATION:Shenzhen World Exhibition & Convention Center · Bao’an\, Chin
  a
 URL:https://www.robotechasia.com/
@@ -9348,6 +9350,46 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Confirmar i
  edición.. Fuente verificada el 2026-11-08.
 LOCATION:TaiNEX 1 · Taipei\, Taiwán
 URL:https://tgs.tca.org.tw/?p=event_info_e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E708@family-stem.local
+DTSTAMP:20261109T040142Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Asia Tech x Sin
+ gapore 2027 · ATxEnterprise
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No se admit
+ e a niños de 2 a 15 años. Para jóvenes de 16–17 años y niños de m
+ enos de 2 años se requiere acompañante y un formulario de acceso trami
+ tado de antemano. Entrada de adultos: Pase gratuito para la exposición 
+ principal y parte de las conferencias. Algunas actividades requieren ent
+ rada de pago.. IA aplicada\, infraestructura digital\, conectividad\, me
+ dios y tecnología satelital. La lista preliminar de asistentes y el dir
+ ectorio de expositores son distintos. Empresas: La organización public
+ ó las áreas temáticas. Pendiente el listado de expositores de esta ed
+ ición.. Fuente verificada el 2026-11-08.
+LOCATION:Singapore EXPO · Halls 3–5\, Singapur
+URL:https://asiatechxsg.com/faqs/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E709@family-stem.local
+DTSTAMP:20261109T040142Z
+SUMMARY:[Exposición · confirmar admisión de menores] Asia Tech x Singa
+ pore 2027 · ATxSummit
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso por 
+ invitación. Confirmar condiciones para acompañantes. Entrada de adulto
+ s: Acceso por invitación. Confirmar condiciones para acompañantes.. Ac
+ ceso por invitación. Confirmar condiciones para acompañantes. Empresas
+ : La organización publicó las áreas temáticas. Pendiente el listado 
+ de expositores de esta edición.. Fuente verificada el 2026-11-08.
+LOCATION:Capella Singapore · Sentosa\, Singapur
+URL:https://asiatechxsg.com/faqs/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

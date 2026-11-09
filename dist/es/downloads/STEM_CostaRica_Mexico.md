@@ -5777,6 +5777,58 @@ Limitaciones: Torneo para estudiantes de ingeniería y áreas afines. Los drones
 Fuente: https://siro.cs.buap.mx/GDD/index.html
 Se ha comprobado: 2026-11-08
 
+### C5022 · BajaBot Tijuana 2027 · Primaria y Secundaria
+
+Fecha: 2027-04-18 — 2027-04-18
+edad: Se anuncia una jornada para primaria y secundaria. Cursos, fecha de corte y equipo de cada categoría pendientes.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: Fechas anunciadas en la presentación. Confirmar publicación de bases 2027, categorías y acceso de equipos extranjeros.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: En 2026, Armado de Robot para los cursos 1–3 era una demostración y Mini Sumo Kit para los cursos 4–6 era una competición. Las categorías de la nueva edición están pendientes.
+Fuente: https://afntijuana.info/informacion_general/183720_sera_el_trompo_sede_de_torneos_de_robotica_bajabot_e_infomatrix_iberoamerica
+Se ha comprobado: 2026-11-08
+
+### C5023 · BajaBot Tijuana 2027 · Preparatoria, Universidad y Libre
+
+Fecha: 2027-04-25 — 2027-04-25
+edad: Se anuncia una jornada para bachillerato, universidades y categoría abierta. Aún no se confirma acceso infantil a la categoría abierta.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: Fechas anunciadas en la presentación. Confirmar publicación de bases 2027, categorías y acceso de equipos extranjeros.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: En 2026, Armado de Robot para los cursos 1–3 era una demostración y Mini Sumo Kit para los cursos 4–6 era una competición. Las categorías de la nueva edición están pendientes.
+Fuente: https://afntijuana.info/informacion_general/183720_sera_el_trompo_sede_de_torneos_de_robotica_bajabot_e_infomatrix_iberoamerica
+Se ha comprobado: 2026-11-08
+
+### L915 · VOLTEC Institute · LEGO Explore
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Precio: La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.
+Limitaciones: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Fuente: https://institutovoltec.com/
+Se ha comprobado: 2026-11-08
+
+### L916 · VOLTEC Institute · LEGO Challenge
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Acceso: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Precio: La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.
+Limitaciones: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Fuente: https://institutovoltec.com/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -7786,11 +7838,11 @@ Edad: Sólo estudiantes 1–3 Clases primaria; La edad de pasaporte no sustituye
 Matvey: Condicionalmente, sólo en el caso de 1–3 :: Clase en la nueva temporada; en 4+ elegir Mini Sumo.
 Oscar: Condicionalmente, sólo en el caso de la admisión en 1–3 Clase; La edad preescolar es insuficiente.
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
-Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento escolar, mentor adulto, idioma, precio y autonomía.
+Acceso: Fechas anunciadas en la presentación. Confirmar publicación de bases 2027, categorías y acceso de equipos extranjeros.
 Costo: No se conoce el costo de la participación o entrada: el juego del día de la manifestación es proporcionado por un museo y no se queda con la familia; viaje/libros/capacitación por separado.
 Limitaciones: Convocatoria y manual p 2: demonstration only, no competition awards, participation diploma. Pero... manual p 8 Enumerar la evaluación/Incentivos para el diseño, Hora y presentación — Disparidad interna. No se considerará un premio ni una victoria mundial hasta que se hayan explicado por escrito las razones.. El comienzo anterior 17.05.2026/de la Internet 08.05 terminados; Nueva temporada desconocida.
 Fuente: https://www.bajabot.com/downloads/2026/manuales/categoria_A.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1169 · BajaBot · Mini Sumo LEGO · el siguiente juego 4–6 Clases
 
@@ -7799,11 +7851,11 @@ Edad: Sólo 4–6 Clases primaria, Incluso si el niño tiene experiencia/mayor q
 Matvey: Condicionalmente, sólo en el caso de 4–6 :: Clase en la nueva temporada; Clase exacta desconocida.
 Oscar: Más tarde: Ver 4–6 Clase; Edad 6/7 No se permite por sí solo..
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
-Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento escolar, mentor adulto, idioma, precio y autonomía.
+Acceso: Fechas anunciadas en la presentación. Confirmar publicación de bases 2027, categorías y acceso de equipos extranjeros.
 Costo: Fee/entrada desconocida. El robot y la computadora portátil propios, la preparación y el viaje por separado; el juego de museo de Armado no es prometido por Mini Sumo.
 Limitaciones: Convocatoria/p 2 manual limitación 4–6 Clase. B p 3 Deja una frase. «3 grados de secundaria», en electronics section 15151 contra la lista 51515 — Líneas de plantilla no armonizadas, no autorizada por la segunda/nueva plataforma. Algoritmo para presentar un juicio ante un juez; Lucha autónoma antes de 3 minutos sin intervención. 17.05.2026 y 08.05.2026 Pasados, 2027 no declaradas.
 Fuente: https://www.bajabot.com/downloads/2026/manuales/categoria_AA.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### E192 · Feria Maker · Máscaras Vivientes · arte e IA
 

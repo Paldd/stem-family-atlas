@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 320,
+    "version": 321,
     "status": "implementation_snapshot",
-    "events": 11146,
-    "competitions": 5010,
-    "league_profiles": 320,
-    "camp_dossiers": 2148,
+    "events": 11166,
+    "competitions": 5022,
+    "league_profiles": 321,
+    "camp_dossiers": 2152,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 707,
+    "exhibitions_events": 709,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 319,
+    "version": 320,
     "status": "implementation_snapshot",
-    "events": 11132,
-    "competitions": 5004,
+    "events": 11146,
+    "competitions": 5010,
     "league_profiles": 320,
-    "camp_dossiers": 2144,
+    "camp_dossiers": 2148,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 706,
+    "exhibitions_events": 707,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 320,
+    "prepared_ui_version": 321,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 319,
-    "previous_verified_commit": "272659d3149ca68c99c9f667a2369fec389ccac4"
+    "previous_verified_ui_version": 320,
+    "previous_verified_commit": "af9d8b297fc927be040f813df2415cff1036a326"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 319,
-    "published_version": 319,
-    "latest_source_commit": "272659d3149ca68c99c9f667a2369fec389ccac4",
-    "published_commit": "272659d3149ca68c99c9f667a2369fec389ccac4",
-    "latest_workflow": 42556185348,
+    "latest_source_version": 320,
+    "published_version": 320,
+    "latest_source_commit": "af9d8b297fc927be040f813df2415cff1036a326",
+    "published_commit": "af9d8b297fc927be040f813df2415cff1036a326",
+    "latest_workflow": 42558258094,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -33785,5 +33785,90 @@
       "CP2148"
     ],
     "source_requests": 16
+  },
+  "iticbot_and_winter_family_routes_v321": {
+    "version": 321,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5012",
+      "C5013",
+      "C5014",
+      "C5015",
+      "C5016",
+      "C5017",
+      "C5018",
+      "C5019",
+      "C5020",
+      "C5021",
+      "C5022",
+      "C5023",
+      "L915",
+      "L916",
+      "E708",
+      "E709",
+      "L917",
+      "CP2149-20270215-20270219-feb2027",
+      "CP2150-20270215-20270219-feb2027",
+      "CP2151-20270215-20270219-feb2027"
+    ],
+    "refreshed_event_ids": [
+      "E191",
+      "C1169",
+      "E293",
+      "C1772"
+    ],
+    "legacy_overlay_event_ids": [
+      "E191",
+      "C1169",
+      "E293",
+      "E106",
+      "C1772",
+      "C1776"
+    ],
+    "new_league_profiles": [
+      "iticbot-colombia"
+    ],
+    "iticbot": [
+      "C5012",
+      "C5013",
+      "C5014",
+      "C5015",
+      "C5016",
+      "C5017",
+      "C5018",
+      "C5019",
+      "C5020",
+      "C5021"
+    ],
+    "baja": [
+      "C5022",
+      "C5023"
+    ],
+    "voltec": [
+      "L915",
+      "L916"
+    ],
+    "atx": [
+      "E708",
+      "E709"
+    ],
+    "new_dossier_ids": [
+      "CP2149",
+      "CP2150",
+      "CP2151",
+      "CP2152"
+    ],
+    "source_requests": 17,
+    "dossier_event_links": {
+      "british-council-hk-winter-steam-lego": [
+        "L917"
+      ]
+    },
+    "rechecked_without_change": [
+      "C1776",
+      "E106"
+    ]
   }
 }

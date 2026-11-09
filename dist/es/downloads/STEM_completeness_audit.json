@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11146,
-    "competition_cards": 5010,
-    "event_cards": 707,
-    "camp_cards": 5429,
-    "league_profiles": 320,
-    "major_exhibition_cards": 607,
+    "cards": 11166,
+    "competition_cards": 5022,
+    "event_cards": 709,
+    "camp_cards": 5435,
+    "league_profiles": 321,
+    "major_exhibition_cards": 609,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3615,
+      "total": 3619,
       "countries_with_records": 41,
-      "competitions": 2031,
+      "competitions": 2033,
       "events": 196,
       "major_exhibitions": 154,
-      "camps": 1388,
+      "camps": 1390,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 748,
+      "total": 758,
       "countries_with_records": 15,
-      "competitions": 457,
+      "competitions": 467,
       "events": 56,
       "major_exhibitions": 52,
       "camps": 235,
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2466,
+      "total": 2469,
       "countries_with_records": 55,
       "competitions": 720,
       "events": 175,
       "major_exhibitions": 150,
-      "camps": 1571,
+      "camps": 1574,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3109,
+      "total": 3112,
       "countries_with_records": 50,
       "competitions": 1197,
-      "events": 185,
-      "major_exhibitions": 172,
-      "camps": 1727,
+      "events": 187,
+      "major_exhibitions": 174,
+      "camps": 1728,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -8237,6 +8237,29 @@
       "new": false
     },
     {
+      "id": "iticbot-colombia",
+      "name": "ITICBOT · Colombia",
+      "group": "regional",
+      "event_ids": [
+        "C5012",
+        "C5013",
+        "C5014",
+        "C5015",
+        "C5016",
+        "C5017",
+        "C5018",
+        "C5019",
+        "C5020",
+        "C5021"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://iticbot.com/robotica.html",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -15907,6 +15930,28 @@
       "new": false
     },
     {
+      "id": "E708",
+      "name": "Asia Tech x Singapore 2027 · ATxEnterprise",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2027-05-26",
+      "end": "2027-05-28",
+      "visitor_policy": "adults_only",
+      "source": "https://asiatechxsg.com/faqs/",
+      "new": false
+    },
+    {
+      "id": "E709",
+      "name": "Asia Tech x Singapore 2027 · ATxSummit",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2027-05-26",
+      "end": "2027-05-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://asiatechxsg.com/faqs/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18324,17 +18369,17 @@
       }
     ],
     "counts": {
-      "records": 5429,
-      "holiday": 4893,
+      "records": 5435,
+      "holiday": 4897,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1638,
+      "en_es_instruction": 1639,
       "en_es_support": 66,
-      "family_instruction": 1638,
+      "family_instruction": 1639,
       "family_support": 66,
       "ru_instruction": 4,
-      "language_lessons": 422,
+      "language_lessons": 423,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 160

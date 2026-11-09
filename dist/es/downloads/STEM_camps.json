@@ -580,17 +580,17 @@
       }
     ],
     "counts": {
-      "records": 5429,
-      "holiday": 4893,
+      "records": 5435,
+      "holiday": 4897,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1638,
+      "en_es_instruction": 1639,
       "en_es_support": 66,
-      "family_instruction": 1638,
+      "family_instruction": 1639,
       "family_support": 66,
       "ru_instruction": 4,
-      "language_lessons": 422,
+      "language_lessons": 423,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 160
@@ -49101,6 +49101,171 @@
       "related_ids": [
         "L913"
       ]
+    },
+    {
+      "id": "L915",
+      "title": "VOLTEC Institute · LEGO Explore",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Prepa Tec Eugenio Garza Lagüera · Monterrey",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://institutovoltec.com/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.",
+      "mat": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Primeros cursos de primaria. Programación por bloques, maqueta y proyecto.",
+      "entry": "Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.",
+      "gear": "",
+      "language": "Las condiciones se publican en español. Confirmar el idioma del jurado.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Las condiciones se publican en español. Confirmar el idioma del jurado.",
+      "cost": "La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L916"
+      ]
+    },
+    {
+      "id": "L916",
+      "title": "VOLTEC Institute · LEGO Challenge",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Prepa Tec Eugenio Garza Lagüera · Monterrey",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://institutovoltec.com/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.",
+      "mat": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "osc": "No cumple la edad mínima de este grupo.",
+      "format": "Cursos superiores de primaria y 1 de secundaria. Misiones, construcción con LEGO SPIKE y preparación para torneos.",
+      "entry": "Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.",
+      "gear": "",
+      "language": "Las condiciones se publican en español. Confirmar el idioma del jurado.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Las condiciones se publican en español. Confirmar el idioma del jurado.",
+      "cost": "La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L915"
+      ]
+    },
+    {
+      "id": "L917",
+      "title": "British Council Hong Kong · STEAM Adventures with LEGO",
+      "block": "Campamentos",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "iso": [
+        "HKG"
+      ],
+      "city": "Hong Kong",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.",
+      "mat": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "osc": "Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.",
+      "format": "Los niños montan y prueban modelos LEGO, resuelven problemas prácticos y explican el resultado en inglés.",
+      "entry": "El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.",
+      "gear": "",
+      "language": "El curso usa inglés para debatir y presentar soluciones LEGO.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El curso usa inglés para debatir y presentar soluciones LEGO.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.",
+      "themes": [
+        "engineering",
+        "languages",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "CP001-20270606-20270619",
@@ -450911,6 +451076,248 @@
           "start_utc": "2026-12-14T20:00:00Z",
           "end_utc": "2026-12-15T02:00:00Z"
         }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2149-20270215-20270219-feb2027",
+      "block": "Campamentos",
+      "title": "Helvetic Institute · Studio Lab (ENG) · Studio Lab (ENG) · 2027-02-15–2027-02-19",
+      "country": "Suiza",
+      "region": "Europa",
+      "city": "Helvetic Institute · Central Zug",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+      "gear": "Studio Lab de mañana con robótica, proyectos creativos y caligrafía.",
+      "language": "Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.",
+      "cost": "2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.; Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.; Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.; Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.",
+      "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "references": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "robotics",
+        "art",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "helvetic-zug-winter-2027-studio",
+      "camp_programme_id": "CP2149",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2150-20270215-20270219-feb2027",
+      "block": "Campamentos",
+      "title": "Helvetic Institute · English Camp · English Camp · 2027-02-15–2027-02-19",
+      "country": "Suiza",
+      "region": "Europa",
+      "city": "Helvetic Institute · Central Zug",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+      "gear": "Inglés por la mañana, excursiones y actividades por la tarde.",
+      "language": "Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.",
+      "cost": "2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.; Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.; Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.; Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.",
+      "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "references": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "languages",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "helvetic-zug-winter-2027-english",
+      "camp_programme_id": "CP2150",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ],
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2151-20270215-20270219-feb2027",
+      "block": "Campamentos",
+      "title": "Helvetic Institute · Robotics & Coding Camp · Robotics & Coding Camp · 2027-02-15–2027-02-19",
+      "country": "Suiza",
+      "region": "Europa",
+      "city": "Helvetic Institute · Central Zug",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.",
+      "gear": "Itinerario de mañana de robótica y programación, con actividades diurnas.",
+      "language": "Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.",
+      "cost": "2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.; Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.; Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución.; Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.",
+      "source": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "references": [
+        {
+          "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/kids-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "CHE"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "helvetic-zug-winter-2027-robotics",
+      "camp_programme_id": "CP2151",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
       ],
       "delivery_mode": "in_person",
       "availability": {

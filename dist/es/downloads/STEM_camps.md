@@ -13414,6 +13414,54 @@ Limitaciones: El curso de verano First Games in Scratch se anuncia para edades d
 Fuente: https://learn.modernagecoders.com/online-coding-summer-camp-canada
 Se ha comprobado: 2026-11-08
 
+### L915 · VOLTEC Institute · LEGO Explore
+
+Lugar: México Prepa Tec Eugenio Garza Lagüera · Monterrey
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+formato: course
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.
+Acceso: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Limitaciones: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Fuente: https://institutovoltec.com/
+Se ha comprobado: 2026-11-08
+
+### L916 · VOLTEC Institute · LEGO Challenge
+
+Lugar: México Prepa Tec Eugenio Garza Lagüera · Monterrey
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El programa admite de 7 a 16 años. La asignación al grupo depende del curso escolar.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+formato: course
+Idioma: Las condiciones se publican en español. Confirmar el idioma del jurado.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.
+Acceso: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Limitaciones: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
+Fuente: https://institutovoltec.com/
+Se ha comprobado: 2026-11-08
+
+### L917 · British Council Hong Kong · STEAM Adventures with LEGO
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: No se ha fijado el período/plan de trabajo
+edad: P1–P2 según el programa de Hong Kong. Acordar equivalencia escolar y nivel de inglés.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Formato: day_camp
+Idioma: El curso usa inglés para debatir y presentar soluciones LEGO.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.
+Limitaciones: El programa está publicado. Pendiente cotejar con el horario la fecha, sede y precio total del grupo elegido.
+Fuente: https://www.britishcouncil.hk/en/english-courses/kids-teens/holiday-courses/primary
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -85652,6 +85700,54 @@ Precio: 2026/27 · NZD 70 por niño y día. Confirmar posibles comisiones al pag
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Oscar: La franja de 5–11 años encaja. Confirmar plaza, idioma y acceso de visitantes. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.trybooking.com/nz/event/21821/tickets
+Se ha comprobado: 2026-11-08
+
+### CP2149-20270215-20270219-feb2027 · Helvetic Institute · Studio Lab (ENG) · Studio Lab (ENG) · 2027-02-15–2027-02-19
+
+lugar: Suiza · Helvetic Institute · Central Zug
+Fecha: 2027-02-15 国 2027-02-19
+edad: La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Studio Lab se anuncia en inglés. Confirmar idioma de excursiones y demás actividades.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier
+Acceso: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+Limitaciones: Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.helveticinstitute.ch/winter-kids-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2150-20270215-20270219-feb2027 · Helvetic Institute · English Camp · English Camp · 2027-02-15–2027-02-19
+
+lugar: Suiza · Helvetic Institute · Central Zug
+Fecha: 2027-02-15 国 2027-02-19
+edad: La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Clases de inglés por la mañana. Confirmar el idioma de las actividades de la tarde.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier
+Acceso: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+Limitaciones: Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.helveticinstitute.ch/winter-kids-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2151-20270215-20270219-feb2027 · Helvetic Institute · Robotics & Coding Camp · Robotics & Coding Camp · 2027-02-15–2027-02-19
+
+lugar: Suiza · Helvetic Institute · Central Zug
+Fecha: 2027-02-15 国 2027-02-19
+edad: La página general indica 4–13 y 5–13 años. Confirmar edad y nivel del itinerario concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Pendiente el idioma del itinerario Robotics & Coding. La etiqueta ENG corresponde a Studio Lab.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Consultar el precio del itinerario de 2027. Confirmar materiales, excursiones y devolución. · suplementos y condiciones en el dossier
+Acceso: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar.
+Limitaciones: Matvey: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Oscar: Está abierto el formulario de interés. Confirmar edad, precio y plaza antes de pagar. Suplementos: 15–19 de febrero de 2027. Horario habitual de 09:00 a 16:00. Llevar almuerzo. Acogida temprana o tardía por CHF 25 por hora. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.helveticinstitute.ch/winter-kids-camp/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
