@@ -208645,7 +208645,8 @@
             "date_scope": "camp_session",
             "availability": {
               "status": "closed",
-              "label": "Grupo completo; sin plaza adicional confirmada."
+              "label": "Grupo completo; sin plaza adicional confirmada.",
+              "checked": "2026-11-08"
             }
           }
         ],
@@ -208666,11 +208667,11 @@
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "detail": "Edad mínima de 10 años. Matvey cumple si para el 21 de enero de 2027 ya tiene 10 años. El grupo está completo."
         },
         "oscar": {
           "status": "later",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "detail": "Oscar tiene menos de 10 años para este turno."
         }
       },
       "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
@@ -208683,15 +208684,15 @@
         {
           "title": "Linked organiser page · sold out, full price and actual teaching days",
           "url": "https://kti-camp.web.app/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "STARK official winter programme link",
           "url": "https://www.starklabtw.com/en/programs/winter-2027",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -376949,7 +376950,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 311,
+  "version": 312,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

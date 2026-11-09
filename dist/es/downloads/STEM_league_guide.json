@@ -11574,7 +11574,7 @@
           "10-12",
           "teen"
         ],
-        "summary": "el calendario nacional del Challenge15 de días regionales y la final el 6 de marzo de 2027.",
+        "summary": "19 fechas regionales de Challenge y final el 6 de marzo de 2027. La final Future será el 4 de abril de 2027. Explore tiene un calendario propio.",
         "categories": [
           {
             "name": "Explore",
@@ -11587,9 +11587,9 @@
           {
             "name": "Challenge",
             "age": "9–15",
-            "team": "2–10, coach18+",
+            "team": "2 a 10 menores y hasta 2 mentores de 18+ años. Se recomiendan 2 mentores.",
             "hardware": "SPIKEPrime / EV3 / NXT por temporada",
-            "age_rule": "local máximo de 15, no total de 16",
+            "age_rule": "Habitualmente de 9 a 15 años. Las preguntas frecuentes admiten menores de 9 según el equipo. Límite superior de 15 años al 1 de septiembre.",
             "entry": "Regionales → Wageningen nacional6 de marzo de 2027"
           },
           {
@@ -11598,7 +11598,7 @@
             "team": "4–8, hasta 2 coach18+",
             "hardware": "dos CS&AI11+",
             "age_rule": "los participantes 8–14, kit11+ No , no . age de edad cutoff",
-            "entry": "Evento nacionalApr/maio TBD"
+            "entry": "La final nacional está prevista para el 4 de abril de 2027 en Eindhoven. Aún faltan fechas y sedes de las finales regionales."
           }
         ],
         "event_ids": [
@@ -11606,6 +11606,8 @@
           "C944",
           "C945",
           "C946",
+          "C4831",
+          "C4832",
           "C947",
           "C948",
           "C949",
@@ -11613,29 +11615,32 @@
           "C951",
           "C952",
           "C953",
-          "C954",
-          "C955",
+          "C4833",
+          "C4834",
           "C956",
+          "C955",
+          "C4835",
           "C957",
           "C958",
           "C959",
-          "C960"
+          "C960",
+          "C4836"
         ],
         "legacy_ids": [],
-        "route": "Oscar: Explore desde los 6 años → la futura etapa superior. Matvey: equipo / coach → Challenge regional → Wageningen 6 de marzo de 2027; invitación internacional por cuota nacional.",
+        "route": "Explore encaja para Oscar. Para Challenge debe confirmar la excepción de edad. Matvey encaja por edad en Challenge y Future. En Challenge la ruta pasa por la región, Wageningen y la fase internacional por invitación.",
         "hardware": "ver la categoría y la tarjeta vinculada; las plataformas no se intercambian.",
         "language": "El examen de EN es obligatorio en las reglas, y el idioma de la entrevista / enseñanza es independiente.",
         "importance": "Es un itinerario nacional, no un ranking mundial.",
-        "strengths": "el calendario nacional del Challenge15 de días regionales y la final el 6 de marzo de 2027.",
+        "strengths": "19 fechas regionales de Challenge y final el 6 de marzo de 2027. La final Future será el 4 de abril de 2027. Explore tiene un calendario propio.",
         "requirements": [
           "confirmar el idioma de la entrevista y la entrada de los residentes.",
           "El calendario regional abierto no confirma su posición en el equipo.",
           "El futuro de CS&AI y el reto de la plataforma antigua son diferentes."
         ],
         "nuances": [
-          "Las fechas futuras nacionales de abril/mayo no se conocen; el ICS no contiene fechas imaginarias.",
-          "el conjunto internacional Future5–14 No es actual NL rollout8–14.",
-          "el calendario regional sujeto a cambios; confirmar antes de viajar."
+          "La final nacional está prevista para el 4 de abril de 2027 en Eindhoven. Aún faltan fechas y sedes de las finales regionales.",
+          "La organización asigna la región según el domicilio de la entidad. Hay 1 clasificatorio por equipo. Los equipos extranjeros deben confirmar región, idioma de la presentación y acceso a cupos.",
+          "Condicional. En Challenge se contemplan menores de 9 años según las preguntas frecuentes. Confirmar equipo, acceso e idioma. Explore encaja por edad."
         ],
         "cost": "equipo, contribución y viaje por una etapa concreta; lugar no confirmado.",
         "award": "el premio de una etapa concreta por el protocolo; la selección mundial y el certificado de aprendizaje por separado.",
@@ -11936,7 +11941,19 @@
           "C1001",
           "C1002",
           "C1003",
-          "C1004"
+          "C1004",
+          "C4837",
+          "C4838",
+          "C4839",
+          "C4840",
+          "C4841",
+          "C4842",
+          "C4843",
+          "C4844",
+          "C4845",
+          "C4846",
+          "C4847",
+          "C4848"
         ],
         "legacy_ids": [],
         "route": "Entrenador y equipo → edición seleccionada / región → final nacional Challenge en marzo → cuota internacional por separado. Explore  festival de proyectos, K2  formación.",
@@ -11946,11 +11963,11 @@
         "strengths": "Challenge ofrece selección competitiva; Explore y K2 requieren una comprensión separada del reconocimiento de la enseñanza.",
         "requirements": [
           "confirmar la protección de la EN, el equipo extranjero y el país de selección.",
-          "El calendario publicado no tiene una lista de fechas del futuro.",
+          "El calendario Future se puede consultar con el selector de edición de la página oficial. Confirmar equipo, idioma de la presentación y acceso de equipos extranjeros.",
           "Matvey en el 2027 se ejecuta 10: Explore 6–9 requiere una precisión cutoff."
         ],
         "nuances": [
-          "27 diferentes registros regionales; Lecce Explore 10 de abril en la fuente se repite y se introduce una vez.",
+          "El calendario tiene 22 entradas Challenge, 6 Explore y 11 Future. En Lecce hay 2 entradas Explore para la misma fecha con distinta disponibilidad.",
           "el precio de junio-julio se ha ido; la cotización actual y el plazo son desconocidos.",
           "Los planes de la operadora italiana Founders para 2027/28 no garantizan la transición mundial de FIRST."
         ],

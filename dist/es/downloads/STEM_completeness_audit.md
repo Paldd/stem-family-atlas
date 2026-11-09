@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10873; competiciones: 4829; eventos: 689; campamentos / programas: 5355. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 590 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10891; competiciones: 4847; eventos: 689; campamentos / programas: 5355. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 590 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 1975 | 153 | 1382 |
 | América del Sur | 15 | 452 | 52 | 233 |
-| Europa | 55 | 637 | 148 | 1540 |
+| Europa | 55 | 655 | 148 | 1540 |
 | África | 60 | 248 | 43 | 140 |
 | Asia | 50 | 1183 | 160 | 1709 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4829 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
+VEX: 815 de 4847 fichas de competiciones (16.8%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -193,10 +193,10 @@ VEX: 815 de 4829 fichas de competiciones (16.9%). La cobertura se concentra en e
 - **FIRST LEGO League DACH - Alemania**: 4 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.first-lego-league.org/en/divisions/explore
 - **RoboCupJunior Germany ·Entry Junior y final**: 1 tarjeta, 1 con fechas exactas futuras. https://robocup.de/events/junior-finale-2027
 - **WRO Netherlands · Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro-nederland.nl/Seizoen
-- **FIRST LEGO League Netherlands - temporada 2026/27**: 18 tarjetas, 16 con fechas exactas futuras. https://firstlegoleague.nl/seizoen_2026_2027/
+- **FIRST LEGO League Netherlands · temporada 2026/27**: 23 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.nl/seizoen_2026_2027/
 - **FIRST LEGO League Belgium / BeLux**: 10 tarjetas, 9 con fechas exactas futuras. https://www.voka.be/first-lego-league-be/timing
 - **FIRST LEGO League Switzerland · cuatro rutas secundarias 2026/27**: 15 tarjetas, 12 con fechas exactas futuras. https://www.first-lego-league.org/en/faq
-- **FIRST LEGO League Italia · Founders / Future**: 31 tarjetas, 27 con fechas exactas futuras. https://firstlegoleague.it/p/edizioni
+- **FIRST LEGO League Italia · Founders / Future**: 43 fichas, 39 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.it/p/edizioni
 - **WRO Italia · Kids / Elementary / Starter**: 3 tarjetas, 0 con fechas exactas futuras. https://www.worldrobotolympiad.it/fasce-eta/
 - **RoboCupJunior Academy Italia · OnStage escalón**: 3 tarjetas, 0 con fechas exactas futuras. https://www.robocupjra.it/
 - **FNR / RoboCup Portugal Open · Junior 2027**: 9 tarjetas, 9 con fechas exactas futuras. https://www.festivalnacionalrobotica.pt/

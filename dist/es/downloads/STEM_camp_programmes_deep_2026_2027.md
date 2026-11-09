@@ -97684,7 +97684,7 @@ Taiwán · Qingpu · Taoyuan
 
 Malasia · GMI · Kajang, Selangor
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 10–15
 
@@ -97704,9 +97704,9 @@ Malasia · GMI · Kajang, Selangor
 
 **Pago:** Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.
 
-**Matvey:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Matvey:** Edad mínima de 10 años. Matvey cumple si para el 21 de enero de 2027 ya tiene 10 años. El grupo está completo.
 
-**Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Oscar:** Oscar tiene menos de 10 años para este turno.
 
 **Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
 
@@ -97728,9 +97728,9 @@ Malasia · GMI · Kajang, Selangor
 
 ### Fuentes
 
-- [Linked organiser page · sold out, full price and actual teaching days](https://kti-camp.web.app/) · 2026-11-05
+- [Linked organiser page · sold out, full price and actual teaching days](https://kti-camp.web.app/) · 2026-11-08
 
-- [STARK official winter programme link](https://www.starklabtw.com/en/programs/winter-2027) · 2026-11-05
+- [STARK official winter programme link](https://www.starklabtw.com/en/programs/winter-2027) · 2026-11-08
 
 ## CP1247 · EIMx · Eureka
 

@@ -4994,9 +4994,9 @@ Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: Valor actual y moneda de confirmación
 Entrada: Escuela, club o grupo de estudio independiente con un mentor; la participación extranjera, el idioma de protección y el derecho a la cuota internacional italiana no están confirmados.
-Limitaciones: Programa de capacitación, No un concurso internacional confirmado. Italianos 5–8 Diferencias entre DACH 5–7; no se han trasladado las restricciones de un país a otro. Idiomas y calendario del profesor aún no definidos.
+Limitaciones: El calendario Future se puede consultar con el selector de edición de la página oficial. Confirmar equipo, idioma de la presentación y acceso de equipos extranjeros.
 Fuente: https://firstlegoleague.it/p/edizioni
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### L305 · WRO Italia · RoboStarter / RoboStarter Kids ·
 
@@ -57474,9 +57474,9 @@ Idioma: Cinco días lectivos en GMI íntegramente en inglés; exige conversació
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · NTD 99000 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llegada familiar a Taiwán, documentos / exclusiones del seguro y gastos parentales aparte; no trasladar precio a salida desde Costa Rica. Pago: Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.
+Limitaciones: Matvey: Edad mínima de 10 años. Matvey cumple si para el 21 de enero de 2027 ya tiene 10 años. El grupo está completo. Oscar: Oscar tiene menos de 10 años para este turno. Suplementos: Llegada familiar a Taiwán, documentos / exclusiones del seguro y gastos parentales aparte; no trasladar precio a salida desde Costa Rica. Pago: Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.
 Fuente: https://kti-camp.web.app/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1247-20261214-20261218-shanghai · EIMx · Eureka · Eureka · Shanghai · 2026-12-14–2026-12-18
 

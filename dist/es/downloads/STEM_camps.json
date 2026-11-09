@@ -19058,7 +19058,7 @@
       "region": "Europa",
       "city": "su propia escuela / club / grupo extraescolar",
       "source": "https://firstlegoleague.it/p/edizioni",
-      "checked": "2026-10-01",
+      "checked": "2026-11-08",
       "start": "",
       "end": "",
       "deadline": "",
@@ -19085,8 +19085,13 @@
       "action": "confirmar el flujo, la lengua, la clase, el acceso de la familia extranjera y la disponibilidad de asientos antes de la inscripción o el viaje.",
       "proof": "Se ha leído la fuente primaria; se han dividido la fecha / edad y las condiciones desconocidas.",
       "evidence_level": "program",
-      "references": [],
-      "note": "programa de estudios, y no un concurso internacional confirmado. italiano 5–8 y son diferentes de DACH 5–7; las restricciones de un país no se han trasladado a otro. El idioma del profesor y el calendario de su grupo aún no se han definido.",
+      "references": [
+        {
+          "url": "https://firstlegoleague.it/p/eventi",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "note": "El calendario Future se puede consultar con el selector de edición de la página oficial. Confirmar equipo, idioma de la presentación y acceso de equipos extranjeros.",
       "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
@@ -19097,6 +19102,9 @@
       "language_mode": "unconfirmed",
       "iso": [
         "ITA"
+      ],
+      "related_ids": [
+        "C4848"
       ]
     },
     {
@@ -284307,9 +284315,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llegada familiar a Taiwán, documentos / exclusiones del seguro y gastos parentales aparte; no trasladar precio a salida desde Costa Rica. Pago: Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.",
+      "note": "Matvey: Edad mínima de 10 años. Matvey cumple si para el 21 de enero de 2027 ya tiene 10 años. El grupo está completo. Oscar: Oscar tiene menos de 10 años para este turno. Suplementos: Llegada familiar a Taiwán, documentos / exclusiones del seguro y gastos parentales aparte; no trasladar precio a salida desde Costa Rica. Pago: Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.",
       "iso": [
         "MYS"
       ],
@@ -284340,7 +284348,8 @@
       ],
       "availability": {
         "status": "closed",
-        "label": "Grupo completo; sin plaza adicional confirmada."
+        "label": "Grupo completo; sin plaza adicional confirmada.",
+        "checked": "2026-11-08"
       },
       "registration_status": "Grupo completo; lista de espera sin confirmar."
     },

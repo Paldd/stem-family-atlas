@@ -1,0 +1,484 @@
+{
+  "version": 312,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4831",
+    "C4832",
+    "C4833",
+    "C4834",
+    "C4835",
+    "C4836",
+    "C4837",
+    "C4838",
+    "C4839",
+    "C4840",
+    "C4841",
+    "C4842",
+    "C4843",
+    "C4844",
+    "C4845",
+    "C4846",
+    "C4847",
+    "C4848"
+  ],
+  "refreshed_event_ids": [
+    "C954",
+    "C945",
+    "C946",
+    "C947",
+    "C948",
+    "C949",
+    "C950",
+    "C951",
+    "C952",
+    "C953",
+    "C956",
+    "C955",
+    "C957",
+    "C958",
+    "C959",
+    "C944",
+    "C943",
+    "C960",
+    "C032",
+    "C977",
+    "C978",
+    "C979",
+    "C980",
+    "C981",
+    "C982",
+    "C983",
+    "C984",
+    "C985",
+    "C986",
+    "C988",
+    "C989",
+    "C990",
+    "C991",
+    "C992",
+    "C993",
+    "C994",
+    "C995",
+    "C996",
+    "C997",
+    "C998",
+    "C987",
+    "C999",
+    "C1000",
+    "C1001",
+    "C1002",
+    "C1003",
+    "C1004",
+    "C974",
+    "C975",
+    "C976",
+    "L304"
+  ],
+  "legacy_overlay_event_ids": [
+    "C954",
+    "C945",
+    "C946",
+    "C947",
+    "C948",
+    "C949",
+    "C950",
+    "C951",
+    "C952",
+    "C953",
+    "C956",
+    "C955",
+    "C957",
+    "C958",
+    "C959",
+    "C944",
+    "C943",
+    "C960",
+    "C032",
+    "C977",
+    "C978",
+    "C979",
+    "C980",
+    "C981",
+    "C982",
+    "C983",
+    "C984",
+    "C985",
+    "C986",
+    "C988",
+    "C989",
+    "C990",
+    "C991",
+    "C992",
+    "C993",
+    "C994",
+    "C995",
+    "C996",
+    "C997",
+    "C998",
+    "C987",
+    "C999",
+    "C1000",
+    "C1001",
+    "C1002",
+    "C1003",
+    "C1004",
+    "C974",
+    "C975",
+    "C976",
+    "L304"
+  ],
+  "legacy_overlay_league_ids": [
+    "fll-netherlands",
+    "fll-italy"
+  ],
+  "source_requests": 9,
+  "netherlands_regional_ids": [
+    "C945",
+    "C946",
+    "C4831",
+    "C4832",
+    "C947",
+    "C948",
+    "C949",
+    "C950",
+    "C951",
+    "C952",
+    "C953",
+    "C4833",
+    "C4834",
+    "C956",
+    "C955",
+    "C4835",
+    "C957",
+    "C958",
+    "C959"
+  ],
+  "netherlands_future_final": "C4836",
+  "merged_into": {
+    "C954": "C956"
+  },
+  "italy_current_listings": [
+    {
+      "id": "C977",
+      "division": "Challenge",
+      "city": "Roma",
+      "day": "2027-01-16",
+      "published_team_places": 12,
+      "organizer_id": 78
+    },
+    {
+      "id": "C978",
+      "division": "Challenge",
+      "city": "Milano",
+      "day": "2027-01-19",
+      "published_team_places": 0,
+      "organizer_id": 75
+    },
+    {
+      "id": "C979",
+      "division": "Challenge",
+      "city": "Locri",
+      "day": "2027-01-24",
+      "published_team_places": 11,
+      "organizer_id": 71
+    },
+    {
+      "id": "C980",
+      "division": "Challenge",
+      "city": "Genova",
+      "day": "2027-01-28",
+      "published_team_places": 1,
+      "organizer_id": 67
+    },
+    {
+      "id": "C981",
+      "division": "Challenge",
+      "city": "Cantù",
+      "day": "2027-01-30",
+      "published_team_places": 10,
+      "organizer_id": 56
+    },
+    {
+      "id": "C982",
+      "division": "Challenge",
+      "city": "Giarre",
+      "day": "2027-01-30",
+      "published_team_places": 4,
+      "organizer_id": 74
+    },
+    {
+      "id": "C983",
+      "division": "Challenge",
+      "city": "Cagliari",
+      "day": "2027-02-02",
+      "published_team_places": 9,
+      "organizer_id": 89
+    },
+    {
+      "id": "C984",
+      "division": "Challenge",
+      "city": "Mestre",
+      "day": "2027-02-05",
+      "published_team_places": 0,
+      "organizer_id": 57
+    },
+    {
+      "id": "C985",
+      "division": "Challenge",
+      "city": "Napoli",
+      "day": "2027-02-05",
+      "published_team_places": 4,
+      "organizer_id": 55
+    },
+    {
+      "id": "C986",
+      "division": "Challenge",
+      "city": "Mestre",
+      "day": "2027-02-06",
+      "published_team_places": 0,
+      "organizer_id": 58
+    },
+    {
+      "id": "C988",
+      "division": "Challenge",
+      "city": "Mestre",
+      "day": "2027-02-07",
+      "published_team_places": 5,
+      "organizer_id": 59
+    },
+    {
+      "id": "C989",
+      "division": "Challenge",
+      "city": "Palermo",
+      "day": "2027-02-11",
+      "published_team_places": 1,
+      "organizer_id": 73
+    },
+    {
+      "id": "C990",
+      "division": "Challenge",
+      "city": "Modena",
+      "day": "2027-02-13",
+      "published_team_places": 0,
+      "organizer_id": 60
+    },
+    {
+      "id": "C991",
+      "division": "Challenge",
+      "city": "Firenze",
+      "day": "2027-02-13",
+      "published_team_places": 0,
+      "organizer_id": 64
+    },
+    {
+      "id": "C992",
+      "division": "Challenge",
+      "city": "Lecce",
+      "day": "2027-02-13",
+      "published_team_places": 8,
+      "organizer_id": 61
+    },
+    {
+      "id": "C993",
+      "division": "Challenge",
+      "city": "Bolzano",
+      "day": "2027-02-20",
+      "published_team_places": 9,
+      "organizer_id": 68
+    },
+    {
+      "id": "C994",
+      "division": "Challenge",
+      "city": "Piacenza",
+      "day": "2027-02-20",
+      "published_team_places": 0,
+      "organizer_id": 65
+    },
+    {
+      "id": "C995",
+      "division": "Challenge",
+      "city": "Piacenza",
+      "day": "2027-02-21",
+      "published_team_places": 0,
+      "organizer_id": 66
+    },
+    {
+      "id": "C996",
+      "division": "Challenge",
+      "city": "Torino",
+      "day": "2027-02-23",
+      "published_team_places": 0,
+      "organizer_id": 76
+    },
+    {
+      "id": "C997",
+      "division": "Challenge",
+      "city": "Empoli",
+      "day": "2027-02-25",
+      "published_team_places": 0,
+      "organizer_id": 90
+    },
+    {
+      "id": "C998",
+      "division": "Challenge",
+      "city": "Udine",
+      "day": "2027-02-27",
+      "published_team_places": 8,
+      "organizer_id": 70
+    },
+    {
+      "id": "C987",
+      "division": "Challenge",
+      "city": "Fermo",
+      "day": "2027-02-27",
+      "published_team_places": 22,
+      "organizer_id": 72
+    },
+    {
+      "id": "C999",
+      "division": "Explore",
+      "city": "Firenze",
+      "day": "2027-03-13",
+      "published_team_places": 0,
+      "organizer_id": 91
+    },
+    {
+      "id": "C1000",
+      "division": "Explore",
+      "city": "Palermo",
+      "day": "2027-04-03",
+      "published_team_places": 9,
+      "organizer_id": 79
+    },
+    {
+      "id": "C1001",
+      "division": "Explore",
+      "city": "Bosco Chiesanuova",
+      "day": "2027-04-10",
+      "published_team_places": 0,
+      "organizer_id": 86
+    },
+    {
+      "id": "C4837",
+      "division": "Explore",
+      "city": "Lecce",
+      "day": "2027-04-10",
+      "published_team_places": 14,
+      "organizer_id": 93
+    },
+    {
+      "id": "C1002",
+      "division": "Explore",
+      "city": "Lecce",
+      "day": "2027-04-10",
+      "published_team_places": 15,
+      "organizer_id": 94
+    },
+    {
+      "id": "C1003",
+      "division": "Explore",
+      "city": "Cantù",
+      "day": "2027-05-14",
+      "published_team_places": 6,
+      "organizer_id": 88
+    },
+    {
+      "id": "C4838",
+      "division": "Future 3-8",
+      "city": "Milano",
+      "day": "2027-01-20",
+      "published_team_places": 1,
+      "organizer_id": 80
+    },
+    {
+      "id": "C4839",
+      "division": "Future 3-8",
+      "city": "Canazei",
+      "day": "2027-01-24",
+      "published_team_places": 7,
+      "organizer_id": 69
+    },
+    {
+      "id": "C4840",
+      "division": "Future 3-8",
+      "city": "Genova",
+      "day": "2027-01-28",
+      "published_team_places": 4,
+      "organizer_id": 92
+    },
+    {
+      "id": "C4841",
+      "division": "Future 3-8",
+      "city": "Giarre",
+      "day": "2027-01-30",
+      "published_team_places": 4,
+      "organizer_id": 85
+    },
+    {
+      "id": "C4842",
+      "division": "Future 3-8",
+      "city": "Mestre",
+      "day": "2027-02-05",
+      "published_team_places": 1,
+      "organizer_id": 83
+    },
+    {
+      "id": "C4843",
+      "division": "Future 3-8",
+      "city": "Mestre",
+      "day": "2027-02-07",
+      "published_team_places": 3,
+      "organizer_id": 84
+    },
+    {
+      "id": "C4844",
+      "division": "Future 3-8",
+      "city": "Palermo",
+      "day": "2027-02-11",
+      "published_team_places": 2,
+      "organizer_id": 81
+    },
+    {
+      "id": "C4845",
+      "division": "Future 3-8",
+      "city": "Lecce",
+      "day": "2027-02-13",
+      "published_team_places": 5,
+      "organizer_id": 62
+    },
+    {
+      "id": "C4846",
+      "division": "Future 3-8",
+      "city": "Empoli",
+      "day": "2027-02-25",
+      "published_team_places": 0,
+      "organizer_id": 77
+    },
+    {
+      "id": "C4847",
+      "division": "Future 3-8",
+      "city": "Bosco Chiesanuova",
+      "day": "2027-02-27",
+      "published_team_places": 6,
+      "organizer_id": 87
+    },
+    {
+      "id": "C4848",
+      "division": "Future K-2",
+      "city": "Verona",
+      "day": "2027-04-10",
+      "published_team_places": 6,
+      "organizer_id": 95
+    }
+  ],
+  "revised_dates": {
+    "C956": "2027-02-06",
+    "C983": "2027-02-02",
+    "C987": "2027-02-27"
+  },
+  "refreshed_camp_dossiers": [
+    "CP1246"
+  ]
+}
