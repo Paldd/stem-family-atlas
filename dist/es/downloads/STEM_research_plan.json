@@ -870,7 +870,7 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 318,
+    "version": 319,
     "status": "implementation_snapshot",
     "events": 11132,
     "competitions": 5004,
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 317,
+    "version": 318,
     "status": "implementation_snapshot",
-    "events": 11113,
-    "competitions": 4994,
-    "league_profiles": 317,
-    "camp_dossiers": 2142,
+    "events": 11132,
+    "competitions": 5004,
+    "league_profiles": 320,
+    "camp_dossiers": 2144,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 318,
+    "prepared_ui_version": 319,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 317,
-    "previous_verified_commit": "d015b1dac1e8d713cdabbdff3c547990d3c3ebaf"
+    "previous_verified_ui_version": 318,
+    "previous_verified_commit": "9320c8984790e5645cb5222b0c42a63371324dfd"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 317,
-    "published_version": 317,
-    "latest_source_commit": "d015b1dac1e8d713cdabbdff3c547990d3c3ebaf",
-    "published_commit": "d015b1dac1e8d713cdabbdff3c547990d3c3ebaf",
-    "latest_workflow": 42552367312,
+    "latest_source_version": 318,
+    "published_version": 318,
+    "latest_source_commit": "9320c8984790e5645cb5222b0c42a63371324dfd",
+    "published_commit": "9320c8984790e5645cb5222b0c42a63371324dfd",
+    "latest_workflow": 42554561333,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -33661,5 +33661,27 @@
       "nkcc-romania-scratch",
       "lsc-singapore-coding"
     ]
+  },
+  "catalogue_startup_v319": {
+    "version": 319,
+    "events_retained": 11132,
+    "sizes": {
+      "ru": {
+        "old_bytes": 60194529,
+        "packed_bytes": 24416994,
+        "old_gzip6": 3645905,
+        "packed_gzip6": 3196927
+      },
+      "es": {
+        "old_bytes": 43992789,
+        "packed_bytes": 19663543,
+        "old_gzip6": 3088377,
+        "packed_gzip6": 2796845
+      },
+      "source": {
+        "old_bytes": 94901799,
+        "record_lines_bytes": 87970208
+      }
+    }
   }
 }

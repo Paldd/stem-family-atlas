@@ -12,6 +12,23 @@ async function verifyEdition(locale) {
   const report = JSON.parse(read(reportPath));
   const slug = report.profiles[0].slug;
   assert(html.includes('src="assets/atlas-core.js?v=' + version + '"'));
+  const prefix = 'window.STEM_DATA=';
+  const fullScript = read('assets/data.js').trimEnd();
+  assert(fullScript.startsWith(prefix) && fullScript.endsWith(';'));
+  const { camp_programmes: camps, ...expected } = JSON.parse(fullScript.slice(prefix.length, -1));
+  const slugs = new Map(camps.profiles.map(p => [p.id, p.slug]));
+  expected.camp_dossier_links = Object.fromEntries(camps.event_links.map(link => [
+    link.event_id, slugs.get(link.programme_id),
+  ]));
+  const runtime = { window: {} };
+  const coreScript = read('assets/atlas-core.js');
+  vm.runInNewContext(coreScript, runtime);
+  const expectedCore = JSON.stringify(expected);
+  assert(JSON.stringify(runtime.window.STEM_DATA) === expectedCore,
+    'Decoded startup catalogue must preserve every field, record and key order');
+  assert(Buffer.byteLength(coreScript) < Buffer.byteLength(expectedCore),
+    'Packed catalogue must reduce startup size');
+
   const app = read('assets/app.js');
   assert.match(app, /if\(state\.view==='camps'\)\{\s*drawCamps\(a\);\s*window\.mountCampDossiers\?\.\(\)/);
 
