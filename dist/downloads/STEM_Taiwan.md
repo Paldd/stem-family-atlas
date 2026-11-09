@@ -221,7 +221,7 @@ TYPA / TAS проверяются по классу, членству и ино�
 Стоимость: Актуальная стоимость не опубликована
 Ограничения: 27–28 июля 2027, Taipei, точная площадка Por confirmar. Список challenge, возраст, язык, цена и квоты ещё не опубликованы. Статус списка To be announced; регистрация и семейный билет не подтверждены.
 Источник: https://www.roboraveinternational.org/en/events/taiwan-open-2027
-Проверено: 2026-11-04
+Проверено: 2026-11-09
 
 ### C110 · VEX IQ Robotics Competition™ (ES/MS) Scrimmage 2026 VEX IQ Elementary and Middle School - Hosted By Dr. Player Lab
 

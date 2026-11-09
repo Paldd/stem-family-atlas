@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2199 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
+Estado de la base: 2026-11-09. 2202 fichas en 140 países. Las fechas de verificación de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -153416,41 +153416,769 @@ Estados Unidos · Putnam Museum and Science Center · 1717 W. 12th St. · Davenp
 
 Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-09
 
 **edad:** Edades de 6 a 12 años.
 
-**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+**Idioma:** Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
 
-**Programa:** Montar un modelo SPOT con LEGO, programar misiones y conocer el robot. Se proporciona el equipo.
+**Programa:** Se prestan LEGO y equipo durante el taller. Los menores montan y programan un modelo de SPOT.
 
 **Alojamiento:** Formato diurno sin alojamiento.
 
-**Fechas / estado:** Sábado y domingo, 10:00 o 16:00, 90 minutos. Elegir fecha y plaza en el formulario.
+**Fechas / estado:** La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.
 
-**Precio / año:** 2026 · $25 por menor, $50 por dos. La página del taller no indica el código de moneda.
+**Precio / año:** 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
 
-**Incluido:** Equipo didáctico durante la clase.
+**Incluido:** Se prestan LEGO y equipo durante el taller. Los menores montan y programan un modelo de SPOT.
 
-**Suplementos:** Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
+**Suplementos:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
 
-**Pago:** El operador indica que la tarifa no es reembolsable ni transferible.
+**Pago:** Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
 
 **Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
 **Oscar:** Sí por edad. Se requieren plaza e inscripción.
 
-**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+**Motivo de la selección:** La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.
 
 ### Antes de solicitar plaza
 
-- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-14 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-14 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-15 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-15 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-21 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-21 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-22 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-22 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-28 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-28 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-11-29 — 2026-11-29
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-11-29 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-11-29 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-05 — 2026-12-05
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-05 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-05 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-06 — 2026-12-06
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-06 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-06 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-12 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-12 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-13 — 2026-12-13
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-13 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-13 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-19 — 2026-12-19
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-19 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-19 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-20 — 2026-12-20
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-20 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-20 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-26 — 2026-12-26
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-26 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-26 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2026-12-27 — 2026-12-27
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2026-12-27 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2026-12-27 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-02 — 2027-01-02
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-02 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-02 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-03 — 2027-01-03
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-03 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-03 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-09 — 2027-01-09
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-09 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-09 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-10 — 2027-01-10
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-10 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-10 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-16 — 2027-01-16
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-16 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-16 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-17 — 2027-01-17
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-17 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-17 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-23 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-23 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-24 — 2027-01-24
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-24 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-24 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-30 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-30 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-01-31 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-01-31 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-06 — 2027-02-06
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-06 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-06 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-07 — 2027-02-07
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-07 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-07 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-13 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-13 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-14 — 2027-02-14
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-14 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-14 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-20 — 2027-02-20
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-20 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-20 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
+
+### Un turno a elegir
+
+**Fechas / estado:** 2027-02-21 — 2027-02-21
+
+**lugar:** Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Precio:** La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+
+**condiciones de participación:** Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- 2027-02-21 · 10:00–11:30 · Asia/Singapore · Opción de mañana · elegir un turno
+
+- 2027-02-21 · 16:00–17:30 · Asia/Singapore · Opción de tarde · elegir un turno
+
+**Disponibilidad de plazas:** Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización.
+
+- Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
+
+- Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+
+- Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+
+[fuente](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops)
 
 ### Fuentes
 
-- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/reservations/kidsworkshop) · 2026-11-07
+- [Página de la organización o reglamento de la categoría.](https://www.hyundai.com/sg/experience/reservations/kidsworkshop) · 2026-11-09
 
-- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/tour/discovery/terms-and-conditions) · 2026-11-07
+- [Página de la organización o reglamento de la categoría.](https://www.hyundai.com/sg/experience/tour/discovery/terms-and-conditions) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.gogreen.gov.sg/activities) · 2026-11-09
 
 ## CP1900 · RED CAMP · Minsk
 
@@ -174245,6 +174973,124 @@ Taiwán · National Taipei University of Business · 321 Jinan Road, Section 1, 
 - [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/activity/2692/registration) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.ytlee.org.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNjA2LCJwdXIiOiJibG9iX2lkIn19--a00911e3bba7a20ace9061e12fb177cbb4788fe0/2027%E9%81%A0%E5%93%B2%E5%86%AC%E4%BB%A4%E7%87%9F%E7%B0%A1%E7%AB%A0%E5%85%AC%E5%91%8A%E7%89%88.pdf?disposition=attachment) · 2026-11-08
+
+## CP2200 · Algorithmics Lima · LEGO WeDo
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–8 años según la escala publicada.
+
+**Idioma:** Clases en español. Código y herramientas en inglés con explicaciones en clase.
+
+**Programa:** Mecanismos, sensor, motor y bloques visuales con LEGO WeDo.
+
+**Alojamiento:** Enseñanza diurna en colegios de Lima o clases en línea con docente.
+
+**Fechas / estado:** Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+
+**Precio / año:** 2027 · Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+
+**Incluido:** Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad actual supera el intervalo. Corresponde el siguiente nivel.
+
+**Oscar:** Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+
+**Motivo de la selección:** Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+
+### Antes de solicitar plaza
+
+- Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+
+- Clases en español. Código y herramientas en inglés con explicaciones en clase.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.algorithmicsperu.com/) · 2026-11-09
+
+## CP2201 · Algorithmics Lima · LEGO SPIKE
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–12 años según la escala publicada.
+
+**Idioma:** Clases en español. Código y herramientas en inglés con explicaciones en clase.
+
+**Programa:** LEGO SPIKE, sensores, condiciones, bucles y primeros comandos escritos.
+
+**Alojamiento:** Enseñanza diurna en colegios de Lima o clases en línea con docente.
+
+**Fechas / estado:** Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+
+**Precio / año:** 2027 · Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+
+**Incluido:** Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+
+**Oscar:** Corresponde cuando alcance la edad mínima del curso.
+
+**Motivo de la selección:** Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+
+### Antes de solicitar plaza
+
+- Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+
+- Clases en español. Código y herramientas en inglés con explicaciones en clase.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.algorithmicsperu.com/) · 2026-11-09
+
+## CP2202 · Algorithmics Lima · Vacacional tecnológico
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Idioma:** La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto.
+
+**Programa:** Intensivos vacacionales cortos de robótica o programación. La organización publica el ritmo anual.
+
+**Alojamiento:** Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+
+**Fechas / estado:** El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Oscar:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Motivo de la selección:** El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.
+
+### Antes de solicitar plaza
+
+- Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+
+- La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.algorithmicsperu.com/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

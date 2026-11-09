@@ -1791,7 +1791,7 @@
       "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
       "source": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
       "proof": "Página actual del evento contrastada con catálogo, todos los challenge enlazados y guía de registro. Discrepancias de precio y edad conservadas explícitamente.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
       "scope": "international",
@@ -1809,6 +1809,14 @@
         {
           "label": "Guía de registro y confirmación",
           "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
@@ -1863,7 +1871,7 @@
       "action": "Condicional. Confirmar disciplina local, edad admitida, equipo y material.",
       "source": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "21–22 de mayo de 2027 figuran como provisionales. Antes de viajar, confirmar fecha, sede exacta y disciplina elegida.",
       "scope": "national",
@@ -1888,6 +1896,10 @@
         },
         {
           "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -7774,7 +7786,7 @@
       "action": "Ficha histórica de la fuente. La información vigente se reúne en E041.",
       "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
       "proof": "Cotejado con fuentes primarias. La fase, la convocatoria y las condiciones de acceso se indican por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.",
       "scope": "international",
@@ -7792,9 +7804,13 @@
         {
           "url": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
           "label": "Reglamento o calendario oficial de la organización."
+        },
+        {
+          "url": "https://www.roboraveinternational.org/eventos",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
-      "registration_status": "Lista de eventos indica inscripción abierta; texto de una página contiene cierre del 31 de octubre e intervalo del 16 de octubre al 15 de noviembre de 2026. Al 6 de noviembre admisión familiar nueva sin confirmar.",
+      "registration_status": "El texto de Ruta indica el 30 de septiembre de 2026 para inscribir proyectos. El pago figura hasta el 31 de octubre de 2026 y por separado del 16 de octubre al 15 de noviembre de 2026. Un botón de pago activo no confirma una prórroga de proyectos.",
       "related_ids": [
         "E041",
         "C082"

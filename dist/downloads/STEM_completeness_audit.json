@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11319,
+    "cards": 11352,
     "competition_cards": 5067,
     "event_cards": 724,
-    "camp_cards": 5528,
+    "camp_cards": 5561,
     "league_profiles": 323,
     "major_exhibition_cards": 623,
     "vex_cards": 815,
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 758,
+      "total": 761,
       "countries_with_records": 15,
       "competitions": 467,
       "events": 56,
       "major_exhibitions": 52,
-      "camps": 235,
+      "camps": 238,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3133,
+      "total": 3163,
       "countries_with_records": 50,
       "competitions": 1197,
       "events": 187,
       "major_exhibitions": 174,
-      "camps": 1749,
+      "camps": 1779,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -1394,7 +1394,7 @@
         "C1900"
       ],
       "cards": 815,
-      "future_dated": 690,
+      "future_dated": 687,
       "linked_card_count": 815,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
@@ -2083,7 +2083,7 @@
         "C2929"
       ],
       "cards": 624,
-      "future_dated": 497,
+      "future_dated": 495,
       "linked_card_count": 633,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -3245,7 +3245,7 @@
         "C3074"
       ],
       "cards": 109,
-      "future_dated": 95,
+      "future_dated": 88,
       "linked_card_count": 109,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.worldrobotconference.com/contest/regulations/2632.html",
@@ -3401,7 +3401,7 @@
         "C783"
       ],
       "cards": 5,
-      "future_dated": 3,
+      "future_dated": 0,
       "linked_card_count": 5,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68",
@@ -6218,7 +6218,7 @@
         "C2895"
       ],
       "cards": 356,
-      "future_dated": 283,
+      "future_dated": 282,
       "linked_card_count": 361,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -6954,7 +6954,7 @@
         "C4137"
       ],
       "cards": 601,
-      "future_dated": 31,
+      "future_dated": 30,
       "linked_card_count": 601,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.spaceappschallenge.org/2026/",
@@ -9155,7 +9155,7 @@
         "C1855"
       ],
       "cards": 33,
-      "future_dated": 28,
+      "future_dated": 27,
       "linked_card_count": 33,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-challenge",
@@ -9172,7 +9172,7 @@
         "C1856"
       ],
       "cards": 4,
-      "future_dated": 3,
+      "future_dated": 2,
       "linked_card_count": 4,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-future-edition",
@@ -9215,7 +9215,7 @@
         "C1862"
       ],
       "cards": 5,
-      "future_dated": 3,
+      "future_dated": 2,
       "linked_card_count": 5,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstnz.org/challenge",
@@ -18587,14 +18587,14 @@
       }
     ],
     "counts": {
-      "records": 5528,
-      "holiday": 4971,
+      "records": 5561,
+      "holiday": 5003,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1641,
+      "en_es_instruction": 1643,
       "en_es_support": 66,
-      "family_instruction": 1641,
+      "family_instruction": 1643,
       "family_support": 66,
       "ru_instruction": 4,
       "language_lessons": 423,
@@ -20795,5 +20795,5 @@
     "source_receipts": "33 HTTP requests,3failed;17primary bodies read plus2LATI summaries; PDF relevant pages visually inspected; shell-only pages not declared read"
   },
   "updated_profile_ids": [],
-  "calendar_counts_asof": "2026-11-08"
+  "calendar_counts_asof": "2026-11-09"
 }

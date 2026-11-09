@@ -221,7 +221,7 @@ Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para
 Costo: No se ha publicado el valor actual
 Limitaciones: 27–28 de julio de 2027, Taipei, sede exacta Por confirmar. Challenge, edad, idioma, precio y cupos aún sin publicar. Lista indica To be announced; registro y entrada familiar sin confirmar.
 Fuente: https://www.roboraveinternational.org/en/events/taiwan-open-2027
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-09
 
 ### C110 · VEX IQ Robotics Competition™ (ES/MS) Scrimmage 2026 VEX IQ Elementary and Middle School - Hosted By Dr. Player Lab
 

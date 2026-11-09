@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-11-08",
+  "asof": "2026-11-09",
   "title": "vacaciones 2026–2027 · archivos detallados de los operadores",
   "scope": "El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.",
   "methodology": [
@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2199,
+    "dossiers": 2202,
     "countries": 140,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 297,
+      "published_2026_27": 298,
       "published_2027": 621,
       "partial_2027": 156,
-      "next_unannounced": 440,
+      "next_unannounced": 442,
       "published_2026": 433,
       "partial_2026_27": 40,
       "partial_2026": 24,
@@ -49,7 +49,7 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3133
+    "source_urls": 3136
   },
   "countries": [
     {
@@ -422,7 +422,7 @@
     },
     {
       "country": "Perú",
-      "count": 32
+      "count": 35
     },
     {
       "country": "Polonia",
@@ -337152,28 +337152,1411 @@
       "iso": "SGP",
       "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
       "age": "Edades de 6 a 12 años.",
-      "programme": "Montar un modelo SPOT con LEGO, programar misiones y conocer el robot. Se proporciona el equipo.",
+      "programme": "Se prestan LEGO y equipo durante el taller. Los menores montan y programan un modelo de SPOT.",
       "format": "day",
       "formats": [
         "day"
       ],
-      "language": "Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.",
+      "language": "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.",
       "confirmed_instruction_languages": [],
-      "language_evidence_role": "unconfirmed",
+      "language_evidence_role": "materials_only",
       "timing": {
-        "status": "next_unannounced",
-        "label": "Sábado y domingo, 10:00 o 16:00, 90 minutos. Elegir fecha y plaza en el formulario.",
+        "status": "published_2026_27",
+        "label": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
         "variant_keyed": true,
-        "session_details": [],
-        "sessions": [],
+        "session_details": [
+          {
+            "variant_key": "campaign-2026-11-14",
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-14",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-11-15",
+            "start": "2026-11-15",
+            "end": "2026-11-15",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-15",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-15",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-11-21",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-11-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-22",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-11-28",
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-28",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-11-29",
+            "start": "2026-11-29",
+            "end": "2026-11-29",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-11-29",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-29",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-05",
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-05",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-05",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-06",
+            "start": "2026-12-06",
+            "end": "2026-12-06",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-06",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-06",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-13",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-13",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-19",
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-19",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-20",
+            "start": "2026-12-20",
+            "end": "2026-12-20",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-20",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-20",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-26",
+            "start": "2026-12-26",
+            "end": "2026-12-26",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-26",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-26",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2026-12-27",
+            "start": "2026-12-27",
+            "end": "2026-12-27",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2026-12-27",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-27",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-02",
+            "start": "2027-01-02",
+            "end": "2027-01-02",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-02",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-02",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-03",
+            "start": "2027-01-03",
+            "end": "2027-01-03",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-03",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-03",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-09",
+            "start": "2027-01-09",
+            "end": "2027-01-09",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-09",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-09",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-10",
+            "start": "2027-01-10",
+            "end": "2027-01-10",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-10",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-16",
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-16",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-17",
+            "start": "2027-01-17",
+            "end": "2027-01-17",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-17",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-23",
+            "start": "2027-01-23",
+            "end": "2027-01-23",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-23",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-23",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-24",
+            "start": "2027-01-24",
+            "end": "2027-01-24",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-24",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-30",
+            "start": "2027-01-30",
+            "end": "2027-01-30",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-30",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-30",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-01-31",
+            "start": "2027-01-31",
+            "end": "2027-01-31",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-31",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-31",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-06",
+            "start": "2027-02-06",
+            "end": "2027-02-06",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-06",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-06",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-07",
+            "start": "2027-02-07",
+            "end": "2027-02-07",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-07",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-07",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-13",
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-13",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-13",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-14",
+            "start": "2027-02-14",
+            "end": "2027-02-14",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-14",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-14",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-20",
+            "start": "2027-02-20",
+            "end": "2027-02-20",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-20",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-20",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "campaign-2027-02-21",
+            "start": "2027-02-21",
+            "end": "2027-02-21",
+            "label": "Un turno a elegir",
+            "price": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+            "source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas según la regla oficial de fin de semana. Confirmar plaza y turno exacto con la organización."
+            },
+            "place": "Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue",
+            "date_precision": "published_rule",
+            "date_rule": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
+            "date_status": "regla publicada · fechas calculadas",
+            "entry": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+            "questions": [
+              "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+              "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+              "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-21",
+                "topic": "Opción de mañana · elegir un turno",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-21",
+                "topic": "Opción de tarde · elegir un turno",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ],
+          [
+            "2026-11-15",
+            "2026-11-15"
+          ],
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ],
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ],
+          [
+            "2026-11-29",
+            "2026-11-29"
+          ],
+          [
+            "2026-12-05",
+            "2026-12-05"
+          ],
+          [
+            "2026-12-06",
+            "2026-12-06"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ],
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ],
+          [
+            "2026-12-20",
+            "2026-12-20"
+          ],
+          [
+            "2026-12-26",
+            "2026-12-26"
+          ],
+          [
+            "2026-12-27",
+            "2026-12-27"
+          ],
+          [
+            "2027-01-02",
+            "2027-01-02"
+          ],
+          [
+            "2027-01-03",
+            "2027-01-03"
+          ],
+          [
+            "2027-01-09",
+            "2027-01-09"
+          ],
+          [
+            "2027-01-10",
+            "2027-01-10"
+          ],
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-01-17",
+            "2027-01-17"
+          ],
+          [
+            "2027-01-23",
+            "2027-01-23"
+          ],
+          [
+            "2027-01-24",
+            "2027-01-24"
+          ],
+          [
+            "2027-01-30",
+            "2027-01-30"
+          ],
+          [
+            "2027-01-31",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-06",
+            "2027-02-06"
+          ],
+          [
+            "2027-02-07",
+            "2027-02-07"
+          ],
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ],
+          [
+            "2027-02-14",
+            "2027-02-14"
+          ],
+          [
+            "2027-02-20",
+            "2027-02-20"
+          ],
+          [
+            "2027-02-21",
+            "2027-02-21"
+          ]
+        ],
+        "verified_session_source": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
         "precision": "published_sessions"
       },
       "price": {
-        "year": 2026,
-        "label": "$25 por menor, $50 por dos. La página del taller no indica el código de moneda.",
-        "included": "Equipo didáctico durante la clase.",
-        "extras": "Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.",
-        "deposit": "El operador indica que la tarifa no es reembolsable ni transferible."
+        "year": 2027,
+        "label": "La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.",
+        "included": "Se prestan LEGO y equipo durante el taller. Los menores montan y programan un modelo de SPOT.",
+        "extras": "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+        "deposit": "Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada."
       },
       "accommodation": "Formato diurno sin alojamiento.",
       "family_fit": {
@@ -337186,24 +338569,36 @@
           "detail": "Sí por edad. Se requieren plaza e inscripción."
         }
       },
-      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "editorial_reason": "La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.",
       "shortlist": [],
       "questions": [
-        "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento."
+        "Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.",
+        "Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.",
+        "Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés."
       ],
       "sources": [
         {
           "url": "https://www.hyundai.com/sg/experience/reservations/kidsworkshop",
-          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
-          "checked": "2026-11-07"
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
         },
         {
           "url": "https://www.hyundai.com/sg/experience/tour/discovery/terms-and-conditions",
-          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
-          "checked": "2026-11-07"
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.gogreen.gov.sg/activities",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "themes": [
         "robotics",
         "coding",
@@ -337211,11 +338606,259 @@
       ],
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "EN"
+      ],
       "related_event_ids": [
         "L724"
       ],
-      "calendar_links": [],
-      "language_roles": {}
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261114-20261114-campaign-2026-11-14"
+          ]
+        },
+        {
+          "start": "2026-11-15",
+          "end": "2026-11-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261115-20261115-campaign-2026-11-15"
+          ]
+        },
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261121-20261121-campaign-2026-11-21"
+          ]
+        },
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261122-20261122-campaign-2026-11-22"
+          ]
+        },
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261128-20261128-campaign-2026-11-28"
+          ]
+        },
+        {
+          "start": "2026-11-29",
+          "end": "2026-11-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261129-20261129-campaign-2026-11-29"
+          ]
+        },
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261205-20261205-campaign-2026-12-05"
+          ]
+        },
+        {
+          "start": "2026-12-06",
+          "end": "2026-12-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261206-20261206-campaign-2026-12-06"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261212-20261212-campaign-2026-12-12"
+          ]
+        },
+        {
+          "start": "2026-12-13",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261213-20261213-campaign-2026-12-13"
+          ]
+        },
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261219-20261219-campaign-2026-12-19"
+          ]
+        },
+        {
+          "start": "2026-12-20",
+          "end": "2026-12-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261220-20261220-campaign-2026-12-20"
+          ]
+        },
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261226-20261226-campaign-2026-12-26"
+          ]
+        },
+        {
+          "start": "2026-12-27",
+          "end": "2026-12-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20261227-20261227-campaign-2026-12-27"
+          ]
+        },
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270102-20270102-campaign-2027-01-02"
+          ]
+        },
+        {
+          "start": "2027-01-03",
+          "end": "2027-01-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270103-20270103-campaign-2027-01-03"
+          ]
+        },
+        {
+          "start": "2027-01-09",
+          "end": "2027-01-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270109-20270109-campaign-2027-01-09"
+          ]
+        },
+        {
+          "start": "2027-01-10",
+          "end": "2027-01-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270110-20270110-campaign-2027-01-10"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270116-20270116-campaign-2027-01-16"
+          ]
+        },
+        {
+          "start": "2027-01-17",
+          "end": "2027-01-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270117-20270117-campaign-2027-01-17"
+          ]
+        },
+        {
+          "start": "2027-01-23",
+          "end": "2027-01-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270123-20270123-campaign-2027-01-23"
+          ]
+        },
+        {
+          "start": "2027-01-24",
+          "end": "2027-01-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270124-20270124-campaign-2027-01-24"
+          ]
+        },
+        {
+          "start": "2027-01-30",
+          "end": "2027-01-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270130-20270130-campaign-2027-01-30"
+          ]
+        },
+        {
+          "start": "2027-01-31",
+          "end": "2027-01-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270131-20270131-campaign-2027-01-31"
+          ]
+        },
+        {
+          "start": "2027-02-06",
+          "end": "2027-02-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270206-20270206-campaign-2027-02-06"
+          ]
+        },
+        {
+          "start": "2027-02-07",
+          "end": "2027-02-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270207-20270207-campaign-2027-02-07"
+          ]
+        },
+        {
+          "start": "2027-02-13",
+          "end": "2027-02-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270213-20270213-campaign-2027-02-13"
+          ]
+        },
+        {
+          "start": "2027-02-14",
+          "end": "2027-02-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270214-20270214-campaign-2027-02-14"
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270220-20270220-campaign-2027-02-20"
+          ]
+        },
+        {
+          "start": "2027-02-21",
+          "end": "2027-02-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1899-20270221-20270221-campaign-2027-02-21"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "CP1900",
@@ -385625,6 +387268,262 @@
           "ZH"
         ]
       }
+    },
+    {
+      "id": "CP2200",
+      "slug": "algorithmics-lima-wedo",
+      "provider": "Algorithmics Lima · LEGO WeDo",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "6–8 años según la escala publicada.",
+      "programme": "Mecanismos, sensor, motor y bloques visuales con LEGO WeDo.",
+      "format": "mixed",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Clases en español. Código y herramientas en inglés con explicaciones en clase.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "EN",
+        "ES"
+      ],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "month",
+        "label": "Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.",
+        "included": "Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Enseñanza diurna en colegios de Lima o clases en línea con docente.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad actual supera el intervalo. Corresponde el siguiente nivel."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí, encaja por edad. Confirmar plaza, horario y modalidad."
+        }
+      },
+      "editorial_reason": "Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.",
+      "shortlist": [],
+      "questions": [
+        "Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.",
+        "Clases en español. Código y herramientas en inglés con explicaciones en clase."
+      ],
+      "sources": [
+        {
+          "url": "https://www.algorithmicsperu.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "day_or_online",
+      "related_event_ids": [
+        "L920"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ],
+        "materials": [
+          "EN",
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2201",
+      "slug": "algorithmics-lima-spike",
+      "provider": "Algorithmics Lima · LEGO SPIKE",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "9–12 años según la escala publicada.",
+      "programme": "LEGO SPIKE, sensores, condiciones, bucles y primeros comandos escritos.",
+      "format": "mixed",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Clases en español. Código y herramientas en inglés con explicaciones en clase.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "instruction",
+      "materials_languages": [
+        "EN",
+        "ES"
+      ],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "month",
+        "label": "Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.",
+        "included": "Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Enseñanza diurna en colegios de Lima o clases en línea con docente.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí, encaja por edad. Confirmar plaza, horario y modalidad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Corresponde cuando alcance la edad mínima del curso."
+        }
+      },
+      "editorial_reason": "Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.",
+      "shortlist": [],
+      "questions": [
+        "Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.",
+        "Clases en español. Código y herramientas en inglés con explicaciones en clase."
+      ],
+      "sources": [
+        {
+          "url": "https://www.algorithmicsperu.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "day_or_online",
+      "related_event_ids": [
+        "L921"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ],
+        "materials": [
+          "EN",
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2202",
+      "slug": "algorithmics-lima-holidays",
+      "provider": "Algorithmics Lima · Vacacional tecnológico",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "programme": "Intensivos vacacionales cortos de robótica o programación. La organización publica el ritmo anual.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Confirmar edad y acceso según las bases de la edición elegida."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Confirmar edad y acceso según las bases de la edición elegida."
+        }
+      },
+      "editorial_reason": "El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.",
+        "La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.algorithmicsperu.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "holiday_programme_announcement",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [
+        "L922"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -390950,7 +392849,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 327,
+  "version": 328,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -404185,7 +406084,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2199,
+      "total_dossiers": 2202,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -426196,6 +428095,156 @@
     },
     {
       "programme_id": "CP1899",
+      "event_id": "CP1899-20261114-20261114-campaign-2026-11-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261115-20261115-campaign-2026-11-15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261121-20261121-campaign-2026-11-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261122-20261122-campaign-2026-11-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261128-20261128-campaign-2026-11-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261129-20261129-campaign-2026-11-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261205-20261205-campaign-2026-12-05",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261206-20261206-campaign-2026-12-06",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261212-20261212-campaign-2026-12-12",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261213-20261213-campaign-2026-12-13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261219-20261219-campaign-2026-12-19",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261220-20261220-campaign-2026-12-20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261226-20261226-campaign-2026-12-26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20261227-20261227-campaign-2026-12-27",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270102-20270102-campaign-2027-01-02",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270103-20270103-campaign-2027-01-03",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270109-20270109-campaign-2027-01-09",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270110-20270110-campaign-2027-01-10",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270116-20270116-campaign-2027-01-16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270117-20270117-campaign-2027-01-17",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270123-20270123-campaign-2027-01-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270124-20270124-campaign-2027-01-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270130-20270130-campaign-2027-01-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270131-20270131-campaign-2027-01-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270206-20270206-campaign-2027-02-06",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270207-20270207-campaign-2027-02-07",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270213-20270213-campaign-2027-02-13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270214-20270214-campaign-2027-02-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270220-20270220-campaign-2027-02-20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
+      "event_id": "CP1899-20270221-20270221-campaign-2027-02-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1899",
       "event_id": "L724",
       "relation": "related_track_or_operator"
     },
@@ -428688,6 +430737,21 @@
       "programme_id": "CP2199",
       "event_id": "CP2199-20270125-20270129-winter",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2200",
+      "event_id": "L920",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2201",
+      "event_id": "L921",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2202",
+      "event_id": "L922",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",
@@ -433275,6 +435339,36 @@
     "CP1897-20270213-20270213-senior-2027-02-13",
     "CP1897-20270227-20270227-senior-2027-02-27",
     "CP1898-20261229-20261229-tech-toys",
+    "CP1899-20261114-20261114-campaign-2026-11-14",
+    "CP1899-20261115-20261115-campaign-2026-11-15",
+    "CP1899-20261121-20261121-campaign-2026-11-21",
+    "CP1899-20261122-20261122-campaign-2026-11-22",
+    "CP1899-20261128-20261128-campaign-2026-11-28",
+    "CP1899-20261129-20261129-campaign-2026-11-29",
+    "CP1899-20261205-20261205-campaign-2026-12-05",
+    "CP1899-20261206-20261206-campaign-2026-12-06",
+    "CP1899-20261212-20261212-campaign-2026-12-12",
+    "CP1899-20261213-20261213-campaign-2026-12-13",
+    "CP1899-20261219-20261219-campaign-2026-12-19",
+    "CP1899-20261220-20261220-campaign-2026-12-20",
+    "CP1899-20261226-20261226-campaign-2026-12-26",
+    "CP1899-20261227-20261227-campaign-2026-12-27",
+    "CP1899-20270102-20270102-campaign-2027-01-02",
+    "CP1899-20270103-20270103-campaign-2027-01-03",
+    "CP1899-20270109-20270109-campaign-2027-01-09",
+    "CP1899-20270110-20270110-campaign-2027-01-10",
+    "CP1899-20270116-20270116-campaign-2027-01-16",
+    "CP1899-20270117-20270117-campaign-2027-01-17",
+    "CP1899-20270123-20270123-campaign-2027-01-23",
+    "CP1899-20270124-20270124-campaign-2027-01-24",
+    "CP1899-20270130-20270130-campaign-2027-01-30",
+    "CP1899-20270131-20270131-campaign-2027-01-31",
+    "CP1899-20270206-20270206-campaign-2027-02-06",
+    "CP1899-20270207-20270207-campaign-2027-02-07",
+    "CP1899-20270213-20270213-campaign-2027-02-13",
+    "CP1899-20270214-20270214-campaign-2027-02-14",
+    "CP1899-20270220-20270220-campaign-2027-02-20",
+    "CP1899-20270221-20270221-campaign-2027-02-21",
     "CP1903-20261222-20261222-decoration",
     "CP1903-20261223-20261223-robots",
     "CP1903-20261224-20261224-tio",
@@ -433712,7 +435806,7 @@
     "CP2199-20270125-20270129-winter"
   ],
   "integration": {
-    "generated_sessions": 4609,
+    "generated_sessions": 4639,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

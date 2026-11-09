@@ -497,7 +497,7 @@ Acceso: RRID de cada alumno y coach → evento → challenge → division → in
 Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
 Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
 Fuente: https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C083 · RoboRAVE Guanajuato Open 2027
 
@@ -510,7 +510,7 @@ Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para
 Costo: No se ha publicado el valor actual
 Limitaciones: 21–22 de mayo de 2027 figuran como provisionales. Antes de viajar, confirmar fecha, sede exacta y disciplina elegida.
 Fuente: https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E041 · World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027
 
@@ -1680,7 +1680,7 @@ Acceso: Solicitud Ruta separada y categoría de proyecto / visitante familiar. R
 Precio: Página del paquete: USD 580 por persona / coach; lista general: USD 650 sin unidad clara. Hotel / comidas corresponden a Ruta, sin aplicarlos automáticamente a Robotics Open. Precio de visitantes menores y factura familiar completa desconocidos.
 Limitaciones: Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.
 Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C1208 · Infomatrix Iberoamérica 2027
 

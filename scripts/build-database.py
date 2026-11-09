@@ -73,7 +73,8 @@ current_audits = [
                  'digital-rube-and-itu-routes-audit-v324.json',
                  'spring-family-camps-and-mexico-ai-audit-v325.json',
                  'team-alliance-and-colorado-explore-audit-v326.json',
-                 'taiwan-winter-university-and-science-audit-v327.json')
+                 'taiwan-winter-university-and-science-audit-v327.json',
+                 'roborave-costs-and-family-technology-audit-v328.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

@@ -6626,6 +6626,45 @@ Limitaciones: Apertura general a las 08:00 COT. Confirmar hora de cada prueba y 
 Fuente: https://iticbot.com/innovacion.html
 Se ha comprobado: 2026-11-08
 
+### L920 · Algorithmics Lima · LEGO WeDo
+
+Fecha: Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+edad: 6–8 años según la escala publicada.
+Matvey: La edad actual supera el intervalo. Corresponde el siguiente nivel.
+Oscar: Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+Idioma: Clases en español. Código y herramientas en inglés con explicaciones en clase.
+Acceso: Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+Precio: Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+Limitaciones: Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
+
+### L921 · Algorithmics Lima · LEGO SPIKE
+
+Fecha: Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+edad: 9–12 años según la escala publicada.
+Matvey: Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+Oscar: Corresponde cuando alcance la edad mínima del curso.
+Idioma: Clases en español. Código y herramientas en inglés con explicaciones en clase.
+Acceso: Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+Precio: Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+Limitaciones: Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
+
+### L922 · Algorithmics Lima · Vacacional tecnológico
+
+Fecha: El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto.
+Acceso: Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

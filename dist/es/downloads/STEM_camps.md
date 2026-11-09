@@ -10361,18 +10361,18 @@ Se ha comprobado: 2026-11-07
 ### L724 · HMGICS · SPOT Robot Coding Workshop
 
 Lugar: Singapur Singapore
-Fecha: Sábado y domingo, 10:00 o 16:00, 90 minutos. Elegir fecha y plaza en el formulario.
+Fecha: La campaña Go Green SG va del 29 de junio de 2026 al 25 de febrero de 2027. Los sábados y domingos se elige de 10:00 a 11:30 o de 16:00 a 17:30. Fechas calculadas según esta regla. Confirmar plazas de cada turno.
 edad: Edades de 6 a 12 años.
 Matvey: Sí por edad. Se requieren plaza e inscripción.
 Oscar: Sí por edad. Se requieren plaza e inscripción.
 Formato: holiday_workshop
-Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: $25 por menor, $50 por dos. La página del taller no indica el código de moneda.
-Acceso: Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
-Limitaciones: Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar.
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Elegir un turno de 90 minutos. Después del 25 de febrero de 2027, consultar aparte el calendario habitual de Hyundai.
 Fuente: https://www.hyundai.com/sg/experience/reservations/kidsworkshop
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### L725 · Museo Jumex · Telarañas de píxel
 
@@ -13493,6 +13493,54 @@ Acceso: Se anuncian vacaciones de Semana Santa de 2027 en Alicante. Confirmar d�
 Limitaciones: El formulario general tiene grupos de 7–14 años. Confirmar edad para el turno de Semana Santa.
 Fuente: https://aikidsclub.org/es
 Se ha comprobado: 2026-11-08
+
+### L920 · Algorithmics Lima · LEGO WeDo
+
+lugar: Perú · Lima
+Fecha: Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+edad: 6–8 años según la escala publicada.
+Matvey: La edad actual supera el intervalo. Corresponde el siguiente nivel.
+Oscar: Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+formato: day_or_online
+Idioma: Clases en español. Código y herramientas en inglés con explicaciones en clase.
+Marca de idioma: primary; soporte: no declarado
+Precio: Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+Acceso: Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+Limitaciones: Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
+
+### L921 · Algorithmics Lima · LEGO SPIKE
+
+lugar: Perú · Lima
+Fecha: Clases regulares semanales de 90 minutos de marzo a diciembre. Horario según colegio o grupo en línea.
+edad: 9–12 años según la escala publicada.
+Matvey: Sí, encaja por edad. Confirmar plaza, horario y modalidad.
+Oscar: Corresponde cuando alcance la edad mínima del curso.
+formato: day_or_online
+Idioma: Clases en español. Código y herramientas en inglés con explicaciones en clase.
+Marca de idioma: primary; soporte: no declarado
+Precio: Cuota mensual en PEN según nivel y modalidad. La organización indica que el curso regular carece de matrícula y cobro de materiales.
+Acceso: Consultar el grupo adecuado y el horario exacto. Para presencial, confirmar acceso al colegio, y para en línea, acceso desde Costa Rica y zona horaria.
+Limitaciones: Los kits de robótica se prestan en clase. Para programar en casa hace falta ordenador con internet.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
+
+### L922 · Algorithmics Lima · Vacacional tecnológico
+
+lugar: Perú · Lima
+Fecha: El plan anual incluye un intensivo de verano en enero y febrero y otro de dos semanas en julio. Aún no se publican sesiones exactas, sedes, precios ni edades de los grupos de 2027.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Formato: unconfirmed_program
+Idioma: La organización confirma el español en las clases regulares. Confirmar el idioma del grupo vacacional concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+Limitaciones: Confirmar fecha, edad, idioma y precio de la sesión vacacional concreta.
+Fuente: https://www.algorithmicsperu.com/
+Se ha comprobado: 2026-11-09
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
@@ -80277,6 +80325,486 @@ Acceso: Inscripción y plazas actuales en el portal oficial del operador.
 Limitaciones: Matvey: Condicional si el curso escolar actual coincide con los requisitos. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Confirmar comidas y cargos de tramitación en el formulario. Pago: Consultar las condiciones de cancelación en el formulario de inscripción.
 Fuente: https://27223.blackbaudhosting.com/27223/Tech-Toys-29Dec2026
 Se ha comprobado: 2026-11-07
+
+### CP1899-20261114-20261114-campaign-2026-11-14 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-14–2026-11-14
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-14 — 2026-11-14
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261115-20261115-campaign-2026-11-15 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-15–2026-11-15
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-15 — 2026-11-15
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261121-20261121-campaign-2026-11-21 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-21–2026-11-21
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-21 — 2026-11-21
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261122-20261122-campaign-2026-11-22 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-22–2026-11-22
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-22 — 2026-11-22
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261128-20261128-campaign-2026-11-28 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-28–2026-11-28
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-28 — 2026-11-28
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261129-20261129-campaign-2026-11-29 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-11-29–2026-11-29
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-11-29 — 2026-11-29
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261205-20261205-campaign-2026-12-05 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-05–2026-12-05
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-05 — 2026-12-05
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261206-20261206-campaign-2026-12-06 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-06–2026-12-06
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-06 — 2026-12-06
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261212-20261212-campaign-2026-12-12 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-12–2026-12-12
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-12 — 2026-12-12
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261213-20261213-campaign-2026-12-13 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-13–2026-12-13
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-13 — 2026-12-13
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261219-20261219-campaign-2026-12-19 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-19–2026-12-19
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-19 - 2026-12-19
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261220-20261220-campaign-2026-12-20 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-20–2026-12-20
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-20 国 2026-12-20
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261226-20261226-campaign-2026-12-26 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-26–2026-12-26
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-26 - 2026-12-26
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20261227-20261227-campaign-2026-12-27 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2026-12-27–2026-12-27
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2026-12-27 - 2026-12-27
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270102-20270102-campaign-2027-01-02 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-02–2027-01-02
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-02 — 2027-01-02
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270103-20270103-campaign-2027-01-03 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-03–2027-01-03
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-03 — 2027-01-03
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270109-20270109-campaign-2027-01-09 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-09–2027-01-09
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270110-20270110-campaign-2027-01-10 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-10–2027-01-10
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-10 国 2027-01-10
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270116-20270116-campaign-2027-01-16 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-16–2027-01-16
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-16 — 2027-01-16
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270117-20270117-campaign-2027-01-17 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-17–2027-01-17
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-17 国 2027-01-17
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270123-20270123-campaign-2027-01-23 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-23–2027-01-23
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-23 — 2027-01-23
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270124-20270124-campaign-2027-01-24 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-24–2027-01-24
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-24 国 2027-01-24
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270130-20270130-campaign-2027-01-30 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-30–2027-01-30
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-30 国 2027-01-30
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270131-20270131-campaign-2027-01-31 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-01-31–2027-01-31
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270206-20270206-campaign-2027-02-06 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-06–2027-02-06
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-06 — 2027-02-06
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270207-20270207-campaign-2027-02-07 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-07–2027-02-07
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-07 国 2027-02-07
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270213-20270213-campaign-2027-02-13 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-13–2027-02-13
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-13 ♫ 2027-02-13
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270214-20270214-campaign-2027-02-14 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-14–2027-02-14
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-14 国 2027-02-14
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270220-20270220-campaign-2027-02-20 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-20–2027-02-20
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
+
+### CP1899-20270221-20270221-campaign-2027-02-21 · HMGICS · SPOT Robot Coding Workshop · Un turno a elegir · 2027-02-21–2027-02-21
+
+lugar: Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+Fecha: 2027-02-21 国 2027-02-21
+edad: Edades de 6 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del taller se publican en inglés. Confirmar el idioma del instructor del turno elegido. Para la visita aparte Discovery Tour se confirma el inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · La página local muestra $25 por menor y $50 para dos. Cotejar moneda e importe final al reservar. · suplementos y condiciones en el dossier
+Acceso: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Los hermanos pueden elegir el mismo turno si hay plazas. Cada menor se inscribe por separado. Un progenitor o tutor firma el consentimiento al llegar. Pago: Llegar 20 minutos antes. La organización indica cancelación con 48 horas de antelación sin reembolso. No se contempla modificar una reserva confirmada.
+Fuente: https://www.gogreen.gov.sg/activities/activity-detail?title=hyundai-s-spot-robot-coding-workshops
+Se ha comprobado: 2026-11-09
 
 ### CP1903-20261222-20261222-decoration · MNACTEC · Tallers de Nadal · Decorem el Nadal · 2026-12-22–2026-12-22
 
