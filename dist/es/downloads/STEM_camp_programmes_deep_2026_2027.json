@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2155,
+    "dossiers": 2162,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 579,
+      "published_2027": 586,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,12 +49,12 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3076
+    "source_urls": 3090
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 27
+      "count": 33
     },
     {
       "country": "Austria",
@@ -478,7 +478,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 168
+      "count": 169
     },
     {
       "country": "Surinam",
@@ -377960,6 +377960,1079 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2156",
+      "slug": "icode-geelong-coding-robotics",
+      "provider": "iCode School Geelong · Coding for Beginners PLUS Robotics",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.",
+      "programme": "Por la mañana introducción a la programación, por la tarde robótica para principiantes. No se exige experiencia previa.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan7",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan14",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1396-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_14th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan18",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1392-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Monday_18th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan20",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "La organización incluye almuerzo con pizza.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1396-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_14th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1392-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Monday_18th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-07",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2156-20270107-20270107-jan7"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2156-20270114-20270114-jan14"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2156-20270118-20270118-jan18"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2156-20270120-20270120-jan20"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2157",
+      "slug": "icode-geelong-minecraft",
+      "provider": "iCode School Geelong · Minecraft 1.0 for Beginners",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.",
+      "programme": "Programación inicial para niños que ya conocen Minecraft.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan12",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Minecraft 1.0 for Beginners",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1390-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Tuesday_12th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza, edad e idioma docente.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza, edad e idioma docente.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan18",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Minecraft 1.0 for Beginners",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1393-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Monday_18th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza, edad e idioma docente.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza, edad e idioma docente.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan20",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Minecraft 1.0 for Beginners",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1398-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Wednesday_20th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza, edad e idioma docente.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza, edad e idioma docente.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1390-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Tuesday_12th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1393-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Monday_18th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1398-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Wednesday_20th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2157-20270112-20270112-jan12"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2157-20270118-20270118-jan18"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2157-20270120-20270120-jan20"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2158",
+      "slug": "icode-geelong-roblox",
+      "provider": "iCode School Geelong · Roblox for Beginners",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.",
+      "programme": "Introducción a la programación con Roblox. Se pide familiaridad con el juego y cuenta propia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "El horario de registro indica 09:00–15:30 y el título indica fin a las 15:00. Confirmar hora de recogida.",
+        "sessions": [
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan7",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "Roblox for Beginners",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1429-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Thursday_7th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:30",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan13",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "Roblox for Beginners",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1394-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Wednesday_13th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:30",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        }
+      },
+      "editorial_reason": "El horario de registro indica 09:00–15:30 y el título indica fin a las 15:00. Confirmar hora de recogida.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1429-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Thursday_7th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1394-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Wednesday_13th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-07",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2158-20270107-20270107-jan7"
+          ]
+        },
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2158-20270113-20270113-jan13"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2159",
+      "slug": "icode-geelong-scratch",
+      "provider": "iCode School Geelong · Scratch MAX Advanced",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.",
+      "programme": "Scratch avanzado. La organización pide experiencia de programación y cursos anteriores. Hay modalidad presencial y en línea.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan13",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "Scratch MAX Advanced",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1395-Holiday_Program_Scratch_MAX_Advanced_9_00_3_00_Wednesday_13th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "hybrid",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza, edad e idioma docente.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza, edad e idioma docente.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Taller diurno en aula o en línea.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Para el itinerario avanzado hay que confirmar habilidades y cursos anteriores."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Para el itinerario avanzado hay que confirmar habilidades y cursos anteriores."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1395-Holiday_Program_Scratch_MAX_Advanced_9_00_3_00_Wednesday_13th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_or_online",
+      "catalog_participation": "day_or_online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2159-20270113-20270113-jan13"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2160",
+      "slug": "icode-geelong-minecraft-art",
+      "provider": "iCode School Geelong · Code+Create Minecraft Art Hub",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "6–16 años según el formulario del taller elegido.",
+      "programme": "Minecraft y taller creativo con Zen Hen Hula Artclub. Hace falta una cuenta del juego.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan14",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "Code+Create Minecraft Art Hub",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1430-Holiday_Program_Code_Create_Minecraft_Art_Hub_Collab_9_00_3_00_Thursday_14th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1430-Holiday_Program_Code_Create_Minecraft_Art_Hub_Collab_9_00_3_00_Thursday_14th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2160-20270114-20270114-jan14"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2161",
+      "slug": "icode-geelong-dnd",
+      "provider": "iCode School Geelong · DnD Character Build",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "8–16 años según el formulario del taller elegido.",
+      "programme": "Creación de personajes y juego de rol con Zen Hen Hula Artclub. Hay formato de iniciación.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan20",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "DnD Character Build",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1431-Holiday_Program_DnD_Character_Build_Art_Club_Activity_9_00_3_00_Wednesday_20th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad mínima de 8 años el día de la actividad."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://icodeschool.com.au/holiday-programs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1431-Holiday_Program_DnD_Character_Build_Art_Club_Activity_9_00_3_00_Wednesday_20th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2161-20270120-20270120-jan20"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2162",
+      "slug": "pierce-sprinker-junior-robotics",
+      "provider": "Bricks 4 Kidz · Junior Robotics Class",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Sprinker Recreation Center · 521 Military Road S · Tacoma, WA",
+      "age": "6–10 años en la fecha de la sesión.",
+      "programme": "Los niños construyen robots LEGO y se llevan una minifigura. Los kits quedan en la sede.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.",
+        "sessions": [
+          [
+            "2027-01-13",
+            "2027-02-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "course22070",
+            "start": "2027-01-13",
+            "end": "2027-02-10",
+            "label": "Junior Robotics Class · 22070",
+            "price": "USD 90 por participante por el curso.",
+            "source": "https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "date_precision": "announced_window",
+            "date_status": "Anunciado",
+            "date_rule": "Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.",
+            "deadline": "2027-01-13",
+            "entry": "Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.",
+            "place": "Sprinker Recreation Center · 521 Military Road S · Tacoma, WA",
+            "questions": [
+              "Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.",
+              "Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.",
+              "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 90,
+        "currency": "USD",
+        "unit": "course",
+        "label": "USD 90 por participante por el curso.",
+        "included": "Los niños construyen robots LEGO y se llevan una minifigura. Los kits quedan en la sede.",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja por edad según el formulario. Confirmar plaza e idioma docente."
+        }
+      },
+      "editorial_reason": "Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.",
+        "Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-13",
+          "end": "2027-02-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2162-20270113-20270210-course22070"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -383285,7 +384358,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 322,
+  "version": 323,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -396520,7 +397593,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2155,
+      "total_dossiers": 2162,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -420615,6 +421688,71 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2156",
+      "event_id": "CP2156-20270107-20270107-jan7",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2156",
+      "event_id": "CP2156-20270114-20270114-jan14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2156",
+      "event_id": "CP2156-20270118-20270118-jan18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2156",
+      "event_id": "CP2156-20270120-20270120-jan20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2157",
+      "event_id": "CP2157-20270112-20270112-jan12",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2157",
+      "event_id": "CP2157-20270118-20270118-jan18",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2157",
+      "event_id": "CP2157-20270120-20270120-jan20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2158",
+      "event_id": "CP2158-20270107-20270107-jan7",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2158",
+      "event_id": "CP2158-20270113-20270113-jan13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2159",
+      "event_id": "CP2159-20270113-20270113-jan13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2160",
+      "event_id": "CP2160-20270114-20270114-jan14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2161",
+      "event_id": "CP2161-20270120-20270120-jan20",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2162",
+      "event_id": "CP2162-20270113-20270210-course22070",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -425554,10 +426692,23 @@
     "CP2154-20270122-20270122-ozommaney",
     "CP2155-20270119-20270119-sphsunny",
     "CP2155-20270121-20270121-sphbracken",
-    "CP2155-20270122-20270122-sphcarindale"
+    "CP2155-20270122-20270122-sphcarindale",
+    "CP2156-20270107-20270107-jan7",
+    "CP2156-20270114-20270114-jan14",
+    "CP2156-20270118-20270118-jan18",
+    "CP2156-20270120-20270120-jan20",
+    "CP2157-20270112-20270112-jan12",
+    "CP2157-20270118-20270118-jan18",
+    "CP2157-20270120-20270120-jan20",
+    "CP2158-20270107-20270107-jan7",
+    "CP2158-20270113-20270113-jan13",
+    "CP2159-20270113-20270113-jan13",
+    "CP2160-20270114-20270114-jan14",
+    "CP2161-20270120-20270120-jan20",
+    "CP2162-20270113-20270210-course22070"
   ],
   "integration": {
-    "generated_sessions": 4529,
+    "generated_sessions": 4542,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11186; competiciones: 5030; eventos: 710; campamentos / programas: 5446. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 610 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11204; competiciones: 5034; eventos: 711; campamentos / programas: 5459. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 611 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2033 | 155 | 1390 |
+| América del Norte | 41 | 2037 | 156 | 1391 |
 | América del Sur | 15 | 467 | 52 | 235 |
 | Europa | 55 | 720 | 150 | 1574 |
 | África | 60 | 271 | 45 | 156 |
 | Asia | 50 | 1197 | 174 | 1728 |
-| Oceanía | 27 | 175 | 32 | 348 |
+| Oceanía | 27 | 175 | 32 | 360 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 5030 fichas de competiciones (16.2%). Esto muestra un desequilibrio en la cobertura.
+VEX: 815 de 5034 fichas de competiciones (16.2%). Esto muestra un desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -999,6 +999,7 @@ VEX: 815 de 5030 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **Asia Tech x Singapore 2027 · ATxEnterprise** — Singapur; 2027-05-26 – 2027-05-28. Los niños del 6/9 no pueden. https://asiatechxsg.com/faqs/
 - **Asia Tech x Singapore 2027 · ATxSummit** — Singapur; 2027-05-26 – 2027-05-27. el permiso de entrada de niños. https://asiatechxsg.com/faqs/
 - **ExpoLatam Consumer Electronics Show · Panamá 2027** — Panamá; 2027-01-14 – 2027-01-15. el permiso de entrada de niños. https://www.ce-expolatam.com/
+- **Expo Eléctrica Internacional Panamá 2027** — Panamá; fecha desconocida. Confirmar acceso infantil. https://www.panacamara.com/eventos/expo-electrica-internacional-panama-2027/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

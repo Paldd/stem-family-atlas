@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 322,
+    "version": 323,
     "status": "implementation_snapshot",
-    "events": 11186,
-    "competitions": 5030,
+    "events": 11204,
+    "competitions": 5034,
     "league_profiles": 321,
-    "camp_dossiers": 2155,
+    "camp_dossiers": 2162,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 710,
+    "exhibitions_events": 711,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 321,
+    "version": 322,
     "status": "implementation_snapshot",
-    "events": 11166,
-    "competitions": 5022,
+    "events": 11186,
+    "competitions": 5030,
     "league_profiles": 321,
-    "camp_dossiers": 2152,
+    "camp_dossiers": 2155,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 709,
+    "exhibitions_events": 710,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 322,
+    "prepared_ui_version": 323,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 321,
-    "previous_verified_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39"
+    "previous_verified_ui_version": 322,
+    "previous_verified_commit": "0c61b391799c23dd800a599792a60b2fb10b6173"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 321,
-    "published_version": 321,
-    "latest_source_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39",
-    "published_commit": "dc7696300149b3905a8a94da5a0386d3eda81c39",
-    "latest_workflow": 42559991580,
+    "latest_source_version": 322,
+    "published_version": 322,
+    "latest_source_commit": "0c61b391799c23dd800a599792a60b2fb10b6173",
+    "published_commit": "0c61b391799c23dd800a599792a60b2fb10b6173",
+    "latest_workflow": 42562017974,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -33948,5 +33948,80 @@
       "CP2155"
     ],
     "source_requests": 16
+  },
+  "animacon_and_january_tech_learning_v323": {
+    "version": 323,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5032",
+      "C5033",
+      "C5034",
+      "C5035",
+      "E711",
+      "CP2156-20270107-20270107-jan7",
+      "CP2156-20270114-20270114-jan14",
+      "CP2156-20270118-20270118-jan18",
+      "CP2156-20270120-20270120-jan20",
+      "CP2157-20270112-20270112-jan12",
+      "CP2157-20270118-20270118-jan18",
+      "CP2157-20270120-20270120-jan20",
+      "CP2158-20270107-20270107-jan7",
+      "CP2158-20270113-20270113-jan13",
+      "CP2159-20270113-20270113-jan13",
+      "CP2160-20270114-20270114-jan14",
+      "CP2161-20270120-20270120-jan20",
+      "CP2162-20270113-20270210-course22070"
+    ],
+    "refreshed_event_ids": [
+      "E327",
+      "E474"
+    ],
+    "legacy_overlay_event_ids": [
+      "E327",
+      "E474"
+    ],
+    "animacon_tournament_ids": [
+      "C5032",
+      "C5033",
+      "C5034",
+      "C5035"
+    ],
+    "expo_electrica_id": "E711",
+    "icode_dossier_slugs": [
+      "icode-geelong-coding-robotics",
+      "icode-geelong-minecraft",
+      "icode-geelong-roblox",
+      "icode-geelong-scratch",
+      "icode-geelong-minecraft-art",
+      "icode-geelong-dnd"
+    ],
+    "tacoma_dossier_id": "CP2162",
+    "new_dossier_ids": [
+      "CP2156",
+      "CP2157",
+      "CP2158",
+      "CP2159",
+      "CP2160",
+      "CP2161",
+      "CP2162"
+    ],
+    "new_learning_ids": [
+      "CP2156-20270107-20270107-jan7",
+      "CP2156-20270114-20270114-jan14",
+      "CP2156-20270118-20270118-jan18",
+      "CP2156-20270120-20270120-jan20",
+      "CP2157-20270112-20270112-jan12",
+      "CP2157-20270118-20270118-jan18",
+      "CP2157-20270120-20270120-jan20",
+      "CP2158-20270107-20270107-jan7",
+      "CP2158-20270113-20270113-jan13",
+      "CP2159-20270113-20270113-jan13",
+      "CP2160-20270114-20270114-jan14",
+      "CP2161-20270120-20270120-jan20",
+      "CP2162-20270113-20270210-course22070"
+    ],
+    "source_requests": 19
   }
 }

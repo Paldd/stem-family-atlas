@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2155 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-08. 2162 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -170647,6 +170647,560 @@ Australia · Brisbane
 - [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210128938) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.brisbane.qld.gov.au/events/sphero-summer-games/210805125) · 2026-11-08
+
+## CP2156 · iCode School Geelong · Coding for Beginners PLUS Robotics
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Por la mañana introducción a la programación, por la tarde robótica para principiantes. No se exige experiencia previa.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** La organización incluye almuerzo con pizza.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Oscar:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Coding for Beginners PLUS Robotics
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G)
+
+### Coding for Beginners PLUS Robotics
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1396-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_14th_January_G)
+
+### Coding for Beginners PLUS Robotics
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1392-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Monday_18th_January_G)
+
+### Coding for Beginners PLUS Robotics
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1396-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_14th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1392-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Monday_18th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G) · 2026-11-08
+
+## CP2157 · iCode School Geelong · Minecraft 1.0 for Beginners
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Programación inicial para niños que ya conocen Minecraft.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Oscar:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Minecraft 1.0 for Beginners
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza, edad e idioma docente.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1390-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Tuesday_12th_January_G)
+
+### Minecraft 1.0 for Beginners
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza, edad e idioma docente.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1393-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Monday_18th_January_G)
+
+### Minecraft 1.0 for Beginners
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza, edad e idioma docente.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1398-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Wednesday_20th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1390-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Tuesday_12th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1393-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Monday_18th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1398-Holiday_Program_Minecraft_1_0_for_Beginners_9_00_3_00_Wednesday_20th_January_G) · 2026-11-08
+
+## CP2158 · iCode School Geelong · Roblox for Beginners
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Introducción a la programación con Roblox. Se pide familiaridad con el juego y cuenta propia.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** El horario de registro indica 09:00–15:30 y el título indica fin a las 15:00. Confirmar hora de recogida.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Oscar:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Por qué se seleccionó:** El horario de registro indica 09:00–15:30 y el título indica fin a las 15:00. Confirmar hora de recogida.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Roblox for Beginners
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1429-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Thursday_7th_January_G)
+
+### Roblox for Beginners
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1394-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Wednesday_13th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1429-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Thursday_7th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1394-Holiday_Program_Roblox_for_Beginners_9_00_3_00_Wednesday_13th_January_G) · 2026-11-08
+
+## CP2159 · iCode School Geelong · Scratch MAX Advanced
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Scratch avanzado. La organización pide experiencia de programación y cursos anteriores. Hay modalidad presencial y en línea.
+
+**Alojamiento:** Taller diurno en aula o en línea.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. Para el itinerario avanzado hay que confirmar habilidades y cursos anteriores.
+
+**Oscar:** Encaja por edad. Para el itinerario avanzado hay que confirmar habilidades y cursos anteriores.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Scratch MAX Advanced
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza, edad e idioma docente.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1395-Holiday_Program_Scratch_MAX_Advanced_9_00_3_00_Wednesday_13th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1395-Holiday_Program_Scratch_MAX_Advanced_9_00_3_00_Wednesday_13th_January_G) · 2026-11-08
+
+## CP2160 · iCode School Geelong · Code+Create Minecraft Art Hub
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–16 años según el formulario del taller elegido.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Minecraft y taller creativo con Zen Hen Hula Artclub. Hace falta una cuenta del juego.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Oscar:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Code+Create Minecraft Art Hub
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1430-Holiday_Program_Code_Create_Minecraft_Art_Hub_Collab_9_00_3_00_Thursday_14th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1430-Holiday_Program_Code_Create_Minecraft_Art_Hub_Collab_9_00_3_00_Thursday_14th_January_G) · 2026-11-08
+
+## CP2161 · iCode School Geelong · DnD Character Build
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–16 años según el formulario del taller elegido.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Creación de personajes y juego de rol con Zen Hen Hula Artclub. Hay formato de iniciación.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Oscar:** Edad mínima de 8 años el día de la actividad.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### DnD Character Build
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1431-Holiday_Program_DnD_Character_Build_Art_Club_Activity_9_00_3_00_Wednesday_20th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://icodeschool.com.au/holiday-programs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1431-Holiday_Program_DnD_Character_Build_Art_Club_Activity_9_00_3_00_Wednesday_20th_January_G) · 2026-11-08
+
+## CP2162 · Bricks 4 Kidz · Junior Robotics Class
+
+Estados Unidos · Sprinker Recreation Center · 521 Military Road S · Tacoma, WA
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–10 años en la fecha de la sesión.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Los niños construyen robots LEGO y se llevan una minifigura. Los kits quedan en la sede.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.
+
+**Precio / año:** 2027 · USD 90 por participante por el curso.
+
+**Incluido:** Los niños construyen robots LEGO y se llevan una minifigura. Los kits quedan en la sede.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Oscar:** Encaja por edad según el formulario. Confirmar plaza e idioma docente.
+
+**Por qué se seleccionó:** Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.
+
+### Antes de solicitar plaza
+
+- Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.
+
+- Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Junior Robotics Class · 22070
+
+**Fechas / estado:** 2027-01-13 — 2027-02-10
+
+**lugar:** Sprinker Recreation Center · 521 Military Road S · Tacoma, WA
+
+**Precio:** USD 90 por participante por el curso.
+
+**condiciones de participación:** Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.
+
+- Curso 22070. La tabla del condado indica miércoles del 13 de enero al 10 de febrero de 2027, 18:00–19:00 y 5 semanas. La descripción dice 4 semanas. Confirmar los días efectivos.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+[fuente](https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

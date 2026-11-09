@@ -13828,7 +13828,7 @@
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
-      "cost": "Precio sin publicar.",
+      "cost": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
       "level": "Feria familiar o evento público",
       "reward": "",
       "priority": "P3 — visita según programa",
@@ -13862,7 +13862,14 @@
         "Hongoneon Studios",
         "Tobeni Studios"
       ],
-      "delivery_mode": "in_person"
+      "delivery_mode": "in_person",
+      "child_entry": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
+      "related_ids": [
+        "C5032",
+        "C5033",
+        "C5034",
+        "C5035"
+      ]
     },
     {
       "id": "E328",
@@ -28072,6 +28079,270 @@
       },
       "related_ids": [
         "L915"
+      ]
+    },
+    {
+      "id": "C5032",
+      "title": "AnimaCon 2027 · Riftbound LoL TCG",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica · Heredia",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://animaconcr.com/schedule",
+      "references": [
+        {
+          "url": "https://animaconcr.com/activities",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://animaconcr.com/schedule",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "mat": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "osc": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "format": "Formato Origins, 20 plazas. Sala Puntarenas, 10:00–14:00 hora local.",
+      "entry": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "gear": "",
+      "language": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "cost": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
+      "level": "Torneo local de juegos",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "note": "La organización señala que el horario de actividades de juego es provisional.",
+      "themes": [
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Torneo local de juegos",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "date_precision": "announced_window",
+      "date_rule": "La organización señala que el horario de actividades de juego es provisional.",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "parent_event_id": "E327",
+      "related_ids": [
+        "E327"
+      ]
+    },
+    {
+      "id": "C5033",
+      "title": "AnimaCon 2027 · One Piece TCG",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica · Heredia",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://animaconcr.com/schedule",
+      "references": [
+        {
+          "url": "https://animaconcr.com/activities",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://animaconcr.com/schedule",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "mat": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "osc": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "format": "Formato Normal con OP14, 32 plazas. Sala Puntarenas, 14:00–18:00 hora local.",
+      "entry": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "gear": "",
+      "language": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "cost": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
+      "level": "Torneo local de juegos",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "note": "La organización señala que el horario de actividades de juego es provisional.",
+      "themes": [
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Torneo local de juegos",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "date_precision": "announced_window",
+      "date_rule": "La organización señala que el horario de actividades de juego es provisional.",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "parent_event_id": "E327",
+      "related_ids": [
+        "E327"
+      ]
+    },
+    {
+      "id": "C5034",
+      "title": "AnimaCon 2027 · Gundam Card Game",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica · Heredia",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://animaconcr.com/activities",
+      "references": [
+        {
+          "url": "https://animaconcr.com/activities",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://animaconcr.com/schedule",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "mat": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "osc": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "format": "Sistema suizo 1 contra 1, 16 plazas. Confirmar el horario del torneo.",
+      "entry": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "gear": "",
+      "language": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "cost": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
+      "level": "Torneo local de juegos",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "note": "La organización señala que el horario de actividades de juego es provisional.",
+      "themes": [
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Torneo local de juegos",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "date_precision": "announced_window",
+      "date_rule": "La organización señala que el horario de actividades de juego es provisional.",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "parent_event_id": "E327",
+      "related_ids": [
+        "E327"
+      ]
+    },
+    {
+      "id": "C5035",
+      "title": "AnimaCon 2027 · Beyblade",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica · Heredia",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://animaconcr.com/schedule",
+      "references": [
+        {
+          "url": "https://animaconcr.com/activities",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://animaconcr.com/schedule",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "mat": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "osc": "Condicional. Se requiere confirmar la admisión del menor al torneo concreto.",
+      "format": "Inscripción en Gaming Zone de 10:00 a 13:00 hora local. Confirmar inicio y formato del torneo.",
+      "entry": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "gear": "",
+      "language": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.",
+      "cost": "La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.",
+      "level": "Torneo local de juegos",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.",
+      "note": "La organización señala que el horario de actividades de juego es provisional.",
+      "themes": [
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Torneo local de juegos",
+      "participation": "unconfirmed_program",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "date_precision": "announced_window",
+      "date_rule": "La organización señala que el horario de actividades de juego es provisional.",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "parent_event_id": "E327",
+      "related_ids": [
+        "E327"
       ]
     },
     {

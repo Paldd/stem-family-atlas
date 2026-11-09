@@ -2990,7 +2990,7 @@ Matvey: Sí para visita familiar siguiendo las reglas de acceso.
 Oscar: Sí para visita familiar siguiendo las reglas de acceso.
 Idioma: Confirmar el idioma del grupo o sede concretos.
 Acceso: Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.
-Precio: Precio sin publicar.
+Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
 Limitaciones: Muestra de juegos de cinco estudios locales en Gaming Zone 10:00–18:00. Juego libre de Rocket League 10:00–12:30 en el programa preliminar. Confirmar aparte edades de actividades y torneos.
 Fuente: https://animaconcr.com/
 Se ha comprobado: 2026-11-08
@@ -5827,6 +5827,58 @@ Acceso: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 est
 Precio: La aportación publicada por semestre es de MXN 5500. Incluye materiales, uniforme y acceso al campus. Confirmar el precio de la próxima convocatoria.
 Limitaciones: Preparación los sábados en el campus de Prepa Tec. Seleccionan a 6 estudiantes por grupo para FLL. Confirmar próxima convocatoria, curso y criterios de selección.
 Fuente: https://institutovoltec.com/
+Se ha comprobado: 2026-11-08
+
+### C5032 · AnimaCon 2027 · Riftbound LoL TCG
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
+Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
+Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Fuente: https://animaconcr.com/schedule
+Se ha comprobado: 2026-11-08
+
+### C5033 · AnimaCon 2027 · One Piece TCG
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
+Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
+Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Fuente: https://animaconcr.com/schedule
+Se ha comprobado: 2026-11-08
+
+### C5034 · AnimaCon 2027 · Gundam Card Game
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
+Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
+Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Fuente: https://animaconcr.com/activities
+Se ha comprobado: 2026-11-08
+
+### C5035 · AnimaCon 2027 · Beyblade
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
+Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
+Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
+Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Fuente: https://animaconcr.com/schedule
 Se ha comprobado: 2026-11-08
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
