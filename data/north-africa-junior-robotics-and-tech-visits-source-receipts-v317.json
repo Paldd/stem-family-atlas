@@ -1,0 +1,314 @@
+{
+  "captures": [
+    {
+      "key": "enjoy-rules",
+      "url": "https://enjoyaimorocco.org/competition/",
+      "final_url": "https://enjoyaimorocco.org/competition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 160111,
+      "sha256": "4e6bb5d5d3b4e7c3796b9334bcf338bc6ab1c2d0547b9e48190faa8347f4fc3c",
+      "file": "enjoy-rules.html"
+    },
+    {
+      "key": "enjoy-calendar",
+      "url": "https://enjoyaimorocco.org/calendrier/",
+      "final_url": "https://enjoyaimorocco.org/calendrier/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 113963,
+      "sha256": "27f3d167b92711cc85b2bc06e549b918fc135a17a62aa25bb09a30afe3812579",
+      "file": "enjoy-calendar.html"
+    },
+    {
+      "key": "rabat-makerspace",
+      "url": "https://makerspacekids.ma/en/",
+      "final_url": "https://makerspacekids.ma/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76440,
+      "sha256": "8f2103cc377de79df0cc7ebf00d34500693350dcaf7e614a8e5521d49370216e",
+      "file": "rabat-makerspace.html"
+    },
+    {
+      "key": "algeria-setif-junior",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769",
+      "final_url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769",
+      "retrieval": "public_web_readback",
+      "sha256": "5f4a34c72470e6a138f766c29a1087b4281a9cda6a84e6485d67fa507e259aee",
+      "file": "algeria-setif-junior-web-readback.txt"
+    },
+    {
+      "key": "dza-ai-ain",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/4608",
+      "final_url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/4608",
+      "retrieval": "public_web_readback",
+      "sha256": "a3822c3794fb6d0b1ee3a8f1e831b09287c0e52c6007427a46233880b50e073c",
+      "file": "dza-ai-ain-web-readback.txt"
+    },
+    {
+      "key": "dza-bejaia",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/59963",
+      "final_url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/59963",
+      "retrieval": "public_web_readback",
+      "sha256": "12db89d79c18e2b70f88e9585444d4b6625cc4bb726faaeb4c354ec6c3f21e7d",
+      "file": "dza-bejaia-web-readback.txt"
+    },
+    {
+      "key": "dza-robot-bougaa",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/38621",
+      "final_url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/38621",
+      "retrieval": "public_web_readback",
+      "sha256": "b52b5aa2397892bf0af5d33b4859e42705a5702f601037527cd60baadf46f0f6",
+      "file": "dza-robot-bougaa-web-readback.txt"
+    },
+    {
+      "key": "dza-souidania",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785",
+      "final_url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785",
+      "retrieval": "public_web_readback",
+      "sha256": "af6577425c9b09aadedfb39a0ced23bf5484cba0047c203f432c37d0ee9f792e",
+      "file": "dza-souidania-web-readback.txt"
+    },
+    {
+      "key": "ai-junior-report",
+      "url": "https://rs.umc.edu.dz/news?id=151",
+      "final_url": "https://rs.umc.edu.dz/news?id=151",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38399,
+      "sha256": "c0d35c021e0f063a99583ef8b5c909869c748e888b6f211bab68c832b40a3c5d",
+      "file": "ai-junior-report.html"
+    },
+    {
+      "key": "codeavour",
+      "url": "https://codeavour.org/",
+      "final_url": "https://codeavour.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 324832,
+      "sha256": "3168710387ddf8d39f1aa6bdda23ceeccfb9e41ffa34d54caf556f8e2d531b3b",
+      "file": "codeavour.html"
+    },
+    {
+      "key": "eurobot-atr",
+      "url": "https://atr.tn/eurobot.html",
+      "final_url": "https://atr.tn/eurobot.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33396,
+      "sha256": "35d58716200cfe28d2da1bffd15cbafdaba8444e6a1149ff9805be5751f0f7b2",
+      "file": "eurobot-atr.html"
+    },
+    {
+      "key": "eurobot-jr",
+      "url": "https://www.eurobot.org/eurobot-junior/eurobot-junior-2027/",
+      "final_url": "https://www.eurobot.org/eurobot-junior/eurobot-junior-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87550,
+      "sha256": "dbc992a0d2914b0cd06fdc7573287a8f157403f31468f199a74ed95ccf58f9f8",
+      "file": "eurobot-jr.html"
+    },
+    {
+      "key": "eurobot-jr-rules",
+      "url": "https://www.eurobot.org/wp-content/uploads/2025/09/Eurobot_General_Rules_1.2_EN_JR.pdf",
+      "final_url": "https://www.eurobot.org/wp-content/uploads/2025/09/Eurobot_General_Rules_1.2_EN_JR.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1712288,
+      "sha256": "f7a9f434b0597e1bedfaffaf62143575c02d65ec917d6bf73d096de6e2754414",
+      "file": "eurobot-jr-rules.pdf"
+    },
+    {
+      "key": "ieee-robolote",
+      "url": "https://events.vtools.ieee.org/m/584369",
+      "final_url": "https://events.vtools.ieee.org/m/584369",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36633,
+      "sha256": "b69200a984c402d5947e92ddf348b4d0aa3138b88927079218486196a63f89c9",
+      "file": "ieee-robolote.html"
+    },
+    {
+      "key": "emecexpo",
+      "url": "https://www.emecexpo.com/informations-pratiques",
+      "final_url": "https://www.emecexpo.com/informations-pratiques",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16475,
+      "sha256": "1d7120cc652c147a0c15f33be5a7f5128c89164658b7a385cb7015b82a1935b8",
+      "file": "emecexpo.html"
+    },
+    {
+      "key": "gitex",
+      "url": "https://gitexafrica.com/",
+      "final_url": "https://gitexafrica.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 154817,
+      "sha256": "53ac1cdd536eecae69f4ff77a2e101b76784f7b6790bea3157bf3de45509c347",
+      "file": "gitex.html"
+    },
+    {
+      "key": "gitex-faq",
+      "url": "https://gitexafrica.com/faqs",
+      "final_url": "https://gitexafrica.com/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69051,
+      "sha256": "13c6933728acadc70572f608e3e3521e04d8ea4dbb724ba3cfa51539d6a31d36",
+      "file": "gitex-faq.html"
+    },
+    {
+      "key": "gccdz",
+      "url": "https://www.gccdz.com/",
+      "final_url": "https://www.gccdz.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80429,
+      "sha256": "fab50fc6b3d2980df38f917fb63aaa0902d764f1eb10c34f09a492601ae59007",
+      "file": "gccdz.html"
+    },
+    {
+      "key": "dakhla-ai",
+      "url": "https://letschallenge.org/",
+      "final_url": "https://letschallenge.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46964,
+      "sha256": "b747ae36eb0c4562a524ee7a5b3a051b08792ad604378f8fff8e0ebadb3a1061",
+      "file": "dakhla-ai.html"
+    },
+    {
+      "key": "setif",
+      "url": "https://www.univ-setif.dz/toutes-les-actualites/concours-de-robotique-et-selections-de-wilaya-ar-670",
+      "final_url": "https://www.univ-setif.dz/toutes-les-actualites/concours-de-robotique-et-selections-de-wilaya-ar-670",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85940,
+      "sha256": "0e1a87ea417b678627ca524170ee368d42466271fc56f962a4b9aba4f95e3e13",
+      "file": "setif.html"
+    },
+    {
+      "key": "atast-million-coders",
+      "url": "https://atast.org/million-coders",
+      "final_url": "https://atast.org/million-coders",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15646,
+      "sha256": "6fbccb1bbbc780f16b7ec427049bf3828f4d3c170dbb6e72eab16fd91487d0cb",
+      "file": "atast-million-coders.html"
+    },
+    {
+      "key": "atast",
+      "url": "https://atast.org/",
+      "final_url": "https://atast.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68362,
+      "sha256": "cbf6c4f571f9259b20162b7b0d087448e38b9f93fb92498357d66f1baf9a0ddd",
+      "file": "atast.html"
+    },
+    {
+      "key": "atast-oro",
+      "url": "https://atast.org/oro",
+      "final_url": "https://atast.org/oro",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24930,
+      "sha256": "abf50de21e3204a465aae8a38512f249565bf7bcb4c690010b3deb15ca714bf6",
+      "file": "atast-oro.html"
+    },
+    {
+      "key": "atast-vex",
+      "url": "https://atast.org/vex",
+      "final_url": "https://atast.org/vex",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34977,
+      "sha256": "6b244ee6714acd3d2b41177ca3c968ae869a40f0e51b9ef04f37ae70dcd3cdbf",
+      "file": "atast-vex.html"
+    },
+    {
+      "key": "atast-robotex",
+      "url": "https://atast.org/robotex",
+      "final_url": "https://atast.org/robotex",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24112,
+      "sha256": "e5b891a7351f806cb7d00892cbbe9984889dbc3ba9129e98312a2d62c397c656",
+      "file": "atast-robotex.html"
+    },
+    {
+      "key": "atast-rc-china",
+      "url": "https://atast.org/rc-china",
+      "final_url": "https://atast.org/rc-china",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23999,
+      "sha256": "9b26b51c0d6a9e089fbc7622d171bb36e3f9f8a74f2662379e3cce93dc216f7a",
+      "file": "atast-rc-china.html"
+    },
+    {
+      "key": "atast-ai",
+      "url": "https://atast.org/ai",
+      "final_url": "https://atast.org/ai",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8325,
+      "sha256": "b900d1c64f5f13a0022cd748603dc1e2147e6a5e35048341a46a804a04b792de",
+      "file": "atast-ai.html"
+    },
+    {
+      "key": "atast-btech",
+      "url": "https://atast.org/btech",
+      "final_url": "https://atast.org/btech",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 9798,
+      "sha256": "67c9a95e9f147d5d0cbf5de4770d065efcdde8b4fd4f818046e776c3a592dfca",
+      "file": "atast-btech.html"
+    },
+    {
+      "key": "atast-isef",
+      "url": "https://atast.org/isef",
+      "final_url": "https://atast.org/isef",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40501,
+      "sha256": "c3582cfece47c9dabc70fb65a8922a671880750475eb67f8cbbdd593f6044045",
+      "file": "atast-isef.html"
+    },
+    {
+      "key": "atast-camp",
+      "url": "https://atast.org/camp",
+      "final_url": "https://atast.org/camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 9313,
+      "sha256": "0a943a430f2389a18fba89ebb59e81d5ad6ad564f34879843df737dd2e13bbed",
+      "file": "atast-camp.html"
+    },
+    {
+      "key": "rbk-kids",
+      "url": "https://rbk.tn/",
+      "final_url": "https://rbk.tn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 188061,
+      "sha256": "32daad391553e52911de254eb0c04dbb7ee17d615f2296d807ea374955f76c1b",
+      "file": "rbk-kids.html"
+    },
+    {
+      "key": "graines-annual",
+      "url": "https://grainesentrepreneurs.tn/formations/programme-annuel",
+      "final_url": "https://grainesentrepreneurs.tn/formations/programme-annuel",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173762,
+      "sha256": "5e04a2749b80c526947ce68733acbf82f7cae9f528d7405a670ac7534ec426b0",
+      "file": "graines-annual.html"
+    }
+  ]
+}

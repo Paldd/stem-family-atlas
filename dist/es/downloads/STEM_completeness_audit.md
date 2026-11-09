@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11072; competiciones: 4971; eventos: 704; campamentos / programas: 5397. Perfiles de ligas y programas: 314. Fichas de exposiciones grandes y especializadas: 604 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11113; competiciones: 4994; eventos: 706; campamentos / programas: 5413. Perfiles de ligas y programas: 317. Fichas de exposiciones grandes y especializadas: 606 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -17,13 +17,13 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 | América del Norte | 41 | 2030 | 154 | 1388 |
 | América del Sur | 15 | 452 | 52 | 235 |
 | Europa | 55 | 714 | 150 | 1571 |
-| África | 60 | 248 | 43 | 140 |
+| África | 60 | 271 | 45 | 156 |
 | Asia | 50 | 1193 | 171 | 1712 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4971 fichas de competiciones (16.4%). Hay un desequilibrio visible en la cobertura.
+VEX: 815 de 4994 fichas de competiciones (16.3%). Hay un desequilibrio visible en la cobertura.
 
 ## Lo que queda
 
@@ -340,6 +340,9 @@ VEX: 815 de 4971 fichas de competiciones (16.4%). Hay un desequilibrio visible e
 - **FIRST LEGO League East Texas · BIOGLOW 2026/27**: 11 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.kidsroboticfoundation.org/fll/schedule
 - **FIRST LEGO League UK · IET BIOGLOW 2026/27**: 55 fichas, 40 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://education.theiet.org/first-lego-league-programmes/challenge/find-a-tournament-near-you
 - **FIRST LEGO League Ireland · Creative Hut BIOGLOW 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://fll.ie/
+- **ENJOY AI Morocco · Robots Makers / Crafters / Titans**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaimorocco.org/competition/
+- **Eurobot Junior Tunisia · ATR**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://atr.tn/eurobot.html
+- **ATAST Tunisia · Robotics and science routes**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://atast.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -986,6 +989,8 @@ VEX: 815 de 4971 fichas de competiciones (16.4%). Hay un desequilibrio visible e
 - **FLL Minnesota · Challenge State Championship · Public Viewing** — Estados Unidos; 2027-02-14. con un adulto; condiciones de admisión adulta por separado. https://hightechkids.org/fll-overview/tournament-schedule/fll-state/
 - **Foyle Science Showcase 2027** — Reino Unido; 2027-02-20. con un adulto; condiciones de admisión adulta por separado. https://nisciencefestival.com/tour-event/foyle-science-showcase-2027/
 - **Kinia Creative Technology Week 2027** — Irlanda; 2027-04-14 – 2027-04-24. el permiso de entrada de niños. https://kinia.ie/creative-technology-week/
+- **Souidania · Espace de loisirs scientifiques** — Argelia; fecha por confirmar. Con un adulto; condiciones de admisión adulta por separado. https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785
+- **EMECEXPO 2027 · AI & Business Technology** — Marruecos; 2027-12-02 – 2027-12-04. el permiso de entrada de niños. https://www.emecexpo.com/informations-pratiques
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

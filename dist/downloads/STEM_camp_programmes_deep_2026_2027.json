@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2139,
-    "countries": 137,
+    "dossiers": 2142,
+    "countries": 139,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 295,
+      "published_2026_27": 296,
       "published_2027": 573,
       "partial_2027": 153,
       "next_unannounced": 440,
@@ -46,9 +46,10 @@
       "regular_2026_27": 10,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
-      "confirmed_2027": 1
+      "confirmed_2027": 1,
+      "recurring_tbd": 2
     },
-    "source_urls": 3048
+    "source_urls": 3051
   },
   "countries": [
     {
@@ -336,6 +337,10 @@
       "count": 2
     },
     {
+      "country": "Марокко",
+      "count": 1
+    },
+    {
       "country": "Мартиника",
       "count": 2
     },
@@ -494,6 +499,10 @@
     {
       "country": "Тринидад и Тобаго",
       "count": 5
+    },
+    {
+      "country": "Тунис",
+      "count": 2
     },
     {
       "country": "Туркменистан",
@@ -375154,6 +375163,314 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2140",
+      "slug": "rabat-makerspace-winter-2026",
+      "provider": "Makerspace Kids · Rabat Winter Camp",
+      "country": "Марокко",
+      "iso": "MAR",
+      "place": "Villa 86 · Hay Riad · Rabat",
+      "age": "Возраст зимней группы уточнить. В регулярных группах есть уровни 5–7, 7–9 и 9–11.",
+      "programme": "Каникулы в центре робототехники и кодинга. Содержание и часы зимних групп уточнить.",
+      "format": null,
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Объявлены две декабрьские недели. Предварительная запись открыта по странице оператора.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Makerspace Kids · Winter Robotics",
+            "price": "Цена зимней смены на странице не опубликована. Запросить полный счёт, включая материалы и возможные доплаты.",
+            "source": "https://makerspacekids.ma/en/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Объявлены две декабрьские недели. Предварительная запись открыта по странице оператора."
+            },
+            "place": "Villa 86 · Hay Riad · Rabat",
+            "entry": "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место.",
+            "questions": [
+              "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место."
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Makerspace Kids · Winter Robotics",
+            "price": "Цена зимней смены на странице не опубликована. Запросить полный счёт, включая материалы и возможные доплаты.",
+            "source": "https://makerspacekids.ma/en/",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Объявлены две декабрьские недели. Предварительная запись открыта по странице оператора."
+            },
+            "place": "Villa 86 · Hay Riad · Rabat",
+            "entry": "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место.",
+            "questions": [
+              "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Цена зимней смены на странице не опубликована. Запросить полный счёт, включая материалы и возможные доплаты.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Проживание и дневной формат уточняются у организатора.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место."
+        }
+      },
+      "editorial_reason": "Объявлены две декабрьские недели. Предварительная запись открыта по странице оператора.",
+      "shortlist": [],
+      "questions": [
+        "Предварительная запись. Сначала подтвердить возраст именно зимней группы, часы, язык обучения, стоимость и место."
+      ],
+      "sources": [
+        {
+          "url": "https://makerspacekids.ma/en/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "camp",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2140-20261221-20261225-week-1"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2140-20261228-20261231-week-2"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2141",
+      "slug": "atast-tunisia-winter",
+      "provider": "ATAST · Winter STEM Camp",
+      "country": "Тунис",
+      "iso": "TUN",
+      "place": "Tunisia",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "programme": "Зимний STEM-лагерь на 3 дня.",
+      "format": null,
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "recurring_tbd",
+        "label": "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Проживание и дневной формат уточняются у организатора.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить возраст на дату, язык, место и допуск иностранного участника."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить возраст на дату, язык, место и допуск иностранного участника."
+        }
+      },
+      "editorial_reason": "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+        "Проживание и дневной формат уточняются у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://atast.org/camp",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://atast.org/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "camp",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2142",
+      "slug": "atast-tunisia-summer",
+      "provider": "ATAST · Summer STEM Camp",
+      "country": "Тунис",
+      "iso": "TUN",
+      "place": "Tunisia",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "programme": "Летний STEM-лагерь на одну неделю.",
+      "format": null,
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "recurring_tbd",
+        "label": "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Проживание и дневной формат уточняются у организатора.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить возраст на дату, язык, место и допуск иностранного участника."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить возраст на дату, язык, место и допуск иностранного участника."
+        }
+      },
+      "editorial_reason": "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Организатор описывает регулярные лагеря. Ближайшие даты, возраст группы и язык требуют подтверждения.",
+        "Проживание и дневной формат уточняются у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://atast.org/camp",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://atast.org/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "camp",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -380479,7 +380796,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 316,
+  "version": 317,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -393714,7 +394031,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2139,
+      "total_dossiers": 2142,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -417654,6 +417971,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2140",
+      "event_id": "CP2140-20261221-20261225-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2140",
+      "event_id": "CP2140-20261228-20261231-week-2",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -422563,10 +422890,12 @@
     "CP2139-20270712-20270716-20270712",
     "CP2139-20270719-20270723-20270719",
     "CP2139-20270726-20270730-20270726",
-    "CP2139-20270802-20270806-20270802"
+    "CP2139-20270802-20270806-20270802",
+    "CP2140-20261221-20261225-week-1",
+    "CP2140-20261228-20261231-week-2"
   ],
   "integration": {
-    "generated_sessions": 4499,
+    "generated_sessions": 4501,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

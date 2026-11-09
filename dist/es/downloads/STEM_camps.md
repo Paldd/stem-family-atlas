@@ -13158,6 +13158,230 @@ Limitaciones: El horario indica 11:00–14:00 y la descripción da una duración
 Fuente: https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/
 Se ha comprobado: 2026-11-08
 
+### L899 · Bir El Arch · Robotics & AI · 6–7
+
+lugar: Argelia · Abdelhamid Ben Badis Youth House · Bir El Arch, Sétif
+Fecha: 2026-11-10 — 2027-02-10
+Edad: 6–7 años.
+Matvey: No encaja por edad. Necesita un grupo superior.
+Oscar: La franja publicada encaja si se confirman edad y plaza.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769
+Se ha comprobado: 2026-11-08
+
+### L900 · Bir El Arch · Robotics & AI · 8–9
+
+lugar: Argelia · Abdelhamid Ben Badis Youth House · Bir El Arch, Sétif
+Fecha: 2026-11-10 — 2027-02-10
+Edad: 8–9 años.
+Matvey: La franja publicada encaja si se confirman edad y plaza.
+Oscar: No cumple la edad mínima de este grupo.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769
+Se ha comprobado: 2026-11-08
+
+### L901 · Bir El Arch · Robotics & AI · 10–12
+
+lugar: Argelia · Abdelhamid Ben Badis Youth House · Bir El Arch, Sétif
+Fecha: 2026-11-10 — 2027-02-10
+Edad: 10*12 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769
+Se ha comprobado: 2026-11-08
+
+### L902 · Bir El Arch · Robotics & AI · 13+
+
+lugar: Argelia · Abdelhamid Ben Badis Youth House · Bir El Arch, Sétif
+Fecha: 2026-11-10 — 2027-02-10
+edad: Desde los 13 años.
+Matvey: No cumple la edad mínima de este grupo.
+Oscar: No cumple la edad mínima de este grupo.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/59769
+Se ha comprobado: 2026-11-08
+
+### L903 · Guelta Zerka · AI Youth Programme
+
+lugar: Argelia · Bouzerga Omar Youth House · Guelta Zerka, Sétif
+Fecha: 2026-09-20 — 2027-08-31
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/4608
+Se ha comprobado: 2026-11-08
+
+### L904 · Draa El Kaid · Robotics Training
+
+lugar: Argelia · Latrach Abdallah El Barzakh Youth House · Draa El Kaid, Béjaïa
+Fecha: 2026-11-10 — 2027-05-31
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: Se publica el período del programa. Aún no se confirman las horas de cada sesión.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/59963
+Se ha comprobado: 2026-11-08
+
+### L905 · Bougaa · Youth Robotics Club
+
+lugar: Argelia · Sports Centre 20 August 1955 · Bougaa, Sétif
+Fecha: La ficha más reciente indica 16.10.2026–31.08.2027. Antes el mismo enlace mostraba 16.04.2026–31.08.2026. Confirmar el horario actual con el centro.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: workshop
+Idioma: Hay materiales en árabe. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa de un centro juvenil. Confirmar el horario de cada sesión, plazas, idioma y condiciones para visitantes.
+Limitaciones: La ficha más reciente indica 16.10.2026–31.08.2027. Antes el mismo enlace mostraba 16.04.2026–31.08.2026. Confirmar el horario actual con el centro.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/38621
+Se ha comprobado: 2026-11-08
+
+### L906 · ATAST Million Coders · Junior Coders
+
+lugar: Túnez · Tunisia
+Fecha: Grupos semanales. ATAST asigna día y sede.
+Edad: 6–9 años.
+Matvey: La franja publicada encaja si se confirman edad y plaza.
+Oscar: La franja publicada encaja si se confirman edad y plaza.
+Formato: regular
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratis según las reglas del programa.
+Acceso: Los padres inscriben al niño. ATAST asigna un grupo pequeño y busca un voluntario cercano. Confirmar localidad, idioma y plaza.
+Limitaciones: Los padres inscriben al niño. ATAST asigna un grupo pequeño y busca un voluntario cercano. Confirmar localidad, idioma y plaza.
+Fuente: https://atast.org/million-coders
+Se ha comprobado: 2026-11-08
+
+### L907 · ATAST Million Coders · Young Builders
+
+lugar: Túnez · Tunisia
+Fecha: Grupos semanales. ATAST asigna día y sede.
+Edad: 10–14 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratis según las reglas del programa.
+Acceso: Los padres inscriben al niño. ATAST asigna un grupo pequeño y busca un voluntario cercano. Confirmar localidad, idioma y plaza.
+Limitaciones: Los padres inscriben al niño. ATAST asigna un grupo pequeño y busca un voluntario cercano. Confirmar localidad, idioma y plaza.
+Fuente: https://atast.org/million-coders
+Se ha comprobado: 2026-11-08
+
+### L908 · ATAST · Winter STEM Camp
+
+lugar: Túnez · Tunisia
+Fecha: La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: camp
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+Limitaciones: Campamento STEM de invierno de 3 días.
+Fuente: https://atast.org/camp
+Se ha comprobado: 2026-11-08
+
+### L909 · ATAST · Summer STEM Camp
+
+lugar: Túnez · Tunisia
+Fecha: La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: camp
+Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+Limitaciones: Campamento STEM de verano de una semana.
+Fuente: https://atast.org/camp
+Se ha comprobado: 2026-11-08
+
+### L910 · RBK Kids · Tunisia school-year STEM · 5–7
+
+lugar: Túnez · Tunisia
+Fecha: Curso 2026–27. La próxima fecha depende de la escuela y el formato.
+Edad: 5–7 años.
+Matvey: No encaja por edad. Necesita un grupo superior.
+Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Formato: regular
+Idioma: Hay materiales en francés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde 450 TND según la página del operador. Confirmar el precio del grupo, el período de pago y los materiales.
+Acceso: Los grupos escolares dependen de centros asociados. Para miércoles o sábado se describe acceso fuera de esa red. Confirmar sede, idioma y plaza.
+Limitaciones: Los grupos escolares dependen de centros asociados. Para miércoles o sábado se describe acceso fuera de esa red. Confirmar sede, idioma y plaza.
+Fuente: https://rbk.tn/
+Se ha comprobado: 2026-11-08
+
+### L911 · RBK Kids · Tunisia school-year STEM · 8–11
+
+lugar: Túnez · Tunisia
+Fecha: Curso 2026–27. La próxima fecha depende de la escuela y el formato.
+Edad: 8–11 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Hay materiales en francés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde 450 TND según la página del operador. Confirmar el precio del grupo, el período de pago y los materiales.
+Acceso: Los grupos escolares dependen de centros asociados. Para miércoles o sábado se describe acceso fuera de esa red. Confirmar sede, idioma y plaza.
+Limitaciones: Los grupos escolares dependen de centros asociados. Para miércoles o sábado se describe acceso fuera de esa red. Confirmar sede, idioma y plaza.
+Fuente: https://rbk.tn/
+Se ha comprobado: 2026-11-08
+
+### L912 · Graines d’Entrepreneurs · Préincubation janvier 2027
+
+lugar: Túnez · Université Centrale · Tunis
+Fecha: Inicio a finales de enero de 2027, curso hasta mediados de julio. Confirmar el día del grupo.
+edad: 8–14 años.
+Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Oscar: No cumple la edad mínima de este grupo.
+Formato: regular
+Idioma: Hay materiales en francés. Confirmar el idioma en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2500 TND por el programa. Un anticipo de 500 TND reserva la plaza según el operador. Confirmar condiciones de devolución.
+Acceso: Inicio a finales de enero de 2027, curso hasta mediados de julio. Confirmar el día del grupo.
+Limitaciones: 2500 TND por el programa. Un anticipo de 500 TND reserva la plaza según el operador. Confirmar condiciones de devolución.
+Fuente: https://grainesentrepreneurs.tn/formations/programme-annuel
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -85142,6 +85366,38 @@ Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y pl
 Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
 Se ha comprobado: 2026-11-08
 
+### CP2140-20261221-20261225-week-1 · Makerspace Kids · Rabat Winter Camp · Makerspace Kids · Winter Robotics · 2026-12-21–2026-12-25
+
+lugar: Marruecos · Villa 86 · Hay Riad · Rabat
+Fecha: 2026-12-21 — 2026-12-25
+edad: Confirmar la edad del grupo de invierno. Los grupos regulares tienen niveles de 5 a 7, 7 a 9 y 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: unconfirmed_program
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página aún no publica el precio del turno de invierno. Solicitar el total con materiales y posibles suplementos. · suplementos y condiciones en el dossier
+Acceso: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+Limitaciones: Matvey: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza. Oscar: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://makerspacekids.ma/en/
+Se ha comprobado: 2026-11-08
+
+### CP2140-20261228-20261231-week-2 · Makerspace Kids · Rabat Winter Camp · Makerspace Kids · Winter Robotics · 2026-12-28–2026-12-31
+
+lugar: Marruecos · Villa 86 · Hay Riad · Rabat
+Fecha: 2026-12-28 - 2026-12-31
+edad: Confirmar la edad del grupo de invierno. Los grupos regulares tienen niveles de 5 a 7, 7 a 9 y 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: unconfirmed_program
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La página aún no publica el precio del turno de invierno. Solicitar el total con materiales y posibles suplementos. · suplementos y condiciones en el dossier
+Acceso: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+Limitaciones: Matvey: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza. Oscar: Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://makerspacekids.ma/en/
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -86516,7 +86772,7 @@ Precio: en la página $45 por regionals / nationals y $100 por International Sho
 Entrada: 8.0 está abierto desde el 14 de julio de 2026, pero aún no se ha anunciado un plazo fijo de cierre. Seleccione un socio regional/nacional; la ruta de International Showdown se obtiene mediante un resultado nacional. La ruta a distancia y la solicitud regional extranjera de la familia de confirmar.
 Limitaciones: Codeavour 8.0: web general anuncia registro, páginas de tracks aún dicen opening soon. Botón no prueba plaza / vía extranjera vigente. Etapa regional / nacional precede International Showdown; días nuevos exactos y socio local de familia desconocidos. Track 2 actual se llama Clean Energy, no Wellness Wave. Track 1 admite software sin hardware, Tracks 2 / 3 tienen equipo propio y requisitos físicos. Lil’ Champs 5–7 / 5–8 es programa menor separado, no elimina mínimo 7 de tracks principales. Terms públicos contienen condición de cesión de derechos sobre contenido creado a FSEF sin compensación / royalties y uso publicitario de nombre / materiales. Verificar edición aplicable y derechos del proyecto antes de enviar; contrato sin aceptar.
 Fuente: https://codeavour.org/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### C039 · Coolest Projects Online 2027
 

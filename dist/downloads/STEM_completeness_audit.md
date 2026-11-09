@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11072; соревнований: 4971; событий: 704; лагерей / программ: 5397. Профилей лиг и программ: 314. Карточек крупных и профильных выставок: 604 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11113; соревнований: 4994; событий: 706; лагерей / программ: 5413. Профилей лиг и программ: 317. Карточек крупных и профильных выставок: 606 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -17,13 +17,13 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Северная Америка | 41 | 2030 | 154 | 1388 |
 | Южная Америка | 15 | 452 | 52 | 235 |
 | Европа | 55 | 714 | 150 | 1571 |
-| Африка | 60 | 248 | 43 | 140 |
+| Африка | 60 | 271 | 45 | 156 |
 | Азия | 50 | 1193 | 171 | 1712 |
 | Океания | 27 | 167 | 32 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4971 карточек соревнований (16.4%). Это явный перекос охвата.
+VEX: 815 из 4994 карточек соревнований (16.3%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -340,6 +340,9 @@ VEX: 815 из 4971 карточек соревнований (16.4%). Это я�
 - **FIRST LEGO League East Texas · BIOGLOW 2026/27**: 11 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kidsroboticfoundation.org/fll/schedule
 - **FIRST LEGO League UK · IET BIOGLOW 2026/27**: 55 карточек, 40 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://education.theiet.org/first-lego-league-programmes/challenge/find-a-tournament-near-you
 - **FIRST LEGO League Ireland · Creative Hut BIOGLOW 2026/27**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://fll.ie/
+- **ENJOY AI Morocco · Robots Makers / Crafters / Titans**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://enjoyaimorocco.org/competition/
+- **Eurobot Junior Tunisia · ATR**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://atr.tn/eurobot.html
+- **ATAST Tunisia · Robotics and science routes**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://atast.org/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -986,6 +989,8 @@ VEX: 815 из 4971 карточек соревнований (16.4%). Это я�
 - **FLL Minnesota · Challenge State Championship · Public Viewing** — Соединенные Штаты Америки; 2027-02-14. Со взрослым; условия взрослого входа отдельно. https://hightechkids.org/fll-overview/tournament-schedule/fll-state/
 - **Foyle Science Showcase 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-02-20. Со взрослым; условия взрослого входа отдельно. https://nisciencefestival.com/tour-event/foyle-science-showcase-2027/
 - **Kinia Creative Technology Week 2027** — Ирландия; 2027-04-14 – 2027-04-24. Детский допуск уточнить. https://kinia.ie/creative-technology-week/
+- **Souidania · Espace de loisirs scientifiques** — Алжир; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785
+- **EMECEXPO 2027 · AI & Business Technology** — Марокко; 2027-12-02 – 2027-12-04. Детский допуск уточнить. https://www.emecexpo.com/informations-pratiques
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

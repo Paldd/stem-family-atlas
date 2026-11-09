@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11072,
-    "competition_cards": 4971,
-    "event_cards": 704,
-    "camp_cards": 5397,
-    "league_profiles": 314,
-    "major_exhibition_cards": 604,
+    "cards": 11113,
+    "competition_cards": 4994,
+    "event_cards": 706,
+    "camp_cards": 5413,
+    "league_profiles": 317,
+    "major_exhibition_cards": 606,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 438,
+      "total": 479,
       "countries_with_records": 60,
-      "competitions": 248,
-      "events": 50,
-      "major_exhibitions": 43,
-      "camps": 140,
+      "competitions": 271,
+      "events": 52,
+      "major_exhibitions": 45,
+      "camps": 156,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -8125,6 +8125,66 @@
       "new": false
     },
     {
+      "id": "enjoy-ai-morocco",
+      "name": "ENJOY AI Morocco · Robots Makers / Crafters / Titans",
+      "group": "regional",
+      "event_ids": [
+        "C4973",
+        "C4974",
+        "C4975",
+        "C4976",
+        "C4977",
+        "C4978",
+        "C4979",
+        "C4980",
+        "C4981",
+        "C4982"
+      ],
+      "cards": 10,
+      "future_dated": 0,
+      "linked_card_count": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://enjoyaimorocco.org/competition/",
+      "new": false
+    },
+    {
+      "id": "eurobot-junior-tunisia",
+      "name": "Eurobot Junior Tunisia · ATR",
+      "group": "regional",
+      "event_ids": [
+        "C4984"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://atr.tn/eurobot.html",
+      "new": false
+    },
+    {
+      "id": "atast-tunisia-pathways",
+      "name": "ATAST Tunisia · Robotics and science routes",
+      "group": "regional",
+      "event_ids": [
+        "C4986",
+        "C4987",
+        "C4988",
+        "C4989",
+        "C4990",
+        "C4991",
+        "C4992",
+        "C4993",
+        "C4994",
+        "C4995"
+      ],
+      "cards": 10,
+      "future_dated": 0,
+      "linked_card_count": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://atast.org/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -15762,6 +15822,28 @@
       "new": false
     },
     {
+      "id": "E705",
+      "name": "Souidania · Espace de loisirs scientifiques",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785",
+      "new": false
+    },
+    {
+      "id": "E706",
+      "name": "EMECEXPO 2027 · AI & Business Technology",
+      "country": "Марокко",
+      "region": "Африка",
+      "start": "2027-12-02",
+      "end": "2027-12-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.emecexpo.com/informations-pratiques",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18179,9 +18261,9 @@
       }
     ],
     "counts": {
-      "records": 5397,
+      "records": 5413,
       "holiday": 4878,
-      "regular": 205,
+      "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,
       "en_es_instruction": 1638,
@@ -18192,7 +18274,7 @@
       "language_lessons": 420,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 158
+      "countries": 160
     },
     "validation": {
       "version": 51,

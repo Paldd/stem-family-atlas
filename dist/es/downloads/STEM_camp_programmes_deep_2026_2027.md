@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2139 fichas en 137 países. Las fechas de comprobación de fuentes figuran en cada ficha.
+Estado de la base: 2026-11-08. 2142 fichas en 139 países. Las fechas de comprobación de fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -169427,6 +169427,154 @@ Reino Unido · London
 - [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/holidaycamps) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/index) · 2026-11-08
+
+## CP2140 · Makerspace Kids · Rabat Winter Camp
+
+Marruecos · Villa 86 · Hay Riad · Rabat
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Confirmar la edad del grupo de invierno. Los grupos regulares tienen niveles de 5 a 7, 7 a 9 y 9 a 11 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Vacaciones en el centro de robótica y programación. Confirmar contenidos y horarios de los grupos de invierno.
+
+**Alojamiento:** Confirmar con la organización el alojamiento y el formato diurno.
+
+**Fechas / estado:** Se anuncian dos semanas en diciembre. La página del operador indica que la preinscripción está abierta.
+
+**Precio / año:** 2026 · La página aún no publica el precio del turno de invierno. Solicitar el total con materiales y posibles suplementos.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+**Oscar:** Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+**Por qué figura en la selección:** Se anuncian dos semanas en diciembre. La página del operador indica que la preinscripción está abierta.
+
+### Antes de solicitar plaza
+
+- Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+### Makerspace Kids · Winter Robotics
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**lugar:** Villa 86 · Hay Riad · Rabat
+
+**Precio:** La página aún no publica el precio del turno de invierno. Solicitar el total con materiales y posibles suplementos.
+
+**condiciones de participación:** Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+**Disponibilidad de plazas:** Se anuncian dos semanas en diciembre. La página del operador indica que la preinscripción está abierta.
+
+- Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+[fuente](https://makerspacekids.ma/en/)
+
+### Makerspace Kids · Winter Robotics
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Villa 86 · Hay Riad · Rabat
+
+**Precio:** La página aún no publica el precio del turno de invierno. Solicitar el total con materiales y posibles suplementos.
+
+**condiciones de participación:** Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+**Disponibilidad de plazas:** Se anuncian dos semanas en diciembre. La página del operador indica que la preinscripción está abierta.
+
+- Preinscripción. Confirmar primero la edad del grupo de invierno, el horario, el idioma, el precio y la plaza.
+
+[fuente](https://makerspacekids.ma/en/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://makerspacekids.ma/en/) · 2026-11-08
+
+## CP2141 · ATAST · Winter STEM Camp
+
+Túnez · Tunisia
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Campamento STEM de invierno de 3 días.
+
+**Alojamiento:** Confirmar con la organización el alojamiento y el formato diurno.
+
+**Fechas / estado:** La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+**Precio / año:** sin establecer · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+
+**Oscar:** Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+
+**Por qué figura en la selección:** La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+### Antes de solicitar plaza
+
+- La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+- Confirmar con la organización el alojamiento y el formato diurno.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://atast.org/camp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://atast.org/) · 2026-11-08
+
+## CP2142 · ATAST · Summer STEM Camp
+
+Túnez · Tunisia
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Campamento STEM de verano de una semana.
+
+**Alojamiento:** Confirmar con la organización el alojamiento y el formato diurno.
+
+**Fechas / estado:** La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+**Precio / año:** sin establecer · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+
+**Oscar:** Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+
+**Por qué figura en la selección:** La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+### Antes de solicitar plaza
+
+- La organización describe campamentos recurrentes. Confirmar las próximas fechas, la edad del grupo y el idioma.
+
+- Confirmar con la organización el alojamiento y el formato diurno.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://atast.org/camp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://atast.org/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
