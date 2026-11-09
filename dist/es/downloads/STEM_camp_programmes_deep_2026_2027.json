@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2136,
+    "dossiers": 2139,
     "countries": 137,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 292,
+      "published_2026_27": 295,
       "published_2027": 573,
       "partial_2027": 153,
       "next_unannounced": 440,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 3046
+    "source_urls": 3048
   },
   "countries": [
     {
@@ -465,7 +465,7 @@
     },
     {
       "country": "Reino Unido",
-      "count": 28
+      "count": 31
     },
     {
       "country": "Estados Unidos",
@@ -372834,6 +372834,2326 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2137",
+      "slug": "london-smp-junior-am",
+      "provider": "London SMP · Junior AM STEM",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+      "programme": "Proyectos STEM diurnos. El contenido depende de la semana elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-06-01",
+            "2027-06-04"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20261214",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Matemáticas y proyecto Musical House.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270215",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Luz, ilusiones ópticas y modelo de fibra óptica.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270330",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "London SMP · Junior AM STEM",
+            "price": "420 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270405",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-04-05",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-06",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-07",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-08",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-09",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270601",
+            "start": "2027-06-01",
+            "end": "2027-06-04",
+            "label": "London SMP · Junior AM STEM",
+            "price": "420 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-06-01",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-02",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-03",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-04",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270712",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270719",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-20",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-21",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-22",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-23",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270726",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-27",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-28",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-29",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-30",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270802",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "London SMP · Junior AM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-08-02",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-03",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-04",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-05",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-06",
+                "topic": "London SMP · Junior AM STEM",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "",
+        "label": "420–495 GBP por el turno completo.",
+        "included": "",
+        "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar curso escolar, admisión local y plaza en el equipo."
+        }
+      },
+      "editorial_reason": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos."
+      ],
+      "sources": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20261214-20261218-20261214"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270215-20270219-20270215"
+          ]
+        },
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270330-20270402-20270330"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270405-20270409-20270405"
+          ]
+        },
+        {
+          "start": "2027-06-01",
+          "end": "2027-06-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270601-20270604-20270601"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270719-20270723-20270719"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270726-20270730-20270726"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2137-20270802-20270806-20270802"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2138",
+      "slug": "london-smp-junior-pm",
+      "provider": "London SMP · Junior PM STEM",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+      "programme": "Proyectos STEM diurnos. El contenido depende de la semana elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-06-01",
+            "2027-06-04"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20261214",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Matemáticas y proyecto Musical House.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270215",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Luz, ilusiones ópticas y modelo de fibra óptica.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270330",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "London SMP · Junior PM STEM",
+            "price": "420 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270405",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-04-05",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-06",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-07",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-08",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-09",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270601",
+            "start": "2027-06-01",
+            "end": "2027-06-04",
+            "label": "London SMP · Junior PM STEM",
+            "price": "420 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-06-01",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-02",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-03",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-04",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270712",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270719",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-20",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-21",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-22",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-23",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270726",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-27",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-28",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-29",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-30",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270802",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "London SMP · Junior PM STEM",
+            "price": "495 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-08-02",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-03",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-04",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-05",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-06",
+                "topic": "London SMP · Junior PM STEM",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "",
+        "label": "420–495 GBP por el turno completo.",
+        "included": "",
+        "extras": "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar curso escolar, admisión local y plaza en el equipo."
+        }
+      },
+      "editorial_reason": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos."
+      ],
+      "sources": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20261214-20261218-20261214"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270215-20270219-20270215"
+          ]
+        },
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270330-20270402-20270330"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270405-20270409-20270405"
+          ]
+        },
+        {
+          "start": "2027-06-01",
+          "end": "2027-06-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270601-20270604-20270601"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270719-20270723-20270719"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270726-20270730-20270726"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2138-20270802-20270806-20270802"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2139",
+      "slug": "london-smp-senior",
+      "provider": "London SMP · Senior STEM",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "London",
+      "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+      "programme": "Proyectos STEM diurnos. El contenido depende de la semana elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-06-01",
+            "2027-06-04"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20261214",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Ecuaciones y robots caminantes.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-15",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-16",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-17",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2026-12-18",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology",
+              "robotics"
+            ]
+          },
+          {
+            "variant_key": "20270215",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "Invernadero inteligente y paradojas matemáticas.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-16",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-17",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-18",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-02-19",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270330",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "London SMP · Senior STEM",
+            "price": "540 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-03-31",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-01",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-02",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270405",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-04-05",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-06",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-07",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-08",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-04-09",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270601",
+            "start": "2027-06-01",
+            "end": "2027-06-04",
+            "label": "London SMP · Senior STEM",
+            "price": "540 GBP por 4 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Francis Holland School · London SW1W 8JF",
+            "venue": "Francis Holland School · London SW1W 8JF",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-06-01",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-02",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-03",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-06-04",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270712",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270719",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-20",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-21",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-22",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-23",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270726",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-27",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-28",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-29",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-07-30",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "20270802",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "London SMP · Senior STEM",
+            "price": "660 GBP por 5 días.",
+            "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "Queen’s Gate House · London SW7 5JS",
+            "venue": "Queen’s Gate House · London SW7 5JS",
+            "programme": "La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.",
+            "age": "Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.",
+            "entry": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+            "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+            "sessions": [
+              {
+                "date": "2027-08-02",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-03",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-04",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-05",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              },
+              {
+                "date": "2027-08-06",
+                "topic": "London SMP · Senior STEM",
+                "start_time": "10:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London"
+              }
+            ],
+            "questions": [
+              "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución."
+            ],
+            "catalog_themes": [
+              "science",
+              "mathematics",
+              "engineering",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "",
+        "label": "540–660 GBP por el turno completo.",
+        "included": "",
+        "extras": "Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar curso escolar, admisión local y plaza en el equipo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior."
+        }
+      },
+      "editorial_reason": "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.",
+        "Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos."
+      ],
+      "sources": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20261214-20261218-20261214"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270215-20270219-20270215"
+          ]
+        },
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270330-20270402-20270330"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270405-20270409-20270405"
+          ]
+        },
+        {
+          "start": "2027-06-01",
+          "end": "2027-06-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270601-20270604-20270601"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270719-20270723-20270719"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270726-20270730-20270726"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2139-20270802-20270806-20270802"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -378159,7 +380479,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 315,
+  "version": 316,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -391394,7 +393714,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2136,
+      "total_dossiers": 2139,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -415199,6 +417519,141 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20261214-20261218-20261214",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270215-20270219-20270215",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270330-20270402-20270330",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270405-20270409-20270405",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270601-20270604-20270601",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270719-20270723-20270719",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270726-20270730-20270726",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2137",
+      "event_id": "CP2137-20270802-20270806-20270802",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20261214-20261218-20261214",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270215-20270219-20270215",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270330-20270402-20270330",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270405-20270409-20270405",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270601-20270604-20270601",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270719-20270723-20270719",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270726-20270730-20270726",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2138",
+      "event_id": "CP2138-20270802-20270806-20270802",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20261214-20261218-20261214",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270215-20270219-20270215",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270330-20270402-20270330",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270405-20270409-20270405",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270601-20270604-20270601",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270719-20270723-20270719",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270726-20270730-20270726",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2139",
+      "event_id": "CP2139-20270802-20270806-20270802",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -420081,10 +422536,37 @@
     "CP2133-20261221-20270104-winter",
     "CP2134-20261221-20270104-winter",
     "CP2135-20270311-20270319-spring",
-    "CP2136-20270311-20270319-spring"
+    "CP2136-20270311-20270319-spring",
+    "CP2137-20261214-20261218-20261214",
+    "CP2137-20270215-20270219-20270215",
+    "CP2137-20270330-20270402-20270330",
+    "CP2137-20270405-20270409-20270405",
+    "CP2137-20270601-20270604-20270601",
+    "CP2137-20270712-20270716-20270712",
+    "CP2137-20270719-20270723-20270719",
+    "CP2137-20270726-20270730-20270726",
+    "CP2137-20270802-20270806-20270802",
+    "CP2138-20261214-20261218-20261214",
+    "CP2138-20270215-20270219-20270215",
+    "CP2138-20270330-20270402-20270330",
+    "CP2138-20270405-20270409-20270405",
+    "CP2138-20270601-20270604-20270601",
+    "CP2138-20270712-20270716-20270712",
+    "CP2138-20270719-20270723-20270719",
+    "CP2138-20270726-20270730-20270726",
+    "CP2138-20270802-20270806-20270802",
+    "CP2139-20261214-20261218-20261214",
+    "CP2139-20270215-20270219-20270215",
+    "CP2139-20270330-20270402-20270330",
+    "CP2139-20270405-20270409-20270405",
+    "CP2139-20270601-20270604-20270601",
+    "CP2139-20270712-20270716-20270712",
+    "CP2139-20270719-20270723-20270719",
+    "CP2139-20270726-20270730-20270726",
+    "CP2139-20270802-20270806-20270802"
   ],
   "integration": {
-    "generated_sessions": 4472,
+    "generated_sessions": 4499,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

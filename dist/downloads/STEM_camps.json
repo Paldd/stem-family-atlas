@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5366,
-      "holiday": 4851,
+      "records": 5397,
+      "holiday": 4878,
       "regular": 205,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -47938,6 +47938,234 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L895",
+      "title": "Centro Niemeyer · Taller de robótica · 2026-11-15",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Centro Niemeyer · Avilés",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–13 лет.",
+      "mat": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "osc": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "gear": "Сборка и программирование роботов.",
+      "language": "Описание и запись на испанском. Устный язык занятий уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "45 EUR в месяц. Материалы включены, отдельного взноса за регистрацию нет.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "note": "В расписании указано 11:00–14:00, а в описании длительность около 120 минут. Подтвердить фактический график.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "published_session",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L896",
+        "L897",
+        "L898"
+      ]
+    },
+    {
+      "id": "L896",
+      "title": "Centro Niemeyer · Taller de robótica · 2026-11-29",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Centro Niemeyer · Avilés",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–13 лет.",
+      "mat": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "osc": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "gear": "Сборка и программирование роботов.",
+      "language": "Описание и запись на испанском. Устный язык занятий уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "45 EUR в месяц. Материалы включены, отдельного взноса за регистрацию нет.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "note": "В расписании указано 11:00–14:00, а в описании длительность около 120 минут. Подтвердить фактический график.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "published_session",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L895",
+        "L897",
+        "L898"
+      ]
+    },
+    {
+      "id": "L897",
+      "title": "Centro Niemeyer · Taller de robótica · 2026-12-13",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Centro Niemeyer · Avilés",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–13 лет.",
+      "mat": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "osc": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "gear": "Сборка и программирование роботов.",
+      "language": "Описание и запись на испанском. Устный язык занятий уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "45 EUR в месяц. Материалы включены, отдельного взноса за регистрацию нет.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "note": "В расписании указано 11:00–14:00, а в описании длительность около 120 минут. Подтвердить фактический график.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "published_session",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L895",
+        "L896",
+        "L898"
+      ]
+    },
+    {
+      "id": "L898",
+      "title": "Centro Niemeyer · Taller de robótica · 2026-12-27",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Centro Niemeyer · Avilés",
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–13 лет.",
+      "mat": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "osc": "Условно. Возраст подходит. Проверить место, язык и условия приёма.",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "gear": "Сборка и программирование роботов.",
+      "language": "Описание и запись на испанском. Устный язык занятий уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "45 EUR в месяц. Материалы включены, отдельного взноса за регистрацию нет.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Мастерская уже идёт. Проверить свободное место и возможность присоединиться на оставшийся месяц.",
+      "note": "В расписании указано 11:00–14:00, а в описании длительность около 120 минут. Подтвердить фактический график.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "published_session",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "L895",
+        "L896",
+        "L897"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -445243,6 +445471,2935 @@
           "start_time": "09:00",
           "end_time": "16:00",
           "timezone": "America/Chicago"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20261214-20261218-20261214",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2026-12-14–2026-12-18",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Математика и проект Musical House.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-15",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270215-20270219-20270215",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-02-15–2027-02-19",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Свет, оптические иллюзии и модель с оптоволокном.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-16",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-17",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-18",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-19",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270330-20270402-20270330",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-03-30–2027-04-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 420 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-30",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-03-31",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-01",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-02",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270405-20270409-20270405",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-04-05–2027-04-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-04-05",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-06",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-07",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-08",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-09",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270601-20270604-20270601",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-06-01–2027-06-04",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-06-01",
+      "end": "2027-06-04",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 420 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-06-01",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-02",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-03",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-04",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270712-20270716-20270712",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-12",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-13",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-14",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-15",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-16",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270719-20270723-20270719",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-19",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-20",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-21",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-22",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-23",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270726-20270730-20270726",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-26",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-27",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-28",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-29",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-30",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2137-20270802-20270806-20270802",
+      "block": "Лагеря",
+      "title": "London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-am",
+      "camp_programme_id": "CP2137",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-08-02",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-03",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-04",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-05",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-06",
+          "topic": "London SMP · Junior AM STEM",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20261214-20261218-20261214",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2026-12-14–2026-12-18",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Математика и проект Musical House.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-15",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270215-20270219-20270215",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-02-15–2027-02-19",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Свет, оптические иллюзии и модель с оптоволокном.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-16",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-17",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-18",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-19",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270330-20270402-20270330",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-03-30–2027-04-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 420 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-30",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-03-31",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-01",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-02",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270405-20270409-20270405",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-04-05–2027-04-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-04-05",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-06",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-07",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-08",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-09",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270601-20270604-20270601",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-06-01–2027-06-04",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-06-01",
+      "end": "2027-06-04",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 420 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-06-01",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-02",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-03",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-04",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270712-20270716-20270712",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-12",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-13",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-14",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-15",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-16",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270719-20270723-20270719",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-19",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-20",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-21",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-22",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-23",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270726-20270730-20270726",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-26",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-27",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-28",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-29",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-30",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2138-20270802-20270806-20270802",
+      "block": "Лагеря",
+      "title": "London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Reception – Year 3. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 495 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит только при подтверждённом эквиваленте класса до Year 3 включительно. Оскар: Условно. Проверить школьный класс, местный допуск и место в команде. Доплаты: По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-junior-pm",
+      "camp_programme_id": "CP2138",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-08-02",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-03",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-04",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-05",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-06",
+          "topic": "London SMP · Junior PM STEM",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20261214-20261218-20261214",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2026-12-14–2026-12-18",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Уравнения и ходячие роботы.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2026/27 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology",
+        "robotics"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-15",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-16",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-17",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2026-12-18",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270215-20270219-20270215",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-02-15–2027-02-19",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Умная теплица и математические парадоксы.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-16",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-17",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-18",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-02-19",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270330-20270402-20270330",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-03-30–2027-04-02",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 540 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-03-30",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-03-31",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-01",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-02",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270405-20270409-20270405",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-04-05–2027-04-09",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-04-05",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-06",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-07",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-08",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-04-09",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270601-20270604-20270601",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-06-01–2027-06-04",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Francis Holland School · London SW1W 8JF",
+      "start": "2027-06-01",
+      "end": "2027-06-04",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 540 GBP за 4 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-06-01",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-02",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-03",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-06-04",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270712-20270716-20270712",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-12–2027-07-16",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-12",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-13",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-14",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-15",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-16",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270719-20270723-20270719",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-19–2027-07-23",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-19",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-20",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-21",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-22",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-23",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270726-20270730-20270726",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-26–2027-07-30",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-07-26",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-27",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-28",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-29",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-07-30",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2139-20270802-20270806-20270802",
+      "block": "Лагеря",
+      "title": "London SMP · Senior STEM · London SMP · Senior STEM · 2027-08-02–2027-08-06",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "city": "Queen’s Gate House · London SW7 5JS",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Years 3–11. Согласовать эквивалент класса при международной заявке.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "gear": "Школа объявила STEM-смену. Тематику конкретной недели уточнить.",
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "cost": "2027 · 660 GBP за 5 дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Заявка на всю смену. Возрастная группа определяется школьным классом. Доступность, язык и условия возврата уточнить.",
+      "source": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+      "references": [
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/holidaycamps",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.londonsmp.co.uk/holiday-camps/index",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Проверить школьный класс, местный допуск и место в команде. Оскар: Условно только при зачислении в эквивалент Year 3 или выше. Сначала рассмотреть Junior. Доплаты: Олимпиадная математика с 09:00 или шахматы с 15:00. Каждое дополнительное занятие 25 GBP. По правилам школы скидка 10% на второго и следующих детей. Уточнить порядок применения скидки к выбранным группам. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "GBR"
+      ],
+      "themes": [
+        "science",
+        "mathematics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "london-smp-senior",
+      "camp_programme_id": "CP2139",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-08-02",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-03",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-04",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-05",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
+        },
+        {
+          "date": "2027-08-06",
+          "topic": "London SMP · Senior STEM",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "timezone": "Europe/London"
         }
       ],
       "delivery_mode": "in_person",

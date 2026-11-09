@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-08. 2136 fichas en 137 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-08. 2139 fichas en 137 países. Las fechas de comprobación de fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -168455,6 +168455,978 @@ Estados Unidos · The Durham Museum · Omaha, Nebraska
 - [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-All-7-Days-3rd-5th) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://12565.blackbaudhosting.com/12565/Spring-Break-Camp-2027-LEGO-Camp-Day-1-March-11-3rd-5th) · 2026-11-08
+
+## CP2137 · London SMP · Junior AM STEM
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Proyectos STEM diurnos. El contenido depende de la semana elegida.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+**Precio / año:** 2027 · 420–495 GBP por el turno completo.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido.
+
+**Oscar:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Por qué figura en la selección:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+### Antes de solicitar plaza
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** Matemáticas y proyecto Musical House.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2026-12-14 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2026-12-15 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2026-12-16 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2026-12-17 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2026-12-18 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** Luz, ilusiones ópticas y modelo de fibra óptica.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-02-15 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-02-16 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-02-17 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-02-18 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-02-19 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 420 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-03-30 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-03-31 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-01 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-02 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-04-05 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-06 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-07 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-08 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-04-09 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-06-01 — 2027-06-04
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 420 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-06-01 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-06-02 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-06-03 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-06-04 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-12 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-13 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-14 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-15 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-16 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-19 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-20 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-21 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-22 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-23 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-26 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-27 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-28 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-29 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-07-30 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior AM STEM
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-08-02 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-08-03 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-08-04 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-08-05 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+- 2027-08-06 · 09:00–12:00 · Europe/London · London SMP · Junior AM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/holidaycamps) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/index) · 2026-11-08
+
+## CP2138 · London SMP · Junior PM STEM
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Proyectos STEM diurnos. El contenido depende de la semana elegida.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+**Precio / año:** 2027 · 420–495 GBP por el turno completo.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido.
+
+**Oscar:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Por qué figura en la selección:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+### Antes de solicitar plaza
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** Matemáticas y proyecto Musical House.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2026-12-14 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2026-12-15 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2026-12-16 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2026-12-17 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2026-12-18 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** Luz, ilusiones ópticas y modelo de fibra óptica.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-02-15 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-02-16 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-02-17 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-02-18 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-02-19 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 420 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-03-30 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-03-31 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-01 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-02 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-04-05 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-06 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-07 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-08 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-04-09 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-06-01 — 2027-06-04
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 420 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-06-01 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-06-02 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-06-03 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-06-04 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-12 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-13 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-14 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-15 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-16 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-19 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-20 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-21 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-22 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-23 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-26 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-27 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-28 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-29 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-07-30 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Junior PM STEM
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 495 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-08-02 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-08-03 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-08-04 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-08-05 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+- 2027-08-06 · 13:00–16:00 · Europe/London · London SMP · Junior PM STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/holidaycamps) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/index) · 2026-11-08
+
+## CP2139 · London SMP · Senior STEM
+
+Reino Unido · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Proyectos STEM diurnos. El contenido depende de la semana elegida.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+**Precio / año:** 2027 · 540–660 GBP por el turno completo.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional. Confirmar curso escolar, admisión local y plaza en el equipo.
+
+**Oscar:** Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior.
+
+**Por qué figura en la selección:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+### Antes de solicitar plaza
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** Ecuaciones y robots caminantes.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2026-12-14 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2026-12-15 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2026-12-16 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2026-12-17 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2026-12-18 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** Invernadero inteligente y paradojas matemáticas.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-02-15 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-02-16 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-02-17 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-02-18 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-02-19 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-03-30 — 2027-04-02
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 540 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-03-30 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-03-31 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-01 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-02 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-04-05 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-06 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-07 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-08 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-04-09 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-06-01 — 2027-06-04
+
+**lugar:** Francis Holland School · London SW1W 8JF
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 540 GBP por 4 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-06-01 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-06-02 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-06-03 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-06-04 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-12 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-13 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-14 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-15 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-16 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-19 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-20 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-21 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-22 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-23 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-07-26 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-27 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-28 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-29 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-07-30 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### London SMP · Senior STEM
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Queen’s Gate House · London SW7 5JS
+
+**edad:** Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+
+**Precio:** 660 GBP por 5 días.
+
+**Programa:** La escuela anunció un turno STEM. Confirmar la temática de la semana elegida.
+
+**Suplementos:** Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos.
+
+**condiciones de participación:** Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+- 2027-08-02 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-08-03 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-08-04 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-08-05 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+- 2027-08-06 · 10:00–15:00 · Europe/London · London SMP · Senior STEM
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+
+[fuente](https://www.londonsmp.co.uk/holiday-camps/holidaycamps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/holidaycamps) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.londonsmp.co.uk/holiday-camps/index) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

@@ -6810,7 +6810,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E465@family-stem.local
-DTSTAMP:20261108T000957Z
+DTSTAMP:20261109T021558Z
 SUMMARY:[Выставка · семейный вариант] Coolest Pro
  jects Ireland 2027 · Family visit
 DTSTART;VALUE=DATE:20270424
@@ -6828,7 +6828,7 @@ DESCRIPTION:Идея посещения\, не принятая реги
  ты. Тот же проект можно подать на междун
  ародный онлайн-показ по его правилам. К
  омпании: Программа в источнике организ
- атора.. Источник проверен 2026-11-07.
+ атора.. Источник проверен 2026-11-08.
 LOCATION:Explorium · Dublin\, Ирландия
 URL:https://online.coolestprojects.org/cp-ireland-2027
 STATUS:TENTATIVE
@@ -11523,6 +11523,53 @@ DESCRIPTION:Идея посещения\, не принятая реги
 LOCATION:Burnsville High School · Burnsville\, Соединенные Ш
  таты Америки
 URL:https://hightechkids.org/fll-overview/tournament-schedule/fll-state/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E703@family-stem.local
+DTSTAMP:20261109T021558Z
+SUMMARY:[Выставка · семейный вариант] Foyle Scien
+ ce Showcase 2027
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Публичные демонстрации робото
+ в\, эксперименты и интерактивные экспон
+ аты. Взрослый вход: Публичный вход бесп
+ латный.. Организатор показывает беспла
+ тный билет. Проверить остаток мест и ра
+ списание перед поездкой. Компании: Сред
+ и участников W5 и Intelligent Systems Research Centre Уни
+ верситета Ольстера.. Источник проверен 
+ 2026-11-08.
+LOCATION:Foyle Arena · Derry/Londonderry\, Соединенное Кор
+ олевство Великобритании и Северной Ирл
+ андии
+URL:https://nisciencefestival.com/tour-event/foyle-science-showcase-2027/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E704@family-stem.local
+DTSTAMP:20261109T021558Z
+SUMMARY:[Выставка · допуск детей уточнить] Ki
+ nia Creative Technology Week 2027
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270425
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Детский допуск и возраст уточн
+ ить для каждой площадки. Взрослый вход: 
+ Доступ для взрослых зависит от выбранн
+ ого события и билета.. Отдельные дни для
+  школьных и молодёжных групп. Для семей
+ ного визита смотрите связанную карточк
+ у Coolest Projects. Компании: Участники и экспо
+ наты зависят от дня.. Источник проверен 
+ 2026-11-08.
+LOCATION:Explorium / National Basketball Arena · Dublin\, Ирланди
+ я
+URL:https://kinia.ie/creative-technology-week/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

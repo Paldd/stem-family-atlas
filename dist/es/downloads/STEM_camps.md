@@ -13094,6 +13094,70 @@ Limitaciones: La inscripción para el verano de 2027 se anuncia para el 1 de feb
 Fuente: https://museumofaviation.org/educate/camps-stem-labs/summer-camps/
 Se ha comprobado: 2026-11-08
 
+### L895 · Centro Niemeyer · Taller de robótica · 2026-11-15
+
+lugar: España · Centro Niemeyer · Avilés
+Fecha: 2026-11-15 — 2026-11-15
+edad: 6–13 años.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+formato: workshop
+Idioma: Descripción e inscripción en español. Confirmar el idioma hablado de las sesiones.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 45 EUR al mes. Materiales incluidos, sin matrícula aparte.
+Acceso: El taller ya está en curso. Confirmar plaza y si se puede incorporar durante el mes restante.
+Limitaciones: El horario indica 11:00–14:00 y la descripción da una duración de unos 120 minutos. Confirmar el horario real.
+Fuente: https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/
+Se ha comprobado: 2026-11-08
+
+### L896 · Centro Niemeyer · Taller de robótica · 2026-11-29
+
+lugar: España · Centro Niemeyer · Avilés
+Fecha: 2026-11-29 — 2026-11-29
+edad: 6–13 años.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+formato: workshop
+Idioma: Descripción e inscripción en español. Confirmar el idioma hablado de las sesiones.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 45 EUR al mes. Materiales incluidos, sin matrícula aparte.
+Acceso: El taller ya está en curso. Confirmar plaza y si se puede incorporar durante el mes restante.
+Limitaciones: El horario indica 11:00–14:00 y la descripción da una duración de unos 120 minutos. Confirmar el horario real.
+Fuente: https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/
+Se ha comprobado: 2026-11-08
+
+### L897 · Centro Niemeyer · Taller de robótica · 2026-12-13
+
+lugar: España · Centro Niemeyer · Avilés
+Fecha: 2026-12-13 — 2026-12-13
+edad: 6–13 años.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+formato: workshop
+Idioma: Descripción e inscripción en español. Confirmar el idioma hablado de las sesiones.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 45 EUR al mes. Materiales incluidos, sin matrícula aparte.
+Acceso: El taller ya está en curso. Confirmar plaza y si se puede incorporar durante el mes restante.
+Limitaciones: El horario indica 11:00–14:00 y la descripción da una duración de unos 120 minutos. Confirmar el horario real.
+Fuente: https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/
+Se ha comprobado: 2026-11-08
+
+### L898 · Centro Niemeyer · Taller de robótica · 2026-12-27
+
+lugar: España · Centro Niemeyer · Avilés
+Fecha: 2026-12-27 - 2026-12-27
+edad: 6–13 años.
+Matvey: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+Oscar: Condicional. Encaja en la franja de edad. Confirmar plaza, idioma y admisión.
+formato: workshop
+Idioma: Descripción e inscripción en español. Confirmar el idioma hablado de las sesiones.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 45 EUR al mes. Materiales incluidos, sin matrícula aparte.
+Acceso: El taller ya está en curso. Confirmar plaza y si se puede incorporar durante el mes restante.
+Limitaciones: El horario indica 11:00–14:00 y la descripción da una duración de unos 120 minutos. Confirmar el horario real.
+Fuente: https://www.centroniemeyer.es/events/event/taller-de-robtica-octubre-diciembre-2026/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -84644,6 +84708,438 @@ Precio: 2027 · 55 USD por un día o 330 USD por el paquete de 7 días sin membr
 Acceso: Las fichas de inscripción indican de 09:00 a 16:00 incluso para un día. La tabla general señala hasta las 12:00 para un solo día. Confirmar horario del billete elegido.
 Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Confirmar grupo escolar. Para el menor se indica un turno distinto. Suplementos: Cuidado ampliado por separado, 15 USD por día o 90 USD por paquete según la página de inscripción. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://durhammuseum.org/camps/
+Se ha comprobado: 2026-11-08
+
+### CP2137-20261214-20261218-20261214 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2026-12-14 - 2026-12-18
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270215-20270219-20270215 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-02-15 国 2027-02-19
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270330-20270402-20270330 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-03-30–2027-04-02
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-03-30 - 2027-04-02
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 420 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270405-20270409-20270405 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-04-05 — 2027-04-09
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270601-20270604-20270601 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-06-01–2027-06-04
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-06-01 — 2027-06-04
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 420 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270712-20270716-20270712 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-12 — 2027-07-16
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270719-20270723-20270719 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-19 国 2027-07-23
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270726-20270730-20270726 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-26 Å 2027-07-30
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2137-20270802-20270806-20270802 · London SMP · Junior AM STEM · London SMP · Junior AM STEM · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-08-02 - 2027-08-06
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20261214-20261218-20261214 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2026-12-14 - 2026-12-18
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270215-20270219-20270215 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-02-15 国 2027-02-19
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270330-20270402-20270330 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-03-30–2027-04-02
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-03-30 - 2027-04-02
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 420 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270405-20270409-20270405 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-04-05 — 2027-04-09
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270601-20270604-20270601 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-06-01–2027-06-04
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-06-01 — 2027-06-04
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 420 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270712-20270716-20270712 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-12 — 2027-07-16
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270719-20270723-20270719 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-19 国 2027-07-23
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270726-20270730-20270726 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-26 Å 2027-07-30
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2138-20270802-20270806-20270802 · London SMP · Junior PM STEM · London SMP · Junior PM STEM · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-08-02 - 2027-08-06
+edad: De Reception a Year 3. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Encaja solo si se confirma una equivalencia de curso hasta Year 3 incluido. Oscar: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Suplementos: Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20261214-20261218-20261214 · London SMP · Senior STEM · London SMP · Senior STEM · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2026-12-14 - 2026-12-18
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270215-20270219-20270215 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-02-15 国 2027-02-19
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270330-20270402-20270330 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-03-30–2027-04-02
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-03-30 - 2027-04-02
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 540 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270405-20270409-20270405 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-04-05 — 2027-04-09
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270601-20270604-20270601 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-06-01–2027-06-04
+
+lugar: Reino Unido · Francis Holland School · London SW1W 8JF
+Fecha: 2027-06-01 — 2027-06-04
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 540 GBP por 4 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270712-20270716-20270712 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-12–2027-07-16
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-12 — 2027-07-16
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270719-20270723-20270719 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-19–2027-07-23
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-19 国 2027-07-23
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270726-20270730-20270726 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-07-26–2027-07-30
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
+Se ha comprobado: 2026-11-08
+
+### CP2139-20270802-20270806-20270802 · London SMP · Senior STEM · London SMP · Senior STEM · 2027-08-02–2027-08-06
+
+lugar: Reino Unido · Queen’s Gate House · London SW7 5JS
+Fecha: 2027-08-02 - 2027-08-06
+edad: Years 3–11. Acordar la equivalencia del curso para una solicitud internacional.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 660 GBP por 5 días. · suplementos y condiciones en el dossier
+Acceso: Inscripción para el turno completo. El grupo depende del curso escolar. Confirmar plazas, idioma y condiciones de devolución.
+Limitaciones: Matvey: Condicional. Confirmar curso escolar, admisión local y plaza en el equipo. Oscar: Condicional solo si está en un curso equivalente a Year 3 o superior. Considerar primero Junior. Suplementos: Matemáticas de olimpiada desde las 09:00 o ajedrez desde las 15:00. Cada sesión adicional cuesta 25 GBP. Según las reglas de la escuela, hay un descuento del 10% para el segundo hijo y los siguientes. Confirmar cómo se aplica a los grupos elegidos. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.londonsmp.co.uk/holiday-camps/holidaycamps
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

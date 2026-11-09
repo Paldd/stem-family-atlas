@@ -104,7 +104,9 @@ page=page.replace('<html lang="ru">','<html lang="es">').replace('aria-label="La
 page=page.replace('data-atlas-language="ru" href="./" lang="ru" aria-current="page"','data-atlas-language="ru" href="../" lang="ru" aria-current="false"')
 page=page.replace('data-atlas-language="es" href="es/" lang="es" aria-current="false"','data-atlas-language="es" href="./" lang="es" aria-current="page"')
 page=page.replace('<script src="assets/app.js', f'<script src="assets/fit-text.js?v={UI_VERSION}"></script>\n  <script src="assets/app.js')
-page=re.sub(r'href="downloads/[^"<>]+\.xlsx"','href="downloads/STEM_atlas_es.xlsx"',page)
+# Keep the original audit link in the downloads section.
+page=page.replace('<a class="quiet-link" href="downloads/STEM_семейный_календарь_2026-2027.xlsx"',
+                  '<a class="quiet-link" href="downloads/STEM_atlas_es.xlsx"',1)
 page=page.replace('</footer>','<p class="family-note">Edición en español de los materiales existentes: traducción automática con revisión de términos principales. La traducción no actualiza la fecha de verificación de las fuentes. Para los requisitos oficiales, consulte los enlaces del organizador.</p></footer>')
 (ES/'index.html').write_text(page)
 

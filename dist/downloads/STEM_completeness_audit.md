@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10980; соревнований: 4912; событий: 702; лагерей / программ: 5366. Профилей лиг и программ: 312. Карточек крупных и профильных выставок: 602 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11072; соревнований: 4971; событий: 704; лагерей / программ: 5397. Профилей лиг и программ: 314. Карточек крупных и профильных выставок: 604 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2030 | 154 | 1388 |
 | Южная Америка | 15 | 452 | 52 | 235 |
-| Европа | 55 | 655 | 148 | 1540 |
+| Европа | 55 | 714 | 150 | 1571 |
 | Африка | 60 | 248 | 43 | 140 |
 | Азия | 50 | 1193 | 171 | 1712 |
 | Океания | 27 | 167 | 32 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4912 карточек соревнований (16.6%). Это явный перекос охвата.
+VEX: 815 из 4971 карточек соревнований (16.4%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -338,6 +338,8 @@ VEX: 815 из 4912 карточек соревнований (16.6%). Это я�
 - **Zone01 Robotics / WRO Canada · 2027**: 23 карточек, 17 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.zone01.ca/index.php/en-ca/events/regionals-2027
 - **FIRST LEGO League Minnesota · BIOGLOW 2026/27**: 21 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://hightechkids.org/fll-explore-overview/fll-explore-festival-schedule/festival-schedule-in-person-events/
 - **FIRST LEGO League East Texas · BIOGLOW 2026/27**: 11 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kidsroboticfoundation.org/fll/schedule
+- **FIRST LEGO League UK · IET BIOGLOW 2026/27**: 55 карточек, 40 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://education.theiet.org/first-lego-league-programmes/challenge/find-a-tournament-near-you
+- **FIRST LEGO League Ireland · Creative Hut BIOGLOW 2026/27**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://fll.ie/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -982,6 +984,8 @@ VEX: 815 из 4912 карточек соревнований (16.6%). Это я�
 - **AI Summit Seoul & Expo 2027 · Exhibition Hall B** — Республика Корея; 2027-08-11 – 2027-08-13. Детский допуск уточнить. https://www.aisummit.co.kr/expo-visitor-2027
 - **Industrial AI EXPO 2027 · KINTEX** — Республика Корея; 2027-10-20 – 2027-10-22. Детский допуск уточнить. https://www.industrialaiexpo.or.kr/Contents.asp?LoadPage=Overview_2026
 - **FLL Minnesota · Challenge State Championship · Public Viewing** — Соединенные Штаты Америки; 2027-02-14. Со взрослым; условия взрослого входа отдельно. https://hightechkids.org/fll-overview/tournament-schedule/fll-state/
+- **Foyle Science Showcase 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-02-20. Со взрослым; условия взрослого входа отдельно. https://nisciencefestival.com/tour-event/foyle-science-showcase-2027/
+- **Kinia Creative Technology Week 2027** — Ирландия; 2027-04-14 – 2027-04-24. Детский допуск уточнить. https://kinia.ie/creative-technology-week/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

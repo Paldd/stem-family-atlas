@@ -75,9 +75,13 @@ class Page(HTMLParser):
             assert target.is_file(),value
 # Original page IDs are the inventory; its links have a different relative base.
 ru_ids=set(re.findall(r'\bid="([^"]+)"',(DIST/'index.html').read_text()))
-page=Page();page.feed((ES/'index.html').read_text())
+es_html=(ES/'index.html').read_text()
+page=Page();page.feed(es_html)
 assert page.lang=='es' and not page.text,repr(page.text)
 assert ru_ids==page.ids,'A section or control was dropped'
+assert re.findall(r'href="downloads/([^"]+\.xlsx)"',es_html)==[
+    'STEM_atlas_es.xlsx','STEM_семейный_календарь_2026-2027.xlsx'
+], 'The current atlas and original audit must have distinct Excel links'
 
 out=ES/'downloads'
 for kind in ['json','sqlite']:
