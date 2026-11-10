@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 376,
+    "prepared_ui_version": 377,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 375,
-    "previous_verified_commit": "7a32d23846deb56f895cf6d3f3d9379891d283c2",
-    "previous_working_ui_version": 375
+    "previous_verified_ui_version": 376,
+    "previous_verified_commit": "4eb35d720fdbf2d60cb386a0cafe43eb62a64043",
+    "previous_working_ui_version": 376
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41039,6 +41039,111 @@
         ]
       ],
       "future_labs_africa": "The Future Labs page says alongside AATF but AATF's own page announces 6–8 July and lists 6–9 July in its footer. The existing E609 record preserves the July discrepancy. Do not copy dates or admission rules across brands."
+    }
+  },
+  "science_hour_and_family_tech_v377": {
+    "version": 377,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 376,
+      "commit": "4eb35d720fdbf2d60cb386a0cafe43eb62a64043",
+      "workflow": 42829685601
+    },
+    "taiwan": {
+      "record_ids": [
+        "L1008",
+        "L1009",
+        "L1010",
+        "L1011",
+        "L1012",
+        "L1013",
+        "L1014",
+        "L1015",
+        "L1016",
+        "L1017"
+      ],
+      "dossier_ids": [
+        "CP2456",
+        "CP2457",
+        "CP2458",
+        "CP2459",
+        "CP2460",
+        "CP2461",
+        "CP2462",
+        "CP2463",
+        "CP2464",
+        "CP2465"
+      ],
+      "english_instruction": true,
+      "grade_one_options": 7,
+      "group_minimum": 10,
+      "days_notice": 14,
+      "fixed_dates": false,
+      "individual_booking_unconfirmed": true
+    },
+    "peru": {
+      "dossier_id": "CP2466",
+      "published_programme_window": [
+        "2027-01-04",
+        "2027-02-18"
+      ],
+      "calculated_dates": 14,
+      "first_date": "2027-01-05",
+      "last_date": "2027-02-18",
+      "spanish_materials_only": true
+    },
+    "indonesia": {
+      "robotics_application": "C5561",
+      "robotics_final": "C5562",
+      "project_tracks": [
+        "C5563",
+        "C5564"
+      ],
+      "robotics_grades": [
+        1,
+        3
+      ],
+      "project_lower_grade_conflict": [
+        4,
+        5
+      ],
+      "foreign_school_eligibility_unconfirmed": true
+    },
+    "exhibitions": {
+      "tanzania": "E854",
+      "canada": "E855"
+    },
+    "previously_catalogued": {
+      "costa_rica": [
+        "CP1124",
+        "CP1125",
+        "CP1126",
+        "CP1127"
+      ],
+      "panama": [
+        "C008"
+      ],
+      "japan": [
+        "E280",
+        "C2960"
+      ],
+      "ghana": [
+        "C3224",
+        "C3225",
+        "C3226",
+        "C3227",
+        "C3228",
+        "C3229",
+        "C3230",
+        "C3231"
+      ]
+    },
+    "source_serialization": {
+      "old_bytes": 98218152,
+      "lossless_prototype_bytes": 91919960,
+      "one_line_per_event_dossier_and_link": true
     }
   }
 }

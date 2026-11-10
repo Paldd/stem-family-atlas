@@ -14902,6 +14902,166 @@ Restricciones: Confirme el curso escolar, las plazas para alumnado externo, las 
 Fuente: https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/spanish-summer-camp/
 Verificado: 2026-11-10
 
+### L1008 · NTSEC Science Hour · Homemade Lotion
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1009 · NTSEC Science Hour · Soap Palette
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1010 · NTSEC Science Hour · Magic Camera
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1011 · NTSEC Science Hour · Sun Prints! (Cyanotype)
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1012 · NTSEC Science Hour · Air Horn
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1013 · NTSEC Science Hour · Floating Snowman
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1014 · NTSEC Science Hour · Invisible Monsters
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 1–6.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1015 · NTSEC Science Hour · Shining Butterfly
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 3–6.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1016 · NTSEC Science Hour · Balloon Science
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 3–7.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1017 · NTSEC Science Hour · The Hidden World Under the Microscope
+
+Lugar: Taiwán · National Taiwan Science Education Center · Taipei
+Fecha: 120 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: 6.º–8.º grado.
+Matvey: No, si el curso actual es inferior al nivel publicado.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Formato: holiday_workshop
+Idioma: El centro indica expresamente enseñanza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: TWD 600 por persona en grupos de 10–19. TWD 550 por persona desde 20. Consulte la tarifa individual.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -95700,6 +95860,22 @@ Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en l
 Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
 Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
 Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2466-20270105-20270218 · Comunidad Arcoíris · Cool Camp · Cool Camp · 2027-01-05–2027-02-18
+
+Lugar: Perú · Comunidad Arcoíris · Av. Coronel Juan Valer Lt. 3 · Punta Hermosa · Lima
+Fecha: 2027-01-05 — 2027-02-18
+Edad: De 6–8 años en el grupo Cool Camp.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en español. Confirme el idioma de las instrucciones en el grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · No se publicó el coste del grupo. Solicite tarifa y conceptos incluidos. · suplementos y condiciones en la ficha
+Acceso: El organizador acepta preinscripciones. Confirme plaza, edad, calendario, idioma y precio.
+Restricciones: Matvey: No. La edad supera el intervalo de 6–8. Oscar: La edad encaja en el intervalo anunciado. Hay que confirmar plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

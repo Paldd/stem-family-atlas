@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12469. Competiciones: 5559. Eventos: 853. Campamentos o programas: 6057. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 747. Se cuentan ediciones y sedes.
+Fichas en la base: 12486. Competiciones: 5563. Eventos: 855. Campamentos o programas: 6068. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 749. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2248 | 192 | 1490 |
-| América del Sur | 15 | 505 | 62 | 292 |
+| América del Norte | 41 | 2248 | 193 | 1490 |
+| América del Sur | 15 | 505 | 62 | 293 |
 | Europa | 55 | 796 | 182 | 1799 |
-| África | 61 | 287 | 50 | 156 |
-| Asia | 51 | 1294 | 214 | 1889 |
+| África | 61 | 287 | 51 | 156 |
+| Asia | 51 | 1298 | 214 | 1899 |
 | Oceanía | 27 | 185 | 45 | 416 |
 
 Fichas interregionales o globales sin continente único: 266. América del Norte incluye América Central y el Caribe. Los recuentos reflejan el inventario de la base.
 
-VEX: 821 de 5559 fichas de competiciones (14.8%). Es un desequilibrio de cobertura.
+VEX: 821 de 5563 fichas de competiciones (14.8%). Es un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -1188,6 +1188,8 @@ VEX: 821 de 5559 fichas de competiciones (14.8%). Es un desequilibrio de cobertu
 - **Banlieue Smart Days 2026 · Forum & Exhibition** — Senegal; 2026-12-12 – 2026-12-13. Confirme el acceso infantil. https://www.banlieusmartdays.com/
 - **Banlieue Smart Days 2026 · Ateliers d’initiation** — Senegal; 2026-12-12. Confirme el acceso infantil. https://www.banlieusmartdays.com/
 - **Drone Ignite Africa Summit 2027** — Ghana; 2027-04-01 – 2027-04-02. Confirme el acceso infantil. https://www.droneigniteafrica.com/
+- **Kids Tech Festival 2027 · Dar es Salaam** — República Unida de Tanzania; 2027-03-24 – 2027-03-25. Con un adulto. Consulte las condiciones de acceso. https://kidstechfestival.co.tz/
+- **Science World · The Robot Zoo** — Canadá; 2026-10-09 – 2027-04-04. Con un adulto. Consulte las condiciones de acceso. https://www.scienceworld.ca/exhibition/robot-zoo/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

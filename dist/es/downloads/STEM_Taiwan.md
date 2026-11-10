@@ -1120,6 +1120,136 @@ Restricciones: El reglamento de 2027 indica la evaluación presencial y la premi
 Fuente: https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8
 Verificado: 2026-11-10
 
+### L1008 · NTSEC Science Hour · Homemade Lotion
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1009 · NTSEC Science Hour · Soap Palette
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1010 · NTSEC Science Hour · Magic Camera
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1011 · NTSEC Science Hour · Sun Prints! (Cyanotype)
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1012 · NTSEC Science Hour · Air Horn
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1013 · NTSEC Science Hour · Floating Snowman
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Desde el curso 1.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1014 · NTSEC Science Hour · Invisible Monsters
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 1–6.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1015 · NTSEC Science Hour · Shining Butterfly
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 3–6.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1016 · NTSEC Science Hour · Balloon Science
+
+Fecha: 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: Cursos 3–7.
+Matvey: Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### L1017 · NTSEC Science Hour · The Hidden World Under the Microscope
+
+Fecha: 120 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+Edad: 6.º–8.º grado.
+Matvey: No, si el curso actual es inferior al nivel publicado.
+Oscar: No, si el curso actual es inferior al nivel publicado.
+Idioma: El centro indica expresamente enseñanza en inglés.
+Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+Coste: TWD 600 por persona en grupos de 10–19. TWD 550 por persona desde 20. Consulte la tarifa individual.
+Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
+Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

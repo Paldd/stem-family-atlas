@@ -30,19 +30,19 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2455,
+    "dossiers": 2466,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 707,
+      "published_2027": 708,
       "partial_2027": 182,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
-      "regular_programme": 23,
+      "regular_programme": 33,
       "regular_2026_27": 33,
       "historical_2026_next_season_unknown": 4,
       "announced_dates_programme_pending": 5,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3408
+    "source_urls": 3412
   },
   "countries": [
     {
@@ -424,7 +424,7 @@
     },
     {
       "country": "Перу",
-      "count": 89
+      "count": 90
     },
     {
       "country": "Польша",
@@ -500,7 +500,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 206
+      "count": 216
     },
     {
       "country": "Тринидад и Тобаго",
@@ -437520,6 +437520,1079 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2456",
+      "slug": "ntsec-science-hour-lotion",
+      "provider": "NTSEC Science Hour · Homemade Lotion",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Эмульсии и изготовление лосьона.",
+      "themes": [
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Эмульсии и изготовление лосьона.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Эмульсии и изготовление лосьона.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1008"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2457",
+      "slug": "ntsec-science-hour-soap",
+      "provider": "NTSEC Science Hour · Soap Palette",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Цвет и омыление в практической работе с мылом.",
+      "themes": [
+        "science",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Цвет и омыление в практической работе с мылом.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Цвет и омыление в практической работе с мылом.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1009"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2458",
+      "slug": "ntsec-science-hour-camera",
+      "provider": "NTSEC Science Hour · Magic Camera",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Оптика линз и изготовление собственной камеры.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Оптика линз и изготовление собственной камеры.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Оптика линз и изготовление собственной камеры.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1010"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2459",
+      "slug": "ntsec-science-hour-cyanotype",
+      "provider": "NTSEC Science Hour · Sun Prints! (Cyanotype)",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Цианотипия и отпечатки с помощью света.",
+      "themes": [
+        "science",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Цианотипия и отпечатки с помощью света.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Цианотипия и отпечатки с помощью света.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1011"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2460",
+      "slug": "ntsec-science-hour-air-horn",
+      "provider": "NTSEC Science Hour · Air Horn",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Колебания и звук. Сборка и проверка воздушного гудка.",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Колебания и звук. Сборка и проверка воздушного гудка.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Колебания и звук. Сборка и проверка воздушного гудка.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1012"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2461",
+      "slug": "ntsec-science-hour-magnetic-snowman",
+      "provider": "NTSEC Science Hour · Floating Snowman",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "С 1-го класса.",
+      "programme": "Магнитные материалы и полюса. Модель на магнитной дорожке.",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Магнитные материалы и полюса. Модель на магнитной дорожке.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Магнитные материалы и полюса. Модель на магнитной дорожке.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1013"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2462",
+      "slug": "ntsec-science-hour-invisible-monsters",
+      "provider": "NTSEC Science Hour · Invisible Monsters",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "1–6 классы.",
+      "programme": "Оптические иллюзии и эффект Тиндаля.",
+      "themes": [
+        "science",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Оптические иллюзии и эффект Тиндаля.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        }
+      },
+      "editorial_reason": "Оптические иллюзии и эффект Тиндаля.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1014"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2463",
+      "slug": "ntsec-science-hour-shining-butterfly",
+      "provider": "NTSEC Science Hour · Shining Butterfly",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "3–6 классы.",
+      "programme": "Электрические цепи, цвет и оформление модели бабочки.",
+      "themes": [
+        "electronics",
+        "science",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Электрические цепи, цвет и оформление модели бабочки.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет, если текущий класс ниже опубликованной ступени."
+        }
+      },
+      "editorial_reason": "Электрические цепи, цвет и оформление модели бабочки.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1015"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2464",
+      "slug": "ntsec-science-hour-balloon-science",
+      "provider": "NTSEC Science Hour · Balloon Science",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "3–7 классы.",
+      "programme": "Упругость, механика и звук на опытах с воздушными шарами.",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "60 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 350 за человека в группе 10–19. TWD 300 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Упругость, механика и звук на опытах с воздушными шарами.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сопоставить фактический класс с диапазоном центра и подтвердить группу."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет, если текущий класс ниже опубликованной ступени."
+        }
+      },
+      "editorial_reason": "Упругость, механика и звук на опытах с воздушными шарами.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1016"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2465",
+      "slug": "ntsec-science-hour-microscope",
+      "provider": "NTSEC Science Hour · The Hidden World Under the Microscope",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Taiwan Science Education Center · Taipei",
+      "age": "6–8 классы.",
+      "programme": "Работа с оптическим микроскопом и подготовка образцов.",
+      "themes": [
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Центр прямо указывает преподавание на английском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "120 минут. Занятие по предварительной записи. Центр согласует день и наличие группы.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TWD",
+        "amount": null,
+        "unit": "workshop",
+        "label": "TWD 600 за человека в группе 10–19. TWD 550 за человека от 20. Индивидуальный тариф уточнить.",
+        "included": "Работа с оптическим микроскопом и подготовка образцов.",
+        "extras": "Уточнить билет в основную экспозицию и оплату для взрослых.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет, если текущий класс ниже опубликованной ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет, если текущий класс ниже опубликованной ступени."
+        }
+      },
+      "editorial_reason": "Работа с оптическим микроскопом и подготовка образцов.",
+      "shortlist": [],
+      "questions": [
+        "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=491",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Индивидуальные посетители и группы могут подать заявку. Занятие открывают от 10 участников. Подать заявку минимум за 14 дней и уточнить возможность присоединиться к группе."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L1017"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2466",
+      "slug": "arcoiris-cool-camp-punta-hermosa-2027",
+      "provider": "Comunidad Arcoíris · Cool Camp",
+      "iso": "PER",
+      "country": "Перу",
+      "place": "Comunidad Arcoíris · Av. Coronel Juan Valer Lt. 3 · Punta Hermosa · Lima",
+      "age": "6–8 лет в группе Cool Camp.",
+      "programme": "Дневные занятия с опытами, конструированием, садоводством, кулинарией и творческими заданиями.",
+      "themes": [
+        "science",
+        "engineering",
+        "nature",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык инструктажа в выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общий период 4 января – 18 февраля 2027. Cool Camp по вторникам и четвергам с 16:30 до 18:30.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-05",
+            "end": "2027-02-18",
+            "label": "Cool Camp",
+            "source": "https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/",
+            "price": "Стоимость группы не опубликована. Запросить тариф и состав оплаты.",
+            "entry": "Организатор принимает предварительные заявки. Подтвердить место, возраст, календарь, язык и цену.",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_precision": "published_rule",
+            "date_rule": "Дни рассчитаны по опубликованному расписанию вторник и четверг в общем периоде. Сверить исключения и фактическое начало группы.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T21:30:00Z",
+                "end_utc": "2027-01-05T23:30:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T21:30:00Z",
+                "end_utc": "2027-01-07T23:30:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T21:30:00Z",
+                "end_utc": "2027-01-12T23:30:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T21:30:00Z",
+                "end_utc": "2027-01-14T23:30:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T21:30:00Z",
+                "end_utc": "2027-01-19T23:30:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T21:30:00Z",
+                "end_utc": "2027-01-21T23:30:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T21:30:00Z",
+                "end_utc": "2027-01-26T23:30:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T21:30:00Z",
+                "end_utc": "2027-01-28T23:30:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T21:30:00Z",
+                "end_utc": "2027-02-02T23:30:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T21:30:00Z",
+                "end_utc": "2027-02-04T23:30:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T21:30:00Z",
+                "end_utc": "2027-02-09T23:30:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T21:30:00Z",
+                "end_utc": "2027-02-11T23:30:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T21:30:00Z",
+                "end_utc": "2027-02-16T23:30:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "16:30",
+                "end_time": "18:30",
+                "timezone": "America/Lima",
+                "topic": "Cool Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T21:30:00Z",
+                "end_utc": "2027-02-18T23:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PEN",
+        "amount": null,
+        "unit": "programme",
+        "label": "Стоимость группы не опубликована. Запросить тариф и состав оплаты.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет. Возраст выше диапазона группы 6–8."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Нужно подтвердить место."
+        }
+      },
+      "editorial_reason": "Дневные занятия с опытами, конструированием, садоводством, кулинарией и творческими заданиями.",
+      "shortlist": [],
+      "questions": [
+        "Организатор принимает предварительные заявки. Подтвердить место, возраст, календарь, язык и цену.",
+        "Дни рассчитаны по опубликованному расписанию вторник и четверг в общем периоде. Сверить исключения и фактическое начало группы."
+      ],
+      "sources": [
+        {
+          "url": "https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.comunidadarcoirisph.com/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор принимает предварительные заявки. Подтвердить место, возраст, календарь, язык и цену."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2466-20270105-20270218"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -456080,7 +457153,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2455,
+      "total_dossiers": 2466,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -482935,6 +484008,61 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2456",
+      "event_id": "L1008",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2457",
+      "event_id": "L1009",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2458",
+      "event_id": "L1010",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2459",
+      "event_id": "L1011",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2460",
+      "event_id": "L1012",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2461",
+      "event_id": "L1013",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2462",
+      "event_id": "L1014",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2463",
+      "event_id": "L1015",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2464",
+      "event_id": "L1016",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2465",
+      "event_id": "L1017",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2466",
+      "event_id": "CP2466-20270105-20270218",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -488395,10 +489523,11 @@
     "CP2455-20270201-20270205",
     "CP2455-20270208-20270212",
     "CP2455-20270215-20270219",
-    "CP2455-20270222-20270226"
+    "CP2455-20270222-20270226",
+    "CP2466-20270105-20270218"
   ],
   "integration": {
-    "generated_sessions": 5050,
+    "generated_sessions": 5051,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

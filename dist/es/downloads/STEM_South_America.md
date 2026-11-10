@@ -10487,6 +10487,19 @@ Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y 
 Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
 Verificado: 2026-11-10
 
+### CP2466-20270105-20270218 · Comunidad Arcoíris · Cool Camp · Cool Camp · 2027-01-05–2027-02-18
+
+Fecha: 2027-01-05 — 2027-02-18
+Edad: De 6–8 años en el grupo Cool Camp.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirme el idioma de las instrucciones en el grupo elegido.
+Acceso: El organizador acepta preinscripciones. Confirme plaza, edad, calendario, idioma y precio.
+Coste: 2027 · No se publicó el coste del grupo. Solicite tarifa y conceptos incluidos. · suplementos y condiciones en la ficha
+Restricciones: Matvey: No. La edad supera el intervalo de 6–8. Oscar: La edad encaja en el intervalo anunciado. Hay que confirmar plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/
+Verificado: 2026-11-10
+
 ### E298 · Brasil Game Show 2027 · public exhibition
 
 Fecha: 2027-10-09 — 2027-10-12

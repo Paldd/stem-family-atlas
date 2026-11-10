@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2455 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2466 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -194105,6 +194105,486 @@ Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027) · 2026-11-10
+
+## CP2456 · NTSEC Science Hour · Homemade Lotion
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Emulsiones y elaboración de loción.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Emulsiones y elaboración de loción.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Emulsiones y elaboración de loción.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2457 · NTSEC Science Hour · Soap Palette
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Color y saponificación en una práctica con jabón.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Color y saponificación en una práctica con jabón.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Color y saponificación en una práctica con jabón.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2458 · NTSEC Science Hour · Magic Camera
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Óptica de lentes y fabricación de una cámara propia.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Óptica de lentes y fabricación de una cámara propia.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Óptica de lentes y fabricación de una cámara propia.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2459 · NTSEC Science Hour · Sun Prints! (Cyanotype)
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Cianotipia e impresiones con luz.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Cianotipia e impresiones con luz.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Cianotipia e impresiones con luz.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2460 · NTSEC Science Hour · Air Horn
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Vibraciones y sonido. Montaje y prueba de una bocina de aire.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Vibraciones y sonido. Montaje y prueba de una bocina de aire.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Vibraciones y sonido. Montaje y prueba de una bocina de aire.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2461 · NTSEC Science Hour · Floating Snowman
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde el curso 1.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Materiales y polos magnéticos. Modelo en una pista magnética.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Materiales y polos magnéticos. Modelo en una pista magnética.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Materiales y polos magnéticos. Modelo en una pista magnética.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2462 · NTSEC Science Hour · Invisible Monsters
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** 1–6 Clases.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Ilusiones ópticas y efecto Tyndall.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Ilusiones ópticas y efecto Tyndall.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Motivo de selección:** Ilusiones ópticas y efecto Tyndall.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2463 · NTSEC Science Hour · Shining Butterfly
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Cursos 3–6.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Circuitos eléctricos, color y diseño de un modelo de mariposa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Circuitos eléctricos, color y diseño de un modelo de mariposa.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** No, si el curso actual es inferior al nivel publicado.
+
+**Motivo de selección:** Circuitos eléctricos, color y diseño de un modelo de mariposa.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2464 · NTSEC Science Hour · Balloon Science
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** Cursos 3–7.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Elasticidad, mecánica y sonido con experimentos con globos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 60 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 350 por persona en grupos de 10–19. TWD 300 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Elasticidad, mecánica y sonido con experimentos con globos.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Compare el curso actual con el intervalo del centro y confirme el grupo.
+
+**Oscar:** No, si el curso actual es inferior al nivel publicado.
+
+**Motivo de selección:** Elasticidad, mecánica y sonido con experimentos con globos.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2465 · NTSEC Science Hour · The Hidden World Under the Microscope
+
+Taiwán · National Taiwan Science Education Center · Taipei
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6.º–8.º grado.
+
+**Idioma:** El centro indica expresamente enseñanza en inglés.
+
+**Programa:** Uso de un microscopio óptico y preparación de muestras.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 120 minutos. Actividad con reserva previa. El centro confirma el día y la disponibilidad del grupo.
+
+**Precio / año:** Sin año indicado · TWD 600 por persona en grupos de 10–19. TWD 550 por persona desde 20. Consulte la tarifa individual.
+
+**Incluido:** Uso de un microscopio óptico y preparación de muestras.
+
+**Suplementos:** Confirme la entrada a la exposición general y el pago de los adultos.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** No, si el curso actual es inferior al nivel publicado.
+
+**Oscar:** No, si el curso actual es inferior al nivel publicado.
+
+**Motivo de selección:** Uso de un microscopio óptico y preparación de muestras.
+
+### Antes de solicitar plaza
+
+- Visitantes individuales y grupos pueden solicitar plaza. La sesión se abre a partir de 10 participantes. Solicite con al menos 14 días y confirme si puede unirse a un grupo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/article/detail.aspx?a=491) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.ntsec.gov.tw/UserFiles/image/%28%E6%96%B0%29%20%E9%9B%99%E8%AA%9E%E6%95%B4%E9%BB%9E%E7%A7%91%E5%AD%B8%E5%82%B3%E5%96%AE.png) · 2026-11-10
+
+## CP2466 · Comunidad Arcoíris · Cool Camp
+
+Perú · Comunidad Arcoíris · Av. Coronel Juan Valer Lt. 3 · Punta Hermosa · Lima
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–8 años en el grupo Cool Camp.
+
+**Idioma:** Descripción en español. Confirme el idioma de las instrucciones en el grupo elegido.
+
+**Programa:** Actividades diurnas con experimentos, construcción, jardinería, cocina y actividades creativas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Periodo general del 4 de enero al 18 de febrero de 2027. Cool Camp los martes y jueves de 16:30 a 18:30.
+
+**Precio / año:** 2027 · No se publicó el coste del grupo. Solicite tarifa y conceptos incluidos.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** No. La edad supera el intervalo de 6–8.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Hay que confirmar plaza.
+
+**Motivo de selección:** Actividades diurnas con experimentos, construcción, jardinería, cocina y actividades creativas.
+
+### Antes de solicitar plaza
+
+- El organizador acepta preinscripciones. Confirme plaza, edad, calendario, idioma y precio.
+
+- Días calculados según el horario publicado de martes y jueves dentro del periodo general. Confirme excepciones e inicio efectivo del grupo.
+
+### Cool Camp
+
+**Fechas / estado:** 2027-01-05 — 2027-02-18
+
+**Precio:** No se publicó el coste del grupo. Solicite tarifa y conceptos incluidos.
+
+**Condiciones de participación:** El organizador acepta preinscripciones. Confirme plaza, edad, calendario, idioma y precio.
+
+- 2027-01-05 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-07 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-12 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-14 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-19 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-21 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-26 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-01-28 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-02 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-04 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-09 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-11 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-16 · 16:30–18:30 · America/Lima · Cool Camp
+
+- 2027-02-18 · 16:30–18:30 · America/Lima · Cool Camp
+
+[fuente](https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.comunidadarcoirisph.com/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

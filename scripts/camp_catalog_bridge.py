@@ -4,6 +4,16 @@ import re
 
 # Explicit relations: a shared operator/domain is not proof of an identical track.
 RELATED = {
+    'ntsec-science-hour-lotion': ['L1008'],
+    'ntsec-science-hour-soap': ['L1009'],
+    'ntsec-science-hour-camera': ['L1010'],
+    'ntsec-science-hour-cyanotype': ['L1011'],
+    'ntsec-science-hour-air-horn': ['L1012'],
+    'ntsec-science-hour-magnetic-snowman': ['L1013'],
+    'ntsec-science-hour-invisible-monsters': ['L1014'],
+    'ntsec-science-hour-shining-butterfly': ['L1015'],
+    'ntsec-science-hour-balloon-science': ['L1016'],
+    'ntsec-science-hour-microscope': ['L1017'],
     'fod-lideres-futuro-vacaciones-2026-27': ['L798'],
     'creadores-papalote-laboratorio-de-ideas': ['L891'],
     'jersey-college-creative-minds-robotics': ['L693'],

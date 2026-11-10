@@ -29,13 +29,28 @@ def compact_json(value):
 
 
 def write_source_catalog(path, catalog):
-    """Use one line per event so the canonical file has readable record diffs."""
+    """Keep large record lists compact and their diffs readable."""
+    def record_array(items, indent):
+        if not items:
+            return '[]'
+        rows = ',\n'.join(' ' * (indent + 2) + compact_json(item) for item in items)
+        return '[\n' + rows + '\n' + ' ' * indent + ']'
+
+    def indented_json(value, indent):
+        return json.dumps(value, ensure_ascii=False, indent=2).replace('\n', '\n' + ' ' * indent)
+
     fields = []
     for key, value in catalog.items():
-        if key == 'events' and value:
-            encoded = '[\n' + ',\n'.join('    ' + compact_json(event) for event in value) + '\n  ]'
+        if key == 'events':
+            encoded = record_array(value, 2)
+        elif key == 'camp_programmes':
+            members = []
+            for name, member in value.items():
+                body = record_array(member, 4) if name in ('profiles', 'event_links') else indented_json(member, 4)
+                members.append('    ' + compact_json(name) + ': ' + body)
+            encoded = '{\n' + ',\n'.join(members) + '\n  }'
         else:
-            encoded = json.dumps(value, ensure_ascii=False, indent=2).replace('\n', '\n  ')
+            encoded = indented_json(value, 2)
         fields.append('  ' + compact_json(key) + ': ' + encoded)
     path.write_text('{\n' + ',\n'.join(fields) + '\n}\n')
 
