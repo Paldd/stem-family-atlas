@@ -92,21 +92,50 @@ jobs:
         uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
         with:
           timeout: '600000'
-      - name: Verify the public revision in both languages
+      - name: Verify both public editions and their downloads
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
         run: |
-          for edition in '' 'es/'; do
-            url="${PAGE_URL%/}/${edition}release.json"
+          check_edition() {
+            local base=$1 language=$2 version
+            version=$(curl --fail --silent --show-error --max-time 12 \
+              "${base}release.json?revision=${GITHUB_SHA}" | python3 -c '
+          import json, sys
+          manifest = json.load(sys.stdin)
+          assert manifest["source_commit"] == sys.argv[1], manifest["source_commit"]
+          assert manifest["languages"] == ["ru", "es"], manifest["languages"]
+          print(manifest["ui_version"])
+          ' "$GITHUB_SHA") || return 1
+            curl --fail --silent --show-error --max-time 12 \
+              "${base}?revision=${GITHUB_SHA}" | python3 -c '
+          import sys
+          version, language = sys.argv[1:]
+          html = sys.stdin.read()
+          assert f"<html lang=\"{language}\"" in html, language
+          assert f"data-ui-version=\"{version}\"" in html, version
+          assert f"assets/atlas-core.js?v={version}" in html, version
+          ' "$version" "$language" || return 1
+            for asset in "assets/atlas-core.js?v=${version}" \
+              downloads/STEM_camp_programmes_deep_2026_2027.json \
+              "downloads/STEM_atlas_${language}.xlsx" \
+              downloads/STEM_database.zip downloads/STEM_database_json.zip; do
+              curl --fail --silent --show-error --head --max-time 12 \
+                --output /dev/null "${base}${asset}" || return 1
+            done
+          }
+
+          for language in ru es; do
+            base="${PAGE_URL%/}/"
+            if [[ "$language" == es ]]; then
+              base+="es/"
+            fi
             for attempt in {1..18}; do
-              if curl --fail --silent --show-error --max-time 12 \
-                  "${url}?revision=${GITHUB_SHA}" | python3 -c \
-                  'import json, sys; assert json.load(sys.stdin)["source_commit"] == sys.argv[1]' "$GITHUB_SHA"; then
-                echo "Verified $url"
+              if check_edition "$base" "$language"; then
+                echo "Verified $base and its downloads"
                 break
               fi
               if [[ "$attempt" == 18 ]]; then
-                echo "::error::Published revision did not match $GITHUB_SHA at $url"
+                echo "::error::Public revision or required files failed verification at $base ($GITHUB_SHA)"
                 exit 1
               fi
               sleep 5
