@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12628,
-    "competition_cards": 5569,
-    "event_cards": 863,
-    "camp_cards": 6196,
+    "cards": 12635,
+    "competition_cards": 5570,
+    "event_cards": 865,
+    "camp_cards": 6200,
     "league_profiles": 359,
-    "major_exhibition_cards": 757,
+    "major_exhibition_cards": 759,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 866,
+      "total": 867,
       "countries_with_records": 15,
       "competitions": 505,
-      "events": 68,
-      "major_exhibitions": 62,
+      "events": 69,
+      "major_exhibitions": 63,
       "camps": 293,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 515,
+      "total": 519,
       "countries_with_records": 61,
       "competitions": 293,
-      "events": 58,
-      "major_exhibitions": 51,
-      "camps": 164,
+      "events": 59,
+      "major_exhibitions": 52,
+      "camps": 167,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3444,
+      "total": 3445,
       "countries_with_records": 51,
       "competitions": 1298,
       "events": 228,
       "major_exhibitions": 215,
-      "camps": 1918,
+      "camps": 1919,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -18555,6 +18555,28 @@
       "new": false
     },
     {
+      "id": "E864",
+      "name": "Next Consumer Electronics Show · NCES 2027",
+      "country": "Нигерия",
+      "region": "Африка",
+      "start": "2027-11-10",
+      "end": "2027-11-12",
+      "visitor_policy": "restricted",
+      "source": "https://nces.tech/terms-of-use",
+      "new": false
+    },
+    {
+      "id": "E865",
+      "name": "ExpoLatam Business Summit Buenos Aires 2027",
+      "country": "Аргентина",
+      "region": "Южная Америка",
+      "start": "2027-06-02",
+      "end": "2027-06-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ce-expolatam.com/argentina-2027",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -19949,7 +19971,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 266,
+  "interregional_cards": 267,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -20986,14 +21008,14 @@
       }
     ],
     "counts": {
-      "records": 6196,
-      "holiday": 5524,
+      "records": 6200,
+      "holiday": 5525,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1049,
-      "en_es_instruction": 1728,
+      "en_es_instruction": 1731,
       "en_es_support": 67,
-      "family_instruction": 1728,
+      "family_instruction": 1731,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 439,

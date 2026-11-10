@@ -53,7 +53,7 @@ def localize_calendar(source, original, translated):
             uid = next(v.partition(':')[2] for v in block if v.startswith('UID:'))
             ru, e, session, deadline = records[uid]
             if uid.startswith('stem-exhibition-'):
-                gate = {'family': 'visita en familia', 'adults_only': 'niños de 6/9 años no admitidos', 'confirm_children': 'confirmar admisión de menores'}[e['visitor_policy']]
+                gate = {'family': 'visita en familia', 'adults_only': 'niños de 6/9 años no admitidos', 'confirm_children': 'confirmar admisión de menores', 'restricted': 'restricciones de edad'}[e['visitor_policy']]
                 title = '[Exposición · ' + gate + '] ' + e['title']
                 description = f"Idea de visita; no es una inscripción aceptada. {e['visitor_policy_note']} Entrada de adultos: {e['adult_entry']}. {e['note']} Empresas: {e['exhibitor_note']}. Fuente verificada el {e['checked']}."
             else:

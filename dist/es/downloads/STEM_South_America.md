@@ -7458,6 +7458,19 @@ Restricciones: IEEE indica 09:00–13:00 en La Paz. Confirme acceso de público 
 Fuente: https://micromuose-competiton.vercel.app/reglamento
 Verificado: 2026-11-10
 
+### E865 · ExpoLatam Business Summit Buenos Aires 2027
+
+Fecha: 2027-06-02 — 2027-06-03
+edad:
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Cumbre para profesionales del sector. Confirme pase, coste y normas de acceso infantil.
+Costo: Consulte al organizador.
+Restricciones: La página argentina confirma Buenos Aires. El pie general indica la dirección de la feria panameña. Confirme la sede argentina.
+Fuente: https://www.ce-expolatam.com/argentina-2027
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

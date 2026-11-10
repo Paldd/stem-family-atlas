@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2527 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2531 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -198639,6 +198639,290 @@ Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt) · 2026-11-10
+
+## CP2528 · Digikids · Build the Ultimate Mt Kenya Obby
+
+Kenia · En línea · Google Meet · organizador en Kenia
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 8 a 11 años.
+
+**Idioma:** La ficha del curso indica inglés.
+
+**Programa:** Construcción de un circuito de obstáculos en Roblox Studio y programación en Lua. Conviene experiencia con un primer proyecto en Roblox.
+
+**Alojamiento:** Programa remoto con profesor en directo.
+
+**Fechas / estado:** 13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.
+
+**Precio / año:** 2026 · KES 7500 por niño por un curso de 13 sesiones.
+
+**Incluido:** Programa remoto con profesor en directo.
+
+**Suplementos:** Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+**Pago:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+**Matvey:** Edad compatible con el grupo de 8–11. Confirme experiencia en Roblox Studio y acceso a las clases en directo.
+
+**Oscar:** Edad inferior al mínimo del grupo publicado.
+
+**Motivo de selección:** Construcción de un circuito de obstáculos en Roblox Studio y programación en Lua. Conviene experiencia con un primer proyecto en Roblox.
+
+### Antes de solicitar plaza
+
+- Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+### Build the Ultimate Mt Kenya Obby
+
+**Fechas / estado:** 2026-11-30 — 2026-12-16
+
+**Precio:** KES 7500 por niño por un curso de 13 sesiones.
+
+**Condiciones de participación:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- 2026-11-30 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-01 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-02 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-03 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-04 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-07 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-08 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-09 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-10 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-11 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-14 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-15 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+- 2026-12-16 · 09:30–11:00 · Africa/Nairobi · Build the Ultimate Mt Kenya Obby
+
+[fuente](https://www.digikids.co.ke/courses/roblox-mt-kenya-obby-build-a-game?bootcamp=december-2026-bootcamp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/bootcamps/december-2026-bootcamp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/courses/roblox-mt-kenya-obby-build-a-game?bootcamp=december-2026-bootcamp) · 2026-11-10
+
+## CP2529 · Digikids · Make a Shop App for Your Neighbourhood Duka
+
+Kenia · En línea · Google Meet · organizador en Kenia
+
+**Verificado:** 2026-11-10
+
+**edad:** 12–14 años.
+
+**Idioma:** La ficha del curso indica inglés.
+
+**Programa:** Aplicación web para una tienda con HTML, CSS y JavaScript. Se requieren bases de variables, condiciones, bucles y funciones.
+
+**Alojamiento:** Programa remoto con profesor en directo.
+
+**Fechas / estado:** 13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.
+
+**Precio / año:** 2026 · KES 7500 por niño por un curso de 13 sesiones.
+
+**Incluido:** Programa remoto con profesor en directo.
+
+**Suplementos:** Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+**Pago:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+**Matvey:** Edad inferior al mínimo del grupo publicado.
+
+**Oscar:** Edad inferior al mínimo del grupo publicado.
+
+**Motivo de selección:** Aplicación web para una tienda con HTML, CSS y JavaScript. Se requieren bases de variables, condiciones, bucles y funciones.
+
+### Antes de solicitar plaza
+
+- Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+### Make a Shop App for Your Neighbourhood Duka
+
+**Fechas / estado:** 2026-11-30 — 2026-12-16
+
+**Precio:** KES 7500 por niño por un curso de 13 sesiones.
+
+**Condiciones de participación:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- 2026-11-30 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-01 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-02 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-03 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-04 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-07 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-08 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-09 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-10 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-11 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-14 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-15 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+- 2026-12-16 · 09:30–11:00 · Africa/Nairobi · Make a Shop App for Your Neighbourhood Duka
+
+[fuente](https://www.digikids.co.ke/courses/duka-pos-build-and-launch-a-shop-app?bootcamp=december-2026-bootcamp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/bootcamps/december-2026-bootcamp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/courses/duka-pos-build-and-launch-a-shop-app?bootcamp=december-2026-bootcamp) · 2026-11-10
+
+## CP2530 · Digikids · Practical Data Structures and Problem Solving
+
+Kenia · En línea · Google Meet · organizador en Kenia
+
+**Verificado:** 2026-11-10
+
+**Edad:** 15–17 años.
+
+**Idioma:** La ficha del curso indica inglés.
+
+**Programa:** Estructuras de datos y algoritmos con ejemplos de planificación de rutas, autocompletado y clasificación de resultados.
+
+**Alojamiento:** Programa remoto con profesor en directo.
+
+**Fechas / estado:** 13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.
+
+**Precio / año:** 2026 · KES 7500 por niño por un curso de 13 sesiones.
+
+**Incluido:** Programa remoto con profesor en directo.
+
+**Suplementos:** Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+**Pago:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+**Matvey:** Edad inferior al mínimo del grupo publicado.
+
+**Oscar:** Edad inferior al mínimo del grupo publicado.
+
+**Motivo de selección:** Estructuras de datos y algoritmos con ejemplos de planificación de rutas, autocompletado y clasificación de resultados.
+
+### Antes de solicitar plaza
+
+- Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.
+
+### Practical Data Structures and Problem Solving
+
+**Fechas / estado:** 2026-11-30 — 2026-12-16
+
+**Precio:** KES 7500 por niño por un curso de 13 sesiones.
+
+**Condiciones de participación:** Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+
+- 2026-11-30 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-01 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-02 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-03 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-04 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-07 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-08 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-09 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-10 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-11 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-14 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-15 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+- 2026-12-16 · 09:30–11:00 · Africa/Nairobi · Practical Data Structures and Problem Solving
+
+[fuente](https://www.digikids.co.ke/courses/practical-data-structures-and-problem-solving?bootcamp=december-2026-bootcamp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/bootcamps/december-2026-bootcamp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.digikids.co.ke/courses/practical-data-structures-and-problem-solving?bootcamp=december-2026-bootcamp) · 2026-11-10
+
+## CP2531 · Tampines Courtview · Young Robotics Explorers
+
+Singapur · Our Tampines Hub · Seminar Room 4 · Level 3 · 1 Tampines Walk, Singapore
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 5–9 años con un adulto acompañante.
+
+**Idioma:** Descripción en inglés. Confirme el idioma del taller.
+
+**Programa:** El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Un taller de 14:00 a 16:00 en Singapur.
+
+**Precio / año:** 2026 · SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.
+
+**Incluido:** El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.
+
+**Suplementos:** SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.
+
+**Pago:** Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.
+
+**Matvey:** Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja.
+
+**Oscar:** Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja.
+
+**Motivo de selección:** El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.
+
+### Antes de solicitar plaza
+
+- Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.
+
+### Young Robotics Explorers
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.
+
+**Condiciones de participación:** Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.
+
+- 2026-12-12 · 14:00–16:00 · Asia/Singapore · Young Robotics Explorers
+
+[fuente](https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

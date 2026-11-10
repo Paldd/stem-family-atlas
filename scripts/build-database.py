@@ -117,7 +117,8 @@ current_audits = [
                  'science-hour-and-family-tech-audit-v377.json',
                  'mosi-bioglow-and-paris-audit-v378.json',
                  'winter-robotics-and-museum-audit-v379.json',
-                 'africa-holiday-and-competition-audit-v380.json')
+                 'africa-holiday-and-competition-audit-v380.json',
+                 'digital-camps-and-visitor-access-audit-v381.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}
@@ -736,7 +737,7 @@ report += [f"- **{b['name']}**. {b['reason']}"+(f" Источник для да�
 report += ['', '## Границы проверки', '']+[f"- {s}" for s in a['caveats']]+['', '## Профили лиг и программ', '']
 report += [f"- **{g['name']}**: {g['cards']} карточек, {g['future_dated']} с будущими точными датами. {g['status']}. {g['source']}" for g in a['league_inventory']]
 report += ['', '## Крупные выставки: календарные карточки', '']
-gates={'family':'Со взрослым; условия взрослого входа отдельно','adults_only':'Детям 6/9 нельзя','confirm_children':'Детский допуск уточнить'}
+gates={'family':'Со взрослым; условия взрослого входа отдельно','adults_only':'Детям 6/9 нельзя','confirm_children':'Детский допуск уточнить','restricted':'Возрастные ограничения'}
 virtual_exhibitions={e['id'] for e in d['events'] if e.get('delivery_mode')=='virtual'}
 for e in a['exhibition_inventory']:
     access=f"{e['start'] or 'дата неизвестна'}"+(f" – {e['end']}" if e['end'] and e['end']!=e['start'] else '')+f". {gates[e['visitor_policy']]}"
@@ -1016,7 +1017,7 @@ expo_cal=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//STEM Atlas//Exhibitions cal
 expo_count=0
 for e in d['events']:
     if e.get('canonical_event_id') or not e.get('exhibition_tier') or not e['start'] or e['end']<d['asof']:continue
-    gate={'family':'семейный вариант','adults_only':'детям 6/9 нельзя','confirm_children':'допуск детей уточнить'}[e['visitor_policy']]
+    gate={'family':'семейный вариант','adults_only':'детям 6/9 нельзя','confirm_children':'допуск детей уточнить','restricted':'возрастные ограничения'}[e['visitor_policy']]
     desc=f"Идея посещения, не принятая регистрация. {e['visitor_policy_note']} Взрослый вход: {e['adult_entry']}. {e['note']} Компании: {e['exhibitor_note']}. Источник проверен {e['checked']}."
     opening_label='[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else ''
     for uid, start, end, timed in calendar_occurrences(e):

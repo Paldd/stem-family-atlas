@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2527,
+    "dossiers": 2531,
     "countries": 141,
     "swiss": 165,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 727,
       "partial_2027": 182,
       "next_unannounced": 488,
-      "published_2026": 480,
+      "published_2026": 484,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3446
+    "source_urls": 3451
   },
   "countries": [
     {
@@ -268,7 +268,7 @@
     },
     {
       "country": "Kenia",
-      "count": 6
+      "count": 9
     },
     {
       "country": "China",
@@ -472,7 +472,7 @@
     },
     {
       "country": "Singapur",
-      "count": 203
+      "count": 204
     },
     {
       "country": "Reino Unido",
@@ -449045,6 +449045,845 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2528",
+      "slug": "digikids-december-2026-roblox-mount-kenya",
+      "provider": "Digikids · Build the Ultimate Mt Kenya Obby",
+      "iso": "KEN",
+      "country": "Kenia",
+      "place": "En línea · Google Meet · organizador en Kenia",
+      "age": "De 8 a 11 años.",
+      "programme": "Construcción de un circuito de obstáculos en Roblox Studio y programación en Lua. Conviene experiencia con un primer proyecto en Roblox.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "online"
+      ],
+      "language": "La ficha del curso indica inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Programa remoto con profesor en directo.",
+      "timing": {
+        "status": "published_2026",
+        "label": "13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-16",
+            "label": "Build the Ultimate Mt Kenya Obby",
+            "source": "https://www.digikids.co.ke/courses/roblox-mt-kenya-obby-build-a-game?bootcamp=december-2026-bootcamp",
+            "price": "KES 7500 por niño por un curso de 13 sesiones.",
+            "entry": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "deadline": "2026-11-29",
+            "deadline_note": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-11-30T06:30:00Z",
+                "end_utc": "2026-11-30T08:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T06:30:00Z",
+                "end_utc": "2026-12-01T08:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T06:30:00Z",
+                "end_utc": "2026-12-02T08:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T06:30:00Z",
+                "end_utc": "2026-12-03T08:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T06:30:00Z",
+                "end_utc": "2026-12-04T08:00:00Z"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-07T06:30:00Z",
+                "end_utc": "2026-12-07T08:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T06:30:00Z",
+                "end_utc": "2026-12-08T08:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T06:30:00Z",
+                "end_utc": "2026-12-09T08:00:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-10T06:30:00Z",
+                "end_utc": "2026-12-10T08:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T06:30:00Z",
+                "end_utc": "2026-12-11T08:00:00Z"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T06:30:00Z",
+                "end_utc": "2026-12-14T08:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T06:30:00Z",
+                "end_utc": "2026-12-15T08:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Build the Ultimate Mt Kenya Obby",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T06:30:00Z",
+                "end_utc": "2026-12-16T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KES",
+        "amount": 7500,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "KES 7500 por niño por un curso de 13 sesiones.",
+        "included": "Programa remoto con profesor en directo.",
+        "extras": "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.",
+        "deposit": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad compatible con el grupo de 8–11. Confirme experiencia en Roblox Studio y acceso a las clases en directo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo del grupo publicado."
+        }
+      },
+      "editorial_reason": "Construcción de un circuito de obstáculos en Roblox Studio y programación en Lua. Conviene experiencia con un primer proyecto en Roblox.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+        "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.digikids.co.ke/bootcamps/december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.digikids.co.ke/courses/roblox-mt-kenya-obby-build-a-game?bootcamp=december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2528-20261130-20261216"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2529",
+      "slug": "digikids-december-2026-shop-app",
+      "provider": "Digikids · Make a Shop App for Your Neighbourhood Duka",
+      "iso": "KEN",
+      "country": "Kenia",
+      "place": "En línea · Google Meet · organizador en Kenia",
+      "age": "12–14 años.",
+      "programme": "Aplicación web para una tienda con HTML, CSS y JavaScript. Se requieren bases de variables, condiciones, bucles y funciones.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "online"
+      ],
+      "language": "La ficha del curso indica inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Programa remoto con profesor en directo.",
+      "timing": {
+        "status": "published_2026",
+        "label": "13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-16",
+            "label": "Make a Shop App for Your Neighbourhood Duka",
+            "source": "https://www.digikids.co.ke/courses/duka-pos-build-and-launch-a-shop-app?bootcamp=december-2026-bootcamp",
+            "price": "KES 7500 por niño por un curso de 13 sesiones.",
+            "entry": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "deadline": "2026-11-29",
+            "deadline_note": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-11-30T06:30:00Z",
+                "end_utc": "2026-11-30T08:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T06:30:00Z",
+                "end_utc": "2026-12-01T08:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T06:30:00Z",
+                "end_utc": "2026-12-02T08:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T06:30:00Z",
+                "end_utc": "2026-12-03T08:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T06:30:00Z",
+                "end_utc": "2026-12-04T08:00:00Z"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-07T06:30:00Z",
+                "end_utc": "2026-12-07T08:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T06:30:00Z",
+                "end_utc": "2026-12-08T08:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T06:30:00Z",
+                "end_utc": "2026-12-09T08:00:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-10T06:30:00Z",
+                "end_utc": "2026-12-10T08:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T06:30:00Z",
+                "end_utc": "2026-12-11T08:00:00Z"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T06:30:00Z",
+                "end_utc": "2026-12-14T08:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T06:30:00Z",
+                "end_utc": "2026-12-15T08:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Make a Shop App for Your Neighbourhood Duka",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T06:30:00Z",
+                "end_utc": "2026-12-16T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KES",
+        "amount": 7500,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "KES 7500 por niño por un curso de 13 sesiones.",
+        "included": "Programa remoto con profesor en directo.",
+        "extras": "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.",
+        "deposit": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo del grupo publicado."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo del grupo publicado."
+        }
+      },
+      "editorial_reason": "Aplicación web para una tienda con HTML, CSS y JavaScript. Se requieren bases de variables, condiciones, bucles y funciones.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+        "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.digikids.co.ke/bootcamps/december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.digikids.co.ke/courses/duka-pos-build-and-launch-a-shop-app?bootcamp=december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2529-20261130-20261216"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2530",
+      "slug": "digikids-december-2026-data-structures",
+      "provider": "Digikids · Practical Data Structures and Problem Solving",
+      "iso": "KEN",
+      "country": "Kenia",
+      "place": "En línea · Google Meet · organizador en Kenia",
+      "age": "15–17 años.",
+      "programme": "Estructuras de datos y algoritmos con ejemplos de planificación de rutas, autocompletado y clasificación de resultados.",
+      "themes": [
+        "coding",
+        "technology",
+        "games"
+      ],
+      "formats": [
+        "online"
+      ],
+      "language": "La ficha del curso indica inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Programa remoto con profesor en directo.",
+      "timing": {
+        "status": "published_2026",
+        "label": "13 sesiones entre semana de 09:30 a 11:00 en Kenia. En Costa Rica son de 00:30 a 02:00.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-16",
+            "label": "Practical Data Structures and Problem Solving",
+            "source": "https://www.digikids.co.ke/courses/practical-data-structures-and-problem-solving?bootcamp=december-2026-bootcamp",
+            "price": "KES 7500 por niño por un curso de 13 sesiones.",
+            "entry": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "deadline": "2026-11-29",
+            "deadline_note": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-11-30T06:30:00Z",
+                "end_utc": "2026-11-30T08:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T06:30:00Z",
+                "end_utc": "2026-12-01T08:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T06:30:00Z",
+                "end_utc": "2026-12-02T08:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T06:30:00Z",
+                "end_utc": "2026-12-03T08:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T06:30:00Z",
+                "end_utc": "2026-12-04T08:00:00Z"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-07T06:30:00Z",
+                "end_utc": "2026-12-07T08:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T06:30:00Z",
+                "end_utc": "2026-12-08T08:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T06:30:00Z",
+                "end_utc": "2026-12-09T08:00:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-10T06:30:00Z",
+                "end_utc": "2026-12-10T08:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T06:30:00Z",
+                "end_utc": "2026-12-11T08:00:00Z"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T06:30:00Z",
+                "end_utc": "2026-12-14T08:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T06:30:00Z",
+                "end_utc": "2026-12-15T08:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:30",
+                "end_time": "11:00",
+                "timezone": "Africa/Nairobi",
+                "topic": "Practical Data Structures and Problem Solving",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T06:30:00Z",
+                "end_utc": "2026-12-16T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KES",
+        "amount": 7500,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "KES 7500 por niño por un curso de 13 sesiones.",
+        "included": "Programa remoto con profesor en directo.",
+        "extras": "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto.",
+        "deposit": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo del grupo publicado."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo del grupo publicado."
+        }
+      },
+      "editorial_reason": "Estructuras de datos y algoritmos con ejemplos de planificación de rutas, autocompletado y clasificación de resultados.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.",
+        "Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.digikids.co.ke/bootcamps/december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.digikids.co.ke/courses/practical-data-structures-and-problem-solving?bootcamp=december-2026-bootcamp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2530-20261130-20261216"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2531",
+      "slug": "onepa-tampines-young-robotics-explorers",
+      "provider": "Tampines Courtview · Young Robotics Explorers",
+      "iso": "SGP",
+      "country": "Singapur",
+      "place": "Our Tampines Hub · Seminar Room 4 · Level 3 · 1 Tampines Walk, Singapore",
+      "age": "De 5–9 años con un adulto acompañante.",
+      "programme": "El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.",
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "formats": [
+        "day",
+        "family"
+      ],
+      "language": "Descripción en inglés. Confirme el idioma del taller.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Un taller de 14:00 a 16:00 en Singapur.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "Young Robotics Explorers",
+            "source": "https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502",
+            "price": "SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.",
+            "entry": "Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.",
+            "deadline": "2026-12-12",
+            "deadline_note": "Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Young Robotics Explorers",
+                "ical_timed": true,
+                "start_utc": "2026-12-12T06:00:00Z",
+                "end_utc": "2026-12-12T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "SGD",
+        "amount": 10,
+        "unit": "per_parent_child_pair",
+        "year": 2026,
+        "label": "SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.",
+        "included": "El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.",
+        "extras": "SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra.",
+        "deposit": "Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja."
+        }
+      },
+      "editorial_reason": "El niño con un adulto construye y decora un coche con batería y aprende sobre el circuito eléctrico.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026."
+      ],
+      "sources": [
+        {
+          "url": "https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2531-20261212-20261212"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -467605,7 +468444,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2527,
+      "total_dossiers": 2531,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -495150,6 +495989,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2528",
+      "event_id": "CP2528-20261130-20261216",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2529",
+      "event_id": "CP2529-20261130-20261216",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2530",
+      "event_id": "CP2530-20261130-20261216",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2531",
+      "event_id": "CP2531-20261212-20261212",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -500738,10 +501597,14 @@
     "CP2524-20270426-20270430",
     "CP2525-20261222-20261230",
     "CP2526-20261222-20261230",
-    "CP2527-20261222-20261230"
+    "CP2527-20261222-20261230",
+    "CP2528-20261130-20261216",
+    "CP2529-20261130-20261216",
+    "CP2530-20261130-20261216",
+    "CP2531-20261212-20261212"
   ],
   "integration": {
-    "generated_sessions": 5178,
+    "generated_sessions": 5182,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

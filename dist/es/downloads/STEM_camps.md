@@ -97926,6 +97926,70 @@ Restricciones: Matvey: Edad inferior al mínimo de este grupo. Oscar: Edad infer
 Fuente: https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt
 Verificado: 2026-11-10
 
+### CP2528-20261130-20261216 · Digikids · Build the Ultimate Mt Kenya Obby · Build the Ultimate Mt Kenya Obby · 2026-11-30–2026-12-16
+
+Lugar: Kenia · En línea · Google Meet · organizador en Kenia
+Fecha: 2026-11-30 — 2026-12-16
+Edad: 8–11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online
+Idioma: La ficha del curso indica inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · KES 7500 por niño por un curso de 13 sesiones. · suplementos y condiciones en la ficha
+Acceso: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Restricciones: Matvey: Edad compatible con el grupo de 8–11. Confirme experiencia en Roblox Studio y acceso a las clases en directo. Oscar: Edad inferior al mínimo del grupo publicado. Suplementos: Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto. Pago: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Fuente: https://www.digikids.co.ke/courses/roblox-mt-kenya-obby-build-a-game?bootcamp=december-2026-bootcamp
+Verificado: 2026-11-10
+
+### CP2529-20261130-20261216 · Digikids · Make a Shop App for Your Neighbourhood Duka · Make a Shop App for Your Neighbourhood Duka · 2026-11-30–2026-12-16
+
+Lugar: Kenia · En línea · Google Meet · organizador en Kenia
+Fecha: 2026-11-30 — 2026-12-16
+Edad: 12–14 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online
+Idioma: La ficha del curso indica inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · KES 7500 por niño por un curso de 13 sesiones. · suplementos y condiciones en la ficha
+Acceso: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Restricciones: Matvey: Edad inferior al mínimo del grupo publicado. Oscar: Edad inferior al mínimo del grupo publicado. Suplementos: Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto. Pago: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Fuente: https://www.digikids.co.ke/courses/duka-pos-build-and-launch-a-shop-app?bootcamp=december-2026-bootcamp
+Verificado: 2026-11-10
+
+### CP2530-20261130-20261216 · Digikids · Practical Data Structures and Problem Solving · Practical Data Structures and Problem Solving · 2026-11-30–2026-12-16
+
+Lugar: Kenia · En línea · Google Meet · organizador en Kenia
+Fecha: 2026-11-30 — 2026-12-16
+Edad: 15–17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online
+Idioma: La ficha del curso indica inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · KES 7500 por niño por un curso de 13 sesiones. · suplementos y condiciones en la ficha
+Acceso: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Restricciones: Matvey: Edad inferior al mínimo del grupo publicado. Oscar: Edad inferior al mínimo del grupo publicado. Suplementos: Se requiere portátil e internet. Para Roblox revise instalación y configuración de la cuenta con un adulto. Pago: Inscripción hasta el 29 de noviembre de 2026. Confirme la hora de cierre, pago desde el extranjero y acceso al grupo.
+Fuente: https://www.digikids.co.ke/courses/practical-data-structures-and-problem-solving?bootcamp=december-2026-bootcamp
+Verificado: 2026-11-10
+
+### CP2531-20261212-20261212 · Tampines Courtview · Young Robotics Explorers · Young Robotics Explorers · 2026-12-12–2026-12-12
+
+Lugar: Singapur · Our Tampines Hub · Seminar Room 4 · Level 3 · 1 Tampines Walk, Singapore
+Fecha: 2026-12-12 — 2026-12-12
+Edad: De 5–9 años con un adulto acompañante.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción en inglés. Confirme el idioma del taller.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.
+Restricciones: Matvey: Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja. Oscar: Edad dentro del rango de 5–9. Confirme acceso de familias extranjeras y disponibilidad de entrada para cada pareja. Suplementos: SGD 10 por pareja adulto + niño. Incluye materiales. Los posibles cargos adicionales se muestran al tramitar la compra. Pago: Confirme plazas y categoría de entrada en OnePA. Inscripción indicada hasta el 12 de diciembre de 2026.
+Fuente: https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
