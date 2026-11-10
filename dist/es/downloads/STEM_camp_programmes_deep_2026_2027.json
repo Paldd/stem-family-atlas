@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3331
+    "source_urls": 3332
   },
   "countries": [
     {
@@ -207912,7 +207912,12 @@
                 "start_utc": "2026-12-31T01:00:00Z",
                 "end_utc": "2026-12-31T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "La página de inscripción muestra Available para el grupo matutino del 28 al 31 de diciembre de 2026, 09:00–12:00, Stamford Ho Man Tin. El campamento confirma la plaza individual.",
+              "checked": "2026-11-10"
+            }
           },
           {
             "start": "2026-12-28",
@@ -208018,9 +208023,14 @@
           "title": "Practical camp FAQ",
           "url": "https://www.campasia.hk/getting-ready/faq/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.campasia.hk/book-a-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-10",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -208133,7 +208143,12 @@
                 "start_utc": "2026-12-31T01:00:00Z",
                 "end_utc": "2026-12-31T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "La página de inscripción muestra Available para el grupo matutino del 28 al 31 de diciembre de 2026, 09:00–12:00, Stamford Ho Man Tin. El campamento confirma la plaza individual.",
+              "checked": "2026-11-10"
+            }
           },
           {
             "start": "2026-12-28",
@@ -208239,9 +208254,14 @@
           "title": "Practical camp FAQ",
           "url": "https://www.campasia.hk/getting-ready/faq/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.campasia.hk/book-a-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-10",
       "related_event_ids": [],
       "calendar_links": [
         {

@@ -7367,6 +7367,45 @@ Condiciones: El torneo anuncia un horario general de 08:00 a 18:30. No hay horar
 Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 Verificado: 2026-11-10
 
+### C5507 · Feria de Robótica Nobsa 2026 · Primaria · Robótica, electrónica o automatización
+
+Fecha: 2026-11-06 — 2026-11-06
+Edad: Primaria. Confirme la edad exacta y la admisión de alumnos extranjeros en la próxima temporada.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Inscripción escolar. El reglamento indica hasta el 23 de octubre de 2026 o hasta agotar las plazas.
+Coste: Inscripción gratuita.
+Restricciones: Fecha del anuncio y el reglamento. Para participantes se indican las 07:00. No se acreditaron la realización ni los resultados.
+Fuente: https://feria-robotica.vercel.app/
+Verificado: 2026-11-10
+
+### C5508 · Feria de Robótica Nobsa 2026 · Bachillerato · Proyecto de automatización
+
+Fecha: 2026-11-06 — 2026-11-06
+Edad: Bachillerato según el reglamento. Confirme la equivalencia del nivel local.
+Matvey: No cumple el nivel escolar de esta categoría.
+Oscar: No cumple el nivel escolar de esta categoría.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Inscripción escolar. El reglamento indica hasta el 23 de octubre de 2026 o hasta agotar las plazas.
+Coste: Inscripción gratuita.
+Restricciones: Fecha del anuncio y el reglamento. Para participantes se indican las 07:00. No se acreditaron la realización ni los resultados.
+Fuente: https://feria-robotica.vercel.app/
+Verificado: 2026-11-10
+
+### C5509 · Feria de Robótica Nobsa 2026 · Seguidor de línea
+
+Fecha: 2026-11-06 — 2026-11-06
+Edad: El portal describe primaria y secundaria para la feria. El reglamento de la carrera no especifica edades.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Inscripción escolar. El reglamento indica hasta el 23 de octubre de 2026 o hasta agotar las plazas.
+Coste: Inscripción gratuita.
+Restricciones: Fecha del anuncio y el reglamento. Para participantes se indican las 07:00. No se acreditaron la realización ni los resultados.
+Fuente: https://feria-robotica.vercel.app/
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

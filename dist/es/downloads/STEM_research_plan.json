@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 366,
+    "prepared_ui_version": 367,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 365,
-    "previous_verified_commit": "133d744b8a4cdc5db2a52c0b6c74e23ec746f8a1"
+    "previous_verified_ui_version": 366,
+    "previous_verified_commit": "7801aa85aac7b1c6c8563e2a037eeaf32cc0fab5"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -39532,5 +39532,72 @@
       "CP2411": 1500
     },
     "yuntech_en_es_instruction_confirmed": false
+  },
+  "robotics_routes_family_visits_v367": {
+    "version": 367,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "national_competition_ids": [
+      "C5501",
+      "C5502",
+      "C5503",
+      "C5504",
+      "C5505",
+      "C5506"
+    ],
+    "local_competition_ids": [
+      "C5507",
+      "C5508",
+      "C5509"
+    ],
+    "exhibition_ids": [
+      "E813",
+      "E814"
+    ],
+    "updated_event_ids": [
+      "C1764",
+      "E245"
+    ],
+    "league_ids": [
+      "mubarmij-al-emarat",
+      "wro-uganda-local"
+    ],
+    "updated_dossiers": [
+      "CP1241",
+      "CP1242"
+    ],
+    "verified_same_site_sibling_groups": {
+      "ids": [
+        "CP1241",
+        "CP1242"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "hours": "09:00–12:00",
+      "currency": "HKD",
+      "per_child": 3200,
+      "two_children": 6400,
+      "instruction": "EN",
+      "checked": "2026-11-10",
+      "places_individually_confirmed": false
+    },
+    "uae_dates_exact": false,
+    "uae_young_innovators_upper_age_conflict": [
+      12,
+      13
+    ],
+    "archives_advertised_not_result_verified": [
+      "C5506",
+      "C5507",
+      "C5508",
+      "C5509"
+    ],
+    "seoul_exact_dates": false,
+    "wro_expo_public_access": false,
+    "puerto_rico_robotics_cup_hour_conflict": [
+      "12:00",
+      "13:30"
+    ]
   }
 }

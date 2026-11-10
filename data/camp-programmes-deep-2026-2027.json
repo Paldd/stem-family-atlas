@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3331
+    "source_urls": 3332
   },
   "countries": [
     {
@@ -176500,7 +176500,12 @@
                 "start_utc": "2026-12-31T01:00:00Z",
                 "end_utc": "2026-12-31T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "На странице записи указано Available для утренней группы 28–31 декабря 2026, 09:00–12:00, Stamford Ho Man Tin. Место для конкретного ребёнка подтверждает лагерь.",
+              "checked": "2026-11-10"
+            }
           },
           {
             "start": "2026-12-28",
@@ -176605,9 +176610,14 @@
           "title": "Practical camp FAQ",
           "url": "https://www.campasia.hk/getting-ready/faq/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.campasia.hk/book-a-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-05"
+      "checked": "2026-11-10"
     },
     {
       "id": "CP1242",
@@ -176696,7 +176706,12 @@
                 "start_utc": "2026-12-31T01:00:00Z",
                 "end_utc": "2026-12-31T04:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "open",
+              "label": "На странице записи указано Available для утренней группы 28–31 декабря 2026, 09:00–12:00, Stamford Ho Man Tin. Место для конкретного ребёнка подтверждает лагерь.",
+              "checked": "2026-11-10"
+            }
           },
           {
             "start": "2026-12-28",
@@ -176801,9 +176816,14 @@
           "title": "Practical camp FAQ",
           "url": "https://www.campasia.hk/getting-ready/faq/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.campasia.hk/book-a-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-05"
+      "checked": "2026-11-10"
     },
     {
       "id": "CP1243",

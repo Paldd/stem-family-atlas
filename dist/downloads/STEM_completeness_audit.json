@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12217,
-    "competition_cards": 5499,
-    "event_cards": 812,
+    "cards": 12228,
+    "competition_cards": 5508,
+    "event_cards": 814,
     "camp_cards": 5906,
-    "league_profiles": 353,
-    "major_exhibition_cards": 706,
+    "league_profiles": 355,
+    "major_exhibition_cards": 708,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 857,
+      "total": 860,
       "countries_with_records": 15,
-      "competitions": 498,
+      "competitions": 501,
       "events": 67,
       "major_exhibitions": 61,
       "camps": 292,
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 495,
+      "total": 496,
       "countries_with_records": 61,
-      "competitions": 285,
+      "competitions": 286,
       "events": 54,
       "major_exhibitions": 47,
       "camps": 156,
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 3326,
+      "total": 3333,
       "countries_with_records": 51,
-      "competitions": 1265,
-      "events": 208,
-      "major_exhibitions": 195,
+      "competitions": 1270,
+      "events": 210,
+      "major_exhibitions": 197,
       "camps": 1853,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -9103,6 +9103,38 @@
       "new": false
     },
     {
+      "id": "mubarmij-al-emarat",
+      "name": "Mubarmij Al Emarat",
+      "group": "ai",
+      "event_ids": [
+        "C5501",
+        "C5502",
+        "C5503",
+        "C5504",
+        "C5505"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.mubarmijalemarat.com/",
+      "new": false
+    },
+    {
+      "id": "wro-uganda-local",
+      "name": "WRO Uganda · Mindset Coders",
+      "group": "regional",
+      "event_ids": [
+        "C5506"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro.mindset-group.org/competition/2026",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17867,6 +17899,28 @@
       "end": "2026-11-07",
       "visitor_policy": "confirm_children",
       "source": "https://asist.ac.ug/events/national-championship-2026",
+      "new": false
+    },
+    {
+      "id": "E813",
+      "name": "Andersen Inside Out – Robots and Fairytales Meet",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.dti.dk/services/fairy-tale-robots/48339",
+      "new": false
+    },
+    {
+      "id": "E814",
+      "name": "Science Museum Tokyo · FANUC Kick for Goal",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.fanuc.co.jp/en/profile/pr/newsrelease/2026/notice20260827.html",
       "new": false
     },
     {

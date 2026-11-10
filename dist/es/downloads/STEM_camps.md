@@ -59076,7 +59076,7 @@ Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
 Fuente: https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### CP1241-20261228-20261231-20261228-full · Camp Asia Hong Kong · STEM Explorers · STEM Explorers · FULL · 2026-12-28–2026-12-31
 
@@ -59092,7 +59092,7 @@ Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
 Fuente: https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### CP1242-20261228-20261231-20261228-half · Camp Asia Hong Kong · Robo-Tech Explorers · Robo-Tech Explorers · HALF · 2026-12-28–2026-12-31
 
@@ -59108,7 +59108,7 @@ Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
 Fuente: https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### CP1242-20261228-20261231-20261228-full · Camp Asia Hong Kong · Robo-Tech Explorers · Robo-Tech Explorers · FULL · 2026-12-28–2026-12-31
 
@@ -59124,7 +59124,7 @@ Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
 Fuente: https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### CP1243-20261221-20261224-20261221-half · Camp Asia Hong Kong · Science & Tech Explorers · Science & Tech Explorers · HALF · 2026-12-21–2026-12-24
 

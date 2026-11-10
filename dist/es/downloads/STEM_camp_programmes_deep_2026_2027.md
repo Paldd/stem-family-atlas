@@ -97542,7 +97542,7 @@ Hong Kong · Stamford American School · Ho Man Tin
 
 Hong Kong · Stamford American School · Ho Man Tin
 
-**Se ha comprobado:** 2026-11-05
+**Verificado:** 2026-11-10
 
 **Edad:** 6–7
 
@@ -97586,6 +97586,8 @@ Hong Kong · Stamford American School · Ho Man Tin
 
 - 2026-12-31 · 09:00–12:00 · Asia/Hong_Kong · Experimentos científicos, programación por bloques, construir modelos y modelado 3D para 6–7 años; tareas creativas en equipo y pausas activas. Título / URL antiguos más amplios: admisión tomada de tabla vigente de sesión concreta. Jornada completa combina bloques AM y PM elegidos de misma semana / edad; no día entero de una sola materia técnica.
 
+**Disponibilidad:** La página de inscripción muestra Available para el grupo matutino del 28 al 31 de diciembre de 2026, 09:00–12:00, Stamford Ho Man Tin. El campamento confirma la plaza individual.
+
 [fuente](https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/)
 
 ### STEM Explorers · FULL
@@ -97614,11 +97616,13 @@ Hong Kong · Stamford American School · Ho Man Tin
 
 - [Practical camp FAQ](https://www.campasia.hk/getting-ready/faq/) · 2026-11-05
 
+- [Se comprobó la ficha oficial del programa.](https://www.campasia.hk/book-a-camp/) · 2026-11-10
+
 ## CP1242 · Camp Asia Hong Kong · Robo-Tech Explorers
 
 Hong Kong · Stamford American School · Ho Man Tin
 
-**Se ha comprobado:** 2026-11-05
+**Verificado:** 2026-11-10
 
 **Edad:** 8–10
 
@@ -97662,6 +97666,8 @@ Hong Kong · Stamford American School · Ho Man Tin
 
 - 2026-12-31 · 09:00–12:00 · Asia/Hong_Kong · Diseñar, construir y programar robots, incluido Vexgo; resolver retos en equipo y pruebas internas de robots. Torneo interno del campamento no es clasificatorio VEX ni medalla competitiva internacional. Jornada completa combina bloques AM y PM elegidos de misma semana / edad; no día entero de una sola materia técnica.
 
+**Disponibilidad:** La página de inscripción muestra Available para el grupo matutino del 28 al 31 de diciembre de 2026, 09:00–12:00, Stamford Ho Man Tin. El campamento confirma la plaza individual.
+
 [fuente](https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/)
 
 ### Robo-Tech Explorers · FULL
@@ -97689,6 +97695,8 @@ Hong Kong · Stamford American School · Ho Man Tin
 - [Camp-specific terms](https://www.campasia.hk/getting-ready/terms-and-conditions/) · 2026-11-05
 
 - [Practical camp FAQ](https://www.campasia.hk/getting-ready/faq/) · 2026-11-05
+
+- [Se comprobó la ficha oficial del programa.](https://www.campasia.hk/book-a-camp/) · 2026-11-10
 
 ## CP1243 · Camp Asia Hong Kong · Science & Tech Explorers
 

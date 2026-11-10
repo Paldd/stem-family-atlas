@@ -29847,6 +29847,190 @@
         "evidence": "Se comprobó la ficha oficial del programa."
       },
       {
+        "id": "mubarmij-al-emarat",
+        "name": "Mubarmij Al Emarat",
+        "group": "ai",
+        "age_summary": "Novices 8–13. Pioneers 13–18 y 18–24. Young Innovators 7–12 o 7–13 según distintas secciones del reglamento. Junior Innovators 13–18.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Campeonato escolar de EAU con misiones de robots autónomos y presentación de proyectos AIoT.",
+        "categories": [
+          {
+            "name": "Mubarmij Al Emarat · Novices",
+            "age": "8–13",
+            "team": "2–4 participantes. Mentor de 18 años o más.",
+            "hardware": "Robot autónomo con controlador obligatorio MC 4.0. Se aplican las restricciones de construcción y componentes del reglamento.",
+            "entry": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+            "event_id": "C5501",
+            "source": "https://www.mubarmijalemarat.com/",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La cronología de la temporada y las preguntas sobre kits indican el 1 de diciembre de 2026. Al pie de la portada aparece un aviso separado de inscripción cerrada para la segunda temporada. Confirme el estado actual con el centro.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Mubarmij Al Emarat · Junior Pioneers",
+            "age": "13–18",
+            "team": "2–4 participantes. Mentor de 18 años o más.",
+            "hardware": "Robot autónomo con controlador obligatorio MC 4.0. Se aplican las restricciones de construcción y componentes del reglamento.",
+            "entry": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+            "event_id": "C5502",
+            "source": "https://www.mubarmijalemarat.com/",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La cronología de la temporada y las preguntas sobre kits indican el 1 de diciembre de 2026. Al pie de la portada aparece un aviso separado de inscripción cerrada para la segunda temporada. Confirme el estado actual con el centro.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Mubarmij Al Emarat · Senior Pioneers",
+            "age": "18–24",
+            "team": "2–4 participantes. El mentor es opcional para Senior Pioneers.",
+            "hardware": "Robot autónomo con controlador obligatorio MC 4.0. Se aplican las restricciones de construcción y componentes del reglamento.",
+            "entry": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+            "event_id": "C5503",
+            "source": "https://www.mubarmijalemarat.com/",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La cronología de la temporada y las preguntas sobre kits indican el 1 de diciembre de 2026. Al pie de la portada aparece un aviso separado de inscripción cerrada para la segunda temporada. Confirme el estado actual con el centro.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Mubarmij Al Emarat · Young Innovators",
+            "age": "7–12 años en la sección 7.1 del PDF, 7–13 años en la sección 2.1 y en el sitio. Confirme la admisión a los 13 años.",
+            "team": "4–6 participantes. Mentor de 18 años o más.",
+            "hardware": "Prototipo Smart World sobre IA, IoT o STEAM. Las preguntas frecuentes mencionan MC 4.0 y recursos del centro. Confirme el equipo exigido para el proyecto.",
+            "entry": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+            "event_id": "C5504",
+            "source": "https://www.mubarmijalemarat.com/",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La cronología de la temporada y las preguntas sobre kits indican el 1 de diciembre de 2026. Al pie de la portada aparece un aviso separado de inscripción cerrada para la segunda temporada. Confirme el estado actual con el centro.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Mubarmij Al Emarat · Junior Innovators",
+            "age": "13–18",
+            "team": "4–6 participantes. Mentor de 18 años o más.",
+            "hardware": "Prototipo Smart World sobre IA, IoT o STEAM. Las preguntas frecuentes mencionan MC 4.0 y recursos del centro. Confirme el equipo exigido para el proyecto.",
+            "entry": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+            "event_id": "C5505",
+            "source": "https://www.mubarmijalemarat.com/",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La cronología de la temporada y las preguntas sobre kits indican el 1 de diciembre de 2026. Al pie de la portada aparece un aviso separado de inscripción cerrada para la segunda temporada. Confirme el estado actual con el centro.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5501",
+          "C5502",
+          "C5503",
+          "C5504",
+          "C5505"
+        ],
+        "legacy_ids": [],
+        "route": "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente.",
+        "hardware": "Robot autónomo con controlador obligatorio MC 4.0. Se aplican las restricciones de construcción y componentes del reglamento.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "Campeonato escolar nacional.",
+        "strengths": "Campeonato escolar de EAU con misiones de robots autónomos y presentación de proyectos AIoT.",
+        "requirements": [
+          "Un docente inscribe al equipo por un centro educativo de EAU. Según las preguntas frecuentes, el alumno no puede inscribirse de forma independiente."
+        ],
+        "nuances": [
+          "Las preguntas frecuentes y el PDF discrepan sobre el paso entre rondas. Confirme con el organizador el procedimiento final y las reglas para edades limítrofes."
+        ],
+        "cost": "El centro patrocinado recibe un kit y orientación. El centro autofinanciado compra el kit. La tarifa no figura en el reglamento público.",
+        "award": "Campeonato escolar nacional.",
+        "sources": [
+          {
+            "url": "https://www.mubarmijalemarat.com/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.mubarmijalemarat.com/competition-kits/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.mubarmijalemarat.com/wp-content/uploads/2026/09/Mubarmij_Al_Emarat_Guidebook-V5.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
+        "id": "wro-uganda-local",
+        "name": "WRO Uganda · Mindset Coders",
+        "group": "regional",
+        "age_summary": "8–19 años para la temporada en conjunto. Confirme el límite local de cada disciplina por separado.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Vía nacional oficial de WRO para escuelas de Uganda.",
+        "categories": [
+          {
+            "name": "WRO Uganda 2026 · National Finals",
+            "age": "8–19 años para la temporada en conjunto. Confirme el límite local de cada disciplina por separado.",
+            "team": "Equipo de 2–3 estudiantes y un mentor. Un mentor puede acompañar a varios equipos.",
+            "hardware": "RoboMission, Future Innovators y Future Engineers. Las reglas técnicas dependen de la disciplina.",
+            "entry": "Equipo de una escuela en Uganda. Inscripción → clasificación regional → final nacional → cupo mundial según el organizador nacional.",
+            "event_id": "C5506",
+            "source": "https://wro.mindset-group.org/competition/2026",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "El organizador anunció clasificatorias regionales en julio y la final el 28 de agosto de 2026. Los resultados de la final no se acreditaron en las fuentes consultadas. Aún se desconocen las fechas de la próxima temporada.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5506"
+        ],
+        "legacy_ids": [],
+        "route": "Equipo de una escuela en Uganda. Inscripción → clasificación regional → final nacional → cupo mundial según el organizador nacional.",
+        "hardware": "RoboMission, Future Innovators y Future Engineers. Las reglas técnicas dependen de la disciplina.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "Clasificación a la final mundial según criterios nacionales.",
+        "strengths": "Vía nacional oficial de WRO para escuelas de Uganda.",
+        "requirements": [
+          "Equipo de 2–3 estudiantes y un mentor. Un mentor puede acompañar a varios equipos."
+        ],
+        "nuances": [
+          "El organizador anunció clasificatorias regionales en julio y la final el 28 de agosto de 2026. Los resultados de la final no se acreditaron en las fuentes consultadas. Aún se desconocen las fechas de la próxima temporada."
+        ],
+        "cost": "600000 UGX por equipo con kit o 100000 UGX por participante con robot propio. Tarifas de la temporada 2026.",
+        "award": "Clasificación a la final mundial según criterios nacionales.",
+        "sources": [
+          {
+            "url": "https://wro.mindset-group.org/competition/2026",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://wro.mindset-group.org/register",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://wro.mindset-group.org/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://wro-association.org/about-wro/association/member-countries/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://wro-association.org/competition/international-events/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -32169,7 +32353,7 @@
           "10-12",
           "teen"
         ],
-        "summary": "Calendario local oficial: Ponce 13 de noviembre 2026, 08–15. Disciplinas y admisión escolar / residente de etapa concreta sin describir; equipo visitante no considerado admitido. PDF RoboMission 2026: Elementary 8–12, nacidos 2014–2018, equipo 2–3; Matvey encaja por año, Oscar no. Página general aún dice LEGO-only, PDF adjunto permite plataformas distintas dentro de límites técnicos: confirmar reglas de etapa. Copa nombrada por separado el 10 de diciembre en dos programas oficiales; horas difieren. Sin establecer categorías separadas, edad, admisión extranjera abierta, cuota propia o entrada independiente. No sustituir por final WRO ni prometer medalla adicional. Project Promise anuncia torneo nacional en mayo 2027. Vía colegios / youth organizations / community groups del territorio: organización se registra, adulto se forma, crean club, clubes establecidos invitados a selección. Visita independiente de hermanos no da derecho a representar USVI. Mención December 2027 de final internacional es afirmación del operador local y no se convirtió en fecha mundial separada. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer.",
+        "summary": "Calendario local oficial: Ponce 13 de noviembre 2026, 08–15. Disciplinas y admisión escolar / residente de etapa concreta sin describir; equipo visitante no considerado admitido. PDF RoboMission 2026: Elementary 8–12, nacidos 2014–2018, equipo 2–3; Matvey encaja por año, Oscar no. Página general aún dice LEGO-only, PDF adjunto permite plataformas distintas dentro de límites técnicos: confirmar reglas de etapa. No se publicaron categorías de edad, admisión ni entrada propias. Project Promise anuncia torneo nacional en mayo 2027. Vía colegios / youth organizations / community groups del territorio: organización se registra, adulto se forma, crean club, clubes establecidos invitados a selección. Visita independiente de hermanos no da derecho a representar USVI. Mención December 2027 de final internacional es afirmación del operador local y no se convirtió en fecha mundial separada. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer. Ficha activa con URL 2025 describe 2026: RoboMissions 22 de junio y Future Innovators 21 de septiembre, Mona Prep auditorium; ambas fechas pasadas. U13 local no equivale al rango global de todas categorías. Según página local un niño no participa en ambas disciplinas; coach puede dirigir varios equipos. Temporada nueva, excepciones menores y plaza extranjera sin establecer.",
         "categories": [
           {
             "name": "WRO Puerto Rico · Ponce regional 2026",
@@ -32185,7 +32369,7 @@
             "team": "Equipo; composición exacta según reglamento de categoría.",
             "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
             "age_rule": "Condicional / Condicional",
-            "entry": "Copa nombrada por separado el 10 de diciembre en dos programas oficiales; horas difieren. Sin establecer categorías separadas, edad, admisión extranjera abierta, cuota propia o entrada independiente. No sustituir por final WRO ni prometer medalla adicional."
+            "entry": "No se publicaron categorías de edad, admisión ni entrada propias."
           },
           {
             "name": "WRO US Virgin Islands · national competition · May 2027",
@@ -35192,7 +35376,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de ligas y programas: 353. Se conservan las 46 vías anteriores. Los formatos de Brasil se distinguen. Robofest LATAM y BajaBot se describen por categorías. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias de ligas y programas: 355. Se conservan las 46 vías anteriores. Los formatos de Brasil se distinguen. Robofest LATAM y BajaBot se describen por categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

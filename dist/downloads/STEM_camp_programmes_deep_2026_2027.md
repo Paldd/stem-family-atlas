@@ -97542,7 +97542,7 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 Гонконг · Stamford American School · Ho Man Tin
 
-**Проверено:** 2026-11-05
+**Проверено:** 2026-11-10
 
 **Возраст:** 6–7
 
@@ -97586,6 +97586,8 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 - 2026-12-31 · 09:00–12:00 · Asia/Hong_Kong · Научные эксперименты, блочное программирование, сборка моделей и 3D-моделирование для 6–7 лет; творческие командные задания и подвижные перерывы. Заголовок / URL старой страницы шире: допуск взят из актуальной таблицы конкретной смены. Полный день соединяет выбранные AM и PM блоки одной недели / возраста; это не целый день одного технического предмета.
 
+**Наличие мест:** На странице записи указано Available для утренней группы 28–31 декабря 2026, 09:00–12:00, Stamford Ho Man Tin. Место для конкретного ребёнка подтверждает лагерь.
+
 [Источник](https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/)
 
 ### STEM Explorers · FULL
@@ -97614,11 +97616,13 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 - [Practical camp FAQ](https://www.campasia.hk/getting-ready/faq/) · 2026-11-05
 
+- [Проверена официальная карточка программы.](https://www.campasia.hk/book-a-camp/) · 2026-11-10
+
 ## CP1242 · Camp Asia Hong Kong · Robo-Tech Explorers
 
 Гонконг · Stamford American School · Ho Man Tin
 
-**Проверено:** 2026-11-05
+**Проверено:** 2026-11-10
 
 **Возраст:** 8–10
 
@@ -97662,6 +97666,8 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 
 - 2026-12-31 · 09:00–12:00 · Asia/Hong_Kong · Проектирование, сборка и программирование роботов, включая Vexgo; командное решение задач и внутренние испытания роботов. Внутренний турнир лагеря не квалификация VEX и не международная конкурсная медаль. Полный день соединяет выбранные AM и PM блоки одной недели / возраста; это не целый день одного технического предмета.
 
+**Наличие мест:** На странице записи указано Available для утренней группы 28–31 декабря 2026, 09:00–12:00, Stamford Ho Man Tin. Место для конкретного ребёнка подтверждает лагерь.
+
 [Источник](https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/)
 
 ### Robo-Tech Explorers · FULL
@@ -97689,6 +97695,8 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 - [Camp-specific terms](https://www.campasia.hk/getting-ready/terms-and-conditions/) · 2026-11-05
 
 - [Practical camp FAQ](https://www.campasia.hk/getting-ready/faq/) · 2026-11-05
+
+- [Проверена официальная карточка программы.](https://www.campasia.hk/book-a-camp/) · 2026-11-10
 
 ## CP1243 · Camp Asia Hong Kong · Science & Tech Explorers
 
