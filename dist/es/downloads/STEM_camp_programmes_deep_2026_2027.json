@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2400,
+    "dossiers": 2403,
     "countries": 141,
     "swiss": 163,
     "by_status": {
-      "published_2026_27": 338,
+      "published_2026_27": 341,
       "published_2027": 674,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3315
+    "source_urls": 3322
   },
   "countries": [
     {
@@ -480,7 +480,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 176
+      "count": 179
     },
     {
       "country": "Surinam",
@@ -421496,6 +421496,1139 @@
         }
       ],
       "language_roles": {}
+    },
+    {
+      "id": "CP2401",
+      "slug": "miami-childrens-museum-winter-2026",
+      "provider": "Miami Children’s Museum",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Miami · Watson Island",
+      "age": "4–12 años según el formulario.",
+      "programme": "Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Primera semana en el formulario 21–24 de diciembre, en la página 21–26 de diciembre sin el 25. Confirme el 26 de diciembre. El calendario incluye solo los días del formulario. Segunda semana 28–31 de diciembre. Horario 09:00–15:00.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Winter Break Week 1",
+            "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+            "price": "350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.",
+            "entry": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.",
+            "extras": "Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter Break Week 2",
+            "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+            "price": "350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.",
+            "entry": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.",
+            "extras": "Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 350,
+        "currency": "USD",
+        "unit": "per_child_week",
+        "label": "350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.",
+        "included": "Consulte al organizador.",
+        "extras": "Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma."
+        }
+      },
+      "editorial_reason": "Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plazas y edad en la fecha de participación."
+      ],
+      "sources": [
+        {
+          "url": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/66db2ebe365cb31f2f127f24/6a99cb508342dbb6fc5520f2_Winter%20Camp-reg-fillable-2026.pdf",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2401-20261221-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2401-20261228-20261231"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2402",
+      "slug": "san-diego-automotive-museum-2026-27",
+      "provider": "San Diego Automotive Museum",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "San Diego · Balboa Park",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "programme": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-03-26",
+            "2027-03-26"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ],
+          [
+            "2027-05-31",
+            "2027-05-31"
+          ],
+          [
+            "2027-06-07",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-14",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-21",
+            "2027-06-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "Veterans Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+            "price": "65 USD sin membresía o 52 USD para socios.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-11T17:00:00Z",
+                "end_utc": "2026-11-11T23:00:00Z",
+                "topic": "Veterans Day Camp"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-25",
+            "label": "Thanksgiving Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+            "price": "105 USD sin membresía u 84 USD para socios por 3 días.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T16:30:00Z",
+                "end_utc": "2026-11-23T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T16:30:00Z",
+                "end_utc": "2026-11-24T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T16:30:00Z",
+                "end_utc": "2026-11-25T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Winter Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+            "price": "105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T16:30:00Z",
+                "end_utc": "2026-12-21T20:00:00Z",
+                "topic": "Winter Break Camp"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T16:30:00Z",
+                "end_utc": "2026-12-22T20:00:00Z",
+                "topic": "Winter Break Camp"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T16:30:00Z",
+                "end_utc": "2026-12-23T20:00:00Z",
+                "topic": "Winter Break Camp"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "MLK Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-03-26",
+            "end": "2027-03-26",
+            "label": "Chavez Day / Teacher Workday",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "Spring Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-05-31",
+            "end": "2027-05-31",
+            "label": "Memorial Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-06-07",
+            "end": "2027-06-11",
+            "label": "Transportation Explorers",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-06-14",
+            "end": "2027-06-18",
+            "label": "Car Science Lab",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          },
+          {
+            "start": "2027-06-21",
+            "end": "2027-06-25",
+            "label": "Green Machines",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "No se publicaron la tarifa ni el horario del turno de 2027.",
+            "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "unknown",
+        "label": "105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron.",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas."
+        }
+      },
+      "editorial_reason": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plazas y edad en la fecha de participación."
+      ],
+      "sources": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20261111-20261111"
+          ]
+        },
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20261123-20261125"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20261221-20261223"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270118-20270118"
+          ]
+        },
+        {
+          "start": "2027-03-26",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270326-20270326"
+          ]
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270412-20270416"
+          ]
+        },
+        {
+          "start": "2027-05-31",
+          "end": "2027-05-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270531-20270531"
+          ]
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-06-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270607-20270611"
+          ]
+        },
+        {
+          "start": "2027-06-14",
+          "end": "2027-06-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270614-20270618"
+          ]
+        },
+        {
+          "start": "2027-06-21",
+          "end": "2027-06-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2402-20270621-20270625"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2403",
+      "slug": "science-museum-oklahoma-winter-2026",
+      "provider": "Science Museum Oklahoma",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Oklahoma City · Adventure District",
+      "age": "PreK de 4–5 años, K–1, 2–3 y 4–6 grados. En el grupo mayor hasta 12 años.",
+      "programme": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Snowball Science · PreK 4–5",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "70 USD sin membresía, 60 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-1-group-1",
+            "age": "Grupo escolar PreK 4–5.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T18:00:00Z",
+                "topic": "Snowball Science · PreK 4–5"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T18:00:00Z",
+                "topic": "Snowball Science · PreK 4–5"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Survive the Freeze · K–1",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-1-group-2",
+            "age": "Grupo escolar K–1.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Survive the Freeze · K–1"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Survive the Freeze · K–1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Polar Research Expedition · 2–3",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-1-group-3",
+            "age": "Grupo escolar 2–3.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Polar Research Expedition · 2–3"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Polar Research Expedition · 2–3"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Build for the Blizzard · 4–6",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-1-group-4",
+            "age": "Grupo escolar 4–6.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Build for the Blizzard · 4–6"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Build for the Blizzard · 4–6"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Math Magic & Pattern Play · PreK 4–5",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "70 USD sin membresía, 60 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-2-group-1",
+            "age": "Grupo escolar PreK 4–5.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T18:00:00Z",
+                "topic": "Math Magic & Pattern Play · PreK 4–5"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T18:00:00Z",
+                "topic": "Math Magic & Pattern Play · PreK 4–5"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Flight School · K–1",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-2-group-2",
+            "age": "Grupo escolar K–1.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Flight School · K–1"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Flight School · K–1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Chemical Chaos · 2–3",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página indica que se agotaron las plazas.",
+            "variant_key": "week-2-group-3",
+            "age": "Grupo escolar 2–3.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "La página indica que se agotaron las plazas."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Chemical Chaos · 2–3"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Chemical Chaos · 2–3"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Survival of the Fittest · 4–6",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD sin membresía, 110 USD para socios por 2 días.",
+            "entry": "La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.",
+            "variant_key": "week-2-group-4",
+            "age": "Grupo escolar 4–6.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Grupo escolar 4–6."
+              }
+            },
+            "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Survival of the Fittest · 4–6"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Survival of the Fittest · 4–6"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "unknown",
+        "label": "120 USD sin membresía, 110 USD para socios por 2 días.",
+        "included": "Consulte al organizador.",
+        "extras": "No se confirmaron las condiciones de cuidado adicional para el turno de invierno.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "La página indica que se agotaron las plazas."
+        }
+      },
+      "editorial_reason": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plazas y edad en la fecha de participación."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261221-20261222-week-1-group-1"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261221-20261222-week-1-group-2"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261221-20261222-week-1-group-3"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261221-20261222-week-1-group-4"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261228-20261229-week-2-group-1"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261228-20261229-week-2-group-2"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261228-20261229-week-2-group-3"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2403-20261228-20261229-week-2-group-4"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -440056,7 +441189,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2400,
+      "total_dossiers": 2403,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -466016,6 +467149,106 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2401",
+      "event_id": "CP2401-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2401",
+      "event_id": "CP2401-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20261111-20261111",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20261123-20261125",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20261221-20261223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270118-20270118",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270326-20270326",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270412-20270416",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270531-20270531",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270607-20270611",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270614-20270618",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2402",
+      "event_id": "CP2402-20270621-20270625",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261221-20261222-week-1-group-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261221-20261222-week-1-group-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261221-20261222-week-1-group-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261221-20261222-week-1-group-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261228-20261229-week-2-group-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261228-20261229-week-2-group-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261228-20261229-week-2-group-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2403",
+      "event_id": "CP2403-20261228-20261229-week-2-group-4",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -471301,10 +472534,30 @@
     "CP2398-20270216-20270216",
     "CP2398-20270218-20270218",
     "CP2399-20261221-20261225",
-    "CP2400-20270104-20270212"
+    "CP2400-20270104-20270212",
+    "CP2401-20261221-20261224",
+    "CP2401-20261228-20261231",
+    "CP2402-20261111-20261111",
+    "CP2402-20261123-20261125",
+    "CP2402-20261221-20261223",
+    "CP2402-20270118-20270118",
+    "CP2402-20270326-20270326",
+    "CP2402-20270412-20270416",
+    "CP2402-20270531-20270531",
+    "CP2402-20270607-20270611",
+    "CP2402-20270614-20270618",
+    "CP2402-20270621-20270625",
+    "CP2403-20261221-20261222-week-1-group-1",
+    "CP2403-20261221-20261222-week-1-group-2",
+    "CP2403-20261221-20261222-week-1-group-3",
+    "CP2403-20261221-20261222-week-1-group-4",
+    "CP2403-20261228-20261229-week-2-group-1",
+    "CP2403-20261228-20261229-week-2-group-2",
+    "CP2403-20261228-20261229-week-2-group-3",
+    "CP2403-20261228-20261229-week-2-group-4"
   ],
   "integration": {
-    "generated_sessions": 4875,
+    "generated_sessions": 4895,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 363,
+    "prepared_ui_version": 365,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 361,
-    "previous_verified_commit": "898c0a43e8abf2cc95b0ddde47843c4f69169db4"
+    "previous_verified_ui_version": 363,
+    "previous_verified_commit": "edb2708b2658cd79ae8616c1e6cd3a74ed997c66"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -39425,5 +39425,45 @@
     "quito_family_ticket_confirmed": false,
     "first_japan_review_sessions_public": false,
     "iaitc_final_dates_provisional": true
+  },
+  "dream_and_museum_learning_v365": {
+    "version": 365,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5477",
+      "C5478",
+      "C5479"
+    ],
+    "exhibition_ids": [
+      "E811"
+    ],
+    "learning_event_ids": [
+      "L994",
+      "L995",
+      "L996",
+      "L997",
+      "L998",
+      "L999",
+      "L1000",
+      "L1001",
+      "L1002",
+      "L1003"
+    ],
+    "camp_dossier_ids": [
+      "CP2401",
+      "CP2402",
+      "CP2403"
+    ],
+    "new_league_ids": [
+      "robothink-dream"
+    ],
+    "camp_variants": 20,
+    "camp_countries": 141,
+    "cern_slots": 8,
+    "dream_overseas_entry_unconfirmed": true,
+    "miami_disputed_date": "2026-12-26",
+    "oklahoma_sold_out_groups": 7
   }
 }

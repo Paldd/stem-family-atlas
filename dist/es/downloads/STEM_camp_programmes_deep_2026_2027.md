@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2400 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-09. 2403 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -188281,6 +188281,474 @@ Argentina · Buenos Aires · Caballito
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://iesm.edu.ar/blog/colonia-de-verano-2027) · 2026-11-10
+
+## CP2401 · Miami Children’s Museum
+
+EE. UU. · Miami · Watson Island
+
+**Verificado:** 2026-11-10
+
+**Edad:** 4–12 años según el formulario.
+
+**Idioma:** No se confirmó el idioma de las actividades o del arbitraje.
+
+**Programa:** Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Primera semana en el formulario 21–24 de diciembre, en la página 21–26 de diciembre sin el 25. Confirme el 26 de diciembre. El calendario incluye solo los días del formulario. Segunda semana 28–31 de diciembre. Horario 09:00–15:00.
+
+**Precio / año:** 2026 · 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+
+**Oscar:** Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+
+**Motivo de selección:** Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.
+
+### Antes de solicitar plaza
+
+- Confirme plazas y edad en la fecha de participación.
+
+### Winter Break Week 1
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.
+
+**Suplementos:** Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.
+
+**Condiciones de participación:** Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+
+- 2026-12-21 · 09:00–15:00 · America/New_York · Winter Break Week 1
+
+- 2026-12-22 · 09:00–15:00 · America/New_York · Winter Break Week 1
+
+- 2026-12-23 · 09:00–15:00 · America/New_York · Winter Break Week 1
+
+- 2026-12-24 · 09:00–15:00 · America/New_York · Winter Break Week 1
+
+[fuente](https://www.miamichildrensmuseum.org/camps/winter-camp)
+
+### Winter Break Week 2
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan.
+
+**Suplementos:** Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza.
+
+**Condiciones de participación:** Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+
+- 2026-12-28 · 09:00–15:00 · America/New_York · Winter Break Week 2
+
+- 2026-12-29 · 09:00–15:00 · America/New_York · Winter Break Week 2
+
+- 2026-12-30 · 09:00–15:00 · America/New_York · Winter Break Week 2
+
+- 2026-12-31 · 09:00–15:00 · America/New_York · Winter Break Week 2
+
+[fuente](https://www.miamichildrensmuseum.org/camps/winter-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.miamichildrensmuseum.org/camps/winter-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://cdn.prod.website-files.com/66db2ebe365cb31f2f127f24/6a99cb508342dbb6fc5520f2_Winter%20Camp-reg-fillable-2026.pdf) · 2026-11-10
+
+## CP2402 · San Diego Automotive Museum
+
+EE. UU. · San Diego · Balboa Park
+
+**Verificado:** 2026-11-10
+
+**Edad:** 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+
+**Idioma:** No se confirmó el idioma de las actividades o del arbitraje.
+
+**Programa:** Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.
+
+**Precio / año:** 2026 · 105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+**Oscar:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+**Motivo de selección:** Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.
+
+### Antes de solicitar plaza
+
+- Confirme plazas y edad en la fecha de participación.
+
+### Veterans Day Camp
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** 65 USD sin membresía o 52 USD para socios.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+- 2026-11-11 · 09:00–15:00 · America/Los_Angeles · Veterans Day Camp
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/)
+
+### Thanksgiving Break Camp
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** 105 USD sin membresía u 84 USD para socios por 3 días.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+- 2026-11-23 · 08:30–12:00 · America/Los_Angeles · Thanksgiving Break Camp
+
+- 2026-11-24 · 08:30–12:00 · America/Los_Angeles · Thanksgiving Break Camp
+
+- 2026-11-25 · 08:30–12:00 · America/Los_Angeles · Thanksgiving Break Camp
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/)
+
+### Winter Break Camp
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** 105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+- 2026-12-21 · 08:30–12:00 · America/Los_Angeles · Winter Break Camp
+
+- 2026-12-22 · 08:30–12:00 · America/Los_Angeles · Winter Break Camp
+
+- 2026-12-23 · 08:30–12:00 · America/Los_Angeles · Winter Break Camp
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/)
+
+### MLK Day Camp
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Chavez Day / Teacher Workday
+
+**Fechas / estado:** 2027-03-26 — 2027-03-26
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Spring Break Camp
+
+**Fechas / estado:** 2027-04-12 — 2027-04-16
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Memorial Day Camp
+
+**Fechas / estado:** 2027-05-31 — 2027-05-31
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Transportation Explorers
+
+**Fechas / estado:** 2027-06-07 — 2027-06-11
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Car Science Lab
+
+**Fechas / estado:** 2027-06-14 — 2027-06-18
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Green Machines
+
+**Fechas / estado:** 2027-06-21 — 2027-06-25
+
+**Precio:** No se publicaron la tarifa ni el horario del turno de 2027.
+
+**Condiciones de participación:** Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+
+[fuente](https://sdautomuseum.org/education/school-programs/camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://sdautomuseum.org/education/school-programs/camps/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/) · 2026-11-10
+
+## CP2403 · Science Museum Oklahoma
+
+EE. UU. · Oklahoma City · Adventure District
+
+**Verificado:** 2026-11-10
+
+**Edad:** PreK de 4–5 años, K–1, 2–3 y 4–6 grados. En el grupo mayor hasta 12 años.
+
+**Idioma:** No se confirmó el idioma de las actividades o del arbitraje.
+
+**Programa:** Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.
+
+**Precio / año:** 2026 · 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+**Motivo de selección:** Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.
+
+### Antes de solicitar plaza
+
+- Confirme plazas y edad en la fecha de participación.
+
+### Snowball Science · PreK 4–5
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**Edad:** Grupo escolar PreK 4–5.
+
+**Precio:** 70 USD sin membresía, 60 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-21 · 09:00–12:00 · America/Chicago · Snowball Science · PreK 4–5
+
+- 2026-12-22 · 09:00–12:00 · America/Chicago · Snowball Science · PreK 4–5
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Survive the Freeze · K–1
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**Edad:** Grupo escolar K–1.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-21 · 09:00–15:45 · America/Chicago · Survive the Freeze · K–1
+
+- 2026-12-22 · 09:00–15:45 · America/Chicago · Survive the Freeze · K–1
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Polar Research Expedition · 2–3
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**Edad:** Grupo escolar 2–3.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-21 · 09:00–15:45 · America/Chicago · Polar Research Expedition · 2–3
+
+- 2026-12-22 · 09:00–15:45 · America/Chicago · Polar Research Expedition · 2–3
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Build for the Blizzard · 4–6
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**Edad:** Grupo escolar 4–6.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-21 · 09:00–15:45 · America/Chicago · Build for the Blizzard · 4–6
+
+- 2026-12-22 · 09:00–15:45 · America/Chicago · Build for the Blizzard · 4–6
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Math Magic & Pattern Play · PreK 4–5
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Edad:** Grupo escolar PreK 4–5.
+
+**Precio:** 70 USD sin membresía, 60 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-28 · 09:00–12:00 · America/Chicago · Math Magic & Pattern Play · PreK 4–5
+
+- 2026-12-29 · 09:00–12:00 · America/Chicago · Math Magic & Pattern Play · PreK 4–5
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Flight School · K–1
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Edad:** Grupo escolar K–1.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-28 · 09:00–15:45 · America/Chicago · Flight School · K–1
+
+- 2026-12-29 · 09:00–15:45 · America/Chicago · Flight School · K–1
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Chemical Chaos · 2–3
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Edad:** Grupo escolar 2–3.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página indica que se agotaron las plazas.
+
+- 2026-12-28 · 09:00–15:45 · America/Chicago · Chemical Chaos · 2–3
+
+- 2026-12-29 · 09:00–15:45 · America/Chicago · Chemical Chaos · 2–3
+
+**Disponibilidad:** sold_out
+
+**Matvey:** La página indica que se agotaron las plazas.
+
+**Oscar:** La página indica que se agotaron las plazas.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Survival of the Fittest · 4–6
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Edad:** Grupo escolar 4–6.
+
+**Precio:** 120 USD sin membresía, 110 USD para socios por 2 días.
+
+**Suplementos:** No se confirmaron las condiciones de cuidado adicional para el turno de invierno.
+
+**Condiciones de participación:** La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.
+
+- 2026-12-28 · 09:00–15:45 · America/Chicago · Survival of the Fittest · 4–6
+
+- 2026-12-29 · 09:00–15:45 · America/Chicago · Survival of the Fittest · 4–6
+
+**Disponibilidad:** por confirmar
+
+**Matvey:** La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.
+
+**Oscar:** Grupo escolar 4–6.
+
+[fuente](https://www.sciencemuseumok.org/camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sciencemuseumok.org/camps/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12153,
-    "competition_cards": 5475,
-    "event_cards": 810,
-    "camp_cards": 5868,
-    "league_profiles": 349,
-    "major_exhibition_cards": 704,
+    "cards": 12187,
+    "competition_cards": 5478,
+    "event_cards": 811,
+    "camp_cards": 5898,
+    "league_profiles": 350,
+    "major_exhibition_cards": 705,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3907,
+      "total": 3933,
       "countries_with_records": 41,
       "competitions": 2233,
       "events": 234,
       "major_exhibitions": 187,
-      "camps": 1440,
+      "camps": 1466,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2699,
+      "total": 2704,
       "countries_with_records": 55,
       "competitions": 795,
-      "events": 199,
-      "major_exhibitions": 175,
-      "camps": 1705,
+      "events": 200,
+      "major_exhibitions": 176,
+      "camps": 1709,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 3298,
+      "total": 3301,
       "countries_with_records": 51,
-      "competitions": 1245,
+      "competitions": 1248,
       "events": 208,
       "major_exhibitions": 195,
       "camps": 1845,
@@ -9027,6 +9027,22 @@
       "new": false
     },
     {
+      "id": "robothink-dream",
+      "name": "RoboThink DREAM",
+      "group": "international",
+      "event_ids": [
+        "C5477",
+        "C5478",
+        "C5479"
+      ],
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://dreamchallenge.io/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17772,6 +17788,17 @@
       "new": false
     },
     {
+      "id": "E811",
+      "name": "CERN Science Gateway · Discover CERN / Quantum World",
+      "country": "Швейцария",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://visit.cern/exhibitions",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20203,8 +20230,8 @@
       }
     ],
     "counts": {
-      "records": 5868,
-      "holiday": 5211,
+      "records": 5898,
+      "holiday": 5231,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,

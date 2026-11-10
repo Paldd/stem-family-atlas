@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2400,
+    "dossiers": 2403,
     "countries": 141,
     "swiss": 163,
     "by_status": {
-      "published_2026_27": 338,
+      "published_2026_27": 341,
       "published_2027": 674,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3315
+    "source_urls": 3322
   },
   "countries": [
     {
@@ -480,7 +480,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 176
+      "count": 179
     },
     {
       "country": "Суринам",
@@ -365885,6 +365885,964 @@
         }
       ],
       "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2401",
+      "slug": "miami-childrens-museum-winter-2026",
+      "provider": "Miami Children’s Museum",
+      "country": "США",
+      "iso": "USA",
+      "place": "Miami · Watson Island",
+      "age": "4–12 лет по форме записи.",
+      "programme": "Дневной STEAM-лагерь: практические проекты, интерактивные экспонаты и творческие занятия. Язык каждой группы и робототехника отдельно не указаны.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "Язык занятий или судейства не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Первая смена в форме 21–24 декабря, на странице 21–26 декабря без 25 декабря. 26 декабря уточнить. В календаре только дни формы. Вторая смена 28–31 декабря. Время 09:00–15:00.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Winter Break Week 1",
+            "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+            "price": "350 USD за ребёнка за неделю без членства, 315 USD для членов. В форме указан возможный скидочный тариф 10% для братьев и сестёр. Скидки не суммируются.",
+            "entry": "Запись заранее по форме музея. По возрасту оба подходят. Места для двоих, цену со скидкой и язык подтвердить.",
+            "extras": "По желанию: 08:00–09:00 за 25 USD, 15:00–18:00 за 60 USD в неделю. 24 и 31 декабря вечернего присмотра нет. При записи в день лагеря доплата 20 USD при наличии места.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T20:00:00Z",
+                "topic": "Winter Break Week 1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter Break Week 2",
+            "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+            "price": "350 USD за ребёнка за неделю без членства, 315 USD для членов. В форме указан возможный скидочный тариф 10% для братьев и сестёр. Скидки не суммируются.",
+            "entry": "Запись заранее по форме музея. По возрасту оба подходят. Места для двоих, цену со скидкой и язык подтвердить.",
+            "extras": "По желанию: 08:00–09:00 за 25 USD, 15:00–18:00 за 60 USD в неделю. 24 и 31 декабря вечернего присмотра нет. При записи в день лагеря доплата 20 USD при наличии места.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T20:00:00Z",
+                "topic": "Winter Break Week 2"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": 350,
+        "currency": "USD",
+        "unit": "per_child_week",
+        "label": "350 USD за ребёнка за неделю без членства, 315 USD для членов. В форме указан возможный скидочный тариф 10% для братьев и сестёр. Скидки не суммируются.",
+        "included": "Уточнить у организатора.",
+        "extras": "По желанию: 08:00–09:00 за 25 USD, 15:00–18:00 за 60 USD в неделю. 24 и 31 декабря вечернего присмотра нет. При записи в день лагеря доплата 20 USD при наличии места.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Запись заранее по форме музея. По возрасту оба подходят. Места для двоих, цену со скидкой и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Запись заранее по форме музея. По возрасту оба подходят. Места для двоих, цену со скидкой и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Дневной STEAM-лагерь: практические проекты, интерактивные экспонаты и творческие занятия. Язык каждой группы и робототехника отдельно не указаны.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места и возраст на дату участия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/66db2ebe365cb31f2f127f24/6a99cb508342dbb6fc5520f2_Winter%20Camp-reg-fillable-2026.pdf",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2402",
+      "slug": "san-diego-automotive-museum-2026-27",
+      "provider": "San Diego Automotive Museum",
+      "country": "США",
+      "iso": "USA",
+      "place": "San Diego · Balboa Park",
+      "age": "5–9 лет. Старшего брата могут рассмотреть отдельно при наличии места.",
+      "programme": "Транспорт, инженерные задачи, дизайн и эксперименты. Летние темы включают транспорт, научную лабораторию автомобилей и экологичные машины.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "Язык занятий или судейства не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "2026–2027: опубликованы 10 дат и окон. Часы и тарифы есть для первых 3 смен. Весенние и летние темы могут измениться.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-03-26",
+            "2027-03-26"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ],
+          [
+            "2027-05-31",
+            "2027-05-31"
+          ],
+          [
+            "2027-06-07",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-14",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-21",
+            "2027-06-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "Veterans Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+            "price": "65 USD без членства или 52 USD для членов.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-11T17:00:00Z",
+                "end_utc": "2026-11-11T23:00:00Z",
+                "topic": "Veterans Day Camp"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-25",
+            "label": "Thanksgiving Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+            "price": "105 USD без членства или 84 USD для членов за 3 дня.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T16:30:00Z",
+                "end_utc": "2026-11-23T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T16:30:00Z",
+                "end_utc": "2026-11-24T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T16:30:00Z",
+                "end_utc": "2026-11-25T20:00:00Z",
+                "topic": "Thanksgiving Break Camp"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Winter Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+            "price": "105 USD без членства или 84 USD для членов за 3 дня. Ранние тарифы на зимнюю смену закончились.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T16:30:00Z",
+                "end_utc": "2026-12-21T20:00:00Z",
+                "topic": "Winter Break Camp"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T16:30:00Z",
+                "end_utc": "2026-12-22T20:00:00Z",
+                "topic": "Winter Break Camp"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:30",
+                "end_time": "12:00",
+                "timezone": "America/Los_Angeles",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T16:30:00Z",
+                "end_utc": "2026-12-23T20:00:00Z",
+                "topic": "Winter Break Camp"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "MLK Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-03-26",
+            "end": "2027-03-26",
+            "label": "Chavez Day / Teacher Workday",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "Spring Break Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-05-31",
+            "end": "2027-05-31",
+            "label": "Memorial Day Camp",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-06-07",
+            "end": "2027-06-11",
+            "label": "Transportation Explorers",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-06-14",
+            "end": "2027-06-18",
+            "label": "Car Science Lab",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          },
+          {
+            "start": "2027-06-21",
+            "end": "2027-06-25",
+            "label": "Green Machines",
+            "source": "https://sdautomuseum.org/education/school-programs/camps/",
+            "price": "Тариф и часы смены 2027 не опубликованы.",
+            "entry": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Тариф и часы смены 2027 не опубликованы."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "unknown",
+        "label": "105 USD без членства или 84 USD для членов за 3 дня. Ранние тарифы на зимнюю смену закончились.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "До 15 мест на смену. Матвею сверить возраст на первый день каждой смены. Оскар подходит по возрасту. Язык и места подтвердить."
+        }
+      },
+      "editorial_reason": "Транспорт, инженерные задачи, дизайн и эксперименты. Летние темы включают транспорт, научную лабораторию автомобилей и экологичные машины.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места и возраст на дату участия."
+      ],
+      "sources": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2403",
+      "slug": "science-museum-oklahoma-winter-2026",
+      "provider": "Science Museum Oklahoma",
+      "country": "США",
+      "iso": "USA",
+      "place": "Oklahoma City · Adventure District",
+      "age": "PreK 4–5 лет, K–1, 2–3 и 4–6 классы. В старшей группе до 12 лет.",
+      "programme": "Зимние опыты по физике, химии и биологии, инженерные задачи по укрытиям, мостам и полёту.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "language": "Язык занятий или судейства не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Зима: 21–22 и 28–29 декабря 2026. Семь из восьми групп распроданы. Оставшаяся группа 4–6 класса требует подтверждения.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Snowball Science · PreK 4–5",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "70 USD без членства, 60 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-1-group-1",
+            "age": "Учебная группа PreK 4–5.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T18:00:00Z",
+                "topic": "Snowball Science · PreK 4–5"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T18:00:00Z",
+                "topic": "Snowball Science · PreK 4–5"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Survive the Freeze · K–1",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-1-group-2",
+            "age": "Учебная группа K–1.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Survive the Freeze · K–1"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Survive the Freeze · K–1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Polar Research Expedition · 2–3",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-1-group-3",
+            "age": "Учебная группа 2–3.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Polar Research Expedition · 2–3"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Polar Research Expedition · 2–3"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-22",
+            "label": "Build for the Blizzard · 4–6",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-1-group-4",
+            "age": "Учебная группа 4–6.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T15:00:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Build for the Blizzard · 4–6"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T15:00:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Build for the Blizzard · 4–6"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Math Magic & Pattern Play · PreK 4–5",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "70 USD без членства, 60 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-2-group-1",
+            "age": "Учебная группа PreK 4–5.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T18:00:00Z",
+                "topic": "Math Magic & Pattern Play · PreK 4–5"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T18:00:00Z",
+                "topic": "Math Magic & Pattern Play · PreK 4–5"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Flight School · K–1",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-2-group-2",
+            "age": "Учебная группа K–1.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Flight School · K–1"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Flight School · K–1"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Chemical Chaos · 2–3",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице отмечено, что места закончились.",
+            "variant_key": "week-2-group-3",
+            "age": "Учебная группа 2–3.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "На странице отмечено, что места закончились."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "sold_out",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Chemical Chaos · 2–3"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Chemical Chaos · 2–3"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Survival of the Fittest · 4–6",
+            "source": "https://www.sciencemuseumok.org/camps/",
+            "price": "120 USD без членства, 110 USD для членов за 2 дня.",
+            "entry": "На странице нет отметки Sold Out. Наличие места и соответствие 4–6 классу подтвердить.",
+            "variant_key": "week-2-group-4",
+            "age": "Учебная группа 4–6.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На странице нет отметки Sold Out. Наличие места и соответствие 4–6 классу подтвердить."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Учебная группа 4–6."
+              }
+            },
+            "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10"
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Survival of the Fittest · 4–6"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:45",
+                "timezone": "America/Chicago",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Survival of the Fittest · 4–6"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "USD",
+        "unit": "unknown",
+        "label": "120 USD без членства, 110 USD для членов за 2 дня.",
+        "included": "Уточнить у организатора.",
+        "extras": "Условия дополнительного присмотра именно для зимней смены не подтверждены.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "На странице нет отметки Sold Out. Наличие места и соответствие 4–6 классу подтвердить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "На странице отмечено, что места закончились."
+        }
+      },
+      "editorial_reason": "Зимние опыты по физике, химии и биологии, инженерные задачи по укрытиям, мостам и полёту.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места и возраст на дату участия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
     }
   ],
   "gaps": [
@@ -384445,7 +385403,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2400,
+      "total_dossiers": 2403,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

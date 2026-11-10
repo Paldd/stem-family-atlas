@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5868,
-      "holiday": 5211,
+      "records": 5898,
+      "holiday": 5231,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
@@ -54138,6 +54138,744 @@
       "admission_kind": "confirm_eligibility",
       "evidence_level": "event_page",
       "deadline_note": "El municipio amplió las solicitudes hasta el 11 de noviembre por mantenimiento del formulario. Unas 10 plazas, respuesta hasta el 13 de noviembre.",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L994",
+      "block": "Campamentos",
+      "title": "CERN · Seeing the invisible · EN · 2026-11-14",
+      "country": "Suiza",
+      "iso": [
+        "CHE"
+      ],
+      "region": "Europa",
+      "city": "Meyrin · CERN Science Gateway",
+      "source": "https://visit.cern/programme?field_sg_open_category_target_id=4",
+      "references": [
+        {
+          "url": "https://visit.cern/seeing-the-invisible",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sciencegateway.cern/families-individual-visitors",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Recomendado a partir de 5 años.",
+      "mat": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "osc": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "format": "Laboratorio familiar presencial.",
+      "entry": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "gear": "",
+      "language": "EN",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "instruction",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:30",
+          "end_time": "11:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T09:30:00Z",
+          "end_utc": "2026-11-14T10:30:00Z",
+          "topic": "Seeing the invisible"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "13:30",
+          "end_time": "14:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T12:30:00Z",
+          "end_utc": "2026-11-14T13:30:00Z",
+          "topic": "Seeing the invisible"
+        }
+      ],
+      "related_ids": [
+        "E811"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L995",
+      "block": "Campamentos",
+      "title": "CERN · Seeing the invisible · EN / FR · 2026-11-14",
+      "country": "Suiza",
+      "iso": [
+        "CHE"
+      ],
+      "region": "Europa",
+      "city": "Meyrin · CERN Science Gateway",
+      "source": "https://visit.cern/programme?field_sg_open_category_target_id=4",
+      "references": [
+        {
+          "url": "https://visit.cern/seeing-the-invisible",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sciencegateway.cern/families-individual-visitors",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Recomendado a partir de 5 años.",
+      "mat": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "osc": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "format": "Laboratorio familiar presencial.",
+      "entry": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "gear": "",
+      "language": "EN / FR",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "language_mode": "instruction",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "11:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T10:30:00Z",
+          "end_utc": "2026-11-14T11:30:00Z",
+          "topic": "Seeing the invisible"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T13:30:00Z",
+          "end_utc": "2026-11-14T14:30:00Z",
+          "topic": "Seeing the invisible"
+        }
+      ],
+      "related_ids": [
+        "E811"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L996",
+      "block": "Campamentos",
+      "title": "CERN · Seeing the invisible · EN · 2026-11-15",
+      "country": "Suiza",
+      "iso": [
+        "CHE"
+      ],
+      "region": "Europa",
+      "city": "Meyrin · CERN Science Gateway",
+      "source": "https://visit.cern/programme?field_sg_open_category_target_id=4",
+      "references": [
+        {
+          "url": "https://visit.cern/seeing-the-invisible",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sciencegateway.cern/families-individual-visitors",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Recomendado a partir de 5 años.",
+      "mat": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "osc": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "format": "Laboratorio familiar presencial.",
+      "entry": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "gear": "",
+      "language": "EN",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "instruction",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "10:30",
+          "end_time": "11:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T09:30:00Z",
+          "end_utc": "2026-11-15T10:30:00Z",
+          "topic": "Seeing the invisible"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "13:30",
+          "end_time": "14:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T12:30:00Z",
+          "end_utc": "2026-11-15T13:30:00Z",
+          "topic": "Seeing the invisible"
+        }
+      ],
+      "related_ids": [
+        "E811"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L997",
+      "block": "Campamentos",
+      "title": "CERN · Seeing the invisible · EN / FR · 2026-11-15",
+      "country": "Suiza",
+      "iso": [
+        "CHE"
+      ],
+      "region": "Europa",
+      "city": "Meyrin · CERN Science Gateway",
+      "source": "https://visit.cern/programme?field_sg_open_category_target_id=4",
+      "references": [
+        {
+          "url": "https://visit.cern/seeing-the-invisible",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sciencegateway.cern/families-individual-visitors",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Recomendado a partir de 5 años.",
+      "mat": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "osc": "Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.",
+      "format": "Laboratorio familiar presencial.",
+      "entry": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "gear": "",
+      "language": "EN / FR",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "language_mode": "instruction",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "11:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T10:30:00Z",
+          "end_utc": "2026-11-15T11:30:00Z",
+          "topic": "Seeing the invisible"
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Zurich",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T13:30:00Z",
+          "end_utc": "2026-11-15T14:30:00Z",
+          "topic": "Seeing the invisible"
+        }
+      ],
+      "related_ids": [
+        "E811"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L998",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Átomos brillantes · 2026-11-29",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 8 años. Hasta 10 participantes por sesión.",
+      "mat": "Condicional. Confirme admisión y plazas.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T18:00:00Z",
+          "end_utc": "2026-11-29T18:30:00Z",
+          "topic": "Átomos brillantes"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L999",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Thompson beads · 2026-11-28",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 10 años. Hasta 10 participantes por sesión.",
+      "mat": "No por edad para este grupo.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T19:00:00Z",
+          "end_utc": "2026-11-28T19:30:00Z",
+          "topic": "Thompson beads"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L1000",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Thompson beads · 2026-12-12",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 10 años. Hasta 10 participantes por sesión.",
+      "mat": "No por edad para este grupo.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T19:00:00Z",
+          "end_utc": "2026-12-12T19:30:00Z",
+          "topic": "Thompson beads"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L1001",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Me estás presionando · 2026-11-21",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 12 años. Hasta 20 participantes por sesión.",
+      "mat": "No por edad para este grupo.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T17:00:00Z",
+          "end_utc": "2026-11-21T17:30:00Z",
+          "topic": "Me estás presionando"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T18:00:00Z",
+          "end_utc": "2026-11-21T18:30:00Z",
+          "topic": "Me estás presionando"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L1002",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Me estás presionando · 2026-12-05",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 12 años. Hasta 20 participantes por sesión.",
+      "mat": "No por edad para este grupo.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T17:00:00Z",
+          "end_utc": "2026-12-05T17:30:00Z",
+          "topic": "Me estás presionando"
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T18:00:00Z",
+          "end_utc": "2026-12-05T18:30:00Z",
+          "topic": "Me estás presionando"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L1003",
+      "block": "Campamentos",
+      "title": "Universum UNAM · Me estás presionando · 2026-12-19",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Ciudad de México · Universum · Mosaico de Física",
+      "source": "https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/visitanos",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Desde 12 años. Hasta 20 participantes por sesión.",
+      "mat": "No por edad para este grupo.",
+      "osc": "No por edad para este grupo.",
+      "format": "",
+      "entry": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "gear": "",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "session_days",
+      "evidence_level": "event_page",
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T17:00:00Z",
+          "end_utc": "2026-12-19T17:30:00Z",
+          "topic": "Me estás presionando"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "12:00",
+          "end_time": "12:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T18:00:00Z",
+          "end_utc": "2026-12-19T18:30:00Z",
+          "topic": "Me estás presionando"
+        }
+      ],
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
@@ -493551,6 +494289,1649 @@
       "language_mode": "unconfirmed",
       "languages": [],
       "date_rule": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica."
+    },
+    {
+      "id": "CP2401-20261221-20261224",
+      "block": "Campamentos",
+      "title": "Miami Children’s Museum · Winter Break Week 1 · 2026-12-21–2026-12-24",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Miami · Watson Island",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Primera semana en el formulario 21–24 de diciembre, en la página 21–26 de diciembre sin el 25. Confirme el 26 de diciembre. El calendario incluye solo los días del formulario. Segunda semana 28–31 de diciembre. Horario 09:00–15:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–12 años según el formulario.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.",
+      "gear": "Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+      "references": [
+        {
+          "url": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/66db2ebe365cb31f2f127f24/6a99cb508342dbb6fc5520f2_Winter%20Camp-reg-fillable-2026.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Oscar: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Suplementos: Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "miami-childrens-museum-winter-2026",
+      "camp_programme_id": "CP2401",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T14:00:00Z",
+          "end_utc": "2026-12-21T20:00:00Z",
+          "topic": "Winter Break Week 1"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T14:00:00Z",
+          "end_utc": "2026-12-22T20:00:00Z",
+          "topic": "Winter Break Week 1"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T14:00:00Z",
+          "end_utc": "2026-12-23T20:00:00Z",
+          "topic": "Winter Break Week 1"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T14:00:00Z",
+          "end_utc": "2026-12-24T20:00:00Z",
+          "topic": "Winter Break Week 1"
+        }
+      ]
+    },
+    {
+      "id": "CP2401-20261228-20261231",
+      "block": "Campamentos",
+      "title": "Miami Children’s Museum · Winter Break Week 2 · 2026-12-28–2026-12-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Miami · Watson Island",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Primera semana en el formulario 21–24 de diciembre, en la página 21–26 de diciembre sin el 25. Confirme el 26 de diciembre. El calendario incluye solo los días del formulario. Segunda semana 28–31 de diciembre. Horario 09:00–15:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–12 años según el formulario.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.",
+      "gear": "Campamento diurno STEAM: proyectos prácticos, exposiciones interactivas y actividades creativas. No se indica el idioma de cada grupo ni una actividad de robótica.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+      "references": [
+        {
+          "url": "https://www.miamichildrensmuseum.org/camps/winter-camp",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/66db2ebe365cb31f2f127f24/6a99cb508342dbb6fc5520f2_Winter%20Camp-reg-fillable-2026.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Oscar: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Suplementos: Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "miami-childrens-museum-winter-2026",
+      "camp_programme_id": "CP2401",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T14:00:00Z",
+          "end_utc": "2026-12-28T20:00:00Z",
+          "topic": "Winter Break Week 2"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T14:00:00Z",
+          "end_utc": "2026-12-29T20:00:00Z",
+          "topic": "Winter Break Week 2"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T14:00:00Z",
+          "end_utc": "2026-12-30T20:00:00Z",
+          "topic": "Winter Break Week 2"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/New_York",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T14:00:00Z",
+          "end_utc": "2026-12-31T20:00:00Z",
+          "topic": "Winter Break Week 2"
+        }
+      ]
+    },
+    {
+      "id": "CP2402-20261111-20261111",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Veterans Day Camp · 2026-11-11–2026-11-11",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 65 USD sin membresía o 52 USD para socios. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-11-11T17:00:00Z",
+          "end_utc": "2026-11-11T23:00:00Z",
+          "topic": "Veterans Day Camp"
+        }
+      ]
+    },
+    {
+      "id": "CP2402-20261123-20261125",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Thanksgiving Break Camp · 2026-11-23–2026-11-25",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2026-11-23",
+      "end": "2026-11-25",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 105 USD sin membresía u 84 USD para socios por 3 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-11-23T16:30:00Z",
+          "end_utc": "2026-11-23T20:00:00Z",
+          "topic": "Thanksgiving Break Camp"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T16:30:00Z",
+          "end_utc": "2026-11-24T20:00:00Z",
+          "topic": "Thanksgiving Break Camp"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T16:30:00Z",
+          "end_utc": "2026-11-25T20:00:00Z",
+          "topic": "Thanksgiving Break Camp"
+        }
+      ]
+    },
+    {
+      "id": "CP2402-20261221-20261223",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Winter Break Camp · 2026-12-21–2026-12-23",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T16:30:00Z",
+          "end_utc": "2026-12-21T20:00:00Z",
+          "topic": "Winter Break Camp"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T16:30:00Z",
+          "end_utc": "2026-12-22T20:00:00Z",
+          "topic": "Winter Break Camp"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Los_Angeles",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T16:30:00Z",
+          "end_utc": "2026-12-23T20:00:00Z",
+          "topic": "Winter Break Camp"
+        }
+      ]
+    },
+    {
+      "id": "CP2402-20270118-20270118",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · MLK Day Camp · 2027-01-18–2027-01-18",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-01-18",
+      "end": "2027-01-18",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270326-20270326",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Chavez Day / Teacher Workday · 2027-03-26–2027-03-26",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-03-26",
+      "end": "2027-03-26",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270412-20270416",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Spring Break Camp · 2027-04-12–2027-04-16",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-04-12",
+      "end": "2027-04-16",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270531-20270531",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Memorial Day Camp · 2027-05-31–2027-05-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-05-31",
+      "end": "2027-05-31",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270607-20270611",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Transportation Explorers · 2027-06-07–2027-06-11",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-06-07",
+      "end": "2027-06-11",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270614-20270618",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Car Science Lab · 2027-06-14–2027-06-18",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-06-14",
+      "end": "2027-06-18",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2402-20270621-20270625",
+      "block": "Campamentos",
+      "title": "San Diego Automotive Museum · Green Machines · 2027-06-21–2027-06-25",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "San Diego · Balboa Park",
+      "start": "2027-06-21",
+      "end": "2027-06-25",
+      "period": "2026–2027: se publicaron 10 fechas y periodos. Hay horarios y tarifas para los 3 primeros turnos. Los temas de primavera y verano pueden cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.",
+      "gear": "Transporte, retos de ingeniería, diseño y experimentos. Los temas de verano incluyen transporte, laboratorio científico del automóvil y máquinas ecológicas.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://sdautomuseum.org/education/school-programs/camps/",
+      "references": [
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "san-diego-automotive-museum-2026-27",
+      "camp_programme_id": "CP2402",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "No se publicaron la tarifa ni el horario del turno de 2027."
+    },
+    {
+      "id": "CP2403-20261221-20261222-week-1-group-1",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Snowball Science · PreK 4–5 · 2026-12-21–2026-12-22",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar PreK 4–5.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 70 USD sin membresía, 60 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T15:00:00Z",
+          "end_utc": "2026-12-21T18:00:00Z",
+          "topic": "Snowball Science · PreK 4–5"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T15:00:00Z",
+          "end_utc": "2026-12-22T18:00:00Z",
+          "topic": "Snowball Science · PreK 4–5"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261221-20261222-week-1-group-2",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Survive the Freeze · K–1 · 2026-12-21–2026-12-22",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar K–1.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T15:00:00Z",
+          "end_utc": "2026-12-21T21:45:00Z",
+          "topic": "Survive the Freeze · K–1"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T15:00:00Z",
+          "end_utc": "2026-12-22T21:45:00Z",
+          "topic": "Survive the Freeze · K–1"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261221-20261222-week-1-group-3",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Polar Research Expedition · 2–3 · 2026-12-21–2026-12-22",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar 2–3.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T15:00:00Z",
+          "end_utc": "2026-12-21T21:45:00Z",
+          "topic": "Polar Research Expedition · 2–3"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T15:00:00Z",
+          "end_utc": "2026-12-22T21:45:00Z",
+          "topic": "Polar Research Expedition · 2–3"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261221-20261222-week-1-group-4",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Build for the Blizzard · 4–6 · 2026-12-21–2026-12-22",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar 4–6.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T15:00:00Z",
+          "end_utc": "2026-12-21T21:45:00Z",
+          "topic": "Build for the Blizzard · 4–6"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T15:00:00Z",
+          "end_utc": "2026-12-22T21:45:00Z",
+          "topic": "Build for the Blizzard · 4–6"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261228-20261229-week-2-group-1",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Math Magic & Pattern Play · PreK 4–5 · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar PreK 4–5.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 70 USD sin membresía, 60 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T18:00:00Z",
+          "topic": "Math Magic & Pattern Play · PreK 4–5"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T18:00:00Z",
+          "topic": "Math Magic & Pattern Play · PreK 4–5"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261228-20261229-week-2-group-2",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Flight School · K–1 · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar K–1.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T21:45:00Z",
+          "topic": "Flight School · K–1"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T21:45:00Z",
+          "topic": "Flight School · K–1"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261228-20261229-week-2-group-3",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Chemical Chaos · 2–3 · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar 2–3.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página indica que se agotaron las plazas.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T21:45:00Z",
+          "topic": "Chemical Chaos · 2–3"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T21:45:00Z",
+          "topic": "Chemical Chaos · 2–3"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "checked": "2026-11-10"
+      }
+    },
+    {
+      "id": "CP2403-20261228-20261229-week-2-group-4",
+      "block": "Campamentos",
+      "title": "Science Museum Oklahoma · Survival of the Fittest · 4–6 · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Oklahoma City · Adventure District",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Invierno: 21–22 y 28–29 de diciembre de 2026. Siete de ocho grupos agotados. El grupo restante de 4–6 grados requiere confirmación.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupo escolar 4–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.",
+      "gear": "Experimentos de invierno de física, química y biología, retos de ingeniería sobre refugios, puentes y vuelo.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "cost": "2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas y edad en la fecha de participación.",
+      "source": "https://www.sciencemuseumok.org/camps/",
+      "references": [
+        {
+          "url": "https://www.sciencemuseumok.org/camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6. Oscar: Grupo escolar 4–6. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-museum-oklahoma-winter-2026",
+      "camp_programme_id": "CP2403",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T21:45:00Z",
+          "topic": "Survival of the Fittest · 4–6"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "15:45",
+          "timezone": "America/Chicago",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T21:45:00Z",
+          "topic": "Survival of the Fittest · 4–6"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10"
+      }
     },
     {
       "id": "L491",

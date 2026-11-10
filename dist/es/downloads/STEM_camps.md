@@ -14678,6 +14678,166 @@ Condiciones: Preparación del 25 de noviembre a finales de enero, miércoles y v
 Fuente: https://localcms.city.minamata.lg.jp/page4936.html?type=top
 Verificado: 2026-11-10
 
+### L994 · CERN · Seeing the invisible · EN · 2026-11-14
+
+Lugar: Suiza · Meyrin · CERN Science Gateway
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Recomendado a partir de 5 años.
+Matvey: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Oscar: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Formato: individual
+Idioma: EN
+Etiqueta lingüística: idioma de enseñanza. Apoyo lingüístico sin anunciar.
+Precio: Gratuito.
+Acceso: Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.
+Restricciones: Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.
+Fuente: https://visit.cern/programme?field_sg_open_category_target_id=4
+Verificado: 2026-11-10
+
+### L995 · CERN · Seeing the invisible · EN / FR · 2026-11-14
+
+Lugar: Suiza · Meyrin · CERN Science Gateway
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Recomendado a partir de 5 años.
+Matvey: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Oscar: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Formato: individual
+Idioma: EN / FR
+Etiqueta lingüística: idioma de enseñanza. Apoyo lingüístico sin anunciar.
+Precio: Gratuito.
+Acceso: Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.
+Restricciones: Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.
+Fuente: https://visit.cern/programme?field_sg_open_category_target_id=4
+Verificado: 2026-11-10
+
+### L996 · CERN · Seeing the invisible · EN · 2026-11-15
+
+Lugar: Suiza · Meyrin · CERN Science Gateway
+Fecha: 2026-11-15 — 2026-11-15
+Edad: Recomendado a partir de 5 años.
+Matvey: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Oscar: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Formato: individual
+Idioma: EN
+Etiqueta lingüística: idioma de enseñanza. Apoyo lingüístico sin anunciar.
+Precio: Gratuito.
+Acceso: Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.
+Restricciones: Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.
+Fuente: https://visit.cern/programme?field_sg_open_category_target_id=4
+Verificado: 2026-11-10
+
+### L997 · CERN · Seeing the invisible · EN / FR · 2026-11-15
+
+Lugar: Suiza · Meyrin · CERN Science Gateway
+Fecha: 2026-11-15 — 2026-11-15
+Edad: Recomendado a partir de 5 años.
+Matvey: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Oscar: Cumple la edad recomendada. Confirme plaza en el laboratorio al llegar.
+Formato: individual
+Idioma: EN / FR
+Etiqueta lingüística: idioma de enseñanza. Apoyo lingüístico sin anunciar.
+Precio: Gratuito.
+Acceso: Entrada general gratuita con registro. Reserva del laboratorio por separado en la sede desde 60 minutos antes y según disponibilidad. 24 participantes. Menores de 16 años acompañados por un adulto.
+Restricciones: Los experimentos muestran cómo estudiar fenómenos que no se pueden observar directamente.
+Fuente: https://visit.cern/programme?field_sg_open_category_target_id=4
+Verificado: 2026-11-10
+
+### L998 · Universum UNAM · Átomos brillantes · 2026-11-29
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-11-29 — 2026-11-29
+Edad: Desde 8 años. Hasta 10 participantes por sesión.
+Matvey: Condicional. Confirme admisión y plazas.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L999 · Universum UNAM · Thompson beads · 2026-11-28
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-11-28 — 2026-11-28
+Edad: Desde 10 años. Hasta 10 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1000 · Universum UNAM · Thompson beads · 2026-12-12
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-12-12 — 2026-12-12
+Edad: Desde 10 años. Hasta 10 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1001 · Universum UNAM · Me estás presionando · 2026-11-21
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-11-21 — 2026-11-21
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1002 · Universum UNAM · Me estás presionando · 2026-12-05
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-12-05 — 2026-12-05
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1003 · Universum UNAM · Me estás presionando · 2026-12-19
+
+Lugar: México · Ciudad de México · Universum · Mosaico de Física
+Fecha: 2026-12-19 - 2026-12-19
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -92676,6 +92836,326 @@ Costo: 2027 · No se encontró tarifa pública. La página de inscripción pide 
 Acceso: Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
 Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.
 Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
+Verificado: 2026-11-10
+
+### CP2401-20261221-20261224 · Miami Children’s Museum · Winter Break Week 1 · 2026-12-21–2026-12-24
+
+Lugar: EE. UU. · Miami · Watson Island
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–12 años según el formulario.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan. · suplementos y condiciones en la ficha
+Acceso: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+Restricciones: Matvey: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Oscar: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Suplementos: Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza. Pago: Consulte al organizador.
+Fuente: https://www.miamichildrensmuseum.org/camps/winter-camp
+Verificado: 2026-11-10
+
+### CP2401-20261228-20261231 · Miami Children’s Museum · Winter Break Week 2 · 2026-12-28–2026-12-31
+
+Lugar: EE. UU. · Miami · Watson Island
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–12 años según el formulario.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 350 USD por niño y semana sin membresía, 315 USD para socios. El formulario indica un posible descuento del 10% para hermanos. Los descuentos no se acumulan. · suplementos y condiciones en la ficha
+Acceso: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma.
+Restricciones: Matvey: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Oscar: Inscripción previa mediante el formulario del museo. Ambos cumplen por edad. Confirme dos plazas, precio con descuento e idioma. Suplementos: Opcional: 08:00–09:00 por 25 USD, 15:00–18:00 por 60 USD por semana. Sin cuidado de tarde el 24 ni el 31 de diciembre. Recargo de 20 USD si se inscribe el mismo día y hay plaza. Pago: Consulte al organizador.
+Fuente: https://www.miamichildrensmuseum.org/camps/winter-camp
+Verificado: 2026-11-10
+
+### CP2402-20261111-20261111 · San Diego Automotive Museum · Veterans Day Camp · 2026-11-11–2026-11-11
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2026-11-11 — 2026-11-11
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 65 USD sin membresía o 52 USD para socios. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/veterans-day-camp/
+Verificado: 2026-11-10
+
+### CP2402-20261123-20261125 · San Diego Automotive Museum · Thanksgiving Break Camp · 2026-11-23–2026-11-25
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2026-11-23 国 2026-11-25
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 105 USD sin membresía u 84 USD para socios por 3 días. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/thanksgiving-break-camp/
+Verificado: 2026-11-10
+
+### CP2402-20261221-20261223 · San Diego Automotive Museum · Winter Break Camp · 2026-12-21–2026-12-23
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 105 USD sin membresía u 84 USD para socios por 3 días. Las tarifas anticipadas de invierno finalizaron. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/winter-break-camp/
+Verificado: 2026-11-10
+
+### CP2402-20270118-20270118 · San Diego Automotive Museum · MLK Day Camp · 2027-01-18–2027-01-18
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270326-20270326 · San Diego Automotive Museum · Chavez Day / Teacher Workday · 2027-03-26–2027-03-26
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-03-26 — 2027-03-26
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270412-20270416 · San Diego Automotive Museum · Spring Break Camp · 2027-04-12–2027-04-16
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-04-12 — 2027-04-16
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270531-20270531 · San Diego Automotive Museum · Memorial Day Camp · 2027-05-31–2027-05-31
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-05-31 - 2027-05-31
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270607-20270611 · San Diego Automotive Museum · Transportation Explorers · 2027-06-07–2027-06-11
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-06-07 2027-06-11
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270614-20270618 · San Diego Automotive Museum · Car Science Lab · 2027-06-14–2027-06-18
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-06-14 — 2027-06-18
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2402-20270621-20270625 · San Diego Automotive Museum · Green Machines · 2027-06-21–2027-06-25
+
+Lugar: EE. UU. · San Diego · Balboa Park
+Fecha: 2027-06-21 国 2027-06-25
+Edad: 5–9 años. Se puede evaluar a un hermano mayor por separado si hay plaza.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · No se publicaron la tarifa ni el horario del turno de 2027. · suplementos y condiciones en la ficha
+Acceso: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas.
+Restricciones: Matvey: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Oscar: Hasta 15 plazas por turno. Para Matvey confirme la edad el primer día de cada turno. Oscar cumple por edad. Confirme idioma y plazas. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://sdautomuseum.org/education/school-programs/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261221-20261222-week-1-group-1 · Science Museum Oklahoma · Snowball Science · PreK 4–5 · 2026-12-21–2026-12-22
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-21 — 2026-12-22
+Edad: Grupo escolar PreK 4–5.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 70 USD sin membresía, 60 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261221-20261222-week-1-group-2 · Science Museum Oklahoma · Survive the Freeze · K–1 · 2026-12-21–2026-12-22
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-21 — 2026-12-22
+Edad: Grupo escolar K–1.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261221-20261222-week-1-group-3 · Science Museum Oklahoma · Polar Research Expedition · 2–3 · 2026-12-21–2026-12-22
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-21 — 2026-12-22
+Edad: Grupo escolar 2–3.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261221-20261222-week-1-group-4 · Science Museum Oklahoma · Build for the Blizzard · 4–6 · 2026-12-21–2026-12-22
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-21 — 2026-12-22
+Edad: Grupo escolar 4–6.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261228-20261229-week-2-group-1 · Science Museum Oklahoma · Math Magic & Pattern Play · PreK 4–5 · 2026-12-28–2026-12-29
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-28 — 2026-12-29
+Edad: Grupo escolar PreK 4–5.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 70 USD sin membresía, 60 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261228-20261229-week-2-group-2 · Science Museum Oklahoma · Flight School · K–1 · 2026-12-28–2026-12-29
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-28 — 2026-12-29
+Edad: Grupo escolar K–1.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261228-20261229-week-2-group-3 · Science Museum Oklahoma · Chemical Chaos · 2–3 · 2026-12-28–2026-12-29
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-28 — 2026-12-29
+Edad: Grupo escolar 2–3.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página indica que se agotaron las plazas.
+Restricciones: Matvey: La página indica que se agotaron las plazas. Oscar: La página indica que se agotaron las plazas. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
+Verificado: 2026-11-10
+
+### CP2403-20261228-20261229-week-2-group-4 · Science Museum Oklahoma · Survival of the Fittest · 4–6 · 2026-12-28–2026-12-29
+
+Lugar: EE. UU. · Oklahoma City · Adventure District
+Fecha: 2026-12-28 — 2026-12-29
+Edad: Grupo escolar 4–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · 120 USD sin membresía, 110 USD para socios por 2 días. · suplementos y condiciones en la ficha
+Acceso: La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6.
+Restricciones: Matvey: La página no muestra Sold Out. Confirme disponibilidad y pertenencia a los grados 4–6. Oscar: Grupo escolar 4–6. Suplementos: No se confirmaron las condiciones de cuidado adicional para el turno de invierno. Pago: Consulte al organizador.
+Fuente: https://www.sciencemuseumok.org/camps/
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

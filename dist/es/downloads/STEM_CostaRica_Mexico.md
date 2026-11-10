@@ -6440,6 +6440,84 @@ Condiciones: Actuación audiovisual única sobre las tecnologías físicas de la
 Fuente: https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
 Verificado: 2026-11-10
 
+### L998 · Universum UNAM · Átomos brillantes · 2026-11-29
+
+Fecha: 2026-11-29 — 2026-11-29
+Edad: Desde 8 años. Hasta 10 participantes por sesión.
+Matvey: Condicional. Confirme admisión y plazas.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L999 · Universum UNAM · Thompson beads · 2026-11-28
+
+Fecha: 2026-11-28 — 2026-11-28
+Edad: Desde 10 años. Hasta 10 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1000 · Universum UNAM · Thompson beads · 2026-12-12
+
+Fecha: 2026-12-12 — 2026-12-12
+Edad: Desde 10 años. Hasta 10 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1001 · Universum UNAM · Me estás presionando · 2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1002 · Universum UNAM · Me estás presionando · 2026-12-05
+
+Fecha: 2026-12-05 — 2026-12-05
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
+### L1003 · Universum UNAM · Me estás presionando · 2026-12-19
+
+Fecha: 2026-12-19 - 2026-12-19
+Edad: Desde 12 años. Hasta 20 participantes por sesión.
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Coste: Acceso con entrada del museo. Adultos 90 MXN, entrada infantil 80 MXN. Plazas limitadas en la actividad.
+Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el idioma de la actividad.
+Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
+Verificado: 2026-11-10
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
