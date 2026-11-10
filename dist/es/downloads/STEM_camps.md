@@ -93894,6 +93894,230 @@ Restricciones: Matvey: Encaja en la edad orientativa. Confirme la admisión y el
 Fuente: https://tzyedu.org/bilingual-winter-2027-en
 Verificado: 2026-11-10
 
+### CP2424-20270719-20270723-20270719 · Future Stars · Brentwood · Robot Builders · Brentwood · 2027-07-19–2027-07-23
+
+Lugar: Estados Unidos de América · Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/brentwood/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2424-20270816-20270820-20270816 · Future Stars · Brentwood · Robot Builders · Brentwood · 2027-08-16–2027-08-20
+
+Lugar: Estados Unidos de América · Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+Fecha: 2027-08-16 — 2027-08-20
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/brentwood/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2425-20270726-20270730-20270726 · Future Stars · Brentwood · Robot Masters · Brentwood · 2027-07-26–2027-07-30
+
+Lugar: Estados Unidos de América · Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 11–15 años según la tabla de la sede.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temporada futura. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/brentwood/robot-masters-camp
+Verificado: 2026-11-10
+
+### CP2426-20270802-20270806-20270802 · Future Stars · Farmingdale · LEGO Robotics · Farmingdale · 2027-08-02–2027-08-06
+
+Lugar: Estados Unidos de América · Farmingdale State College · 2350 Broadhollow Rd, Farmingdale
+Fecha: 2027-08-02 - 2027-08-06
+Edad: 8–13 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 815 por menor y semana. La tabla de esta semana indica USD 765 por semana para 1–2 semanas y USD 715 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 60, recogida tardía USD 75. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/farmingdale/lego-robotics-camp
+Verificado: 2026-11-10
+
+### CP2427-20270712-20270716-20270712 · Future Stars · Old Westbury · LEGO Robotics · Old Westbury · 2027-07-12–2027-07-16
+
+Lugar: Estados Unidos de América · SUNY Old Westbury · 223 Store Hill Rd, Old Westbury
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 8–11 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 795 por menor y semana. La tabla de esta semana indica USD 745 por semana para 1–2 semanas y USD 695 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 50, recogida tardía USD 75. Almuerzo USD 75 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/old-westbury/lego-robotics-camp
+Verificado: 2026-11-10
+
+### CP2427-20270802-20270806-20270802 · Future Stars · Old Westbury · LEGO Robotics · Old Westbury · 2027-08-02–2027-08-06
+
+Lugar: Estados Unidos de América · SUNY Old Westbury · 223 Store Hill Rd, Old Westbury
+Fecha: 2027-08-02 - 2027-08-06
+Edad: 8–11 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 795 por menor y semana. La tabla de esta semana indica USD 745 por semana para 1–2 semanas y USD 695 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 50, recogida tardía USD 75. Almuerzo USD 75 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/old-westbury/lego-robotics-camp
+Verificado: 2026-11-10
+
+### CP2428-20270628-20270702-20270628 · Future Stars · Patchogue · Robot Builders · Patchogue · 2027-06-28–2027-07-02
+
+Lugar: Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+Fecha: 2027-06-28 — 2027-07-02
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 545 por semana para 1–2 semanas y USD 570 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/patchogue/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2428-20270726-20270730-20270726 · Future Stars · Patchogue · Robot Builders · Patchogue · 2027-07-26–2027-07-30
+
+Lugar: Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/patchogue/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2429-20270719-20270723-20270719 · Future Stars · Patchogue · Robot Masters · Patchogue · 2027-07-19–2027-07-23
+
+Lugar: Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 11–15 años según la tabla de la sede.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temporada futura. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/patchogue/robot-masters-camp
+Verificado: 2026-11-10
+
+### CP2429-20270816-20270820-20270816 · Future Stars · Patchogue · Robot Masters · Patchogue · 2027-08-16–2027-08-20
+
+Lugar: Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+Fecha: 2027-08-16 — 2027-08-20
+Edad: 11–15 años según la tabla de la sede.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temporada futura. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/patchogue/robot-masters-camp
+Verificado: 2026-11-10
+
+### CP2430-20270712-20270716-20270712 · Future Stars · Sayville · Robot Builders · Sayville · 2027-07-12–2027-07-16
+
+Lugar: Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/sayville/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2430-20270809-20270813-20270809 · Future Stars · Sayville · Robot Builders · Sayville · 2027-08-09–2027-08-13
+
+Lugar: Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 6–10 años según la tabla de la sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: La edad encaja en el rango publicado. El operador confirma la admisión. Oscar: La edad encaja en el rango publicado. El operador confirma la admisión. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/sayville/robot-builders-camp
+Verificado: 2026-11-10
+
+### CP2431-20270712-20270716-20270712 · Future Stars · Sayville · Robot Masters · Sayville · 2027-07-12–2027-07-16
+
+Lugar: Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 11–15 años según la tabla de la sede.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temporada futura. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/sayville/robot-masters-camp
+Verificado: 2026-11-10
+
+### CP2431-20270809-20270813-20270809 · Future Stars · Sayville · Robot Masters · Sayville · 2027-08-09–2027-08-13
+
+Lugar: Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 11–15 años según la tabla de la sede.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas. · suplementos y condiciones en la ficha
+Acceso: Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temporada futura. Oscar: Edad inferior al mínimo publicado. Opción para una temporada futura. Suplementos: Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar. Pago: Confirme el anticipo y el reembolso vigentes para la semana elegida.
+Fuente: https://www.fscamps.com/sayville/robot-masters-camp
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

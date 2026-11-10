@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2423,
+    "dossiers": 2432,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 680,
-      "partial_2027": 180,
+      "published_2027": 688,
+      "partial_2027": 181,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3364
+    "source_urls": 3376
   },
   "countries": [
     {
@@ -416,7 +416,7 @@
     },
     {
       "country": "Панама",
-      "count": 15
+      "count": 16
     },
     {
       "country": "Парагвай",
@@ -480,7 +480,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 179
+      "count": 187
     },
     {
       "country": "Суринам",
@@ -427104,6 +427104,1324 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2424",
+      "slug": "future-stars-brentwood-robot-builders-camp-2027",
+      "provider": "Future Stars · Brentwood · Robot Builders",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood",
+      "age": "6–10 лет по таблице площадки.",
+      "programme": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Brentwood",
+            "place": "Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 745 за ребёнка на неделю. Таблица этой недели указывает USD 695 за неделю при 1–2 неделях и USD 645 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/brentwood/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270719"
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Brentwood",
+            "place": "Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 745 за ребёнка на неделю. Таблица этой недели указывает USD 695 за неделю при 1–2 неделях и USD 645 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/brentwood/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270816"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 745,
+        "label": "Базовый тариф USD 745 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Обед USD 80 за неделю. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        }
+      },
+      "editorial_reason": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/brentwood/robot-builders-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2424-20270719-20270723-20270719"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2424-20270816-20270820-20270816"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2425",
+      "slug": "future-stars-brentwood-robot-masters-camp-2027",
+      "provider": "Future Stars · Brentwood · Robot Masters",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood",
+      "age": "11–15 лет по таблице площадки.",
+      "programme": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Brentwood",
+            "place": "Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood",
+            "age": "11–15 лет по таблице площадки.",
+            "price": "Базовый тариф USD 745 за ребёнка на неделю. Таблица этой недели указывает USD 695 за неделю при 1–2 неделях и USD 645 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/brentwood/robot-masters-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270726"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 745,
+        "label": "Базовый тариф USD 745 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Обед USD 80 за неделю. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/brentwood/robot-masters-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2425-20270726-20270730-20270726"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2426",
+      "slug": "future-stars-farmingdale-lego-robotics-camp-2027",
+      "provider": "Future Stars · Farmingdale · LEGO Robotics",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Farmingdale State College · 2350 Broadhollow Rd, Farmingdale",
+      "age": "8–13 лет по таблице площадки.",
+      "programme": "Конструирование и программирование LEGO, механизмы, роботы для сумо и инженерные задания.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Farmingdale",
+            "place": "Farmingdale State College · 2350 Broadhollow Rd, Farmingdale",
+            "age": "8–13 лет по таблице площадки.",
+            "price": "Базовый тариф USD 815 за ребёнка на неделю. Таблица этой недели указывает USD 765 за неделю при 1–2 неделях и USD 715 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/farmingdale/lego-robotics-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270802"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 815,
+        "label": "Базовый тариф USD 815 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 60, поздний выезд USD 75. Обед USD 80 за неделю. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Конструирование и программирование LEGO, механизмы, роботы для сумо и инженерные задания.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/farmingdale/lego-robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2426-20270802-20270806-20270802"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2427",
+      "slug": "future-stars-old-westbury-lego-robotics-camp-2027",
+      "provider": "Future Stars · Old Westbury · LEGO Robotics",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "SUNY Old Westbury · 223 Store Hill Rd, Old Westbury",
+      "age": "8–11 лет по таблице площадки.",
+      "programme": "Конструирование и программирование LEGO, механизмы, роботы для сумо и инженерные задания.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Old Westbury",
+            "place": "SUNY Old Westbury · 223 Store Hill Rd, Old Westbury",
+            "age": "8–11 лет по таблице площадки.",
+            "price": "Базовый тариф USD 795 за ребёнка на неделю. Таблица этой недели указывает USD 745 за неделю при 1–2 неделях и USD 695 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/old-westbury/lego-robotics-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270712"
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Old Westbury",
+            "place": "SUNY Old Westbury · 223 Store Hill Rd, Old Westbury",
+            "age": "8–11 лет по таблице площадки.",
+            "price": "Базовый тариф USD 795 за ребёнка на неделю. Таблица этой недели указывает USD 745 за неделю при 1–2 неделях и USD 695 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/old-westbury/lego-robotics-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270802"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 795,
+        "label": "Базовый тариф USD 795 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 50, поздний выезд USD 75. Обед USD 75 за неделю. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Конструирование и программирование LEGO, механизмы, роботы для сумо и инженерные задания.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/old-westbury/lego-robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2427-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2427-20270802-20270806-20270802"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2428",
+      "slug": "future-stars-patchogue-robot-builders-camp-2027",
+      "provider": "Future Stars · Patchogue · Robot Builders",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+      "age": "6–10 лет по таблице площадки.",
+      "programme": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Patchogue",
+            "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 545 за неделю при 1–2 неделях и USD 570 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/patchogue/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270628"
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Patchogue",
+            "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/patchogue/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270726"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 695,
+        "label": "Базовый тариф USD 695 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Стоимость питания на странице площадки не указана. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        }
+      },
+      "editorial_reason": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/patchogue/robot-builders-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2428-20270628-20270702-20270628"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2428-20270726-20270730-20270726"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2429",
+      "slug": "future-stars-patchogue-robot-masters-camp-2027",
+      "provider": "Future Stars · Patchogue · Robot Masters",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+      "age": "11–15 лет по таблице площадки.",
+      "programme": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Patchogue",
+            "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+            "age": "11–15 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/patchogue/robot-masters-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270719"
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Patchogue",
+            "place": "Oregon Middle School · 109 Oregon Ave, Medford",
+            "age": "11–15 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/patchogue/robot-masters-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270816"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 695,
+        "label": "Базовый тариф USD 695 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Стоимость питания на странице площадки не указана. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/patchogue/robot-masters-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2429-20270719-20270723-20270719"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2429-20270816-20270820-20270816"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2430",
+      "slug": "future-stars-sayville-robot-builders-camp-2027",
+      "provider": "Future Stars · Sayville · Robot Builders",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+      "age": "6–10 лет по таблице площадки.",
+      "programme": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Sayville",
+            "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/sayville/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270712"
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Sayville",
+            "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+            "age": "6–10 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/sayville/robot-builders-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270809"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 695,
+        "label": "Базовый тариф USD 695 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Стоимость питания на странице площадки не указана. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Возраст входит в опубликованный диапазон. Зачисление подтверждает оператор."
+        }
+      },
+      "editorial_reason": "Первые роботы с LEGO WeDo, Ozobots, Sphero и Dash. Сборка, программирование, игры и водные активности.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/sayville/robot-builders-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2430-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2430-20270809-20270813-20270809"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2431",
+      "slug": "future-stars-sayville-robot-masters-camp-2027",
+      "provider": "Future Stars · Sayville · Robot Masters",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+      "age": "11–15 лет по таблице площадки.",
+      "programme": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы оператора на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Sayville",
+            "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+            "age": "11–15 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/sayville/robot-masters-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270712"
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Sayville",
+            "place": "Sayville Middle School · 291 Johnson Ave, Sayville",
+            "age": "11–15 лет по таблице площадки.",
+            "price": "Базовый тариф USD 695 за ребёнка на неделю. Таблица этой недели указывает USD 645 за неделю при 1–2 неделях и USD 595 за неделю при 3+ неделях. Действие тарифов подтвердить.",
+            "source": "https://www.fscamps.com/sayville/robot-masters-camp",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "entry": "Дневная программа 09:00–16:00 с понедельника по пятницу. Опубликован типовой распорядок.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+            },
+            "variant_key": "20270809"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "unit": "week",
+        "amount": 695,
+        "label": "Базовый тариф USD 695 за ребёнка на неделю.",
+        "included": "Оборудование и материалы предоставляются.",
+        "extras": "Доплаты за неделю. Ранний приём USD 80, поздний выезд USD 80. Стоимость питания на странице площадки не указана. Указана скидка USD 25 за неделю после первого ребёнка. Сочетание скидок и сумму к оплате подтвердить.",
+        "deposit": "Актуальный аванс и возврат по выбранной смене подтвердить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Инженерные задания по проектированию, сборке, программированию и испытанию роботов.",
+      "shortlist": [],
+      "questions": [
+        "Сверить возраст на начало недели, язык занятий, места и окончательную сумму.",
+        "Набор на лето 2027 объявлен. Место на выбранной неделе подтверждает оператор."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fscamps.com/sayville/robot-masters-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/dates_rates",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fscamps.com/robotics-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить возраст на начало недели, язык занятий, места и окончательную сумму."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2431-20270712-20270716-20270712"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2431-20270809-20270813-20270809"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2432",
+      "slug": "gamechangers-guarare-english-pilot-2027",
+      "provider": "Gamechangers · Guararé",
+      "iso": "PAN",
+      "country": "Панама",
+      "place": "Guararé, Los Santos",
+      "age": "10–11 лет и 5 класс по карточке программы.",
+      "programme": "Двухдневная пилотная программа для 20 школьников. Игры и разговорные задания на английском.",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Игровое погружение в английский, по описанию организатора.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Объявлен январь 2027. Точные дни и часы пока не указаны.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "unit": "programme",
+        "amount": null,
+        "label": "Тариф 2027 не опубликован.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возможный кандидат, если к началу уже 10 лет и ребёнок учится в 5 классе. Допуск подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума. Вариант на будущий сезон."
+        }
+      },
+      "editorial_reason": "Двухдневная пилотная программа для 20 школьников. Игры и разговорные задания на английском.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить приём детей из других школ, даты, места и стоимость."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamechangerspty.com/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gamechangerspty.com/about",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить приём детей из других школ, даты, места и стоимость."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -445664,7 +446982,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2423,
+      "total_dossiers": 2432,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -471954,6 +473272,76 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2424",
+      "event_id": "CP2424-20270719-20270723-20270719",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2424",
+      "event_id": "CP2424-20270816-20270820-20270816",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2425",
+      "event_id": "CP2425-20270726-20270730-20270726",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2426",
+      "event_id": "CP2426-20270802-20270806-20270802",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2427",
+      "event_id": "CP2427-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2427",
+      "event_id": "CP2427-20270802-20270806-20270802",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2428",
+      "event_id": "CP2428-20270628-20270702-20270628",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2428",
+      "event_id": "CP2428-20270726-20270730-20270726",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2429",
+      "event_id": "CP2429-20270719-20270723-20270719",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2429",
+      "event_id": "CP2429-20270816-20270820-20270816",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2430",
+      "event_id": "CP2430-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2430",
+      "event_id": "CP2430-20270809-20270813-20270809",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2431",
+      "event_id": "CP2431-20270712-20270716-20270712",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2431",
+      "event_id": "CP2431-20270809-20270813-20270809",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -477301,10 +478689,24 @@
     "CP2422-20270124-20270129",
     "CP2423-20270124-20270128",
     "CP2423-20270131-20270204",
-    "CP2423-20270214-20270218"
+    "CP2423-20270214-20270218",
+    "CP2424-20270719-20270723-20270719",
+    "CP2424-20270816-20270820-20270816",
+    "CP2425-20270726-20270730-20270726",
+    "CP2426-20270802-20270806-20270802",
+    "CP2427-20270712-20270716-20270712",
+    "CP2427-20270802-20270806-20270802",
+    "CP2428-20270628-20270702-20270628",
+    "CP2428-20270726-20270730-20270726",
+    "CP2429-20270719-20270723-20270719",
+    "CP2429-20270816-20270820-20270816",
+    "CP2430-20270712-20270716-20270712",
+    "CP2430-20270809-20270813-20270809",
+    "CP2431-20270712-20270716-20270712",
+    "CP2431-20270809-20270813-20270809"
   ],
   "integration": {
-    "generated_sessions": 4937,
+    "generated_sessions": 4951,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

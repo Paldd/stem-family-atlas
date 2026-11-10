@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2423 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2432 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -190597,6 +190597,622 @@ China · Shenzhen · Hong Kong · Macao · Zhuhai
 - [Se comprobó la ficha oficial del programa.](https://tzyedu.org/brochures/winter-2027.pdf?v=20260913) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://tzyedu.org/international-camps) · 2026-11-10
+
+## CP2424 · Future Stars · Brentwood · Robot Builders
+
+Estados Unidos de América · Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 745 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Oscar:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Motivo de selección:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Brentwood
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**Lugar:** Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/brentwood/robot-builders-camp)
+
+### Brentwood
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**Lugar:** Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/brentwood/robot-builders-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/brentwood/robot-builders-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2425 · Future Stars · Brentwood · Robot Masters
+
+Estados Unidos de América · Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 745 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Brentwood
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**Lugar:** Suffolk Community College · Grant Campus · 1001 Crooked Hill Rd, Brentwood
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 745 por menor y semana. La tabla de esta semana indica USD 695 por semana para 1–2 semanas y USD 645 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/brentwood/robot-masters-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/brentwood/robot-masters-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2426 · Future Stars · Farmingdale · LEGO Robotics
+
+Estados Unidos de América · Farmingdale State College · 2350 Broadhollow Rd, Farmingdale
+
+**Verificado:** 2026-11-10
+
+**Edad:** 8–13 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Construcción y programación con LEGO, mecanismos, robots de sumo y retos de ingeniería.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 815 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 60, recogida tardía USD 75. Almuerzo USD 80 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Construcción y programación con LEGO, mecanismos, robots de sumo y retos de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Farmingdale
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**Lugar:** Farmingdale State College · 2350 Broadhollow Rd, Farmingdale
+
+**Edad:** 8–13 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 815 por menor y semana. La tabla de esta semana indica USD 765 por semana para 1–2 semanas y USD 715 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/farmingdale/lego-robotics-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/farmingdale/lego-robotics-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2427 · Future Stars · Old Westbury · LEGO Robotics
+
+Estados Unidos de América · SUNY Old Westbury · 223 Store Hill Rd, Old Westbury
+
+**Verificado:** 2026-11-10
+
+**Edad:** 8–11 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Construcción y programación con LEGO, mecanismos, robots de sumo y retos de ingeniería.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 795 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 50, recogida tardía USD 75. Almuerzo USD 75 por semana. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Construcción y programación con LEGO, mecanismos, robots de sumo y retos de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Old Westbury
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**Lugar:** SUNY Old Westbury · 223 Store Hill Rd, Old Westbury
+
+**Edad:** 8–11 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 795 por menor y semana. La tabla de esta semana indica USD 745 por semana para 1–2 semanas y USD 695 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/old-westbury/lego-robotics-camp)
+
+### Old Westbury
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**Lugar:** SUNY Old Westbury · 223 Store Hill Rd, Old Westbury
+
+**Edad:** 8–11 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 795 por menor y semana. La tabla de esta semana indica USD 745 por semana para 1–2 semanas y USD 695 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/old-westbury/lego-robotics-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/old-westbury/lego-robotics-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2428 · Future Stars · Patchogue · Robot Builders
+
+Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 695 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Oscar:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Motivo de selección:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Patchogue
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**Lugar:** Oregon Middle School · 109 Oregon Ave, Medford
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 545 por semana para 1–2 semanas y USD 570 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/patchogue/robot-builders-camp)
+
+### Patchogue
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**Lugar:** Oregon Middle School · 109 Oregon Ave, Medford
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/patchogue/robot-builders-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/patchogue/robot-builders-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2429 · Future Stars · Patchogue · Robot Masters
+
+Estados Unidos de América · Oregon Middle School · 109 Oregon Ave, Medford
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 695 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Patchogue
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**Lugar:** Oregon Middle School · 109 Oregon Ave, Medford
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/patchogue/robot-masters-camp)
+
+### Patchogue
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**Lugar:** Oregon Middle School · 109 Oregon Ave, Medford
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/patchogue/robot-masters-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/patchogue/robot-masters-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2430 · Future Stars · Sayville · Robot Builders
+
+Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 695 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Oscar:** La edad encaja en el rango publicado. El operador confirma la admisión.
+
+**Motivo de selección:** Primeros robots con LEGO WeDo, Ozobots, Sphero y Dash. Montaje, programación, juegos y actividades acuáticas.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Sayville
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**Lugar:** Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/sayville/robot-builders-camp)
+
+### Sayville
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**Lugar:** Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Edad:** 6–10 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/sayville/robot-builders-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/sayville/robot-builders-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2431 · Future Stars · Sayville · Robot Masters
+
+Estados Unidos de América · Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Idioma:** Los materiales del operador están en inglés. Confirme el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Precio / año:** 2027 · Tarifa base USD 695 por menor y semana.
+
+**Incluido:** Se proporciona el equipo y los materiales.
+
+**Suplementos:** Suplementos semanales. Entrada temprana USD 80, recogida tardía USD 80. La página de la sede no indica el coste de la comida. Se indica un descuento de USD 25 por semana después del primer menor. Confirme la combinación de descuentos y el importe a pagar.
+
+**Pago:** Confirme el anticipo y el reembolso vigentes para la semana elegida.
+
+**Matvey:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Retos de ingeniería para diseñar, construir, programar y probar robots.
+
+### Antes de solicitar plaza
+
+- Confirme la edad al inicio de la semana, el idioma de las actividades, las plazas y el importe final.
+
+- Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+### Sayville
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**Lugar:** Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/sayville/robot-masters-camp)
+
+### Sayville
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**Lugar:** Sayville Middle School · 291 Johnson Ave, Sayville
+
+**Edad:** 11–15 años según la tabla de la sede.
+
+**Precio:** Tarifa base USD 695 por menor y semana. La tabla de esta semana indica USD 645 por semana para 1–2 semanas y USD 595 por semana para 3+ semanas. Confirme la vigencia de estas tarifas.
+
+**Condiciones de participación:** Programa diurno de lunes a viernes de 09:00–16:00. Se publicó un horario orientativo.
+
+**Disponibilidad:** Se anunció la inscripción para el verano de 2027. El operador confirma la plaza en la semana elegida.
+
+[fuente](https://www.fscamps.com/sayville/robot-masters-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/sayville/robot-masters-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/dates_rates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fscamps.com/robotics-camp) · 2026-11-10
+
+## CP2432 · Gamechangers · Guararé
+
+Panamá · Guararé, Los Santos
+
+**Verificado:** 2026-11-10
+
+**Edad:** 10–11 años y 5.º grado según la ficha del programa.
+
+**Idioma:** Inmersión lúdica en inglés, según la descripción del organizador.
+
+**Programa:** Programa piloto de dos días para 20 estudiantes. Juegos y actividades de conversación en inglés.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Se anunció enero de 2027. Los días y horarios exactos aún no se indican.
+
+**Precio / año:** 2027 · No se publicó la tarifa de 2027.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Posible candidato si ya tiene 10 años al inicio y cursa 5.º grado. Confirme la admisión.
+
+**Oscar:** Edad inferior al mínimo publicado. Opción para una temporada futura.
+
+**Motivo de selección:** Programa piloto de dos días para 20 estudiantes. Juegos y actividades de conversación en inglés.
+
+### Antes de solicitar plaza
+
+- Confirme la admisión de alumnado de otros centros, las fechas, las plazas y el coste.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gamechangerspty.com/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gamechangerspty.com/about) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

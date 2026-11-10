@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12299,
-    "competition_cards": 5533,
-    "event_cards": 822,
-    "camp_cards": 5944,
-    "league_profiles": 356,
-    "major_exhibition_cards": 716,
+    "cards": 12316,
+    "competition_cards": 5534,
+    "event_cards": 824,
+    "camp_cards": 5958,
+    "league_profiles": 357,
+    "major_exhibition_cards": 718,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3944,
+      "total": 3959,
       "countries_with_records": 41,
       "competitions": 2234,
-      "events": 236,
-      "major_exhibitions": 189,
-      "camps": 1474,
+      "events": 237,
+      "major_exhibitions": 190,
+      "camps": 1488,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 3361,
+      "total": 3363,
       "countries_with_records": 51,
-      "competitions": 1289,
-      "events": 210,
-      "major_exhibitions": 197,
+      "competitions": 1290,
+      "events": 211,
+      "major_exhibitions": 198,
       "camps": 1862,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -9167,6 +9167,20 @@
       "new": false
     },
     {
+      "id": "teyi-taiwan",
+      "name": "Taiwan Exhibition for Young Inventors · TEYI",
+      "group": "regional",
+      "event_ids": [
+        "C5535"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -18044,6 +18058,28 @@
       "new": false
     },
     {
+      "id": "E823",
+      "name": "Misión Galáctica · Centro Tolzú",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-09-24",
+      "end": "2027-01-31",
+      "visitor_policy": "family",
+      "source": "https://www.centrotolzu.mx/events/mision-galactica",
+      "new": false
+    },
+    {
+      "id": "E824",
+      "name": "Kwon Byungjun: I Embrace You · Buk-Seoul Museum of Art",
+      "country": "Южная Корея",
+      "region": "Азия",
+      "start": "2026-06-11",
+      "end": "2027-05-16",
+      "visitor_policy": "family",
+      "source": "https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1540505",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20475,8 +20511,8 @@
       }
     ],
     "counts": {
-      "records": 5944,
-      "holiday": 5275,
+      "records": 5958,
+      "holiday": 5289,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1046,

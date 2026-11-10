@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12299. Competiciones: 5533. Eventos: 822. Campamentos o programas: 5944. Perfiles de ligas y programas: 356. Fichas de grandes exposiciones y exposiciones especializadas: 716. Se cuentan ediciones y sedes.
+Fichas en la base: 12316. Competiciones: 5534. Eventos: 824. Campamentos o programas: 5958. Perfiles de ligas y programas: 357. Fichas de grandes exposiciones y exposiciones especializadas: 718. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2234 | 189 | 1474 |
+| América del Norte | 41 | 2234 | 190 | 1488 |
 | América del Sur | 15 | 505 | 62 | 292 |
 | Europa | 55 | 795 | 180 | 1730 |
 | África | 61 | 286 | 47 | 156 |
-| Asia | 51 | 1289 | 197 | 1862 |
+| Asia | 51 | 1290 | 198 | 1862 |
 | Oceanía | 27 | 184 | 39 | 415 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX: 821 de 5533 fichas de competición (14.8%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5534 fichas de competición (14.8%). La cobertura tiene un sesgo claro.
 
 ## Lo que queda
 
@@ -396,6 +396,7 @@ VEX: 821 de 5533 fichas de competición (14.8%). La cobertura tiene un sesgo cla
 - **Mubarmij Al Emarat**: 5 fichas, 0 con fechas futuras exactas. Incluye perfil y fichas. Cobertura local parcial. https://www.mubarmijalemarat.com/
 - **WRO Uganda · Mindset Coders**: 1 ficha, 0 con fechas futuras exactas. Incluye perfil y ficha. Cobertura local parcial. https://wro.mindset-group.org/competition/2026
 - **CRD Robotics & Innovation Championship**: 13 fichas, 0 con fechas futuras exactas. Hay un perfil y fichas. La cobertura local es parcial. https://crdthailand.com/en
+- **Taiwan Exhibition for Young Inventors · TEYI**: 1 ficha, 0 con fechas futuras precisas. Hay perfil y ficha. La cobertura local es parcial. https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1154,6 +1155,8 @@ VEX: 821 de 5533 fichas de competición (14.8%). La cobertura tiene un sesgo cla
 - **RELICS: A New World Rises** — Australia. 2026-09-19 – 2027-01-31. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.cmag.com.au/exhibitions/relics-a-new-world-rises
 - **Feria Tecno-Académica Nacional STEAM 2026** — Honduras. Fecha desconocida. Confirme el acceso infantil. https://www.uth.hn/juventud-hondurena-lidera-la-transformacion-digital-en-la-feria-nacional-steam-2026/
 - **Robotics & turkey · Jamaica** — Jamaica. Fecha desconocida. Confirme el acceso infantil. https://www.roboticsturkey.org/blog-1-1/pausing-robotics-amp-turkey-for-2026
+- **Misión Galáctica · Centro Tolzú** — México. 2026-09-24 – 2027-01-31. Con un adulto. Consulte las condiciones de acceso. https://www.centrotolzu.mx/events/mision-galactica
+- **Kwon Byungjun: I Embrace You · Buk-Seoul Museum of Art** — Corea del Sur. 2026-06-11 – 2027-05-16. Con un adulto. Consulte las condiciones de acceso. https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1540505
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

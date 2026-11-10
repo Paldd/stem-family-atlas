@@ -6531,6 +6531,19 @@ Restricciones: Los equipos transportan y colocan cargas en la pista. Confirme el
 Fuente: https://sites.google.com/tec.mx/roboblasters/inicio
 Verificado: 2026-11-10
 
+### E823 · Misión Galáctica · Centro Tolzú
+
+Fecha: 2026-09-24 — 2027-01-31
+Edad: La exposición está pensada para visitas en familia con menores.
+Matvey: Sí, con acompañamiento de una persona adulta.
+Oscar: Sí, con acompañamiento de una persona adulta.
+Idioma: La descripción de la sede está en español. Confirme el idioma del audio y las visitas guiadas.
+Acceso: Elija la entrada en Centro Tolzú. Las tarifas y los horarios figuran en la página de la sede.
+Coste: MXN 60 general, MXN 50 infantil. Confirme el límite de edad de la tarifa infantil.
+Restricciones: La sede indica 24.09.2026–31.01.2027. El calendario de IEEE indica 25.09.2026–25.02.2027. Para la visita use las fechas de Centro Tolzú.
+Fuente: https://www.centrotolzu.mx/events/mision-galactica
+Verificado: 2026-11-10
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

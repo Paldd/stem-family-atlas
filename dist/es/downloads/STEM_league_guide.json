@@ -30339,6 +30339,60 @@
         "evidence": "Se comprobó la ficha oficial del programa."
       },
       {
+        "id": "teyi-taiwan",
+        "name": "Taiwan Exhibition for Young Inventors · TEYI",
+        "group": "regional",
+        "age_summary": "Estudiantes de 6–19 años. Tres niveles de primaria a secundaria superior.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "El reglamento de 2027 indica la evaluación presencial y la premiación del 27–28 de enero de 2027. Confirme la distribución por niveles con el comité.",
+        "route": "La recepción inicial cerró el 30.10.2026 a las 17:00. Revisión de proyectos el 19.11.2026 y lista de seleccionados el 27.11.2026. Inscripción de finalistas y equipos recomendados del 01.12.2026 09:00 al 14.12.2026 17:00, hora de Taipéi.",
+        "hardware": "Seis áreas. Seguridad y desastres, ocio y educación, sostenibilidad y tecnología agrícola, asistencia social, soluciones cotidianas, tecnologías emergentes y diseño industrial.",
+        "language": "Hay una evaluación separada de presentaciones en inglés para un premio especial. Confirme el idioma principal de la defensa.",
+        "importance": "Selección nacional de Taiwán",
+        "strengths": "La final concede medallas, diplomas y premios especiales. La organización anfitriona fija el cupo para el IEYI mundial.",
+        "requirements": [
+          "Hasta 3 estudiantes y hasta 3 docentes en activo. Al menos un mentor del centro del participante.",
+          "Condicional por edad. Se requiere un centro educativo y documentación del equipo. No se confirmó la admisión directa desde otro país. La recepción inicial está cerrada."
+        ],
+        "nuances": [
+          "Consulte los resultados de la selección. Para un ciclo futuro, confirme la documentación escolar y las reglas para alumnado extranjero."
+        ],
+        "cost": "Solicitud independiente por proyecto: TWD 500 para la selección inicial y TWD 1 500 para la final tras la admisión. Los equipos recomendados no pagan la fase inicial y abonan TWD 1 200 por la final.",
+        "award": "La final concede medallas, diplomas y premios especiales. La organización anfitriona fija el cupo para el IEYI mundial.",
+        "categories": [
+          {
+            "name": "TEYI 2027 · selección taiwanesa de jóvenes inventores",
+            "age": "Estudiantes de 6–19 años. Tres niveles de primaria a secundaria superior.",
+            "team": "Hasta 3 estudiantes y hasta 3 docentes en activo. Al menos un mentor del centro del participante.",
+            "hardware": "Seis áreas. Seguridad y desastres, ocio y educación, sostenibilidad y tecnología agrícola, asistencia social, soluciones cotidianas, tecnologías emergentes y diseño industrial.",
+            "entry": "La recepción inicial cerró el 30.10.2026 a las 17:00. Revisión de proyectos el 19.11.2026 y lista de seleccionados el 27.11.2026. Inscripción de finalistas y equipos recomendados del 01.12.2026 09:00 al 14.12.2026 17:00, hora de Taipéi.",
+            "event_id": "C5535"
+          }
+        ],
+        "event_ids": [
+          "C5535"
+        ],
+        "legacy_ids": [],
+        "sources": [
+          {
+            "url": "https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.teyi.org/Client/DownloadInfoFile?guid=757dd4c116974abda50a23aed10b6ab8",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -35684,7 +35738,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 356. Se conservan las 46 vías anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot locales se describen por categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 357. Se conservan las 46 vías anteriores. Los formatos brasileños están separados y se describen las categorías locales de Robofest LATAM y BajaBot. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

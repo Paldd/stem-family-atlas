@@ -1107,6 +1107,19 @@ Condiciones: Representante local: Chinese Mathematics Association. El grado y el
 Fuente: https://www.spiritofmathcontest.com/countries/taiwan
 Se ha comprobado: 2026-11-09
 
+### C5535 · TEYI 2027 · selección taiwanesa de jóvenes inventores
+
+Fecha: 2027-01-27 — 2027-01-28
+Edad: Estudiantes de 6–19 años. Tres niveles de primaria a secundaria superior.
+Matvey: Condicional por edad. Se requiere un centro educativo y documentación del equipo. No se confirmó la admisión directa desde otro país. La recepción inicial está cerrada.
+Oscar: Condicional por edad. Se requiere un centro educativo y documentación del equipo. No se confirmó la admisión directa desde otro país. La recepción inicial está cerrada.
+Idioma: Hay una evaluación separada de presentaciones en inglés para un premio especial. Confirme el idioma principal de la defensa.
+Acceso: La recepción inicial cerró el 30.10.2026 a las 17:00. Revisión de proyectos el 19.11.2026 y lista de seleccionados el 27.11.2026. Inscripción de finalistas y equipos recomendados del 01.12.2026 09:00 al 14.12.2026 17:00, hora de Taipéi.
+Coste: Solicitud independiente por proyecto: TWD 500 para la selección inicial y TWD 1 500 para la final tras la admisión. Los equipos recomendados no pagan la fase inicial y abonan TWD 1 200 por la final.
+Restricciones: El reglamento de 2027 indica la evaluación presencial y la premiación del 27–28 de enero de 2027. Confirme la distribución por niveles con el comité.
+Fuente: https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8
+Verificado: 2026-11-10
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10
