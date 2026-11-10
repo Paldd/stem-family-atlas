@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 6188,
-      "holiday": 5517,
+      "records": 6196,
+      "holiday": 5524,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1049,
-      "en_es_instruction": 1724,
+      "en_es_instruction": 1728,
       "en_es_support": 67,
-      "family_instruction": 1724,
+      "family_instruction": 1728,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 439,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 161
+      "countries": 162
     },
     "validation": {
       "version": 51,
@@ -12976,7 +12976,7 @@
       "language_mode": "unconfirmed",
       "language_certainty": "el idioma de los materiales de enseñanza no es igual al idioma del curso organizado.",
       "scope": "international",
-      "level": "el programa internacional",
+      "level": "Programa internacional",
       "importance_reason": "evaluación editorial del recorrido familiar; no es un índice oficial.",
       "reward": "el prototipo de la formación; el premio sólo se otorga en caso de solicitud de concurso aceptada por separado.",
       "priority": "P2  preparación después de la admisión",
@@ -55786,6 +55786,58 @@
       "language_certainty": "El centro indica expresamente enseñanza en inglés.",
       "camp_dossier_slug": "ntsec-science-hour-microscope",
       "camp_programme_id": "CP2465"
+    },
+    {
+      "id": "L1018",
+      "title": "AFRISTEM · International STEMx Boot Camp 5.0",
+      "block": "Campamentos",
+      "country": "África / varios países",
+      "iso": [],
+      "region": "África",
+      "city": "Ciudades por confirmar",
+      "start": "2027-08-02",
+      "end": "2027-08-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "source": "https://www.afristemglobal.org/events",
+      "references": [],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "age": "8–19 años.",
+      "mat": "Cumple la edad. Confirme acceso al grupo en línea, horario e idioma.",
+      "osc": "Edad inferior al mínimo del grupo publicado.",
+      "format": "Programa híbrido de robótica, programación y diseño de ingeniería.",
+      "entry": "Se anunció el periodo general. Días, sedes de los grupos presenciales y horarios por confirmar.",
+      "gear": "",
+      "language": "Materiales en inglés. Confirme el idioma de las pruebas o clases.",
+      "languages": [],
+      "language_mode": "materials",
+      "cost": "Consulte al organizador.",
+      "level": "Programa internacional",
+      "reward": "",
+      "priority": "P3 — confirmar admisión",
+      "action": "Se anunció el periodo general. Días, sedes de los grupos presenciales y horarios por confirmar.",
+      "note": "Para el grupo en línea, confirme países admitidos, idioma de clase y requisitos de equipo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "international",
+      "participation": "hybrid",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "camp_window",
+      "evidence_level": "rules",
+      "date_precision": "announced_window",
+      "date_rule": "Se anunció el periodo general. Días, sedes de los grupos presenciales y horarios por confirmar.",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
       "id": "CP001-20270606-20270619",
@@ -524278,6 +524330,658 @@
         "FR"
       ],
       "date_rule": "15–19 de febrero de 2027. El formulario indica 09:00–17:00, pausa de 12:00–14:00. Confirme el horario al inscribirse."
+    },
+    {
+      "id": "CP2521-20261221-20261225",
+      "block": "Campamentos",
+      "title": "Speak Easy · Snow Explorers · Snow Explorers · 2026-12-21–2026-12-25",
+      "country": "Marruecos",
+      "region": "África",
+      "city": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "start": "2026-12-21",
+      "end": "2026-12-25",
+      "period": "Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "gear": "Temática invernal. Confirme el programa y las salidas.",
+      "language": "Turno íntegramente en inglés con inmersión.",
+      "cost": "2026/27 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "source": "https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png",
+      "references": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "iso": [
+        "MAR"
+      ],
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Turno íntegramente en inglés con inmersión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "speak-easy-casablanca-snow-explorers",
+      "camp_programme_id": "CP2521",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2522-20270222-20270226",
+      "block": "Campamentos",
+      "title": "Speak Easy · Space Camp · Space Camp · 2027-02-22–2027-02-26",
+      "country": "Marruecos",
+      "region": "África",
+      "city": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "start": "2027-02-22",
+      "end": "2027-02-26",
+      "period": "Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "gear": "Temática espacial. Confirme el programa y las salidas.",
+      "language": "Turno íntegramente en inglés con inmersión.",
+      "cost": "2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "source": "https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png",
+      "references": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "iso": [
+        "MAR"
+      ],
+      "themes": [
+        "language",
+        "space"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Turno íntegramente en inglés con inmersión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "speak-easy-casablanca-space-camp",
+      "camp_programme_id": "CP2522",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2523-20270301-20270305",
+      "block": "Campamentos",
+      "title": "Speak Easy · Adventure Trail · Adventure Trail · 2027-03-01–2027-03-05",
+      "country": "Marruecos",
+      "region": "África",
+      "city": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "start": "2027-03-01",
+      "end": "2027-03-05",
+      "period": "Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "gear": "Temática de aventura y exploración. Confirme el programa y las salidas.",
+      "language": "Turno íntegramente en inglés con inmersión.",
+      "cost": "2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "source": "https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png",
+      "references": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "iso": [
+        "MAR"
+      ],
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Turno íntegramente en inglés con inmersión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "speak-easy-casablanca-adventure-trail",
+      "camp_programme_id": "CP2523",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2524-20270426-20270430",
+      "block": "Campamentos",
+      "title": "Speak Easy · Ocean Rescue Academy · Ocean Rescue Academy · 2027-04-26–2027-04-30",
+      "country": "Marruecos",
+      "region": "África",
+      "city": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "start": "2027-04-26",
+      "end": "2027-04-30",
+      "period": "Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "gear": "Temática de rescate oceánico. Confirme el programa y las salidas.",
+      "language": "Turno íntegramente en inglés con inmersión.",
+      "cost": "2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "source": "https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png",
+      "references": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.",
+      "iso": [
+        "MAR"
+      ],
+      "themes": [
+        "language",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Turno íntegramente en inglés con inmersión.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "speak-easy-casablanca-ocean-rescue",
+      "camp_programme_id": "CP2524",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2525-20261222-20261230",
+      "block": "Campamentos",
+      "title": "GO STEAM · Christmas Build Camp · 5–7 · Historia o animación con código por bloques · 2026-12-22–2026-12-30",
+      "country": "Nigeria",
+      "region": "África",
+      "city": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "start": "2026-12-22",
+      "end": "2026-12-30",
+      "period": "Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 5 a 7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "gear": "Historia o animación con código por bloques. El último día los niños muestran sus proyectos a sus padres.",
+      "language": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "cost": "2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras. Cada niño necesita un portátil cargado con su cargador.",
+      "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+      "references": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad superior al rango de este grupo. Hay otro grupo en las mismas fechas. Oscar: La edad está dentro del rango del grupo. Confirme plaza e idioma de clase. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "iso": [
+        "NGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "go-steam-christmas-animation",
+      "camp_programme_id": "CP2525",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-22",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Historia o animación con código por bloques",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T09:00:00Z",
+          "end_utc": "2026-12-22T12:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Historia o animación con código por bloques",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T09:00:00Z",
+          "end_utc": "2026-12-23T12:00:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Historia o animación con código por bloques",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T09:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Historia o animación con código por bloques",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T09:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Historia o animación con código por bloques",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T09:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2526-20261222-20261230",
+      "block": "Campamentos",
+      "title": "GO STEAM · Christmas Build Camp · 8–12 · Juego con código por bloques o robot programado · 2026-12-22–2026-12-30",
+      "country": "Nigeria",
+      "region": "África",
+      "city": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "start": "2026-12-22",
+      "end": "2026-12-30",
+      "period": "Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "gear": "Juego con código por bloques o robot programado. El último día los niños muestran sus proyectos a sus padres.",
+      "language": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "cost": "2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras. Cada niño necesita un portátil cargado con su cargador.",
+      "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+      "references": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango del grupo. Confirme plaza e idioma de clase. Oscar: Edad inferior al mínimo de este grupo. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "iso": [
+        "NGA"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "robotics"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "go-steam-christmas-games-robots",
+      "camp_programme_id": "CP2526",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-22",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Juego con código por bloques o robot programado",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T09:00:00Z",
+          "end_utc": "2026-12-22T12:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Juego con código por bloques o robot programado",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T09:00:00Z",
+          "end_utc": "2026-12-23T12:00:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Juego con código por bloques o robot programado",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T09:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Juego con código por bloques o robot programado",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T09:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Juego con código por bloques o robot programado",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T09:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2527-20261222-20261230",
+      "block": "Campamentos",
+      "title": "GO STEAM · Christmas Build Camp · 13–17 · Proyecto en Python, sitio web o proyecto de IA · 2026-12-22–2026-12-30",
+      "country": "Nigeria",
+      "region": "África",
+      "city": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "start": "2026-12-22",
+      "end": "2026-12-30",
+      "period": "Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "13–17 años.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "gear": "Proyecto en Python, sitio web o proyecto de IA. El último día los niños muestran sus proyectos a sus padres.",
+      "language": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "cost": "2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras. Cada niño necesita un portátil cargado con su cargador.",
+      "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+      "references": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Edad inferior al mínimo de este grupo. Oscar: Edad inferior al mínimo de este grupo. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.",
+      "iso": [
+        "NGA"
+      ],
+      "themes": [
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en inglés. Confirme el idioma de clase del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "go-steam-christmas-python-ai",
+      "camp_programme_id": "CP2527",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-22",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Proyecto en Python, sitio web o proyecto de IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T09:00:00Z",
+          "end_utc": "2026-12-22T12:00:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Proyecto en Python, sitio web o proyecto de IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T09:00:00Z",
+          "end_utc": "2026-12-23T12:00:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Proyecto en Python, sitio web o proyecto de IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T09:00:00Z",
+          "end_utc": "2026-12-28T12:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Proyecto en Python, sitio web o proyecto de IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T09:00:00Z",
+          "end_utc": "2026-12-29T12:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Africa/Lagos",
+          "topic": "Proyecto en Python, sitio web o proyecto de IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T09:00:00Z",
+          "end_utc": "2026-12-30T12:00:00Z"
+        }
+      ]
     },
     {
       "id": "L491",

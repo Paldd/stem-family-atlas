@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2520,
+    "dossiers": 2527,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 724,
+      "published_2027": 727,
       "partial_2027": 182,
       "next_unannounced": 488,
-      "published_2026": 476,
+      "published_2026": 480,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3439
+    "source_urls": 3446
   },
   "countries": [
     {
@@ -344,7 +344,7 @@
     },
     {
       "country": "Марокко",
-      "count": 1
+      "count": 5
     },
     {
       "country": "Мартиника",
@@ -372,7 +372,7 @@
     },
     {
       "country": "Нигерия",
-      "count": 4
+      "count": 7
     },
     {
       "country": "Нидерланды (Королевство)",
@@ -448119,6 +448119,932 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2521",
+      "slug": "speak-easy-casablanca-snow-explorers",
+      "provider": "Speak Easy · Snow Explorers",
+      "iso": "MAR",
+      "country": "Марокко",
+      "place": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "age": "Общий справочник центра указывает группы 4–6, 7–9 и 10–13 лет. Группы конкретной смены уточнить.",
+      "programme": "Зимняя тематика. План занятий и выездов уточнить.",
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Смена проходит на английском с полным погружением.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Общий режим центра 09:00–17:00, присмотр 08:30–18:00. Подтвердить часы и присмотр на даты смены.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Snow Explorers",
+            "price": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+            "source": "https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png",
+            "entry": "Подтвердить возрастную группу, часы, место и цену выбранной смены.",
+            "date_scope": "day_camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "MAD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "included": "Зимняя тематика. План занятий и выездов уточнить.",
+        "extras": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "deposit": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        }
+      },
+      "editorial_reason": "Зимняя тематика. План занятий и выездов уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2521-20261221-20261225"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2522",
+      "slug": "speak-easy-casablanca-space-camp",
+      "provider": "Speak Easy · Space Camp",
+      "iso": "MAR",
+      "country": "Марокко",
+      "place": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "age": "Общий справочник центра указывает группы 4–6, 7–9 и 10–13 лет. Группы конкретной смены уточнить.",
+      "programme": "Космическая тематика. План занятий и выездов уточнить.",
+      "themes": [
+        "language",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Смена проходит на английском с полным погружением.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общий режим центра 09:00–17:00, присмотр 08:30–18:00. Подтвердить часы и присмотр на даты смены.",
+        "sessions": [
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "Space Camp",
+            "price": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+            "source": "https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png",
+            "entry": "Подтвердить возрастную группу, часы, место и цену выбранной смены.",
+            "date_scope": "day_camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "MAD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "included": "Космическая тематика. План занятий и выездов уточнить.",
+        "extras": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "deposit": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        }
+      },
+      "editorial_reason": "Космическая тематика. План занятий и выездов уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2522-20270222-20270226"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2523",
+      "slug": "speak-easy-casablanca-adventure-trail",
+      "provider": "Speak Easy · Adventure Trail",
+      "iso": "MAR",
+      "country": "Марокко",
+      "place": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "age": "Общий справочник центра указывает группы 4–6, 7–9 и 10–13 лет. Группы конкретной смены уточнить.",
+      "programme": "Тема приключений и исследований. План занятий и выездов уточнить.",
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Смена проходит на английском с полным погружением.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общий режим центра 09:00–17:00, присмотр 08:30–18:00. Подтвердить часы и присмотр на даты смены.",
+        "sessions": [
+          [
+            "2027-03-01",
+            "2027-03-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-03-01",
+            "end": "2027-03-05",
+            "label": "Adventure Trail",
+            "price": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+            "source": "https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png",
+            "entry": "Подтвердить возрастную группу, часы, место и цену выбранной смены.",
+            "date_scope": "day_camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "MAD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "included": "Тема приключений и исследований. План занятий и выездов уточнить.",
+        "extras": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "deposit": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        }
+      },
+      "editorial_reason": "Тема приключений и исследований. План занятий и выездов уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-01",
+          "end": "2027-03-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2523-20270301-20270305"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2524",
+      "slug": "speak-easy-casablanca-ocean-rescue",
+      "provider": "Speak Easy · Ocean Rescue Academy",
+      "iso": "MAR",
+      "country": "Марокко",
+      "place": "Villa 233 Boulevard Ibn Sina, CIL, Casablanca",
+      "age": "Общий справочник центра указывает группы 4–6, 7–9 и 10–13 лет. Группы конкретной смены уточнить.",
+      "programme": "Тема спасения океана. План занятий и выездов уточнить.",
+      "themes": [
+        "language",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Смена проходит на английском с полным погружением.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общий режим центра 09:00–17:00, присмотр 08:30–18:00. Подтвердить часы и присмотр на даты смены.",
+        "sessions": [
+          [
+            "2027-04-26",
+            "2027-04-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-04-26",
+            "end": "2027-04-30",
+            "label": "Ocean Rescue Academy",
+            "price": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+            "source": "https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png",
+            "entry": "Подтвердить возрастную группу, часы, место и цену выбранной смены.",
+            "date_scope": "day_camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "MAD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "included": "Тема спасения океана. План занятий и выездов уточнить.",
+        "extras": "Тариф и доплаты для смены не опубликованы в проверенных источниках.",
+        "deposit": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по общему описанию центра. Подтвердить группу выбранной смены."
+        }
+      },
+      "editorial_reason": "Тема спасения океана. План занятий и выездов уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.speakeasy.ma/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.speakeasy.ma/camps-vacances-casablanca",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить возрастную группу, часы, место и цену выбранной смены."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-04-26",
+          "end": "2027-04-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2524-20270426-20270430"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2525",
+      "slug": "go-steam-christmas-animation",
+      "provider": "GO STEAM · Christmas Build Camp · 5–7",
+      "iso": "NGA",
+      "country": "Нигерия",
+      "place": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "age": "5–7 лет.",
+      "programme": "История или анимация с блочным кодом. В последний день дети показывают свои проекты родителям.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на английском. Язык занятий конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия 22, 23, 28, 29 и 30 декабря 2026 с 10:00 до 13:00. С 24 по 27 декабря площадка закрыта.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-30",
+            "label": "История или анимация с блочным кодом",
+            "price": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+            "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+            "entry": "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "История или анимация с блочным кодом",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T09:00:00Z",
+                "end_utc": "2026-12-22T12:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "История или анимация с блочным кодом",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T09:00:00Z",
+                "end_utc": "2026-12-23T12:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "История или анимация с блочным кодом",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T12:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "История или анимация с блочным кодом",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T12:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "История или анимация с блочным кодом",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T12:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "NGN",
+        "amount": 40000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+        "included": "История или анимация с блочным кодом. В последний день дети показывают свои проекты родителям.",
+        "extras": "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством.",
+        "deposit": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Возраст выше диапазона этой группы. Есть другая группа на те же даты."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в диапазон группы. Подтвердить место и язык занятий."
+        }
+      },
+      "editorial_reason": "История или анимация с блочным кодом. В последний день дети показывают свои проекты родителям.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+        "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством."
+      ],
+      "sources": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "pairing": {
+        "venue_id": "go-steam-eneka-port-harcourt",
+        "verified_source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "NGN",
+          "amount": 40000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2525-20261222-20261230"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2526",
+      "slug": "go-steam-christmas-games-robots",
+      "provider": "GO STEAM · Christmas Build Camp · 8–12",
+      "iso": "NGA",
+      "country": "Нигерия",
+      "place": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "age": "8–12 лет.",
+      "programme": "Игра с блочным кодом или программируемый робот. В последний день дети показывают свои проекты родителям.",
+      "themes": [
+        "games",
+        "coding",
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на английском. Язык занятий конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия 22, 23, 28, 29 и 30 декабря 2026 с 10:00 до 13:00. С 24 по 27 декабря площадка закрыта.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-30",
+            "label": "Игра с блочным кодом или программируемый робот",
+            "price": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+            "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+            "entry": "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Игра с блочным кодом или программируемый робот",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T09:00:00Z",
+                "end_utc": "2026-12-22T12:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Игра с блочным кодом или программируемый робот",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T09:00:00Z",
+                "end_utc": "2026-12-23T12:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Игра с блочным кодом или программируемый робот",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T12:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Игра с блочным кодом или программируемый робот",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T12:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Игра с блочным кодом или программируемый робот",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T12:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "NGN",
+        "amount": 40000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+        "included": "Игра с блочным кодом или программируемый робот. В последний день дети показывают свои проекты родителям.",
+        "extras": "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством.",
+        "deposit": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в диапазон группы. Подтвердить место и язык занятий."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже минимума этой группы."
+        }
+      },
+      "editorial_reason": "Игра с блочным кодом или программируемый робот. В последний день дети показывают свои проекты родителям.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+        "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством."
+      ],
+      "sources": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "pairing": {
+        "venue_id": "go-steam-eneka-port-harcourt",
+        "verified_source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "NGN",
+          "amount": 40000,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2526-20261222-20261230"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2527",
+      "slug": "go-steam-christmas-python-ai",
+      "provider": "GO STEAM · Christmas Build Camp · 13–17",
+      "iso": "NGA",
+      "country": "Нигерия",
+      "place": "GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt",
+      "age": "13–17 лет.",
+      "programme": "Проект на Python, сайт или проект с ИИ. В последний день дети показывают свои проекты родителям.",
+      "themes": [
+        "coding",
+        "ai",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на английском. Язык занятий конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия 22, 23, 28, 29 и 30 декабря 2026 с 10:00 до 13:00. С 24 по 27 декабря площадка закрыта.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-30",
+            "label": "Проект на Python, сайт или проект с ИИ",
+            "price": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+            "source": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+            "entry": "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Проект на Python, сайт или проект с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T09:00:00Z",
+                "end_utc": "2026-12-22T12:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Проект на Python, сайт или проект с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T09:00:00Z",
+                "end_utc": "2026-12-23T12:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Проект на Python, сайт или проект с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T12:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Проект на Python, сайт или проект с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T12:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Africa/Lagos",
+                "topic": "Проект на Python, сайт или проект с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T12:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "NGN",
+        "amount": 40000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "NGN 40000 за участника. NGN 35000 при оплате до 12 декабря.",
+        "included": "Проект на Python, сайт или проект с ИИ. В последний день дети показывают свои проекты родителям.",
+        "extras": "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством.",
+        "deposit": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст ниже минимума этой группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже минимума этой группы."
+        }
+      },
+      "editorial_reason": "Проект на Python, сайт или проект с ИИ. В последний день дети показывают свои проекты родителям.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить свободные места, язык занятий и запись иностранной семьи.",
+        "На каждого ребёнка нужен заряженный ноутбук с зарядным устройством."
+      ],
+      "sources": [
+        {
+          "url": "https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить свободные места, язык занятий и запись иностранной семьи."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2527-20261222-20261230"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -466679,7 +467605,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2520,
+      "total_dossiers": 2527,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -494189,6 +495115,41 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2521",
+      "event_id": "CP2521-20261221-20261225",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2522",
+      "event_id": "CP2522-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2523",
+      "event_id": "CP2523-20270301-20270305",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2524",
+      "event_id": "CP2524-20270426-20270430",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2525",
+      "event_id": "CP2525-20261222-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2526",
+      "event_id": "CP2526-20261222-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2527",
+      "event_id": "CP2527-20261222-20261230",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -499770,10 +500731,17 @@
     "CP2517-20270104-20270105",
     "CP2518-20261226-20261228",
     "CP2519-20261226-20261228",
-    "CP2520-20270215-20270219"
+    "CP2520-20270215-20270219",
+    "CP2521-20261221-20261225",
+    "CP2522-20270222-20270226",
+    "CP2523-20270301-20270305",
+    "CP2524-20270426-20270430",
+    "CP2525-20261222-20261230",
+    "CP2526-20261222-20261230",
+    "CP2527-20261222-20261230"
   ],
   "integration": {
-    "generated_sessions": 5171,
+    "generated_sessions": 5178,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

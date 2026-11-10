@@ -1,0 +1,91 @@
+{
+  "version": 380,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_working_release": {
+    "version": 379,
+    "commit": "9cd3275bf077bd6716b7dae9748ff00e6970469b"
+  },
+  "previous_verified_release": {
+    "version": 378,
+    "commit": "fffc4e2719d2dad1f5fcf8936c8d7572034303ef",
+    "workflow": 42839648907
+  },
+  "speak_easy": {
+    "dossier_ids": [
+      "CP2521",
+      "CP2522",
+      "CP2523",
+      "CP2524"
+    ],
+    "instructional_language": "EN",
+    "archive_excluded": true,
+    "shift_hours_age_and_price_require_confirmation": true
+  },
+  "go_steam": {
+    "dossier_ids": [
+      "CP2525",
+      "CP2526",
+      "CP2527"
+    ],
+    "attendance": [
+      "2026-12-22",
+      "2026-12-23",
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30"
+    ],
+    "hours": [
+      "10:00",
+      "13:00"
+    ],
+    "timezone": "Africa/Lagos",
+    "fee_ngn": 40000,
+    "early_fee_ngn": 35000,
+    "early_cutoff": "2026-12-12",
+    "sibling_base_ngn": 80000,
+    "instructional_language_unconfirmed": true
+  },
+  "afristem": {
+    "event_ids": [
+      "C5565",
+      "C5566",
+      "L1018"
+    ],
+    "countries_unpublished": true,
+    "closed_registration": "2026-11-06"
+  },
+  "sa_olympiads": {
+    "event_ids": [
+      "C5567",
+      "C5568",
+      "C5569",
+      "C5570"
+    ],
+    "grade_groups": [
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "school_entries_min_per_grade": 20,
+    "fee_zar": [
+      45,
+      50
+    ],
+    "exam_duration_minutes": 90
+  },
+  "wdrs": {
+    "event_id": "E169",
+    "child_admission_unconfirmed": true,
+    "target_sponsors_unconfirmed": true
+  },
+  "legacy_overlay_event_ids": [
+    "E169"
+  ]
+}

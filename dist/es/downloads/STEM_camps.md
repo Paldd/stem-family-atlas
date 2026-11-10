@@ -15062,6 +15062,22 @@ Restricciones: Confirme la entrada a la exposición general y el pago de los adu
 Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
 Verificado: 2026-11-10
 
+### L1018 · AFRISTEM · International STEMx Boot Camp 5.0
+
+Lugar: África / varios países · Ciudades por confirmar
+Fecha: 2027-08-02 — 2027-08-28
+Edad: 8–19 años.
+Matvey: Cumple la edad. Confirme acceso al grupo en línea, horario e idioma.
+Oscar: Edad inferior al mínimo del grupo publicado.
+Formato: híbrido
+Idioma: Materiales en inglés. Confirme el idioma de las pruebas o clases.
+Marca de idioma: materials; apoyo: no declarado
+Costo: Consulte al organizador.
+Acceso: Se anunció el periodo general. Días, sedes de los grupos presenciales y horarios por confirmar.
+Restricciones: Para el grupo en línea, confirme países admitidos, idioma de clase y requisitos de equipo.
+Fuente: https://www.afristemglobal.org/events
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -97796,6 +97812,118 @@ Coste: 2027 · Confirme la tarifa de 2027. La tabla de precios contiene fechas d
 Acceso: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
 Restricciones: Matvey: Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo. Pago: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
 Fuente: https://www.lmo-lyon.com/stage-robotique-fevrier-2027
+Verificado: 2026-11-10
+
+### CP2521-20261221-20261225 · Speak Easy · Snow Explorers · Snow Explorers · 2026-12-21–2026-12-25
+
+Lugar: Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+Fecha: 2026-12-21 — 2026-12-25
+Edad: La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Turno íntegramente en inglés con inmersión.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha
+Acceso: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Restricciones: Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Fuente: https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png
+Verificado: 2026-11-10
+
+### CP2522-20270222-20270226 · Speak Easy · Space Camp · Space Camp · 2027-02-22–2027-02-26
+
+Lugar: Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+Fecha: 2027-02-22 国 2027-02-26
+Edad: La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Turno íntegramente en inglés con inmersión.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha
+Acceso: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Restricciones: Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Fuente: https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png
+Verificado: 2026-11-10
+
+### CP2523-20270301-20270305 · Speak Easy · Adventure Trail · Adventure Trail · 2027-03-01–2027-03-05
+
+Lugar: Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+Fecha: 2027-03-01 — 2027-03-05
+Edad: La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Turno íntegramente en inglés con inmersión.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha
+Acceso: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Restricciones: Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Fuente: https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png
+Verificado: 2026-11-10
+
+### CP2524-20270426-20270430 · Speak Easy · Ocean Rescue Academy · Ocean Rescue Academy · 2027-04-26–2027-04-30
+
+Lugar: Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+Fecha: 2027-04-26 - 2027-04-30
+Edad: La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Turno íntegramente en inglés con inmersión.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas. · suplementos y condiciones en la ficha
+Acceso: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Restricciones: Matvey: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Oscar: Edad acorde con la descripción general. Confirme el grupo del turno elegido. Suplementos: Tarifa y suplementos del turno sin publicar en las fuentes consultadas. Pago: Confirme grupo de edad, horario, plaza y precio del turno elegido.
+Fuente: https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png
+Verificado: 2026-11-10
+
+### CP2525-20261222-20261230 · GO STEAM · Christmas Build Camp · 5–7 · Historia o animación con código por bloques · 2026-12-22–2026-12-30
+
+Lugar: Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+Fecha: 2026-12-22 — 2026-12-30
+Edad: 5–7 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Restricciones: Matvey: Edad superior al rango de este grupo. Hay otro grupo en las mismas fechas. Oscar: La edad está dentro del rango del grupo. Confirme plaza e idioma de clase. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Fuente: https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt
+Verificado: 2026-11-10
+
+### CP2526-20261222-20261230 · GO STEAM · Christmas Build Camp · 8–12 · Juego con código por bloques o robot programado · 2026-12-22–2026-12-30
+
+Lugar: Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+Fecha: 2026-12-22 — 2026-12-30
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Restricciones: Matvey: La edad está dentro del rango del grupo. Confirme plaza e idioma de clase. Oscar: Edad inferior al mínimo de este grupo. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Fuente: https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt
+Verificado: 2026-11-10
+
+### CP2527-20261222-20261230 · GO STEAM · Christmas Build Camp · 13–17 · Proyecto en Python, sitio web o proyecto de IA · 2026-12-22–2026-12-30
+
+Lugar: Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+Fecha: 2026-12-22 — 2026-12-30
+Edad: 13*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Restricciones: Matvey: Edad inferior al mínimo de este grupo. Oscar: Edad inferior al mínimo de este grupo. Suplementos: Cada niño necesita un portátil cargado con su cargador. Pago: Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+Fuente: https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

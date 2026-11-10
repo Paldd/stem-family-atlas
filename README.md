@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В v380 добавлены англоязычные смены Speak Easy в Касабланке и занятия GO STEAM в Порт-Харкорте. Уточнены даты и школьные требования SA Olympiads, программы AFRISTEM и допуск на WDRS Nigeria. [Аудит источников](data/africa-holiday-and-competition-audit-v380.json)
+
 В v379 добавлены занятия Seongdong, каникулярные смены GaurkoTek и Momenta Kids, программа LMO в Лионе. Уточнены условия FIRST LEGO League в Финляндии и расписание Seoul RAIM. Утренний дубль Barça Academy в календаре связан с основной карточкой. [Аудит источников](data/winter-robotics-and-museum-audit-v379.json)
 
 В v378 добавлены 28 досье MOSI в Тампе, включая возрастные группы SEED, каникулярные смены, Minecraft и мастерские. Уточнены дата и условия BIOGLOW Explore и Future 5–7. Для выставки цифрового искусства в Париже разнесены две части, видеопоказы и четыре вечерних события. [Аудит источников](data/mosi-bioglow-and-paris-audit-v378.json)

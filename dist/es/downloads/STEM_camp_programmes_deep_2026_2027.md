@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2520 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2527 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -198251,6 +198251,394 @@ Francia · 26 rue du Commandant Charcot, Lyon
 - [Se comprobó la ficha oficial del programa.](https://www.lmo-lyon.com/stage-robotique-fevrier-2027) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.lmo-lyon.com/s/Stage-Fevrier-2027-Robotique.pdf) · 2026-11-10
+
+## CP2521 · Speak Easy · Snow Explorers
+
+Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+
+**Verificado:** 2026-11-10
+
+**Edad:** La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+
+**Idioma:** Turno íntegramente en inglés con inmersión.
+
+**Programa:** Temática invernal. Confirme el programa y las salidas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.
+
+**Precio / año:** 2026 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Incluido:** Temática invernal. Confirme el programa y las salidas.
+
+**Suplementos:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Pago:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+**Matvey:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Oscar:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Motivo de selección:** Temática invernal. Confirme el programa y las salidas.
+
+### Antes de solicitar plaza
+
+- Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+### Snow Explorers
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**Precio:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Condiciones de participación:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+[fuente](https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://static.wixstatic.com/media/258ef2_1cc3483667fb4a8694f84f3cd04261af~mv2.png) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/camps-vacances-casablanca) · 2026-11-10
+
+## CP2522 · Speak Easy · Space Camp
+
+Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+
+**Verificado:** 2026-11-10
+
+**Edad:** La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+
+**Idioma:** Turno íntegramente en inglés con inmersión.
+
+**Programa:** Temática espacial. Confirme el programa y las salidas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.
+
+**Precio / año:** 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Incluido:** Temática espacial. Confirme el programa y las salidas.
+
+**Suplementos:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Pago:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+**Matvey:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Oscar:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Motivo de selección:** Temática espacial. Confirme el programa y las salidas.
+
+### Antes de solicitar plaza
+
+- Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+### Space Camp
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Precio:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Condiciones de participación:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+[fuente](https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://static.wixstatic.com/media/258ef2_ba1cfca9d86940c5ba793c9187f16e75~mv2.png) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/camps-vacances-casablanca) · 2026-11-10
+
+## CP2523 · Speak Easy · Adventure Trail
+
+Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+
+**Verificado:** 2026-11-10
+
+**Edad:** La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+
+**Idioma:** Turno íntegramente en inglés con inmersión.
+
+**Programa:** Temática de aventura y exploración. Confirme el programa y las salidas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.
+
+**Precio / año:** 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Incluido:** Temática de aventura y exploración. Confirme el programa y las salidas.
+
+**Suplementos:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Pago:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+**Matvey:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Oscar:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Motivo de selección:** Temática de aventura y exploración. Confirme el programa y las salidas.
+
+### Antes de solicitar plaza
+
+- Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+### Adventure Trail
+
+**Fechas / estado:** 2027-03-01 — 2027-03-05
+
+**Precio:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Condiciones de participación:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+[fuente](https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://static.wixstatic.com/media/258ef2_cf224c9722874514802d22d5332e9f9f~mv2.png) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/camps-vacances-casablanca) · 2026-11-10
+
+## CP2524 · Speak Easy · Ocean Rescue Academy
+
+Marruecos · Villa 233 Boulevard Ibn Sina, CIL, Casablanca
+
+**Verificado:** 2026-11-10
+
+**Edad:** La guía general del centro indica grupos de 4–6, 7–9 y 10–13 años. Confirme los grupos del turno concreto.
+
+**Idioma:** Turno íntegramente en inglés con inmersión.
+
+**Programa:** Temática de rescate oceánico. Confirme el programa y las salidas.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Horario general del centro de 09:00 a 17:00 y cuidado de 08:30 a 18:00. Confirme horario y cuidado para el turno.
+
+**Precio / año:** 2027 · Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Incluido:** Temática de rescate oceánico. Confirme el programa y las salidas.
+
+**Suplementos:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Pago:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+**Matvey:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Oscar:** Edad acorde con la descripción general. Confirme el grupo del turno elegido.
+
+**Motivo de selección:** Temática de rescate oceánico. Confirme el programa y las salidas.
+
+### Antes de solicitar plaza
+
+- Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+### Ocean Rescue Academy
+
+**Fechas / estado:** 2027-04-26 — 2027-04-30
+
+**Precio:** Tarifa y suplementos del turno sin publicar en las fuentes consultadas.
+
+**Condiciones de participación:** Confirme grupo de edad, horario, plaza y precio del turno elegido.
+
+[fuente](https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://static.wixstatic.com/media/258ef2_a7853aee43544d599632a45e44cf94bd~mv2.png) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.speakeasy.ma/camps-vacances-casablanca) · 2026-11-10
+
+## CP2525 · GO STEAM · Christmas Build Camp · 5–7
+
+Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 5 a 7 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+
+**Programa:** Historia o animación con código por bloques. El último día los niños muestran sus proyectos a sus padres.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.
+
+**Precio / año:** 2026 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Incluido:** Historia o animación con código por bloques. El último día los niños muestran sus proyectos a sus padres.
+
+**Suplementos:** Cada niño necesita un portátil cargado con su cargador.
+
+**Pago:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+**Matvey:** Edad superior al rango de este grupo. Hay otro grupo en las mismas fechas.
+
+**Oscar:** La edad está dentro del rango del grupo. Confirme plaza e idioma de clase.
+
+**Motivo de selección:** Historia o animación con código por bloques. El último día los niños muestran sus proyectos a sus padres.
+
+### Antes de solicitar plaza
+
+- Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- Cada niño necesita un portátil cargado con su cargador.
+
+### Historia o animación con código por bloques
+
+**Fechas / estado:** 2026-12-22 — 2026-12-30
+
+**Precio:** NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Condiciones de participación:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- 2026-12-22 · 10:00–13:00 · Africa/Lagos · Historia o animación con código por bloques
+
+- 2026-12-23 · 10:00–13:00 · Africa/Lagos · Historia o animación con código por bloques
+
+- 2026-12-28 · 10:00–13:00 · Africa/Lagos · Historia o animación con código por bloques
+
+- 2026-12-29 · 10:00–13:00 · Africa/Lagos · Historia o animación con código por bloques
+
+- 2026-12-30 · 10:00–13:00 · Africa/Lagos · Historia o animación con código por bloques
+
+[fuente](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt) · 2026-11-10
+
+## CP2526 · GO STEAM · Christmas Build Camp · 8–12
+
+Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+
+**Verificado:** 2026-11-10
+
+**edad:** 8–12 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+
+**Programa:** Juego con código por bloques o robot programado. El último día los niños muestran sus proyectos a sus padres.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.
+
+**Precio / año:** 2026 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Incluido:** Juego con código por bloques o robot programado. El último día los niños muestran sus proyectos a sus padres.
+
+**Suplementos:** Cada niño necesita un portátil cargado con su cargador.
+
+**Pago:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+**Matvey:** La edad está dentro del rango del grupo. Confirme plaza e idioma de clase.
+
+**Oscar:** Edad inferior al mínimo de este grupo.
+
+**Motivo de selección:** Juego con código por bloques o robot programado. El último día los niños muestran sus proyectos a sus padres.
+
+### Antes de solicitar plaza
+
+- Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- Cada niño necesita un portátil cargado con su cargador.
+
+### Juego con código por bloques o robot programado
+
+**Fechas / estado:** 2026-12-22 — 2026-12-30
+
+**Precio:** NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Condiciones de participación:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- 2026-12-22 · 10:00–13:00 · Africa/Lagos · Juego con código por bloques o robot programado
+
+- 2026-12-23 · 10:00–13:00 · Africa/Lagos · Juego con código por bloques o robot programado
+
+- 2026-12-28 · 10:00–13:00 · Africa/Lagos · Juego con código por bloques o robot programado
+
+- 2026-12-29 · 10:00–13:00 · Africa/Lagos · Juego con código por bloques o robot programado
+
+- 2026-12-30 · 10:00–13:00 · Africa/Lagos · Juego con código por bloques o robot programado
+
+[fuente](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt) · 2026-11-10
+
+## CP2527 · GO STEAM · Christmas Build Camp · 13–17
+
+Nigeria · GO STEAM Hub · Eneka-Igwuruta Road, Port Harcourt
+
+**Verificado:** 2026-11-10
+
+**edad:** 13–17 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de clase del grupo concreto.
+
+**Programa:** Proyecto en Python, sitio web o proyecto de IA. El último día los niños muestran sus proyectos a sus padres.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Clases el 22, 23, 28, 29 y 30 de diciembre de 2026 de 10:00 a 13:00. La sede cierra del 24 al 27 de diciembre.
+
+**Precio / año:** 2026 · NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Incluido:** Proyecto en Python, sitio web o proyecto de IA. El último día los niños muestran sus proyectos a sus padres.
+
+**Suplementos:** Cada niño necesita un portátil cargado con su cargador.
+
+**Pago:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+**Matvey:** Edad inferior al mínimo de este grupo.
+
+**Oscar:** Edad inferior al mínimo de este grupo.
+
+**Motivo de selección:** Proyecto en Python, sitio web o proyecto de IA. El último día los niños muestran sus proyectos a sus padres.
+
+### Antes de solicitar plaza
+
+- Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- Cada niño necesita un portátil cargado con su cargador.
+
+### Proyecto en Python, sitio web o proyecto de IA
+
+**Fechas / estado:** 2026-12-22 — 2026-12-30
+
+**Precio:** NGN 40000 por participante. NGN 35000 al pagar hasta el 12 de diciembre.
+
+**Condiciones de participación:** Confirme plazas disponibles, idioma de clase e inscripción de familias extranjeras.
+
+- 2026-12-22 · 10:00–13:00 · Africa/Lagos · Proyecto en Python, sitio web o proyecto de IA
+
+- 2026-12-23 · 10:00–13:00 · Africa/Lagos · Proyecto en Python, sitio web o proyecto de IA
+
+- 2026-12-28 · 10:00–13:00 · Africa/Lagos · Proyecto en Python, sitio web o proyecto de IA
+
+- 2026-12-29 · 10:00–13:00 · Africa/Lagos · Proyecto en Python, sitio web o proyecto de IA
+
+- 2026-12-30 · 10:00–13:00 · Africa/Lagos · Proyecto en Python, sitio web o proyecto de IA
+
+[fuente](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://gosteamtechltd.com.ng/blog/christmas-holiday-activities-for-kids-port-harcourt) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 
