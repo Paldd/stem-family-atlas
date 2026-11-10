@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2399 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2400 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -188233,6 +188233,54 @@ Japón · Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://www.yesinternationalschool.com/winter-school) · 2026-11-10
+
+## CP2400 · Instituto Sudamericano Modelo
+
+Argentina · Buenos Aires · Caballito
+
+**Verificado:** 2026-11-10
+
+**Edad:** 2–12 años. Infantil 6–7, Juniors 8–12.
+
+**Idioma:** Programa publicado en español. No se indica el idioma de cada taller.
+
+**Programa:** Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.
+
+**Precio / año:** 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Cumple para Juniors. Confirme horario de talleres, plaza y tarifa.
+
+**Oscar:** Cumple para Infantil. Confirme el acceso a robótica en el grupo menor.
+
+**Motivo de selección:** Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.
+
+### Antes de solicitar plaza
+
+- Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+
+### Colonia de Verano
+
+**Fechas / estado:** 2027-01-04 — 2027-02-12
+
+**Precio:** No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.
+
+**Condiciones de participación:** Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+
+[fuente](https://iesm.edu.ar/blog/colonia-de-verano-2027)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://iesm.edu.ar/blog/colonia-de-verano-2027) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

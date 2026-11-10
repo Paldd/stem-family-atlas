@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12142 fichas en la base, con 5470 de competiciones, 805 de eventos y 5867 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 699 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12153 fichas en la base, con 5475 de competiciones, 810 de eventos y 5868 de campamentos o programas. Hay 349 perfiles de ligas y programas. Las 704 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2233 | 187 | 1440 |
-| América del Sur | 15 | 498 | 60 | 291 |
-| Europa | 55 | 794 | 175 | 1705 |
+| América del Sur | 15 | 498 | 61 | 292 |
+| Europa | 55 | 795 | 175 | 1705 |
 | África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1245 | 191 | 1845 |
+| Asia | 51 | 1245 | 195 | 1845 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
-Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
+Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX concentra 821 de las 5470 fichas de competiciones (15.0%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5475 fichas de competiciones (15.0%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -388,6 +388,7 @@ VEX concentra 821 de las 5470 fichas de competiciones (15.0%). La cobertura est�
 - **Hackathon Nicaragua**: 1 ficha, 0 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.hackathonicaragua.com.ni/
 - **JovenTech Nicaragua**: 1 ficha, 0 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.mined.gob.ni/mined-realiza-etapa-nacional-del-festival-de-innovacion-tecnologica-joventech/
 - **Tournoi National de Robotique de Nîmes**: 1 ficha, 1 con fechas futuras exactas. Hay perfil y ficha, con cobertura local parcial. https://robot-sumo.fr/
+- **International Artificial Intelligence Team Contest**: 5 fichas, 4 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://iaitc-official.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1129,6 +1130,11 @@ VEX concentra 821 de las 5470 fichas de competiciones (15.0%). La cobertura est�
 - **KOSAC Robotics Challenge 2026 · Track C · public** — Corea del Sur; 2026-11-28. Confirme el acceso de menores. https://aichallenge4all.or.kr/competitions/ai-robot
 - **CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia** — México; 2026-11-19 – 2026-12-10. Confirme el acceso de menores. https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia
 - **CCEMx · Cuando las nubes eran de agua · Medialabmx** — México; 2026-11-10. Confirme el acceso de menores. https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
+- **FIRST Japan · FLL Explore BIOGLOW · Kanto · public** — Japón; 2026-12-13. Con un adulto. Consulte las condiciones de entrada del adulto. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Tokai · public** — Japón; 2026-12-13. Con un adulto. Consulte las condiciones de entrada del adulto. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Kansai · public** — Japón; 2026-12-06. Con un adulto. Consulte las condiciones de entrada del adulto. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Kyushu · public** — Japón; 2026-12-06. Con un adulto. Consulte las condiciones de entrada del adulto. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **Robotic Minds Quito 2027 · exhibición de finalistas** — Ecuador; 2027-01-22 – 2027-01-23. Confirme el acceso de menores. https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

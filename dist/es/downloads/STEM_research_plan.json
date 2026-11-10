@@ -13761,7 +13761,7 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 362,
+    "prepared_ui_version": 363,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
     "previous_verified_ui_version": 361,
     "previous_verified_commit": "898c0a43e8abf2cc95b0ddde47843c4f69169db4"
@@ -39387,5 +39387,43 @@
       "early_day_two_jpy": 22440,
       "afternoon_english_confirmed": false
     }
+  },
+  "latam_summer_iaitc_and_first_japan_visits_v363": {
+    "version": 363,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5472",
+      "C5473",
+      "C5474",
+      "C5475",
+      "C5476"
+    ],
+    "exhibition_ids": [
+      "E806",
+      "E807",
+      "E808",
+      "E809",
+      "E810"
+    ],
+    "camp_dossier_ids": [
+      "CP2400"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1134",
+      "C1135",
+      "C1136",
+      "C1137",
+      "C3153"
+    ],
+    "legacy_overlay_league_ids": [],
+    "new_league_ids": [
+      "iaitc"
+    ],
+    "argentina_robotics_infantil_confirmed": false,
+    "quito_family_ticket_confirmed": false,
+    "first_japan_review_sessions_public": false,
+    "iaitc_final_dates_provisional": true
   }
 }

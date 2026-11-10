@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2399,
+    "dossiers": 2400,
     "countries": 140,
     "swiss": 163,
     "by_status": {
       "published_2026_27": 338,
-      "published_2027": 673,
+      "published_2027": 674,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3314
+    "source_urls": 3315
   },
   "countries": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "country": "Argentina",
-      "count": 12
+      "count": 13
     },
     {
       "country": "Aruba",
@@ -421404,6 +421404,98 @@
           "JA"
         ]
       }
+    },
+    {
+      "id": "CP2400",
+      "slug": "iesm-colonia-sudamericano-2027",
+      "provider": "Instituto Sudamericano Modelo",
+      "country": "Argentina",
+      "iso": "ARG",
+      "place": "Buenos Aires · Caballito",
+      "age": "2–12 años. Infantil 6–7, Juniors 8–12.",
+      "programme": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "technology",
+        "robotics",
+        "sport"
+      ],
+      "language": "Programa publicado en español. No se indica el idioma de cada taller.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-02-12",
+            "label": "Colonia de Verano",
+            "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+            "price": "No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.",
+            "entry": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "ARS",
+        "unit": "unknown",
+        "label": "No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.",
+        "included": "Consulte al organizador.",
+        "extras": "Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple para Juniors. Confirme horario de talleres, plaza y tarifa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Cumple para Infantil. Confirme el acceso a robótica en el grupo menor."
+        }
+      },
+      "editorial_reason": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "shortlist": [],
+      "questions": [
+        "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos."
+      ],
+      "sources": [
+        {
+          "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2400-20270104-20270212"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -439964,7 +440056,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2399,
+      "total_dossiers": 2400,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -465919,6 +466011,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2400",
+      "event_id": "CP2400-20270104-20270212",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -471203,10 +471300,11 @@
     "CP2398-20270211-20270211",
     "CP2398-20270216-20270216",
     "CP2398-20270218-20270218",
-    "CP2399-20261221-20261225"
+    "CP2399-20261221-20261225",
+    "CP2400-20270104-20270212"
   ],
   "integration": {
-    "generated_sessions": 4874,
+    "generated_sessions": 4875,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

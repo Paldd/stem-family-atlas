@@ -12518,7 +12518,8 @@
       "related_ids": [
         "C486",
         "C5006",
-        "C5007"
+        "C5007",
+        "E810"
       ]
     },
     {
@@ -37132,6 +37133,64 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
+      "id": "E810",
+      "block": "Eventos",
+      "title": "Robotic Minds Quito 2027 · exhibición de finalistas",
+      "country": "Ecuador",
+      "iso": [
+        "ECU"
+      ],
+      "region": "América del Sur",
+      "city": "Quito · Centro de Convenciones Metropolitano",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "date_status": "Confirmado",
+      "period": "",
+      "deadline": "",
+      "age": "Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.",
+      "mat": "Condicional. Confirme el acceso con menores.",
+      "osc": "Condicional. Confirme el acceso con menores.",
+      "format": "Visita a feria o festival.",
+      "entry": "Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.",
+      "gear": "",
+      "language": "Consulte al organizador.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Consulte al organizador.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Consulte al organizador.",
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "El torneo anuncia un horario general de 08:00 a 18:30. No hay horario publicado para visitar los proyectos.",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "date_scope": "exhibition_window",
+      "evidence_level": "event_page",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.",
+      "adult_entry": "Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.",
+      "exhibition_tier": "regional",
+      "exhibitors": [],
+      "exhibitor_note": "Consulte al organizador.",
+      "highlights": [
+        "El torneo anuncia un horario general de 08:00 a 18:30. No hay horario publicado para visitar los proyectos."
+      ],
+      "related_ids": [
+        "C3153"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Campamentos",
       "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",
@@ -60499,6 +60558,65 @@
         "status": "unconfirmed",
         "label": "Ambas páginas mostraban 2 plazas en el campamento y 2 en el autobús para Session Seven."
       }
+    },
+    {
+      "id": "CP2400-20270104-20270212",
+      "block": "Campamentos",
+      "title": "Instituto Sudamericano Modelo · Colonia de Verano · 2027-01-04–2027-02-12",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "city": "Buenos Aires · Caballito",
+      "start": "2027-01-04",
+      "end": "2027-02-12",
+      "period": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "2–12 años. Infantil 6–7, Juniors 8–12.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
+      "gear": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "language": "Programa publicado en español. No se indica el idioma de cada taller.",
+      "cost": "2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
+      "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+      "references": [
+        {
+          "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.",
+      "iso": [
+        "ARG"
+      ],
+      "themes": [
+        "general",
+        "technology",
+        "robotics",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Programa publicado en español. No se indica el idioma de cada taller.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "iesm-colonia-sudamericano-2027",
+      "camp_programme_id": "CP2400",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "date_rule": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica."
     },
     {
       "id": "E298",

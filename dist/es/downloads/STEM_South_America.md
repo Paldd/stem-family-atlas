@@ -7354,6 +7354,19 @@ Condiciones: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 
 Fuente: https://www.avenues.org/sao-paulo/student-life/school-break-programs
 Se ha comprobado: 2026-11-09
 
+### E810 · Robotic Minds Quito 2027 · exhibición de finalistas
+
+Fecha: 2027-01-22 国 2027-01-23
+Edad: Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.
+Matvey: Condicional. Confirme el acceso con menores.
+Oscar: Condicional. Confirme el acceso con menores.
+Idioma: Consulte al organizador.
+Acceso: Se anuncia la exposición de finalistas. Confirme el acceso público, entradas infantiles y horario propio.
+Costo: Consulte al organizador.
+Condiciones: El torneo anuncia un horario general de 08:00 a 18:30. No hay horario publicado para visitar los proyectos.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -10369,6 +10382,19 @@ Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta 
 Condiciones: Matvey: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Oscar: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://es.campmakemake.com/dates-and-rates
 Se ha comprobado: 2026-11-09
+
+### CP2400-20270104-20270212 · Instituto Sudamericano Modelo · Colonia de Verano · 2027-01-04–2027-02-12
+
+Fecha: 2027-01-04 — 2027-02-12
+Edad: 2–12 años. Infantil 6–7, Juniors 8–12.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Programa publicado en español. No se indica el idioma de cada taller.
+Acceso: Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+Costo: 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha
+Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.
+Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
+Verificado: 2026-11-10
 
 ### E298 · Brasil Game Show 2027 · public exhibition
 

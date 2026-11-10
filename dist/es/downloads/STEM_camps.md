@@ -92662,6 +92662,22 @@ Condiciones: Matvey: Cumple por edad para el proyecto general. Para programació
 Fuente: https://www.yesinternationalschool.com/winter-school
 Verificado: 2026-11-10
 
+### CP2400-20270104-20270212 · Instituto Sudamericano Modelo · Colonia de Verano · 2027-01-04–2027-02-12
+
+Lugar: Argentina · Buenos Aires · Caballito
+Fecha: 2027-01-04 — 2027-02-12
+Edad: 2–12 años. Infantil 6–7, Juniors 8–12.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Programa publicado en español. No se indica el idioma de cada taller.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha
+Acceso: Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.
+Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

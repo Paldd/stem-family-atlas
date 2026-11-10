@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12142,
-    "competition_cards": 5470,
-    "event_cards": 805,
-    "camp_cards": 5867,
-    "league_profiles": 348,
-    "major_exhibition_cards": 699,
+    "cards": 12153,
+    "competition_cards": 5475,
+    "event_cards": 810,
+    "camp_cards": 5868,
+    "league_profiles": 349,
+    "major_exhibition_cards": 704,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 855,
+      "total": 857,
       "countries_with_records": 15,
       "competitions": 498,
-      "events": 66,
-      "major_exhibitions": 60,
-      "camps": 291,
+      "events": 67,
+      "major_exhibitions": 61,
+      "camps": 292,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 2698,
+      "total": 2699,
       "countries_with_records": 55,
-      "competitions": 794,
+      "competitions": 795,
       "events": 199,
       "major_exhibitions": 175,
       "camps": 1705,
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 3294,
+      "total": 3298,
       "countries_with_records": 51,
       "competitions": 1245,
-      "events": 204,
-      "major_exhibitions": 191,
+      "events": 208,
+      "major_exhibitions": 195,
       "camps": 1845,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -9009,6 +9009,24 @@
       "new": false
     },
     {
+      "id": "iaitc",
+      "name": "International Artificial Intelligence Team Contest",
+      "group": "advanced",
+      "event_ids": [
+        "C5472",
+        "C5473",
+        "C5474",
+        "C5475",
+        "C5476"
+      ],
+      "cards": 5,
+      "future_dated": 4,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://iaitc-official.org/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17699,6 +17717,61 @@
       "new": false
     },
     {
+      "id": "E806",
+      "name": "FIRST Japan · FLL Explore BIOGLOW · Kanto · public",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "new": false
+    },
+    {
+      "id": "E807",
+      "name": "FIRST Japan · FLL Explore BIOGLOW · Tokai · public",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "new": false
+    },
+    {
+      "id": "E808",
+      "name": "FIRST Japan · FLL Explore BIOGLOW · Kansai · public",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "new": false
+    },
+    {
+      "id": "E809",
+      "name": "FIRST Japan · FLL Explore BIOGLOW · Kyushu · public",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "new": false
+    },
+    {
+      "id": "E810",
+      "name": "Robotic Minds Quito 2027 · exhibición de finalistas",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -19093,7 +19166,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 258,
+  "interregional_cards": 262,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -20130,8 +20203,8 @@
       }
     ],
     "counts": {
-      "records": 5867,
-      "holiday": 5210,
+      "records": 5868,
+      "holiday": 5211,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,

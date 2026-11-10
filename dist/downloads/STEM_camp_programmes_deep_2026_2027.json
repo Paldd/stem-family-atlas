@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2399,
+    "dossiers": 2400,
     "countries": 140,
     "swiss": 163,
     "by_status": {
       "published_2026_27": 338,
-      "published_2027": 673,
+      "published_2027": 674,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3314
+    "source_urls": 3315
   },
   "countries": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "country": "Аргентина",
-      "count": 12
+      "count": 13
     },
     {
       "country": "Аруба",
@@ -421404,6 +421404,98 @@
           "JA"
         ]
       }
+    },
+    {
+      "id": "CP2400",
+      "slug": "iesm-colonia-sudamericano-2027",
+      "provider": "Instituto Sudamericano Modelo",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Buenos Aires · Caballito",
+      "age": "2–12 лет. Infantil 6–7, Juniors 8–12.",
+      "programme": "Дневная программа с плаванием, спортом и творчеством. У Juniors указаны технологические мастерские. Робототехника для группы Infantil требует подтверждения.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "technology",
+        "robotics",
+        "sport"
+      ],
+      "language": "Афиша на испанском. Язык конкретной мастерской не указан.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Общий период с 4 января по 12 февраля 2027. Время групп и дни робототехники уточнить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-02-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-02-12",
+            "label": "Colonia de Verano",
+            "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+            "price": "Публичный тариф не найден. Сайт записи просит email для входа.",
+            "entry": "Подача через портал школы. Можно выбрать неделю, две недели или весь январь. Тариф, часы и допуск внешних учеников уточнить.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "Общий период с 4 января по 12 февраля 2027. Время групп и дни робототехники уточнить."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "ARS",
+        "unit": "unknown",
+        "label": "Публичный тариф не найден. Сайт записи просит email для входа.",
+        "included": "Уточнить у организатора.",
+        "extras": "Можно принести обед или воспользоваться столовой. Условия питания уточнить.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит в Juniors. Сверить время мастерских, место и тариф."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит в Infantil. Доступ к робототехнике в младшей группе уточнить."
+        }
+      },
+      "editorial_reason": "Дневная программа с плаванием, спортом и творчеством. У Juniors указаны технологические мастерские. Робототехника для группы Infantil требует подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Подача через портал школы. Можно выбрать неделю, две недели или весь январь. Тариф, часы и допуск внешних учеников уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2400-20270104-20270212"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -439964,7 +440056,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2399,
+      "total_dossiers": 2400,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -465919,6 +466011,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2400",
+      "event_id": "CP2400-20270104-20270212",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -471203,10 +471300,11 @@
     "CP2398-20270211-20270211",
     "CP2398-20270216-20270216",
     "CP2398-20270218-20270218",
-    "CP2399-20261221-20261225"
+    "CP2399-20261221-20261225",
+    "CP2400-20270104-20270212"
   ],
   "integration": {
-    "generated_sessions": 4874,
+    "generated_sessions": 4875,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

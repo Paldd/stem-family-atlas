@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12142; соревнований: 5470; событий: 805; лагерей / программ: 5867. Профилей лиг и программ: 348. Карточек крупных и профильных выставок: 699 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12153; соревнований: 5475; событий: 810; лагерей / программ: 5868. Профилей лиг и программ: 349. Карточек крупных и профильных выставок: 704 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -15,15 +15,15 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2233 | 187 | 1440 |
-| Южная Америка | 15 | 498 | 60 | 291 |
-| Европа | 55 | 794 | 175 | 1705 |
+| Южная Америка | 15 | 498 | 61 | 292 |
+| Европа | 55 | 795 | 175 | 1705 |
 | Африка | 61 | 281 | 46 | 156 |
-| Азия | 51 | 1245 | 191 | 1845 |
+| Азия | 51 | 1245 | 195 | 1845 |
 | Океания | 27 | 183 | 38 | 415 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 258. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 262. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5470 карточек соревнований (15.0%). Это явный перекос охвата.
+VEX: 821 из 5475 карточек соревнований (15.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -388,6 +388,7 @@ VEX: 821 из 5470 карточек соревнований (15.0%). Это я�
 - **Hackathon Nicaragua**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.hackathonicaragua.com.ni/
 - **JovenTech Nicaragua**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mined.gob.ni/mined-realiza-etapa-nacional-del-festival-de-innovacion-tecnologica-joventech/
 - **Tournoi National de Robotique de Nîmes**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robot-sumo.fr/
+- **International Artificial Intelligence Team Contest**: 5 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://iaitc-official.org/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1129,6 +1130,11 @@ VEX: 821 из 5470 карточек соревнований (15.0%). Это я�
 - **KOSAC Robotics Challenge 2026 · Track C · public** — Республика Корея; 2026-11-28. Детский допуск уточнить. https://aichallenge4all.or.kr/competitions/ai-robot
 - **CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia** — Мексика; 2026-11-19 – 2026-12-10. Детский допуск уточнить. https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia
 - **CCEMx · Cuando las nubes eran de agua · Medialabmx** — Мексика; 2026-11-10. Детский допуск уточнить. https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
+- **FIRST Japan · FLL Explore BIOGLOW · Kanto · public** — Япония; 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Tokai · public** — Япония; 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Kansai · public** — Япония; 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **FIRST Japan · FLL Explore BIOGLOW · Kyushu · public** — Япония; 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **Robotic Minds Quito 2027 · exhibición de finalistas** — Эквадор; 2027-01-22 – 2027-01-23. Детский допуск уточнить. https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
