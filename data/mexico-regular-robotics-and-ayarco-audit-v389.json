@@ -1,0 +1,29 @@
+{
+  "version": 389,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 388,
+    "commit": "2ef4f901bfe84cca07b1eff6b5926cf145b4daae",
+    "workflow": 42888881471
+  },
+  "mexico": {
+    "robotpunk_course_dossiers": [
+      "CP2560",
+      "CP2561",
+      "CP2562",
+      "CP2563"
+    ],
+    "timetables_are_school_options": true,
+    "enrollment_and_instruction_language_unconfirmed": true,
+    "trompo_archived_course": "CP2564",
+    "trompo_visitor_event": "E883"
+  },
+  "costa_rica": {
+    "ayarco_camp": "CP2565",
+    "deadline": "2026-11-20",
+    "separate_from_escalante": true,
+    "exact_age_and_instruction_language_unconfirmed": true
+  }
+}

@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 6239,
-      "holiday": 5561,
+      "records": 6240,
+      "holiday": 5562,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,
@@ -529182,6 +529182,68 @@
           "end_utc": "2027-01-28T08:00:00Z"
         }
       ]
+    },
+    {
+      "id": "CP2565-20261130-20261211",
+      "block": "Campamentos",
+      "title": "ADEC · Kids Camp Ayarco · Kids Camp Ayarco · 2026-11-30–2026-12-11",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "ADEC · Sede Ayarco",
+      "start": "2026-11-30",
+      "end": "2026-12-11",
+      "period": "Del 30 de noviembre al 11 de diciembre de 2026, salvo el 1 de diciembre. Horario 07:30–14:30, llegada desde las 06:30. Cuidado ampliado 14:30–17:00.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-20",
+      "age": "Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.",
+      "gear": "Programa diurno de vacaciones. La organización no enumera actividades temáticas ni módulos STEM.",
+      "language": "La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.",
+      "cost": "2026/27 · CRC 12000 por día para KG1 sin alimentación y CRC 14000 para KG2, KG3 y OPTs con alimentación. Cuidado ampliado CRC 3500 por día. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.",
+      "source": "https://colegiosadec.org/site/kids-camp-ayarco/",
+      "references": [
+        {
+          "url": "https://colegiosadec.org/site/kids-camp-ayarco/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Oscar: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Suplementos: Cuidado ampliado con tarifa aparte. Pago: Consulte al organizador.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "adec-kids-camp-ayarco-2026",
+      "camp_programme_id": "CP2565",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "date_rule": "Del 30 de noviembre al 11 de diciembre de 2026, salvo el 1 de diciembre. Horario 07:30–14:30, llegada desde las 06:30. Cuidado ampliado 14:30–17:00."
     },
     {
       "id": "L491",

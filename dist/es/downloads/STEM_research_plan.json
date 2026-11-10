@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 388,
+    "prepared_ui_version": 389,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 387,
-    "previous_verified_commit": "b491c65f8ab688787e28810ae64f561e30844a81",
-    "previous_working_ui_version": 387
+    "previous_verified_ui_version": 388,
+    "previous_verified_commit": "2ef4f901bfe84cca07b1eff6b5926cf145b4daae",
+    "previous_working_ui_version": 388
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41905,6 +41905,35 @@
         "E882"
       ],
       "general_fee_twd": 120
+    }
+  },
+  "mexico_regular_robotics_and_ayarco_v389": {
+    "version": 389,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 388,
+      "commit": "2ef4f901bfe84cca07b1eff6b5926cf145b4daae",
+      "workflow": 42888881471
+    },
+    "mexico": {
+      "robotpunk_course_dossiers": [
+        "CP2560",
+        "CP2561",
+        "CP2562",
+        "CP2563"
+      ],
+      "timetables_are_school_options": true,
+      "enrollment_and_instruction_language_unconfirmed": true,
+      "trompo_archived_course": "CP2564",
+      "trompo_visitor_event": "E883"
+    },
+    "costa_rica": {
+      "ayarco_camp": "CP2565",
+      "deadline": "2026-11-20",
+      "separate_from_escalante": true,
+      "exact_age_and_instruction_language_unconfirmed": true
     }
   }
 }

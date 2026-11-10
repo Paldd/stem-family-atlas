@@ -98614,6 +98614,22 @@ Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el t
 Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
 Verificado: 2026-11-10
 
+### CP2565-20261130-20261211 · ADEC · Kids Camp Ayarco · Kids Camp Ayarco · 2026-11-30–2026-12-11
+
+Lugar: Costa Rica · ADEC · Sede Ayarco
+Fecha: 2026-11-30 — 2026-12-11
+Edad: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CRC 12000 por día para KG1 sin alimentación y CRC 14000 para KG2, KG3 y OPTs con alimentación. Cuidado ampliado CRC 3500 por día. · suplementos y condiciones en la ficha
+Acceso: Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.
+Restricciones: Matvey: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Oscar: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Suplementos: Cuidado ampliado con tarifa aparte. Pago: Consulte al organizador.
+Fuente: https://colegiosadec.org/site/kids-camp-ayarco/
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

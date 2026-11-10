@@ -6583,6 +6583,19 @@ Limitaciones:
 Fuente: https://mexicostemweek.org/actividades/
 Verificado: 2026-11-10
 
+### E883 · El Trompo Tijuana · Electrópolis y salas interactivas
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: Salas interactivas abiertas al público. De martes a domingo 11:00–17:00, lunes cerrado. Consulte si las salas elegidas funcionan el día de la visita.
+Matvey: Salas interactivas abiertas al público. De martes a domingo 11:00–17:00, lunes cerrado. Consulte si las salas elegidas funcionan el día de la visita.
+Oscar: Salas interactivas abiertas al público. De martes a domingo 11:00–17:00, lunes cerrado. Consulte si las salas elegidas funcionan el día de la visita.
+Idioma: La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+Acceso: Salas interactivas abiertas al público. De martes a domingo 11:00–17:00, lunes cerrado. Consulte si las salas elegidas funcionan el día de la visita.
+Coste: MXN 98 por entrada individual a las salas interactivas. El paquete aparte con Inmersión Salvaje cuesta MXN 198. Consulte descuentos por edad.
+Restricciones: El museo enumera las salas interactivas Electrópolis, Experimenta, Integra y Genera. Electrópolis cuenta con un recorrido virtual oficial.
+Fuente: https://www.eltrompo.org/visita
+Verificado: 2026-11-10
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -8401,6 +8414,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier
 Restricciones: El mismo turno matutino de 6–11 años en Blue Valley School. La ficha principal contiene el horario de 08:00 a 10:00.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Verificado: 2026-11-10
+
+### CP2565-20261130-20261211 · ADEC · Kids Camp Ayarco · Kids Camp Ayarco · 2026-11-30–2026-12-11
+
+Fecha: 2026-11-30 — 2026-12-11
+Edad: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Idioma: La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+Acceso: Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.
+Coste: 2026/27 · CRC 12000 por día para KG1 sin alimentación y CRC 14000 para KG2, KG3 y OPTs con alimentación. Cuidado ampliado CRC 3500 por día. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Oscar: Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos. Suplementos: Cuidado ampliado con tarifa aparte. Pago: Consulte al organizador.
+Fuente: https://colegiosadec.org/site/kids-camp-ayarco/
 Verificado: 2026-11-10
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

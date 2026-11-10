@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2559 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2565 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -200831,6 +200831,258 @@ Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php) · 2026-11-10
+
+## CP2560 · Robotpunk · Jr-Bots
+
+México · Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila
+
+**Verificado:** 2026-11-10
+
+**edad:** De 5 a 8 años.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Robótica inicial con kits LEGO Education. Montaje práctico e introducción a retos de ingeniería.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ciclo del 17 de agosto al 17 de diciembre de 2026. Horarios generales del centro: lunes y miércoles o martes y jueves 17:00–19:00, sábados 09:45–11:45 o 12:00–14:00. No se publica el horario del grupo concreto.
+
+**Precio / año:** 2026 · No se publican la tarifa ni los materiales incluidos.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Por encima de la edad máxima publicada para este grupo.
+
+**Oscar:** Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+**Motivo de selección:** Robótica inicial con kits LEGO Education. Montaje práctico e introducción a retos de ingeniería.
+
+### Antes de solicitar plaza
+
+- Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/cursos-regulares/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/contacto/) · 2026-11-10
+
+## CP2561 · Robotpunk · Robot IQ
+
+México · Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila
+
+**Verificado:** 2026-11-10
+
+**Edad:** Edad 8+.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Montaje, programación y control de robots con VEX Robotics y LEGO Education. No requiere experiencia previa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ciclo del 17 de agosto al 17 de diciembre de 2026. Horarios generales del centro: lunes y miércoles o martes y jueves 17:00–19:00, sábados 09:45–11:45 o 12:00–14:00. No se publica el horario del grupo concreto.
+
+**Precio / año:** 2026 · No se publican la tarifa ni los materiales incluidos.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+**Oscar:** Por debajo de la edad mínima publicada para este grupo.
+
+**Motivo de selección:** Montaje, programación y control de robots con VEX Robotics y LEGO Education. No requiere experiencia previa.
+
+### Antes de solicitar plaza
+
+- Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/cursos-regulares/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/contacto/) · 2026-11-10
+
+## CP2562 · Robotpunk · Programación
+
+México · Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila
+
+**Verificado:** 2026-11-10
+
+**Edad:** Edad 8+.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Aplicaciones y videojuegos. Herramientas según el nivel del grupo, entre ellas C++, C#, GDScript, Lua y bloques.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ciclo del 17 de agosto al 17 de diciembre de 2026. Horarios generales del centro: lunes y miércoles o martes y jueves 17:00–19:00, sábados 09:45–11:45 o 12:00–14:00. No se publica el horario del grupo concreto.
+
+**Precio / año:** 2026 · No se publican la tarifa ni los materiales incluidos.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+**Oscar:** Por debajo de la edad mínima publicada para este grupo.
+
+**Motivo de selección:** Aplicaciones y videojuegos. Herramientas según el nivel del grupo, entre ellas C++, C#, GDScript, Lua y bloques.
+
+### Antes de solicitar plaza
+
+- Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/cursos-regulares/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/contacto/) · 2026-11-10
+
+## CP2563 · Robotpunk · Makers
+
+México · Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila
+
+**Verificado:** 2026-11-10
+
+**Edad:** Edad 9+.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Diseño de prototipos, robótica, automatización y domótica. Hay Arduino, Raspberry Pi e impresión 3D.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ciclo del 17 de agosto al 17 de diciembre de 2026. Horarios generales del centro: lunes y miércoles o martes y jueves 17:00–19:00, sábados 09:45–11:45 o 12:00–14:00. No se publica el horario del grupo concreto.
+
+**Precio / año:** 2026 · No se publican la tarifa ni los materiales incluidos.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+**Oscar:** Por debajo de la edad mínima publicada para este grupo.
+
+**Motivo de selección:** Diseño de prototipos, robótica, automatización y domótica. Hay Arduino, Raspberry Pi e impresión 3D.
+
+### Antes de solicitar plaza
+
+- Consulte el horario del grupo, plazas, incorporación tardía e idioma de las clases. No se anuncian fechas del próximo ciclo.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/cursos-regulares/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.robotpunk.mx/contacto/) · 2026-11-10
+
+## CP2564 · El Trompo · Taller de Robótica Habilidades STEM
+
+México · El Trompo · Av. de los Insurgentes s/n, Río Tijuana 3ra etapa, Tijuana
+
+**Verificado:** 2026-11-10
+
+**edad:** 7–14 años.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Montaje de robots, identificación de componentes y fundamentos de programación.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El cartel indicaba sábados del 10 de octubre al 12 de diciembre de 2026, 10:00–14:00. La página actual del museo marca el curso como terminado. No se anuncia la próxima edición.
+
+**Precio / año:** 2026 · El cartel de 2026 indicaba MXN 1950. Aún no se anuncia la tarifa de la próxima edición.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Siga la próxima convocatoria. Consulte fecha, idioma y precio para el nuevo curso.
+
+**Oscar:** Por debajo de la edad mínima publicada para este grupo.
+
+**Motivo de selección:** Montaje de robots, identificación de componentes y fundamentos de programación.
+
+### Antes de solicitar plaza
+
+- El cartel indicaba sábados del 10 de octubre al 12 de diciembre de 2026, 10:00–14:00. La página actual del museo marca el curso como terminado. No se anuncia la próxima edición.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.eltrompo.org/cursos) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.eltrompo.org/media/promociones/2610_trs.jpg) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.eltrompo.org/posts/noticias/71/comenzo-el-trompo-nueva-temporada-educativa-de-otono.html) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.eltrompo.org/contacto) · 2026-11-10
+
+## CP2565 · ADEC · Kids Camp Ayarco
+
+Costa Rica · ADEC · Sede Ayarco
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.
+
+**Idioma:** La descripción está publicada en español. Consulte el idioma de las clases del grupo concreto.
+
+**Programa:** Programa diurno de vacaciones. La organización no enumera actividades temáticas ni módulos STEM.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 30 de noviembre al 11 de diciembre de 2026, salvo el 1 de diciembre. Horario 07:30–14:30, llegada desde las 06:30. Cuidado ampliado 14:30–17:00.
+
+**Precio / año:** 2026 · CRC 12000 por día para KG1 sin alimentación y CRC 14000 para KG2, KG3 y OPTs con alimentación. Cuidado ampliado CRC 3500 por día.
+
+**Incluido:** Merienda y almuerzo desde KG2.
+
+**Suplementos:** Cuidado ampliado con tarifa aparte.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.
+
+**Oscar:** Grupos KG1, KG2, KG3 y OPTs. No se publican las edades exactas de OPTs ni la admisión de escolares externos.
+
+**Motivo de selección:** Programa diurno de vacaciones. La organización no enumera actividades temáticas ni módulos STEM.
+
+### Antes de solicitar plaza
+
+- Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.
+
+### Kids Camp Ayarco
+
+**Fechas / estado:** 2026-11-30 — 2026-12-11
+
+**Precio:** CRC 12000 por día para KG1 sin alimentación y CRC 14000 para KG2, KG3 y OPTs con alimentación. Cuidado ampliado CRC 3500 por día.
+
+**Condiciones de participación:** Solicitudes hasta el 20 de noviembre de 2026. Antes de pagar, confirme grupo, edad, admisión externa, idioma y plazas.
+
+[fuente](https://colegiosadec.org/site/kids-camp-ayarco/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://colegiosadec.org/site/kids-camp-ayarco/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

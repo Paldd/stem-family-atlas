@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12705,
+    "cards": 12707,
     "competition_cards": 5584,
-    "event_cards": 882,
-    "camp_cards": 6239,
+    "event_cards": 883,
+    "camp_cards": 6240,
     "league_profiles": 359,
-    "major_exhibition_cards": 774,
+    "major_exhibition_cards": 775,
     "vex_cards": 821,
     "countries_with_records": 245,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 4086,
+      "total": 4088,
       "countries_with_records": 41,
       "competitions": 2251,
-      "events": 248,
-      "major_exhibitions": 199,
-      "camps": 1587,
+      "events": 249,
+      "major_exhibitions": 200,
+      "camps": 1588,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -18742,6 +18742,17 @@
       "new": false
     },
     {
+      "id": "E883",
+      "name": "El Trompo Tijuana · Electrópolis y salas interactivas",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.eltrompo.org/visita",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -21173,8 +21184,8 @@
       }
     ],
     "counts": {
-      "records": 6239,
-      "holiday": 5561,
+      "records": 6240,
+      "holiday": 5562,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,

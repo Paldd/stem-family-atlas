@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2559,
+    "dossiers": 2565,
     "countries": 141,
     "swiss": 165,
     "by_status": {
@@ -38,10 +38,10 @@
       "published_2027": 748,
       "partial_2027": 185,
       "next_unannounced": 489,
-      "published_2026": 488,
+      "published_2026": 493,
       "partial_2026_27": 44,
       "partial_2026": 25,
-      "archive_next_unannounced": 151,
+      "archive_next_unannounced": 152,
       "regular_programme": 33,
       "regular_2026_27": 33,
       "historical_2026_next_season_unknown": 4,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3472
+    "source_urls": 3478
   },
   "countries": [
     {
@@ -288,7 +288,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 63
+      "count": 64
     },
     {
       "country": "Кувейт",
@@ -352,7 +352,7 @@
     },
     {
       "country": "Мексика",
-      "count": 79
+      "count": 84
     },
     {
       "country": "Мозамбик",
@@ -394744,6 +394744,499 @@
       "materials_languages": [
         "ZH"
       ]
+    },
+    {
+      "id": "CP2560",
+      "slug": "robotpunk-torreon-jr-bots-2026",
+      "provider": "Robotpunk · Jr-Bots",
+      "iso": "MEX",
+      "country": "Мексика",
+      "place": "Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila",
+      "age": "5–8 лет.",
+      "programme": "Младшая робототехника на наборах LEGO Education. Практическая сборка и знакомство с инженерными задачами.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "precision": "season_window",
+        "label": "Учебный цикл 17 августа–17 декабря 2026. Общие слоты школы: Пн/Ср или Вт/Чт 17:00–19:00, Сб 09:45–11:45 или 12:00–14:00. Расписание конкретной группы не опубликовано.",
+        "sessions": [
+          [
+            "2026-08-17",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": []
+      },
+      "price": {
+        "currency": "MXN",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2026,
+        "label": "Тариф и включённые материалы не опубликованы.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Старше опубликованного максимального возраста этой группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+        }
+      },
+      "editorial_reason": "Младшая робототехника на наборах LEGO Education. Практическая сборка и знакомство с инженерными задачами.",
+      "shortlist": [],
+      "questions": [
+        "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotpunk.mx/cursos-regulares/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.robotpunk.mx/contacto/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2561",
+      "slug": "robotpunk-torreon-robot-iq-2026",
+      "provider": "Robotpunk · Robot IQ",
+      "iso": "MEX",
+      "country": "Мексика",
+      "place": "Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila",
+      "age": "8+ лет.",
+      "programme": "Сборка, программирование и управление роботами на VEX Robotics и LEGO Education. Предварительный опыт не нужен.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "precision": "season_window",
+        "label": "Учебный цикл 17 августа–17 декабря 2026. Общие слоты школы: Пн/Ср или Вт/Чт 17:00–19:00, Сб 09:45–11:45 или 12:00–14:00. Расписание конкретной группы не опубликовано.",
+        "sessions": [
+          [
+            "2026-08-17",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": []
+      },
+      "price": {
+        "currency": "MXN",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2026,
+        "label": "Тариф и включённые материалы не опубликованы.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше опубликованного минимального возраста этой группы."
+        }
+      },
+      "editorial_reason": "Сборка, программирование и управление роботами на VEX Robotics и LEGO Education. Предварительный опыт не нужен.",
+      "shortlist": [],
+      "questions": [
+        "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotpunk.mx/cursos-regulares/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.robotpunk.mx/contacto/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2562",
+      "slug": "robotpunk-torreon-programming-2026",
+      "provider": "Robotpunk · Programación",
+      "iso": "MEX",
+      "country": "Мексика",
+      "place": "Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila",
+      "age": "8+ лет.",
+      "programme": "Приложения и видеоигры. Инструменты по уровню группы, включая C++, C#, GDScript, Lua и блоки.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "precision": "season_window",
+        "label": "Учебный цикл 17 августа–17 декабря 2026. Общие слоты школы: Пн/Ср или Вт/Чт 17:00–19:00, Сб 09:45–11:45 или 12:00–14:00. Расписание конкретной группы не опубликовано.",
+        "sessions": [
+          [
+            "2026-08-17",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": []
+      },
+      "price": {
+        "currency": "MXN",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2026,
+        "label": "Тариф и включённые материалы не опубликованы.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше опубликованного минимального возраста этой группы."
+        }
+      },
+      "editorial_reason": "Приложения и видеоигры. Инструменты по уровню группы, включая C++, C#, GDScript, Lua и блоки.",
+      "shortlist": [],
+      "questions": [
+        "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotpunk.mx/cursos-regulares/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.robotpunk.mx/contacto/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2563",
+      "slug": "robotpunk-torreon-makers-2026",
+      "provider": "Robotpunk · Makers",
+      "iso": "MEX",
+      "country": "Мексика",
+      "place": "Av. Ocampo 1829 Ote., Col. Centro, Torreón, Coahuila",
+      "age": "9+ лет.",
+      "programme": "Проектирование прототипов, робототехника, автоматизация и домашние системы. Есть Arduino, Raspberry Pi и 3D-печать.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "precision": "season_window",
+        "label": "Учебный цикл 17 августа–17 декабря 2026. Общие слоты школы: Пн/Ср или Вт/Чт 17:00–19:00, Сб 09:45–11:45 или 12:00–14:00. Расписание конкретной группы не опубликовано.",
+        "sessions": [
+          [
+            "2026-08-17",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": []
+      },
+      "price": {
+        "currency": "MXN",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2026,
+        "label": "Тариф и включённые материалы не опубликованы.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше опубликованного минимального возраста этой группы."
+        }
+      },
+      "editorial_reason": "Проектирование прототипов, робототехника, автоматизация и домашние системы. Есть Arduino, Raspberry Pi и 3D-печать.",
+      "shortlist": [],
+      "questions": [
+        "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robotpunk.mx/cursos-regulares/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.robotpunk.mx/contacto/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сверить расписание конкретной группы, наличие мест, поздний приём и язык занятий. Даты следующего цикла не объявлены."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2564",
+      "slug": "eltrompo-robotica-stem-2026-archive",
+      "provider": "El Trompo · Taller de Robótica Habilidades STEM",
+      "iso": "MEX",
+      "country": "Мексика",
+      "place": "El Trompo · Av. de los Insurgentes s/n, Río Tijuana 3ra etapa, Tijuana",
+      "age": "7–14 лет.",
+      "programme": "Сборка роботов, знакомство с деталями и основы программирования.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Афиша указывала субботы с 10 октября по 12 декабря 2026, 10:00–14:00. Текущая страница музея помечает курс как завершённый. Следующий набор не объявлен.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "currency": "MXN",
+        "amount": 1950,
+        "unit": "course",
+        "year": 2026,
+        "label": "Афиша выпуска 2026 указывала MXN 1950. Тариф следующего набора ещё не объявлен.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Следить за следующим набором. Уточнить дату, язык и цену для нового курса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше опубликованного минимального возраста этой группы."
+        }
+      },
+      "editorial_reason": "Сборка роботов, знакомство с деталями и основы программирования.",
+      "shortlist": [],
+      "questions": [
+        "Афиша указывала субботы с 10 октября по 12 декабря 2026, 10:00–14:00. Текущая страница музея помечает курс как завершённый. Следующий набор не объявлен."
+      ],
+      "sources": [
+        {
+          "url": "https://www.eltrompo.org/cursos",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.eltrompo.org/media/promociones/2610_trs.jpg",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.eltrompo.org/posts/noticias/71/comenzo-el-trompo-nueva-temporada-educativa-de-otono.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.eltrompo.org/contacto",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Афиша указывала субботы с 10 октября по 12 декабря 2026, 10:00–14:00. Текущая страница музея помечает курс как завершённый. Следующий набор не объявлен."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2565",
+      "slug": "adec-kids-camp-ayarco-2026",
+      "provider": "ADEC · Kids Camp Ayarco",
+      "iso": "CRI",
+      "country": "Коста-Рика",
+      "place": "ADEC · Sede Ayarco",
+      "age": "Группы KG1, KG2, KG3 и OPTs. Точные возраста OPTs и допуск школьников извне не опубликованы.",
+      "programme": "Дневная каникулярная программа. Тематические занятия и STEM-модули организатор не перечисляет.",
+      "themes": [
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание опубликовано на испанском. Язык занятий в конкретной группе нужно уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "30 ноября–11 декабря 2026, кроме 1 декабря. Часы 07:30–14:30, приём с 06:30. Продлёнка 14:30–17:00.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-11",
+            "label": "Kids Camp Ayarco",
+            "source": "https://colegiosadec.org/site/kids-camp-ayarco/",
+            "price": "CRC 12000 за день для KG1 без питания, CRC 14000 для KG2, KG3 и OPTs с питанием. Продлёнка CRC 3500 за день.",
+            "entry": "Заявки до 20 ноября 2026. Перед оплатой уточнить группу, возраст, допуск извне, язык и свободные места.",
+            "date_scope": "camp_window",
+            "date_precision": "announced_window",
+            "date_rule": "30 ноября–11 декабря 2026, кроме 1 декабря. Часы 07:30–14:30, приём с 06:30. Продлёнка 14:30–17:00.",
+            "deadline": "2026-11-20",
+            "deadline_label": "Срок подачи заявки"
+          }
+        ]
+      },
+      "price": {
+        "currency": "CRC",
+        "amount": null,
+        "unit": "day",
+        "year": 2026,
+        "label": "CRC 12000 за день для KG1 без питания, CRC 14000 для KG2, KG3 и OPTs с питанием. Продлёнка CRC 3500 за день.",
+        "included": "Перекус и обед с KG2.",
+        "extras": "Продлёнка по отдельному тарифу.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Группы KG1, KG2, KG3 и OPTs. Точные возраста OPTs и допуск школьников извне не опубликованы."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Группы KG1, KG2, KG3 и OPTs. Точные возраста OPTs и допуск школьников извне не опубликованы."
+        }
+      },
+      "editorial_reason": "Дневная каникулярная программа. Тематические занятия и STEM-модули организатор не перечисляет.",
+      "shortlist": [],
+      "questions": [
+        "Заявки до 20 ноября 2026. Перед оплатой уточнить группу, возраст, допуск извне, язык и свободные места."
+      ],
+      "sources": [
+        {
+          "url": "https://colegiosadec.org/site/kids-camp-ayarco/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Заявки до 20 ноября 2026. Перед оплатой уточнить группу, возраст, допуск извне, язык и свободные места."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES"
+      ]
     }
   ],
   "gaps": [
@@ -413304,7 +413797,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2559,
+      "total_dossiers": 2565,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://colegiosadec.org/site/kids-camp-ayarco/",
+    "artifact": "cri-adec-ayarco.html",
+    "bytes": 155917,
+    "sha256": "968ecb4aac6c879005a5b4bbbf0fd39533c460bcf182c114d2001c2933cfd265",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.eltrompo.org/contacto",
+    "artifact": "mex-eltrompo-contact.html",
+    "bytes": 20265,
+    "sha256": "0db9ac2c94760e9fef7527c52665b7e91cbb59a89c79112bdda78df6f1ccfa5b",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.eltrompo.org/cursos",
+    "artifact": "mex-eltrompo-courses.html",
+    "bytes": 47044,
+    "sha256": "e5625db067a09457bddbd6092ed748897e6de0194999c2367f4c1b780587a954",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.eltrompo.org/espacios/electropolis",
+    "artifact": "mex-eltrompo-electropolis.html",
+    "bytes": 16775,
+    "sha256": "e242b74efce475dad27c7b4e0f7ef38439a584624c7ef2e689ee1d9809764a3d",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.eltrompo.org/media/promociones/2610_trs.jpg",
+    "artifact": "mex-eltrompo-stem-poster.jpg",
+    "bytes": 654481,
+    "sha256": "a9a9053a30b10c95017dbb96861cfed1b51353515b2b590b04b8a624ddeff201",
+    "checked": "2026-11-10",
+    "evidence_kind": "official_poster"
+  },
+  {
+    "url": "https://www.eltrompo.org/posts/noticias/71/comenzo-el-trompo-nueva-temporada-educativa-de-otono.html",
+    "artifact": "mex-eltrompo-autumn.html",
+    "bytes": 20558,
+    "sha256": "c65e9a2608f697b605e02bbf5a4c5b1327c639d1f6ff4c456a1ff266cb0b56a4",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.eltrompo.org/visita",
+    "artifact": "mex-eltrompo-visit.html",
+    "bytes": 16945,
+    "sha256": "46bccd95bd0d81a71def0a65a0ccc43a0b7ccb6803c2d5219dae8df49bea0d9d",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.robotpunk.mx/contacto/",
+    "artifact": "mex-robotpunk-contact.html",
+    "bytes": 113823,
+    "sha256": "d30ce526af186c84564f30e466458bc072acdf16f3c66233db916543ee504cd8",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.robotpunk.mx/cursos-regulares/",
+    "artifact": "mex-robotpunk-regular.html",
+    "bytes": 151904,
+    "sha256": "ef0e7a354987567fced29b426544deb557f99a3a0179e239b7f1383379f0e255",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  }
+]

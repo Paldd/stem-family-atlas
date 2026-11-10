@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12705; соревнований: 5584; событий: 882; лагерей / программ: 6239. Профилей лиг и программ: 359. Карточек крупных и профильных выставок: 774 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12707; соревнований: 5584; событий: 883; лагерей / программ: 6240. Профилей лиг и программ: 359. Карточек крупных и профильных выставок: 775 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 245 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,7 +14,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2251 | 199 | 1587 |
+| Северная Америка | 41 | 2251 | 200 | 1588 |
 | Южная Америка | 15 | 509 | 65 | 306 |
 | Европа | 55 | 796 | 189 | 1809 |
 | Африка | 61 | 293 | 52 | 167 |
@@ -1215,6 +1215,7 @@ VEX: 821 из 5584 карточек соревнований (14.7%). Это я�
 - **Taiwan International Science Fair 2027 · Public Exhibition** — Тайвань; 2027-01-29. Детский допуск уточнить. https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=15FD6803D5DD521C5B2FCF63045E784B&lang=2
 - **NSTM Kaohsiung · Smart Manufacturing** — Тайвань; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=d4388659-ff0e-4ab1-bec1-d36a49bf630b
 - **NSTM Kaohsiung · Space Exploration** — Тайвань; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=99a56ec1-1a58-4e2a-b1dc-76ff0710be4b
+- **El Trompo Tijuana · Electrópolis y salas interactivas** — Мексика; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.eltrompo.org/visita
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
