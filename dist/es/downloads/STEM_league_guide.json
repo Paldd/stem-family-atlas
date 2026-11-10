@@ -28115,6 +28115,96 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "astra-challenge",
+        "name": "Astra Challenge",
+        "group": "regional",
+        "age_summary": "EVNANO 5–7 años, EVKIDS 8–10 años y EV3 11–15 años. Las demás categorías dependen del proyecto.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Torneo local de robótica en Lima",
+        "importance": "Torneo local de robótica en Lima",
+        "strengths": "Torneo local de robótica en Lima",
+        "categories": [
+          {
+            "name": "EVNANO",
+            "age": "De 5 a 7 años.",
+            "age_rule": "De 5 a 7 años.",
+            "team": "Individual o en equipo de 2 participantes.",
+            "hardware": "Catapulta y brazo de agarre. Se prestan kit de robótica y tableta para competir. Se permite usar los propios.",
+            "entry": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+          },
+          {
+            "name": "EVKIDS",
+            "age": "8–10 años.",
+            "age_rule": "8–10 años.",
+            "team": "Individual o en equipo de 2 participantes.",
+            "hardware": "Fútbol robótico con 2 motores y recolección de objetos. Se prestan kit de robótica y tableta para competir. Se permite usar los propios.",
+            "entry": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+          },
+          {
+            "name": "EV3",
+            "age": "11–15 años.",
+            "age_rule": "11–15 años.",
+            "team": "Individual o en equipo de 2 participantes.",
+            "hardware": "Proyecto Misión Astra. Se presta el kit y se exige portátil propio con el software instalado.",
+            "entry": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+          },
+          {
+            "name": "Arduino",
+            "age": "Categoría abierta. No se publica la edad exacta.",
+            "age_rule": "Categoría abierta. No se publica la edad exacta.",
+            "team": "Individual o en equipo de 2 participantes.",
+            "hardware": "Arduino: minisumo, seguidor de línea o proyecto de robótica.",
+            "entry": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+          },
+          {
+            "name": "Exposición de Proyectos Escolares",
+            "age": "Proyectos escolares, confirme los grados concretos.",
+            "age_rule": "Proyectos escolares, confirme los grados concretos.",
+            "team": "Individual o en equipo de 2 participantes.",
+            "hardware": "Proyecto de electrónica, Arduino o ESP32. Se admiten proyectos escolares y desarrollados de forma independiente.",
+            "entry": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+          }
+        ],
+        "event_ids": [
+          "C5379",
+          "C5380",
+          "C5381",
+          "C5382",
+          "C5383"
+        ],
+        "legacy_ids": [],
+        "route": "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.",
+        "hardware": "Se prestan kit de robótica y tableta para competir. Se permite usar los propios.",
+        "language": "La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.",
+        "award": "Copa o premio según la categoría y constancia de participación. El resultado corresponde a este torneo.",
+        "cost": "Cuota publicada de 200 PEN. Confirme el cobro por persona o equipo.",
+        "requirements": [
+          "Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen."
+        ],
+        "nuances": [
+          "Incluye 2 clases preparatorias de 75 minutos con reserva hasta el 3 de diciembre. Confirme los horarios disponibles.",
+          "Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente."
+        ],
+        "sources": [
+          {
+            "url": "https://www.astranautas.com/astra-challenge-2026.php",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://www.astranautas.com/taller-robotica-verano.php",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Se verificaron la descripción oficial del torneo, las edades y las cuotas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -33460,7 +33550,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 338 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Hay 339 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

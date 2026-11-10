@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2300 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2353 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -182365,6 +182365,2236 @@ Singapur · Singapore · Forum Office Tower · 583 Orchard Road · #13-01 · 238
 - [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/holidays/terms) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.lcclcoding.com/faq) · 2026-11-09
+
+## CP2301 · SENATI · Amazonas · Chachapoyas · Presencial
+
+Perú · Amazonas · Chachapoyas
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Inventor Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Programador Kids de videojuegos con Roblox / Robótica con Lego Inventor Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2302 · SENATI · Ancash · Chimbote · Presencial
+
+Perú · Ancash · Chimbote
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Inteligencia artificial Con Dogzilla Básico (13–17) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Básico (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño de Manga Digital / Diseño y Animación 3D Básico / Edición de Fotografía y Video Kids / Inteligencia artificial Con Dogzilla Básico / INTELIGENCIA ARTIFICIAL Y PROGRAMACIÓN CON PYTHON / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Robótica con Lego Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2303 · SENATI · Ancash · Huaraz · Presencial
+
+Perú · Ancash · Huaraz
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño y Animación 3D Básico y Avanzado (13–16) / Edición de Fotografía y Video Kids (11–16) / Robótica con Lego Inventor Avanzado (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño y Animación 3D Básico y Avanzado / Edición de Fotografía y Video Kids / Robótica con Lego Inventor Avanzado.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2304 · SENATI · Apurimac · Abancay · Presencial
+
+Perú · Apurimac · Abancay
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Diseño y Animación 3D Básico / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Realidad Aumentada con Unity / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2305 · SENATI · Apurimac · Andahuaylas · Presencial
+
+Perú · Apurimac · Andahuaylas
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Ensamblaje Junior (10–13) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseña Tu Robot con lego Digital Designer / Diseño y Animación 3D Básico / Ensamblaje Junior / Robótica con Lego Inventor Avanzado / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2306 · SENATI · Arequipa · Presencial
+
+Perú · Arequipa
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Anime 3D: Domina el arte Digital en ZBrush (10–16) / Arduino y Domótica Junior (10–13) / Ensamblaje Junior (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Inventor Avanzado (11–16) / Robotica con lego inventor Básico (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Anime 3D: Domina el arte Digital en ZBrush / Arduino y Domótica Junior / Desarrollo de Videojuegos 3D con Unity Junior / Ensamblaje Junior / Escultura Digital con ZBrush Básico y Avanzado / Programador Kids de videojuegos con Roblox / Realidad Aumentada con Unity / Robótica con Lego Inventor Avanzado / Robotica con lego inventor Básico / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+
+**Precio / año:** 2027 · En la presentación de Arequipa se anunció un descuento del 20% hasta el 15 de diciembre. Precio base y aplicación al módulo pendientes.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://diarioep.pe/noticia/senati-arequipa-presenta-vacaciones-tecnologicas-2027) · 2026-11-09
+
+## CP2307 · SENATI · Arequipa · Mall Aventura · Presencial
+
+Perú · Arequipa · Mall Aventura
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Anime 3D: Domina el arte Digital en ZBrush (10–16) / Arduino y Domótica Junior (10–13) / Ensamblaje Junior (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Anime 3D: Domina el arte Digital en ZBrush / Arduino y Domótica Junior / Desarrollo de Videojuegos 3D con Unity Junior / Dogzilla Vision Hunters Caza Obj. y supera misiones / Dogzilla Xtreme Desafío de Inteligencia Artificial / Ensamblaje Junior / Escultura Digital con ZBrush Básico y Avanzado / Programador Kids de videojuegos con Roblox / Programador Kids De Videojuegos con Roblox Nivel 2 / Realidad Aumentada con Unity / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+
+**Precio / año:** 2027 · En la presentación de Arequipa se anunció un descuento del 20% hasta el 15 de diciembre. Precio base y aplicación al módulo pendientes.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://diarioep.pe/noticia/senati-arequipa-presenta-vacaciones-tecnologicas-2027) · 2026-11-09
+
+## CP2308 · SENATI · Arequipa · Mollendo · Presencial
+
+Perú · Arequipa · Mollendo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño y Animación 3D Básico y Avanzado (13–16) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Inventor Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño y Animación 3D Básico y Avanzado / Robótica con Lego Inventor Avanzado / Robótica con Lego Inventor Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2309 · SENATI · Ayacucho · Presencial
+
+Perú · Ayacucho
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Escultura Digital con Zbrush Básico (10–13) / Inteligencia Artificial con Dogzilla Básico (13–17) / Mini Arquitecto con Minecraft (10–13) / Robótica con Lego Básico (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Escultura Digital con Zbrush Básico / Inteligencia Artificial con Dogzilla Básico / Mini Arquitecto con Minecraft / Robótica con Lego Básico / Robótica con Lego Nivel Avanzado / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2310 · SENATI · Cajamarca · Presencial
+
+Perú · Cajamarca
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Chatbots & IA: Crea tu Asistente Virtual (13–16) / Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Aventura de CoderZ con LEGO SPIKE Prime / Chatbots & IA: Crea tu Asistente Virtual / Construye Tu Aventura en Minecraft / Diseño de Manga Digital / Diseño y Animación 3D Básico / Edición de Fotografía y Video Kids / Mini Arquitecto con Minecraft / Programación de Videojuegos / Robótica con Lego Inventor.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2311 · SENATI · Campus Virtual · Remoto
+
+Perú · Campus Virtual
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Edición de Fotografía y Video Kids (11–16) / Guionista de Comic con Storytelling Visual (13–16) / Inteligencia Artificial Con Dogzilla Básico y Avanzado (13–17) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16) / Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Desarrollo de Videojuegos 3D con Unity Junior / Diseño y Animación 3D Básico / Edición de Fotografía y Video Kids / Guionista de Comic con Storytelling Visual / Inteligencia Artificial Con Dogzilla Básico y Avanzado / Mini Arquitecto con Minecraft / Mini Programador con Phyton y Coder Z / Programación de Videojuegos / Programador Kids de Videojuegos con Roblox Nivel 1 y Nivel 2 / Robótica Kids con CoderZ.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft / Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2312 · SENATI · Cusco · Presencial
+
+Perú · Cusco
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Anime 3D: Domina el arte Digital en ZBrush (10–16) / Edición de Fotografía y Video Kids (11–16) / Escultura Digital con Zbrush Básico (10–13) / Mini Arquitecto con Minecraft (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Anime 3D: Domina el arte Digital en ZBrush / Desarrollo de Videojuegos 3D con Unity Junior / Dogzilla Xtreme Desafío de Inteligencia Artificial / Edición de Fotografía y Video Kids / Escultura Digital con Zbrush Básico / Mini Arquitecto con Minecraft / Programador Kids De Videojuegos con Roblox Nivel 1 / Programador Kids De Videojuegos con Roblox Nivel 2 / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2313 · SENATI · Huancavelica · Presencial
+
+Perú · Huancavelica
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Escultura Digital con Zbrush Básico (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Diseño y Animación 3D Avanzado / Diseño y Animación 3D Básico / Escultura Digital con Zbrush Básico / Escultura Digital con ZBrush Básico y Avanzado / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2314 · SENATI · Ica · Chincha · Presencial
+
+Perú · Ica · Chincha
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Programador Kids de Videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Ofimatica Junior / Programador Kids de Videojuegos con Roblox / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2315 · SENATI · Ica · Presencial
+
+Perú · Ica
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño de Manga Digital / Ofimatica Junior / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2316 · SENATI · Ica · Pisco · Presencial
+
+Perú · Ica · Pisco
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Programador Kids De Videojuegos con Roblox Nivel 1 / Programador Kids De Videojuegos con Roblox Nivel 2 / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2317 · SENATI · Junin · Huancayo · Presencial
+
+Perú · Junin · Huancayo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Mini Arquitecto con Minecraft (10–13) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Aventura de CoderZ con LEGO SPIKE Prime / Diseño de Manga Digital / Escultura Digital con ZBrush Básico y Avanzado / Mini Arquitecto con Minecraft / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2318 · SENATI · Junin · La Oroya · Presencial
+
+Perú · Junin · La Oroya
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño de Manga Digital / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2319 · SENATI · Junin · San Ramón · Presencial
+
+Perú · Junin · San Ramón
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2320 · SENATI · La Libertad · La Esperanza · Presencial
+
+Perú · La Libertad · La Esperanza
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Básico (10–13) / Robótica con Lego Inventor Avanzado (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Diseño de modas Teens / Edición de Fotografía y Video Kids / Ensamblaje Junior / Programador Kids de videojuegos con Roblox / Robótica con Lego Básico / Robótica con Lego Inventor Avanzado.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2321 · SENATI · La Libertad · Mansiche · Presencial
+
+Perú · La Libertad · Mansiche
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Escultura Digital con Zbrush Básico (10–13) / Inteligencia artificial Con Dogzilla Básico (13–17) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Diseño de Manga Digital / Edición de Fotografía y Video Kids / Escultura Digital con Zbrush Básico / Fotografia y Video Digital / Herramiento de IA generativa / Inteligencia artificial Con Dogzilla Básico / INTELIGENCIA ARTIFICIAL Y PROGRAMACIÓN CON PYTHON / Inventor Digital 3D + Chatbots & IA: Crea tu Asistente Virtual / Mini Arquitecto con Minecraft / Ofimatica y productividad digital / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2322 · SENATI · Lambayeque · Chiclayo · Presencial
+
+Perú · Lambayeque · Chiclayo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Anime 3D: Domina el Arte Digital en ZBrush (10–16) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Escultura Digital con Zbrush Básico (10–13) / Programación de Videojuegos (11–16) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16) / Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Anime 3D: Domina el Arte Digital en ZBrush / Desarrollo de Videojuegos 3D con Unity Junior / Diseño de Manga Digital / Diseño y Animación 3D Básico / Edición de Fotografía y Video Kids / Escultura Digital con Zbrush Básico / Mini Programador con Phyton y Coder Z / Programación de Videojuegos / Realidad Aumentada con Unity / Robótica con Lego Inventor Avanzado / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico / Robótica Kids con CoderZ.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2323 · SENATI · Lima - Callao · Cañete · Presencial
+
+Perú · Lima - Callao · Cañete
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Diseño de Manga Digital (11–16) / Diseño y Animación 3D Básico y Avanzado (13–16) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Inteligencia artificial Con Dogzilla Básico (13–17) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Avanzado (10–13) / Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Diseño de Manga Digital / Diseño y Animación 3D Básico y Avanzado / Edición de Fotografía y Video Kids / Ensamblaje Junior / Inteligencia artificial Con Dogzilla Básico / Programador Kids de videojuegos con Roblox / Robótica con Lego Avanzado / Robótica Kids con CoderZ.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2324 · SENATI · Lima - Callao · Centro de Lima · Presencial
+
+Perú · Lima - Callao · Centro de Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Ensamblaje Junior (10–13) / Escultura Digital con Zbrush Básico (10–13) / Inteligencia Artificial con Dogzilla Básico (13–17) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Diseña Tu Robot con lego Digital Designer / Diseño de Manga Digital / Diseño y Animación 3D Avanzado / Ensamblaje Junior / Escultura Digital con Zbrush Básico / Inteligencia Artificial con Dogzilla Básico / Mini Arquitecto con Minecraft / Programación de Videojuegos / Programador Junior con Python Usando CodeCombat / Programador Kids de videojuegos con Roblox / Programador Kids De Videojuegos con Roblox Nivel 2 / Python Minercraft: Construcción Automatizada / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2325 · SENATI · Lima - Callao · Centro de Lima · Remoto
+
+Perú · Lima - Callao · Centro de Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Robótica Kids con CoderZ / Super Mario 2D con Scratch.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2326 · SENATI · Lima - Callao · Huaura · Presencial
+
+Perú · Lima - Callao · Huaura
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Chatbots & IA: Crea tu Asistente Virtual (13–16) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Robótica con Lego Básico (10–13) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Chatbots & IA: Crea tu Asistente Virtual / Edición de Fotografía y Video Kids / Ensamblaje Junior / Robótica con Lego Básico / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2327 · SENATI · Lima - Callao · Huaura · Remoto
+
+Perú · Lima - Callao · Huaura
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Mini Arquitecto con Minecraft / Programación de Videojuegos / Programador Kids de videojuegos con Roblox.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2328 · SENATI · Lima - Callao · Independencia · Presencial
+
+Perú · Lima - Callao · Independencia
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica junior (10–13) / Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Inteligencia artificial Con Dogzilla Básico (13–17) / Inteligencia Artificial Con Dogzilla Básico y Avanzado (13–17) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16) / Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica junior / Construye Tu Aventura en Minecraft / DESARROLLADOR KIDS DE APPS / Diseña Tu Robot con lego Digital Designer / Diseño de Manga Digital / Edición de Fotografía y Video Kids / Ensamblaje Junior / Ensamblaje Junior Nivel 2 / Inteligencia artificial Con Dogzilla Básico / Inteligencia Artificial Con Dogzilla Básico y Avanzado / Inteligencia artificial y Programacion con Python / Mini Arquitecto con Minecraft / Programación de Videojuegos / Programador Kids de videojuegos con Roblox / Programador Kids De Videojuegos con Roblox Nivel 2 / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico / Robótica Kids con CoderZ.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft / Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2329 · SENATI · Lima - Callao · Independencia · Remoto
+
+Perú · Lima - Callao · Independencia
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Chatbots & IA: Crea tu Asistente Virtual (13–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Chatbots & IA: Crea tu Asistente Virtual / Ciber Detective en Acción / Inventor Digital 3D + Chatbots & IA: Crea tu Asistente Virtual.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2330 · SENATI · Lima - Callao · San Juan de Lurigancho · Presencial
+
+Perú · Lima - Callao · San Juan de Lurigancho
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Ensamblaje Junior (10–13) / Inteligencia Artificial Con Dogzilla Básico (13–17) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Ensamblaje Junior / Inteligencia Artificial Con Dogzilla Básico / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Robótica con Lego Inventor Avanzado / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2331 · SENATI · Lima - Callao · San Juan de Miraflores · Presencial
+
+Perú · Lima - Callao · San Juan de Miraflores
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Básico (11–16) / Robótica Kids con CoderZ (9–12).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Inteligencia Artificial y programación con Python / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Básico / Robótica Kids con CoderZ.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft / Robótica Kids con CoderZ.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2332 · SENATI · Lima - Callao · Surquillo · Presencial
+
+Perú · Lima - Callao · Surquillo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Ensamblaje Junior (10–13) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Ensamblaje Junior / Ensamblaje Junior Nivel 2 / Robótica con Lego Inventor Avanzado / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2333 · SENATI · Lima - Callao · Surquillo · Remoto
+
+Perú · Lima - Callao · Surquillo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye Tu Aventura en Minecraft (7–10) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye Tu Aventura en Minecraft / Diseño y Animación 3D Básico / Programación de Videojuegos / Programador Kids de videojuegos con Roblox.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2334 · SENATI · Lima - Callao · Ventanilla · Presencial
+
+Perú · Lima - Callao · Ventanilla
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Ensamblaje Junior (10–13) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Básico (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Ensamblaje Junior / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Realidad Aumentada con Unity / Robótica con Lego Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2335 · SENATI · Lima - Callao · Villa el Salvador · Presencial
+
+Perú · Lima - Callao · Villa el Salvador
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Inventor Básico (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño de Manga Digital / Edición de Fotografía y Video Kids / Ensamblaje Junior / Inteligencia Artificial y Programación con Python / Programador Kids de videojuegos con Roblox / Programador Kids De Videojuegos con Roblox Nivel 2 / Robótica con Lego Inventor Básico / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2336 · SENATI · Lima - Callao · Villa el Salvador · Remoto
+
+Perú · Lima - Callao · Villa el Salvador
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseño de Manga Digital / Diseño y Animación 3D Básico / Programación de Videojuegos / Programador Kids de videojuegos con Roblox.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2337 · SENATI · Loreto · Iquitos · Presencial
+
+Perú · Loreto · Iquitos
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Programación de Videojuegos (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseña Tu Robot con lego Digital Designer / Diseño y Animación 3D Avanzado / Diseño y Animación 3D Básico / Dogzilla Vision Hunters Caza Obj. y supera misiones / Inteligencia Artifical y programacióm con Python / Mini Programador con Phyton y Coder Z / Programación de Videojuegos / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2338 · SENATI · Loreto · Yurimaguas · Presencial
+
+Perú · Loreto · Yurimaguas
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Programación de Videojuegos (11–16) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Inteligencia Artifical y programacióm con Python / Programación de Videojuegos / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2339 · SENATI · Moquegua · Ilo · Presencial
+
+Perú · Moquegua · Ilo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Mini Arquitecto con Minecraft (10–13) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Mini Arquitecto con Minecraft / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años queda por debajo de los mínimos verificados en esta sede. Confirme otros módulos.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2340 · SENATI · Pasco · Cerro de Pasco · Remoto
+
+Perú · Pasco · Cerro de Pasco
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Diseñando tu Mundo Minecraft con Tinkercad / PROGRAMACIÓN JUNIOR CON TINKERCAD Y ARDUINO.
+
+**Alojamiento:** Clases a distancia con un docente. Confirme los requisitos del ordenador.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2341 · SENATI · Piura · Paita · Presencial
+
+Perú · Piura · Paita
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Ensamblaje Junior (10–13) / Robótica con Lego Básico y Avanzado (10–13).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Ciber Detective en Acción / Ensamblaje Junior / Robótica con Lego Básico y Avanzado.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2342 · SENATI · Piura · Sullana · Presencial
+
+Perú · Piura · Sullana
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Construye tu aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Construye tu aventura en Minecraft / Diseño de Manga Digital / Edición de Fotografía y Video Kids / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico / Super Mario 2D con Scratch.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye tu aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2343 · SENATI · Piura · Talara · Presencial
+
+Perú · Piura · Talara
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Chatbots & IA: Crea tu Asistente Virtual (13–16) / Construye Tu Aventura en Minecraft (7–10) / Edición de Fotografía y Video Kids (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Chatbots & IA: Crea tu Asistente Virtual / Construye Tu Aventura en Minecraft / Edición de Fotografía y Video Kids / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2344 · SENATI · Puno · Juliaca · Presencial
+
+Perú · Puno · Juliaca
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Diseño y Animación 3D Básico y Avanzado (13–16) / Edición de Fotografía y Video Kids (11–16) / Ensamblaje Junior (10–13) / Inteligencia Artificial Con Dogzilla Básico y Avanzado (13–17) / Mini Arquitecto con Minecraft (10–13) / Robótica con Lego Spike Prime Avanzado (11–16) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Diseño y Animación 3D Básico y Avanzado / Edición de Fotografía y Video Kids / Ensamblaje Junior / Inteligencia Artifical y programacióm con Python / Inteligencia Artificial Con Dogzilla Básico y Avanzado / Mini Arquitecto con Minecraft / Programador Kids De Videojuegos con Roblox Nivel 1 / Programador Kids De Videojuegos con Roblox Nivel 2 / Robótica con Lego Spike Prime Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2345 · SENATI · Puno · Presencial
+
+Perú · Puno
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Anime 3D: Domina el Arte Digital en ZBrush (10–16) / Arduino y Domótica Junior (10–13) / Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Diseño y Animación 3D Básico y Avanzado (13–16) / Edición de Fotografía y Video Kids (11–16) / Inteligencia Artificial Con Dogzilla Básico y Avanzado (13–17) / Programación de Videojuegos (11–16) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Básico y Avanzado (10–13) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Anime 3D: Domina el Arte Digital en ZBrush / Arduino y Domótica Junior / Ciber Detective en Acción / Construye Tu Aventura en Minecraft / Desarrollo de Videojuegos 3D con Unity Junior / Diseño de Manga Digital / Diseño y Animación 3D Básico y Avanzado / Dogzilla Vision Hunters Caza Obj. y supera misiones / Edición de Fotografía y Video Kids / Escultura Digital con ZBrush Básico y Avanzado / Inteligencia Artificial Con Dogzilla Básico y Avanzado / Programación de Videojuegos / Programador Kids de videojuegos con Roblox / Robótica con Lego Básico y Avanzado / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2346 · SENATI · San Martin · Moyobamba · Presencial
+
+Perú · San Martin · Moyobamba
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Chatbots & IA: Crea tu Asistente Virtual (13–16) / Construye Tu Aventura en Minecraft (7–10) / Edición de Fotografía y Video Kids (11–16) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Spike Prime Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Chatbots & IA: Crea tu Asistente Virtual / Construye Tu Aventura en Minecraft / Diseñando tu Mundo Minecraft con Tinkercad / Edición de Fotografía y Video Kids / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Robótica con Lego Spike Prime Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2347 · SENATI · Tacna · Presencial
+
+Perú · Tacna
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Mini Arquitecto con Minecraft (10–13) / Programación de Videojuegos (11–16) / Robótica con Lego Inventor Básico (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Aventura de CoderZ con LEGO SPIKE Prime / Diseño de Manga Digital / Edición de Fotografía y Video Kids / Mini Arquitecto con Minecraft / Programación de Videojuegos / Robótica con Lego Inventor Básico.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2348 · SENATI · Ucayali · Pucallpa · Presencial
+
+Perú · Ucayali · Pucallpa
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día. Edades verificadas en las fichas de los módulos. Arduino y Domótica Junior (10–13) / Construye Tu Aventura en Minecraft (7–10) / Diseño de Manga Digital (11–16) / Edición de Fotografía y Video Kids (11–16) / Mini Arquitecto con Minecraft (10–13) / Programador Kids de videojuegos con Roblox (10–13) / Robótica con Lego Avanzado (10–13) / Robótica con Lego Básico (10–13) / Robótica con Lego Inventor Avanzado (11–16) / Robótica con Lego Spike Prime Avanzado (11–16).
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Módulos del selector de SENATI. Arduino y Domótica Junior / Construye Tu Aventura en Minecraft / Diseño de Manga Digital / Diseño e Impresión 3D Avanzado / Diseño e Impresión 3D Básico / Edición de Fotografía y Video Kids / Inteligencia Artificial y Programacion con Python / Mini Arquitecto con Minecraft / Programador Kids de videojuegos con Roblox / Robótica con Lego Avanzado / Robótica con Lego Básico / Robótica con Lego Inventor Avanzado / Robótica con Lego Spike Prime Avanzado.
+
+**Alojamiento:** Programa diurno. El alojamiento y el viaje de la familia se pagan aparte.
+
+**Fechas / estado:** El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+
+**Precio / año:** 2027 · No se publica el precio de la sede y el módulo.
+
+**Incluye:** Para el formato presencial SENATI indica materiales y kits durante las clases. Para el remoto indica licencias durante el curso.
+
+**Cargos extra:** Para el grupo remoto confirme equipo, huso horario y acceso desde otro país. Para el presencial, viaje y alojamiento aparte.
+
+**Pago:** Confirme presupuesto y condiciones por módulo. La solicitud de información no confirma una plaza.
+
+**Matvey:** A los 9 años encaja en los módulos indicados. Confirme convocatoria, idioma y documentos. Opciones. Construye Tu Aventura en Minecraft.
+
+**Oscar:** A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+
+**Motivo de selección:** Verificado con el selector activo de región, sede, formato y módulo de SENATI. Se trasladó la edad de la ficha solo con correspondencia clara.
+
+### Antes de solicitar plaza
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+- El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json) · 2026-11-09
+
+## CP2349 · Astranautas · Robótica EvKids · Verano 2027
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 5–12 años según la ficha del curso de verano.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Introducción a construir y programar robots con kits educativos.
+
+**Alojamiento:** Siete sedes presenciales en Lima. Confirme la sede y el grupo del nivel elegido.
+
+**Fechas / estado:** La página publica ventanas de primera clase del 4–6, 11–13, 5–7, 12–14, 8–9 y 15–16 de enero de 2027. Confirme inicio y calendario exactos con la sede elegida.
+
+**Precio / año:** 2027 · La ficha muestra 539 PEN por 9 clases y 829 PEN por 15, pero el bloque dice septiembre y octubre. Confirme el precio de enero.
+
+**Incluye:** Kits en el aula y clases de 75 minutos. La página indica una matrícula separada de 0 PEN.
+
+**Cargos extra:** Promoción publicada. Confirme el total, los materiales fuera de clase y las condiciones vigentes.
+
+**Pago:** Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+**Matvey:** La edad encaja en la página de verano. Confirme plaza y nivel exacto.
+
+**Oscar:** La edad encaja en la página de verano. Confirme plaza y nivel exacto.
+
+**Motivo de selección:** Introducción a construir y programar robots con kits educativos.
+
+### Antes de solicitar plaza
+
+- Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
+
+## CP2350 · Astranautas · Robótica EV3 · Verano 2027
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 8–16 años según la ficha del curso de verano.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** LEGO Mindstorms EV3, robots autónomos y retos de ingeniería.
+
+**Alojamiento:** Siete sedes presenciales en Lima. Confirme la sede y el grupo del nivel elegido.
+
+**Fechas / estado:** La página publica ventanas de primera clase del 4–6, 11–13, 5–7, 12–14, 8–9 y 15–16 de enero de 2027. Confirme inicio y calendario exactos con la sede elegida.
+
+**Precio / año:** 2027 · Promoción de 709 PEN por 9 clases en enero o 1019 PEN por 15 clases en enero y febrero.
+
+**Incluye:** Kits en el aula y clases de 75 minutos. La página indica una matrícula separada de 0 PEN.
+
+**Cargos extra:** Promoción publicada. Confirme el total, los materiales fuera de clase y las condiciones vigentes.
+
+**Pago:** Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+**Matvey:** La edad encaja en la página de verano. Confirme plaza y nivel exacto.
+
+**Oscar:** Por debajo de la edad anunciada para el curso.
+
+**Motivo de selección:** LEGO Mindstorms EV3, robots autónomos y retos de ingeniería.
+
+### Antes de solicitar plaza
+
+- Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
+
+## CP2351 · Astranautas · Robótica Arduino · Verano 2027
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 10–17 años según la ficha del curso de verano.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Arduino, C++, sensores, circuitos y actuadores.
+
+**Alojamiento:** Siete sedes presenciales en Lima. Confirme la sede y el grupo del nivel elegido.
+
+**Fechas / estado:** La página publica ventanas de primera clase del 4–6, 11–13, 5–7, 12–14, 8–9 y 15–16 de enero de 2027. Confirme inicio y calendario exactos con la sede elegida.
+
+**Precio / año:** 2027 · Promoción de 889 PEN por 8 clases en enero y febrero.
+
+**Incluye:** Kits en el aula y clases de 75 minutos. La página indica una matrícula separada de 0 PEN.
+
+**Cargos extra:** Promoción publicada. Confirme el total, los materiales fuera de clase y las condiciones vigentes.
+
+**Pago:** Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+**Matvey:** Por debajo de la edad anunciada para el curso.
+
+**Oscar:** Por debajo de la edad anunciada para el curso.
+
+**Motivo de selección:** Arduino, C++, sensores, circuitos y actuadores.
+
+### Antes de solicitar plaza
+
+- Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
+
+## CP2352 · Astranautas · Electrónica Kids · Verano 2027
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 10–16 años según la ficha del curso de verano.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** Electrónica práctica y dispositivos interactivos.
+
+**Alojamiento:** Siete sedes presenciales en Lima. Confirme la sede y el grupo del nivel elegido.
+
+**Fechas / estado:** La página publica ventanas de primera clase del 4–6, 11–13, 5–7, 12–14, 8–9 y 15–16 de enero de 2027. Confirme inicio y calendario exactos con la sede elegida.
+
+**Precio / año:** 2027 · Promoción de 685 PEN por 8 clases en enero o 1050 PEN por 16 clases en enero y febrero.
+
+**Incluye:** Kits en el aula y clases de 75 minutos. La página indica una matrícula separada de 0 PEN.
+
+**Cargos extra:** Promoción publicada. Confirme el total, los materiales fuera de clase y las condiciones vigentes.
+
+**Pago:** Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+**Matvey:** Por debajo de la edad anunciada para el curso.
+
+**Oscar:** Por debajo de la edad anunciada para el curso.
+
+**Motivo de selección:** Electrónica práctica y dispositivos interactivos.
+
+### Antes de solicitar plaza
+
+- Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
+
+## CP2353 · Astranautas · Robótica ESP32 · Verano 2027
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 12–17 años según la ficha del curso de verano.
+
+**Idioma:** La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+
+**Programa:** ESP32, dispositivos conectados, Wi-Fi y prototipos de IoT.
+
+**Alojamiento:** Siete sedes presenciales en Lima. Confirme la sede y el grupo del nivel elegido.
+
+**Fechas / estado:** La página publica ventanas de primera clase del 4–6, 11–13, 5–7, 12–14, 8–9 y 15–16 de enero de 2027. Confirme inicio y calendario exactos con la sede elegida.
+
+**Precio / año:** 2027 · Promoción de 810 PEN por 8 clases en enero o 1280 PEN por 16 clases en enero y febrero.
+
+**Incluye:** Kits en el aula y clases de 75 minutos. La página indica una matrícula separada de 0 PEN.
+
+**Cargos extra:** Promoción publicada. Confirme el total, los materiales fuera de clase y las condiciones vigentes.
+
+**Pago:** Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+**Matvey:** Por debajo de la edad anunciada para el curso.
+
+**Oscar:** Por debajo de la edad anunciada para el curso.
+
+**Motivo de selección:** ESP32, dispositivos conectados, Wi-Fi y prototipos de IoT.
+
+### Antes de solicitar plaza
+
+- Elija sede y grupo. Confirme primer día, todas las clases, idioma y precio final.
+
+- Confirme módulo, edad, idioma, documentos, precio y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

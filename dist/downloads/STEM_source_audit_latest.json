@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11884,
-    "competition_cards": 5377,
-    "event_cards": 766,
-    "camp_cards": 5741,
-    "league_profiles": 338,
-    "major_exhibition_cards": 659,
+    "cards": 11894,
+    "competition_cards": 5382,
+    "event_cards": 769,
+    "camp_cards": 5743,
+    "league_profiles": 339,
+    "major_exhibition_cards": 662,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 806,
+      "total": 814,
       "countries_with_records": 15,
-      "competitions": 485,
-      "events": 59,
-      "major_exhibitions": 52,
-      "camps": 262,
+      "competitions": 490,
+      "events": 60,
+      "major_exhibitions": 53,
+      "camps": 264,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 3281,
+      "total": 3283,
       "countries_with_records": 51,
       "competitions": 1242,
-      "events": 201,
-      "major_exhibitions": 188,
+      "events": 203,
+      "major_exhibitions": 190,
       "camps": 1838,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -8819,6 +8819,24 @@
       "new": false
     },
     {
+      "id": "astra-challenge",
+      "name": "Astra Challenge",
+      "group": "regional",
+      "event_ids": [
+        "C5379",
+        "C5380",
+        "C5381",
+        "C5382",
+        "C5383"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.astranautas.com/astra-challenge-2026.php",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17069,6 +17087,39 @@
       "new": false
     },
     {
+      "id": "E767",
+      "name": "Astra Challenge 2026 · School Projects Showcase",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.astranautas.com/astra-challenge-2026.php",
+      "new": false
+    },
+    {
+      "id": "E768",
+      "name": "Asian Board Games Festival 2026 · Main Days",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.asianboardgamesfestival.com/about",
+      "new": false
+    },
+    {
+      "id": "E769",
+      "name": "Asian Board Games Festival 2026 · Preview",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "visitor_policy": "family",
+      "source": "https://www.asianboardgamesfestival.com/about",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17587,7 +17638,8 @@
     "Сверены 47 национальных школьных маршрутов Spirit of Math, опубликованы 8 вариантов общего графика англоязычного Cobo Academy и добавлены 3 архивные выставочные записи. Две новые территории представлены историческими событиями. Мировой аудит продолжается.",
     "Отдельные источники проверены для пяти территорий без карточек. Научная инфраструктура, внутренние школьные занятия и разрешения на посещение учитываются отдельно.",
     "Сверены отдельные категории IDN IT FEST, школьный инженерный отбор IIT Madras, курсы в Сантьяго и выставочные условия. Сомнительные даты и допуск младших отмечены в карточках.",
-    "Проверены зимние смены Meta Robotics и LCCL по площадкам и возрастным группам. Для игровых выставок отдельно сверены билеты и детский допуск. Язык преподавания новых курсов пока требует подтверждения."
+    "Проверены зимние смены Meta Robotics и LCCL по площадкам и возрастным группам. Для игровых выставок отдельно сверены билеты и детский допуск. Язык преподавания новых курсов пока требует подтверждения.",
+    "Добавлены действующие региональные варианты SENATI, турнир Astra Challenge, январские курсы Astranautas и выставка настольных игр в Сингапуре. Для программ без точного календаря сохранён статус уточнения."
   ],
   "source_issues": [
     {
@@ -19490,8 +19542,8 @@
       }
     ],
     "counts": {
-      "records": 5741,
-      "holiday": 5108,
+      "records": 5743,
+      "holiday": 5110,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,

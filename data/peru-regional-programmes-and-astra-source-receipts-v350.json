@@ -1,0 +1,92 @@
+[
+  {
+    "file": "senati.html",
+    "url": "https://vacacionesensenati.com/",
+    "bytes": 201349,
+    "sha256": "d6eb7a29c2cfd618c32c6c67173664b1a204246c5b780fd4bf9193f22f5560af"
+  },
+  {
+    "file": "senati-regionfilter.js",
+    "url": "https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regionfilter.js?ver=1.13",
+    "bytes": 5993,
+    "sha256": "0632980990f52655f1a45a6347fbb68a5563262c143a50c8df894d15d8d460f4"
+  },
+  {
+    "file": "senati-regiones.json",
+    "url": "https://vacacionesensenati.com/wp-content/themes/landing/assets/js/regiones_sedes.json",
+    "bytes": 83645,
+    "sha256": "d8166d68a7d5614194289770fe8a2c0a5eae8193644d082563a0a785bffebbf4"
+  },
+  {
+    "file": "senati-tabs.js",
+    "url": "https://vacacionesensenati.com/wp-content/themes/landing/assets/js/Nuveoscrip.js?ver=1.12",
+    "bytes": 4934,
+    "sha256": "53ec550df2642f18ed411c3782318828e6cf40ec17cd9eb8df9eed168fd607b6"
+  },
+  {
+    "file": "astra-challenge.html",
+    "url": "https://www.astranautas.com/astra-challenge-2026.php",
+    "bytes": 152998,
+    "sha256": "d6f260c9274d396b08242fb8325a45883029f03f703fc5cd6588730c379dc97c"
+  },
+  {
+    "file": "astra-verano.html",
+    "url": "https://www.astranautas.com/taller-robotica-verano.php",
+    "bytes": 446339,
+    "sha256": "5c0dccc0866dfefdddb391287bb38d24ef72fca34dac230725fb5a201b351840"
+  },
+  {
+    "file": "abgf-ticket.html",
+    "url": "https://www.eventbrite.com/e/asian-board-games-festival-2026-tickets-2003335233612",
+    "bytes": 191524,
+    "sha256": "7c1e3919b13b67dca26c6cce052c437a5df69a1d207ea8ae585f671fc1f39217"
+  },
+  {
+    "file": "senati-cat-3.json",
+    "url": "https://vacacionesensenati.com/wp-admin/admin-ajax.php",
+    "bytes": 20045,
+    "sha256": "47539a194a5e466f43234b68ca643274473e58d56445fd598f7fc4e52358e8d3",
+    "method": "POST",
+    "action": "obtener_programas_por_categoria",
+    "id_categoria": 3
+  },
+  {
+    "file": "senati-cat-26.json",
+    "url": "https://vacacionesensenati.com/wp-admin/admin-ajax.php",
+    "bytes": 26496,
+    "sha256": "a2c74c0f77a3a4ae82d8aeb82ac09cd5730a598296c39895b40de0866923a459",
+    "method": "POST",
+    "action": "obtener_programas_por_categoria",
+    "id_categoria": 26
+  },
+  {
+    "file": "senati-cat-24.json",
+    "url": "https://vacacionesensenati.com/wp-admin/admin-ajax.php",
+    "bytes": 20053,
+    "sha256": "b683a6a4acc8bee928c1e99705c460c34ddca84a345a71bd41095632d4de03b9",
+    "method": "POST",
+    "action": "obtener_programas_por_categoria",
+    "id_categoria": 24
+  },
+  {
+    "file": "senati-cat-31.json",
+    "url": "https://vacacionesensenati.com/wp-admin/admin-ajax.php",
+    "bytes": 13481,
+    "sha256": "b0a109adb79b8335f4219f2b90057539f6600b7babaec006357410a25fd1a570",
+    "method": "POST",
+    "action": "obtener_programas_por_categoria",
+    "id_categoria": 31
+  },
+  {
+    "url": "https://diarioep.pe/noticia/senati-arequipa-presenta-vacaciones-tecnologicas-2027",
+    "capture": "browser_source_read"
+  },
+  {
+    "url": "https://www.asianboardgamesfestival.com/about",
+    "capture": "browser_source_read"
+  },
+  {
+    "url": "https://feverup.com/m/704945",
+    "capture": "browser_source_read"
+  }
+]

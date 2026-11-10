@@ -1,0 +1,523 @@
+{
+  "version": 350,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_dossier_ids": [
+    "CP2301",
+    "CP2302",
+    "CP2303",
+    "CP2304",
+    "CP2305",
+    "CP2306",
+    "CP2307",
+    "CP2308",
+    "CP2309",
+    "CP2310",
+    "CP2311",
+    "CP2312",
+    "CP2313",
+    "CP2314",
+    "CP2315",
+    "CP2316",
+    "CP2317",
+    "CP2318",
+    "CP2319",
+    "CP2320",
+    "CP2321",
+    "CP2322",
+    "CP2323",
+    "CP2324",
+    "CP2325",
+    "CP2326",
+    "CP2327",
+    "CP2328",
+    "CP2329",
+    "CP2330",
+    "CP2331",
+    "CP2332",
+    "CP2333",
+    "CP2334",
+    "CP2335",
+    "CP2336",
+    "CP2337",
+    "CP2338",
+    "CP2339",
+    "CP2340",
+    "CP2341",
+    "CP2342",
+    "CP2343",
+    "CP2344",
+    "CP2345",
+    "CP2346",
+    "CP2347",
+    "CP2348",
+    "CP2349",
+    "CP2350",
+    "CP2351",
+    "CP2352",
+    "CP2353"
+  ],
+  "new_event_ids": [
+    "C5379",
+    "C5380",
+    "C5381",
+    "C5382",
+    "C5383",
+    "E767",
+    "E768",
+    "E769",
+    "L964",
+    "L965"
+  ],
+  "new_league_ids": [
+    "astra-challenge"
+  ],
+  "refreshed_event_ids": [
+    "E763",
+    "E764"
+  ],
+  "senati_raw_rows": 451,
+  "senati_normalized_options": 339,
+  "senati_age_mapped_options": 250,
+  "senati_programme_cards": 24,
+  "senati_regions": 22,
+  "senati_venue_mode_dossiers": [
+    {
+      "programme_id": "CP2301",
+      "region": "Amazonas",
+      "venue": "Chachapoyas",
+      "mode": "Presencial",
+      "options": 3,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2302",
+      "region": "Ancash",
+      "venue": "Chimbote",
+      "mode": "Presencial",
+      "options": 8,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2303",
+      "region": "Ancash",
+      "venue": "Huaraz",
+      "mode": "Presencial",
+      "options": 3,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2304",
+      "region": "Apurimac",
+      "venue": "Abancay",
+      "mode": "Presencial",
+      "options": 6,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2305",
+      "region": "Apurimac",
+      "venue": "Andahuaylas",
+      "mode": "Presencial",
+      "options": 6,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2306",
+      "region": "Arequipa",
+      "venue": "Arequipa",
+      "mode": "Presencial",
+      "options": 11,
+      "age_mapped": 8,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2307",
+      "region": "Arequipa",
+      "venue": "Mall Aventura",
+      "mode": "Presencial",
+      "options": 12,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2308",
+      "region": "Arequipa",
+      "venue": "Mollendo",
+      "mode": "Presencial",
+      "options": 3,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2309",
+      "region": "Ayacucho",
+      "venue": "Ayacucho",
+      "mode": "Presencial",
+      "options": 7,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2310",
+      "region": "Cajamarca",
+      "venue": "Cajamarca",
+      "mode": "Presencial",
+      "options": 9,
+      "age_mapped": 6,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2311",
+      "region": "Campus Virtual",
+      "venue": "Campus Virtual",
+      "mode": "Remoto",
+      "options": 11,
+      "age_mapped": 7,
+      "age9_known": 2
+    },
+    {
+      "programme_id": "CP2312",
+      "region": "Cusco",
+      "venue": "Cusco",
+      "mode": "Presencial",
+      "options": 10,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2313",
+      "region": "Huancavelica",
+      "venue": "Huancavelica",
+      "mode": "Presencial",
+      "options": 7,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2314",
+      "region": "Ica",
+      "venue": "Chincha",
+      "mode": "Presencial",
+      "options": 5,
+      "age_mapped": 4,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2315",
+      "region": "Ica",
+      "venue": "Ica",
+      "mode": "Presencial",
+      "options": 5,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2316",
+      "region": "Ica",
+      "venue": "Pisco",
+      "mode": "Presencial",
+      "options": 4,
+      "age_mapped": 2,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2317",
+      "region": "Junin",
+      "venue": "Huancayo",
+      "mode": "Presencial",
+      "options": 7,
+      "age_mapped": 5,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2318",
+      "region": "Junin",
+      "venue": "La Oroya",
+      "mode": "Presencial",
+      "options": 3,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2319",
+      "region": "Junin",
+      "venue": "San Ramón",
+      "mode": "Presencial",
+      "options": 1,
+      "age_mapped": 1,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2320",
+      "region": "La Libertad",
+      "venue": "La Esperanza",
+      "mode": "Presencial",
+      "options": 7,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2321",
+      "region": "La Libertad",
+      "venue": "Mansiche",
+      "mode": "Presencial",
+      "options": 14,
+      "age_mapped": 9,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2322",
+      "region": "Lambayeque",
+      "venue": "Chiclayo",
+      "mode": "Presencial",
+      "options": 14,
+      "age_mapped": 10,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2323",
+      "region": "Lima - Callao",
+      "venue": "Cañete",
+      "mode": "Presencial",
+      "options": 9,
+      "age_mapped": 9,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2324",
+      "region": "Lima - Callao",
+      "venue": "Centro de Lima",
+      "mode": "Presencial",
+      "options": 15,
+      "age_mapped": 10,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2325",
+      "region": "Lima - Callao",
+      "venue": "Centro de Lima",
+      "mode": "Remoto",
+      "options": 2,
+      "age_mapped": 1,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2326",
+      "region": "Lima - Callao",
+      "venue": "Huaura",
+      "mode": "Presencial",
+      "options": 6,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2327",
+      "region": "Lima - Callao",
+      "venue": "Huaura",
+      "mode": "Remoto",
+      "options": 4,
+      "age_mapped": 4,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2328",
+      "region": "Lima - Callao",
+      "venue": "Independencia",
+      "mode": "Presencial",
+      "options": 19,
+      "age_mapped": 14,
+      "age9_known": 2
+    },
+    {
+      "programme_id": "CP2329",
+      "region": "Lima - Callao",
+      "venue": "Independencia",
+      "mode": "Remoto",
+      "options": 3,
+      "age_mapped": 1,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2330",
+      "region": "Lima - Callao",
+      "venue": "San Juan de Lurigancho",
+      "mode": "Presencial",
+      "options": 8,
+      "age_mapped": 8,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2331",
+      "region": "Lima - Callao",
+      "venue": "San Juan de Miraflores",
+      "mode": "Presencial",
+      "options": 5,
+      "age_mapped": 4,
+      "age9_known": 2
+    },
+    {
+      "programme_id": "CP2332",
+      "region": "Lima - Callao",
+      "venue": "Surquillo",
+      "mode": "Presencial",
+      "options": 5,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2333",
+      "region": "Lima - Callao",
+      "venue": "Surquillo",
+      "mode": "Remoto",
+      "options": 4,
+      "age_mapped": 3,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2334",
+      "region": "Lima - Callao",
+      "venue": "Ventanilla",
+      "mode": "Presencial",
+      "options": 5,
+      "age_mapped": 4,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2335",
+      "region": "Lima - Callao",
+      "venue": "Villa el Salvador",
+      "mode": "Presencial",
+      "options": 8,
+      "age_mapped": 6,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2336",
+      "region": "Lima - Callao",
+      "venue": "Villa el Salvador",
+      "mode": "Remoto",
+      "options": 4,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2337",
+      "region": "Loreto",
+      "venue": "Iquitos",
+      "mode": "Presencial",
+      "options": 9,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2338",
+      "region": "Loreto",
+      "venue": "Yurimaguas",
+      "mode": "Presencial",
+      "options": 4,
+      "age_mapped": 3,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2339",
+      "region": "Moquegua",
+      "venue": "Ilo",
+      "mode": "Presencial",
+      "options": 2,
+      "age_mapped": 2,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2340",
+      "region": "Pasco",
+      "venue": "Cerro de Pasco",
+      "mode": "Remoto",
+      "options": 2,
+      "age_mapped": 0,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2341",
+      "region": "Piura",
+      "venue": "Paita",
+      "mode": "Presencial",
+      "options": 3,
+      "age_mapped": 2,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2342",
+      "region": "Piura",
+      "venue": "Sullana",
+      "mode": "Presencial",
+      "options": 8,
+      "age_mapped": 7,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2343",
+      "region": "Piura",
+      "venue": "Talara",
+      "mode": "Presencial",
+      "options": 6,
+      "age_mapped": 6,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2344",
+      "region": "Puno",
+      "venue": "Juliaca",
+      "mode": "Presencial",
+      "options": 11,
+      "age_mapped": 8,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2345",
+      "region": "Puno",
+      "venue": "Puno",
+      "mode": "Presencial",
+      "options": 15,
+      "age_mapped": 11,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2346",
+      "region": "San Martin",
+      "venue": "Moyobamba",
+      "mode": "Presencial",
+      "options": 7,
+      "age_mapped": 6,
+      "age9_known": 1
+    },
+    {
+      "programme_id": "CP2347",
+      "region": "Tacna",
+      "venue": "Tacna",
+      "mode": "Presencial",
+      "options": 6,
+      "age_mapped": 5,
+      "age9_known": 0
+    },
+    {
+      "programme_id": "CP2348",
+      "region": "Ucayali",
+      "venue": "Pucallpa",
+      "mode": "Presencial",
+      "options": 13,
+      "age_mapped": 10,
+      "age9_known": 1
+    }
+  ],
+  "senati_campus_mode_options_with_age9": 18,
+  "senati_exact_dates_confirmed": false,
+  "astra_exact_hours_confirmed": false,
+  "external_registrations_or_messages": false
+}

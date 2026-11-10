@@ -7029,6 +7029,110 @@ Condiciones: Curso continuo con horario acordado. No se confirma una sesión fec
 Fuente: https://myrobotschool.cl/cursos-de-robotica-y-programacion/gamebot/
 Se ha comprobado: 2026-11-09
 
+### C5379 · Astra Challenge 2026 · EVNANO
+
+Fecha: 2026-12-06 — 2026-12-06
+Edad: 5–7 años.
+Matvey: No por edad. Está EVKIDS.
+Oscar: Sí por la edad anunciada. Confirme documentos y plaza antes del pago.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.
+Costo: Cuota publicada de 200 PEN. Confirme el cobro por persona o equipo.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente. Incluye 2 clases preparatorias de 75 minutos con reserva hasta el 3 de diciembre. Confirme los horarios disponibles.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### C5380 · Astra Challenge 2026 · EVKIDS
+
+Fecha: 2026-12-06 — 2026-12-06
+Edad: 8–10 años.
+Matvey: Sí por la edad anunciada. Confirme documentos y plaza antes del pago.
+Oscar: Condicional. Por debajo del intervalo principal. El anuncio permite pasar a una categoría mayor, pero hay que confirmar las condiciones.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.
+Costo: Cuota publicada de 250 PEN. Confirme el cobro por persona o equipo.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente. Incluye 2 clases preparatorias de 75 minutos con reserva hasta el 3 de diciembre. Confirme los horarios disponibles.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### C5381 · Astra Challenge 2026 · EV3
+
+Fecha: 2026-12-06 — 2026-12-06
+edad: 11–15 años.
+Matvey: Condicional. Por debajo del intervalo principal. El anuncio permite pasar a una categoría mayor, pero hay que confirmar las condiciones.
+Oscar: Condicional. Por debajo del intervalo principal. El anuncio permite pasar a una categoría mayor, pero hay que confirmar las condiciones.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.
+Costo: Cuota publicada de 350 PEN. Confirme el cobro por persona o equipo.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente. Incluye 2 clases preparatorias de 75 minutos con reserva hasta el 3 de diciembre. Confirme los horarios disponibles.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### C5382 · Astra Challenge 2026 · Arduino
+
+Fecha: 2026-12-06 — 2026-12-06
+Edad: Categoría abierta. No se publica la edad exacta.
+Matvey: Condicional. Confirme edad, documentos y acceso para el proyecto elegido.
+Oscar: Condicional. Confirme edad, documentos y acceso para el proyecto elegido.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.
+Costo: Cuota publicada de 70 PEN. Confirme el cobro por persona o equipo.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### C5383 · Astra Challenge 2026 · Exposición de Proyectos Escolares
+
+Fecha: 2026-12-06 — 2026-12-06
+Edad: Proyectos escolares, confirme los grados concretos.
+Matvey: Condicional. Confirme edad, documentos y acceso para el proyecto elegido.
+Oscar: Condicional. Confirme edad, documentos y acceso para el proyecto elegido.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Inscripción hasta el 30 de noviembre de 2026 o hasta agotar plazas. El organizador pide DNI. Confirme documento extranjero, unidad de cobro, plaza y consentimiento de imagen.
+Costo: Cuota publicada de 50 PEN. Confirme el cobro por persona o equipo.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### E767 · Astra Challenge 2026 · School Projects Showcase
+
+Fecha: 2026-12-06 — 2026-12-06
+Edad: Se anuncia un formato familiar. Entrada y reglas para visitantes pendientes.
+Matvey: Se anuncia un formato familiar. Entrada y reglas para visitantes pendientes.
+Oscar: Se anuncia un formato familiar. Entrada y reglas para visitantes pendientes.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: Se anuncia un formato familiar. Entrada y reglas para visitantes pendientes.
+Costo: La tarifa del visitante no está publicada. La cuota de exhibición escolar corresponde al participante.
+Condiciones: Se publicó el 6 de diciembre de 2026. El horario de cada categoría sigue pendiente.
+Fuente: https://www.astranautas.com/astra-challenge-2026.php
+Se ha comprobado: 2026-11-09
+
+### L964 · SENATI · Vacaciones Tecnológicas 2027 · Perú
+
+Fecha: El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+Edad: El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día.
+Matvey: A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+Oscar: A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+Costo: No se publica el precio de la sede y el módulo.
+Condiciones: El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+Fuente: https://vacacionesensenati.com/
+Se ha comprobado: 2026-11-09
+
+### L965 · SENATI · Vacaciones Tecnológicas 2027 · Arequipa
+
+Fecha: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+Edad: El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día.
+Matvey: A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+Oscar: A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Acceso: El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+Costo: En la presentación de Arequipa se anunció un descuento del 20% hasta el 15 de diciembre. Precio base y aplicación al módulo pendientes.
+Condiciones: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+Fuente: https://vacacionesensenati.com/
+Se ha comprobado: 2026-11-09
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

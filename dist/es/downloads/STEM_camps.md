@@ -14198,6 +14198,38 @@ Condiciones: Sin inscripción directa. La preparación requiere invitación por 
 Fuente: https://www.lcclcoding.com/faq
 Se ha comprobado: 2026-11-09
 
+### L964 · SENATI · Vacaciones Tecnológicas 2027 · Perú
+
+Lugar: Perú · Perú
+Fecha: El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+Edad: El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día.
+Matvey: A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+Oscar: A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+formato: day_or_online
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se publica el precio de la sede y el módulo.
+Acceso: El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+Condiciones: El anuncio indica el 4 de enero sin una sede concreta y las preguntas antiguas mencionan 2026. Confirme fechas, horario y precio del módulo.
+Fuente: https://vacacionesensenati.com/
+Se ha comprobado: 2026-11-09
+
+### L965 · SENATI · Vacaciones Tecnológicas 2027 · Arequipa
+
+Lugar: Perú · Arequipa · Parque Industrial / Mall Aventura Porongoche
+Fecha: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+Edad: El anuncio general indica 7–16 años. Cada módulo tiene sus límites y la sede confirma la edad al primer día.
+Matvey: A los 9 años encaja en el intervalo general. Los módulos locales pueden tener condiciones más estrictas, así que confirme el curso.
+Oscar: A los 6 años queda por debajo del mínimo general de 7. Si cumple 7 antes de empezar, confirme el acceso al módulo concreto.
+Formato: day_camp
+Idioma: La información y las bases están en español. Confirme el idioma de enseñanza o arbitraje del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: En la presentación de Arequipa se anunció un descuento del 20% hasta el 15 de diciembre. Precio base y aplicación al módulo pendientes.
+Acceso: El formulario pide DNI o Carnet de extranjería. Confirme el procedimiento para pasaporte extranjero y acceso remoto desde otro país.
+Condiciones: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
+Fuente: https://vacacionesensenati.com/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
