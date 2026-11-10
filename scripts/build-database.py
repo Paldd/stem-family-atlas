@@ -103,7 +103,8 @@ current_audits = [
                  'mexico-creative-tech-bali-qualifier-audit-v361.json',
                  'japan-robotics-winter-and-maker-visits-audit-v362.json',
                  'latam-summer-iaitc-and-first-japan-visits-audit-v363.json',
-                 'dream-and-museum-learning-audit-v365.json')
+                 'dream-and-museum-learning-audit-v365.json',
+                 'national-robotics-and-yuntech-winter-audit-v366.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}
@@ -945,6 +946,8 @@ for e in d['events']:
         if e.get('date_scope')=='session_days':
             competition=e['block']=='Соревнования'
             session_title=('[Соревнование] ' if competition else '[Учебный день] ')+e['title']
+            if e['date_status']=='Анонсировано':
+                session_title='[Анонс · проведение уточнить] '+session_title
             session_label='Раунд' if competition else 'Занятие'
             for key, session in zip(session_keys(e['id'], e['sessions']), e['sessions']):
                 if session['date']<d['asof']:continue

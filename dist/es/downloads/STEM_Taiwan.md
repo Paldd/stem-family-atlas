@@ -4058,6 +4058,110 @@ Limitaciones: Matvey: Grupo para escolares de cursos superiores. Reconsiderarlo 
 Fuente: https://www.ytlee.org.tw/activity/2692
 Se ha comprobado: 2026-11-08
 
+### CP2404-20270125-20270129 · YunTech · City Rescue Robotics · City Rescue Robotics · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Grados 2–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 3200 TWD de matrícula y 1300 TWD de materiales obligatorios. Total 4500 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/75BziB4nu8SrEPW2
+Verificado: 2026-11-10
+
+### CP2405-20270125-20270129 · YunTech · Super Power Spinning Science · Super Power Spinning Science · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Grados 1–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: Condicional. Confirme equivalencia escolar y apertura del grupo. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/C81Zi6dPX4mW6RIa
+Verificado: 2026-11-10
+
+### CP2406-20270125-20270129 · YunTech · Voice-Controlled AI Robot Dog · Voice-Controlled AI Robot Dog · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Grados 2–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/64azI8FPX9mh9gm2
+Verificado: 2026-11-10
+
+### CP2407-20270125-20270129 · YunTech · AI Story and Animation Lab · AI Story and Animation Lab · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Grados 5–8 según el programa. Confirme equivalencia escolar.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: No cumple el nivel escolar de esta categoría. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/E5cZID0ss2rm4hTd
+Verificado: 2026-11-10
+
+### CP2408-20270125-20270129 · YunTech · Python and AI 2D Game Design · Python and AI 2D Game Design · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Alumnos que ingresarán en grados 5–6 y alumnos de secundaria básica. Confirme equivalencia del nivel.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: No cumple el nivel escolar de esta categoría. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/7EaZi54SS6RXERz2
+Verificado: 2026-11-10
+
+### CP2409-20270201-20270203 · YunTech · Bilingual Math Reasoning · Bilingual Math Reasoning · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grados 2–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 1920 TWD por curso. La ficha no indica un cargo separado por materiales. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/5D5zI4aSQByS5rt1
+Verificado: 2026-11-10
+
+### CP2410-20270201-20270203 · YunTech · Kitchen Science Lab · Kitchen Science Lab · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grados 1–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 1920 TWD de matrícula y 750 TWD de materiales obligatorios. Total 2670 TWD por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: Condicional. Confirme equivalencia escolar y apertura del grupo. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/86bzI08Nu5nGbmzA
+Verificado: 2026-11-10
+
+### CP2411-20270121-20270122 · YunTech · Carcassonne Strategy and Logic · Carcassonne Strategy and Logic · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+Edad: Grados 2–6 según el programa. Confirme equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+Acceso: Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+Coste: 2027 · 1500 TWD por curso. La ficha no indica un cargo separado por materiales. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del grupo. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD. Pago: La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+Fuente: https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5
+Verificado: 2026-11-10
+
 ## ~ Comprobar de nuevo
 
 - The Grove: edad de ambos niños, acogida y apoyo extranjeros sin necesidad de chino.

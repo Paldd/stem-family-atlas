@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2403 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2411 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -156044,7 +156044,7 @@ México · Online
 
 Kenia · 09 Kiambere Road · Upperhill, Nairobi
 
-**Se ha comprobado:** 2026-11-08
+**Verificado:** 2026-11-10
 
 **edad:** Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
 
@@ -156188,9 +156188,9 @@ Kenia · 09 Kiambere Road · Upperhill, Nairobi
 
 ### Fuentes
 
-- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp) · 2026-11-08
+- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp) · 2026-11-10
 
-- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register) · 2026-11-08
+- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register) · 2026-11-10
 
 ## CP1921 · Talanta Tech Kids · Junior Innovators
 
@@ -188749,6 +188749,536 @@ EE. UU. · Oklahoma City · Adventure District
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://www.sciencemuseumok.org/camps/) · 2026-11-10
+
+## CP2404 · YunTech · City Rescue Robotics
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Sensores, engranajes y programas sencillos para misiones de rescate. Montaje y pruebas de un modelo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, 09:00–12:00. Hasta 30 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 3200 TWD de matrícula y 1300 TWD de materiales obligatorios. Total 4500 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Sensores, engranajes y programas sencillos para misiones de rescate. Montaje y pruebas de un modelo.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### City Rescue Robotics
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 3200 TWD de matrícula y 1300 TWD de materiales obligatorios. Total 4500 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · City Rescue Robotics
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · City Rescue Robotics
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · City Rescue Robotics
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · City Rescue Robotics
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · City Rescue Robotics
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/75BziB4nu8SrEPW2)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/75BziB4nu8SrEPW2) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2405 · YunTech · Super Power Spinning Science
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 1–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Experimentos de rotación, equilibrio y transferencia de energía. Montaje de una diana giratoria.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, 09:00–12:00. Hasta 30 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Motivo de selección:** Experimentos de rotación, equilibrio y transferencia de energía. Montaje de una diana giratoria.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Super Power Spinning Science
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Edad:** Grados 1–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · Super Power Spinning Science
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · Super Power Spinning Science
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · Super Power Spinning Science
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · Super Power Spinning Science
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · Super Power Spinning Science
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/C81Zi6dPX4mW6RIa)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/C81Zi6dPX4mW6RIa) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2406 · YunTech · Voice-Controlled AI Robot Dog
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Perro robótico controlado por voz. Sensores de sonido, motores, lógica y montaje del mecanismo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, 13:30–16:30. Hasta 30 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Perro robótico controlado por voz. Sensores de sonido, motores, lógica y montaje del mecanismo.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Voice-Controlled AI Robot Dog
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 3200 TWD de matrícula y 900 TWD de materiales obligatorios. Total 4100 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-25 · 13:30–16:30 · Asia/Taipei · Voice-Controlled AI Robot Dog
+
+- 2027-01-26 · 13:30–16:30 · Asia/Taipei · Voice-Controlled AI Robot Dog
+
+- 2027-01-27 · 13:30–16:30 · Asia/Taipei · Voice-Controlled AI Robot Dog
+
+- 2027-01-28 · 13:30–16:30 · Asia/Taipei · Voice-Controlled AI Robot Dog
+
+- 2027-01-29 · 13:30–16:30 · Asia/Taipei · Voice-Controlled AI Robot Dog
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/64azI8FPX9mh9gm2)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/64azI8FPX9mh9gm2) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2407 · YunTech · AI Story and Animation Lab
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 5–8 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Creación de personajes, escenas, ilustraciones y animación con herramientas de IA generativa.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, 13:30–16:30. Hasta 25 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** No cumple el nivel escolar de esta categoría.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Creación de personajes, escenas, ilustraciones y animación con herramientas de IA generativa.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### AI Story and Animation Lab
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Edad:** Grados 5–8 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-25 · 13:30–16:30 · Asia/Taipei · AI Story and Animation Lab
+
+- 2027-01-26 · 13:30–16:30 · Asia/Taipei · AI Story and Animation Lab
+
+- 2027-01-27 · 13:30–16:30 · Asia/Taipei · AI Story and Animation Lab
+
+- 2027-01-28 · 13:30–16:30 · Asia/Taipei · AI Story and Animation Lab
+
+- 2027-01-29 · 13:30–16:30 · Asia/Taipei · AI Story and Animation Lab
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/E5cZID0ss2rm4hTd)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/E5cZID0ss2rm4hTd) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2408 · YunTech · Python and AI 2D Game Design
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Alumnos que ingresarán en grados 5–6 y alumnos de secundaria básica. Confirme equivalencia del nivel.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Diseño de un juego 2D en Python con asistencia de IA. Lógica de juego, controles y prototipo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-25–2027-01-29, 09:00–12:00. Hasta 25 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** No cumple el nivel escolar de esta categoría.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Diseño de un juego 2D en Python con asistencia de IA. Lógica de juego, controles y prototipo.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Python and AI 2D Game Design
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Edad:** Alumnos que ingresarán en grados 5–6 y alumnos de secundaria básica. Confirme equivalencia del nivel.
+
+**Precio:** 3200 TWD de matrícula y 400 TWD de materiales obligatorios. Total 3600 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-25 · 09:00–12:00 · Asia/Taipei · Python and AI 2D Game Design
+
+- 2027-01-26 · 09:00–12:00 · Asia/Taipei · Python and AI 2D Game Design
+
+- 2027-01-27 · 09:00–12:00 · Asia/Taipei · Python and AI 2D Game Design
+
+- 2027-01-28 · 09:00–12:00 · Asia/Taipei · Python and AI 2D Game Design
+
+- 2027-01-29 · 09:00–12:00 · Asia/Taipei · Python and AI 2D Game Design
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/7EaZi54SS6RXERz2)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/7EaZi54SS6RXERz2) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2409 · YunTech · Bilingual Math Reasoning
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Juegos de cálculo, geometría, estrategia y deducción. El curso se anuncia como bilingüe sin especificar la pareja de idiomas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, 13:30–16:30. Hasta 20 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 1920 TWD por curso. La ficha no indica un cargo separado por materiales.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Juegos de cálculo, geometría, estrategia y deducción. El curso se anuncia como bilingüe sin especificar la pareja de idiomas.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Bilingual Math Reasoning
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 1920 TWD por curso. La ficha no indica un cargo separado por materiales.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-02-01 · 13:30–16:30 · Asia/Taipei · Bilingual Math Reasoning
+
+- 2027-02-02 · 13:30–16:30 · Asia/Taipei · Bilingual Math Reasoning
+
+- 2027-02-03 · 13:30–16:30 · Asia/Taipei · Bilingual Math Reasoning
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/5D5zI4aSQByS5rt1)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/5D5zI4aSQByS5rt1) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2410 · YunTech · Kitchen Science Lab
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 1–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Experimentos de transferencia de calor, fermentación y propiedades de materiales alimentarios.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-02-01–2027-02-03, 09:00–12:00. Hasta 30 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 1920 TWD de matrícula y 750 TWD de materiales obligatorios. Total 2670 TWD por niño.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Motivo de selección:** Experimentos de transferencia de calor, fermentación y propiedades de materiales alimentarios.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Kitchen Science Lab
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**Edad:** Grados 1–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 1920 TWD de matrícula y 750 TWD de materiales obligatorios. Total 2670 TWD por niño.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-02-01 · 09:00–12:00 · Asia/Taipei · Kitchen Science Lab
+
+- 2027-02-02 · 09:00–12:00 · Asia/Taipei · Kitchen Science Lab
+
+- 2027-02-03 · 09:00–12:00 · Asia/Taipei · Kitchen Science Lab
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/86bzI08Nu5nGbmzA)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/86bzI08Nu5nGbmzA) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2411 · YunTech · Carcassonne Strategy and Logic
+
+Taiwán · Douliu · YunTech Extension Education Center
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Idioma:** Ficha en chino. Confirme el idioma de enseñanza y el apoyo en inglés o español.
+
+**Programa:** Estrategia de mesa. Razonamiento espacial, planificación y lógica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 2027-01-21–2027-01-22, 13:30–16:30. Hasta 10 plazas. Apertura del grupo pendiente de confirmación.
+
+**Precio / año:** 2027 · 1500 TWD por curso. La ficha no indica un cargo separado por materiales.
+
+**Incluye:** Consulte al organizador.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Pago:** La ficha universitaria recoge las condiciones de devolución. Antes de empezar normalmente se devuelve el 90% de la cuota pagada.
+
+**Matvey:** Condicional. Confirme equivalencia escolar y apertura del grupo.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Estrategia de mesa. Razonamiento espacial, planificación y lógica.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- Puede aplicarse descuento por inscribir a dos participantes. No se anuncia descuento para materiales obligatorios.
+
+### Carcassonne Strategy and Logic
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**Edad:** Grados 2–6 según el programa. Confirme equivalencia escolar.
+
+**Precio:** 1500 TWD por curso. La ficha no indica un cargo separado por materiales.
+
+**Suplementos:** Almuerzo excluido. Quienes permanezcan todo el día pueden pedir almuerzo por 100 TWD.
+
+**Condiciones de participación:** Solicitud hasta el 15 de enero de 2027. La universidad indica el mismo día para decidir si abre el grupo. Confirme admisión, equivalencia escolar y acceso de alumnos extranjeros.
+
+- 2027-01-21 · 13:30–16:30 · Asia/Taipei · Carcassonne Strategy and Logic
+
+- 2027-01-22 · 13:30–16:30 · Asia/Taipei · Carcassonne Strategy and Logic
+
+**Disponibilidad:** Se aceptan solicitudes. La apertura del grupo sigue pendiente de confirmación.
+
+[fuente](https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

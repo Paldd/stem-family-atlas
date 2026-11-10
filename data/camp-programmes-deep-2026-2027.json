@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2403,
+    "dossiers": 2411,
     "countries": 141,
     "swiss": 163,
     "by_status": {
       "published_2026_27": 341,
       "published_2027": 674,
-      "partial_2027": 168,
+      "partial_2027": 176,
       "next_unannounced": 488,
       "published_2026": 441,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3322
+    "source_urls": 3331
   },
   "countries": [
     {
@@ -500,7 +500,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 197
+      "count": 205
     },
     {
       "country": "Тринидад и Тобаго",
@@ -295761,15 +295761,15 @@
         {
           "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
           "title": "Страница организатора или регламент категории.",
-          "checked": "2026-11-08"
+          "checked": "2026-11-10"
         },
         {
           "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
           "title": "Страница организатора или регламент категории.",
-          "checked": "2026-11-08"
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-08",
+      "checked": "2026-11-10",
       "themes": [
         "robotics",
         "coding",
@@ -295778,7 +295778,12 @@
       ],
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
-      "related_event_ids": []
+      "related_event_ids": [],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "На главной странице лагеря указаны 13 свободных мест суммарно. Наличие мест на выбранную неделю для двоих уточнить."
+      }
     },
     {
       "id": "CP1921",
@@ -366843,6 +366848,1092 @@
         }
       ],
       "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2404",
+      "slug": "yuntech-winter-2027-robot",
+      "provider": "YunTech · City Rescue Robotics",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Датчики, шестерни и простые программы для спасательных задач. Сборка и испытание модели.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "City Rescue Robotics",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/75BziB4nu8SrEPW2",
+            "price": "3200 TWD обучение и 1300 TWD обязательные материалы. Всего 4500 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z",
+                "topic": "City Rescue Robotics"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z",
+                "topic": "City Rescue Robotics"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z",
+                "topic": "City Rescue Robotics"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z",
+                "topic": "City Rescue Robotics"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z",
+                "topic": "City Rescue Robotics"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-25–2027-01-29, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 4500,
+        "unit": "per_child_course",
+        "label": "3200 TWD обучение и 1300 TWD обязательные материалы. Всего 4500 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Датчики, шестерни и простые программы для спасательных задач. Сборка и испытание модели.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/75BziB4nu8SrEPW2",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2405",
+      "slug": "yuntech-winter-2027-spin",
+      "provider": "YunTech · Super Power Spinning Science",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "1–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Опыты с вращением, равновесием и передачей энергии. Сборка вращающейся мишени.",
+      "themes": [
+        "science",
+        "engineering",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Super Power Spinning Science",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/C81Zi6dPX4mW6RIa",
+            "price": "3200 TWD обучение и 900 TWD обязательные материалы. Всего 4100 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "1–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z",
+                "topic": "Super Power Spinning Science"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z",
+                "topic": "Super Power Spinning Science"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z",
+                "topic": "Super Power Spinning Science"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z",
+                "topic": "Super Power Spinning Science"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z",
+                "topic": "Super Power Spinning Science"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-25–2027-01-29, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 4100,
+        "unit": "per_child_course",
+        "label": "3200 TWD обучение и 900 TWD обязательные материалы. Всего 4100 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        }
+      },
+      "editorial_reason": "Опыты с вращением, равновесием и передачей энергии. Сборка вращающейся мишени.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/C81Zi6dPX4mW6RIa",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2406",
+      "slug": "yuntech-winter-2027-ai-dog",
+      "provider": "YunTech · Voice-Controlled AI Robot Dog",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Робот-собака с управлением голосом. Звуковые датчики, моторы, логика и сборка механизма.",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-25–2027-01-29, 13:30–16:30. До 30 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Voice-Controlled AI Robot Dog",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/64azI8FPX9mh9gm2",
+            "price": "3200 TWD обучение и 900 TWD обязательные материалы. Всего 4100 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T05:30:00Z",
+                "end_utc": "2027-01-25T08:30:00Z",
+                "topic": "Voice-Controlled AI Robot Dog"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T05:30:00Z",
+                "end_utc": "2027-01-26T08:30:00Z",
+                "topic": "Voice-Controlled AI Robot Dog"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T05:30:00Z",
+                "end_utc": "2027-01-27T08:30:00Z",
+                "topic": "Voice-Controlled AI Robot Dog"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T05:30:00Z",
+                "end_utc": "2027-01-28T08:30:00Z",
+                "topic": "Voice-Controlled AI Robot Dog"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T05:30:00Z",
+                "end_utc": "2027-01-29T08:30:00Z",
+                "topic": "Voice-Controlled AI Robot Dog"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-25–2027-01-29, 13:30–16:30. До 30 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 4100,
+        "unit": "per_child_course",
+        "label": "3200 TWD обучение и 900 TWD обязательные материалы. Всего 4100 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Робот-собака с управлением голосом. Звуковые датчики, моторы, логика и сборка механизма.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/64azI8FPX9mh9gm2",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2407",
+      "slug": "yuntech-winter-2027-ai-story",
+      "provider": "YunTech · AI Story and Animation Lab",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "5–8 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Создание персонажей, сцен, иллюстраций и анимации с инструментами генеративного ИИ.",
+      "themes": [
+        "ai",
+        "art",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-25–2027-01-29, 13:30–16:30. До 25 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "AI Story and Animation Lab",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/E5cZID0ss2rm4hTd",
+            "price": "3200 TWD обучение и 400 TWD обязательные материалы. Всего 3600 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "5–8 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T05:30:00Z",
+                "end_utc": "2027-01-25T08:30:00Z",
+                "topic": "AI Story and Animation Lab"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T05:30:00Z",
+                "end_utc": "2027-01-26T08:30:00Z",
+                "topic": "AI Story and Animation Lab"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T05:30:00Z",
+                "end_utc": "2027-01-27T08:30:00Z",
+                "topic": "AI Story and Animation Lab"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T05:30:00Z",
+                "end_utc": "2027-01-28T08:30:00Z",
+                "topic": "AI Story and Animation Lab"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T05:30:00Z",
+                "end_utc": "2027-01-29T08:30:00Z",
+                "topic": "AI Story and Animation Lab"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-25–2027-01-29, 13:30–16:30. До 25 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 3600,
+        "unit": "per_child_course",
+        "label": "3200 TWD обучение и 400 TWD обязательные материалы. Всего 3600 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Создание персонажей, сцен, иллюстраций и анимации с инструментами генеративного ИИ.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/E5cZID0ss2rm4hTd",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2408",
+      "slug": "yuntech-winter-2027-ai-game",
+      "provider": "YunTech · Python and AI 2D Game Design",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "Учащиеся, переходящие в 5–6 класс, и учащиеся средней школы. Подтвердить эквивалент ступени.",
+      "programme": "Проектирование 2D-игры на Python с помощью ИИ. Игровая логика, управление и прототип.",
+      "themes": [
+        "ai",
+        "games",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-25–2027-01-29, 09:00–12:00. До 25 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Python and AI 2D Game Design",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/7EaZi54SS6RXERz2",
+            "price": "3200 TWD обучение и 400 TWD обязательные материалы. Всего 3600 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "Учащиеся, переходящие в 5–6 класс, и учащиеся средней школы. Подтвердить эквивалент ступени.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z",
+                "topic": "Python and AI 2D Game Design"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z",
+                "topic": "Python and AI 2D Game Design"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z",
+                "topic": "Python and AI 2D Game Design"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z",
+                "topic": "Python and AI 2D Game Design"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z",
+                "topic": "Python and AI 2D Game Design"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-25–2027-01-29, 09:00–12:00. До 25 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 3600,
+        "unit": "per_child_course",
+        "label": "3200 TWD обучение и 400 TWD обязательные материалы. Всего 3600 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Проектирование 2D-игры на Python с помощью ИИ. Игровая логика, управление и прототип.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/7EaZi54SS6RXERz2",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2409",
+      "slug": "yuntech-winter-2027-math",
+      "provider": "YunTech · Bilingual Math Reasoning",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Игры на счёт, геометрию, стратегию и логический вывод. Курс заявлен как двуязычный, конкретные языки не названы.",
+      "themes": [
+        "science",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-02-01–2027-02-03, 13:30–16:30. До 20 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Bilingual Math Reasoning",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/5D5zI4aSQByS5rt1",
+            "price": "1920 TWD за курс. Отдельный сбор за материалы в карточке не указан.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T05:30:00Z",
+                "end_utc": "2027-02-01T08:30:00Z",
+                "topic": "Bilingual Math Reasoning"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T05:30:00Z",
+                "end_utc": "2027-02-02T08:30:00Z",
+                "topic": "Bilingual Math Reasoning"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T05:30:00Z",
+                "end_utc": "2027-02-03T08:30:00Z",
+                "topic": "Bilingual Math Reasoning"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-02-01–2027-02-03, 13:30–16:30. До 20 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 1920,
+        "unit": "per_child_course",
+        "label": "1920 TWD за курс. Отдельный сбор за материалы в карточке не указан.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Игры на счёт, геометрию, стратегию и логический вывод. Курс заявлен как двуязычный, конкретные языки не названы.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/5D5zI4aSQByS5rt1",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2410",
+      "slug": "yuntech-winter-2027-kitchen",
+      "provider": "YunTech · Kitchen Science Lab",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "1–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Эксперименты с теплопередачей, брожением и свойствами пищевых материалов.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-02-01–2027-02-03, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "label": "Kitchen Science Lab",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/86bzI08Nu5nGbmzA",
+            "price": "1920 TWD обучение и 750 TWD обязательные материалы. Всего 2670 TWD за ребёнка.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "1–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T04:00:00Z",
+                "topic": "Kitchen Science Lab"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T04:00:00Z",
+                "topic": "Kitchen Science Lab"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T01:00:00Z",
+                "end_utc": "2027-02-03T04:00:00Z",
+                "topic": "Kitchen Science Lab"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-02-01–2027-02-03, 09:00–12:00. До 30 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 2670,
+        "unit": "per_child_course",
+        "label": "1920 TWD обучение и 750 TWD обязательные материалы. Всего 2670 TWD за ребёнка.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        }
+      },
+      "editorial_reason": "Эксперименты с теплопередачей, брожением и свойствами пищевых материалов.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/86bzI08Nu5nGbmzA",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "CP2411",
+      "slug": "yuntech-winter-2027-carcassonne",
+      "provider": "YunTech · Carcassonne Strategy and Logic",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Douliu · YunTech Extension Education Center",
+      "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+      "programme": "Настольная стратегия. Пространственное мышление, планирование и логика.",
+      "themes": [
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Карточка на китайском. Язык преподавания и помощь на английском или испанском требуют подтверждения.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "2027-01-21–2027-01-22, 13:30–16:30. До 10 мест. Открытие группы пока не подтверждено.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Carcassonne Strategy and Logic",
+            "source": "https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5",
+            "price": "1500 TWD за курс. Отдельный сбор за материалы в карточке не указан.",
+            "entry": "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+            "age": "2–6 классы по программе. Подтвердить эквивалент школьного класса.",
+            "date_scope": "session_days",
+            "date_status": "Анонсировано",
+            "deadline": "2027-01-15",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T05:30:00Z",
+                "end_utc": "2027-01-21T08:30:00Z",
+                "topic": "Carcassonne Strategy and Logic"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "13:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T05:30:00Z",
+                "end_utc": "2027-01-22T08:30:00Z",
+                "topic": "Carcassonne Strategy and Logic"
+              }
+            ],
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Заявки принимают. Открытие группы пока не подтверждено."
+            },
+            "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+            "date_precision": "announced_window",
+            "date_rule": "2027-01-21–2027-01-22, 13:30–16:30. До 10 мест. Открытие группы пока не подтверждено."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 1500,
+        "unit": "per_child_course",
+        "label": "1500 TWD за курс. Отдельный сбор за материалы в карточке не указан.",
+        "included": "Уточнить у организатора.",
+        "extras": "Обед не включён. Для тех, кто остаётся на полный день, возможен заказ обеда за 100 TWD.",
+        "deposit": "Условия возврата указаны в карточке университета. До старта курса обычно возвращают 90% оплаченного взноса."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент школьного класса и открытие группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Настольная стратегия. Пространственное мышление, планирование и логика.",
+      "shortlist": [],
+      "questions": [
+        "Подача до 15 января 2027. Университет указывает тот же день для решения об открытии группы. Подтвердить зачисление, эквивалент класса и допуск иностранного ребёнка.",
+        "Групповая скидка при записи двоих возможна. Скидку на обязательные материалы отдельно не обещают."
+      ],
+      "sources": [
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://anxanx.yuntech.edu.tw/course-list",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10"
     }
   ],
   "gaps": [
@@ -385403,7 +386494,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2403,
+      "total_dossiers": 2411,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

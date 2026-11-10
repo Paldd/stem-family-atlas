@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12187. Competiciones: 5478. Eventos: 811. Campamentos o programas: 5898. Perfiles de ligas y programas: 350. Grandes exposiciones y exposiciones especializadas: 705. Se cuentan ediciones y sedes.
+Fichas en la base: 12217. Competiciones: 5499. Eventos: 812. Campamentos o programas: 5906. Perfiles de ligas y programas: 353. Grandes exposiciones y exposiciones especializadas: 706. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -17,13 +17,13 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 | Norteamérica | 41 | 2233 | 187 | 1466 |
 | América del Sur | 15 | 498 | 61 | 292 |
 | Europa | 55 | 795 | 176 | 1709 |
-| África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1248 | 195 | 1845 |
+| África | 61 | 285 | 47 | 156 |
+| Asia | 51 | 1265 | 195 | 1853 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX: 821 de 5478 fichas de competiciones (15.0%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5499 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
 
 ## Lo que queda
 
@@ -390,6 +390,9 @@ VEX: 821 de 5478 fichas de competiciones (15.0%). La cobertura tiene un sesgo cl
 - **Tournoi National de Robotique de Nîmes**: 1 ficha, 1 con fechas futuras exactas. Hay perfil y ficha, con cobertura local parcial. https://robot-sumo.fr/
 - **International Artificial Intelligence Team Contest**: 5 fichas, 4 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://iaitc-official.org/
 - **RoboThink DREAM**: 3 fichas, 3 con fechas futuras. Incluye perfil y fichas. Cobertura local parcial. https://dreamchallenge.io/
+- **National Robotics Championship Bangladesh**: 13 fichas, 13 con fechas futuras confirmadas. Incluye perfil y fichas. Cobertura local parcial. https://www.nationalroboticschampionship.org/rulebooks/general-rules.md
+- **Junior Labs National Innovation Cup**: 4 fichas, 0 con fechas futuras confirmadas. Incluye perfil y fichas. Cobertura local parcial. https://juniorlabs.in/innovation-cup
+- **Uganda National STEM & Robotics Championship**: 4 fichas, 0 con fechas futuras confirmadas. Incluye perfil y fichas. Cobertura local parcial. https://asist.ac.ug/events/national-championship-2026
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1137,6 +1140,7 @@ VEX: 821 de 5478 fichas de competiciones (15.0%). La cobertura tiene un sesgo cl
 - **FIRST Japan · FLL Explore BIOGLOW · Kyushu · public** — Japón; 2026-12-06. Con un adulto. Consulte las condiciones de entrada del adulto. https://firstjapan.jp/events/fll-explore-2026-2027/
 - **Robotic Minds Quito 2027 · exhibición de finalistas** — Ecuador; 2027-01-22 – 2027-01-23. Confirme el acceso de menores. https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
 - **CERN Science Gateway · Discover CERN / Quantum World** — Suiza. Visita permanente. Los menores van acompañados y el acceso requiere registro. https://visit.cern/exhibitions
+- **ASIST Uganda National Championship 2026 · innovation exhibition** — Uganda. 2026-11-06 – 2026-11-07. Acceso de menores por confirmar. https://asist.ac.ug/events/national-championship-2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -71,6 +71,8 @@ def localize_calendar(source, original, translated):
                     prefix = '[Período de campamento diurno · lun–vie] ' if e.get('attendance_weekdays') else '[Período de campamento diurno · confirmar horario] '
                 else:
                     prefix = PREFIXES.get(e.get('date_scope'), '[Idea] ')
+                if not deadline and ru['date_status'] == 'Анонсировано':
+                    prefix = '[Anuncio · confirmar realización] ' + prefix
                 title = prefix + e['title']
                 description = f"Idea para planificar; no es una inscripción aceptada. ID {e['id']}. {session_note}. Matvey: {e['mat']}; Oscar: {e['osc']}. Cómo participar: {e['entry']}. Próximo paso: {e['action']}. {e['note']}. {e.get('deadline_note', '')}. {e.get('registration_status', '')}. Fuente verificada el {e['checked']}."
             replacements = {'SUMMARY': title, 'DESCRIPTION': description, 'LOCATION': e['city'] + ', ' + e['country']}

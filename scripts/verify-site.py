@@ -136,6 +136,8 @@ for event in web['events']:
             assert session[instant] == expected, (event['id'], session['date'], instant)
         uid = 'stem-' + key + '@family-stem.local'
         if uid in calendar_rows:
+            if event['date_status']=='Анонсировано':
+                assert 'SUMMARY:[Анонс · проведение уточнить]' in calendar_rows[uid], uid
             for property_name, field in [('DTSTART', 'start_utc'), ('DTEND', 'end_utc')]:
                 value = session[field].replace('-', '').replace(':', '')
                 assert property_name + ':' + value in calendar_rows[uid], (uid, property_name)

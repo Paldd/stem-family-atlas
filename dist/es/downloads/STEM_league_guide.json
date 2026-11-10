@@ -29438,6 +29438,415 @@
         "evidence": "Se comprobó la ficha oficial del programa."
       },
       {
+        "id": "nrc-bangladesh",
+        "name": "National Robotics Championship Bangladesh",
+        "group": "regional",
+        "age_summary": "Categorías escolares, abiertas y universitarias. No se publicó la edad mínima exacta para escolares.",
+        "age_tags": [],
+        "summary": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+        "categories": [
+          {
+            "name": "NRC Bangladesh 2026 · Robo Soccer",
+            "age": "Estudiantes de escuela, colegio, universidad o instituto pertinente. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5480",
+            "source": "https://www.nationalroboticschampionship.org/segments/robo-soccer.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Mini Soccer",
+            "age": "Estudiantes de escuela, colegio, universidad o instituto pertinente. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot de hasta 300 × 200 × 150 mm y 800 g, tolerancia del 1%. Hasta 16 V, motores TT y control manual inalámbrico.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5481",
+            "source": "https://www.nationalroboticschampionship.org/segments/mini-soccer.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Line Following Robot",
+            "age": "Estudiantes de escuela, colegio, universidad o instituto pertinente. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot de hasta 250 × 250 mm, 1000 g y 12 V. Funcionamiento autónomo sin control inalámbrico. Se prohíben robots y placas de competición prefabricados.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5482",
+            "source": "https://www.nationalroboticschampionship.org/segments/line-following-robot.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · BattleBot",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5483",
+            "source": "https://www.nationalroboticschampionship.org/segments/battlebot.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Nano BattleBot",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5484",
+            "source": "https://www.nationalroboticschampionship.org/segments/nano-battlebot.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Drone Racing",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5485",
+            "source": "https://www.nationalroboticschampionship.org/segments/drone-racing.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · RC Car Racing",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5486",
+            "source": "https://www.nationalroboticschampionship.org/segments/rc-car-racing.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Sumo Bot",
+            "age": "Estudiantes de escuela, colegio, universidad o instituto pertinente. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5487",
+            "source": "https://www.nationalroboticschampionship.org/segments/sumo-bot.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Senior Project Showcase",
+            "age": "Solo estudiantes de universidad o politécnico.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5488",
+            "source": "https://www.nationalroboticschampionship.org/segments/senior-project-showcase.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Junior Project Showcase",
+            "age": "Solo estudiantes de escuela, colegio o madraza. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Proyecto propio funcional. Una base prefabricada exige modificaciones sustanciales. El equipo lleva portátil, herramientas y alargador. La organización aporta 1 toma.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5489",
+            "source": "https://www.nationalroboticschampionship.org/segments/junior-project-showcase.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Poster Presentation",
+            "age": "Estudiantes de escuela, colegio o universidad. No se indica edad mínima.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Póster propio de hasta 1000 × 1000 mm y preguntas del jurado.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5490",
+            "source": "https://www.nationalroboticschampionship.org/segments/poster-presentation.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · RC Boat Racing",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5491",
+            "source": "https://www.nationalroboticschampionship.org/segments/rc-boat-racing.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "NRC Bangladesh 2026 · Underwater Robot Challenge",
+            "age": "Categoría abierta sin requisito de centro educativo. Confirme la edad admisible.",
+            "team": "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo.",
+            "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+            "entry": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+            "event_id": "C5492",
+            "source": "https://www.nationalroboticschampionship.org/segments/underwater-robot-challenge.html",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5480",
+          "C5481",
+          "C5482",
+          "C5483",
+          "C5484",
+          "C5485",
+          "C5486",
+          "C5487",
+          "C5488",
+          "C5489",
+          "C5490",
+          "C5491",
+          "C5492"
+        ],
+        "legacy_ids": [],
+        "route": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+        "hardware": "Robot y equipo propios según el reglamento de la prueba.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "Se anuncian 500000 BDT para el torneo. La tabla de 13 pruebas distribuye 490000 BDT. Los importes por puesto están por confirmar.",
+        "strengths": "Selección de prueba y solicitud en el sitio. Las categorías escolares pueden exigir constancia de estudios. Confirme el acceso de equipos extranjeros, el plazo y las plazas.",
+        "requirements": [
+          "Hasta 8 por equipo. La tarifa base cubre hasta 3 participantes, cada integrante adicional cuesta 750 BDT. Confirme el mínimo del equipo."
+        ],
+        "nuances": [
+          "No se publicó el horario por prueba. La cuota normalmente no es reembolsable. Si se cancela la prueba se prevé devolución. Las condiciones permiten grabar y publicar material del evento."
+        ],
+        "cost": "2200–4000 BDT por equipo de hasta 3 integrantes.",
+        "award": "Se anuncian 500000 BDT para el torneo. La tabla de 13 pruebas distribuye 490000 BDT. Los importes por puesto están por confirmar.",
+        "sources": [
+          {
+            "url": "https://www.nationalroboticschampionship.org/rulebooks/general-rules.md",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.nationalroboticschampionship.org/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.nationalroboticschampionship.org/segment-page.js",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
+        "id": "junior-labs-innovation",
+        "name": "Junior Labs National Innovation Cup",
+        "group": "ai",
+        "age_summary": "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+        "categories": [
+          {
+            "name": "Junior Labs National Innovation Cup 2026 · Logic & Thinking Lab",
+            "age": "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10.",
+            "team": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "hardware": "Pendientes los requisitos de equipos y herramientas.",
+            "entry": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "event_id": "C5493",
+            "source": "https://juniorlabs.in/innovation-cup",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Junior Labs National Innovation Cup 2026 · AI & Smart Technology",
+            "age": "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10.",
+            "team": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "hardware": "Pendientes los requisitos de equipos y herramientas.",
+            "entry": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "event_id": "C5494",
+            "source": "https://juniorlabs.in/innovation-cup",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Junior Labs National Innovation Cup 2026 · App & Game Development",
+            "age": "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10.",
+            "team": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "hardware": "Pendientes los requisitos de equipos y herramientas.",
+            "entry": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "event_id": "C5495",
+            "source": "https://juniorlabs.in/innovation-cup",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "Junior Labs National Innovation Cup 2026 · Communication & Creativity",
+            "age": "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10.",
+            "team": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "hardware": "Pendientes los requisitos de equipos y herramientas.",
+            "entry": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+            "event_id": "C5496",
+            "source": "https://juniorlabs.in/innovation-cup",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5493",
+          "C5494",
+          "C5495",
+          "C5496"
+        ],
+        "legacy_ids": [],
+        "route": "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto.",
+        "hardware": "Pendientes los requisitos de equipos y herramientas.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "Se anuncian certificados y premios según resultados. Las reglas definitivas de premios están por confirmar.",
+        "strengths": "Se puede elegir de 1 a 4 materias. Las fechas son propuestas. Quedan por confirmar el formato, la cuota, el idioma del jurado y el acceso extranjero.",
+        "requirements": [
+          "Grados 3–10. Junior 3–5, Intermediate 6–8, Senior 9–10."
+        ],
+        "nuances": [
+          "Cierre provisional el 22 de noviembre. Preparación del 23 al 29 de noviembre. Resultados previstos para el 27 de diciembre. No se publicó un horario exacto."
+        ],
+        "cost": "Consulte al organizador.",
+        "award": "Se anuncian certificados y premios según resultados. Las reglas definitivas de premios están por confirmar.",
+        "sources": [
+          {
+            "url": "https://juniorlabs.in/innovation-cup",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
+        "id": "asist-uganda",
+        "name": "Uganda National STEM & Robotics Championship",
+        "group": "regional",
+        "age_summary": "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta.",
+        "age_tags": [],
+        "summary": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+        "categories": [
+          {
+            "name": "Uganda National STEM & Robotics Championship · 2026",
+            "age": "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta.",
+            "team": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "hardware": "",
+            "entry": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "event_id": "C5497",
+            "source": "https://asist.ac.ug/events/national-championship-2026",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La sección de descargas ofrece el reglamento de 2025. Aún no se publicaron fechas ni reglas de la próxima temporada.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "ASIST Uganda · Robot Skills Challenge · next edition",
+            "age": "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta.",
+            "team": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "hardware": "",
+            "entry": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "event_id": "C5498",
+            "source": "https://asist.ac.ug/programs/national-stem-robotics-championship",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La sección de descargas ofrece el reglamento de 2025. Aún no se publicaron fechas ni reglas de la próxima temporada.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "ASIST Uganda · STEM Innovation Project · next edition",
+            "age": "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta.",
+            "team": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "hardware": "",
+            "entry": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "event_id": "C5499",
+            "source": "https://asist.ac.ug/programs/national-stem-robotics-championship",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La sección de descargas ofrece el reglamento de 2025. Aún no se publicaron fechas ni reglas de la próxima temporada.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "ASIST Uganda · Robotics Explorer (primary) · next edition",
+            "age": "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta.",
+            "team": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "hardware": "",
+            "entry": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+            "event_id": "C5500",
+            "source": "https://asist.ac.ug/programs/national-stem-robotics-championship",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "La sección de descargas ofrece el reglamento de 2025. Aún no se publicaron fechas ni reglas de la próxima temporada.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5497",
+          "C5498",
+          "C5499",
+          "C5500"
+        ],
+        "legacy_ids": [],
+        "route": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+        "hardware": "Consulte al organizador.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "El organizador describe premios nacionales y posibles vías internacionales. Consulte cupos y condiciones por liga y temporada.",
+        "strengths": "Equipos de centros educativos de Uganda. El organizador describe selección regional. Confirme el próximo calendario, el reglamento y el acceso de alumnos extranjeros.",
+        "requirements": [
+          "Alumnos y estudiantes de centros de Uganda. Robotics Explorer es para primaria. Confirme la edad exacta."
+        ],
+        "nuances": [
+          "La sección de descargas ofrece el reglamento de 2025. Aún no se publicaron fechas ni reglas de la próxima temporada."
+        ],
+        "cost": "Consulte al organizador.",
+        "award": "El organizador describe premios nacionales y posibles vías internacionales. Consulte cupos y condiciones por liga y temporada.",
+        "sources": [
+          {
+            "url": "https://asist.ac.ug/events/national-championship-2026",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://asist.ac.ug/programs/national-stem-robotics-championship",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://asist.ac.ug/downloads",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://asist.ac.ug/holiday-program",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://asist.ac.ug/summer-camps",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -34783,7 +35192,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de ligas y programas: 350. Se conservan las 46 vías anteriores. Los formatos de Brasil se distinguen. Robofest LATAM y BajaBot se describen por categorías. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias de ligas y programas: 353. Se conservan las 46 vías anteriores. Los formatos de Brasil se distinguen. Robofest LATAM y BajaBot se describen por categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

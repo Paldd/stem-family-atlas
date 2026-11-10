@@ -245,7 +245,7 @@ function downloadICS(a,exhibitionVisit=false){const byId=new Map(EVENTS.map(e=>[
     const slot=(slots.get(session.date)||0)+1;
     slots.set(session.date,slot);
     const key=e.id+'-'+session.date+(slot===1?'':'-'+slot);
-    const sessionTitle=(e.block==='Соревнования'?'[Соревнование] ':'[Учебный день] ')+e.title;
+    const sessionTitle=(e.date_status==='Анонсировано'?'[Анонс · проведение уточнить] ':'')+(e.block==='Соревнования'?'[Соревнование] ':'[Учебный день] ')+e.title;
     const row={...e,note:e.note+' '+session.topic+'; '+session.start_time+'–'+session.end_time+' '+session.timezone+' '+(session.time_note||'')};if(session.ical_timed&&session.start_utc&&session.end_utc){const compact=t=>new Date(t).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'');event(row,key,sessionTitle,compact(session.start_utc),compact(session.end_utc),true)
     }else event(row,key,sessionTitle,session.date,addDays(session.date,1))
   }
