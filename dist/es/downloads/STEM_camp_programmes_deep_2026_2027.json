@@ -30,19 +30,19 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2432,
+    "dossiers": 2438,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 688,
-      "partial_2027": 181,
+      "published_2027": 690,
+      "partial_2027": 182,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
-      "partial_2026": 24,
+      "partial_2026": 25,
       "archive_next_unannounced": 152,
-      "regular_programme": 21,
+      "regular_programme": 23,
       "regular_2026_27": 33,
       "historical_2026_next_season_unknown": 4,
       "announced_dates_programme_pending": 5,
@@ -51,12 +51,12 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3376
+    "source_urls": 3383
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 56
+      "count": 57
     },
     {
       "country": "Austria",
@@ -480,7 +480,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 187
+      "count": 189
     },
     {
       "country": "Surinam",
@@ -536,7 +536,7 @@
     },
     {
       "country": "Filipinas",
-      "count": 11
+      "count": 13
     },
     {
       "country": "Finlandia",
@@ -612,7 +612,7 @@
     },
     {
       "country": "Japón",
-      "count": 93
+      "count": 94
     },
     {
       "country": "Lituania",
@@ -428422,6 +428422,591 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2433",
+      "slug": "sydney-underwater-drones-january-2027",
+      "provider": "Australian National Maritime Museum · Underwater Drones",
+      "iso": "AUS",
+      "country": "Australia",
+      "place": "Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney",
+      "age": "Desde los 8 años, incluidos adultos.",
+      "programme": "Pilotaje de un dron submarino y exploración del puerto con educadores del museo. De 1 a 4 jugadores por sesión. Reembolso si se cancela por mal tiempo.",
+      "themes": [
+        "robotics",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción oficial en inglés. Confirme el idioma de las actividades específicas.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "05.01.2027–31.01.2027, martes, jueves y domingos seleccionados de 12:00 a 15:00. Horas concretas en el sistema de reservas.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-01-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Underwater Drones",
+            "start": "2027-01-05",
+            "end": "2027-01-31",
+            "source": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+            "date_scope": "workshop_window",
+            "place": "Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney",
+            "price": "AUD 35 tarifa general, AUD 25 para socios del museo. Incluye la entrada al museo para un participante.",
+            "entry": "Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "AUD",
+        "amount": 35,
+        "label": "AUD 35 tarifa general, AUD 25 para socios del museo. Incluye la entrada al museo para un participante.",
+        "unit": "workshop",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo publicado."
+        }
+      },
+      "editorial_reason": "Pilotaje de un dron submarino y exploración del puerto con educadores del museo. De 1 a 4 jugadores por sesión. Reembolso si se cancela por mal tiempo.",
+      "shortlist": [],
+      "questions": [
+        "Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.sea.museum/en/visit/tickets",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2433-20270105-20270131"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2434",
+      "slug": "giis-tokyo-kita-kasai-winter-school-grades-1-8-2026",
+      "provider": "GIIS Tokyo · Winter Camp · Grades 1–8",
+      "iso": "JPN",
+      "country": "Japón",
+      "place": "GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa",
+      "age": "6+ y cursos 1–8. El grupo se determina por el curso real.",
+      "programme": "Inglés y deporte para los cursos 1–8. Teatro para 1–2, cine y animación fotograma a fotograma para 3–5 y emprendimiento para 6–8.",
+      "themes": [
+        "general",
+        "art",
+        "technology",
+        "languages",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El inglés forma parte del programa como asignatura separada. Confirme el idioma de cine, animación y las demás actividades.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Ventana del 14.12.2026 al 24.12.2026, de 09:30 a 14:30. El centro no indica la lista completa de días lectivos.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Grades 1–8",
+            "start": "2026-12-14",
+            "end": "2026-12-24",
+            "source": "https://globalindianschool.org/jp/tokyo/student-life/winter-camp/",
+            "date_scope": "programme_window",
+            "place": "GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa",
+            "price": "JPY 65 000 para los cursos 1–8. Autobús JPY 20 000 aparte.",
+            "entry": "Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 65000,
+        "label": "JPY 65 000 para los cursos 1–8. Autobús JPY 20 000 aparte.",
+        "unit": "programme",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza."
+        }
+      },
+      "editorial_reason": "Inglés y deporte para los cursos 1–8. Teatro para 1–2, cine y animación fotograma a fotograma para 3–5 y emprendimiento para 6–8.",
+      "shortlist": [],
+      "questions": [
+        "Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://globalindianschool.org/jp/tokyo/student-life/winter-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2434-20261214-20261224"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2435",
+      "slug": "codecraft-philippines-wedo-beginner-2026-2027",
+      "provider": "CodeCraft Philippines · WeDo 2.0 Beginners",
+      "iso": "PHL",
+      "country": "Filipinas",
+      "place": "Quezon City · confirme con CodeCraft la sede de estas clases",
+      "age": "Jardín de infancia – 3.er curso.",
+      "programme": "LEGO WeDo 2.0. Construcción y programación de hasta 11 modelos.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción oficial en inglés. Confirme el idioma de las actividades específicas.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Curso de cuatro horas. La página de la promoción no indica las fechas de los grupos.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PHP",
+        "amount": 3700,
+        "label": "PHP 3 700 por programa. PHP 2 960 en promoción hasta el 31.01.2027 con compra de productos participantes y cumplimiento de las condiciones.",
+        "unit": "programme",
+        "included": "Se anuncia un kit de materiales y un certificado del curso.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+        }
+      },
+      "editorial_reason": "LEGO WeDo 2.0. Construcción y programación de hasta 11 modelos.",
+      "shortlist": [],
+      "questions": [
+        "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codecraftlearning.com/fritolay-x-codecraft",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.codecraftlearning.com/programs/introduction-to-robotics",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+      },
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2436",
+      "slug": "codecraft-philippines-spike-prime-beginner-2026-2027",
+      "provider": "CodeCraft Philippines · SPIKE Prime Beginners",
+      "iso": "PHL",
+      "country": "Filipinas",
+      "place": "Quezon City · confirme con CodeCraft la sede de estas clases",
+      "age": "Desde 4.º curso.",
+      "programme": "LEGO SPIKE Prime. Construcción y programación de hasta 6 modelos.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción oficial en inglés. Confirme el idioma de las actividades específicas.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Curso de cuatro horas. La página de la promoción no indica las fechas de los grupos.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PHP",
+        "amount": 3700,
+        "label": "PHP 3 700 por programa. PHP 2 960 en promoción hasta el 31.01.2027 con compra de productos participantes y cumplimiento de las condiciones.",
+        "unit": "programme",
+        "included": "Se anuncia un kit de materiales y un certificado del curso.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple el nivel escolar de esta categoría."
+        }
+      },
+      "editorial_reason": "LEGO SPIKE Prime. Construcción y programación de hasta 6 modelos.",
+      "shortlist": [],
+      "questions": [
+        "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codecraftlearning.com/fritolay-x-codecraft",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.codecraftlearning.com/programs/introduction-to-robotics",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase."
+      },
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2437",
+      "slug": "robothink-chicago-winter-robotics-2027",
+      "provider": "RoboThink Chicago · Winter Robotics",
+      "iso": "USA",
+      "country": "Estados Unidos",
+      "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+      "age": "6–12 años según la ficha del programa.",
+      "programme": "Construcción de robots y retos de ingeniería los sábados.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción oficial en inglés. Confirme el idioma de las actividades específicas.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Sábados en el periodo 09.01.2027–13.03.2027, 10:00–11:30. Confirme el calendario y las excepciones por festivos.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-03-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Robotics",
+            "start": "2027-01-09",
+            "end": "2027-03-13",
+            "source": "https://myrobothink.com/chicago",
+            "date_scope": "programme_window",
+            "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+            "price": "USD 250 por menor para el curso de invierno.",
+            "entry": "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 250,
+        "label": "USD 250 por menor para el curso de invierno.",
+        "unit": "programme",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Construcción de robots y retos de ingeniería los sábados.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+      ],
+      "sources": [
+        {
+          "url": "https://myrobothink.com/chicago",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-09",
+          "end": "2027-03-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2437-20270109-20270313"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2438",
+      "slug": "robothink-chicago-winter-coding-2027",
+      "provider": "RoboThink Chicago · Winter Coding",
+      "iso": "USA",
+      "country": "Estados Unidos",
+      "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+      "age": "7–12 años según la ficha del programa.",
+      "programme": "Proyectos de programación, juegos interactivos y animación. La ficha de inscripción indica cursos 2–6.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción oficial en inglés. Confirme el idioma de las actividades específicas.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Sábados en el periodo 09.01.2027–13.03.2027, 12:00–13:30. Confirme el calendario y las excepciones por festivos.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-03-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Coding",
+            "start": "2027-01-09",
+            "end": "2027-03-13",
+            "source": "https://myrobothink.com/chicago",
+            "date_scope": "programme_window",
+            "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+            "price": "USD 250 por menor para el curso de invierno.",
+            "entry": "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 250,
+        "label": "USD 250 por menor para el curso de invierno.",
+        "unit": "programme",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad inferior al mínimo publicado."
+        }
+      },
+      "editorial_reason": "Proyectos de programación, juegos interactivos y animación. La ficha de inscripción indica cursos 2–6.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+      ],
+      "sources": [
+        {
+          "url": "https://myrobothink.com/chicago",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-09",
+          "end": "2027-03-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2438-20270109-20270313"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -446982,7 +447567,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2432,
+      "total_dossiers": 2438,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -473342,6 +473927,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2433",
+      "event_id": "CP2433-20270105-20270131",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2434",
+      "event_id": "CP2434-20261214-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2437",
+      "event_id": "CP2437-20270109-20270313",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2438",
+      "event_id": "CP2438-20270109-20270313",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -478703,10 +479308,14 @@
     "CP2430-20270712-20270716-20270712",
     "CP2430-20270809-20270813-20270809",
     "CP2431-20270712-20270716-20270712",
-    "CP2431-20270809-20270813-20270809"
+    "CP2431-20270809-20270813-20270809",
+    "CP2433-20270105-20270131",
+    "CP2434-20261214-20261224",
+    "CP2437-20270109-20270313",
+    "CP2438-20270109-20270313"
   ],
   "integration": {
-    "generated_sessions": 4951,
+    "generated_sessions": 4955,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 373,
+    "prepared_ui_version": 374,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 372,
-    "previous_verified_commit": "41b8b8fa68abd0516756c0a773dbaeb7a182d6aa"
+    "previous_verified_ui_version": 373,
+    "previous_verified_commit": "dfa80943275af05aa7f4f0417c6e6510777875b1"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -40656,5 +40656,187 @@
       "2026-09-25",
       "2027-02-25"
     ]
+  },
+  "nrc_and_family_technology_v374": {
+    "version": 374,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "nrc_event_id": "C5536",
+    "nrc_categories": [
+      {
+        "name": "Box Bot",
+        "page": 23,
+        "elementary": true,
+        "event_id": "C5537",
+        "age": "Primaria, secundaria básica y secundaria superior. La división depende del nivel del participante de mayor curso.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Robot de reparto. Los primeros 70 segundos son autónomos, con control remoto posible durante los últimos 20. Hasta dos participantes a la vez junto al campo.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Mini-Sumo Robot",
+        "page": 44,
+        "elementary": true,
+        "event_id": "C5538",
+        "age": "Primaria, secundaria básica y secundaria superior. La división depende del nivel del participante de mayor curso.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Sumo autónomo. Cuerpo y chasis de plástico, hasta 1,5 kg y 20 × 20 × 20 cm. Sensores para dirigir el movimiento y detectar el límite o al rival.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Robot Maze",
+        "page": 53,
+        "elementary": true,
+        "event_id": "C5539",
+        "age": "Primaria, secundaria básica y secundaria superior. La división depende del nivel del participante de mayor curso.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Laberinto autónomo con giros a izquierda y derecha. Tamaño base del robot de 7 × 7 × 7 pulgadas. Se prohíbe el control remoto.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Manufacturing Workcell",
+        "page": 37,
+        "elementary": true,
+        "event_id": "C5540",
+        "age": "Primaria, secundaria básica, secundaria superior y educación postsecundaria. División según el participante de mayor curso.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Demostración de una célula de fabricación con mecanismos y electrónica. Superficie máxima de 8 × 8 pies, con evaluación de riesgos del alumnado.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Additive Manufacturing Challenge",
+        "page": 14,
+        "elementary": false,
+        "event_id": "C5541",
+        "age": "Cursos 6–8, 9–12 y educación postsecundaria.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Diseño e impresión 3D de una estructura para una prueba de carga. Post-Secondary figura en la sección de la disciplina y falta en la lista general.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Autonomous Vehicle Challenge",
+        "page": 18,
+        "elementary": false,
+        "event_id": "C5542",
+        "age": "Cursos 6–8, 9–12 y educación postsecundaria.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Vehículo autónomo que realiza tareas en un circuito. Consulte los requisitos técnicos de la disciplina.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Combat Robot",
+        "page": 29,
+        "elementary": false,
+        "event_id": "C5543",
+        "age": "Cursos 6–12, Post-Secondary solo en Beetleweight.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Clases de combate Antweight-Plastic y Beetleweight. Consulte las restricciones de seguridad y peso del reglamento.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Micromouse",
+        "page": 40,
+        "elementary": false,
+        "event_id": "C5544",
+        "age": "Cursos 6–8, 9–12 y educación postsecundaria.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Robot autónomo que busca una ruta en el laberinto Micromouse. Formato separado de Robot Maze.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Rescue Robot",
+        "page": 47,
+        "elementary": false,
+        "event_id": "C5545",
+        "age": "Cursos 6–8 y 9–12 según la estructura del reglamento.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Robot de rescate con control remoto para completar una misión en el campo.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Robo Hockey",
+        "page": 50,
+        "elementary": false,
+        "event_id": "C5546",
+        "age": "Cursos 6–8 y 9–12 según la estructura del reglamento.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Hockey robótico con control remoto. Son obligatorias las comprobaciones de seguridad y capacidad del robot.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Robot Problem Solving",
+        "page": 58,
+        "elementary": false,
+        "event_id": "C5547",
+        "age": "Cursos 6–8 y 9–12 según la estructura del reglamento.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Reto de ingeniería para resolver un problema. Confirme el formato y las condiciones en la sección de la disciplina.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      },
+      {
+        "name": "Sumo Robot",
+        "page": 59,
+        "elementary": false,
+        "event_id": "C5548",
+        "age": "Cursos 6–8, 9–12 y educación postsecundaria.",
+        "team": "El reglamento contempla participantes y equipos. El nivel del equipo lo determina el estudiante de mayor curso. El mentor asesora. El robot y el código deben ser obra del alumnado.",
+        "hardware": "Sumo autónomo con requisitos propios de la disciplina superior.",
+        "entry": "El reglamento admite a estudiantes de cualquier país, incluida la educación en casa. El formulario de 2027 debe estar disponible a más tardar el 11.01.2027. Plazo de solicitud 26.02.2027, sin hora de cierre indicada."
+      }
+    ],
+    "nrc_manual_revision": "2026-11-08",
+    "nrc_event_dates": [
+      "2027-04-15",
+      "2027-04-17"
+    ],
+    "nrc_registration_by": "2027-01-11",
+    "nrc_deadline": "2027-02-26",
+    "nrc_cost_usd": {
+      "team_or_school": 85,
+      "per_robot": 20
+    },
+    "nrc_international_rule": true,
+    "nrc_public_homepage_conflicts_with_elementary_manual": true,
+    "nrc_registration_page_shows_2026": true,
+    "nrc_discipline_schedule_unpublished": true,
+    "new_exhibitions": [
+      "E825",
+      "E826",
+      "E827"
+    ],
+    "updated_exhibition_ids": [
+      "E442"
+    ],
+    "new_camp_dossiers": [
+      "CP2433",
+      "CP2434",
+      "CP2435",
+      "CP2436",
+      "CP2437",
+      "CP2438"
+    ],
+    "verified_existing": [
+      "CP096",
+      "L141",
+      "CP944",
+      "CP122",
+      "CP665",
+      "CP666",
+      "CP667",
+      "CP1628",
+      "CP036",
+      "CP037",
+      "CP1896",
+      "CP1897",
+      "E487"
+    ],
+    "windows_without_individual_dates": [
+      "CP2433",
+      "CP2434",
+      "CP2437",
+      "CP2438"
+    ],
+    "codecraft_coupon_end_not_class_date": "2027-01-31"
   }
 }

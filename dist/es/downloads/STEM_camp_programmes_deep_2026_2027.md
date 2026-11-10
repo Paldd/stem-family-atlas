@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2432 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2438 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -191213,6 +191213,290 @@ Panamá · Guararé, Los Santos
 - [Se comprobó la ficha oficial del programa.](https://www.gamechangerspty.com/) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.gamechangerspty.com/about) · 2026-11-10
+
+## CP2433 · Australian National Maritime Museum · Underwater Drones
+
+Australia · Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde los 8 años, incluidos adultos.
+
+**Idioma:** Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+
+**Programa:** Pilotaje de un dron submarino y exploración del puerto con educadores del museo. De 1 a 4 jugadores por sesión. Reembolso si se cancela por mal tiempo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 05.01.2027–31.01.2027, martes, jueves y domingos seleccionados de 12:00 a 15:00. Horas concretas en el sistema de reservas.
+
+**Precio / año:** 2027 · AUD 35 tarifa general, AUD 25 para socios del museo. Incluye la entrada al museo para un participante.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza.
+
+**Oscar:** Edad inferior al mínimo publicado.
+
+**Motivo de selección:** Pilotaje de un dron submarino y exploración del puerto con educadores del museo. De 1 a 4 jugadores por sesión. Reembolso si se cancela por mal tiempo.
+
+### Antes de solicitar plaza
+
+- Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes.
+
+### Underwater Drones
+
+**Fechas / estado:** 2027-01-05 — 2027-01-31
+
+**Lugar:** Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney
+
+**Precio:** AUD 35 tarifa general, AUD 25 para socios del museo. Incluye la entrada al museo para un participante.
+
+**Condiciones de participación:** Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes.
+
+[fuente](https://www.sea.museum/en/whats-on/events/underwater-drones)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sea.museum/en/whats-on/events/underwater-drones) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.sea.museum/en/visit/tickets) · 2026-11-10
+
+## CP2434 · GIIS Tokyo · Winter Camp · Grades 1–8
+
+Japón · GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6+ y cursos 1–8. El grupo se determina por el curso real.
+
+**Idioma:** El inglés forma parte del programa como asignatura separada. Confirme el idioma de cine, animación y las demás actividades.
+
+**Programa:** Inglés y deporte para los cursos 1–8. Teatro para 1–2, cine y animación fotograma a fotograma para 3–5 y emprendimiento para 6–8.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Ventana del 14.12.2026 al 24.12.2026, de 09:30 a 14:30. El centro no indica la lista completa de días lectivos.
+
+**Precio / año:** 2026 · JPY 65 000 para los cursos 1–8. Autobús JPY 20 000 aparte.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza.
+
+**Oscar:** Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza.
+
+**Motivo de selección:** Inglés y deporte para los cursos 1–8. Teatro para 1–2, cine y animación fotograma a fotograma para 3–5 y emprendimiento para 6–8.
+
+### Antes de solicitar plaza
+
+- Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza.
+
+### Grades 1–8
+
+**Fechas / estado:** 2026-12-14 — 2026-12-24
+
+**Lugar:** GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa
+
+**Precio:** JPY 65 000 para los cursos 1–8. Autobús JPY 20 000 aparte.
+
+**Condiciones de participación:** Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza.
+
+[fuente](https://globalindianschool.org/jp/tokyo/student-life/winter-camp/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://globalindianschool.org/jp/tokyo/student-life/winter-camp/) · 2026-11-10
+
+## CP2435 · CodeCraft Philippines · WeDo 2.0 Beginners
+
+Filipinas · Quezon City · confirme con CodeCraft la sede de estas clases
+
+**Verificado:** 2026-11-10
+
+**Edad:** Jardín de infancia – 3.er curso.
+
+**Idioma:** Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+
+**Programa:** LEGO WeDo 2.0. Construcción y programación de hasta 11 modelos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Curso de cuatro horas. La página de la promoción no indica las fechas de los grupos.
+
+**Precio / año:** 2027 · PHP 3 700 por programa. PHP 2 960 en promoción hasta el 31.01.2027 con compra de productos participantes y cumplimiento de las condiciones.
+
+**Incluido:** Se anuncia un kit de materiales y un certificado del curso.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
+
+**Oscar:** Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
+
+**Motivo de selección:** LEGO WeDo 2.0. Construcción y programación de hasta 11 modelos.
+
+### Antes de solicitar plaza
+
+- Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.codecraftlearning.com/fritolay-x-codecraft) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.codecraftlearning.com/programs/introduction-to-robotics) · 2026-11-10
+
+## CP2436 · CodeCraft Philippines · SPIKE Prime Beginners
+
+Filipinas · Quezon City · confirme con CodeCraft la sede de estas clases
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde 4.º curso.
+
+**Idioma:** Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+
+**Programa:** LEGO SPIKE Prime. Construcción y programación de hasta 6 modelos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Curso de cuatro horas. La página de la promoción no indica las fechas de los grupos.
+
+**Precio / año:** 2027 · PHP 3 700 por programa. PHP 2 960 en promoción hasta el 31.01.2027 con compra de productos participantes y cumplimiento de las condiciones.
+
+**Incluido:** Se anuncia un kit de materiales y un certificado del curso.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** LEGO SPIKE Prime. Construcción y programación de hasta 6 modelos.
+
+### Antes de solicitar plaza
+
+- Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.codecraftlearning.com/fritolay-x-codecraft) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.codecraftlearning.com/programs/introduction-to-robotics) · 2026-11-10
+
+## CP2437 · RoboThink Chicago · Winter Robotics
+
+Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6–12 años según la ficha del programa.
+
+**Idioma:** Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+
+**Programa:** Construcción de robots y retos de ingeniería los sábados.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en el periodo 09.01.2027–13.03.2027, 10:00–11:30. Confirme el calendario y las excepciones por festivos.
+
+**Precio / año:** 2027 · USD 250 por menor para el curso de invierno.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza.
+
+**Oscar:** La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza.
+
+**Motivo de selección:** Construcción de robots y retos de ingeniería los sábados.
+
+### Antes de solicitar plaza
+
+- Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+
+### Robotics
+
+**Fechas / estado:** 2027-01-09 — 2027-03-13
+
+**Lugar:** ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+
+**Precio:** USD 250 por menor para el curso de invierno.
+
+**Condiciones de participación:** Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+
+[fuente](https://myrobothink.com/chicago)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://myrobothink.com/chicago) · 2026-11-10
+
+## CP2438 · RoboThink Chicago · Winter Coding
+
+Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+
+**Verificado:** 2026-11-10
+
+**Edad:** 7–12 años según la ficha del programa.
+
+**Idioma:** Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+
+**Programa:** Proyectos de programación, juegos interactivos y animación. La ficha de inscripción indica cursos 2–6.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Sábados en el periodo 09.01.2027–13.03.2027, 12:00–13:30. Confirme el calendario y las excepciones por festivos.
+
+**Precio / año:** 2027 · USD 250 por menor para el curso de invierno.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza.
+
+**Oscar:** Edad inferior al mínimo publicado.
+
+**Motivo de selección:** Proyectos de programación, juegos interactivos y animación. La ficha de inscripción indica cursos 2–6.
+
+### Antes de solicitar plaza
+
+- Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+
+### Coding
+
+**Fechas / estado:** 2027-01-09 — 2027-03-13
+
+**Lugar:** ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+
+**Precio:** USD 250 por menor para el curso de invierno.
+
+**Condiciones de participación:** Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+
+[fuente](https://myrobothink.com/chicago)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://myrobothink.com/chicago) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

@@ -5432,9 +5432,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E442@family-stem.local
-DTSTAMP:20261108T160329Z
-SUMMARY:[Exposición · confirmar admisión de menores] Miraikan · Trans
- formation
+DTSTAMP:20261110T123340Z
+SUMMARY:[Exposición · confirmar admisión de menores] Miraikan · New B
+ odies. New Selves.
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270901
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Exposición
@@ -5446,10 +5446,11 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Exposición
  la exposición temporal. Se anuncia la renovación del robot Keparan y d
  el área infantil. La tarifa publicada de la exposición permanente no f
  ija el precio de la temporal. Empresas: Cómo la IA\, los avatares y la 
- robótica cambian la apariencia y las capacidades humanas.. Fuente verif
- icada el 2026-11-08.
+ robótica cambian la apariencia y las capacidades humanas. Se anunciaron
+  experiencias interactivas sobre la apariencia y la percepción corporal
+ .. Fuente verificada el 2026-11-10.
 LOCATION:Miraikan · Odaiba\, Tokyo\, Japón
-URL:https://www.miraikan.jst.go.jp/news/press/202609084737.html
+URL:https://www.miraikan.jst.go.jp/en/exhibitions/spexhibition/henshinten.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13826,6 +13827,48 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
 LOCATION:Buk-Seoul Museum of Art · B1\, galleries 5–6 · 1238 Dongil-r
  o\, Seoul\, Corea del Sur
 URL:https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1540505
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E825@family-stem.local
+DTSTAMP:20261110T123340Z
+SUMMARY:[Exposición · visita en familia] Questacon · ZAP! CLANK! POW!
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20270222
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Para todas 
+ las edades. Elija la franja de la entrada. El abono familiar admite a 2 
+ adultos y 2 menores o 1 adulto y 3 menores. Entrada de adultos: AUD 10 p
+ or entrada individual. Menores de 3 años gratis. Pase de temporada AUD 
+ 25\, familiar AUD 90.. QTIX indica el inicio el 13.06.2026. Los metadato
+ s del museo dan el 14.06.2026 en hora local. El museo confirma la exposi
+ ción hasta el 21.02.2027. Empresas: 17 módulos interactivos sobre circ
+ uitos\, mecanismos y movimiento. Tres zonas: ZAP\, CLANK y POW.. Fuente 
+ verificada el 2026-11-10.
+LOCATION:Queensland Museum Tropics · 70–102 Flinders Street\, Townsvil
+ le\, Australia
+URL:https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E826@family-stem.local
+DTSTAMP:20261110T123340Z
+SUMMARY:[Exposición · visita en familia] Super Human · Rochester Museu
+ m & Science Center
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20270503
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Compre la e
+ ntrada general al museo. Confirme las restricciones de altura y edad de 
+ la estación elegida. Entrada de adultos: Incluido en la entrada al muse
+ o. USD 23 general\, USD 21 de 3 a 18 años\, menores de 3 años gratis..
+  Compre la entrada general al museo. Confirme las restricciones de altur
+ a y edad de la estación elegida. Empresas: Ojo biónico\, exoesqueleto\
+ , interfaz cerebro-computadora\, brazo robótico controlado por gestos y
+  túnel de viento.. Fuente verificada el 2026-11-10.
+LOCATION:RMSC Museum & Science Center · 657 East Avenue\, Rochester\, NY
+ \, Estados Unidos
+URL:https://rmsc.org/exhibits/super-human/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

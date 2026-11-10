@@ -1,0 +1,154 @@
+[
+  {
+    "url": "https://globalindianschool.org/jp/tokyo/student-life/winter-camp/",
+    "artifact": "jp-giis-official-page-observation.json",
+    "bytes": 877,
+    "sha256": "7fc53bdac0beac748d1f1610d68b8c3f6d01e2d94e48414bc97d6e1c956ac39f",
+    "checked": "2026-11-10",
+    "capture": "official_page_observation"
+  },
+  {
+    "url": "https://irp.cdn-website.com/9297868f/files/uploaded/NRCContestRules2027-05f1a10d.pdf",
+    "artifact": "us-nrc-2027-rules.pdf",
+    "bytes": 10313099,
+    "sha256": "bd6f13f23cbfe760e5f21ef1d32af2c8ccb21beac3722f967db6a8cb3c9787ce",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://myrobothink.com/chicago",
+    "artifact": "us-robothink-chicago.html",
+    "bytes": 200846,
+    "sha256": "9ee03057c8362f9732f16a9bd81d69824eca0d0d3b712ecb3b96d584f4c1972b",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://rmsc.org/exhibits/super-human/",
+    "artifact": "us-rmsc-super-human.html",
+    "bytes": 168507,
+    "sha256": "b65b50faded0eac364e3871b9d09623d71c5fa484d74eb6f6af8a85197d9c712",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://rmsc.org/museum-science-center/hours-admission/",
+    "artifact": "us-rmsc-admission.html",
+    "bytes": 209426,
+    "sha256": "bc07fc2476d3c9a5224af22a0b7c00323d9847ae8d81ce3a729e9d79d4858db2",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.codecraftlearning.com/fritolay-x-codecraft",
+    "artifact": "ph-codecraft-robotics.html",
+    "bytes": 141204,
+    "sha256": "fcba8cba955af7f7f5e25b4064e5f039ed1b5d9ebc43ae5539d17c000218d4dd",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.codecraftlearning.com/programs/introduction-to-robotics",
+    "artifact": "ph-codecraft-location.html",
+    "bytes": 176575,
+    "sha256": "91a1bd756b7756e80accb69c1beb3863068627699e06f9514206d454e6dd599a",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.miraikan.jst.go.jp/en/exhibitions/spexhibition/henshinten.html",
+    "artifact": "jp-miraikan-new-bodies.html",
+    "bytes": 42440,
+    "sha256": "41914c7f5f5a13eeeda57b18ef319f4766f6ef6e24ee6d71a1ed99db449b2192",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.miraikan.jst.go.jp/en/visit/",
+    "artifact": "jp-miraikan-fees.html",
+    "bytes": 43433,
+    "sha256": "ca8668db95be780a4c23ffe93a301f11e841acbc7b13295f035785730169173c",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.museum.qld.gov.au/tropics/plan-your-visit/hours-and-admission",
+    "artifact": "au-questacon-venue-hours.html",
+    "bytes": 203201,
+    "sha256": "2288c628e3849987f2a842701e7d593bc48d148a357417afa43f689fc4ce2047",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/",
+    "artifact": "au-questacon-zap.html",
+    "bytes": 234671,
+    "sha256": "ce2dac9f2976f44382f230a0e1304123d244ae0f3846c7ee016ee86e073ca8e7",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.qtix.com.au/whats-on/2026/questacon-presents-zap-clank-pow",
+    "artifact": "au-questacon-qtix.html",
+    "bytes": 65365,
+    "sha256": "732ec54b43316b68c89858c0e53e746ad8571b4db50fbb723eda908c14955a0d",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.sea.museum/en/visit/tickets",
+    "artifact": "au-sea-admission.html",
+    "bytes": 213684,
+    "sha256": "e5aed17f2ad84d33b8abc06dcf91e5b984d18e36bdd5fb337b832e78846ebe39",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+    "artifact": "au-sea-underwater-drones.html",
+    "bytes": 216265,
+    "sha256": "c6b6111b804f72352c9365b8ecff69aa83e9de637b7f70208c0b3a3e366f394e",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth",
+    "artifact": "au-sea-ultimate-depth.html",
+    "bytes": 375554,
+    "sha256": "dc727e3c37792c8fd93dcc760d3b1a2454d27744a6658b8fa32a5f0429704fa4",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.thenrc.org/",
+    "artifact": "us-nrc-home.html",
+    "bytes": 141205,
+    "sha256": "c0bc291728862d834e952462b0a64d1736fa5b96a9e1d3df5939c362f02e157d",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.thenrc.org/contest-manual",
+    "artifact": "us-nrc-manual.html",
+    "bytes": 95731,
+    "sha256": "f5bf2207efe3d5845244ad378e47c726216eb2fa8aeccd555491df83f20dd3fc",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.thenrc.org/location",
+    "artifact": "us-nrc-2027.html",
+    "bytes": 105498,
+    "sha256": "b258d390cc312f62c2dd69dcb21f23fc6e12968120a650539e36b6cd85e13085",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  },
+  {
+    "url": "https://www.thenrc.org/registration",
+    "artifact": "us-nrc-registration.html",
+    "bytes": 90665,
+    "sha256": "7b096dadecbf32251cdc82e35fd7ae912149bbf4fe863d6edea2721e91215301",
+    "checked": "2026-11-10",
+    "capture": "http_response"
+  }
+]

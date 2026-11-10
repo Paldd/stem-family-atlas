@@ -94118,6 +94118,70 @@ Restricciones: Matvey: Edad inferior al mínimo publicado. Opción para una temp
 Fuente: https://www.fscamps.com/sayville/robot-masters-camp
 Verificado: 2026-11-10
 
+### CP2433-20270105-20270131 · Australian National Maritime Museum · Underwater Drones · Underwater Drones · 2027-01-05–2027-01-31
+
+Lugar: Australia · Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney
+Fecha: 2027-01-05 — 2027-01-31
+Edad: Desde los 8 años, incluidos adultos.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · AUD 35 tarifa general, AUD 25 para socios del museo. Incluye la entrada al museo para un participante. · suplementos y condiciones en la ficha
+Acceso: Reserve una sesión concreta. Confirme el pago de jugadores adicionales y el acceso de acompañantes.
+Restricciones: Matvey: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Oscar: Edad inferior al mínimo publicado. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.sea.museum/en/whats-on/events/underwater-drones
+Verificado: 2026-11-10
+
+### CP2434-20261214-20261224 · GIIS Tokyo · Winter Camp · Grades 1–8 · Grades 1–8 · 2026-12-14–2026-12-24
+
+Lugar: Japón · GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa
+Fecha: 2026-12-14 — 2026-12-24
+Edad: 6+ y cursos 1–8. El grupo se determina por el curso real.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El inglés forma parte del programa como asignatura separada. Confirme el idioma de cine, animación y las demás actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2026/27 · JPY 65 000 para los cursos 1–8. Autobús JPY 20 000 aparte. · suplementos y condiciones en la ficha
+Acceso: Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza.
+Restricciones: Matvey: Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza. Oscar: Formulario de interés en la web del centro. Confirme el acceso de alumnado externo, curso, idioma de las actividades y plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://globalindianschool.org/jp/tokyo/student-life/winter-camp/
+Verificado: 2026-11-10
+
+### CP2437-20270109-20270313 · RoboThink Chicago · Winter Robotics · Robotics · 2027-01-09–2027-03-13
+
+Lugar: Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+Fecha: 2027-01-09 — 2027-03-13
+Edad: 6–12 años según la ficha del programa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 250 por menor para el curso de invierno. · suplementos y condiciones en la ficha
+Acceso: Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+Restricciones: Matvey: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Oscar: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://myrobothink.com/chicago
+Verificado: 2026-11-10
+
+### CP2438-20270109-20270313 · RoboThink Chicago · Winter Coding · Coding · 2027-01-09–2027-03-13
+
+Lugar: Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL
+Fecha: 2027-01-09 — 2027-03-13
+Edad: 7–12 años según la ficha del programa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: regular
+Idioma: Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 250 por menor para el curso de invierno. · suplementos y condiciones en la ficha
+Acceso: Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
+Restricciones: Matvey: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Oscar: Edad inferior al mínimo publicado. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://myrobothink.com/chicago
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

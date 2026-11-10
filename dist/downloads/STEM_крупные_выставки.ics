@@ -6787,9 +6787,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E442@family-stem.local
-DTSTAMP:20261108T160329Z
+DTSTAMP:20261110T123340Z
 SUMMARY:[Выставка · допуск детей уточнить] Mi
- raikan · Transformation
+ raikan · New Bodies. New Selves.
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270901
 DESCRIPTION:Идея посещения\, не принятая реги
@@ -6805,11 +6805,13 @@ DESCRIPTION:Идея посещения\, не принятая реги
  кой зоны. Опубликованный тариф постоян
  ной экспозиции не определяет цену спец
  выставки. Компании: Как ИИ\, аватары и ро
- бототехника меняют внешний вид и возмо
- жности человека.. Источник проверен 2026-1
- 1-08.
+ бототехника меняют внешность и возможн
+ ости человека. Объявлены интерактивные
+  опыты с изменением внешнего вида и вос
+ приятия тела.. Источник проверен 2026-11-10.
 LOCATION:Miraikan · Odaiba\, Tokyo\, Япония
-URL:https://www.miraikan.jst.go.jp/news/press/202609084737.html
+URL:https://www.miraikan.jst.go.jp/en/exhibitions/spexhibition/henshinten
+ .html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -17178,6 +17180,58 @@ DESCRIPTION:Идея посещения\, не принятая реги
 LOCATION:Buk-Seoul Museum of Art · B1\, galleries 5–6 · 1238 Dongil-r
  o\, Seoul\, Южная Корея
 URL:https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1540505
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E825@family-stem.local
+DTSTAMP:20261110T123340Z
+SUMMARY:[Выставка · семейный вариант] Questacon 
+ · ZAP! CLANK! POW!
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20270222
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Для всех возрастов. Выбрать вр
+ емя билета. Сезонный семейный абонемен
+ т на 2 взрослых и 2 детей либо 1 взрослого
+  и 3 детей. Взрослый вход: AUD 10 за разовый 
+ билет. Дети до 3 лет бесплатно. Сезонный 
+ билет AUD 25\, семейный AUD 90.. QTIX указывает с
+ тарт 13.06.2026. Метаданные музея дают 14.06.2026
+  по местному времени. Музей подтверждае
+ т работу до 21.02.2027. Компании: 17 интеракти
+ вных экспонатов о цепях\, механизмах и д
+ вижении. Три зоны ZAP\, CLANK и POW.. Источник п
+ роверен 2026-11-10.
+LOCATION:Queensland Museum Tropics · 70–102 Flinders Street\, Townsvil
+ le\, Австралия
+URL:https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E826@family-stem.local
+DTSTAMP:20261110T123340Z
+SUMMARY:[Выставка · семейный вариант] Super Human
+  · Rochester Museum & Science Center
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20270503
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Купить общий билет музея. Уточ
+ нить ограничения роста и возраста для в
+ ыбранной станции. Взрослый вход: Включе
+ но во входной билет музея. USD 23 общий\, USD 
+ 21 для 3–18 лет\, до 3 лет бесплатно.. Купит
+ ь общий билет музея. Уточнить ограничен
+ ия роста и возраста для выбранной станц
+ ии. Компании: Бионический глаз\, экзоске
+ лет\, интерфейс мозг–компьютер\, робот-
+ манипулятор с управлением жестами и аэ
+ родинамическая труба.. Источник провер
+ ен 2026-11-10.
+LOCATION:RMSC Museum & Science Center · 657 East Avenue\, Rochester\, NY
+ \, США
+URL:https://rmsc.org/exhibits/super-human/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12316,
-    "competition_cards": 5534,
-    "event_cards": 824,
-    "camp_cards": 5958,
-    "league_profiles": 357,
-    "major_exhibition_cards": 718,
+    "cards": 12336,
+    "competition_cards": 5547,
+    "event_cards": 827,
+    "camp_cards": 5962,
+    "league_profiles": 358,
+    "major_exhibition_cards": 721,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3959,
+      "total": 3975,
       "countries_with_records": 41,
-      "competitions": 2234,
-      "events": 237,
-      "major_exhibitions": 190,
-      "camps": 1488,
+      "competitions": 2247,
+      "events": 238,
+      "major_exhibitions": 191,
+      "camps": 1490,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3363,
+      "total": 3364,
       "countries_with_records": 51,
       "competitions": 1290,
       "events": 211,
       "major_exhibitions": 198,
-      "camps": 1862,
+      "camps": 1863,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 642,
+      "total": 645,
       "countries_with_records": 27,
       "competitions": 184,
-      "events": 43,
-      "major_exhibitions": 39,
-      "camps": 415,
+      "events": 45,
+      "major_exhibitions": 41,
+      "camps": 416,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -9181,6 +9181,32 @@
       "new": false
     },
     {
+      "id": "national-robotics-challenge-usa",
+      "name": "National Robotics Challenge · NRC",
+      "group": "regional",
+      "event_ids": [
+        "C5536",
+        "C5537",
+        "C5538",
+        "C5539",
+        "C5540",
+        "C5541",
+        "C5542",
+        "C5543",
+        "C5544",
+        "C5545",
+        "C5546",
+        "C5547",
+        "C5548"
+      ],
+      "cards": 13,
+      "future_dated": 1,
+      "linked_card_count": 13,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.thenrc.org/contest-manual",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -14088,13 +14114,13 @@
     },
     {
       "id": "E442",
-      "name": "Miraikan · Transformation",
+      "name": "Miraikan · New Bodies. New Selves.",
       "country": "Japón",
       "region": "Asia",
       "start": "2027-04-23",
       "end": "2027-08-31",
       "visitor_policy": "confirm_children",
-      "source": "https://www.miraikan.jst.go.jp/news/press/202609084737.html",
+      "source": "https://www.miraikan.jst.go.jp/en/exhibitions/spexhibition/henshinten.html",
       "new": false
     },
     {
@@ -18080,6 +18106,39 @@
       "new": false
     },
     {
+      "id": "E825",
+      "name": "Questacon · ZAP! CLANK! POW!",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2026-06-13",
+      "end": "2027-02-21",
+      "visitor_policy": "family",
+      "source": "https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/",
+      "new": false
+    },
+    {
+      "id": "E826",
+      "name": "Super Human · Rochester Museum & Science Center",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2026-10-02",
+      "end": "2027-05-02",
+      "visitor_policy": "family",
+      "source": "https://rmsc.org/exhibits/super-human/",
+      "new": false
+    },
+    {
+      "id": "E827",
+      "name": "Ultimate Depth · DEEPSEA CHALLENGER",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -20511,9 +20570,9 @@
       }
     ],
     "counts": {
-      "records": 5958,
-      "holiday": 5289,
-      "regular": 236,
+      "records": 5962,
+      "holiday": 5291,
+      "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1046,
       "en_es_instruction": 1712,
@@ -20521,7 +20580,7 @@
       "family_instruction": 1712,
       "family_support": 67,
       "ru_instruction": 6,
-      "language_lessons": 426,
+      "language_lessons": 427,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 161

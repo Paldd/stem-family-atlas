@@ -30,19 +30,19 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2432,
+    "dossiers": 2438,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 688,
-      "partial_2027": 181,
+      "published_2027": 690,
+      "partial_2027": 182,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
-      "partial_2026": 24,
+      "partial_2026": 25,
       "archive_next_unannounced": 152,
-      "regular_programme": 21,
+      "regular_programme": 23,
       "regular_2026_27": 33,
       "historical_2026_next_season_unknown": 4,
       "announced_dates_programme_pending": 5,
@@ -51,12 +51,12 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3376
+    "source_urls": 3383
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 56
+      "count": 57
     },
     {
       "country": "Австрия",
@@ -480,7 +480,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 187
+      "count": 189
     },
     {
       "country": "Суринам",
@@ -536,7 +536,7 @@
     },
     {
       "country": "Филиппины",
-      "count": 11
+      "count": 13
     },
     {
       "country": "Финляндия",
@@ -612,7 +612,7 @@
     },
     {
       "country": "Япония",
-      "count": 93
+      "count": 94
     },
     {
       "country": "Литва",
@@ -371979,6 +371979,512 @@
       },
       "programme_type": "holiday_camp",
       "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP2433",
+      "slug": "sydney-underwater-drones-january-2027",
+      "provider": "Australian National Maritime Museum · Underwater Drones",
+      "iso": "AUS",
+      "country": "Австралия",
+      "place": "Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney",
+      "age": "От 8 лет, включая взрослых.",
+      "programme": "Пилотирование подводного дрона и исследование гавани с музейными преподавателями. От 1 до 4 игроков в сеансе. Отмена при плохой погоде с возвратом.",
+      "themes": [
+        "robotics",
+        "technology",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на английском. Язык отдельных занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "05.01.2027–31.01.2027, отдельные вторники, четверги и воскресенья с 12:00 до 15:00. Точные слоты в системе бронирования.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-01-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Underwater Drones",
+            "start": "2027-01-05",
+            "end": "2027-01-31",
+            "source": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+            "date_scope": "workshop_window",
+            "place": "Australian National Maritime Museum · 2 Murray Street, Darling Harbour, Sydney",
+            "price": "AUD 35 общий тариф, AUD 25 для членов музея. Включён вход в музей для одного участника.",
+            "entry": "Нужна бронь на конкретный сеанс. Уточнить оплату дополнительных игроков и доступ сопровождающих."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "AUD",
+        "amount": 35,
+        "label": "AUD 35 общий тариф, AUD 25 для членов музея. Включён вход в музей для одного участника.",
+        "unit": "workshop",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон. Подтвердить условия зачисления и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Пилотирование подводного дрона и исследование гавани с музейными преподавателями. От 1 до 4 игроков в сеансе. Отмена при плохой погоде с возвратом.",
+      "shortlist": [],
+      "questions": [
+        "Нужна бронь на конкретный сеанс. Уточнить оплату дополнительных игроков и доступ сопровождающих."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.sea.museum/en/visit/tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Нужна бронь на конкретный сеанс. Уточнить оплату дополнительных игроков и доступ сопровождающих."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2434",
+      "slug": "giis-tokyo-kita-kasai-winter-school-grades-1-8-2026",
+      "provider": "GIIS Tokyo · Winter Camp · Grades 1–8",
+      "iso": "JPN",
+      "country": "Япония",
+      "place": "GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa",
+      "age": "6+ и 1–8 классы. Группа определяется фактическим классом.",
+      "programme": "Английский и спорт для 1–8 классов. Театр для 1–2, кино и покадровая анимация для 3–5, предпринимательство для 6–8.",
+      "themes": [
+        "general",
+        "art",
+        "technology",
+        "languages",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Английский входит в программу как отдельный предмет. Язык кино, анимации и других занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Окно 14.12.2026–24.12.2026, 09:30–14:30. Полный перечень учебных дней школа не указала.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Grades 1–8",
+            "start": "2026-12-14",
+            "end": "2026-12-24",
+            "source": "https://globalindianschool.org/jp/tokyo/student-life/winter-camp/",
+            "date_scope": "programme_window",
+            "place": "GIIS Tokyo Kita Kasai Campus · 2-chōme-10-20 Kitakasai, Edogawa",
+            "price": "JPY 65 000 для 1–8 классов. Автобус JPY 20 000 отдельно.",
+            "entry": "Форма интереса на сайте школы. Подтвердить допуск детей из другой школы, класс, язык занятий и место."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 65000,
+        "label": "JPY 65 000 для 1–8 классов. Автобус JPY 20 000 отдельно.",
+        "unit": "programme",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Форма интереса на сайте школы. Подтвердить допуск детей из другой школы, класс, язык занятий и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Форма интереса на сайте школы. Подтвердить допуск детей из другой школы, класс, язык занятий и место."
+        }
+      },
+      "editorial_reason": "Английский и спорт для 1–8 классов. Театр для 1–2, кино и покадровая анимация для 3–5, предпринимательство для 6–8.",
+      "shortlist": [],
+      "questions": [
+        "Форма интереса на сайте школы. Подтвердить допуск детей из другой школы, класс, язык занятий и место."
+      ],
+      "sources": [
+        {
+          "url": "https://globalindianschool.org/jp/tokyo/student-life/winter-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Форма интереса на сайте школы. Подтвердить допуск детей из другой школы, класс, язык занятий и место."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2435",
+      "slug": "codecraft-philippines-wedo-beginner-2026-2027",
+      "provider": "CodeCraft Philippines · WeDo 2.0 Beginners",
+      "iso": "PHL",
+      "country": "Филиппины",
+      "place": "Quezon City · площадку этих занятий подтвердить у CodeCraft",
+      "age": "Детский сад – 3 класс.",
+      "programme": "LEGO WeDo 2.0. Сборка и программирование до 11 моделей.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на английском. Язык отдельных занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Четырёхчасовой курс. Даты групп организатор на странице акции не указал.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PHP",
+        "amount": 3700,
+        "label": "PHP 3 700 за программу. PHP 2 960 по акции до 31.01.2027 при покупке участвующих товаров и выполнении условий.",
+        "unit": "programme",
+        "included": "Заявлены комплект материалов и сертификат курса.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+        }
+      },
+      "editorial_reason": "LEGO WeDo 2.0. Сборка и программирование до 11 моделей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codecraftlearning.com/fritolay-x-codecraft",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.codecraftlearning.com/programs/introduction-to-robotics",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+      },
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2436",
+      "slug": "codecraft-philippines-spike-prime-beginner-2026-2027",
+      "provider": "CodeCraft Philippines · SPIKE Prime Beginners",
+      "iso": "PHL",
+      "country": "Филиппины",
+      "place": "Quezon City · площадку этих занятий подтвердить у CodeCraft",
+      "age": "С 4 класса.",
+      "programme": "LEGO SPIKE Prime. Сборка и программирование до 6 моделей.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на английском. Язык отдельных занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Четырёхчасовой курс. Даты групп организатор на странице акции не указал.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PHP",
+        "amount": 3700,
+        "label": "PHP 3 700 за программу. PHP 2 960 по акции до 31.01.2027 при покупке участвующих товаров и выполнении условий.",
+        "unit": "programme",
+        "included": "Заявлены комплект материалов и сертификат курса.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "LEGO SPIKE Prime. Сборка и программирование до 6 моделей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codecraftlearning.com/fritolay-x-codecraft",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.codecraftlearning.com/programs/introduction-to-robotics",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить эквивалент школьного класса, место, дату, преподавание и применение промокода. Акция не определяет дату занятия."
+      },
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2437",
+      "slug": "robothink-chicago-winter-robotics-2027",
+      "provider": "RoboThink Chicago · Winter Robotics",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+      "age": "6–12 лет по карточке программы.",
+      "programme": "Субботняя сборка роботов и инженерные задачи.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на английском. Язык отдельных занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Субботы в период 09.01.2027–13.03.2027, 10:00–11:30. Уточнить календарь и праздничные исключения.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-03-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Robotics",
+            "start": "2027-01-09",
+            "end": "2027-03-13",
+            "source": "https://myrobothink.com/chicago",
+            "date_scope": "programme_window",
+            "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+            "price": "USD 250 за зимний курс на ребёнка.",
+            "entry": "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 250,
+        "label": "USD 250 за зимний курс на ребёнка.",
+        "unit": "programme",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон. Подтвердить условия зачисления и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон. Подтвердить условия зачисления и место."
+        }
+      },
+      "editorial_reason": "Субботняя сборка роботов и инженерные задачи.",
+      "shortlist": [],
+      "questions": [
+        "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+      ],
+      "sources": [
+        {
+          "url": "https://myrobothink.com/chicago",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2438",
+      "slug": "robothink-chicago-winter-coding-2027",
+      "provider": "RoboThink Chicago · Winter Coding",
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+      "age": "7–12 лет по карточке программы.",
+      "programme": "Проекты по программированию, интерактивные игры и анимация. В карточке регистрации указаны 2–6 классы.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на английском. Язык отдельных занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Субботы в период 09.01.2027–13.03.2027, 12:00–13:30. Уточнить календарь и праздничные исключения.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-03-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "label": "Coding",
+            "start": "2027-01-09",
+            "end": "2027-03-13",
+            "source": "https://myrobothink.com/chicago",
+            "date_scope": "programme_window",
+            "place": "ThinkLab STEM · 2252 S Canal Street, Unit 204, Chicago, IL",
+            "price": "USD 250 за зимний курс на ребёнка.",
+            "entry": "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 250,
+        "label": "USD 250 за зимний курс на ребёнка.",
+        "unit": "programme",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон. Подтвердить условия зачисления и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст ниже опубликованного минимума."
+        }
+      },
+      "editorial_reason": "Проекты по программированию, интерактивные игры и анимация. В карточке регистрации указаны 2–6 классы.",
+      "shortlist": [],
+      "questions": [
+        "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+      ],
+      "sources": [
+        {
+          "url": "https://myrobothink.com/chicago",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Набор у RoboThink Chicago. Сверить места, школьную группу и фактический язык занятий."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "materials_languages": [
+        "EN"
+      ]
     }
   ],
   "gaps": [
@@ -390539,7 +391045,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2432,
+      "total_dossiers": 2438,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
