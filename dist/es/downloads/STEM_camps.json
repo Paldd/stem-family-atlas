@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 5808,
-      "holiday": 5173,
+      "records": 5812,
+      "holiday": 5177,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1678,
+      "en_es_instruction": 1682,
       "en_es_support": 67,
-      "family_instruction": 1678,
+      "family_instruction": 1682,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 160
+      "countries": 161
     },
     "validation": {
       "version": 51,
@@ -52405,6 +52405,61 @@
       "date_scope": "programme_watch",
       "camp_dossier_slug": "tsi-riga-ev3-foundation",
       "camp_programme_id": "CP2375",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L968",
+      "title": "CLA Vilnius · Spanish International Day Camp · watch",
+      "block": "Campamentos",
+      "country": "Lituania",
+      "region": "Europa",
+      "iso": [
+        "LTU"
+      ],
+      "city": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "source": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+      "references": [
+        {
+          "url": "https://www.creative-learning-academy.com/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "mat": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.",
+      "osc": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+      "gear": "",
+      "language": "Todo el día en español en el grupo elegido en español.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "cost": "220 EUR por programa ordinario de cinco días según la página general. Confirme fechas y tarifa del grupo concreto en español.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de viajar, confirme plazas, reglas locales y condiciones para visitantes extranjeros.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.",
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "camp_dossier_slug": "cla-vilnius-spanish-day-camp-watch",
+      "camp_programme_id": "CP2380",
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
@@ -488551,6 +488606,237 @@
           "start_utc": "2027-02-26T17:00:00Z",
           "end_utc": "2027-02-26T21:00:00Z"
         }
+      ]
+    },
+    {
+      "id": "CP2377-20261221-20261224-week-1",
+      "block": "Campamentos",
+      "title": "CLA Vilnius · The Christmas Makers · Turno de invierno · 2026-12-21–2026-12-24",
+      "country": "Lituania",
+      "region": "Europa",
+      "city": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Música, manualidades, viaje en tren, patinaje y repostería. El 24 de diciembre solo por la mañana.",
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "cost": "2026/27 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+      "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+      "references": [
+        {
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.",
+      "iso": [
+        "LTU"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cla-vilnius-christmas-w1",
+      "camp_programme_id": "CP2377",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2378-20261228-20261231-week-2",
+      "block": "Campamentos",
+      "title": "CLA Vilnius · The Last Adventure of the Year · Turno de invierno · 2026-12-28–2026-12-31",
+      "country": "Lituania",
+      "region": "Europa",
+      "city": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Maqueta urbana, museo, teatro y retos en equipo. El 31 de diciembre solo por la mañana.",
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "cost": "2026/27 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+      "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+      "references": [
+        {
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.",
+      "iso": [
+        "LTU"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cla-vilnius-christmas-w2",
+      "camp_programme_id": "CP2378",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2379-20270104-20270108-week-3",
+      "block": "Campamentos",
+      "title": "CLA Vilnius · Discovering Lithuania · Turno de invierno · 2027-01-04–2027-01-08",
+      "country": "Lituania",
+      "region": "Europa",
+      "city": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "period": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Juegos para descubrir la ciudad, excursión, museo, leyendas, máscaras y títeres.",
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "cost": "2027 · 230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+      "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+      "references": [
+        {
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.",
+      "iso": [
+        "LTU"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "cla-vilnius-christmas-w3",
+      "camp_programme_id": "CP2379",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
       ]
     },
     {

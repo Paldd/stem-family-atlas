@@ -1,0 +1,129 @@
+{
+  "version": 355,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "competition_ids": [
+    "C5422",
+    "C5423",
+    "C5424",
+    "C5425",
+    "C5426",
+    "C5427",
+    "C5428",
+    "C5429",
+    "C5430",
+    "C5431",
+    "C5432",
+    "C5433",
+    "C5434",
+    "C5435",
+    "C5436",
+    "C5437",
+    "C5438",
+    "C5439",
+    "C5440",
+    "C5441",
+    "C5442",
+    "C5443",
+    "C5444",
+    "C5445",
+    "C5446",
+    "C5447",
+    "C5448",
+    "C5449"
+  ],
+  "exhibition_ids": [
+    "E785",
+    "E786",
+    "E787",
+    "E788",
+    "E789"
+  ],
+  "learning_event_ids": [
+    "L968",
+    "CP2377-20261221-20261224-week-1",
+    "CP2378-20261228-20261231-week-2",
+    "CP2379-20270104-20270108-week-3"
+  ],
+  "camp_dossier_ids": [
+    "CP2377",
+    "CP2378",
+    "CP2379",
+    "CP2380",
+    "CP2381"
+  ],
+  "robotex_date": [
+    "2026-12-11",
+    "2026-12-12"
+  ],
+  "robotex_registration_utc": "2026-11-30T21:59:00Z",
+  "robotex_category_ids": [
+    "C5422",
+    "C5423",
+    "C5424",
+    "C5425",
+    "C5426",
+    "C5427",
+    "C5428",
+    "C5429",
+    "C5430",
+    "C5431",
+    "C5432",
+    "C5433"
+  ],
+  "robotex_visitor_id": "E785",
+  "roboliiga_id": "C5422",
+  "steam_abc_id": "C5446",
+  "steam_abc_deadline_utc": "2026-11-11T13:00:00Z",
+  "folkrace_stage_ids": [
+    "C5434",
+    "C5435",
+    "C5436",
+    "C5437"
+  ],
+  "vilipo_route_ids": [
+    "C5447",
+    "C5448",
+    "C5449"
+  ],
+  "vilipo_rule_faq_conflict": {
+    "rules": [
+      "2027-02-01",
+      "2027-02-08"
+    ],
+    "faq": [
+      "2027-02-21",
+      "2027-03-03"
+    ]
+  },
+  "legacy_overlay_event_ids": [
+    "C1570",
+    "C1571"
+  ],
+  "refreshed_event_ids": [
+    "C1570",
+    "C1571"
+  ],
+  "national_route_updates": [
+    {
+      "id": "NR-FLL-EST-general",
+      "provider": "MTÜ Robootika",
+      "url": "https://www.firstlegoleague.ee/",
+      "access_url": "https://www.firstlegoleague.ee/",
+      "website_status": "verified_local_site",
+      "website_checked": "2026-11-09",
+      "checked": "2026-11-09",
+      "programme": "Местный партнёр указывает Explore 6–9 и Challenge 9–16. Даты, редакция правил, язык и зарубежный допуск следующего события уточняются.",
+      "website_note": "Местный партнёр указывает Explore 6–9 и Challenge 9–16. Даты, редакция правил, язык и зарубежный допуск следующего события уточняются."
+    }
+  ],
+  "exclusions": {
+    "ivaigo": "http_404",
+    "robotex_2027": "year_conflict_official_2026",
+    "language_unknown": [
+      "digipurk_instruction",
+      "robotex_estonia_judging"
+    ]
+  }
+}

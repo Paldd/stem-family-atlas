@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2376,
+    "dossiers": 2381,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 330,
+      "published_2026_27": 333,
       "published_2027": 661,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -44,13 +44,14 @@
       "archive_next_unannounced": 152,
       "regular_programme": 21,
       "regular_2026_27": 33,
-      "historical_2026_next_season_unknown": 2,
+      "historical_2026_next_season_unknown": 3,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
-      "future_cohort_unknown": 3
+      "future_cohort_unknown": 3,
+      "dates_pending": 1
     },
-    "source_urls": 3284
+    "source_urls": 3289
   },
   "countries": [
     {
@@ -591,7 +592,7 @@
     },
     {
       "country": "Эстония",
-      "count": 2
+      "count": 3
     },
     {
       "country": "Эфиопия",
@@ -612,6 +613,10 @@
     {
       "country": "Япония",
       "count": 92
+    },
+    {
+      "country": "Литва",
+      "count": 4
     }
   ],
   "profiles": [
@@ -362306,6 +362311,469 @@
         }
       ],
       "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2377",
+      "slug": "cla-vilnius-christmas-w1",
+      "provider": "CLA Vilnius · The Christmas Makers",
+      "country": "Литва",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+      "programme": "Музыка, ремесло, поездка на поезде, каток, выпечка. 24 декабря только утро.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Английский на протяжении дня. Подходит любой уровень, литовский не требуется. Организатор принимает местных и иностранных детей.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Зимняя смена",
+            "variant_key": "week-1",
+            "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+            "price": "195 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              }
+            }
+          }
+        ],
+        "precision": "exact",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 195,
+        "unit": "session",
+        "label": "195 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+        "included": "Обед в полные дни.",
+        "extras": "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий.",
+        "deposit": "По правилам лагерей полная оплата в течение 7 дней после подтверждения, сразу если до начала меньше 14 дней. Возврат при отмене за 30 дней или раньше полный, за 14–29 дней 50%, позднее возврата нет. Отдельные полные и половинные дни не возвращаются."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        }
+      },
+      "editorial_reason": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2378",
+      "slug": "cla-vilnius-christmas-w2",
+      "provider": "CLA Vilnius · The Last Adventure of the Year",
+      "country": "Литва",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+      "programme": "Городской макет, музей, театр и командные задачи. 31 декабря только утро.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Английский на протяжении дня. Подходит любой уровень, литовский не требуется. Организатор принимает местных и иностранных детей.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Зимняя смена",
+            "variant_key": "week-2",
+            "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+            "price": "195 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              }
+            }
+          }
+        ],
+        "precision": "exact",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 195,
+        "unit": "session",
+        "label": "195 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+        "included": "Обед в полные дни.",
+        "extras": "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий.",
+        "deposit": "По правилам лагерей полная оплата в течение 7 дней после подтверждения, сразу если до начала меньше 14 дней. Возврат при отмене за 30 дней или раньше полный, за 14–29 дней 50%, позднее возврата нет. Отдельные полные и половинные дни не возвращаются."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        }
+      },
+      "editorial_reason": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2379",
+      "slug": "cla-vilnius-christmas-w3",
+      "provider": "CLA Vilnius · Discovering Lithuania",
+      "country": "Литва",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+      "programme": "Игры на знакомство с городом, поездка, музей, легенды, маски и куклы.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Английский на протяжении дня. Подходит любой уровень, литовский не требуется. Организатор принимает местных и иностранных детей.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Зимняя смена",
+            "variant_key": "week-3",
+            "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+            "price": "230 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+              }
+            }
+          }
+        ],
+        "precision": "exact",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 230,
+        "unit": "session",
+        "label": "230 EUR за смену на ребёнка. 55 EUR за полный день с обедом. Полдня 24 или 31 декабря стоит 30 EUR. Подтвердить часы и наличие мест в обеих группах.",
+        "included": "Обед в полные дни.",
+        "extras": "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий.",
+        "deposit": "По правилам лагерей полная оплата в течение 7 дней после подтверждения, сразу если до начала меньше 14 дней. Возврат при отмене за 30 дней или раньше полный, за 14–29 дней 50%, позднее возврата нет. Отдельные полные и половинные дни не возвращаются."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        }
+      },
+      "editorial_reason": "Англоязычная творческая и культурная смена. Профильной робототехники в расписании нет.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2380",
+      "slug": "cla-vilnius-spanish-day-camp-watch",
+      "provider": "CLA Vilnius · International Day Camp in Spanish",
+      "country": "Литва",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Группы 4–7 и 8–12 лет на одной площадке.",
+      "programme": "Театр, творчество, игры, культурные задания и общий проект.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "В выбранной испаноязычной группе весь день на испанском.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "dates_pending",
+        "label": "Самостоятельный испаноязычный творческий лагерь заявлен в каталоге, но дата набора пока не указана. Зимние смены идут на английском.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 220,
+        "unit": "week",
+        "label": "220 EUR за обычную пятидневную программу по общей странице. Даты и тариф конкретной испанской группы уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Оба ребёнка подходят при подтверждении места и группы."
+        }
+      },
+      "editorial_reason": "Самостоятельный испаноязычный творческий лагерь заявлен в каталоге, но дата набора пока не указана. Зимние смены идут на английском.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить часы полного и короткого дня, места для обоих детей, правила отмены и изменения экскурсий."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.creative-learning-academy.com/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2381",
+      "slug": "digipurk-tabasalu-robotics-next-season",
+      "provider": "Digipurk · Robotics Summer Camp",
+      "country": "Эстония",
+      "iso": "EST",
+      "place": "Tabasalu · Metsa 4",
+      "age": "В 2026 принимали детей от 7 лет. Возраст следующего набора уточнить.",
+      "programme": "Arduino, пайка, 3D-моделирование, печать и анимация. Исторический формат 09:30–16:00.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "makers"
+      ],
+      "language": "Сайт доступен по-английски. Язык обучения на смене не указан.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "Последние опубликованные смены 6–10, 13–17 и 20–24 июля 2026. Даты 2027 не подтверждены.",
+        "sessions": [],
+        "session_details": [],
+        "historical_windows": [
+          [
+            "2026-07-06",
+            "2026-07-10"
+          ],
+          [
+            "2026-07-13",
+            "2026-07-17"
+          ],
+          [
+            "2026-07-20",
+            "2026-07-24"
+          ]
+        ],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 210,
+        "unit": "week",
+        "label": "В 2026 210 EUR за 5 дней, включая оборудование и питание. Регистрационный платёж 30 EUR. Тариф 2027 неизвестен."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2026 принимали детей от 7 лет. Возраст следующего набора уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "В 2026 принимали детей от 7 лет. Возраст следующего набора уточнить."
+        }
+      },
+      "editorial_reason": "Последние опубликованные смены 6–10, 13–17 и 20–24 июля 2026. Даты 2027 не подтверждены.",
+      "shortlist": [],
+      "questions": [
+        "Перед поездкой уточнить наличие мест, местные правила и условия приёма приезжих."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://digipurk.ee/en/laagrid",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
     }
   ],
   "gaps": [
@@ -380866,7 +381334,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2376,
+      "total_dossiers": 2381,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

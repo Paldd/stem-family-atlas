@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2376 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2381 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -186611,6 +186611,246 @@ Letonia · Riga · Brīvības gatve 224 K-1
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.robohub.lv/brauc-uz-nometni/) · 2026-11-09
+
+## CP2377 · CLA Vilnius · The Christmas Makers
+
+Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Idioma:** Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+
+**Programa:** Música, manualidades, viaje en tren, patinaje y repostería. El 24 de diciembre solo por la mañana.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+**Precio / año:** 2026 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Incluye:** Almuerzo en días completos.
+
+**Cargos extra:** Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+**Pago:** Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Motivo de selección:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+### Antes de solicitar plaza
+
+- Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+### Turno de invierno
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Lugar:** Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Precio:** 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+[fuente](https://www.creative-learning-academy.com/camps/christmas-camps/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/christmas-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/international-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/policies/cancellation/) · 2026-11-09
+
+## CP2378 · CLA Vilnius · The Last Adventure of the Year
+
+Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Idioma:** Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+
+**Programa:** Maqueta urbana, museo, teatro y retos en equipo. El 31 de diciembre solo por la mañana.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+**Precio / año:** 2026 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Incluye:** Almuerzo en días completos.
+
+**Cargos extra:** Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+**Pago:** Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Motivo de selección:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+### Antes de solicitar plaza
+
+- Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+### Turno de invierno
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Lugar:** Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Precio:** 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+[fuente](https://www.creative-learning-academy.com/camps/christmas-camps/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/christmas-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/international-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/policies/cancellation/) · 2026-11-09
+
+## CP2379 · CLA Vilnius · Discovering Lithuania
+
+Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Idioma:** Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+
+**Programa:** Juegos para descubrir la ciudad, excursión, museo, leyendas, máscaras y títeres.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+**Precio / año:** 2027 · 230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Incluye:** Almuerzo en días completos.
+
+**Cargos extra:** Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+**Pago:** Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Motivo de selección:** Turno creativo y cultural en inglés. El programa no incluye robótica especializada.
+
+### Antes de solicitar plaza
+
+- Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+### Turno de invierno
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Precio:** 230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+[fuente](https://www.creative-learning-academy.com/camps/christmas-camps/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/christmas-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/international-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/policies/cancellation/) · 2026-11-09
+
+## CP2380 · CLA Vilnius · International Day Camp in Spanish
+
+Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Grupos de 4–7 y 8–12 años en la misma sede.
+
+**Idioma:** Todo el día en español en el grupo elegido en español.
+
+**Programa:** Teatro, creatividad, juegos, actividades culturales y proyecto común.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.
+
+**Precio / año:** 2026 · 220 EUR por programa ordinario de cinco días según la página general. Confirme fechas y tarifa del grupo concreto en español.
+
+**Matvey:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Oscar:** Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+
+**Motivo de selección:** El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.
+
+### Antes de solicitar plaza
+
+- Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/camps/international-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.creative-learning-academy.com/) · 2026-11-09
+
+## CP2381 · Digipurk · Robotics Summer Camp
+
+Estonia · Tabasalu · Metsa 4
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** En 2026 admitían desde 7 años. Confirme la edad de la próxima edición.
+
+**Idioma:** La web está disponible en inglés. No indica el idioma de enseñanza del turno.
+
+**Programa:** Arduino, soldadura, modelado 3D, impresión y animación. Horario histórico de 09:30 a 16:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Últimos turnos publicados del 6–10, 13–17 y 20–24 de julio de 2026. Fechas de 2027 sin confirmar.
+
+**Precio / año:** 2026 · En 2026, 210 EUR por 5 días, incluidos equipos y comidas. Pago de inscripción de 30 EUR. Tarifa de 2027 pendiente.
+
+**Matvey:** En 2026 admitían desde 7 años. Confirme la edad de la próxima edición.
+
+**Oscar:** En 2026 admitían desde 7 años. Confirme la edad de la próxima edición.
+
+**Motivo de selección:** Últimos turnos publicados del 6–10, 13–17 y 20–24 de julio de 2026. Fechas de 2027 sin confirmar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, confirme plazas, reglas locales y condiciones para visitantes extranjeros.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://digipurk.ee/en/laagrid) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

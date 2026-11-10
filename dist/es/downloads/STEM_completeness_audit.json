@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12012,
-    "competition_cards": 5420,
-    "event_cards": 784,
-    "camp_cards": 5808,
-    "league_profiles": 340,
-    "major_exhibition_cards": 677,
+    "cards": 12049,
+    "competition_cards": 5448,
+    "event_cards": 789,
+    "camp_cards": 5812,
+    "league_profiles": 342,
+    "major_exhibition_cards": 682,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2629,
+      "total": 2666,
       "countries_with_records": 55,
-      "competitions": 764,
-      "events": 191,
-      "major_exhibitions": 167,
-      "camps": 1674,
+      "competitions": 792,
+      "events": 196,
+      "major_exhibitions": 172,
+      "camps": 1678,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -8872,6 +8872,48 @@
       "new": false
     },
     {
+      "id": "robotex-estonia",
+      "name": "Robotex Eesti",
+      "group": "regional",
+      "event_ids": [
+        "C5422",
+        "C5423",
+        "C5424",
+        "C5425",
+        "C5426",
+        "C5427",
+        "C5428",
+        "C5429",
+        "C5430",
+        "C5431",
+        "C5432",
+        "C5433"
+      ],
+      "cards": 12,
+      "future_dated": 12,
+      "linked_card_count": 12,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://robotex.ee/",
+      "new": false
+    },
+    {
+      "id": "folkrace-estonia",
+      "name": "TalTech x TTK Folkrace",
+      "group": "regional",
+      "event_ids": [
+        "C5434",
+        "C5435",
+        "C5436",
+        "C5437"
+      ],
+      "cards": 4,
+      "future_dated": 2,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://folkrace.ee/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -17320,6 +17362,61 @@
       "new": false
     },
     {
+      "id": "E785",
+      "name": "Robotex Eesti 2026 · Noorte päev",
+      "country": "Estonia",
+      "region": "Europa",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://robotex.ee/",
+      "new": false
+    },
+    {
+      "id": "E786",
+      "name": "Delta X 2027 · Engineering and Robotics Festival",
+      "country": "Estonia",
+      "region": "Europa",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "visitor_policy": "family",
+      "source": "https://delta.ut.ee/et/uudis/delta-x-2027",
+      "new": false
+    },
+    {
+      "id": "E787",
+      "name": "PROTO Great Inventors Festival 2026",
+      "country": "Estonia",
+      "region": "Europa",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.prototehas.ee/event/suur-leiutajate-festival/",
+      "new": false
+    },
+    {
+      "id": "E788",
+      "name": "PROTO Brick Fun 2026 · EstLUG",
+      "country": "Estonia",
+      "region": "Europa",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "visitor_policy": "family",
+      "source": "https://www.prototehas.ee/event/klotsilust/",
+      "new": false
+    },
+    {
+      "id": "E789",
+      "name": "GameOn 2026 · archive",
+      "country": "Lituania",
+      "region": "Europa",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "visitor_policy": "family",
+      "source": "https://www.litexpo.lt/renginiai/gameon-2026/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17843,7 +17940,8 @@
     "Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado.",
     "Se precisaron los plazos y condiciones de Kiwibots. Se añadieron ferias de Oceanía, talleres de Logan Libraries y dos turnos de Mission to Space. El acceso profesional y la participación infantil figuran por separado.",
     "Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.",
-    "Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado."
+    "Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado.",
+    "En Estonia se añadieron Robotex, Folkrace, Delta X y actividades familiares de PROTO. En Lituania se revisaron STEAM ABC, las vías VILIPO y turnos de invierno en inglés. La cobertura mundial sigue siendo parcial."
   ],
   "source_issues": [
     {
@@ -19746,20 +19844,20 @@
       }
     ],
     "counts": {
-      "records": 5808,
-      "holiday": 5173,
+      "records": 5812,
+      "holiday": 5177,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1678,
+      "en_es_instruction": 1682,
       "en_es_support": 67,
-      "family_instruction": 1678,
+      "family_instruction": 1682,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 160
+      "countries": 161
     },
     "validation": {
       "version": 51,

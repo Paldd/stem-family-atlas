@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2376,
+    "dossiers": 2381,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 330,
+      "published_2026_27": 333,
       "published_2027": 661,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -44,13 +44,14 @@
       "archive_next_unannounced": 152,
       "regular_programme": 21,
       "regular_2026_27": 33,
-      "historical_2026_next_season_unknown": 2,
+      "historical_2026_next_season_unknown": 3,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
-      "future_cohort_unknown": 3
+      "future_cohort_unknown": 3,
+      "dates_pending": 1
     },
-    "source_urls": 3284
+    "source_urls": 3289
   },
   "countries": [
     {
@@ -591,7 +592,7 @@
     },
     {
       "country": "Estonia",
-      "count": 2
+      "count": 3
     },
     {
       "country": "Etiopía",
@@ -612,6 +613,10 @@
     {
       "country": "Japón",
       "count": 92
+    },
+    {
+      "country": "Lituania",
+      "count": 4
     }
   ],
   "profiles": [
@@ -417467,6 +417472,527 @@
           "LV"
         ]
       }
+    },
+    {
+      "id": "CP2377",
+      "slug": "cla-vilnius-christmas-w1",
+      "provider": "CLA Vilnius · The Christmas Makers",
+      "country": "Lituania",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "programme": "Música, manualidades, viaje en tren, patinaje y repostería. El 24 de diciembre solo por la mañana.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Turno de invierno",
+            "variant_key": "week-1",
+            "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+            "price": "195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 195,
+        "unit": "session",
+        "label": "195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+        "included": "Almuerzo en días completos.",
+        "extras": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+        "deposit": "Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        }
+      },
+      "editorial_reason": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "shortlist": [],
+      "questions": [
+        "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2377-20261221-20261224-week-1"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2378",
+      "slug": "cla-vilnius-christmas-w2",
+      "provider": "CLA Vilnius · The Last Adventure of the Year",
+      "country": "Lituania",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "programme": "Maqueta urbana, museo, teatro y retos en equipo. El 31 de diciembre solo por la mañana.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Turno de invierno",
+            "variant_key": "week-2",
+            "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+            "price": "195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 195,
+        "unit": "session",
+        "label": "195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+        "included": "Almuerzo en días completos.",
+        "extras": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+        "deposit": "Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        }
+      },
+      "editorial_reason": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "shortlist": [],
+      "questions": [
+        "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2378-20261228-20261231-week-2"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2379",
+      "slug": "cla-vilnius-christmas-w3",
+      "provider": "CLA Vilnius · Discovering Lithuania",
+      "country": "Lituania",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "programme": "Juegos para descubrir la ciudad, excursión, museo, leyendas, máscaras y títeres.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Turno de invierno",
+            "variant_key": "week-3",
+            "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+            "price": "230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+            "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+            "source": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 230,
+        "unit": "session",
+        "label": "230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos.",
+        "included": "Almuerzo en días completos.",
+        "extras": "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.",
+        "deposit": "Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        }
+      },
+      "editorial_reason": "Turno creativo y cultural en inglés. El programa no incluye robótica especializada.",
+      "shortlist": [],
+      "questions": [
+        "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/christmas-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/policies/cancellation/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2379-20270104-20270108-week-3"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2380",
+      "slug": "cla-vilnius-spanish-day-camp-watch",
+      "provider": "CLA Vilnius · International Day Camp in Spanish",
+      "country": "Lituania",
+      "iso": "LTU",
+      "place": "Vilnius · Creative Learning Academy · Kražių g. 25",
+      "age": "Grupos de 4–7 y 8–12 años en la misma sede.",
+      "programme": "Teatro, creatividad, juegos, actividades culturales y proyecto común.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "makers",
+        "games"
+      ],
+      "language": "Todo el día en español en el grupo elegido en español.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "dates_pending",
+        "label": "El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 220,
+        "unit": "week",
+        "label": "220 EUR por programa ordinario de cinco días según la página general. Confirme fechas y tarifa del grupo concreto en español."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo."
+        }
+      },
+      "editorial_reason": "El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.",
+      "shortlist": [],
+      "questions": [
+        "Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/camps/international-day-camps/",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.creative-learning-academy.com/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2381",
+      "slug": "digipurk-tabasalu-robotics-next-season",
+      "provider": "Digipurk · Robotics Summer Camp",
+      "country": "Estonia",
+      "iso": "EST",
+      "place": "Tabasalu · Metsa 4",
+      "age": "En 2026 admitían desde 7 años. Confirme la edad de la próxima edición.",
+      "programme": "Arduino, soldadura, modelado 3D, impresión y animación. Horario histórico de 09:30 a 16:00.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "makers"
+      ],
+      "language": "La web está disponible en inglés. No indica el idioma de enseñanza del turno.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "Últimos turnos publicados del 6–10, 13–17 y 20–24 de julio de 2026. Fechas de 2027 sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "historical_windows": [
+          [
+            "2026-07-06",
+            "2026-07-10"
+          ],
+          [
+            "2026-07-13",
+            "2026-07-17"
+          ],
+          [
+            "2026-07-20",
+            "2026-07-24"
+          ]
+        ],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 210,
+        "unit": "week",
+        "label": "En 2026, 210 EUR por 5 días, incluidos equipos y comidas. Pago de inscripción de 30 EUR. Tarifa de 2027 pendiente."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "En 2026 admitían desde 7 años. Confirme la edad de la próxima edición."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "En 2026 admitían desde 7 años. Confirme la edad de la próxima edición."
+        }
+      },
+      "editorial_reason": "Últimos turnos publicados del 6–10, 13–17 y 20–24 de julio de 2026. Fechas de 2027 sin confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Antes de viajar, confirme plazas, reglas locales y condiciones para visitantes extranjeros."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://digipurk.ee/en/laagrid",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -436027,7 +436553,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2376,
+      "total_dossiers": 2381,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -461817,6 +462343,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2377",
+      "event_id": "CP2377-20261221-20261224-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2378",
+      "event_id": "CP2378-20261228-20261231-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2379",
+      "event_id": "CP2379-20270104-20270108-week-3",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -467068,10 +467609,13 @@
     "CP2373-20270201-20270205-summer-week-5",
     "CP2373-20270208-20270212-summer-week-6",
     "CP2373-20270215-20270219-summer-week-7",
-    "CP2373-20270222-20270226-summer-week-8"
+    "CP2373-20270222-20270226-summer-week-8",
+    "CP2377-20261221-20261224-week-1",
+    "CP2378-20261228-20261231-week-2",
+    "CP2379-20270104-20270108-week-3"
   ],
   "integration": {
-    "generated_sessions": 4841,
+    "generated_sessions": 4844,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

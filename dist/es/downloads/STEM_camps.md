@@ -14262,6 +14262,22 @@ Condiciones: El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes 
 Fuente: https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/
 Se ha comprobado: 2026-11-09
 
+### L968 · CLA Vilnius · Spanish International Day Camp · watch
+
+Lugar: Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+Fecha: El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.
+Edad: Grupos de 4–7 y 8–12 años en la misma sede.
+Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo.
+Formato: day_camp
+Idioma: Todo el día en español en el grupo elegido en español.
+Marca de idioma: primary; soporte: no declarado
+Costo: 220 EUR por programa ordinario de cinco días según la página general. Confirme fechas y tarifa del grupo concreto en español.
+Acceso: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones.
+Condiciones: El catálogo ofrece un campamento creativo separado en español, sin fecha de inscripción publicada. Los turnos de invierno son en inglés.
+Fuente: https://www.creative-learning-academy.com/camps/international-day-camps/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -91716,6 +91732,54 @@ Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2377-20261221-20261224-week-1 · CLA Vilnius · The Christmas Makers · Turno de invierno · 2026-12-21–2026-12-24
+
+Lugar: Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+Fecha: 2026-12-21 - 2026-12-24
+Edad: Grupos de 4–7 y 8–12 años en la misma sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+Fuente: https://www.creative-learning-academy.com/camps/christmas-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2378-20261228-20261231-week-2 · CLA Vilnius · The Last Adventure of the Year · Turno de invierno · 2026-12-28–2026-12-31
+
+Lugar: Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+Fecha: 2026-12-28 - 2026-12-31
+Edad: Grupos de 4–7 y 8–12 años en la misma sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2026/27 · 195 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+Fuente: https://www.creative-learning-academy.com/camps/christmas-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2379-20270104-20270108-week-3 · CLA Vilnius · Discovering Lithuania · Turno de invierno · 2027-01-04–2027-01-08
+
+Lugar: Lituania · Vilnius · Creative Learning Academy · Kražių g. 25
+Fecha: 2027-01-04 — 2027-01-08
+Edad: Grupos de 4–7 y 8–12 años en la misma sede.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés durante todo el día. Cualquier nivel, no se requiere lituano. El organizador admite niños locales e internacionales.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 230 EUR por turno por niño. 55 EUR por día completo con almuerzo. Medio día el 24 o 31 de diciembre cuesta 30 EUR. Confirme horarios y plazas en ambos grupos. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
+Fuente: https://www.creative-learning-academy.com/camps/christmas-camps/
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
