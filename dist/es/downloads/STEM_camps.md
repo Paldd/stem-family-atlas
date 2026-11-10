@@ -62024,195 +62024,195 @@ Se ha comprobado: 2026-11-05
 
 ### CP1289-20261218-20261218-chatswood-20261218 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2026-12-18–2026-12-18
 
-lugar: Australia · Chatswood · confirmar campus address exacto
+Lugar: Australia · Chatswood
 Fecha: 2026-12-18 — 2026-12-18
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1289-20270118-20270118-chatswood-20270118 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2027-01-18–2027-01-18
 
-lugar: Australia · Chatswood · confirmar campus address exacto
+Lugar: Australia · Chatswood
 Fecha: 2027-01-18 国 2027-01-18
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1289-20270128-20270128-chatswood-20270128 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2027-01-28–2027-01-28
 
-lugar: Australia · Chatswood · confirmar campus address exacto
+Lugar: Australia · Chatswood
 Fecha: 2027-01-28 — 2027-01-28
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
-
-### CP1289-20261221-20261221-burwood-20261221 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2026-12-21–2026-12-21
-
-lugar: Australia · Burwood · confirmar campus address exacto
-Fecha: 2026-12-21 — 2026-12-21
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
-Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
-Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
-
-### CP1289-20270121-20270121-burwood-20270121 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2027-01-21–2027-01-21
-
-lugar: Australia · Burwood · confirmar campus address exacto
-Fecha: 2027-01-21 — 2027-01-21
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
-Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
-Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1289-20270120-20270120-zetland-20270120 · STEMLOOK · AI Robot Engineers · Zetland · STEMLOOK · AI Robot Engineers · 2027-01-20–2027-01-20
 
-lugar: Australia · Zetland · confirmar campus address exacto
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
 Fecha: 2027-01-20 — 2027-01-20
-edad: Year 3–8
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
+
+### CP1289-20261221-20261221-burwood-20261221 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2026-12-21–2026-12-21
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2026-12-21 — 2026-12-21
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-09
+
+### CP1289-20270121-20270121-burwood-20270121 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2027-01-21–2027-01-21
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-21 — 2027-01-21
+Edad: Cursos escolares Y3–Y8.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 410. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20261223-20261223-chatswood-20261223 · STEMLOOK · Robot Engineers · Chatswood · STEMLOOK · Robot Engineers · 2026-12-23–2026-12-23
 
-lugar: Australia · Chatswood · confirmar campus address exacto
+Lugar: Australia · Chatswood
 Fecha: 2026-12-23 — 2026-12-23
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20270113-20270113-chatswood-20270113 · STEMLOOK · Robot Engineers · Chatswood · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
 
-lugar: Australia · Chatswood · confirmar campus address exacto
+Lugar: Australia · Chatswood
 Fecha: 2027-01-13 — 2027-01-13
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20261222-20261222-burwood-20261222 · STEMLOOK · Robot Engineers · Burwood · STEMLOOK · Robot Engineers · 2026-12-22–2026-12-22
 
-lugar: Australia · Burwood · confirmar campus address exacto
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
 Fecha: 2026-12-22 — 2026-12-22
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20270113-20270113-burwood-20270113 · STEMLOOK · Robot Engineers · Burwood · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
 
-lugar: Australia · Burwood · confirmar campus address exacto
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
 Fecha: 2027-01-13 — 2027-01-13
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20261218-20261218-zetland-20261218 · STEMLOOK · Robot Engineers · Zetland · STEMLOOK · Robot Engineers · 2026-12-18–2026-12-18
 
-lugar: Australia · Zetland · confirmar campus address exacto
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
 Fecha: 2026-12-18 — 2026-12-18
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1290-20270113-20270113-zetland-20270113 · STEMLOOK · Robot Engineers · Zetland · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
 
-lugar: Australia · Zetland · confirmar campus address exacto
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
 Fecha: 2027-01-13 — 2027-01-13
-edad: Year 3–7
-Matway: especificar; no se ha establecido la edad de admisión
-Oscar: especificar; no se ha establecido la edad de admisión
+Edad: Cursos escolares Y3–Y7.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 por el curso. Opción con robot AUD 399. · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Condiciones: Matvey: Confirme la equivalencia del curso local según el rango publicado. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-09
 
 ### CP1291-20270104-20270115-junior · GIofAI Kids · Future AI Innovators · Future AI Innovators Junior · 2027-01-04–2027-01-15
 
@@ -90676,6 +90676,486 @@ Costo: 2027 · 600 SGD por curso y menor o 570 SGD al reservar con 14+ días de 
 Acceso: Confirme disponibilidad y edad según las condiciones vigentes del grupo elegido. Pago y cambios según las condiciones de venta.
 Condiciones: Matvey: Este programa está dirigido a edades mayores. Oscar: Este programa está dirigido a edades mayores. Cargos extra: Para la mañana lleve auriculares y confirme el portátil. Las preguntas frecuentes también piden auriculares para el proyecto musical de Game Design. Pago: Pago completo al reservar. Sin devolución en efectivo. Cambio dentro de la misma temporada sujeto a plazas. Confirme el bono por recomendación de 50 SGD y los cargos.
 Fuente: https://www.lcclcoding.com/holidays/ai-learner
+Se ha comprobado: 2026-11-09
+
+### CP2354-20261221-20261221-chatswood-20261221 · STEMLOOK · Minecraft Agent Coding · Chatswood · STEMLOOK · Minecraft Agent Coding · 2026-12-21–2026-12-21
+
+Lugar: Australia · Chatswood
+Fecha: 2026-12-21 — 2026-12-21
+Edad: Cursos escolares Y2–Y6. Mínimo 7 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-agent-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2354-20270112-20270112-chatswood-20270112 · STEMLOOK · Minecraft Agent Coding · Chatswood · STEMLOOK · Minecraft Agent Coding · 2027-01-12–2027-01-12
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-12 — 2027-01-12
+Edad: Cursos escolares Y2–Y6. Mínimo 7 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-agent-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2354-20270112-20270112-burwood-20270112 · STEMLOOK · Minecraft Agent Coding · Burwood · STEMLOOK · Minecraft Agent Coding · 2027-01-12–2027-01-12
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-12 — 2027-01-12
+Edad: Cursos escolares Y2–Y6. Mínimo 7 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-agent-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2354-20261221-20261221-zetland-20261221 · STEMLOOK · Minecraft Agent Coding · Zetland · STEMLOOK · Minecraft Agent Coding · 2026-12-21–2026-12-21
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2026-12-21 — 2026-12-21
+Edad: Cursos escolares Y2–Y6. Mínimo 7 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-agent-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2354-20270112-20270112-zetland-20270112 · STEMLOOK · Minecraft Agent Coding · Zetland · STEMLOOK · Minecraft Agent Coding · 2027-01-12–2027-01-12
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2027-01-12 — 2027-01-12
+Edad: Cursos escolares Y2–Y6. Mínimo 7 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-agent-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2355-20261218-20261218-burwood-20261218 · STEMLOOK · Minecraft Artemis Rocket · Burwood · STEMLOOK · Minecraft Artemis Rocket · 2026-12-18–2026-12-18
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2026-12-18 — 2026-12-18
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/
+Se ha comprobado: 2026-11-09
+
+### CP2355-20270119-20270119-burwood-20270119 · STEMLOOK · Minecraft Artemis Rocket · Burwood · STEMLOOK · Minecraft Artemis Rocket · 2027-01-19–2027-01-19
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-19 — 2027-01-19
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/
+Se ha comprobado: 2026-11-09
+
+### CP2355-20270119-20270119-chatswood-20270119 · STEMLOOK · Minecraft Artemis Rocket · Chatswood · STEMLOOK · Minecraft Artemis Rocket · 2027-01-19–2027-01-19
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-19 — 2027-01-19
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/
+Se ha comprobado: 2026-11-09
+
+### CP2355-20270119-20270119-zetland-20270119 · STEMLOOK · Minecraft Artemis Rocket · Zetland · STEMLOOK · Minecraft Artemis Rocket · 2027-01-19–2027-01-19
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2027-01-19 — 2027-01-19
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/
+Se ha comprobado: 2026-11-09
+
+### CP2356-20261222-20261222-chatswood-20261222 · STEMLOOK · Minecraft Mission to Mars · Chatswood · STEMLOOK · Minecraft Mission to Mars · 2026-12-22–2026-12-22
+
+Lugar: Australia · Chatswood
+Fecha: 2026-12-22 — 2026-12-22
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/mission-to-mars-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2356-20261223-20261223-burwood-20261223 · STEMLOOK · Minecraft Mission to Mars · Burwood · STEMLOOK · Minecraft Mission to Mars · 2026-12-23–2026-12-23
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2026-12-23 — 2026-12-23
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/mission-to-mars-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2356-20270115-20270115-chatswood-20270115 · STEMLOOK · Minecraft Mission to Mars · Chatswood · STEMLOOK · Minecraft Mission to Mars · 2027-01-15–2027-01-15
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-15 — 2027-01-15
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/mission-to-mars-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2357-20270121-20270121-chatswood-20270121 · STEMLOOK · Minecraft Mission to Moon · Chatswood · STEMLOOK · Minecraft Mission to Moon · 2027-01-21–2027-01-21
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-21 — 2027-01-21
+Edad: Cursos escolares Y3–Y6. Mínimo 8 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/mission-to-moon-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2358-20270127-20270127-burwood-20270127 · STEMLOOK · Minecraft Volcano Expedition · Burwood · STEMLOOK · Minecraft Volcano Expedition · 2027-01-27–2027-01-27
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-27 — 2027-01-27
+Edad: El título indica Y3–Y6 y la descripción también menciona Y2–Y6. Mínimo 8 años. Confirme la equivalencia del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/volcano-expedition-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2358-20270127-20270127-zetland-20270127 · STEMLOOK · Minecraft Volcano Expedition · Zetland · STEMLOOK · Minecraft Volcano Expedition · 2027-01-27–2027-01-27
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2027-01-27 — 2027-01-27
+Edad: El título indica Y3–Y6 y la descripción también menciona Y2–Y6. Mínimo 8 años. Confirme la equivalencia del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/volcano-expedition-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2358-20270127-20270127-chatswood-20270127 · STEMLOOK · Minecraft Volcano Expedition · Chatswood · STEMLOOK · Minecraft Volcano Expedition · 2027-01-27–2027-01-27
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-27 — 2027-01-27
+Edad: El título indica Y3–Y6 y la descripción también menciona Y2–Y6. Mínimo 8 años. Confirme la equivalencia del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: 9 años entra en la franja orientativa. Confirme la equivalencia del curso local. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/volcano-expedition-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2359-20270120-20270120-burwood-20270120 · STEMLOOK · Artificial Intelligence Intro · Burwood · STEMLOOK · Artificial Intelligence Intro · 2027-01-20–2027-01-20
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-20 — 2027-01-20
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 119 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-machine-learning-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2359-20270121-20270121-zetland-20270121 · STEMLOOK · Artificial Intelligence Intro · Zetland · STEMLOOK · Artificial Intelligence Intro · 2027-01-21–2027-01-21
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2027-01-21 — 2027-01-21
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 119 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-machine-learning-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2359-20261221-20261221-online-20261221 · STEMLOOK · Artificial Intelligence Intro · Online · STEMLOOK · Artificial Intelligence Intro · 2026-12-21–2026-12-21
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2026-12-21 — 2026-12-21
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 110 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-machine-learning-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2359-20270120-20270120-chatswood-20270120 · STEMLOOK · Artificial Intelligence Intro · Chatswood · STEMLOOK · Artificial Intelligence Intro · 2027-01-20–2027-01-20
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-20 — 2027-01-20
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 119 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-machine-learning-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2359-20270120-20270120-online-20270120 · STEMLOOK · Artificial Intelligence Intro · Online · STEMLOOK · Artificial Intelligence Intro · 2027-01-20–2027-01-20
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-20 — 2027-01-20
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 110 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/ai-machine-learning-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2360-20261218-20261218-online-20261218 · STEMLOOK · Python Coding Intro · Online · STEMLOOK · Python Coding Intro · 2026-12-18–2026-12-18
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2026-12-18 — 2026-12-18
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · AUD 110 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2360-20270114-20270114-chatswood-20270114 · STEMLOOK · Python Coding Intro · Chatswood · STEMLOOK · Python Coding Intro · 2027-01-14–2027-01-14
+
+Lugar: Australia · Chatswood
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2360-20270114-20270114-burwood-20270114 · STEMLOOK · Python Coding Intro · Burwood · STEMLOOK · Python Coding Intro · 2027-01-14–2027-01-14
+
+Lugar: Australia · Burwood Library · 2 Conder St · Burwood
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2360-20270114-20270114-zetland-20270114 · STEMLOOK · Python Coding Intro · Zetland · STEMLOOK · Python Coding Intro · 2027-01-14–2027-01-14
+
+Lugar: Australia · 100 Joynton Ave · Zetland NSW 2017
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 129 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2360-20270114-20270114-online-20270114 · STEMLOOK · Python Coding Intro · Online · STEMLOOK · Python Coding Intro · 2027-01-14–2027-01-14
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 110 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-coding-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2361-20270121-20270121-online-20270121 · STEMLOOK · Python Chatbots & Graphics · Online · STEMLOOK · Python Chatbots & Graphics · 2027-01-21–2027-01-21
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-21 — 2027-01-21
+Edad: Cursos escolares Y5–Y9. Mínimo 10 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 109 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/
+Se ha comprobado: 2026-11-09
+
+### CP2362-20270115-20270115-online-20270115 · STEMLOOK · Roblox Coding Intro · Online · STEMLOOK · Roblox Coding Intro · 2027-01-15–2027-01-15
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-15 — 2027-01-15
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 110 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/roblox-coding-camp-part1/
+Se ha comprobado: 2026-11-09
+
+### CP2363-20270113-20270113-online-20270113 · STEMLOOK · Unity Designers Intro · Online · STEMLOOK · Unity Designers Intro · 2027-01-13–2027-01-13
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-13 — 2027-01-13
+Edad: Cursos escolares Y6–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 109 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/
+Se ha comprobado: 2026-11-09
+
+### CP2364-20270119-20270119-online-20270119 · STEMLOOK · Web Creators Intro · Online · STEMLOOK · Web Creators Intro · 2027-01-19–2027-01-19
+
+Lugar: Australia · En línea · hora de Sídney
+Fecha: 2027-01-19 — 2027-01-19
+Edad: Cursos escolares Y5–Y9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · AUD 109 · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor. Oscar: Por debajo del nivel previsto según las condiciones publicadas. Cargos extra: Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final. Pago: Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+Fuente: https://stemlook.com.au/products/web-creators-intro-camp/
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

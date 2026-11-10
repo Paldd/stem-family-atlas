@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11894; соревнований: 5382; событий: 769; лагерей / программ: 5743. Профилей лиг и программ: 339. Карточек крупных и профильных выставок: 662 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11931; соревнований: 5388; событий: 770; лагерей / программ: 5773. Профилей лиг и программ: 339. Карточек крупных и профильных выставок: 663 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -19,11 +19,11 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Европа | 55 | 733 | 162 | 1672 |
 | Африка | 61 | 281 | 46 | 156 |
 | Азия | 51 | 1242 | 190 | 1838 |
-| Океания | 27 | 177 | 32 | 370 |
+| Океания | 27 | 183 | 33 | 400 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 258. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5382 карточек соревнований (15.3%). Это явный перекос охвата.
+VEX: 821 из 5388 карточек соревнований (15.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -95,6 +95,7 @@ VEX: 821 из 5382 карточек соревнований (15.3%). Это я�
 - Сверены отдельные категории IDN IT FEST, школьный инженерный отбор IIT Madras, курсы в Сантьяго и выставочные условия. Сомнительные даты и допуск младших отмечены в карточках.
 - Проверены зимние смены Meta Robotics и LCCL по площадкам и возрастным группам. Для игровых выставок отдельно сверены билеты и детский допуск. Язык преподавания новых курсов пока требует подтверждения.
 - Добавлены действующие региональные варианты SENATI, турнир Astra Challenge, январские курсы Astranautas и выставка настольных игр в Сингапуре. Для программ без точного календаря сохранён статус уточнения.
+- Проверены местные треки AAIO, условия регистрации ECER и новые варианты STEMLOOK. Квалификация, допуск команды и язык занятий отмечены отдельно.
 
 ## Профили лиг и программ
 
@@ -266,7 +267,7 @@ VEX: 821 из 5382 карточек соревнований (15.3%). Это я�
 - **Robotics for Good · Lesotho / STEAMLes**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
-- **ITU · Robotics for Good Youth Challenge**: 53 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **ITU · Robotics for Good Youth Challenge**: 54 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
 - **WRO Myanmar · national route**: 6 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wro-mm.com/
 - **WRO Haiti · Pennies / STEM Alliance**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-association.org/about-wro/association/member-countries/
 - **Robotics for Good Haiti · operator claim**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.haitistemalliance.com/national-organizer
@@ -1074,6 +1075,7 @@ VEX: 821 из 5382 карточек соревнований (15.3%). Это я�
 - **Astra Challenge 2026 · School Projects Showcase** — Перу; 2026-12-06. Детский допуск уточнить. https://www.astranautas.com/astra-challenge-2026.php
 - **Asian Board Games Festival 2026 · Main Days** — Сингапур; 2026-12-05 – 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://www.asianboardgamesfestival.com/about
 - **Asian Board Games Festival 2026 · Preview** — Сингапур; 2026-12-04. Со взрослым; условия взрослого входа отдельно. https://www.asianboardgamesfestival.com/about
+- **AAIO 2027 · National Final Innovation Expo** — Австралия; 2027-03-20. Детский допуск уточнить. https://www.aaio.com.au/static/pdf/AI_&_Technology_for_Health_Innovation_Challenge.pdf
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

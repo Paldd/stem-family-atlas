@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11894,
-    "competition_cards": 5382,
-    "event_cards": 769,
-    "camp_cards": 5743,
+    "cards": 11931,
+    "competition_cards": 5388,
+    "event_cards": 770,
+    "camp_cards": 5773,
     "league_profiles": 339,
-    "major_exhibition_cards": 662,
+    "major_exhibition_cards": 663,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 583,
+      "total": 620,
       "countries_with_records": 27,
-      "competitions": 177,
-      "events": 36,
-      "major_exhibitions": 32,
-      "camps": 370,
+      "competitions": 183,
+      "events": 37,
+      "major_exhibitions": 33,
+      "camps": 400,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -5600,11 +5600,12 @@
         "C4459",
         "C5039",
         "C5040",
+        "C5384",
         "C1929"
       ],
-      "cards": 53,
-      "future_dated": 3,
-      "linked_card_count": 53,
+      "cards": 54,
+      "future_dated": 4,
+      "linked_card_count": 54,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
       "new": false
@@ -17120,6 +17121,17 @@
       "new": false
     },
     {
+      "id": "E770",
+      "name": "AAIO 2027 · National Final Innovation Expo",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.aaio.com.au/static/pdf/AI_&_Technology_for_Health_Innovation_Challenge.pdf",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17639,7 +17651,8 @@
     "Se revisaron fuentes específicas para cinco territorios sin fichas. La infraestructura científica, las actividades escolares internas y los permisos de visita se registran por separado.",
     "Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas.",
     "Se verificaron los turnos de invierno de Meta Robotics y LCCL por sede y edad. Para las exposiciones de juegos se revisaron entradas y acceso de menores por separado. El idioma docente de los cursos nuevos sigue por confirmar.",
-    "Se añadieron opciones regionales activas de SENATI, el torneo Astra Challenge, cursos de enero de Astranautas y la exposición de juegos de mesa en Singapur. Los programas sin calendario exacto siguen pendientes de confirmación."
+    "Se añadieron opciones regionales activas de SENATI, el torneo Astra Challenge, cursos de enero de Astranautas y la exposición de juegos de mesa en Singapur. Los programas sin calendario exacto siguen pendientes de confirmación.",
+    "Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado."
   ],
   "source_issues": [
     {
@@ -19542,8 +19555,8 @@
       }
     ],
     "counts": {
-      "records": 5743,
-      "holiday": 5110,
+      "records": 5773,
+      "holiday": 5140,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,

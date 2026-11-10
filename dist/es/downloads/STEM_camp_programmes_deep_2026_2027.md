@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2353 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2365 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -102626,47 +102626,49 @@ Australia · Brisbane / Robina Gold Coast
 
 ## CP1289 · STEMLOOK · AI Robot Engineers
 
-Australia · Chatswood / Burwood / Zetland · Sydney
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-09
 
-**edad:** Year 3–8
+**Edad:** Cursos escolares Y3–Y8.
 
-**Idioma:** Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
 
-**Programa:** Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+**Programa:** Retos de robótica con programación y elementos de IA.
 
-**Alojamiento:** Programa diurno sin residencia.
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
 
-**Fechas / estado:** Seis variantes campus × día exactas de este programa según body propio y WooCommerce JSON; Camp ONLY y Camp + Robot son dos tarifas de misma clase, no dos sesiones.
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
 
-**Precio / año:** 2026 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio / año:** 2027 · AUD 129 por el curso. Opción con robot AUD 410.
 
-**Incluido:** Robot para uso en clase. Para casa solo al comprar Camp + Robot; BYO laptop / iPad admitido según curso, o alquiler de pago. FAQ de robot desde segundo term corresponde a clases regulares, no paquete camp-only.
+**Incluye:** Clase según la opción elegida.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
 
-**Pago:** Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 
-**Matvey:** Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso.
+**Matvey:** Confirme la equivalencia del curso local según el rango publicado.
 
-**Oscar:** Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso.
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 
 ### Chatswood · STEMLOOK · AI Robot Engineers
 
 **Fechas / estado:** 2026-12-18 — 2026-12-18
 
-**lugar:** Chatswood · confirmar campus address exacto
+**Lugar:** Chatswood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
 
-- 2026-12-18 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2026-12-18 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
 
@@ -102674,11 +102676,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-18 — 2027-01-18
 
-**lugar:** Chatswood · confirmar campus address exacto
+**Lugar:** Chatswood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
 
-- 2027-01-18 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-18 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
 
@@ -102686,35 +102690,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-28 — 2027-01-28
 
-**lugar:** Chatswood · confirmar campus address exacto
+**Lugar:** Chatswood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
 
-- 2027-01-28 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-28 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
 
-[fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
-
-### Burwood · STEMLOOK · AI Robot Engineers
-
-**Fechas / estado:** 2026-12-21 — 2026-12-21
-
-**lugar:** Burwood · confirmar campus address exacto
-
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
-
-- 2026-12-21 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
-
-[fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
-
-### Burwood · STEMLOOK · AI Robot Engineers
-
-**Fechas / estado:** 2027-01-21 — 2027-01-21
-
-**lugar:** Burwood · confirmar campus address exacto
-
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
-
-- 2027-01-21 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
 
@@ -102722,63 +102704,101 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-20 — 2027-01-20
 
-**lugar:** Zetland · confirmar campus address exacto
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
 
-- 2027-01-20 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-20 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
+
+### Burwood · STEMLOOK · AI Robot Engineers
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
+
+- 2026-12-21 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
+
+### Burwood · STEMLOOK · AI Robot Engineers
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129 por el curso. Opción con robot AUD 410.
+
+- 2027-01-21 · 09:00–15:30 · Australia/Sydney · Retos de robótica con programación y elementos de IA.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/)
 
 ### Fuentes
 
-- [Selected dated camp and option prices](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/) · 2026-11-05
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/) · 2026-11-09
 
-- [Separate device hire](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-05
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
 
 ## CP1290 · STEMLOOK · Robot Engineers
 
-Australia · Chatswood / Burwood / Zetland · Sydney
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-09
 
-**edad:** Year 3–7
+**Edad:** Cursos escolares Y3–Y7.
 
-**Idioma:** Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
 
-**Programa:** Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+**Programa:** Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
 
-**Alojamiento:** Programa diurno sin residencia.
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
 
-**Fechas / estado:** Seis variantes campus × día exactas de este programa según body propio y WooCommerce JSON; Camp ONLY y Camp + Robot son dos tarifas de misma clase, no dos sesiones.
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
 
-**Precio / año:** 2026 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio / año:** 2027 · AUD 129 por el curso. Opción con robot AUD 399.
 
-**Incluido:** Robot para uso en clase. Para casa solo al comprar Camp + Robot; BYO laptop / iPad admitido según curso, o alquiler de pago. FAQ de robot desde segundo term corresponde a clases regulares, no paquete camp-only.
+**Incluye:** Clase según la opción elegida.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
 
-**Pago:** Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 
-**Matvey:** Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso.
+**Matvey:** Confirme la equivalencia del curso local según el rango publicado.
 
-**Oscar:** Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso.
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
 
 ### Chatswood · STEMLOOK · Robot Engineers
 
 **Fechas / estado:** 2026-12-23 — 2026-12-23
 
-**lugar:** Chatswood · confirmar campus address exacto
+**Lugar:** Chatswood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2026-12-23 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2026-12-23 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
@@ -102786,11 +102806,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-13 — 2027-01-13
 
-**lugar:** Chatswood · confirmar campus address exacto
+**Lugar:** Chatswood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2027-01-13 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-13 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
@@ -102798,11 +102820,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2026-12-22 — 2026-12-22
 
-**lugar:** Burwood · confirmar campus address exacto
+**Lugar:** Burwood Library · 2 Conder St · Burwood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2026-12-22 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2026-12-22 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
@@ -102810,11 +102834,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-13 — 2027-01-13
 
-**lugar:** Burwood · confirmar campus address exacto
+**Lugar:** Burwood Library · 2 Conder St · Burwood
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2027-01-13 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-13 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
@@ -102822,11 +102848,13 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2026-12-18 — 2026-12-18
 
-**lugar:** Zetland · confirmar campus address exacto
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2026-12-18 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2026-12-18 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
@@ -102834,19 +102862,27 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 
 **Fechas / estado:** 2027-01-13 — 2027-01-13
 
-**lugar:** Zetland · confirmar campus address exacto
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
 
-**Precio:** AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final.
+**Precio:** AUD 129 por el curso. Opción con robot AUD 399.
 
-- 2027-01-13 · 08:30–16:00 · Australia/Sydney · Robot camp práctico 08:30–16:00: coding, maths, engineering y physics; AI añade retos de inteligencia artificial. Robot Engineers describe 50% coding. Nivel de edad determinado por curso Year 3–8 / 3–7, no cifras de URL antiguo.
+- 2027-01-13 · 09:00–15:30 · Australia/Sydney · Montaje y programación de robots. La ficha dedica el 50% del tiempo a programar.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
 
 [fuente](https://stemlook.com.au/products/robotics-and-coding-camp/)
 
 ### Fuentes
 
-- [Selected dated camp and option prices](https://stemlook.com.au/products/robotics-and-coding-camp/) · 2026-11-05
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/robotics-and-coding-camp/) · 2026-11-09
 
-- [Separate device hire](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-05
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
 
 ## CP1291 · GIofAI Kids · Future AI Innovators
 
@@ -184595,6 +184631,956 @@ Perú · Lima
 - [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/taller-robotica-verano.php) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://www.astranautas.com/) · 2026-11-09
+
+## CP2354 · STEMLOOK · Minecraft Agent Coding
+
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y2–Y6. Mínimo 7 años.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 129
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** 9 años entra en la franja orientativa. Confirme la equivalencia del curso local.
+
+**Oscar:** Mínimo 7 años. Compruebe la edad el día del curso y la equivalencia de Y2.
+
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Chatswood · STEMLOOK · Minecraft Agent Coding
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2026-12-21 · 09:00–15:30 · Australia/Sydney · Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-agent-coding-camp/)
+
+### Chatswood · STEMLOOK · Minecraft Agent Coding
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-12 · 09:00–15:30 · Australia/Sydney · Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-agent-coding-camp/)
+
+### Burwood · STEMLOOK · Minecraft Agent Coding
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2027-01-12 · 09:00–15:30 · Australia/Sydney · Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-agent-coding-camp/)
+
+### Zetland · STEMLOOK · Minecraft Agent Coding
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 129
+
+- 2026-12-21 · 09:00–15:30 · Australia/Sydney · Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-agent-coding-camp/)
+
+### Zetland · STEMLOOK · Minecraft Agent Coding
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 129
+
+- 2027-01-12 · 09:00–15:30 · Australia/Sydney · Minecraft Education Edition. Programación de un agente, lógica y circuitos eléctricos.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-agent-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/minecraft-agent-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2355 · STEMLOOK · Minecraft Artemis Rocket
+
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y3–Y6. Mínimo 8 años.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Código para la cápsula Orion, leyes de Newton y base lunar en Minecraft.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 129
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** 9 años entra en la franja orientativa. Confirme la equivalencia del curso local.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Burwood · STEMLOOK · Minecraft Artemis Rocket
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2026-12-18 · 09:00–15:30 · Australia/Sydney · Código para la cápsula Orion, leyes de Newton y base lunar en Minecraft.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/)
+
+### Burwood · STEMLOOK · Minecraft Artemis Rocket
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2027-01-19 · 09:00–15:30 · Australia/Sydney · Código para la cápsula Orion, leyes de Newton y base lunar en Minecraft.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/)
+
+### Chatswood · STEMLOOK · Minecraft Artemis Rocket
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-19 · 09:00–15:30 · Australia/Sydney · Código para la cápsula Orion, leyes de Newton y base lunar en Minecraft.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/)
+
+### Zetland · STEMLOOK · Minecraft Artemis Rocket
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 129
+
+- 2027-01-19 · 09:00–15:30 · Australia/Sydney · Código para la cápsula Orion, leyes de Newton y base lunar en Minecraft.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2356 · STEMLOOK · Minecraft Mission to Mars
+
+Australia · Burwood Library · 2 Conder St · Burwood / Chatswood
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y3–Y6. Mínimo 8 años.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Colonia en Marte en Minecraft. Movimiento del agente, química y retos de supervivencia.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Junto al 15 de enero de 2027 queda la palabra September en la ficha. El selector y el horario de Chatswood indican el 15 de enero.
+
+**Precio / año:** 2027 · AUD 129
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** 9 años entra en la franja orientativa. Confirme la equivalencia del curso local.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Chatswood · STEMLOOK · Minecraft Mission to Mars
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2026-12-22 · 09:00–15:30 · Australia/Sydney · Colonia en Marte en Minecraft. Movimiento del agente, química y retos de supervivencia.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/mission-to-mars-coding-camp/)
+
+### Burwood · STEMLOOK · Minecraft Mission to Mars
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2026-12-23 · 09:00–15:30 · Australia/Sydney · Colonia en Marte en Minecraft. Movimiento del agente, química y retos de supervivencia.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/mission-to-mars-coding-camp/)
+
+### Chatswood · STEMLOOK · Minecraft Mission to Mars
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-15 · 09:00–15:30 · Australia/Sydney · Colonia en Marte en Minecraft. Movimiento del agente, química y retos de supervivencia.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/mission-to-mars-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/mission-to-mars-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2357 · STEMLOOK · Minecraft Mission to Moon
+
+Australia · Chatswood
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y3–Y6. Mínimo 8 años.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Agente lunar, bucles, condiciones y depuración en Minecraft Education Edition.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 129
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** 9 años entra en la franja orientativa. Confirme la equivalencia del curso local.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Chatswood · STEMLOOK · Minecraft Mission to Moon
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-21 · 09:00–15:30 · Australia/Sydney · Agente lunar, bucles, condiciones y depuración en Minecraft Education Edition.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/mission-to-moon-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/mission-to-moon-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2358 · STEMLOOK · Minecraft Volcano Expedition
+
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** El título indica Y3–Y6 y la descripción también menciona Y2–Y6. Mínimo 8 años. Confirme la equivalencia del curso.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Coordenadas, volcanes y programación de un agente para salir de un laberinto.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 129
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** 9 años entra en la franja orientativa. Confirme la equivalencia del curso local.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases de 09:00 a 15:30. Recepción desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Burwood · STEMLOOK · Minecraft Volcano Expedition
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2027-01-27 · 09:00–15:30 · Australia/Sydney · Coordenadas, volcanes y programación de un agente para salir de un laberinto.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/volcano-expedition-coding-camp/)
+
+### Zetland · STEMLOOK · Minecraft Volcano Expedition
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 129
+
+- 2027-01-27 · 09:00–15:30 · Australia/Sydney · Coordenadas, volcanes y programación de un agente para salir de un laberinto.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/volcano-expedition-coding-camp/)
+
+### Chatswood · STEMLOOK · Minecraft Volcano Expedition
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-27 · 09:00–15:30 · Australia/Sydney · Coordenadas, volcanes y programación de un agente para salir de un laberinto.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/volcano-expedition-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/volcano-expedition-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2359 · STEMLOOK · Artificial Intelligence Intro
+
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood / En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y5–Y9.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Alojamiento:** Hay clases diurnas y grupos en línea. El alojamiento presencial se paga aparte.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · La tarifa depende de la sede y el formato. Los importes figuran en cada turno.
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases presenciales y en línea de 09:00 a 15:30, hora de Sídney. Recepción presencial desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Burwood · STEMLOOK · Artificial Intelligence Intro
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 119
+
+- 2027-01-20 · 09:00–15:30 · Australia/Sydney · Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-machine-learning-coding-camp/)
+
+### Zetland · STEMLOOK · Artificial Intelligence Intro
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 119
+
+- 2027-01-21 · 09:00–15:30 · Australia/Sydney · Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-machine-learning-coding-camp/)
+
+### Online · STEMLOOK · Artificial Intelligence Intro
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 110
+
+- 2026-12-21 · 09:00–15:30 · Australia/Sydney · Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-machine-learning-coding-camp/)
+
+### Chatswood · STEMLOOK · Artificial Intelligence Intro
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 119
+
+- 2027-01-20 · 09:00–15:30 · Australia/Sydney · Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-machine-learning-coding-camp/)
+
+### Online · STEMLOOK · Artificial Intelligence Intro
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 110
+
+- 2027-01-20 · 09:00–15:30 · Australia/Sydney · Introducción a redes neuronales, aprendizaje automático y funcionamiento de ChatGPT.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/ai-machine-learning-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/ai-machine-learning-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2360 · STEMLOOK · Python Coding Intro
+
+Australia · 100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood / En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y5–Y9.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Alojamiento:** Hay clases diurnas y grupos en línea. El alojamiento presencial se paga aparte.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · La tarifa depende de la sede y el formato. Los importes figuran en cada turno.
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Para el grupo presencial consulte el alquiler. Para el grupo en línea hace falta ordenador e internet. Confirme el acceso desde el extranjero.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** Clases presenciales y en línea de 09:00 a 15:30, hora de Sídney. Recepción presencial desde las 08:30 y recogida hasta las 16:00.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Online · STEMLOOK · Python Coding Intro
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 110
+
+- 2026-12-18 · 09:00–15:30 · Australia/Sydney · Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-coding-camp/)
+
+### Chatswood · STEMLOOK · Python Coding Intro
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** Chatswood
+
+**Precio:** AUD 129
+
+- 2027-01-14 · 09:00–15:30 · Australia/Sydney · Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-coding-camp/)
+
+### Burwood · STEMLOOK · Python Coding Intro
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** Burwood Library · 2 Conder St · Burwood
+
+**Precio:** AUD 129
+
+- 2027-01-14 · 09:00–15:30 · Australia/Sydney · Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-coding-camp/)
+
+### Zetland · STEMLOOK · Python Coding Intro
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** 100 Joynton Ave · Zetland NSW 2017
+
+**Precio:** AUD 129
+
+- 2027-01-14 · 09:00–15:30 · Australia/Sydney · Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-coding-camp/)
+
+### Online · STEMLOOK · Python Coding Intro
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 110
+
+- 2027-01-14 · 09:00–15:30 · Australia/Sydney · Primeros programas en Python y ejercicios prácticos para principiantes.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-coding-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/python-coding-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2361 · STEMLOOK · Python Chatbots & Graphics
+
+Australia · En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y5–Y9. Mínimo 10 años.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Chatbots en Python con if y while y gráficos Turtle.
+
+**Alojamiento:** Participación remota desde casa.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 109
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** En línea de 09:00 a 15:30, hora de Sídney. Docente en directo en Teams.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Online · STEMLOOK · Python Chatbots & Graphics
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 109
+
+- 2027-01-21 · 09:00–15:30 · Australia/Sydney · Chatbots en Python con if y while y gráficos Turtle.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+## CP2362 · STEMLOOK · Roblox Coding Intro
+
+Australia · En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y5–Y9.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** Scripts y funciones en Lua, lógica y creación de un juego 3D.
+
+**Alojamiento:** Participación remota desde casa.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 110
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** En línea de 09:00 a 15:30, hora de Sídney. Docente en directo en Teams.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Online · STEMLOOK · Roblox Coding Intro
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 110
+
+- 2027-01-15 · 09:00–15:30 · Australia/Sydney · Scripts y funciones en Lua, lógica y creación de un juego 3D.
+
+**Disponibilidad:** La opción aparece completa. Consulte la lista de espera.
+
+[fuente](https://stemlook.com.au/products/roblox-coding-camp-part1/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/roblox-coding-camp-part1/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+## CP2363 · STEMLOOK · Unity Designers Intro
+
+Australia · En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y6–Y9.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** C#, depuración, modelos 3D y diseño de niveles en Unity.
+
+**Alojamiento:** Participación remota desde casa.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 109
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** En línea de 09:00 a 15:30, hora de Sídney. Docente en directo en Teams.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Online · STEMLOOK · Unity Designers Intro
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 109
+
+- 2027-01-13 · 09:00–15:30 · Australia/Sydney · C#, depuración, modelos 3D y diseño de niveles en Unity.
+
+**Disponibilidad:** La opción está activa en el selector. El organizador confirma la plaza.
+
+[fuente](https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+## CP2364 · STEMLOOK · Web Creators Intro
+
+Australia · En línea · hora de Sídney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Cursos escolares Y5–Y9.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** HTML, CSS y JavaScript. El miniproyecto final es una página web propia.
+
+**Alojamiento:** Participación remota desde casa.
+
+**Fechas / estado:** Fechas y tarifas cotejadas con las opciones de inscripción y los horarios. Elija sede y fecha.
+
+**Precio / año:** 2027 · AUD 109
+
+**Incluye:** Clase según la opción elegida.
+
+**Cargos extra:** Ordenador e internet. Confirme los requisitos de software, el acceso desde el extranjero y el precio final.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Para 9 años, compruebe el curso escolar y la preparación técnica. Los cursos introductorios de Minecraft tienen un nivel de entrada menor.
+
+**Oscar:** Por debajo del nivel previsto según las condiciones publicadas.
+
+**Motivo de selección:** En línea de 09:00 a 15:30, hora de Sídney. Docente en directo en Teams.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Online · STEMLOOK · Web Creators Intro
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**Lugar:** En línea · hora de Sídney
+
+**Precio:** AUD 109
+
+- 2027-01-19 · 09:00–15:30 · Australia/Sydney · HTML, CSS y JavaScript. El miniproyecto final es una página web propia.
+
+**Disponibilidad:** La opción está activa en la ficha. El catálogo indexado muestra un aviso de cupo completo. Confirme la disponibilidad.
+
+[fuente](https://stemlook.com.au/products/web-creators-intro-camp/)
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/web-creators-intro-camp/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/product-category/online-camps/) · 2026-11-09
+
+## CP2365 · STEMLOOK · Robot Explorers / Robot Engineers
+
+Australia · Chatswood / Burwood / Zetland · Sydney
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Robot Explorers para 6–7 años y Y1–Y2. Robot Engineers Y2–Y7.
+
+**Idioma:** La ficha y los materiales están disponibles en inglés. Confirme el idioma oral del grupo elegido.
+
+**Programa:** En Term 1, Robot Explorers corresponde a Oscar en Y1–Y2 y 6–7 años. Para Matvey, compruebe Robot Engineers Y2–Y7 según su curso escolar.
+
+**Alojamiento:** Clases diurnas. Alojamiento y viaje por separado.
+
+**Fechas / estado:** Term 1 va del 6 de febrero al 10 de abril de 2027. Coinciden 6 franjas semanales. Chatswood miércoles o jueves 16:10–17:10. Burwood martes 17:20–18:20, jueves 16:10–17:10 o sábado 14:10–15:10. Zetland sábado 14:30–15:30. Para Zetland sábado 12:30–13:30, el selector y el horario discrepan. Confirme los días del grupo concreto.
+
+**Precio / año:** 2027 · 405 AUD por Term 1 y por niño en cada selector. Para ambos, 810 AUD antes de un posible alquiler.
+
+**Incluye:** Trimestre lectivo para un niño.
+
+**Cargos extra:** Dispositivo propio según los requisitos del curso. La ficha de alquiler indica 17 AUD por trimestre o temporada vacacional. Las preguntas frecuentes indican 15 AUD. Confirme el total y la disponibilidad.
+
+**Pago:** Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+**Matvey:** Confirme la equivalencia del curso local según el rango publicado.
+
+**Oscar:** En Term 1, Robot Explorers corresponde a Oscar en Y1–Y2 y 6–7 años. Para Matvey, compruebe Robot Engineers Y2–Y7 según su curso escolar.
+
+**Motivo de selección:** Term 1 va del 6 de febrero al 10 de abril de 2027. Coinciden 6 franjas semanales. Chatswood miércoles o jueves 16:10–17:10. Burwood martes 17:20–18:20, jueves 16:10–17:10 o sábado 14:10–15:10. Zetland sábado 14:30–15:30. Para Zetland sábado 12:30–13:30, el selector y el horario discrepan. Confirme los días del grupo concreto.
+
+### Antes de solicitar plaza
+
+- Confirme la plaza, la equivalencia de curso escolar, el idioma del grupo y el precio final.
+
+### Fuentes
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/robot-explorers/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/robot-engineers/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/about-us/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/chatswood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/burwood-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
+
+- [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

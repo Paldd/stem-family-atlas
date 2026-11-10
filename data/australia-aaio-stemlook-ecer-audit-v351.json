@@ -1,0 +1,760 @@
+{
+  "version": 351,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "aaio_new_ids": [
+    "C5384",
+    "C5385",
+    "C5386",
+    "C5387",
+    "C5388",
+    "C5389",
+    "E770"
+  ],
+  "aaio_current_junior_years": [
+    2013,
+    2017
+  ],
+  "aaio_current_senior_years": [
+    2009,
+    2012
+  ],
+  "aaio_global_gate": "verified-season-v11-and-local-qualification",
+  "aaio_foreign_eligibility_confirmed": false,
+  "aaio_published_hours_used": false,
+  "aaio_online_project_only": true,
+  "ecer_registration_corrections": [
+    "C3483",
+    "C3484",
+    "C3485"
+  ],
+  "ecer_refreshed_ids": [
+    "C3482",
+    "E472"
+  ],
+  "stemlook_holiday_products": 13,
+  "stemlook_campus_date_options": 42,
+  "stemlook_new_campus_date_options": 30,
+  "stemlook_active_selector_options": 41,
+  "stemlook_ambiguous_availability_options": 1,
+  "stemlook_sibling_weekly_matches": 6,
+  "stemlook_sibling_conflicts": 1,
+  "stemlook_spoken_instruction_confirmed": false,
+  "new_dossier_ids": [
+    "CP2354",
+    "CP2355",
+    "CP2356",
+    "CP2357",
+    "CP2358",
+    "CP2359",
+    "CP2360",
+    "CP2361",
+    "CP2362",
+    "CP2363",
+    "CP2364",
+    "CP2365"
+  ],
+  "refreshed_dossier_ids": [
+    "CP1289",
+    "CP1290"
+  ],
+  "stemlook_variants": [
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "chatswood",
+      "date": "2026-12-18",
+      "offer_ids": [
+        24205,
+        24206
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "chatswood",
+      "date": "2027-01-18",
+      "offer_ids": [
+        26242,
+        26243
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "chatswood",
+      "date": "2027-01-28",
+      "offer_ids": [
+        26244,
+        26245
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "zetland",
+      "date": "2027-01-20",
+      "offer_ids": [
+        25120,
+        25119
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "burwood",
+      "date": "2026-12-21",
+      "offer_ids": [
+        25118,
+        25117
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1289",
+      "provider_slug": "ai-robot-engineers-camp-y2-y8",
+      "campus": "burwood",
+      "date": "2027-01-21",
+      "offer_ids": [
+        26239,
+        26238
+      ],
+      "prices_aud": [
+        129,
+        410
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "chatswood",
+      "date": "2026-12-23",
+      "offer_ids": [
+        21683,
+        21684
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-13",
+      "offer_ids": [
+        24200,
+        24201
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "burwood",
+      "date": "2026-12-22",
+      "offer_ids": [
+        21685,
+        21686
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "burwood",
+      "date": "2027-01-13",
+      "offer_ids": [
+        26248,
+        26249
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "zetland",
+      "date": "2026-12-18",
+      "offer_ids": [
+        26251,
+        26250
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP1290",
+      "provider_slug": "robotics-and-coding-camp",
+      "campus": "zetland",
+      "date": "2027-01-13",
+      "offer_ids": [
+        17391,
+        17392
+      ],
+      "prices_aud": [
+        129,
+        399
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2354",
+      "provider_slug": "minecraft-agent-coding-camp",
+      "campus": "chatswood",
+      "date": "2026-12-21",
+      "offer_ids": [
+        12230
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2354",
+      "provider_slug": "minecraft-agent-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-12",
+      "offer_ids": [
+        24203
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2354",
+      "provider_slug": "minecraft-agent-coding-camp",
+      "campus": "burwood",
+      "date": "2027-01-12",
+      "offer_ids": [
+        12229
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2354",
+      "provider_slug": "minecraft-agent-coding-camp",
+      "campus": "zetland",
+      "date": "2026-12-21",
+      "offer_ids": [
+        24202
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2354",
+      "provider_slug": "minecraft-agent-coding-camp",
+      "campus": "zetland",
+      "date": "2027-01-12",
+      "offer_ids": [
+        26252
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2355",
+      "provider_slug": "minecraft-artemis-rocket-code-y3-y6",
+      "campus": "burwood",
+      "date": "2026-12-18",
+      "offer_ids": [
+        26253
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2355",
+      "provider_slug": "minecraft-artemis-rocket-code-y3-y6",
+      "campus": "burwood",
+      "date": "2027-01-19",
+      "offer_ids": [
+        25125
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2355",
+      "provider_slug": "minecraft-artemis-rocket-code-y3-y6",
+      "campus": "chatswood",
+      "date": "2027-01-19",
+      "offer_ids": [
+        10988
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2355",
+      "provider_slug": "minecraft-artemis-rocket-code-y3-y6",
+      "campus": "zetland",
+      "date": "2027-01-19",
+      "offer_ids": [
+        25126
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2356",
+      "provider_slug": "mission-to-mars-coding-camp",
+      "campus": "chatswood",
+      "date": "2026-12-22",
+      "offer_ids": [
+        17022
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2356",
+      "provider_slug": "mission-to-mars-coding-camp",
+      "campus": "burwood",
+      "date": "2026-12-23",
+      "offer_ids": [
+        12233
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2356",
+      "provider_slug": "mission-to-mars-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-15",
+      "offer_ids": [
+        20016
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2357",
+      "provider_slug": "mission-to-moon-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-21",
+      "offer_ids": [
+        9990
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/mission-to-moon-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2358",
+      "provider_slug": "volcano-expedition-coding-camp",
+      "campus": "burwood",
+      "date": "2027-01-27",
+      "offer_ids": [
+        26246
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2358",
+      "provider_slug": "volcano-expedition-coding-camp",
+      "campus": "zetland",
+      "date": "2027-01-27",
+      "offer_ids": [
+        26247
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2358",
+      "provider_slug": "volcano-expedition-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-27",
+      "offer_ids": [
+        5824
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2359",
+      "provider_slug": "ai-machine-learning-coding-camp",
+      "campus": "burwood",
+      "date": "2027-01-20",
+      "offer_ids": [
+        26236
+      ],
+      "prices_aud": [
+        119
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2359",
+      "provider_slug": "ai-machine-learning-coding-camp",
+      "campus": "zetland",
+      "date": "2027-01-21",
+      "offer_ids": [
+        26235
+      ],
+      "prices_aud": [
+        119
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2359",
+      "provider_slug": "ai-machine-learning-coding-camp",
+      "campus": "online",
+      "date": "2026-12-21",
+      "offer_ids": [
+        3171
+      ],
+      "prices_aud": [
+        110
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2359",
+      "provider_slug": "ai-machine-learning-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-20",
+      "offer_ids": [
+        20019
+      ],
+      "prices_aud": [
+        119
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2359",
+      "provider_slug": "ai-machine-learning-coding-camp",
+      "campus": "online",
+      "date": "2027-01-20",
+      "offer_ids": [
+        26234
+      ],
+      "prices_aud": [
+        110
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2360",
+      "provider_slug": "python-coding-camp",
+      "campus": "online",
+      "date": "2026-12-18",
+      "offer_ids": [
+        26237
+      ],
+      "prices_aud": [
+        110
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2360",
+      "provider_slug": "python-coding-camp",
+      "campus": "chatswood",
+      "date": "2027-01-14",
+      "offer_ids": [
+        640
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/chatswood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2360",
+      "provider_slug": "python-coding-camp",
+      "campus": "burwood",
+      "date": "2027-01-14",
+      "offer_ids": [
+        7190
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/burwood-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2360",
+      "provider_slug": "python-coding-camp",
+      "campus": "zetland",
+      "date": "2027-01-14",
+      "offer_ids": [
+        16603
+      ],
+      "prices_aud": [
+        129
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/zetland-coding-robotics-school/"
+    },
+    {
+      "profile": "CP2360",
+      "provider_slug": "python-coding-camp",
+      "campus": "online",
+      "date": "2027-01-14",
+      "offer_ids": [
+        21689
+      ],
+      "prices_aud": [
+        110
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-coding-camp/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2361",
+      "provider_slug": "python-chatbots-graphics-camp-y5-y9",
+      "campus": "online",
+      "date": "2027-01-21",
+      "offer_ids": [
+        18098
+      ],
+      "prices_aud": [
+        109
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2362",
+      "provider_slug": "roblox-coding-camp-part1",
+      "campus": "online",
+      "date": "2027-01-15",
+      "offer_ids": [
+        18117
+      ],
+      "prices_aud": [
+        110
+      ],
+      "selector_active": false,
+      "availability": "sold_out",
+      "product_source": "https://stemlook.com.au/products/roblox-coding-camp-part1/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2363",
+      "provider_slug": "unity-designers-intro-camp-y6-y9",
+      "campus": "online",
+      "date": "2027-01-13",
+      "offer_ids": [
+        21691
+      ],
+      "prices_aud": [
+        109
+      ],
+      "selector_active": true,
+      "availability": "listed_available",
+      "product_source": "https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    },
+    {
+      "profile": "CP2364",
+      "provider_slug": "web-creators-intro-camp",
+      "campus": "online",
+      "date": "2027-01-19",
+      "offer_ids": [
+        9466
+      ],
+      "prices_aud": [
+        109
+      ],
+      "selector_active": true,
+      "availability": "unknown",
+      "product_source": "https://stemlook.com.au/products/web-creators-intro-camp/",
+      "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
+    }
+  ]
+}

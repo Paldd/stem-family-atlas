@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2353,
+    "dossiers": 2365,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 315,
+      "published_2026_27": 326,
       "published_2027": 657,
-      "partial_2027": 167,
+      "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
       "partial_2026_27": 44,
@@ -50,12 +50,12 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3242
+    "source_urls": 3260
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 42
+      "count": 54
     },
     {
       "country": "Австрия",
@@ -221203,7 +221203,7 @@
       "provider": "STEMLOOK · AI Robot Engineers",
       "iso": "AUS",
       "country": "Австралия",
-      "place": "Chatswood / Burwood / Zetland · Sydney",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood",
       "themes": [
         "robotics",
         "coding",
@@ -221213,14 +221213,14 @@
       "formats": [
         "day"
       ],
-      "age": "Year 3–8",
-      "programme": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
-      "language": "Прямое подтверждение языка занятий EN / ES / RU не найдено. Английский сайт и страна не заменяют подтверждение преподавателя; язык выбранной группы уточнить.",
+      "age": "Школьные классы Y3–Y8.",
+      "programme": "Робототехнические задачи с программированием и элементами ИИ.",
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
       "confirmed_instruction_languages": [],
-      "language_evidence_role": "unconfirmed",
+      "language_evidence_role": "materials",
       "timing": {
         "status": "published_2026_27",
-        "label": "Шесть точных campus × day вариантов этой программы из собственного body и WooCommerce JSON; Camp ONLY и Camp + Robot — два тарифных варианта одного занятия, не две смены.",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
         "sessions": [
           [
             "2026-12-18",
@@ -221235,16 +221235,16 @@
             "2027-01-28"
           ],
           [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
             "2026-12-21",
             "2026-12-21"
           ],
           [
             "2027-01-21",
             "2027-01-21"
-          ],
-          [
-            "2027-01-20",
-            "2027-01-20"
           ]
         ],
         "session_details": [
@@ -221253,200 +221253,255 @@
             "end": "2026-12-18",
             "variant_key": "chatswood-20261218",
             "label": "Chatswood · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
             "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Chatswood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2026-12-18",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
                 "ical_timed": true,
-                "start_utc": "2026-12-17T21:30:00Z",
-                "end_utc": "2026-12-18T05:00:00Z"
+                "start_utc": "2026-12-17T22:00:00Z",
+                "end_utc": "2026-12-18T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-18",
             "end": "2027-01-18",
             "variant_key": "chatswood-20270118",
             "label": "Chatswood · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
             "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Chatswood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-18",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
                 "ical_timed": true,
-                "start_utc": "2027-01-17T21:30:00Z",
-                "end_utc": "2027-01-18T05:00:00Z"
+                "start_utc": "2027-01-17T22:00:00Z",
+                "end_utc": "2027-01-18T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-28",
             "end": "2027-01-28",
             "variant_key": "chatswood-20270128",
             "label": "Chatswood · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
             "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Chatswood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-28",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
                 "ical_timed": true,
-                "start_utc": "2027-01-27T21:30:00Z",
-                "end_utc": "2027-01-28T05:00:00Z"
+                "start_utc": "2027-01-27T22:00:00Z",
+                "end_utc": "2027-01-28T04:30:00Z"
               }
-            ]
-          },
-          {
-            "start": "2026-12-21",
-            "end": "2026-12-21",
-            "variant_key": "burwood-20261221",
-            "label": "Burwood · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
-            "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
-            "formats": [
-              "day"
             ],
-            "date_scope": "session_days",
-            "place": "Burwood · точный campus address подтвердить",
-            "admission_kind": "unknown",
-            "sessions": [
-              {
-                "date": "2026-12-21",
-                "start_time": "08:30",
-                "end_time": "16:00",
-                "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
-                "ical_timed": true,
-                "start_utc": "2026-12-20T21:30:00Z",
-                "end_utc": "2026-12-21T05:00:00Z"
-              }
-            ]
-          },
-          {
-            "start": "2027-01-21",
-            "end": "2027-01-21",
-            "variant_key": "burwood-20270121",
-            "label": "Burwood · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
-            "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
-            "formats": [
-              "day"
-            ],
-            "date_scope": "session_days",
-            "place": "Burwood · точный campus address подтвердить",
-            "admission_kind": "unknown",
-            "sessions": [
-              {
-                "date": "2027-01-21",
-                "start_time": "08:30",
-                "end_time": "16:00",
-                "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
-                "ical_timed": true,
-                "start_utc": "2027-01-20T21:30:00Z",
-                "end_utc": "2027-01-21T05:00:00Z"
-              }
-            ]
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-20",
             "end": "2027-01-20",
             "variant_key": "zetland-20270120",
             "label": "Zetland · STEMLOOK · AI Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
             "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Zetland · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-20",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
                 "ical_timed": true,
-                "start_utc": "2027-01-19T21:30:00Z",
-                "end_utc": "2027-01-20T05:00:00Z"
+                "start_utc": "2027-01-19T22:00:00Z",
+                "end_utc": "2027-01-20T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "variant_key": "burwood-20261221",
+            "label": "Burwood · STEMLOOK · AI Robot Engineers",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
+            "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T22:00:00Z",
+                "end_utc": "2026-12-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "variant_key": "burwood-20270121",
+            "label": "Burwood · STEMLOOK · AI Robot Engineers",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 410.",
+            "source": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Робототехнические задачи с программированием и элементами ИИ.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T22:00:00Z",
+                "end_utc": "2027-01-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           }
         ],
         "variant_keyed": true,
         "precision": "published_sessions"
       },
       "price": {
-        "year": 2026,
-        "currency": "AUD",
+        "year": 2027,
         "amount": 129,
-        "unit": "child_day_camp_only",
-        "label": "AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
-        "included": "Робот предоставлен для использования в классе. Домой только при покупке Camp + Robot; BYO laptop / разрешённый iPad по конкретному курсу, иначе платная аренда. FAQ о выдаче робота со второго term относится к регулярным занятиям, не к camp-only пакету.",
-        "extras": "Дорога, внешнее жильё семьи, питание вне включений и итоговые сборы отдельно; неизвестная сумма не ноль.",
-        "deposit": "Итог выбранной опции и налоги / сборы уточнить; публичный диапазон не цена любого отдельного занятия."
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129 за занятие. Вариант с роботом AUD 410.",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
       },
-      "accommodation": "Дневная программа без пансиона.",
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
       "family_fit": {
         "matvey": {
-          "status": "unknown",
-          "detail": "Условие по реальному школьному классу; классы детей неизвестны. Возраст 9 / 6 и годы рождения 2017 / 2020 не заменяют подтверждение класса."
+          "status": "conditional",
+          "detail": "Сверить эквивалент местного класса по опубликованному диапазону."
         },
         "oscar": {
-          "status": "unknown",
-          "detail": "Условие по реальному школьному классу; классы детей неизвестны. Возраст 9 / 6 и годы рождения 2017 / 2020 не заменяют подтверждение класса."
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
         }
       },
-      "editorial_reason": "Редакционный кандидат по содержанию, возрасту и прозрачности условий; независимый мировой рейтинг качества не установлен. Учебный проект / показ / сертификат не международная конкурсная медаль.",
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
       "shortlist": [],
       "questions": [
-        "Подтвердить индивидуальный иностранный приём, язык, уровень после трёх лет соревнований, место и полный счёт. Формы, согласия, сообщения, брони и оплаты не выполнялись."
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
       ],
       "sources": [
         {
-          "title": "Selected dated camp and option prices",
           "url": "https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/",
-          "checked": "2026-11-05"
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
         },
         {
-          "title": "Separate device hire",
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
           "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
-          "checked": "2026-11-05"
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-09",
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -221474,6 +221529,14 @@
           ]
         },
         {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1289-20270120-20270120-zetland-20270120"
+          ]
+        },
+        {
           "start": "2026-12-21",
           "end": "2026-12-21",
           "kind": "catalogue_session",
@@ -221488,17 +221551,13 @@
           "event_ids": [
             "CP1289-20270121-20270121-burwood-20270121"
           ]
-        },
-        {
-          "start": "2027-01-20",
-          "end": "2027-01-20",
-          "kind": "catalogue_session",
-          "event_ids": [
-            "CP1289-20270120-20270120-zetland-20270120"
-          ]
         }
       ],
-      "language_roles": {}
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "CP1290",
@@ -221506,7 +221565,7 @@
       "provider": "STEMLOOK · Robot Engineers",
       "iso": "AUS",
       "country": "Австралия",
-      "place": "Chatswood / Burwood / Zetland · Sydney",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood",
       "themes": [
         "robotics",
         "coding",
@@ -221515,14 +221574,14 @@
       "formats": [
         "day"
       ],
-      "age": "Year 3–7",
-      "programme": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
-      "language": "Прямое подтверждение языка занятий EN / ES / RU не найдено. Английский сайт и страна не заменяют подтверждение преподавателя; язык выбранной группы уточнить.",
+      "age": "Школьные классы Y3–Y7.",
+      "programme": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
       "confirmed_instruction_languages": [],
-      "language_evidence_role": "unconfirmed",
+      "language_evidence_role": "materials",
       "timing": {
         "status": "published_2026_27",
-        "label": "Шесть точных campus × day вариантов этой программы из собственного body и WooCommerce JSON; Camp ONLY и Camp + Robot — два тарифных варианта одного занятия, не две смены.",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
         "sessions": [
           [
             "2026-12-23",
@@ -221555,200 +221614,255 @@
             "end": "2026-12-23",
             "variant_key": "chatswood-20261223",
             "label": "Chatswood · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Chatswood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2026-12-23",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2026-12-22T21:30:00Z",
-                "end_utc": "2026-12-23T05:00:00Z"
+                "start_utc": "2026-12-22T22:00:00Z",
+                "end_utc": "2026-12-23T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-13",
             "end": "2027-01-13",
             "variant_key": "chatswood-20270113",
             "label": "Chatswood · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Chatswood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-13",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2027-01-12T21:30:00Z",
-                "end_utc": "2027-01-13T05:00:00Z"
+                "start_utc": "2027-01-12T22:00:00Z",
+                "end_utc": "2027-01-13T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2026-12-22",
             "end": "2026-12-22",
             "variant_key": "burwood-20261222",
             "label": "Burwood · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Burwood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2026-12-22",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2026-12-21T21:30:00Z",
-                "end_utc": "2026-12-22T05:00:00Z"
+                "start_utc": "2026-12-21T22:00:00Z",
+                "end_utc": "2026-12-22T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-13",
             "end": "2027-01-13",
             "variant_key": "burwood-20270113",
             "label": "Burwood · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Burwood · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-13",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2027-01-12T21:30:00Z",
-                "end_utc": "2027-01-13T05:00:00Z"
+                "start_utc": "2027-01-12T22:00:00Z",
+                "end_utc": "2027-01-13T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2026-12-18",
             "end": "2026-12-18",
             "variant_key": "zetland-20261218",
             "label": "Zetland · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Zetland · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2026-12-18",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2026-12-17T21:30:00Z",
-                "end_utc": "2026-12-18T05:00:00Z"
+                "start_utc": "2026-12-17T22:00:00Z",
+                "end_utc": "2026-12-18T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           },
           {
             "start": "2027-01-13",
             "end": "2027-01-13",
             "variant_key": "zetland-20270113",
             "label": "Zetland · STEMLOOK · Robot Engineers",
-            "price": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
+            "price": "AUD 129 за занятие. Вариант с роботом AUD 399.",
             "source": "https://stemlook.com.au/products/robotics-and-coding-camp/",
             "formats": [
               "day"
             ],
             "date_scope": "session_days",
-            "place": "Zetland · точный campus address подтвердить",
-            "admission_kind": "unknown",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
             "sessions": [
               {
                 "date": "2027-01-13",
-                "start_time": "08:30",
-                "end_time": "16:00",
+                "start_time": "09:00",
+                "end_time": "15:30",
                 "timezone": "Australia/Sydney",
-                "topic": "Практический robot camp 08:30–16:00: coding, maths, engineering и physics; у AI добавлены задачи искусственного интеллекта. Robot Engineers описывает 50% coding. Возрастная ступень определяется школьным Year 3–8 / 3–7, не цифрами в старом URL.",
+                "topic": "Сборка и программирование робота. В описании курса программированию отведено 50% времени.",
                 "ical_timed": true,
-                "start_utc": "2027-01-12T21:30:00Z",
-                "end_utc": "2027-01-13T05:00:00Z"
+                "start_utc": "2027-01-12T22:00:00Z",
+                "end_utc": "2027-01-13T04:30:00Z"
               }
-            ]
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
           }
         ],
         "variant_keyed": true,
         "precision": "published_sessions"
       },
       "price": {
-        "year": 2026,
-        "currency": "AUD",
+        "year": 2027,
         "amount": 129,
-        "unit": "child_day_camp_only",
-        "label": "AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 не дополнительный обязательный сбор и не цена camp. Laptop hire product 17; единицу аренды, налог и окончательный checkout подтвердить.",
-        "included": "Робот предоставлен для использования в классе. Домой только при покупке Camp + Robot; BYO laptop / разрешённый iPad по конкретному курсу, иначе платная аренда. FAQ о выдаче робота со второго term относится к регулярным занятиям, не к camp-only пакету.",
-        "extras": "Дорога, внешнее жильё семьи, питание вне включений и итоговые сборы отдельно; неизвестная сумма не ноль.",
-        "deposit": "Итог выбранной опции и налоги / сборы уточнить; публичный диапазон не цена любого отдельного занятия."
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129 за занятие. Вариант с роботом AUD 399.",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
       },
-      "accommodation": "Дневная программа без пансиона.",
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
       "family_fit": {
         "matvey": {
-          "status": "unknown",
-          "detail": "Условие по реальному школьному классу; классы детей неизвестны. Возраст 9 / 6 и годы рождения 2017 / 2020 не заменяют подтверждение класса."
+          "status": "conditional",
+          "detail": "Сверить эквивалент местного класса по опубликованному диапазону."
         },
         "oscar": {
-          "status": "unknown",
-          "detail": "Условие по реальному школьному классу; классы детей неизвестны. Возраст 9 / 6 и годы рождения 2017 / 2020 не заменяют подтверждение класса."
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
         }
       },
-      "editorial_reason": "Редакционный кандидат по содержанию, возрасту и прозрачности условий; независимый мировой рейтинг качества не установлен. Учебный проект / показ / сертификат не международная конкурсная медаль.",
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
       "shortlist": [],
       "questions": [
-        "Подтвердить индивидуальный иностранный приём, язык, уровень после трёх лет соревнований, место и полный счёт. Формы, согласия, сообщения, брони и оплаты не выполнялись."
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
       ],
       "sources": [
         {
-          "title": "Selected dated camp and option prices",
           "url": "https://stemlook.com.au/products/robotics-and-coding-camp/",
-          "checked": "2026-11-05"
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
         },
         {
-          "title": "Separate device hire",
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
           "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
-          "checked": "2026-11-05"
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-09",
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -221800,7 +221914,11 @@
           ]
         }
       ],
-      "language_roles": {}
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     },
     {
       "id": "CP1291",
@@ -411872,6 +411990,2468 @@
       "related_event_ids": [],
       "calendar_links": [],
       "language_roles": {}
+    },
+    {
+      "id": "CP2354",
+      "slug": "stemlook-minecraft-agent-coding-camp",
+      "provider": "STEMLOOK · Minecraft Agent Coding",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood",
+      "age": "Школьные классы Y2–Y6. Минимум 7 лет.",
+      "programme": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "variant_key": "chatswood-20261221",
+            "label": "Chatswood · STEMLOOK · Minecraft Agent Coding",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T22:00:00Z",
+                "end_utc": "2026-12-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 7
+          },
+          {
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "variant_key": "chatswood-20270112",
+            "label": "Chatswood · STEMLOOK · Minecraft Agent Coding",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T22:00:00Z",
+                "end_utc": "2027-01-12T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 7
+          },
+          {
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "variant_key": "burwood-20270112",
+            "label": "Burwood · STEMLOOK · Minecraft Agent Coding",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T22:00:00Z",
+                "end_utc": "2027-01-12T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 7
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "variant_key": "zetland-20261221",
+            "label": "Zetland · STEMLOOK · Minecraft Agent Coding",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T22:00:00Z",
+                "end_utc": "2026-12-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 7
+          },
+          {
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "variant_key": "zetland-20270112",
+            "label": "Zetland · STEMLOOK · Minecraft Agent Coding",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Minecraft Education Edition. Программирование агента, логика и электрические схемы.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T22:00:00Z",
+                "end_utc": "2027-01-12T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 7
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 129,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 лет входит в возрастной ориентир. Сверить эквивалент местного класса."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Минимум 7 лет. Проверить фактический возраст на день занятия и эквивалент Y2."
+        }
+      },
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/minecraft-agent-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2354-20261221-20261221-chatswood-20261221"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2354-20270112-20270112-chatswood-20270112"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2354-20270112-20270112-burwood-20270112"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2354-20261221-20261221-zetland-20261221"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2354-20270112-20270112-zetland-20270112"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2355",
+      "slug": "stemlook-minecraft-artemis-rocket-code-y3-y6",
+      "provider": "STEMLOOK · Minecraft Artemis Rocket",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood",
+      "age": "Школьные классы Y3–Y6. Минимум 8 лет.",
+      "programme": "Код для капсулы Orion, законы Ньютона и лунная база в Minecraft.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "science"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "variant_key": "burwood-20261218",
+            "label": "Burwood · STEMLOOK · Minecraft Artemis Rocket",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Код для капсулы Orion, законы Ньютона и лунная база в Minecraft.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T22:00:00Z",
+                "end_utc": "2026-12-18T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "variant_key": "burwood-20270119",
+            "label": "Burwood · STEMLOOK · Minecraft Artemis Rocket",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Код для капсулы Orion, законы Ньютона и лунная база в Minecraft.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T22:00:00Z",
+                "end_utc": "2027-01-19T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "variant_key": "chatswood-20270119",
+            "label": "Chatswood · STEMLOOK · Minecraft Artemis Rocket",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Код для капсулы Orion, законы Ньютона и лунная база в Minecraft.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T22:00:00Z",
+                "end_utc": "2027-01-19T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "variant_key": "zetland-20270119",
+            "label": "Zetland · STEMLOOK · Minecraft Artemis Rocket",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Код для капсулы Orion, законы Ньютона и лунная база в Minecraft.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T22:00:00Z",
+                "end_utc": "2027-01-19T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 129,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 лет входит в возрастной ориентир. Сверить эквивалент местного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/minecraft-artemis-rocket-code-y3-y6/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2355-20261218-20261218-burwood-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2355-20270119-20270119-burwood-20270119"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2355-20270119-20270119-chatswood-20270119"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2355-20270119-20270119-zetland-20270119"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2356",
+      "slug": "stemlook-mission-to-mars-coding-camp",
+      "provider": "STEMLOOK · Minecraft Mission to Mars",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Burwood Library · 2 Conder St · Burwood / Chatswood",
+      "age": "Школьные классы Y3–Y6. Минимум 8 лет.",
+      "programme": "Колония на Марсе в Minecraft. Движение агента, химия и задачи на выживание.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "science"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "В описании рядом с 15 января 2027 осталось слово September. Селектор и расписание Chatswood указывают 15 января.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "variant_key": "chatswood-20261222",
+            "label": "Chatswood · STEMLOOK · Minecraft Mission to Mars",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Колония на Марсе в Minecraft. Движение агента, химия и задачи на выживание.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T22:00:00Z",
+                "end_utc": "2026-12-22T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "variant_key": "burwood-20261223",
+            "label": "Burwood · STEMLOOK · Minecraft Mission to Mars",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Колония на Марсе в Minecraft. Движение агента, химия и задачи на выживание.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T22:00:00Z",
+                "end_utc": "2026-12-23T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "variant_key": "chatswood-20270115",
+            "label": "Chatswood · STEMLOOK · Minecraft Mission to Mars",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Колония на Марсе в Minecraft. Движение агента, химия и задачи на выживание.",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T22:00:00Z",
+                "end_utc": "2027-01-15T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 129,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 лет входит в возрастной ориентир. Сверить эквивалент местного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/mission-to-mars-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2356-20261222-20261222-chatswood-20261222"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2356-20261223-20261223-burwood-20261223"
+          ]
+        },
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2356-20270115-20270115-chatswood-20270115"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2357",
+      "slug": "stemlook-mission-to-moon-coding-camp",
+      "provider": "STEMLOOK · Minecraft Mission to Moon",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Chatswood",
+      "age": "Школьные классы Y3–Y6. Минимум 8 лет.",
+      "programme": "Лунный агент, циклы, условия и отладка в Minecraft Education Edition.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "science"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "variant_key": "chatswood-20270121",
+            "label": "Chatswood · STEMLOOK · Minecraft Mission to Moon",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/mission-to-moon-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Лунный агент, циклы, условия и отладка в Minecraft Education Edition.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T22:00:00Z",
+                "end_utc": "2027-01-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 129,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 лет входит в возрастной ориентир. Сверить эквивалент местного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/mission-to-moon-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "availability": {
+        "status": "listed_available",
+        "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+        "checked": "2026-11-09"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2357-20270121-20270121-chatswood-20270121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2358",
+      "slug": "stemlook-volcano-expedition-coding-camp",
+      "provider": "STEMLOOK · Minecraft Volcano Expedition",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood",
+      "age": "Заголовок указывает Y3–Y6, описание также содержит Y2–Y6. Минимум 8 лет. Эквивалент класса уточнить.",
+      "programme": "Координаты, вулканы и программирование агента для выхода из лабиринта.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "science"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "variant_key": "burwood-20270127",
+            "label": "Burwood · STEMLOOK · Minecraft Volcano Expedition",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Координаты, вулканы и программирование агента для выхода из лабиринта.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T22:00:00Z",
+                "end_utc": "2027-01-27T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "variant_key": "zetland-20270127",
+            "label": "Zetland · STEMLOOK · Minecraft Volcano Expedition",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Координаты, вулканы и программирование агента для выхода из лабиринта.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T22:00:00Z",
+                "end_utc": "2027-01-27T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          },
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "variant_key": "chatswood-20270127",
+            "label": "Chatswood · STEMLOOK · Minecraft Volcano Expedition",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Координаты, вулканы и программирование агента для выхода из лабиринта.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T22:00:00Z",
+                "end_utc": "2027-01-27T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+            "age_min": 8
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 129,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 129",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "9 лет входит в возрастной ориентир. Сверить эквивалент местного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/volcano-expedition-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2358-20270127-20270127-burwood-20270127"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2358-20270127-20270127-zetland-20270127"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2358-20270127-20270127-chatswood-20270127"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2359",
+      "slug": "stemlook-ai-machine-learning-coding-camp",
+      "provider": "STEMLOOK · Artificial Intelligence Intro",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood / Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y5–Y9.",
+      "programme": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "variant_key": "burwood-20270120",
+            "label": "Burwood · STEMLOOK · Artificial Intelligence Intro",
+            "price": "AUD 119",
+            "source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T22:00:00Z",
+                "end_utc": "2027-01-20T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "variant_key": "zetland-20270121",
+            "label": "Zetland · STEMLOOK · Artificial Intelligence Intro",
+            "price": "AUD 119",
+            "source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T22:00:00Z",
+                "end_utc": "2027-01-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "variant_key": "online-20261221",
+            "label": "Online · STEMLOOK · Artificial Intelligence Intro",
+            "price": "AUD 110",
+            "source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T22:00:00Z",
+                "end_utc": "2026-12-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          },
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "variant_key": "chatswood-20270120",
+            "label": "Chatswood · STEMLOOK · Artificial Intelligence Intro",
+            "price": "AUD 119",
+            "source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T22:00:00Z",
+                "end_utc": "2027-01-20T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "variant_key": "online-20270120",
+            "label": "Online · STEMLOOK · Artificial Intelligence Intro",
+            "price": "AUD 110",
+            "source": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Введение в нейросети, машинное обучение и принципы работы ChatGPT.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T22:00:00Z",
+                "end_utc": "2027-01-20T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 110,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "Точный тариф зависит от площадки и формата. Суммы приведены у каждой смены.",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Для очной группы проверьте аренду устройства. Для онлайн-группы нужен свой компьютер и интернет. Доступ из-за рубежа уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Есть дневные занятия и онлайн-группы. Проживание для очного формата отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Очные и онлайн-занятия идут 09:00–15:30 по Сиднею. Очный приём с 08:30 и выдача до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/ai-machine-learning-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2359-20270120-20270120-burwood-20270120"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2359-20270121-20270121-zetland-20270121"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2359-20261221-20261221-online-20261221"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2359-20270120-20270120-chatswood-20270120"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2359-20270120-20270120-online-20270120"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2360",
+      "slug": "stemlook-python-coding-camp",
+      "provider": "STEMLOOK · Python Coding Intro",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "100 Joynton Ave · Zetland NSW 2017 / Burwood Library · 2 Conder St · Burwood / Chatswood / Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y5–Y9.",
+      "programme": "Первые программы на Python и практические упражнения для начинающих.",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "themes": [
+        "coding"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "variant_key": "online-20261218",
+            "label": "Online · STEMLOOK · Python Coding Intro",
+            "price": "AUD 110",
+            "source": "https://stemlook.com.au/products/python-coding-camp/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Первые программы на Python и практические упражнения для начинающих.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T22:00:00Z",
+                "end_utc": "2026-12-18T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "chatswood-20270114",
+            "label": "Chatswood · STEMLOOK · Python Coding Intro",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/python-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Chatswood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Первые программы на Python и практические упражнения для начинающих.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T22:00:00Z",
+                "end_utc": "2027-01-14T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "burwood-20270114",
+            "label": "Burwood · STEMLOOK · Python Coding Intro",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/python-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "Burwood Library · 2 Conder St · Burwood",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Первые программы на Python и практические упражнения для начинающих.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T22:00:00Z",
+                "end_utc": "2027-01-14T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "zetland-20270114",
+            "label": "Zetland · STEMLOOK · Python Coding Intro",
+            "price": "AUD 129",
+            "source": "https://stemlook.com.au/products/python-coding-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "100 Joynton Ave · Zetland NSW 2017",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Первые программы на Python и практические упражнения для начинающих.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T22:00:00Z",
+                "end_utc": "2027-01-14T04:30:00Z"
+              }
+            ],
+            "timing_note": "Занятия 09:00–15:30. Площадка принимает с 08:30, забрать до 16:00."
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "online-20270114",
+            "label": "Online · STEMLOOK · Python Coding Intro",
+            "price": "AUD 110",
+            "source": "https://stemlook.com.au/products/python-coding-camp/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Первые программы на Python и практические упражнения для начинающих.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T22:00:00Z",
+                "end_utc": "2027-01-14T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 110,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "Точный тариф зависит от площадки и формата. Суммы приведены у каждой смены.",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Для очной группы проверьте аренду устройства. Для онлайн-группы нужен свой компьютер и интернет. Доступ из-за рубежа уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Есть дневные занятия и онлайн-группы. Проживание для очного формата отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Очные и онлайн-занятия идут 09:00–15:30 по Сиднею. Очный приём с 08:30 и выдача до 16:00.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/python-coding-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2360-20261218-20261218-online-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2360-20270114-20270114-chatswood-20270114"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2360-20270114-20270114-burwood-20270114"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2360-20270114-20270114-zetland-20270114"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2360-20270114-20270114-online-20270114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2361",
+      "slug": "stemlook-python-chatbots-graphics-camp-y5-y9",
+      "provider": "STEMLOOK · Python Chatbots & Graphics",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y5–Y9. Минимум 10 лет.",
+      "programme": "Чат-боты на Python с if и while, графика Turtle.",
+      "formats": [
+        "online"
+      ],
+      "themes": [
+        "coding",
+        "ai"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "variant_key": "online-20270121",
+            "label": "Online · STEMLOOK · Python Chatbots & Graphics",
+            "price": "AUD 109",
+            "source": "https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Чат-боты на Python с if и while, графика Turtle.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T22:00:00Z",
+                "end_utc": "2027-01-21T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams.",
+            "age_min": 10
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 109,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 109",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Компьютер и интернет. Уточнить требования к программам, доступ из-за рубежа и итоговую цену.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дистанционное участие из дома.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/python-chatbots-graphics-camp-y5-y9/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "availability": {
+        "status": "listed_available",
+        "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+        "checked": "2026-11-09"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2361-20270121-20270121-online-20270121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2362",
+      "slug": "stemlook-roblox-coding-camp-part1",
+      "provider": "STEMLOOK · Roblox Coding Intro",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y5–Y9.",
+      "programme": "Сценарии и функции на Lua, логика и создание 3D-игры.",
+      "formats": [
+        "online"
+      ],
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "variant_key": "online-20270115",
+            "label": "Online · STEMLOOK · Roblox Coding Intro",
+            "price": "AUD 110",
+            "source": "https://stemlook.com.au/products/roblox-coding-camp-part1/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "closed",
+            "availability": {
+              "status": "sold_out",
+              "label": "Вариант помечен как заполненный. Уточнить лист ожидания.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "Сценарии и функции на Lua, логика и создание 3D-игры.",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T22:00:00Z",
+                "end_utc": "2027-01-15T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 110,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 110",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Компьютер и интернет. Уточнить требования к программам, доступ из-за рубежа и итоговую цену.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дистанционное участие из дома.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/roblox-coding-camp-part1/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "availability": {
+        "status": "sold_out",
+        "label": "Вариант помечен как заполненный. Уточнить лист ожидания.",
+        "checked": "2026-11-09"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2362-20270115-20270115-online-20270115"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2363",
+      "slug": "stemlook-unity-designers-intro-camp-y6-y9",
+      "provider": "STEMLOOK · Unity Designers Intro",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y6–Y9.",
+      "programme": "C#, отладка, 3D-модели и проектирование уровней в Unity.",
+      "formats": [
+        "online"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "3d"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "variant_key": "online-20270113",
+            "label": "Online · STEMLOOK · Unity Designers Intro",
+            "price": "AUD 109",
+            "source": "https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "listed_available",
+              "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "C#, отладка, 3D-модели и проектирование уровней в Unity.",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T22:00:00Z",
+                "end_utc": "2027-01-13T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 109,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 109",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Компьютер и интернет. Уточнить требования к программам, доступ из-за рубежа и итоговую цену.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дистанционное участие из дома.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/unity-designers-intro-camp-y6-y9/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "availability": {
+        "status": "listed_available",
+        "label": "Вариант активен в селекторе. Место подтверждает организатор.",
+        "checked": "2026-11-09"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2363-20270113-20270113-online-20270113"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2364",
+      "slug": "stemlook-web-creators-intro-camp",
+      "provider": "STEMLOOK · Web Creators Intro",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн · часовой пояс Сиднея",
+      "age": "Школьные классы Y5–Y9.",
+      "programme": "HTML, CSS и JavaScript. Итоговый мини-проект — собственная веб-страница.",
+      "formats": [
+        "online"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Даты и тарифы сверены по вариантам записи и расписаниям. Выберите площадку и дату.",
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "variant_key": "online-20270119",
+            "label": "Online · STEMLOOK · Web Creators Intro",
+            "price": "AUD 109",
+            "source": "https://stemlook.com.au/products/web-creators-intro-camp/",
+            "formats": [
+              "online"
+            ],
+            "date_scope": "session_days",
+            "place": "Онлайн · часовой пояс Сиднея",
+            "admission_kind": "open_application",
+            "availability": {
+              "status": "unknown",
+              "label": "Вариант активен в карточке. В индексируемом каталоге встречается отметка о полном наборе. Наличие уточнить.",
+              "checked": "2026-11-09"
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Sydney",
+                "topic": "HTML, CSS и JavaScript. Итоговый мини-проект — собственная веб-страница.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T22:00:00Z",
+                "end_utc": "2027-01-19T04:30:00Z"
+              }
+            ],
+            "timing_note": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 109,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 109",
+        "included": "Занятие по выбранному варианту.",
+        "extras": "Компьютер и интернет. Уточнить требования к программам, доступ из-за рубежа и итоговую цену.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дистанционное участие из дома.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 9 лет проверить школьный класс и техническую подготовку. Вводные курсы по Minecraft доступны на младшей ступени."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше целевой ступени по опубликованным условиям."
+        }
+      },
+      "editorial_reason": "Онлайн 09:00–15:30 по Сиднею. Живой преподаватель в Teams.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/web-creators-intro-camp/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/product-category/online-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "availability": {
+        "status": "unknown",
+        "label": "Вариант активен в карточке. В индексируемом каталоге встречается отметка о полном наборе. Наличие уточнить.",
+        "checked": "2026-11-09"
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2364-20270119-20270119-online-20270119"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2365",
+      "slug": "stemlook-term1-sibling-robotics-2027",
+      "provider": "STEMLOOK · Robot Explorers / Robot Engineers",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Chatswood / Burwood / Zetland · Sydney",
+      "age": "Robot Explorers 6–7 лет и Y1–Y2. Robot Engineers Y2–Y7.",
+      "programme": "В Term 1 Оскару подходит Robot Explorers для Y1–Y2 и 6–7 лет. Для Матвея проверить Robot Engineers Y2–Y7 по школьному классу.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "Описание и материалы доступны на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Term 1 проходит 6 февраля — 10 апреля 2027. Совпадают 6 еженедельных слотов. Chatswood ср или чт 16:10–17:10. Burwood вт 17:20–18:20, чт 16:10–17:10 или сб 14:10–15:10. Zetland сб 14:30–15:30. Для Zetland сб 12:30–13:30 селектор и расписание расходятся. Сверить даты конкретной группы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 405,
+        "currency": "AUD",
+        "unit": "term",
+        "label": "405 AUD за Term 1 на ребёнка по каждому селектору. Для двоих 810 AUD до возможной аренды.",
+        "included": "Учебный срок для одного ребёнка.",
+        "extras": "Своё устройство по требованиям программы. Отдельная страница аренды указывает 17 AUD за учебный срок или каникулярный сезон. FAQ указывает 15 AUD. Итог и наличие техники уточнить.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      },
+      "accommodation": "Дневные занятия. Проживание и дорога отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сверить эквивалент местного класса по опубликованному диапазону."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "В Term 1 Оскару подходит Robot Explorers для Y1–Y2 и 6–7 лет. Для Матвея проверить Robot Engineers Y2–Y7 по школьному классу."
+        }
+      },
+      "editorial_reason": "Term 1 проходит 6 февраля — 10 апреля 2027. Совпадают 6 еженедельных слотов. Chatswood ср или чт 16:10–17:10. Burwood вт 17:20–18:20, чт 16:10–17:10 или сб 14:10–15:10. Zetland сб 14:30–15:30. Для Zetland сб 12:30–13:30 селектор и расписание расходятся. Сверить даты конкретной группы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык группы и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://stemlook.com.au/products/robot-explorers/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/robot-engineers/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/about-us/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/chatswood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/burwood-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/zetland-coding-robotics-school/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/",
+          "title": "Страница организатора, расписание или правила участия.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -430432,7 +433012,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2353,
+      "total_dossiers": 2365,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -446153,17 +448733,17 @@
     },
     {
       "programme_id": "CP1289",
+      "event_id": "CP1289-20270120-20270120-zetland-20270120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1289",
       "event_id": "CP1289-20261221-20261221-burwood-20261221",
       "relation": "catalogue_session"
     },
     {
       "programme_id": "CP1289",
       "event_id": "CP1289-20270121-20270121-burwood-20270121",
-      "relation": "catalogue_session"
-    },
-    {
-      "programme_id": "CP1289",
-      "event_id": "CP1289-20270120-20270120-zetland-20270120",
       "relation": "catalogue_session"
     },
     {
@@ -455907,6 +458487,156 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2354",
+      "event_id": "CP2354-20261221-20261221-chatswood-20261221",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2354",
+      "event_id": "CP2354-20270112-20270112-chatswood-20270112",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2354",
+      "event_id": "CP2354-20270112-20270112-burwood-20270112",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2354",
+      "event_id": "CP2354-20261221-20261221-zetland-20261221",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2354",
+      "event_id": "CP2354-20270112-20270112-zetland-20270112",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2355",
+      "event_id": "CP2355-20261218-20261218-burwood-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2355",
+      "event_id": "CP2355-20270119-20270119-burwood-20270119",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2355",
+      "event_id": "CP2355-20270119-20270119-chatswood-20270119",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2355",
+      "event_id": "CP2355-20270119-20270119-zetland-20270119",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2356",
+      "event_id": "CP2356-20261222-20261222-chatswood-20261222",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2356",
+      "event_id": "CP2356-20261223-20261223-burwood-20261223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2356",
+      "event_id": "CP2356-20270115-20270115-chatswood-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2357",
+      "event_id": "CP2357-20270121-20270121-chatswood-20270121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2358",
+      "event_id": "CP2358-20270127-20270127-burwood-20270127",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2358",
+      "event_id": "CP2358-20270127-20270127-zetland-20270127",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2358",
+      "event_id": "CP2358-20270127-20270127-chatswood-20270127",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2359",
+      "event_id": "CP2359-20270120-20270120-burwood-20270120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2359",
+      "event_id": "CP2359-20270121-20270121-zetland-20270121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2359",
+      "event_id": "CP2359-20261221-20261221-online-20261221",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2359",
+      "event_id": "CP2359-20270120-20270120-chatswood-20270120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2359",
+      "event_id": "CP2359-20270120-20270120-online-20270120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2360",
+      "event_id": "CP2360-20261218-20261218-online-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2360",
+      "event_id": "CP2360-20270114-20270114-chatswood-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2360",
+      "event_id": "CP2360-20270114-20270114-burwood-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2360",
+      "event_id": "CP2360-20270114-20270114-zetland-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2360",
+      "event_id": "CP2360-20270114-20270114-online-20270114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2361",
+      "event_id": "CP2361-20270121-20270121-online-20270121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2362",
+      "event_id": "CP2362-20270115-20270115-online-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2363",
+      "event_id": "CP2363-20270113-20270113-online-20270113",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2364",
+      "event_id": "CP2364-20270119-20270119-online-20270119",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -459308,9 +462038,9 @@
     "CP1289-20261218-20261218-chatswood-20261218",
     "CP1289-20270118-20270118-chatswood-20270118",
     "CP1289-20270128-20270128-chatswood-20270128",
+    "CP1289-20270120-20270120-zetland-20270120",
     "CP1289-20261221-20261221-burwood-20261221",
     "CP1289-20270121-20270121-burwood-20270121",
-    "CP1289-20270120-20270120-zetland-20270120",
     "CP1290-20261223-20261223-chatswood-20261223",
     "CP1290-20270113-20270113-chatswood-20270113",
     "CP1290-20261222-20261222-burwood-20261222",
@@ -461095,10 +463825,40 @@
     "CP2299-20261214-20261218-am-12-14",
     "CP2300-20261214-20261218-am-12-14",
     "CP2300-20261221-20261223-am-12-21",
-    "CP2300-20270104-20270108-am-01-04"
+    "CP2300-20270104-20270108-am-01-04",
+    "CP2354-20261221-20261221-chatswood-20261221",
+    "CP2354-20270112-20270112-chatswood-20270112",
+    "CP2354-20270112-20270112-burwood-20270112",
+    "CP2354-20261221-20261221-zetland-20261221",
+    "CP2354-20270112-20270112-zetland-20270112",
+    "CP2355-20261218-20261218-burwood-20261218",
+    "CP2355-20270119-20270119-burwood-20270119",
+    "CP2355-20270119-20270119-chatswood-20270119",
+    "CP2355-20270119-20270119-zetland-20270119",
+    "CP2356-20261222-20261222-chatswood-20261222",
+    "CP2356-20261223-20261223-burwood-20261223",
+    "CP2356-20270115-20270115-chatswood-20270115",
+    "CP2357-20270121-20270121-chatswood-20270121",
+    "CP2358-20270127-20270127-burwood-20270127",
+    "CP2358-20270127-20270127-zetland-20270127",
+    "CP2358-20270127-20270127-chatswood-20270127",
+    "CP2359-20270120-20270120-burwood-20270120",
+    "CP2359-20270121-20270121-zetland-20270121",
+    "CP2359-20261221-20261221-online-20261221",
+    "CP2359-20270120-20270120-chatswood-20270120",
+    "CP2359-20270120-20270120-online-20270120",
+    "CP2360-20261218-20261218-online-20261218",
+    "CP2360-20270114-20270114-chatswood-20270114",
+    "CP2360-20270114-20270114-burwood-20270114",
+    "CP2360-20270114-20270114-zetland-20270114",
+    "CP2360-20270114-20270114-online-20270114",
+    "CP2361-20270121-20270121-online-20270121",
+    "CP2362-20270115-20270115-online-20270115",
+    "CP2363-20270113-20270113-online-20270113",
+    "CP2364-20270119-20270119-online-20270119"
   ],
   "integration": {
-    "generated_sessions": 4778,
+    "generated_sessions": 4808,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
