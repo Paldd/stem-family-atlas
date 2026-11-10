@@ -93256,18 +93256,18 @@ Verificado: 2026-11-10
 
 ### CP2400-20270104-20270212 · Instituto Sudamericano Modelo · Colonia de Verano · 2027-01-04–2027-02-12
 
-Lugar: Argentina · Buenos Aires · Caballito
+Lugar: Argentina · Sudamericano Club · Río de Janeiro 671, Buenos Aires
 Fecha: 2027-01-04 — 2027-02-12
 Edad: 2–12 años. Infantil 6–7, Juniors 8–12.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Programa publicado en español. No se indica el idioma de cada taller.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha
-Acceso: Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
-Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.
-Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones. · suplementos y condiciones en la ficha
+Acceso: El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.
+Restricciones: Matvey: Cumple la edad de Juniors. Consulte qué semana incluye talleres de tecnología, el idioma y las plazas. Oscar: Cumple la edad de Infantil. Confirme por separado si hay robótica para 6–7 años. Suplementos: Para la jornada completa hace falta almuerzo. Comedor o vianda de 12:30 a 13:30. Consulte el precio del comedor. Pago: Consulte al organizador.
+Fuente: https://club.iesm.edu.ar/colonia-de-verano
 Verificado: 2026-11-10
 
 ### CP2401-20261221-20261224 · Miami Children’s Museum · Winter Break Week 1 · 2026-12-21–2026-12-24
@@ -98420,6 +98420,22 @@ Coste: 2027 · TWD 16800 por curso. Tarifa individual anticipada de TWD 15960 ha
 Acceso: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.
 Restricciones: Matvey: Ambos menores están por debajo de la edad mínima publicada de 15 años. Oscar: Ambos menores están por debajo de la edad mínima publicada de 15 años. Suplementos: Se necesita portátil propio con Windows o macOS. Desayuno, cena, alojamiento y traslado por separado. Pago: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.
 Fuente: https://ai4kids.ai/pages/ai-robot-camp
+Verificado: 2026-11-10
+
+### CP2553-20270111-20270111 · Museu de Ciências e Tecnologia PUCRS · Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre. · 2027-01-11–2027-01-11
+
+Lugar: Brasil · Porto Alegre · MCT PUCRS
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 6*12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento. · suplementos y condiciones en la ficha
+Acceso: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+Restricciones: Matvey: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Oscar: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -61238,35 +61238,39 @@
       "title": "Instituto Sudamericano Modelo · Colonia de Verano · 2027-01-04–2027-02-12",
       "country": "Argentina",
       "region": "América del Sur",
-      "city": "Buenos Aires · Caballito",
+      "city": "Sudamericano Club · Río de Janeiro 671, Buenos Aires",
       "start": "2027-01-04",
       "end": "2027-02-12",
-      "period": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.",
+      "period": "Semanas disponibles: 4–8, 11–15, 18–22 y 25–29 de enero, 1–5 y 10–12 de febrero de 2027. No hay actividad el 8–9 de febrero. Jornada completa 08:45–17:00, mañana 08:45–12:30 y tarde 13:00–17:00. Entrada anticipada 08:00–08:45 incluida.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "2–12 años. Infantil 6–7, Juniors 8–12.",
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Sesiones diurnas sin alojamiento.",
-      "entry": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
-      "gear": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "entry": "El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.",
+      "gear": "Programa diurno con natación, deporte y arte. Juniors de 8–12 cuenta con talleres de tecnología. Para Infantil de 6–7 se describen deporte y actividades acuáticas. Confirme si este grupo ofrece robótica.",
       "language": "Programa publicado en español. No se indica el idioma de cada taller.",
-      "cost": "2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha",
+      "cost": "2027 · No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones. · suplementos y condiciones en la ficha",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
-      "action": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
-      "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+      "action": "El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.",
+      "source": "https://club.iesm.edu.ar/colonia-de-verano",
       "references": [
         {
           "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://club.iesm.edu.ar/colonia-de-verano",
           "label": "Se comprobó la ficha oficial del programa."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
       "checked": "2026-11-10",
       "status": "Idea",
-      "note": "Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.",
+      "note": "Matvey: Cumple la edad de Juniors. Consulte qué semana incluye talleres de tecnología, el idioma y las plazas. Oscar: Cumple la edad de Infantil. Confirme por separado si hay robótica para 6–7 años. Suplementos: Para la jornada completa hace falta almuerzo. Comedor o vianda de 12:30 a 13:30. Consulte el precio del comedor. Pago: Consulte al organizador.",
       "iso": [
         "ARG"
       ],
@@ -61286,10 +61290,16 @@
       "date_precision": "announced_window",
       "camp_dossier_slug": "iesm-colonia-sudamericano-2027",
       "camp_programme_id": "CP2400",
-      "language_roles": {},
-      "language_mode": "unconfirmed",
-      "languages": [],
-      "date_rule": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica."
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "date_rule": "Semanas disponibles: 4–8, 11–15, 18–22 y 25–29 de enero, 1–5 y 10–12 de febrero de 2027. No hay actividad el 8–9 de febrero. Jornada completa 08:45–17:00, mañana 08:45–12:30 y tarde 13:00–17:00. Entrada anticipada 08:00–08:45 incluida."
     },
     {
       "id": "CP2466-20270105-20270218",
@@ -61889,6 +61899,68 @@
         "status": "sold_out",
         "label": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
       }
+    },
+    {
+      "id": "CP2553-20270111-20270111",
+      "block": "Campamentos",
+      "title": "Museu de Ciências e Tecnologia PUCRS · Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre. · 2027-01-11–2027-01-11",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "Porto Alegre · MCT PUCRS",
+      "start": "2027-01-11",
+      "end": "2027-01-11",
+      "period": "Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 6 a 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.",
+      "gear": "Actividades diurnas en los laboratorios del Museo de Ciencias y Tecnología de la PUCRS, con monitores. De lunes a viernes de 13:00 a 18:00.",
+      "language": "Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.",
+      "cost": "2027 · BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.",
+      "source": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+      "references": [
+        {
+          "url": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Oscar: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Suplementos: Consulte al organizador. Pago: Consulte al organizador.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "activity_start",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "pucrs-mct-colonia-2027",
+      "camp_programme_id": "CP2553",
+      "language_roles": {
+        "materials": [
+          "PT"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "PT"
+      ]
     },
     {
       "id": "E298",

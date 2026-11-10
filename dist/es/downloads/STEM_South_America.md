@@ -10546,10 +10546,10 @@ Edad: 2–12 años. Infantil 6–7, Juniors 8–12.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Programa publicado en español. No se indica el idioma de cada taller.
-Acceso: Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
-Costo: 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión. · cargos y condiciones en la ficha
-Condiciones: Matvey: Cumple para Juniors. Confirme horario de talleres, plaza y tarifa. Oscar: Cumple para Infantil. Confirme el acceso a robótica en el grupo menor. Cargos extra: Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida. Pago: Consulte al organizador.
-Fuente: https://iesm.edu.ar/blog/colonia-de-verano-2027
+Acceso: El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.
+Coste: 2027 · No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple la edad de Juniors. Consulte qué semana incluye talleres de tecnología, el idioma y las plazas. Oscar: Cumple la edad de Infantil. Confirme por separado si hay robótica para 6–7 años. Suplementos: Para la jornada completa hace falta almuerzo. Comedor o vianda de 12:30 a 13:30. Consulte el precio del comedor. Pago: Consulte al organizador.
+Fuente: https://club.iesm.edu.ar/colonia-de-verano
 Verificado: 2026-11-10
 
 ### CP2466-20270105-20270218 · Comunidad Arcoíris · Cool Camp · Cool Camp · 2027-01-05–2027-02-18
@@ -10628,6 +10628,19 @@ Acceso: Las dos sesiones se venden juntas. La página de inscripción indica que
 Coste: 2026/27 · CLP 35000 por el paquete de 2 talleres. · suplementos y condiciones en la ficha
 Restricciones: Matvey: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Oscar: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
 Fuente: https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia
+Verificado: 2026-11-10
+
+### CP2553-20270111-20270111 · Museu de Ciências e Tecnologia PUCRS · Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre. · 2027-01-11–2027-01-11
+
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 6*12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.
+Acceso: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+Coste: 2027 · BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Oscar: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/
 Verificado: 2026-11-10
 
 ### E298 · Brasil Game Show 2027 · public exhibition

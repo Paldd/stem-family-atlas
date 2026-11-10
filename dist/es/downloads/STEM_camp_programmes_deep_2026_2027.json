@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2550,
+    "dossiers": 2553,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
       "published_2027": 742,
-      "partial_2027": 182,
+      "partial_2027": 185,
       "next_unannounced": 489,
       "published_2026": 488,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3467
+    "source_urls": 3470
   },
   "countries": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "country": "Brasil",
-      "count": 8
+      "count": 9
     },
     {
       "country": "Islas Vírgenes Británicas",
@@ -240,7 +240,7 @@
     },
     {
       "country": "España",
-      "count": 165
+      "count": 167
     },
     {
       "country": "Italia",
@@ -421886,9 +421886,9 @@
       "provider": "Instituto Sudamericano Modelo",
       "country": "Argentina",
       "iso": "ARG",
-      "place": "Buenos Aires · Caballito",
+      "place": "Sudamericano Club · Río de Janeiro 671, Buenos Aires",
       "age": "2–12 años. Infantil 6–7, Juniors 8–12.",
-      "programme": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "programme": "Programa diurno con natación, deporte y arte. Juniors de 8–12 cuenta con talleres de tecnología. Para Infantil de 6–7 se describen deporte y actividades acuáticas. Confirme si este grupo ofrece robótica.",
       "formats": [
         "day"
       ],
@@ -421904,7 +421904,7 @@
       "accommodation": "Sesiones diurnas sin alojamiento.",
       "timing": {
         "status": "published_2027",
-        "label": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.",
+        "label": "Semanas disponibles: 4–8, 11–15, 18–22 y 25–29 de enero, 1–5 y 10–12 de febrero de 2027. No hay actividad el 8–9 de febrero. Jornada completa 08:45–17:00, mañana 08:45–12:30 y tarde 13:00–17:00. Entrada anticipada 08:00–08:45 incluida.",
         "sessions": [
           [
             "2027-01-04",
@@ -421916,12 +421916,13 @@
             "start": "2027-01-04",
             "end": "2027-02-12",
             "label": "Colonia de Verano",
-            "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
-            "price": "No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.",
-            "entry": "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.",
+            "source": "https://club.iesm.edu.ar/colonia-de-verano",
+            "price": "No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones.",
+            "entry": "El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.",
             "date_scope": "camp_window",
             "date_precision": "announced_window",
-            "date_rule": "Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica."
+            "date_rule": "Semanas disponibles: 4–8, 11–15, 18–22 y 25–29 de enero, 1–5 y 10–12 de febrero de 2027. No hay actividad el 8–9 de febrero. Jornada completa 08:45–17:00, mañana 08:45–12:30 y tarde 13:00–17:00. Entrada anticipada 08:00–08:45 incluida.",
+            "place": "Sudamericano Club · Río de Janeiro 671, Buenos Aires"
           }
         ],
         "precision": "published_sessions"
@@ -421931,34 +421932,46 @@
         "amount": null,
         "currency": "ARS",
         "unit": "unknown",
-        "label": "No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.",
-        "included": "Consulte al organizador.",
-        "extras": "Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida.",
+        "label": "No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones.",
+        "included": "Entrada anticipada incluida.",
+        "extras": "Para la jornada completa hace falta almuerzo. Comedor o vianda de 12:30 a 13:30. Consulte el precio del comedor.",
         "deposit": "Consulte al organizador."
       },
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Cumple para Juniors. Confirme horario de talleres, plaza y tarifa."
+          "detail": "Cumple la edad de Juniors. Consulte qué semana incluye talleres de tecnología, el idioma y las plazas."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Cumple para Infantil. Confirme el acceso a robótica en el grupo menor."
+          "detail": "Cumple la edad de Infantil. Confirme por separado si hay robótica para 6–7 años."
         }
       },
-      "editorial_reason": "Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.",
+      "editorial_reason": "Programa diurno con natación, deporte y arte. Juniors de 8–12 cuenta con talleres de tecnología. Para Infantil de 6–7 se describen deporte y actividades acuáticas. Confirme si este grupo ofrece robótica.",
       "shortlist": [],
       "questions": [
-        "Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos."
+        "El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza."
       ],
       "sources": [
         {
           "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
           "title": "Se comprobó la ficha oficial del programa.",
           "checked": "2026-11-10"
+        },
+        {
+          "url": "https://club.iesm.edu.ar/colonia-de-verano",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
         }
       ],
       "checked": "2026-11-10",
+      "materials_languages": [
+        "ES"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -421970,7 +421983,11 @@
           ]
         }
       ],
-      "language_roles": {}
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     },
     {
       "id": "CP2401",
@@ -453262,6 +453279,317 @@
           "ZH"
         ]
       }
+    },
+    {
+      "id": "CP2551",
+      "slug": "calahorra-robotica-2027",
+      "provider": "Ayuntamiento de Calahorra",
+      "iso": "ESP",
+      "country": "España",
+      "place": "Centro Cultural Deán Palacios, Calahorra",
+      "age": "De 6 a 12 años.",
+      "programme": "Curso municipal de Robótica infantil. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en español. El organizador no especifica por separado el idioma de las clases.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Enero–marzo de 2027. No se publican las fechas de cada clase.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_variants": [
+          {
+            "label": "Enero–marzo de 2027. No se publican las fechas de cada clase.",
+            "announced_months": [
+              "2027-01",
+              "2027-02",
+              "2027-03"
+            ],
+            "place": "Centro Cultural Deán Palacios, Calahorra",
+            "price": "EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.",
+            "source": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+              }
+            }
+          }
+        ],
+        "announced_months": [
+          "2027-01",
+          "2027-02",
+          "2027-03"
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2027,
+        "label": "EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+        }
+      },
+      "editorial_reason": "Curso municipal de Robótica infantil. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.",
+      "shortlist": [],
+      "questions": [
+        "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+      ],
+      "sources": [
+        {
+          "url": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2552",
+      "slug": "calahorra-ia-2027",
+      "provider": "Ayuntamiento de Calahorra",
+      "iso": "ESP",
+      "country": "España",
+      "place": "Centro Cultural Deán Palacios, Calahorra",
+      "age": "9–14 años.",
+      "programme": "Curso municipal de Inteligencia artificial. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en español. El organizador no especifica por separado el idioma de las clases.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Abril–mayo de 2027. No se publican las fechas de cada clase.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_variants": [
+          {
+            "label": "Abril–mayo de 2027. No se publican las fechas de cada clase.",
+            "announced_months": [
+              "2027-04",
+              "2027-05"
+            ],
+            "place": "Centro Cultural Deán Palacios, Calahorra",
+            "price": "EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.",
+            "source": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Por debajo de la edad mínima de 9 años."
+              }
+            }
+          }
+        ],
+        "announced_months": [
+          "2027-04",
+          "2027-05"
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2027,
+        "label": "EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo de la edad mínima de 9 años."
+        }
+      },
+      "editorial_reason": "Curso municipal de Inteligencia artificial. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.",
+      "shortlist": [],
+      "questions": [
+        "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+      ],
+      "sources": [
+        {
+          "url": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2553",
+      "slug": "pucrs-mct-colonia-2027",
+      "provider": "Museu de Ciências e Tecnologia PUCRS",
+      "iso": "BRA",
+      "country": "Brasil",
+      "place": "Porto Alegre · MCT PUCRS",
+      "age": "De 6 a 12 años.",
+      "programme": "Actividades diurnas en los laboratorios del Museo de Ciencias y Tecnología de la PUCRS, con monitores. De lunes a viernes de 13:00 a 18:00.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre.",
+            "source": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+            "price": "BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento.",
+            "entry": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.",
+            "date_scope": "activity_start"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "BRL",
+        "amount": 160,
+        "unit": "day",
+        "year": 2027,
+        "label": "BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento.",
+        "included": "Consulte al organizador.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día."
+        }
+      },
+      "editorial_reason": "Actividades diurnas en los laboratorios del Museo de Ciencias y Tecnología de la PUCRS, con monitores. De lunes a viernes de 13:00 a 18:00.",
+      "shortlist": [],
+      "questions": [
+        "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día."
+      ],
+      "sources": [
+        {
+          "url": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "PT"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2553-20270111-20270111"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "PT"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -471822,7 +472150,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2550,
+      "total_dossiers": 2553,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -499522,6 +499850,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2553",
+      "event_id": "CP2553-20270111-20270111",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -505141,10 +505474,11 @@
     "CP2547-20270121-20270122",
     "CP2548-20270121-20270122",
     "CP2549-20270121-20270203",
-    "CP2550-20270125-20270128"
+    "CP2550-20270125-20270128",
+    "CP2553-20270111-20270111"
   ],
   "integration": {
-    "generated_sessions": 5209,
+    "generated_sessions": 5210,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

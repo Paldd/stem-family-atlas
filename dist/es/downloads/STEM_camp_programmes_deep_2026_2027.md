@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2550 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2553 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -188476,7 +188476,7 @@ Japón · Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3
 
 ## CP2400 · Instituto Sudamericano Modelo
 
-Argentina · Buenos Aires · Caballito
+Argentina · Sudamericano Club · Río de Janeiro 671, Buenos Aires
 
 **Verificado:** 2026-11-10
 
@@ -188484,43 +188484,47 @@ Argentina · Buenos Aires · Caballito
 
 **Idioma:** Programa publicado en español. No se indica el idioma de cada taller.
 
-**Programa:** Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.
+**Programa:** Programa diurno con natación, deporte y arte. Juniors de 8–12 cuenta con talleres de tecnología. Para Infantil de 6–7 se describen deporte y actividades acuáticas. Confirme si este grupo ofrece robótica.
 
 **Alojamiento:** Sesiones diurnas sin alojamiento.
 
-**Fechas / estado:** Periodo general del 4 de enero al 12 de febrero de 2027. Confirme horario de grupos y días de robótica.
+**Fechas / estado:** Semanas disponibles: 4–8, 11–15, 18–22 y 25–29 de enero, 1–5 y 10–12 de febrero de 2027. No hay actividad el 8–9 de febrero. Jornada completa 08:45–17:00, mañana 08:45–12:30 y tarde 13:00–17:00. Entrada anticipada 08:00–08:45 incluida.
 
-**Precio / año:** 2027 · No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.
+**Precio / año:** 2027 · No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones.
 
-**Incluye:** Consulte al organizador.
+**Incluido:** Entrada anticipada incluida.
 
-**Cargos extra:** Se puede llevar almuerzo o usar el comedor. Confirme las condiciones de comida.
+**Suplementos:** Para la jornada completa hace falta almuerzo. Comedor o vianda de 12:30 a 13:30. Consulte el precio del comedor.
 
 **Pago:** Consulte al organizador.
 
-**Matvey:** Cumple para Juniors. Confirme horario de talleres, plaza y tarifa.
+**Matvey:** Cumple la edad de Juniors. Consulte qué semana incluye talleres de tecnología, el idioma y las plazas.
 
-**Oscar:** Cumple para Infantil. Confirme el acceso a robótica en el grupo menor.
+**Oscar:** Cumple la edad de Infantil. Confirme por separado si hay robótica para 6–7 años.
 
-**Motivo de selección:** Programa diurno con natación, deporte y creatividad. Se anuncian talleres tecnológicos en Juniors. Confirme robótica para Infantil.
+**Motivo de selección:** Programa diurno con natación, deporte y arte. Juniors de 8–12 cuenta con talleres de tecnología. Para Infantil de 6–7 se describen deporte y actividades acuáticas. Confirme si este grupo ofrece robótica.
 
 ### Antes de solicitar plaza
 
-- Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+- El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.
 
 ### Colonia de Verano
 
 **Fechas / estado:** 2027-01-04 — 2027-02-12
 
-**Precio:** No se encontró tarifa pública. La página de inscripción pide correo para iniciar sesión.
+**Lugar:** Sudamericano Club · Río de Janeiro 671, Buenos Aires
 
-**Condiciones de participación:** Solicitud por el portal del centro. Puede elegir semana, quincena o todo enero. Confirme tarifa, horario y acceso de alumnos externos.
+**Precio:** No se publica el precio base. Se anuncia un descuento del 20% para el mes y la quincena hasta el 30 de noviembre de 2026. Cuotas hasta esa fecha o para las primeras 200 inscripciones.
 
-[fuente](https://iesm.edu.ar/blog/colonia-de-verano-2027)
+**Condiciones de participación:** El portal indica que la inscripción abrirá próximamente. Los niños que no sean alumnos ni socios necesitan un certificado médico emitido desde el 1 de diciembre de 2026. Consulte el precio, el idioma del taller y la plaza.
+
+[fuente](https://club.iesm.edu.ar/colonia-de-verano)
 
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://iesm.edu.ar/blog/colonia-de-verano-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://club.iesm.edu.ar/colonia-de-verano) · 2026-11-10
 
 ## CP2401 · Miami Children’s Museum
 
@@ -200313,6 +200317,130 @@ Taiwán · National Yang Ming Chiao Tung University · 1001 Daxue Road · Hsinch
 - [Se comprobó la ficha oficial del programa.](https://ai4kids.ai/pages/ai-robot-camp) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://ai4kids.ai/products/accommodation) · 2026-11-10
+
+## CP2551 · Ayuntamiento de Calahorra
+
+España · Centro Cultural Deán Palacios, Calahorra
+
+**Verificado:** 2026-11-10
+
+**edad:** De 6–12 años.
+
+**Idioma:** Materiales en español. El organizador no especifica por separado el idioma de las clases.
+
+**Programa:** Curso municipal de Robótica infantil. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Enero–marzo de 2027. No se publican las fechas de cada clase.
+
+**Precio / año:** 2027 · EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado.
+
+**Oscar:** El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado.
+
+**Motivo de selección:** Curso municipal de Robótica infantil. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.
+
+### Antes de solicitar plaza
+
+- El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/) · 2026-11-10
+
+## CP2552 · Ayuntamiento de Calahorra
+
+España · Centro Cultural Deán Palacios, Calahorra
+
+**Verificado:** 2026-11-10
+
+**edad:** 9–14 años.
+
+**Idioma:** Materiales en español. El organizador no especifica por separado el idioma de las clases.
+
+**Programa:** Curso municipal de Inteligencia artificial. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Abril–mayo de 2027. No se publican las fechas de cada clase.
+
+**Precio / año:** 2027 · EUR 45 por trimestre y EUR 135 por el ciclo completo según el anuncio. Confirme el precio del curso por separado y si se ajusta con una inscripción tardía.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado.
+
+**Oscar:** Por debajo de la edad mínima de 9 años.
+
+**Motivo de selección:** Curso municipal de Inteligencia artificial. Deán Palacios. Miércoles de 17:00–18:30 o de 18:30–20:00. Hasta 12 alumnos por grupo.
+
+### Antes de solicitar plaza
+
+- El plazo ordinario terminó el 24 de septiembre de 2026. Consulte admisión tardía y plazas en el grupo deseado.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/) · 2026-11-10
+
+## CP2553 · Museu de Ciências e Tecnologia PUCRS
+
+Brasil · Porto Alegre · MCT PUCRS
+
+**Verificado:** 2026-11-10
+
+**edad:** De 6–12 años.
+
+**Idioma:** Materiales en portugués. No se confirma el idioma de las actividades ni el apoyo en EN/ES.
+
+**Programa:** Actividades diurnas en los laboratorios del Museo de Ciencias y Tecnología de la PUCRS, con monitores. De lunes a viernes de 13:00 a 18:00.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre.
+
+**Precio / año:** 2027 · BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+
+**Oscar:** Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+
+**Motivo de selección:** Actividades diurnas en los laboratorios del Museo de Ciencias y Tecnología de la PUCRS, con monitores. De lunes a viernes de 13:00 a 18:00.
+
+### Antes de solicitar plaza
+
+- Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+
+### Inicio el 11 de enero de 2027. Aún no se indica la fecha de cierre.
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**Precio:** BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento.
+
+**Condiciones de participación:** Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día.
+
+[fuente](https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12678,
-    "competition_cards": 5579,
-    "event_cards": 872,
-    "camp_cards": 6227,
+    "cards": 12685,
+    "competition_cards": 5580,
+    "event_cards": 877,
+    "camp_cards": 6228,
     "league_profiles": 359,
-    "major_exhibition_cards": 764,
+    "major_exhibition_cards": 769,
     "vex_cards": 821,
-    "countries_with_records": 244,
+    "countries_with_records": 245,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 4083,
+      "total": 4086,
       "countries_with_records": 41,
-      "competitions": 2250,
-      "events": 246,
-      "major_exhibitions": 197,
+      "competitions": 2251,
+      "events": 248,
+      "major_exhibitions": 199,
       "camps": 1587,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 876,
+      "total": 877,
       "countries_with_records": 15,
       "competitions": 509,
       "events": 69,
       "major_exhibitions": 63,
-      "camps": 298,
+      "camps": 299,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -104,11 +104,11 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 650,
-      "countries_with_records": 27,
+      "total": 653,
+      "countries_with_records": 28,
       "competitions": 185,
-      "events": 49,
-      "major_exhibitions": 45,
+      "events": 52,
+      "major_exhibitions": 48,
       "camps": 416,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
@@ -18632,6 +18632,61 @@
       "new": false
     },
     {
+      "id": "E873",
+      "name": "Feria Internacional de Clubes de Ciencia 2027",
+      "country": "Guatemala",
+      "region": "América Central",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://agn.gt/guatemala-albergara-feria-internacional-de-clubes-de-ciencia/",
+      "new": false
+    },
+    {
+      "id": "E874",
+      "name": "Museo de los Niños de Guatemala · Laboratorio Estelar",
+      "country": "Guatemala",
+      "region": "América Central",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://museodelosninos.gt/exhibiciones/",
+      "new": false
+    },
+    {
+      "id": "E875",
+      "name": "Pinetree Tours · Stargazing Experience",
+      "country": "Isla Norfolk",
+      "region": "Oceanía",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.pinetreetours.com/stargazingexperience",
+      "new": false
+    },
+    {
+      "id": "E876",
+      "name": "Dark Sky Week 2027 · Brisbane",
+      "country": "Isla Norfolk",
+      "region": "Oceanía",
+      "start": "2027-04-06",
+      "end": "2027-04-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://norfolkislandtravel.co/stargazing-with-dave/",
+      "new": false
+    },
+    {
+      "id": "E877",
+      "name": "Dark Sky Week 2027 · Sydney",
+      "country": "Isla Norfolk",
+      "region": "Oceanía",
+      "start": "2027-04-14",
+      "end": "2027-04-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://norfolkislandtravel.co/stargazing-with-dave/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -21063,8 +21118,8 @@
       }
     ],
     "counts": {
-      "records": 6227,
-      "holiday": 5549,
+      "records": 6228,
+      "holiday": 5550,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,

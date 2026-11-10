@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://agn.gt/guatemala-albergara-feria-internacional-de-clubes-de-ciencia/",
+    "artifact": "agn-facts.json",
+    "bytes": 399,
+    "sha256": "a5e6b13fff315f2b9121cd54cf4eeef59136a719d0a544a4d8a4257c3cf394fd",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+    "artifact": "esp-calahorra.html",
+    "bytes": 82779,
+    "sha256": "a8622f151fb474e48136c63143147a4ee435b4ca4fe262a47f9f0cf5e0971522",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://club.iesm.edu.ar/colonia-de-verano",
+    "artifact": "arg-ism.html",
+    "bytes": 72038,
+    "sha256": "a3129300d2b06c4d87465918916e99da9f2b8c90337e2fb6354adc032f40f7a3",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://museodelosninos.gt/consejos-para-una-visita-inolvidable-al-museo-de-los-ninos/",
+    "artifact": "gtm-museum-visit.html",
+    "bytes": 158086,
+    "sha256": "dd4bcde21cefd31a402184101a9c44ede31454b31ca0e302c0b77b5b70c6b42b",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://museodelosninos.gt/exhibiciones/",
+    "artifact": "gtm-museum.html",
+    "bytes": 560441,
+    "sha256": "fc82ba40b716e3fc323dee49c1e17dc4278d189e07584820af6c1bdd95b8cd96",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://norfolkislandtravel.co/stargazing-with-dave/",
+    "artifact": "nfk-dark-sky-operator.html",
+    "bytes": 220472,
+    "sha256": "0898207420eac31dd5af938580b33b53711dd02ec5cbd6408672e0d89b40ccef",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+    "artifact": "pucrs-facts.json",
+    "bytes": 434,
+    "sha256": "08543afe4d4d5359ea135b505b1968eab7cd21aff2e0a3fd14a64fa940881ac5",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://proyectobalam.com/",
+    "artifact": "gtm-balam.html",
+    "bytes": 114519,
+    "sha256": "5c1d5f66eb3d8055c6a4df552d7082dd78e07fd139eedcf9fd3cad0525fa5e96",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.galileo.edu/revista-galileo/2026/10/27/proyecto-balam-12-anos-de-impulsar-el-talento-juvenil/",
+    "artifact": "galileo-facts.json",
+    "bytes": 487,
+    "sha256": "f1f039c87b9682d751f928c24b91b711b9ca9f212307e16e5a33426f6eeb843f",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://www.norfolkisland.com.au/events-calendar/dark-sky-week-2027/",
+    "artifact": "nfk-dark-sky.html",
+    "bytes": 306923,
+    "sha256": "5c51f919415a659b0144e712c03db53b707bd03f11fb2a3c2a3824ad8a884baa",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.pinetreetours.com/stargazingexperience",
+    "artifact": "nfk-pinetree.html",
+    "bytes": 258639,
+    "sha256": "b22b714372aab51b11d94fa78bac13bcf6033b90d52ed9705ca9d89281112e71",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.pinetreetours.com/travel-information",
+    "artifact": "nfk-currency.html",
+    "bytes": 157852,
+    "sha256": "9479dde2255fd4bc9614a375167da2ffbaf2ec700d91564ee90507824fb78755",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  }
+]

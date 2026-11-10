@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2550,
+    "dossiers": 2553,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
       "published_2027": 742,
-      "partial_2027": 182,
+      "partial_2027": 185,
       "next_unannounced": 489,
       "published_2026": 488,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3467
+    "source_urls": 3470
   },
   "countries": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "country": "Бразилия",
-      "count": 8
+      "count": 9
     },
     {
       "country": "Британские Виргинские острова",
@@ -240,7 +240,7 @@
     },
     {
       "country": "Испания",
-      "count": 165
+      "count": 167
     },
     {
       "country": "Италия",
@@ -421886,9 +421886,9 @@
       "provider": "Instituto Sudamericano Modelo",
       "country": "Аргентина",
       "iso": "ARG",
-      "place": "Buenos Aires · Caballito",
+      "place": "Sudamericano Club · Río de Janeiro 671, Buenos Aires",
       "age": "2–12 лет. Infantil 6–7, Juniors 8–12.",
-      "programme": "Дневная программа с плаванием, спортом и творчеством. У Juniors указаны технологические мастерские. Робототехника для группы Infantil требует подтверждения.",
+      "programme": "Дневная программа с плаванием, спортом и творчеством. У Juniors 8–12 есть технологические мастерские. Для Infantil 6–7 описаны спорт и водные занятия. Робототехнику в этой группе нужно уточнить.",
       "formats": [
         "day"
       ],
@@ -421904,7 +421904,7 @@
       "accommodation": "Дневные занятия без проживания.",
       "timing": {
         "status": "published_2027",
-        "label": "Общий период с 4 января по 12 февраля 2027. Время групп и дни робототехники уточнить.",
+        "label": "Дни на выбор по неделям: 4–8, 11–15, 18–22 и 25–29 января, 1–5 и 10–12 февраля 2027. 8–9 февраля выходные. Полный день 08:45–17:00, утро 08:45–12:30, после обеда 13:00–17:00. Ранний приём 08:00–08:45 включён.",
         "sessions": [
           [
             "2027-01-04",
@@ -421916,12 +421916,13 @@
             "start": "2027-01-04",
             "end": "2027-02-12",
             "label": "Colonia de Verano",
-            "source": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
-            "price": "Публичный тариф не найден. Сайт записи просит email для входа.",
-            "entry": "Подача через портал школы. Можно выбрать неделю, две недели или весь январь. Тариф, часы и допуск внешних учеников уточнить.",
+            "source": "https://club.iesm.edu.ar/colonia-de-verano",
+            "price": "Основной тариф не опубликован. Анонс скидки 20% на месяц и двухнедельный пакет до 30 ноября 2026. Рассрочка до этой даты или до первых 200 заявок.",
+            "entry": "Портал сообщает, что запись откроется позже. Для детей вне школы и клуба требуется медсправка, выданная с 1 декабря 2026. Уточнить тариф, язык мастерской и место в группе.",
             "date_scope": "camp_window",
             "date_precision": "announced_window",
-            "date_rule": "Общий период с 4 января по 12 февраля 2027. Время групп и дни робототехники уточнить."
+            "date_rule": "Дни на выбор по неделям: 4–8, 11–15, 18–22 и 25–29 января, 1–5 и 10–12 февраля 2027. 8–9 февраля выходные. Полный день 08:45–17:00, утро 08:45–12:30, после обеда 13:00–17:00. Ранний приём 08:00–08:45 включён.",
+            "place": "Sudamericano Club · Río de Janeiro 671, Buenos Aires"
           }
         ],
         "precision": "published_sessions"
@@ -421931,34 +421932,46 @@
         "amount": null,
         "currency": "ARS",
         "unit": "unknown",
-        "label": "Публичный тариф не найден. Сайт записи просит email для входа.",
-        "included": "Уточнить у организатора.",
-        "extras": "Можно принести обед или воспользоваться столовой. Условия питания уточнить.",
+        "label": "Основной тариф не опубликован. Анонс скидки 20% на месяц и двухнедельный пакет до 30 ноября 2026. Рассрочка до этой даты или до первых 200 заявок.",
+        "included": "Ранний приём включён.",
+        "extras": "Полный день требует обеда. Столовая или обед из дома с 12:30 до 13:30. Стоимость столовой уточнить.",
         "deposit": "Уточнить у организатора."
       },
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Подходит в Juniors. Сверить время мастерских, место и тариф."
+          "detail": "Возраст Juniors подходит. Уточнить неделю с технологическими мастерскими, язык и наличие мест."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Подходит в Infantil. Доступ к робототехнике в младшей группе уточнить."
+          "detail": "Возраст Infantil подходит. Робототехнику для 6–7 лет нужно подтвердить отдельно."
         }
       },
-      "editorial_reason": "Дневная программа с плаванием, спортом и творчеством. У Juniors указаны технологические мастерские. Робототехника для группы Infantil требует подтверждения.",
+      "editorial_reason": "Дневная программа с плаванием, спортом и творчеством. У Juniors 8–12 есть технологические мастерские. Для Infantil 6–7 описаны спорт и водные занятия. Робототехнику в этой группе нужно уточнить.",
       "shortlist": [],
       "questions": [
-        "Подача через портал школы. Можно выбрать неделю, две недели или весь январь. Тариф, часы и допуск внешних учеников уточнить."
+        "Портал сообщает, что запись откроется позже. Для детей вне школы и клуба требуется медсправка, выданная с 1 декабря 2026. Уточнить тариф, язык мастерской и место в группе."
       ],
       "sources": [
         {
           "url": "https://iesm.edu.ar/blog/colonia-de-verano-2027",
           "title": "Проверена официальная карточка программы.",
           "checked": "2026-11-10"
+        },
+        {
+          "url": "https://club.iesm.edu.ar/colonia-de-verano",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
       "checked": "2026-11-10",
+      "materials_languages": [
+        "ES"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Портал сообщает, что запись откроется позже. Для детей вне школы и клуба требуется медсправка, выданная с 1 декабря 2026. Уточнить тариф, язык мастерской и место в группе."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -421970,7 +421983,11 @@
           ]
         }
       ],
-      "language_roles": {}
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     },
     {
       "id": "CP2401",
@@ -453262,6 +453279,317 @@
           "ZH"
         ]
       }
+    },
+    {
+      "id": "CP2551",
+      "slug": "calahorra-robotica-2027",
+      "provider": "Ayuntamiento de Calahorra",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Centro Cultural Deán Palacios, Calahorra",
+      "age": "6–12 лет.",
+      "programme": "Муниципальный курс Robótica infantil. Deán Palacios. По средам 17:00–18:30 или 18:30–20:00. По 12 учащихся в группе.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском. Язык занятий организатор отдельно не указал.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Январь–март 2027. Отдельные даты занятий не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_variants": [
+          {
+            "label": "Январь–март 2027. Отдельные даты занятий не опубликованы.",
+            "announced_months": [
+              "2027-01",
+              "2027-02",
+              "2027-03"
+            ],
+            "place": "Centro Cultural Deán Palacios, Calahorra",
+            "price": "EUR 45 за триместр и EUR 135 за полный цикл по объявлению. Подтвердить цену отдельного курса и перерасчёт при поздней записи.",
+            "source": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+              }
+            }
+          }
+        ],
+        "announced_months": [
+          "2027-01",
+          "2027-02",
+          "2027-03"
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2027,
+        "label": "EUR 45 за триместр и EUR 135 за полный цикл по объявлению. Подтвердить цену отдельного курса и перерасчёт при поздней записи.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+        }
+      },
+      "editorial_reason": "Муниципальный курс Robótica infantil. Deán Palacios. По средам 17:00–18:30 или 18:30–20:00. По 12 учащихся в группе.",
+      "shortlist": [],
+      "questions": [
+        "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+      ],
+      "sources": [
+        {
+          "url": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2552",
+      "slug": "calahorra-ia-2027",
+      "provider": "Ayuntamiento de Calahorra",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Centro Cultural Deán Palacios, Calahorra",
+      "age": "9–14 лет.",
+      "programme": "Муниципальный курс Inteligencia artificial. Deán Palacios. По средам 17:00–18:30 или 18:30–20:00. По 12 учащихся в группе.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском. Язык занятий организатор отдельно не указал.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Апрель–май 2027. Отдельные даты занятий не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_variants": [
+          {
+            "label": "Апрель–май 2027. Отдельные даты занятий не опубликованы.",
+            "announced_months": [
+              "2027-04",
+              "2027-05"
+            ],
+            "place": "Centro Cultural Deán Palacios, Calahorra",
+            "price": "EUR 45 за триместр и EUR 135 за полный цикл по объявлению. Подтвердить цену отдельного курса и перерасчёт при поздней записи.",
+            "source": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Младше минимального возраста 9 лет."
+              }
+            }
+          }
+        ],
+        "announced_months": [
+          "2027-04",
+          "2027-05"
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": null,
+        "unit": "unknown",
+        "year": 2027,
+        "label": "EUR 45 за триместр и EUR 135 за полный цикл по объявлению. Подтвердить цену отдельного курса и перерасчёт при поздней записи.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше минимального возраста 9 лет."
+        }
+      },
+      "editorial_reason": "Муниципальный курс Inteligencia artificial. Deán Palacios. По средам 17:00–18:30 или 18:30–20:00. По 12 учащихся в группе.",
+      "shortlist": [],
+      "questions": [
+        "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+      ],
+      "sources": [
+        {
+          "url": "https://calahorra.es/abierto-el-plazo-de-inscripcion-para-los-cursos-culturales-municipales-hasta-el-24-de-septiembre/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Основной набор завершился 24 сентября 2026. Уточнить возможность позднего зачисления и остаток мест в нужной группе."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2553",
+      "slug": "pucrs-mct-colonia-2027",
+      "provider": "Museu de Ciências e Tecnologia PUCRS",
+      "iso": "BRA",
+      "country": "Бразилия",
+      "place": "Porto Alegre · MCT PUCRS",
+      "age": "6–12 лет.",
+      "programme": "Дневные занятия в лабораториях Музея науки и технологий PUCRS с наставниками. По будням 13:00–18:00.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на португальском. Язык занятий и поддержка EN/ES не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Начало 11 января 2027. Последний день программы ещё не указан.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Начало 11 января 2027. Последний день программы ещё не указан.",
+            "source": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+            "price": "BRL 160 за один день или BRL 640 за пять дней. Для двух и более детей в один день действуют отдельные условия. Размер скидки не указан.",
+            "entry": "Нужна предварительная запись. Уточнить доступные дни, язык занятий и условия для двух детей в один день.",
+            "date_scope": "activity_start"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "BRL",
+        "amount": 160,
+        "unit": "day",
+        "year": 2027,
+        "label": "BRL 160 за один день или BRL 640 за пять дней. Для двух и более детей в один день действуют отдельные условия. Размер скидки не указан.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Нужна предварительная запись. Уточнить доступные дни, язык занятий и условия для двух детей в один день."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужна предварительная запись. Уточнить доступные дни, язык занятий и условия для двух детей в один день."
+        }
+      },
+      "editorial_reason": "Дневные занятия в лабораториях Музея науки и технологий PUCRS с наставниками. По будням 13:00–18:00.",
+      "shortlist": [],
+      "questions": [
+        "Нужна предварительная запись. Уточнить доступные дни, язык занятий и условия для двух детей в один день."
+      ],
+      "sources": [
+        {
+          "url": "https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Нужна предварительная запись. Уточнить доступные дни, язык занятий и условия для двух детей в один день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "PT"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2553-20270111-20270111"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "PT"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -471822,7 +472150,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2550,
+      "total_dossiers": 2553,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -499522,6 +499850,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2553",
+      "event_id": "CP2553-20270111-20270111",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -505141,10 +505474,11 @@
     "CP2547-20270121-20270122",
     "CP2548-20270121-20270122",
     "CP2549-20270121-20270203",
-    "CP2550-20270125-20270128"
+    "CP2550-20270125-20270128",
+    "CP2553-20270111-20270111"
   ],
   "integration": {
-    "generated_sessions": 5209,
+    "generated_sessions": 5210,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

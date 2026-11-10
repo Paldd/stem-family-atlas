@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 385,
+    "prepared_ui_version": 386,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 384,
-    "previous_verified_commit": "ba6a5b8f4c61815749693dd2848e21cf3e9b176c",
-    "previous_working_ui_version": 384
+    "previous_verified_ui_version": 385,
+    "previous_verified_commit": "ed75a1fa0e555d4e19fbdb1867ba978fa4b9217c",
+    "previous_working_ui_version": 385
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41788,5 +41788,47 @@
       "next_dates_unannounced": true
     },
     "corrected_historical_ai_stage_event_id": "E707"
+  },
+  "guatemala_norfolk_and_holiday_programmes_v386": {
+    "version": 386,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 385,
+      "commit": "ed75a1fa0e555d4e19fbdb1867ba978fa4b9217c",
+      "workflow": 42878054765
+    },
+    "guatemala": {
+      "junior_watch_id": "C5581",
+      "age_2026": [
+        10,
+        12
+      ],
+      "selection_separate": true,
+      "fair_watch_id": "E873",
+      "fair_announced_month": "2027-04",
+      "museum_id": "E874"
+    },
+    "norfolk": {
+      "regular_visit_id": "E875",
+      "child_price_aud": 50,
+      "package_ids": [
+        "E876",
+        "E877"
+      ],
+      "age_recommendation": 10,
+      "no_open_competition_confirmed": true
+    },
+    "holidays": {
+      "argentina_updated": "CP2400",
+      "spain_dossiers": [
+        "CP2551",
+        "CP2552"
+      ],
+      "brazil_dossier": "CP2553",
+      "brazil_start": "2027-01-11",
+      "brazil_end_unknown": true
+    }
   }
 }
