@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12336,
+    "cards": 12412,
     "competition_cards": 5547,
-    "event_cards": 827,
-    "camp_cards": 5962,
+    "event_cards": 834,
+    "camp_cards": 6031,
     "league_profiles": 358,
-    "major_exhibition_cards": 721,
+    "major_exhibition_cards": 728,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3975,
+      "total": 3976,
       "countries_with_records": 41,
       "competitions": 2247,
-      "events": 238,
-      "major_exhibitions": 191,
+      "events": 239,
+      "major_exhibitions": 192,
       "camps": 1490,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2729,
+      "total": 2800,
       "countries_with_records": 55,
       "competitions": 795,
-      "events": 204,
-      "major_exhibitions": 180,
-      "camps": 1730,
+      "events": 206,
+      "major_exhibitions": 182,
+      "camps": 1799,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -104,11 +104,11 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 645,
+      "total": 649,
       "countries_with_records": 27,
       "competitions": 184,
-      "events": 45,
-      "major_exhibitions": 41,
+      "events": 49,
+      "major_exhibitions": 45,
       "camps": 416,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
@@ -18139,6 +18139,83 @@
       "new": false
     },
     {
+      "id": "E828",
+      "name": "Te Papa · Game Worlds",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2026-12-12",
+      "end": "2027-04-26",
+      "visitor_policy": "family",
+      "source": "https://www.tepapa.govt.nz/visit/exhibitions/game-worlds",
+      "new": false
+    },
+    {
+      "id": "E829",
+      "name": "Te Papa · Game Worlds Whānau Day",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-02-28",
+      "end": "2027-02-28",
+      "visitor_policy": "family",
+      "source": "https://www.tepapa.govt.nz/visit/events/game-worlds-whanau-day",
+      "new": false
+    },
+    {
+      "id": "E830",
+      "name": "Te Papa · Game Worlds · Low sensory session",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-01-21",
+      "end": "2027-01-21",
+      "visitor_policy": "family",
+      "source": "https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session",
+      "new": false
+    },
+    {
+      "id": "E831",
+      "name": "Te Papa · Game Worlds · Low sensory session",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-04-11",
+      "end": "2027-04-11",
+      "visitor_policy": "family",
+      "source": "https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session",
+      "new": false
+    },
+    {
+      "id": "E832",
+      "name": "Le Pavillon · Pavillon Playground",
+      "country": "Bélgica",
+      "region": "Europa",
+      "start": "2027-01-06",
+      "end": "2027-04-11",
+      "visitor_policy": "family",
+      "source": "https://www.le-pavillon.be/en/exhibitions/pavillon-playground",
+      "new": false
+    },
+    {
+      "id": "E833",
+      "name": "Nationalmuseum · Women as Technology",
+      "country": "Suecia",
+      "region": "Europa",
+      "start": "2027-02-18",
+      "end": "2027-09-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/women-as-technology",
+      "new": false
+    },
+    {
+      "id": "E834",
+      "name": "Museum of Idaho · Sci-Fi: Inventing Tomorrow",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-02-05",
+      "end": "2027-09-07",
+      "visitor_policy": "family",
+      "source": "https://museumofidaho.org/scifi/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -20570,8 +20647,8 @@
       }
     ],
     "counts": {
-      "records": 5962,
-      "holiday": 5291,
+      "records": 6031,
+      "holiday": 5360,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1046,

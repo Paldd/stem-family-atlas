@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2438 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2449 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -191384,7 +191384,7 @@ Filipinas · Quezon City · confirme con CodeCraft la sede de estas clases
 
 **Matvey:** Confirme la equivalencia del curso, sede, fecha, idioma de enseñanza y aplicación del cupón. La promoción no determina la fecha de la clase.
 
-**Oscar:** No cumple el nivel escolar de esta categoría.
+**Oscar:** Opción para una futura convocatoria. El criterio de la entidad es cursar 4.º o superior. Confirme la equivalencia escolar.
 
 **Motivo de selección:** LEGO SPIKE Prime. Construcción y programación de hasta 6 modelos.
 
@@ -191474,7 +191474,7 @@ Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Ch
 
 **Matvey:** La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza.
 
-**Oscar:** Edad inferior al mínimo publicado.
+**Oscar:** Condicional: al 09.01.2027 debe haber cumplido 7 años y cursar entre 2.º y 6.º. Confirme la admisión con la entidad.
 
 **Motivo de selección:** Proyectos de programación, juegos interactivos y animación. La ficha de inscripción indica cursos 2–6.
 
@@ -191497,6 +191497,1974 @@ Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 204, Ch
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://myrobothink.com/chicago) · 2026-11-10
+
+## CP2439 · FunTech Virtual · Roblox Game Designer
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 7–10 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Mundos y mecánicas de juego en Roblox Studio.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Motivo de selección:** Mundos y mecánicas de juego en Roblox Studio.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 08:00–11:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 14:00–17:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-16 · 14:00–17:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-17 · 14:00–17:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-18 · 14:00–17:30 · Europe/London · Roblox Game Designer
+
+- 2027-02-19 · 14:00–17:30 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-03-30 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-03-31 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-04-01 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+- 2027-04-02 · 09:00–17:00 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · Roblox Game Designer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/roblox-level-1) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2440 · FunTech Virtual · Minecraft Mod Developer
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 7–10 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Mods, objetos y texturas de Minecraft.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Motivo de selección:** Mods, objetos y texturas de Minecraft.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 08:00–11:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 14:00–17:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-02-16 · 14:00–17:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-02-17 · 14:00–17:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-02-18 · 14:00–17:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-02-19 · 14:00–17:30 · Europe/London · Minecraft Mod Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–17:00 · Europe/London · Minecraft Mod Developer
+
+- 2027-03-30 · 09:00–17:00 · Europe/London · Minecraft Mod Developer
+
+- 2027-03-31 · 09:00–17:00 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-01 · 09:00–17:00 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-02 · 09:00–17:00 · Europe/London · Minecraft Mod Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · Minecraft Mod Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/minecraft-with-mods) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2441 · FunTech Virtual · Minecraft Game Coder
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 9–12 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Programación de retos en Minecraft.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Programación de retos en Minecraft.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Minecraft Game Coder
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Minecraft Game Coder
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Minecraft Game Coder
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Minecraft Game Coder
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Minecraft Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · Minecraft Game Coder
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · Minecraft Game Coder
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · Minecraft Game Coder
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · Minecraft Game Coder
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · Minecraft Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/minecraft-level-3) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2442 · FunTech Virtual · 3D Game Design Developer
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 10–14 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Diseño de videojuegos 3D en Unreal Engine.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Diseño de videojuegos 3D en Unreal Engine.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-03-30 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-03-31 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-01 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-02 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-06 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-07 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-08 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+- 2027-04-09 · 14:00–17:30 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · 3D Game Design Developer
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · 3D Game Design Developer
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · 3D Game Design Developer
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · 3D Game Design Developer
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · 3D Game Design Developer
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/unreal-game-design) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2443 · FunTech Virtual · Python Coder
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 10–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Fundamentos de Python y ejercicios de programación.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Fundamentos de Python y ejercicios de programación.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-02-16 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-02-17 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-02-18 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-02-19 · 14:00–17:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-03-30 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-03-31 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-01 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-02 · 14:00–17:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-03-30 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-03-31 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-01 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-02 · 09:00–17:00 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-06 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-07 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-08 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-09 · 14:00–17:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-06 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-07 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-08 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-04-09 · 14:00–17:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-06-01 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-06-02 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-06-03 · 14:00–17:30 · Europe/London · Python Coder
+
+- 2027-06-04 · 14:00–17:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · Python Coder
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-06-01 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-06-02 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-06-03 · 09:00–17:00 · Europe/London · Python Coder
+
+- 2027-06-04 · 09:00–17:00 · Europe/London · Python Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/python-coder) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2444 · FunTech Virtual · Roblox Lua Coder
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Programación en Lua para proyectos de Roblox.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Nivel de edad para un año futuro.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Programación en Lua para proyectos de Roblox.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-03-30 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-03-31 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-04-01 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+- 2027-04-02 · 09:00–17:00 · Europe/London · Roblox Lua Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Roblox Lua Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/roblox-level-3) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2445 · FunTech Virtual · Unity Game Coder
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Programación y desarrollo de videojuegos en Unity.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Nivel de edad para un año futuro.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Programación y desarrollo de videojuegos en Unity.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Unity Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · Unity Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 14:00–17:30 · Europe/London · Unity Game Coder
+
+- 2027-06-01 · 14:00–17:30 · Europe/London · Unity Game Coder
+
+- 2027-06-02 · 14:00–17:30 · Europe/London · Unity Game Coder
+
+- 2027-06-03 · 14:00–17:30 · Europe/London · Unity Game Coder
+
+- 2027-06-04 · 14:00–17:30 · Europe/London · Unity Game Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/unity) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2446 · FunTech Virtual · Python OOP
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Programación orientada a objetos en Python.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Nivel de edad para un año futuro.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Programación orientada a objetos en Python.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-02-16 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-02-17 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-02-18 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-02-19 · 14:00–17:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-03-30 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-03-31 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-01 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-02 · 14:00–17:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-06 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-07 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-08 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-04-09 · 14:00–17:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-06-01 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-06-02 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-06-03 · 09:00–12:30 · Europe/London · Python OOP
+
+- 2027-06-04 · 09:00–12:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-01 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-02 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-03 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-04 · 14:00–17:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-01 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-02 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-03 · 14:00–17:30 · Europe/London · Python OOP
+
+- 2027-06-04 · 14:00–17:30 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-06-01 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-06-02 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-06-03 · 09:00–17:00 · Europe/London · Python OOP
+
+- 2027-06-04 · 09:00–17:00 · Europe/London · Python OOP
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/python-coder-level-2) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2447 · FunTech Virtual · AI Machine Learning
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 12–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Retos de aprendizaje automático.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Nivel de edad para un año futuro.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Retos de aprendizaje automático.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–17:00 · Europe/London · AI Machine Learning
+
+- 2027-03-30 · 09:00–17:00 · Europe/London · AI Machine Learning
+
+- 2027-03-31 · 09:00–17:00 · Europe/London · AI Machine Learning
+
+- 2027-04-01 · 09:00–17:00 · Europe/London · AI Machine Learning
+
+- 2027-04-02 · 09:00–17:00 · Europe/London · AI Machine Learning
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/machine-learning) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2448 · FunTech Virtual · AI Vibe Coder
+
+Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+
+**Verificado:** 2026-11-10
+
+**Edad:** 10–16 años según el calendario del curso.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+
+**Programa:** Desarrollo de proyectos con herramientas de IA.
+
+**Alojamiento:** En línea, sin alojamiento. La entidad está en el Reino Unido.
+
+**Fechas / estado:** Se publicaron 4 semanas de febrero a junio de 2027 en el calendario de la entidad. Confirme inscripción y disponibilidad.
+
+**Precio / año:** 2027 · GBP 395 por media jornada durante la semana. GBP 545 por jornada completa durante la semana.
+
+**Incluido:** Clases en directo en línea. Prepare su ordenador, conexión y programas necesarios.
+
+**Suplementos:** Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Desarrollo de proyectos con herramientas de IA.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-16 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-17 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-18 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-19 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-16 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-17 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-18 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-02-19 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-02-15 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-02-16 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-02-17 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-02-18 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-02-19 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-03-29 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-03-30 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-03-31 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-01 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-02 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-06 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-07 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-08 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-09 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-06 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-07 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-08 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+- 2027-04-09 · 09:00–12:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-04-05 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-04-06 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-04-07 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-04-08 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-04-09 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 395 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-06-01 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-06-02 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-06-03 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+- 2027-06-04 · 14:00–17:30 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00
+
+**Fechas / estado:** 2027-05-31 — 2027-06-04
+
+**Precio:** GBP 545 por la semana elegida.
+
+**Condiciones de participación:** Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+
+- 2027-05-31 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-06-01 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-06-02 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-06-03 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+- 2027-06-04 · 09:00–17:00 · Europe/London · AI Vibe Coder
+
+**Disponibilidad:** El calendario muestra un botón de inscripción. Confirme las plazas reales y la fecha de apertura al público.
+
+[fuente](https://www.funtech.co.uk/virtual_camps/dates)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camps/dates) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/virtual_camp_types/v2/ai-vibe-coder) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.funtech.co.uk/faqs) · 2026-11-10
+
+## CP2449 · MMI Lyon · Robot origami
+
+Francia · Maison des Mathématiques et de l’Informatique · Lyon
+
+**Verificado:** 2026-11-10
+
+**edad:** 8–12 años.
+
+**Idioma:** Descripción en francés. No se confirmó inglés ni español en las actividades.
+
+**Programa:** Dos días de origami y robótica con Planète Sciences. Los menores añaden motores, ruedas o luz a modelos de papel y después crean su propio proyecto.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 22–23 de febrero de 2027 de 09:30 a 16:30 en Lyon.
+
+**Precio / año:** 2027 · La página de este taller no indica la tarifa.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza.
+
+**Oscar:** Nivel de edad para un año futuro.
+
+**Motivo de selección:** Dos días de origami y robótica con Planète Sciences. Los menores añaden motores, ruedas o luz a modelos de papel y después crean su propio proyecto.
+
+### Antes de solicitar plaza
+
+- Confirme plazas, coste y apoyo lingüístico con la sede.
+
+### Robot origami
+
+**Fechas / estado:** 2027-02-22 — 2027-02-23
+
+**Precio:** La página de este taller no indica la tarifa.
+
+**Condiciones de participación:** Confirme plazas, coste y apoyo lingüístico con la sede.
+
+- 2027-02-22 · 09:30–16:30 · Europe/Paris · Robot origami
+
+- 2027-02-23 · 09:30–16:30 · Europe/Paris · Robot origami
+
+[fuente](https://mmi.universite-lyon.fr/stage-robot-origami-8-12--420685.kjsp?RH=1747729064832)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mmi.universite-lyon.fr/stage-robot-origami-8-12--420685.kjsp?RH=1747729064832) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

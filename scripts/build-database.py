@@ -111,7 +111,8 @@ current_audits = [
                  'wrc-source-crosswalk-and-family-programmes-audit-v370.json',
                  'robotek-direct-entry-and-family-camps-audit-v372.json',
                  'future-stars-teyi-and-family-exhibitions-audit-v373.json',
-                 'nrc-and-family-technology-audit-v374.json')
+                 'nrc-and-family-technology-audit-v374.json',
+                 'funtech-brainiacs-and-game-exhibitions-audit-v375.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

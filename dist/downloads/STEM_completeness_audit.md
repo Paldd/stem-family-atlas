@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12336; соревнований: 5547; событий: 827; лагерей / программ: 5962. Профилей лиг и программ: 358. Карточек крупных и профильных выставок: 721 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12412; соревнований: 5547; событий: 834; лагерей / программ: 6031. Профилей лиг и программ: 358. Карточек крупных и профильных выставок: 728 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,12 +14,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2247 | 191 | 1490 |
+| Северная Америка | 41 | 2247 | 192 | 1490 |
 | Южная Америка | 15 | 505 | 62 | 292 |
-| Европа | 55 | 795 | 180 | 1730 |
+| Европа | 55 | 795 | 182 | 1799 |
 | Африка | 61 | 286 | 47 | 156 |
 | Азия | 51 | 1290 | 198 | 1863 |
-| Океания | 27 | 184 | 41 | 416 |
+| Океания | 27 | 184 | 45 | 416 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 262. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
@@ -1161,6 +1161,13 @@ VEX: 821 из 5547 карточек соревнований (14.8%). Это я�
 - **Questacon · ZAP! CLANK! POW!** — Австралия; 2026-06-13 – 2027-02-21. Со взрослым; условия взрослого входа отдельно. https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/
 - **Super Human · Rochester Museum & Science Center** — США; 2026-10-02 – 2027-05-02. Со взрослым; условия взрослого входа отдельно. https://rmsc.org/exhibits/super-human/
 - **Ultimate Depth · DEEPSEA CHALLENGER** — Австралия; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth
+- **Te Papa · Game Worlds** — Новая Зеландия; 2026-12-12 – 2027-04-26. Со взрослым; условия взрослого входа отдельно. https://www.tepapa.govt.nz/visit/exhibitions/game-worlds
+- **Te Papa · Game Worlds Whānau Day** — Новая Зеландия; 2027-02-28. Со взрослым; условия взрослого входа отдельно. https://www.tepapa.govt.nz/visit/events/game-worlds-whanau-day
+- **Te Papa · Game Worlds · Low sensory session** — Новая Зеландия; 2027-01-21. Со взрослым; условия взрослого входа отдельно. https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session
+- **Te Papa · Game Worlds · Low sensory session** — Новая Зеландия; 2027-04-11. Со взрослым; условия взрослого входа отдельно. https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session
+- **Le Pavillon · Pavillon Playground** — Бельгия; 2027-01-06 – 2027-04-11. Со взрослым; условия взрослого входа отдельно. https://www.le-pavillon.be/en/exhibitions/pavillon-playground
+- **Nationalmuseum · Women as Technology** — Швеция; 2027-02-18 – 2027-09-19. Детский допуск уточнить. https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/women-as-technology
+- **Museum of Idaho · Sci-Fi: Inventing Tomorrow** — США; 2027-02-05 – 2027-09-07. Со взрослым; условия взрослого входа отдельно. https://museumofidaho.org/scifi/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

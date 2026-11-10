@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12336. Competiciones: 5547. Eventos: 827. Campamentos o programas: 5962. Perfiles de ligas y programas: 358. Fichas de grandes exposiciones y exposiciones especializadas: 721. Se cuentan ediciones y sedes.
+Fichas en la base: 12412. Competiciones: 5547. Eventos: 834. Campamentos o programas: 6031. Perfiles de ligas y programas: 358. Fichas de grandes exposiciones y exposiciones especializadas: 728. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,12 +14,12 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2247 | 191 | 1490 |
+| América del Norte | 41 | 2247 | 192 | 1490 |
 | América del Sur | 15 | 505 | 62 | 292 |
-| Europa | 55 | 795 | 180 | 1730 |
+| Europa | 55 | 795 | 182 | 1799 |
 | África | 61 | 286 | 47 | 156 |
 | Asia | 51 | 1290 | 198 | 1863 |
-| Oceanía | 27 | 184 | 41 | 416 |
+| Oceanía | 27 | 184 | 45 | 416 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
@@ -1161,6 +1161,13 @@ VEX: 821 de 5547 fichas de competición (14.8%). La cobertura tiene un sesgo cla
 - **Questacon · ZAP! CLANK! POW!** — Australia. 2026-06-13 – 2027-02-21. Con un adulto. Consulte las condiciones de acceso. https://www.museum.qld.gov.au/tropics/whats-on/zap-clank-pow/
 - **Super Human · Rochester Museum & Science Center** — EE. UU. 2026-10-02 – 2027-05-02. Con un adulto. Consulte las condiciones de acceso. https://rmsc.org/exhibits/super-human/
 - **Ultimate Depth · DEEPSEA CHALLENGER** — Australia. Fecha desconocida. Con un adulto. Consulte las condiciones de acceso. https://www.sea.museum/en/whats-on/exhibitions/ultimate-depth
+- **Te Papa · Game Worlds** — Nueva Zelanda; 2026-12-12 – 2027-04-26. Con un adulto. Consulte las condiciones de acceso. https://www.tepapa.govt.nz/visit/exhibitions/game-worlds
+- **Te Papa · Game Worlds Whānau Day** — Nueva Zelanda; 2027-02-28. Con un adulto. Consulte las condiciones de acceso. https://www.tepapa.govt.nz/visit/events/game-worlds-whanau-day
+- **Te Papa · Game Worlds · Low sensory session** — Nueva Zelanda; 2027-01-21. Con un adulto. Consulte las condiciones de acceso. https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session
+- **Te Papa · Game Worlds · Low sensory session** — Nueva Zelanda; 2027-04-11. Con un adulto. Consulte las condiciones de acceso. https://www.tepapa.govt.nz/visit/events/game-worlds-low-sensory-session
+- **Le Pavillon · Pavillon Playground** — Bélgica; 2027-01-06 – 2027-04-11. Con un adulto. Consulte las condiciones de acceso. https://www.le-pavillon.be/en/exhibitions/pavillon-playground
+- **Nationalmuseum · Women as Technology** — Suecia; 2027-02-18 – 2027-09-19. Confirme el acceso infantil. https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/women-as-technology
+- **Museum of Idaho · Sci-Fi: Inventing Tomorrow** — EE. UU.; 2027-02-05 – 2027-09-07. Con un adulto. Consulte las condiciones de acceso. https://museumofidaho.org/scifi/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -22124,7 +22124,7 @@
         "legacy_ids": [],
         "route": "El organizador admite inscripciones directas, también desde países sin representante local. Para menores, confirmar consentimiento y datos escolares.",
         "hardware": "Equipo y AI permitido según track; ver ficha concreta. Comprar robot no es obligatorio para todos.",
-        "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
+        "language": "El reglamento 2026–2027 indica inglés y ruso en ambas rondas. La página de Coding también enumera francés y español. Confirme esos idiomas para la ronda elegida. Inglés y ruso en la fase preliminar y la final según el reglamento 2026–2027.",
         "importance": "",
         "strengths": [
           "Categoría menor en cursos 3–4, Scratch. Teoría y desarrollo práctico de un juego en dos días consecutivos.",
@@ -22133,7 +22133,8 @@
         "requirements": [
           "Categoría menor en cursos 3–4, Scratch. La clasificatoria tiene 5 retos en 75 minutos.",
           "Categoría menor en cursos 5–7. La clasificatoria tiene 50 preguntas en 75 minutos.",
-          "El organizador admite inscripciones directas, también desde países sin representante local. Para menores, confirmar consentimiento y datos escolares."
+          "El organizador admite inscripciones directas, también desde países sin representante local. Para menores, confirmar consentimiento y datos escolares.",
+          "Según el reglamento, al menos 40% en la fase preliminar clasifica. La final presencial requiere inscripción aparte. Confirme la tarifa y las plazas."
         ],
         "nuances": [
           "A partir del 40% se puede acceder a la final. En la clasificatoria en línea se emiten certificados electrónicos de participación y distinción por puntuación. Las medallas físicas corresponden a la final presencial.",
@@ -22156,6 +22157,16 @@
             "title": "Página oficial del organizador",
             "url": "https://www.brainiacsolympiad.com/en/faq",
             "checked": "2026-11-07"
+          },
+          {
+            "url": "https://storage.googleapis.com/brainiacsolympiad-public-158314461436/olympiads/coding/3RD_BO_MECHANICS_CODING.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://storage.googleapis.com/brainiacsolympiad-public-158314461436/olympiads/artificial-intelligence/3RD_BO_MECHANICS_AI.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
           }
         ],
         "evidence": "Verificadas páginas / reglas primarias. Programa local nuevo no declarado líder mundial sin retrospectiva de resultados."

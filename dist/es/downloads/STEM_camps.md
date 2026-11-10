@@ -94172,14 +94172,1118 @@ Lugar: Estados Unidos de América · ThinkLab STEM · 2252 S Canal Street, Unit 
 Fecha: 2027-01-09 — 2027-03-13
 Edad: 7–12 años según la ficha del programa.
 Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: regular
 Idioma: Descripción oficial en inglés. Confirme el idioma de las actividades específicas.
 Marca de idioma: materials; apoyo: no declarado
 Coste: 2027 · USD 250 por menor para el curso de invierno. · suplementos y condiciones en la ficha
 Acceso: Inscripción en RoboThink Chicago. Confirme plazas, grupo escolar e idioma real de las clases.
-Restricciones: Matvey: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Oscar: Edad inferior al mínimo publicado. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Restricciones: Matvey: La edad encaja en el rango publicado. Confirme los requisitos de admisión y la plaza. Oscar: Condicional: al 09.01.2027 debe haber cumplido 7 años y cursar entre 2.º y 6.º. Confirme la admisión con la entidad. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://myrobothink.com/chicago
+Verificado: 2026-11-10
+
+### CP2439-20270215-20270219-2027-02-15-morning-part-2 · FunTech Virtual · Roblox Game Designer · Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270215-20270219-2027-02-15-afternoon-part-2 · FunTech Virtual · Roblox Game Designer · Parte 2 · Londres 14:00–17:30 · Costa Rica 08:00–11:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · Roblox Game Designer · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270329-20270402-2027-03-29-morning-part-2 · FunTech Virtual · Roblox Game Designer · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270329-20270402-2027-03-29-all-day-part-both · FunTech Virtual · Roblox Game Designer · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270405-20270409-2027-04-05-morning-part-1 · FunTech Virtual · Roblox Game Designer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2439-20270531-20270604-2027-05-31-morning-part-1 · FunTech Virtual · Roblox Game Designer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2440-20270215-20270219-2027-02-15-afternoon-part-2 · FunTech Virtual · Minecraft Mod Developer · Parte 2 · Londres 14:00–17:30 · Costa Rica 08:00–11:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2440-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · Minecraft Mod Developer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2440-20270329-20270402-2027-03-29-all-day-part-both · FunTech Virtual · Minecraft Mod Developer · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2440-20270405-20270409-2027-04-05-morning-part-2 · FunTech Virtual · Minecraft Mod Developer · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2440-20270531-20270604-2027-05-31-morning-part-1 · FunTech Virtual · Minecraft Mod Developer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 7–10 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2441-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · Minecraft Game Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 9–12 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2441-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · Minecraft Game Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 9–12 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270215-20270219-2027-02-15-morning-part-1 · FunTech Virtual · 3D Game Design Developer · Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · 3D Game Design Developer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270329-20270402-2027-03-29-afternoon-part-1 · FunTech Virtual · 3D Game Design Developer · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270405-20270409-2027-04-05-afternoon-part-2 · FunTech Virtual · 3D Game Design Developer · Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · 3D Game Design Developer · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2442-20270531-20270604-2027-05-31-morning-part-1 · FunTech Virtual · 3D Game Design Developer · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–14 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270215-20270219-2027-02-15-morning-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270215-20270219-2027-02-15-afternoon-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270215-20270219-2027-02-15-morning-part-2 · FunTech Virtual · Python Coder · Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · Python Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270329-20270402-2027-03-29-afternoon-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270329-20270402-2027-03-29-morning-part-2 · FunTech Virtual · Python Coder · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270329-20270402-2027-03-29-all-day-part-both · FunTech Virtual · Python Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270405-20270409-2027-04-05-morning-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270405-20270409-2027-04-05-afternoon-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270405-20270409-2027-04-05-afternoon-part-2 · FunTech Virtual · Python Coder · Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · Python Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270531-20270604-2027-05-31-morning-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270531-20270604-2027-05-31-afternoon-part-1 · FunTech Virtual · Python Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270531-20270604-2027-05-31-morning-part-2 · FunTech Virtual · Python Coder · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2443-20270531-20270604-2027-05-31-all-day-part-both · FunTech Virtual · Python Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2444-20270215-20270219-2027-02-15-morning-part-1 · FunTech Virtual · Roblox Lua Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2444-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · Roblox Lua Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2444-20270329-20270402-2027-03-29-all-day-part-both · FunTech Virtual · Roblox Lua Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2444-20270405-20270409-2027-04-05-morning-part-1 · FunTech Virtual · Roblox Lua Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2445-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · Unity Game Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2445-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · Unity Game Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2445-20270405-20270409-2027-04-05-morning-part-2 · FunTech Virtual · Unity Game Coder · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2445-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · Unity Game Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2445-20270531-20270604-2027-05-31-afternoon-part-1 · FunTech Virtual · Unity Game Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270215-20270219-2027-02-15-morning-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270215-20270219-2027-02-15-afternoon-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270215-20270219-2027-02-15-morning-part-2 · FunTech Virtual · Python OOP · Parte 2 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · Python OOP · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270329-20270402-2027-03-29-afternoon-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270405-20270409-2027-04-05-morning-part-2 · FunTech Virtual · Python OOP · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270405-20270409-2027-04-05-afternoon-part-2 · FunTech Virtual · Python OOP · Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · Python OOP · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270531-20270604-2027-05-31-morning-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270531-20270604-2027-05-31-afternoon-part-1 · FunTech Virtual · Python OOP · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270531-20270604-2027-05-31-afternoon-part-2 · FunTech Virtual · Python OOP · Parte 2 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2446-20270531-20270604-2027-05-31-all-day-part-both · FunTech Virtual · Python OOP · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 11–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2447-20270329-20270402-2027-03-29-all-day-part-both · FunTech Virtual · AI Machine Learning · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 12–16 años según el calendario del curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Nivel de edad para un año futuro. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270215-20270219-2027-02-15-morning-part-1 · FunTech Virtual · AI Vibe Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 03:00–06:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270215-20270219-2027-02-15-afternoon-part-1 · FunTech Virtual · AI Vibe Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 08:00–11:30 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270215-20270219-2027-02-15-all-day-part-both · FunTech Virtual · AI Vibe Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 03:00–11:00 · 2027-02-15–2027-02-19
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270329-20270402-2027-03-29-morning-part-1 · FunTech Virtual · AI Vibe Coder · Parte 1 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-03-29–2027-04-02
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-03-29 - 2027-04-02
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270405-20270409-2027-04-05-afternoon-part-1 · FunTech Virtual · AI Vibe Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270405-20270409-2027-04-05-morning-part-2 · FunTech Virtual · AI Vibe Coder · Parte 2 · Londres 09:00–12:30 · Costa Rica 02:00–05:30 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270405-20270409-2027-04-05-all-day-part-both · FunTech Virtual · AI Vibe Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-04-05–2027-04-09
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-04-05 — 2027-04-09
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270531-20270604-2027-05-31-afternoon-part-1 · FunTech Virtual · AI Vibe Coder · Parte 1 · Londres 14:00–17:30 · Costa Rica 07:00–10:30 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 395 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2448-20270531-20270604-2027-05-31-all-day-part-both · FunTech Virtual · AI Vibe Coder · Partes 1 y 2 · Londres 09:00–17:00 · Costa Rica 02:00–10:00 · 2027-05-31–2027-06-04
+
+Lugar: Reino Unido de Gran Bretaña e Irlanda del Norte · En línea desde casa · horario Europe/London
+Fecha: 2027-05-31 — 2027-06-04
+Edad: 10–16 años según el calendario del curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del docente del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · GBP 545 por la semana elegida. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, acceso desde su país, idioma del grupo y requisitos del ordenador. Para Part 2 compruebe la preparación previa.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Instale los programas con antelación. Soporte gratuito hasta 72 horas antes del inicio. Después GBP 55 por hora. Instalación durante el curso GBP 75 por hora. Pago: Consulte al organizador.
+Fuente: https://www.funtech.co.uk/virtual_camps/dates
+Verificado: 2026-11-10
+
+### CP2449-20270222-20270223 · MMI Lyon · Robot origami · Robot origami · 2027-02-22–2027-02-23
+
+Lugar: Francia · Maison des Mathématiques et de l’Informatique · Lyon
+Fecha: 2027-02-22 — 2027-02-23
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en francés. No se confirmó inglés ni español en las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · La página de este taller no indica la tarifa. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas, coste y apoyo lingüístico con la sede.
+Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://mmi.universite-lyon.fr/stage-robot-origami-8-12--420685.kjsp?RH=1747729064832
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

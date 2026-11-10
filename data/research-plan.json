@@ -13761,10 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 374,
+    "prepared_ui_version": 375,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
     "previous_verified_ui_version": 373,
-    "previous_verified_commit": "dfa80943275af05aa7f4f0417c6e6510777875b1"
+    "previous_verified_commit": "dfa80943275af05aa7f4f0417c6e6510777875b1",
+    "previous_working_ui_version": 374
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -40838,5 +40839,77 @@
       "CP2438"
     ],
     "codecraft_coupon_end_not_class_date": "2027-01-31"
+  },
+  "funtech_brainiacs_and_game_exhibitions_v375": {
+    "version": 375,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "updated_brainiacs_event_ids": [
+      "C3104",
+      "C3105",
+      "C3106",
+      "C3107",
+      "C3108",
+      "C1785",
+      "C1786",
+      "C1787",
+      "C1788",
+      "C1789",
+      "C1790",
+      "C1791",
+      "C1792",
+      "C1793",
+      "C1794"
+    ],
+    "updated_league_ids": [
+      "brainiacs-robotics",
+      "brainiacs-computing"
+    ],
+    "qualification_percent": 40,
+    "coding_languages_verified": [
+      "EN",
+      "RU"
+    ],
+    "coding_languages_additionally_listed": [
+      "ES",
+      "FR"
+    ],
+    "funtech_offer_count": 68,
+    "funtech_dossiers": [
+      "CP2439",
+      "CP2440",
+      "CP2441",
+      "CP2442",
+      "CP2443",
+      "CP2444",
+      "CP2445",
+      "CP2446",
+      "CP2447",
+      "CP2448"
+    ],
+    "funtech_timed_days": 340,
+    "funtech_instruction_language_unconfirmed": true,
+    "new_exhibitions": [
+      "E828",
+      "E829",
+      "E830",
+      "E831",
+      "E832",
+      "E833",
+      "E834"
+    ],
+    "mmi_workshop": "CP2449",
+    "updated_eligibility_dossiers": [
+      "CP2436",
+      "CP2438"
+    ],
+    "prior_release_candidate": {
+      "ui_version": 374,
+      "source_commit": "1b8b122cf1d9effc5ce99efe502f6b224cf79579",
+      "workflow_run": 42817589694,
+      "deployments": "two cancelled timeouts",
+      "public_ui_version": 373
+    }
   }
 }
