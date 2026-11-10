@@ -2,8 +2,11 @@
 
 ## Языковые версии
 
-Русский сайт: https://paldd.github.io/stem-family-atlas/
-Испанский сайт: https://paldd.github.io/stem-family-atlas/es/
+[Открыть на русском](https://paldd.github.io/stem-family-atlas/) · [Abrir en español](https://paldd.github.io/stem-family-atlas/es/)
+
+[Соревнования](https://paldd.github.io/stem-family-atlas/#catalog) · [Лиги](https://paldd.github.io/stem-family-atlas/#leagues) · [Выставки](https://paldd.github.io/stem-family-atlas/#exhibitions) · [Лагеря](https://paldd.github.io/stem-family-atlas/#camps) · [Школы](https://paldd.github.io/stem-family-atlas/#schools) · [Календарь](https://paldd.github.io/stem-family-atlas/#calendar) · [Карта](https://paldd.github.io/stem-family-atlas/#map) · [Маршруты](https://paldd.github.io/stem-family-atlas/#journey)
+
+Версию и коммит, которые сейчас отдаёт сайт, показывает [манифест публикации](https://paldd.github.io/stem-family-atlas/release.json). Ход выкладки виден в [GitHub Actions](https://github.com/Paldd/stem-family-atlas/actions/workflows/pages.yml).
 
 Переключатель RU / ES сохраняет раздел и параметры ссылки. Обе версии используют одни и те же ID записей и локальные планы браузера. Язык сайта не меняет язык обучения или судейства, указанный в карточке.
 
@@ -24,9 +27,9 @@ node scripts/verify-northamerica-editorial.cjs
 
 Для локального перевода использованы Helsinki-NLP/OPUS-MT ru-es (Apache-2.0) и Meta NLLB-200 distilled 600M (CC-BY-NC-4.0), с последующей редактурой и проверками; модели не включены в репозиторий. Проект предназначен для семейного некоммерческого планирования. Ссылки на модели и метод находятся в `data/i18n/translation-method.json`.
 
-[Открыть сайт](https://paldd.github.io/stem-family-atlas/) · [Статус публикации](https://github.com/Paldd/stem-family-atlas/actions/workflows/pages.yml)
+Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
-Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Точную опубликованную версию и коммит смотрите в [release.json](https://paldd.github.io/stem-family-atlas/release.json); текущие счётчики — в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
+В данных v350 собраны 48 сочетаний площадки и формата SENATI в Перу, категории Astra Challenge, январские программы Astranautas и две карточки фестиваля настольных игр в Сингапуре. Каталог содержит 11 894 записи, 2 353 досье лагерей и занятий и 339 профилей лиг. [Аудит источников](data/peru-regional-programmes-and-astra-audit-v350.json)
 
 В v347 сверены национальные маршруты Spirit of Math в 47 странах и территориях. Добавлены англоязычный Cobo Academy в Гонконге, восемь вариантов его общего зимнего графика и три архивных события. Даты школьных этапов, семейный допуск и архивные записи разделены. [Досье Cobo Academy](https://paldd.github.io/stem-family-atlas/?camp=cobo-hong-kong-winter-coding-2026-27#camps)
 
