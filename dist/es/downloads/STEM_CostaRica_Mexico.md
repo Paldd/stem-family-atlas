@@ -6518,6 +6518,19 @@ Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el
 Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
 Verificado: 2026-11-10
 
+### C5510 · Robo Blasters 2026 · El Reto de la Mudanza
+
+Fecha: 2026-12-05 — 2026-12-05
+Edad: Se admiten los grados 5–6 de primaria y 1–3 de secundaria. El plazo publicado ya pasó. No se confirmó la inscripción tardía.
+Matvey: Confirme el grado real. Se exige al menos 5 de primaria.
+Oscar: No cumple el nivel escolar de esta categoría.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Se admiten los grados 5–6 de primaria y 1–3 de secundaria. El plazo publicado ya pasó. No se confirmó la inscripción tardía.
+Coste: Hay instrucciones de pago. Los materiales consultados no indican el importe de la cuota.
+Restricciones: Los equipos transportan y colocan cargas en la pista. Confirme el número de integrantes, el idioma del arbitraje y el acceso de espectadores fuera de los pits.
+Fuente: https://sites.google.com/tec.mx/roboblasters/inicio
+Verificado: 2026-11-10
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

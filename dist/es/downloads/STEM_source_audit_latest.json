@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12228,
-    "competition_cards": 5508,
-    "event_cards": 814,
-    "camp_cards": 5906,
+    "cards": 12247,
+    "competition_cards": 5509,
+    "event_cards": 815,
+    "camp_cards": 5923,
     "league_profiles": 355,
-    "major_exhibition_cards": 708,
+    "major_exhibition_cards": 709,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3933,
+      "total": 3942,
       "countries_with_records": 41,
-      "competitions": 2233,
+      "competitions": 2234,
       "events": 234,
       "major_exhibitions": 187,
-      "camps": 1466,
+      "camps": 1474,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2704,
+      "total": 2714,
       "countries_with_records": 55,
       "competitions": 795,
-      "events": 200,
-      "major_exhibitions": 176,
-      "camps": 1709,
+      "events": 201,
+      "major_exhibitions": 177,
+      "camps": 1718,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -17924,6 +17924,17 @@
       "new": false
     },
     {
+      "id": "E815",
+      "name": "Dimanche du numérique · Robot marcheur",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.geneve-communes.ch/agenda/dimanche-du-numerique-7-12-ans-theme-robot-marcheur",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -20355,14 +20366,14 @@
       }
     ],
     "counts": {
-      "records": 5906,
-      "holiday": 5239,
+      "records": 5923,
+      "holiday": 5256,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
-      "en_es_instruction": 1692,
+      "en_es_instruction": 1701,
       "en_es_support": 67,
-      "family_instruction": 1692,
+      "family_instruction": 1701,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,

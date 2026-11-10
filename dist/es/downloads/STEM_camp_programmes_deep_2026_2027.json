@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2411,
+    "dossiers": 2415,
     "countries": 141,
     "swiss": 163,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 674,
+      "published_2027": 676,
       "partial_2027": 176,
       "next_unannounced": 488,
-      "published_2026": 441,
+      "published_2026": 443,
       "partial_2026_27": 44,
       "partial_2026": 24,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3332
+    "source_urls": 3348
   },
   "countries": [
     {
@@ -260,7 +260,7 @@
     },
     {
       "country": "Canadá",
-      "count": 216
+      "count": 218
     },
     {
       "country": "Catar",
@@ -572,7 +572,7 @@
     },
     {
       "country": "Suiza",
-      "count": 163
+      "count": 165
     },
     {
       "country": "Suecia",
@@ -56248,7 +56248,7 @@
       "provider": "Cuddles Learning · winter STEAM",
       "country": "Canadá",
       "iso": "CAN",
-      "place": "Markham · Lincoln Alexander P.S.,38 Hillmount Road; winter venue confirmar",
+      "place": "Markham, Ontario. Aún no se confirmó la dirección exacta del grupo de invierno.",
       "themes": [
         "robotics",
         "coding",
@@ -56275,7 +56275,7 @@
       },
       "price": {
         "year": null,
-        "label": "Regular: $99/1día,179/2,249/3,399/5; early79/158/219/339 sin plazo límite; ISO-valuta desconocida.",
+        "label": "La ficha actual no publica la tarifa de invierno. Confirme de nuevo los precios anteriores.",
         "included": "no se ha confirmado el programa de formación; no se ha confirmado el suministro completo de winter-package.",
         "extras": "su propio lunch/snacks/water; extended-care por separado. descuento de tabla2el día de la declaración20, En realidad179−158=21.",
         "deposit": "general afterschool FAQ:7+días llenos refund,más tardecredit,No después del arranque.; aplicabilidad a winter2026/27 - ¿Qué es ?.",
@@ -56292,24 +56292,29 @@
           "detail": "6–7 se adapta por grupo general5–13; de la misma winter-el momento de la recepción."
         }
       },
-      "editorial_reason": "Un candidato para ambos con un precio visible, pero la moneda, la lengua y los días laborables aún no se han establecido.",
+      "editorial_reason": "El organizador confirma edades de 5–13 y un periodo general de invierno. Confirme días, precio e idioma del grupo.",
       "shortlist": [],
       "questions": [
         "los días de camp, EN, ISO, moneda/impuestos, winter-address, técnica, resultado con extendedcare y cancelación."
       ],
       "sources": [
         {
-          "title": "Winter y el cuadro de precios",
+          "title": "Se comprobó la ficha oficial del programa.",
           "url": "https://www.cuddleskidz.com/winter-camp",
-          "checked": "2026-10-05"
+          "checked": "2026-11-10"
         },
         {
           "title": "FAQ general, no contrato de invierno",
           "url": "https://www.cuddleskidz.com/faqs",
           "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.cuddleskidz.com/booking",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-10",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -423844,6 +423849,1554 @@
         }
       ],
       "language_roles": {}
+    },
+    {
+      "id": "CP2412",
+      "slug": "techlabs-basel-crunchlabs-2027",
+      "provider": "TechLabs Basel · Build. Hack. Engineer 2027",
+      "iso": "CHE",
+      "country": "Suiza",
+      "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+      "age": "7–13",
+      "programme": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Elija una semana y modalidad concretas en el calendario del organizador.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "variant_key": "20270705-09001230-timed",
+            "label": "AM",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 745 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T07:00:00Z",
+                "end_utc": "2027-07-05T10:30:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T07:00:00Z",
+                "end_utc": "2027-07-06T10:30:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T07:00:00Z",
+                "end_utc": "2027-07-07T10:30:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T07:00:00Z",
+                "end_utc": "2027-07-08T10:30:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T07:00:00Z",
+                "end_utc": "2027-07-09T10:30:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "variant_key": "20270705-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 1109 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T07:00:00Z",
+                "end_utc": "2027-07-05T15:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T07:00:00Z",
+                "end_utc": "2027-07-06T15:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T07:00:00Z",
+                "end_utc": "2027-07-07T15:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T07:00:00Z",
+                "end_utc": "2027-07-08T15:00:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T07:00:00Z",
+                "end_utc": "2027-07-09T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "variant_key": "20270712-09001230-timed",
+            "label": "AM",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 745 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T07:00:00Z",
+                "end_utc": "2027-07-12T10:30:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T07:00:00Z",
+                "end_utc": "2027-07-13T10:30:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T07:00:00Z",
+                "end_utc": "2027-07-14T10:30:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T07:00:00Z",
+                "end_utc": "2027-07-15T10:30:00Z"
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-16T07:00:00Z",
+                "end_utc": "2027-07-16T10:30:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "variant_key": "20270712-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 1109 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T07:00:00Z",
+                "end_utc": "2027-07-12T15:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T07:00:00Z",
+                "end_utc": "2027-07-13T15:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T07:00:00Z",
+                "end_utc": "2027-07-14T15:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T07:00:00Z",
+                "end_utc": "2027-07-15T15:00:00Z"
+              },
+              {
+                "date": "2027-07-16",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-16T07:00:00Z",
+                "end_utc": "2027-07-16T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "variant_key": "20270809-09001230-timed",
+            "label": "AM",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 745 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-08-09",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-09T07:00:00Z",
+                "end_utc": "2027-08-09T10:30:00Z"
+              },
+              {
+                "date": "2027-08-10",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-10T07:00:00Z",
+                "end_utc": "2027-08-10T10:30:00Z"
+              },
+              {
+                "date": "2027-08-11",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-11T07:00:00Z",
+                "end_utc": "2027-08-11T10:30:00Z"
+              },
+              {
+                "date": "2027-08-12",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-12T07:00:00Z",
+                "end_utc": "2027-08-12T10:30:00Z"
+              },
+              {
+                "date": "2027-08-13",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-13T07:00:00Z",
+                "end_utc": "2027-08-13T10:30:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "variant_key": "20270809-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel",
+            "age": "7–13",
+            "price": "CHF 1109 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-08-09",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-09T07:00:00Z",
+                "end_utc": "2027-08-09T15:00:00Z"
+              },
+              {
+                "date": "2027-08-10",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-10T07:00:00Z",
+                "end_utc": "2027-08-10T15:00:00Z"
+              },
+              {
+                "date": "2027-08-11",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-11T07:00:00Z",
+                "end_utc": "2027-08-11T15:00:00Z"
+              },
+              {
+                "date": "2027-08-12",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-12T07:00:00Z",
+                "end_utc": "2027-08-12T15:00:00Z"
+              },
+              {
+                "date": "2027-08-13",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-08-13T07:00:00Z",
+                "end_utc": "2027-08-13T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 12 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": null,
+        "unit": "programme",
+        "label": "CHF 745 por 5 mañanas o CHF 1109 por 5 días completos. El horario personalizado figura como CHF 1200. Confirme el total.",
+        "included": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+        "extras": "Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido.",
+        "deposit": "La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja en el rango publicado. Confirme la plaza por separado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte."
+        }
+      },
+      "editorial_reason": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+      "shortlist": [],
+      "questions": [
+        "Confirme admisión y plazas antes de pagar.",
+        "Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido.",
+        "La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.techlabs.ch/camps",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270705-20270709-20270705-09001230-timed"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270705-20270709-20270705-09001700-timed"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270712-20270716-20270712-09001230-timed"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270712-20270716-20270712-09001700-timed"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270809-20270813-20270809-09001230-timed"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2412-20270809-20270813-20270809-09001700-timed"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "DE"
+        ]
+      }
+    },
+    {
+      "id": "CP2413",
+      "slug": "techlabs-zurich-crunchlabs-2027",
+      "provider": "TechLabs Zürich · Build. Hack. Engineer 2027",
+      "iso": "CHE",
+      "country": "Suiza",
+      "place": "TechLabs · Hohlstrasse 201 · 8004 Zürich",
+      "age": "7–13",
+      "programme": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "DE"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Elija una semana y modalidad concretas en el calendario del organizador.",
+        "sessions": [
+          [
+            "2027-04-26",
+            "2027-04-30"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-04-26",
+            "end": "2027-04-30",
+            "variant_key": "20270426-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs · Hohlstrasse 201 · 8004 Zürich",
+            "age": "7–13",
+            "price": "CHF 1240 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.69603c2a109d_7582345519.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20April%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-04-26",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-04-26T07:00:00Z",
+                "end_utc": "2027-04-26T15:00:00Z"
+              },
+              {
+                "date": "2027-04-27",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-04-27T07:00:00Z",
+                "end_utc": "2027-04-27T15:00:00Z"
+              },
+              {
+                "date": "2027-04-28",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-04-28T07:00:00Z",
+                "end_utc": "2027-04-28T15:00:00Z"
+              },
+              {
+                "date": "2027-04-29",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-04-29T07:00:00Z",
+                "end_utc": "2027-04-29T15:00:00Z"
+              },
+              {
+                "date": "2027-04-30",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-04-30T07:00:00Z",
+                "end_utc": "2027-04-30T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 6 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "variant_key": "20270719-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs · Hohlstrasse 201 · 8004 Zürich",
+            "age": "7–13",
+            "price": "CHF 1240 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.b0da22880b81_7681489963.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2019-23?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T07:00:00Z",
+                "end_utc": "2027-07-19T15:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T07:00:00Z",
+                "end_utc": "2027-07-20T15:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T07:00:00Z",
+                "end_utc": "2027-07-21T15:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T07:00:00Z",
+                "end_utc": "2027-07-22T15:00:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T07:00:00Z",
+                "end_utc": "2027-07-23T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 8 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "variant_key": "20270726-09001700-timed",
+            "label": "Full day",
+            "place": "TechLabs · Hohlstrasse 201 · 8004 Zürich",
+            "age": "7–13",
+            "price": "CHF 1240 por 5 días en esta modalidad.",
+            "source": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.8267708f9fdf_7791047887.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T07:00:00Z",
+                "end_utc": "2027-07-26T15:00:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T07:00:00Z",
+                "end_utc": "2027-07-27T15:00:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T07:00:00Z",
+                "end_utc": "2027-07-28T15:00:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T07:00:00Z",
+                "end_utc": "2027-07-29T15:00:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "topic": "Build. Hack. Engineer",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T07:00:00Z",
+                "end_utc": "2027-07-30T15:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "open",
+              "checked": "2026-11-10",
+              "label": "La página de la semana muestra 8 plazas. Confirme las plazas efectivas con el organizador."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": null,
+        "unit": "programme",
+        "label": "CHF 1240 por 5 días completos.",
+        "included": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+        "extras": "Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido.",
+        "deposit": "La página indica un cargo de CHF 350 si se cancela. Confirme las condiciones del pago inicial."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja en el rango publicado. Confirme la plaza por separado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte."
+        }
+      },
+      "editorial_reason": "Cinco días de retos de ingeniería con kits CrunchLabs, montaje, pruebas y práctica de principios científicos.",
+      "shortlist": [],
+      "questions": [
+        "Confirme admisión y plazas antes de pagar.",
+        "Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido.",
+        "La página indica un cargo de CHF 350 si se cancela. Confirme las condiciones del pago inicial."
+      ],
+      "sources": [
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.69603c2a109d_7582345519.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20April%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.b0da22880b81_7681489963.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2019-23?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.8267708f9fdf_7791047887.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.techlabs.ch/camps",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-04-26",
+          "end": "2027-04-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2413-20270426-20270430-20270426-09001700-timed"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2413-20270719-20270723-20270719-09001700-timed"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2413-20270726-20270730-20270726-09001700-timed"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "DE"
+        ]
+      }
+    },
+    {
+      "id": "CP2414",
+      "slug": "flying-minds-calgary-robotics-winter-2026",
+      "provider": "Flying Minds · Engineers Robotics Winter Camp",
+      "iso": "CAN",
+      "country": "Canadá",
+      "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+      "age": "6–12",
+      "programme": "El grupo inicial usa LEGO SPIKE Essentials y el avanzado LEGO Mindstorms Inventor. Incluye mecánica, programación de sensores e introducción a impresión 3D.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Dos semanas de 4 días con día completo o medio día. Hay una discrepancia de horario en un grupo de tarde.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "20261221-full",
+            "label": "Full day",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 330 por 4 días o CAD 100 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026",
+            "date_scope": "camp_session",
+            "sessions": [],
+            "entry": "Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "20261221-am",
+            "label": "AM",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 215 por 4 días o CAD 70 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T18:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T18:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T18:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T18:00:00Z"
+              }
+            ],
+            "entry": "Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "20261221-pm",
+            "label": "PM",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 215 por 4 días o CAD 70 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "12:30",
+                "end_time": "16:30",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T18:30:00Z",
+                "end_utc": "2026-12-21T22:30:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "12:30",
+                "end_time": "16:30",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T18:30:00Z",
+                "end_utc": "2026-12-22T22:30:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "12:30",
+                "end_time": "16:30",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T18:30:00Z",
+                "end_utc": "2026-12-23T22:30:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "12:30",
+                "end_time": "16:30",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T18:30:00Z",
+                "end_utc": "2026-12-24T22:30:00Z"
+              }
+            ],
+            "entry": "Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "20261228-full",
+            "label": "Full day",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 300 por 4 días o CAD 100 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026",
+            "date_scope": "camp_session",
+            "sessions": [],
+            "entry": "Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "20261228-am",
+            "label": "AM",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 215 por 4 días o CAD 70 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T18:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T18:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T18:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Engineers Robotics Winter Camp",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Edmonton",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T18:00:00Z"
+              }
+            ],
+            "entry": "Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "20261228-pm",
+            "label": "PM",
+            "place": "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+            "age": "6–12",
+            "price": "CAD 215 por 4 días o CAD 70 por un día suelto.",
+            "source": "https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026",
+            "date_scope": "camp_session",
+            "sessions": [],
+            "entry": "Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Día completo CAD 330 del 21 al 24 de diciembre o CAD 300 del 28 al 31. Medio día CAD 215 por 4 días. Por día suelto CAD 100 o CAD 70.",
+        "included": "El grupo inicial usa LEGO SPIKE Essentials y el avanzado LEGO Mindstorms Inventor. Incluye mecánica, programación de sensores e introducción a impresión 3D.",
+        "extras": "Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse.",
+        "deposit": "Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja en el rango publicado. Confirme la plaza por separado."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Encaja en el rango publicado. Confirme la plaza por separado."
+        }
+      },
+      "editorial_reason": "El grupo inicial usa LEGO SPIKE Essentials y el avanzado LEGO Mindstorms Inventor. Incluye mecánica, programación de sensores e introducción a impresión 3D.",
+      "shortlist": [],
+      "questions": [
+        "Confirme admisión y plazas antes de pagar.",
+        "Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.",
+        "El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.",
+        "Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.flyingminds.ca/camps",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.flyingminds.ca/camp-terms-and-conditions",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261221-20261224-20261221-full"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261221-20261224-20261221-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261221-20261224-20261221-pm"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261228-20261231-20261228-full"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261228-20261231-20261228-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2414-20261228-20261231-20261228-pm"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2415",
+      "slug": "hive5-aurora-winter-2026",
+      "provider": "Hive5 · Winter STEAM Aurora",
+      "iso": "CAN",
+      "country": "Canadá",
+      "place": "Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario",
+      "age": "Grupo menor de 4–6 años. Grupo mayor de 7–12 años.",
+      "programme": "Retos prácticos de ingeniería, programación, experimentos y juegos en dos grupos de edad.",
+      "themes": [
+        "science",
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026, 09:00–16:00. Fechas cotejadas con las fichas de tarifas de 2026.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "20261221-09001600-timed",
+            "label": "Winter STEAM",
+            "place": "Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario",
+            "age": "Grupo menor de 4–6 años. Grupo mayor de 7–12 años.",
+            "price": "CAD 85 por día, CAD 320 por 4 días o CAD 640 por 8 días. Materiales incluidos.",
+            "source": "https://hive5.ca/product/christmas-workshop-package-dec-21-24/",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T21:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T21:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T21:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T21:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "20261228-09001600-timed",
+            "label": "Winter STEAM",
+            "place": "Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario",
+            "age": "Grupo menor de 4–6 años. Grupo mayor de 7–12 años.",
+            "price": "CAD 85 por día, CAD 320 por 4 días o CAD 640 por 8 días. Materiales incluidos.",
+            "source": "https://hive5.ca/product/new-year-adventure-package-dec-28-31/",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T21:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T21:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T21:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "topic": "Hive5 Winter STEAM",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T21:00:00Z"
+              }
+            ],
+            "entry": "Confirme admisión y plazas antes de pagar.",
+            "availability": {
+              "status": "unconfirmed",
+              "checked": "2026-11-10",
+              "label": "Confirme admisión y plazas antes de pagar."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CAD",
+        "amount": null,
+        "unit": "programme",
+        "label": "CAD 85 por día, CAD 320 por 4 días o CAD 640 por 8 días. Materiales incluidos.",
+        "included": "Retos prácticos de ingeniería, programación, experimentos y juegos en dos grupos de edad.",
+        "extras": "Cuidado temprano CAD 10 al día y tardío CAD 15. Sin cuidado tardío los días 24 y 31 de diciembre.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad compatible con el grupo de 7–12 años."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad compatible con el grupo de 4–6 años."
+        }
+      },
+      "editorial_reason": "Retos prácticos de ingeniería, programación, experimentos y juegos en dos grupos de edad.",
+      "shortlist": [],
+      "questions": [
+        "Confirme admisión y plazas antes de pagar.",
+        "El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.",
+        "Cuidado temprano CAD 10 al día y tardío CAD 15. Sin cuidado tardío los días 24 y 31 de diciembre."
+      ],
+      "sources": [
+        {
+          "url": "https://hive5.ca/winter-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://hive5.ca/product/hive5-winter-camp-2026-daily/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://hive5.ca/product/christmas-workshop-package-dec-21-24/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://hive5.ca/product/new-year-adventure-package-dec-28-31/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://hive5.ca/product/full-winter-break-package-all-8-days/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2415-20261221-20261224-20261221-09001600-timed"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2415-20261228-20261231-20261228-09001600-timed"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -442404,7 +443957,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2411,
+      "total_dossiers": 2415,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -468504,6 +470057,91 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270705-20270709-20270705-09001230-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270705-20270709-20270705-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270712-20270716-20270712-09001230-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270712-20270716-20270712-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270809-20270813-20270809-09001230-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2412",
+      "event_id": "CP2412-20270809-20270813-20270809-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2413",
+      "event_id": "CP2413-20270426-20270430-20270426-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2413",
+      "event_id": "CP2413-20270719-20270723-20270719-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2413",
+      "event_id": "CP2413-20270726-20270730-20270726-09001700-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261221-20261224-20261221-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261221-20261224-20261221-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261221-20261224-20261221-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261228-20261231-20261228-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261228-20261231-20261228-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2414",
+      "event_id": "CP2414-20261228-20261231-20261228-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2415",
+      "event_id": "CP2415-20261221-20261224-20261221-09001600-timed",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2415",
+      "event_id": "CP2415-20261228-20261231-20261228-09001600-timed",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -473817,10 +475455,27 @@
     "CP2408-20270125-20270129",
     "CP2409-20270201-20270203",
     "CP2410-20270201-20270203",
-    "CP2411-20270121-20270122"
+    "CP2411-20270121-20270122",
+    "CP2412-20270705-20270709-20270705-09001230-timed",
+    "CP2412-20270705-20270709-20270705-09001700-timed",
+    "CP2412-20270712-20270716-20270712-09001230-timed",
+    "CP2412-20270712-20270716-20270712-09001700-timed",
+    "CP2412-20270809-20270813-20270809-09001230-timed",
+    "CP2412-20270809-20270813-20270809-09001700-timed",
+    "CP2413-20270426-20270430-20270426-09001700-timed",
+    "CP2413-20270719-20270723-20270719-09001700-timed",
+    "CP2413-20270726-20270730-20270726-09001700-timed",
+    "CP2414-20261221-20261224-20261221-full",
+    "CP2414-20261221-20261224-20261221-am",
+    "CP2414-20261221-20261224-20261221-pm",
+    "CP2414-20261228-20261231-20261228-full",
+    "CP2414-20261228-20261231-20261228-am",
+    "CP2414-20261228-20261231-20261228-pm",
+    "CP2415-20261221-20261224-20261221-09001600-timed",
+    "CP2415-20261228-20261231-20261228-09001600-timed"
   ],
   "integration": {
-    "generated_sessions": 4903,
+    "generated_sessions": 4920,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

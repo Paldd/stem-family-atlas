@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12228. Competiciones: 5508. Eventos: 814. Campamentos o programas: 5906. Perfiles de ligas y programas: 355. Fichas de grandes exposiciones y exposiciones especializadas: 708. Se cuentan ediciones y sedes.
+Fichas en la base: 12247. Competiciones: 5509. Eventos: 815. Campamentos o programas: 5923. Perfiles de ligas y programas: 355. Fichas de grandes exposiciones y exposiciones especializadas: 709. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| Norteamérica | 41 | 2233 | 187 | 1466 |
+| América del Norte | 41 | 2234 | 187 | 1474 |
 | América del Sur | 15 | 501 | 61 | 292 |
-| Europa | 55 | 795 | 176 | 1709 |
+| Europa | 55 | 795 | 177 | 1718 |
 | África | 61 | 286 | 47 | 156 |
 | Asia | 51 | 1270 | 197 | 1853 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX: 821 de 5508 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5509 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
 
 ## Lo que queda
 
@@ -1145,6 +1145,7 @@ VEX: 821 de 5508 fichas de competición (14.9%). La cobertura tiene un sesgo cla
 - **ASIST Uganda National Championship 2026 · innovation exhibition** — Uganda. 2026-11-06 – 2026-11-07. Acceso de menores por confirmar. https://asist.ac.ug/events/national-championship-2026
 - **Andersen Inside Out – Robots and Fairytales Meet** — República de Corea. Fecha desconocida. Acceso de menores por confirmar. https://www.dti.dk/services/fairy-tale-robots/48339
 - **Science Museum Tokyo · FANUC Kick for Goal** — Japón. Fecha desconocida. Con un adulto. Consulte las condiciones de acceso de adultos. https://www.fanuc.co.jp/en/profile/pr/newsrelease/2026/notice20260827.html
+- **Dimanche du numérique · Robot marcheur** — Suiza. 2026-12-06. Con un adulto. Consulte las condiciones de acceso de adultos. https://www.geneve-communes.ch/agenda/dimanche-du-numerique-7-12-ans-theme-robot-marcheur
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

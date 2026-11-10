@@ -13761,7 +13761,7 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 367,
+    "prepared_ui_version": 368,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
     "previous_verified_ui_version": 366,
     "previous_verified_commit": "7801aa85aac7b1c6c8563e2a037eeaf32cc0fab5"
@@ -39599,5 +39599,46 @@
       "12:00",
       "13:30"
     ]
+  },
+  "techlabs_canada_family_robotics_v368": {
+    "version": 368,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5510"
+    ],
+    "event_ids": [
+      "E815"
+    ],
+    "new_dossiers": [
+      "CP2412",
+      "CP2413",
+      "CP2414",
+      "CP2415"
+    ],
+    "updated_dossiers": [
+      "CP355"
+    ],
+    "techlabs_new_weeks": 6,
+    "techlabs_standard_variants": 9,
+    "canada_new_weeks": 4,
+    "canada_language_unconfirmed": true,
+    "calgary_pm_time_conflict": [
+      "12:30–16:30",
+      "11:00–15:00"
+    ],
+    "basel_2026_withheld_because_missing_from_live_booking": [
+      "TechLabs Basel · Sweet STEM",
+      "TechLabs Basel · Virtual Reality Creation"
+    ],
+    "historical_cuddles_price": {
+      "year": null,
+      "label": "Regular: $99/1día,179/2,249/3,399/5; early79/158/219/339 sin plazo límite; ISO-valuta desconocida.",
+      "included": "no se ha confirmado el programa de formación; no se ha confirmado el suministro completo de winter-package.",
+      "extras": "su propio lunch/snacks/water; extended-care por separado. descuento de tabla2el día de la declaración20, En realidad179−158=21.",
+      "deposit": "general afterschool FAQ:7+días llenos refund,más tardecredit,No después del arranque.; aplicabilidad a winter2026/27 - ¿Qué es ?.",
+      "season": "2026/27"
+    }
   }
 }

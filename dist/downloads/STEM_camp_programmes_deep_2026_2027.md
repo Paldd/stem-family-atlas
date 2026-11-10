@@ -1,6 +1,6 @@
 # Каникулы 2026–2027: подробные досье
 
-Состояние базы: 2026-11-09. 2411 досье в 141 странах. Даты проверки отдельных источников приведены в каждом досье.
+Состояние базы: 2026-11-09. 2415 досье в 141 странах. Даты проверки отдельных источников приведены в каждом досье.
 
 Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.
 
@@ -862,7 +862,7 @@ Cube: восемь субботних уроков за CA$275 + HST, допус
 
 - Cube STEM · STEMSquad / Grades4–5 · Канада · Полезен при длительной базе в Toronto; не повод лететь на восьминедельный «лагерь».
 
-- Cuddles Learning · winter STEAM · Канада · Кандидат для обоих с видимым тарифом, но валюта, язык и рабочие дни ещё не установлены.
+- Cuddles Learning · winter STEAM · Канада · Организатор подтверждает возраст 5–13 и общее зимнее окно. Дни, цена и язык группы требуют подтверждения.
 
 ### Женева · каникулы обоих братьев в октябре
 
@@ -31270,9 +31270,9 @@ French Woods · короткая творческая проба с нерешё
 
 ## CP355 · Cuddles Learning · winter STEAM
 
-Канада · Markham · Lincoln Alexander P.S.,38 Hillmount Road; winter venue подтвердить
+Канада · Markham, Ontario. Точный адрес зимней группы пока не подтверждён.
 
-**Проверено:** 2026-10-05
+**Проверено:** 2026-11-10
 
 **Возраст:** 5–13
 
@@ -31284,7 +31284,7 @@ French Woods · короткая творческая проба с нерешё
 
 **Даты / статус:** Верх страницы:22.12.2026–02.01.2027; фактические рабочие дни/праздничные закрытия неизвестны. Широкое окно не точная смена.
 
-**Цена / год:** 2026/27 · Regular: $99/1день,179/2,249/3,399/5; early79/158/219/339 без крайнего срока; ISO-валюта неизвестна.
+**Цена / год:** 2026/27 · Зимний тариф в актуальной карточке не опубликован. Ранее прочитанные цены требуют повторного подтверждения.
 
 **Включено:** Учебная программа; питание/оборудование полного winter-пакета не подтверждены.
 
@@ -31296,7 +31296,7 @@ French Woods · короткая творческая проба с нерешё
 
 **Оскар:** 6–7 подходит по общей группе5–13; отдельный winter-приём уточнить.
 
-**Почему в отборе:** Кандидат для обоих с видимым тарифом, но валюта, язык и рабочие дни ещё не установлены.
+**Почему в отборе:** Организатор подтверждает возраст 5–13 и общее зимнее окно. Дни, цена и язык группы требуют подтверждения.
 
 ### Перед заявкой
 
@@ -31304,9 +31304,11 @@ French Woods · короткая творческая проба с нерешё
 
 ### Источники
 
-- [Winter и таблица цен](https://www.cuddleskidz.com/winter-camp) · 2026-10-05
+- [Проверена официальная карточка программы.](https://www.cuddleskidz.com/winter-camp) · 2026-11-10
 
 - [Общий FAQ, не winter-контракт](https://www.cuddleskidz.com/faqs) · 2026-10-05
+
+- [Проверена официальная карточка программы.](https://www.cuddleskidz.com/booking) · 2026-11-10
 
 ## CP356 · Integem · Junior AI Robotics
 
@@ -189287,6 +189289,604 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 - [Проверена официальная карточка программы.](https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5) · 2026-11-10
 
 - [Проверена официальная карточка программы.](https://anxanx.yuntech.edu.tw/course-list) · 2026-11-10
+
+## CP2412 · TechLabs Basel · Build. Hack. Engineer 2027
+
+Швейцария · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Проверено:** 2026-11-10
+
+**Возраст:** 7–13
+
+**Язык:** Организатор указывает английский и немецкий языки занятий. Долю английского в группе уточнить.
+
+**Программа:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+**Проживание:** Дневная программа без проживания.
+
+**Даты / статус:** Выберите конкретную неделю и формат в расписании организатора.
+
+**Цена / год:** 2027 · CHF 745 за 5 утр или CHF 1109 за 5 полных дней. Индивидуальный график показан как CHF 1200, итог уточнить.
+
+**Включено:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+**Доплаты:** В описаниях встречаются 4 и 5 коробок. Число наборов в выбранном тарифе подтвердить.
+
+**Оплата:** В карточке указан депозит CHF 350, невозвратный при отмене. Сверить зачёт в оплату и связь с условием об отмене.
+
+**Матвей:** Подходит по опубликованному диапазону. Место подтвердить отдельно.
+
+**Оскар:** Подходит, если к началу смены исполнилось 7 лет. Правило отсечения подтвердить.
+
+**Почему в отборе:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+### Перед заявкой
+
+- Сверить допуск и наличие мест до оплаты.
+
+- В описаниях встречаются 4 и 5 коробок. Число наборов в выбранном тарифе подтвердить.
+
+- В карточке указан депозит CHF 350, невозвратный при отмене. Сверить зачёт в оплату и связь с условием об отмене.
+
+### AM
+
+**Даты / статус:** 2027-07-05 — 2027-07-09
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 745 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-05 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-06 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-07 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-08 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-09 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Full day
+
+**Даты / статус:** 2027-07-05 — 2027-07-09
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1109 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-05 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-06 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-07 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-08 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-09 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### AM
+
+**Даты / статус:** 2027-07-12 — 2027-07-16
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 745 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-12 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-13 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-14 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-15 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-16 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Full day
+
+**Даты / статус:** 2027-07-12 — 2027-07-16
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1109 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-12 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-13 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-14 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-15 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-16 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### AM
+
+**Даты / статус:** 2027-08-09 — 2027-08-13
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 745 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-08-09 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-10 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-11 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-12 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-13 · 09:00–12:30 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Full day
+
+**Даты / статус:** 2027-08-09 — 2027-08-13
+
+**Место:** TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1109 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-08-09 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-10 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-11 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-12 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-08-13 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 12 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Источники
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://www.techlabs.ch/camps) · 2026-11-10
+
+## CP2413 · TechLabs Zürich · Build. Hack. Engineer 2027
+
+Швейцария · TechLabs · Hohlstrasse 201 · 8004 Zürich
+
+**Проверено:** 2026-11-10
+
+**Возраст:** 7–13
+
+**Язык:** Организатор указывает английский и немецкий языки занятий. Долю английского в группе уточнить.
+
+**Программа:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+**Проживание:** Дневная программа без проживания.
+
+**Даты / статус:** Выберите конкретную неделю и формат в расписании организатора.
+
+**Цена / год:** 2027 · CHF 1240 за 5 полных дней.
+
+**Включено:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+**Доплаты:** В описаниях встречаются 4 и 5 коробок. Число наборов в выбранном тарифе подтвердить.
+
+**Оплата:** На странице указан сбор CHF 350 при отмене. Условия первоначального платежа уточнить.
+
+**Матвей:** Подходит по опубликованному диапазону. Место подтвердить отдельно.
+
+**Оскар:** Подходит, если к началу смены исполнилось 7 лет. Правило отсечения подтвердить.
+
+**Почему в отборе:** Пять дней инженерных задач с наборами CrunchLabs, сборкой, испытаниями и практикой научных принципов.
+
+### Перед заявкой
+
+- Сверить допуск и наличие мест до оплаты.
+
+- В описаниях встречаются 4 и 5 коробок. Число наборов в выбранном тарифе подтвердить.
+
+- На странице указан сбор CHF 350 при отмене. Условия первоначального платежа уточнить.
+
+### Full day
+
+**Даты / статус:** 2027-04-26 — 2027-04-30
+
+**Место:** TechLabs · Hohlstrasse 201 · 8004 Zürich
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1240 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-04-26 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-04-27 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-04-28 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-04-29 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-04-30 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 6 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.69603c2a109d_7582345519.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20April%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Full day
+
+**Даты / статус:** 2027-07-19 — 2027-07-23
+
+**Место:** TechLabs · Hohlstrasse 201 · 8004 Zürich
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1240 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-19 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-20 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-21 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-22 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-23 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 8 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.b0da22880b81_7681489963.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2019-23?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Full day
+
+**Даты / статус:** 2027-07-26 — 2027-07-30
+
+**Место:** TechLabs · Hohlstrasse 201 · 8004 Zürich
+
+**Возраст:** 7–13
+
+**Цена:** CHF 1240 за 5 дней в этом формате.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2027-07-26 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-27 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-28 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-29 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+- 2027-07-30 · 09:00–17:00 · Europe/Zurich · Build. Hack. Engineer
+
+**Наличие мест:** На странице смены показано 8 мест. Подтвердить фактические места у организатора.
+
+[Источник](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.8267708f9fdf_7791047887.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs)
+
+### Источники
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.69603c2a109d_7582345519.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20April%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.b0da22880b81_7681489963.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2019-23?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.8267708f9fdf_7791047887.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://www.techlabs.ch/camps) · 2026-11-10
+
+## CP2414 · Flying Minds · Engineers Robotics Winter Camp
+
+Канада · Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Проверено:** 2026-11-10
+
+**Возраст:** 6–12
+
+**Язык:** Живой язык занятий организатор прямо не указал. Английский и испанский требуют подтверждения.
+
+**Программа:** Начальная группа работает с LEGO SPIKE Essentials, продвинутая с LEGO Mindstorms Inventor. Есть механика, программирование датчиков и знакомство с 3D-печатью.
+
+**Проживание:** Дневная программа без проживания.
+
+**Даты / статус:** Две недели по 4 дня, полные и неполные дни. Для одной дневной группы часы расходятся.
+
+**Цена / год:** 2026 · Полный день CAD 330 за 21–24 декабря или CAD 300 за 28–31 декабря. Полдня CAD 215 за 4 дня. По отдельным дням CAD 100 или CAD 70.
+
+**Включено:** Начальная группа работает с LEGO SPIKE Essentials, продвинутая с LEGO Mindstorms Inventor. Есть механика, программирование датчиков и знакомство с 3D-печатью.
+
+**Доплаты:** Для 28–31 декабря описание указывает 12:30–16:30, селектор тарифа 11:00–15:00. Подтвердить часы до записи.
+
+**Оплата:** Отмена по условиям лагеря до 1 месяца до начала. Из возврата удерживают CAD 50 и возможные комиссии оплаты.
+
+**Матвей:** Подходит по опубликованному диапазону. Место подтвердить отдельно.
+
+**Оскар:** Подходит по опубликованному диапазону. Место подтвердить отдельно.
+
+**Почему в отборе:** Начальная группа работает с LEGO SPIKE Essentials, продвинутая с LEGO Mindstorms Inventor. Есть механика, программирование датчиков и знакомство с 3D-печатью.
+
+### Перед заявкой
+
+- Сверить допуск и наличие мест до оплаты.
+
+- Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+- Живой язык занятий организатор прямо не указал. Английский и испанский требуют подтверждения.
+
+- Для 28–31 декабря описание указывает 12:30–16:30, селектор тарифа 11:00–15:00. Подтвердить часы до записи.
+
+### Full day
+
+**Даты / статус:** 2026-12-21 — 2026-12-24
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 330 за 4 дня или CAD 100 за отдельный день.
+
+**Условия участия:** Полный день: приводят 08:00–08:30, забирают 16:00–16:30. Это окна передачи ребёнка. Утро 08:00–12:00.
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026)
+
+### AM
+
+**Даты / статус:** 2026-12-21 — 2026-12-24
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 215 за 4 дня или CAD 70 за отдельный день.
+
+**Условия участия:** Полный день: приводят 08:00–08:30, забирают 16:00–16:30. Это окна передачи ребёнка. Утро 08:00–12:00.
+
+- 2026-12-21 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-22 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-23 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-24 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026)
+
+### PM
+
+**Даты / статус:** 2026-12-21 — 2026-12-24
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 215 за 4 дня или CAD 70 за отдельный день.
+
+**Условия участия:** Полный день: приводят 08:00–08:30, забирают 16:00–16:30. Это окна передачи ребёнка. Утро 08:00–12:00.
+
+- 2026-12-21 · 12:30–16:30 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-22 · 12:30–16:30 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-23 · 12:30–16:30 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-24 · 12:30–16:30 · America/Edmonton · Engineers Robotics Winter Camp
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026)
+
+### Full day
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 300 за 4 дня или CAD 100 за отдельный день.
+
+**Условия участия:** Полный день: приводят 08:00–08:30, забирают 16:00–16:30. Это окна передачи ребёнка. Утро 08:00–12:00.
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026)
+
+### AM
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 215 за 4 дня или CAD 70 за отдельный день.
+
+**Условия участия:** Полный день: приводят 08:00–08:30, забирают 16:00–16:30. Это окна передачи ребёнка. Утро 08:00–12:00.
+
+- 2026-12-28 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-29 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-30 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+- 2026-12-31 · 08:00–12:00 · America/Edmonton · Engineers Robotics Winter Camp
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026)
+
+### PM
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Место:** Flying Minds · Calgary. Подтвердить адрес именно выбранной зимней смены.
+
+**Возраст:** 6–12
+
+**Цена:** CAD 215 за 4 дня или CAD 70 за отдельный день.
+
+**Условия участия:** Для 28–31 декабря описание указывает 12:30–16:30, селектор тарифа 11:00–15:00. Подтвердить часы до записи.
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026)
+
+### Источники
+
+- [Проверена официальная карточка программы.](https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://www.flyingminds.ca/camps) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://www.flyingminds.ca/camp-terms-and-conditions) · 2026-11-10
+
+## CP2415 · Hive5 · Winter STEAM Aurora
+
+Канада · Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
+
+**Проверено:** 2026-11-10
+
+**Возраст:** Младшая группа 4–6 лет. Старшая группа 7–12 лет.
+
+**Язык:** Живой язык занятий организатор прямо не указал. Английский и испанский требуют подтверждения.
+
+**Программа:** Практические инженерные задачи, программирование, опыты и игры в двух возрастных группах.
+
+**Проживание:** Дневная программа без проживания.
+
+**Даты / статус:** 21–24 и 28–31 декабря 2026, 09:00–16:00. Даты сверены по тарифным карточкам 2026.
+
+**Цена / год:** 2026 · CAD 85 за день, CAD 320 за 4 дня или CAD 640 за 8 дней. Материалы включены.
+
+**Включено:** Практические инженерные задачи, программирование, опыты и игры в двух возрастных группах.
+
+**Доплаты:** Ранний присмотр CAD 10 в день, поздний CAD 15. Позднего присмотра нет 24 и 31 декабря.
+
+**Оплата:** Уточнить у организатора.
+
+**Матвей:** Возраст соответствует старшей группе 7–12 лет.
+
+**Оскар:** Возраст соответствует младшей группе 4–6 лет.
+
+**Почему в отборе:** Практические инженерные задачи, программирование, опыты и игры в двух возрастных группах.
+
+### Перед заявкой
+
+- Сверить допуск и наличие мест до оплаты.
+
+- Живой язык занятий организатор прямо не указал. Английский и испанский требуют подтверждения.
+
+- Ранний присмотр CAD 10 в день, поздний CAD 15. Позднего присмотра нет 24 и 31 декабря.
+
+### Winter STEAM
+
+**Даты / статус:** 2026-12-21 — 2026-12-24
+
+**Место:** Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
+
+**Возраст:** Младшая группа 4–6 лет. Старшая группа 7–12 лет.
+
+**Цена:** CAD 85 за день, CAD 320 за 4 дня или CAD 640 за 8 дней. Материалы включены.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-24 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://hive5.ca/product/christmas-workshop-package-dec-21-24/)
+
+### Winter STEAM
+
+**Даты / статус:** 2026-12-28 — 2026-12-31
+
+**Место:** Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
+
+**Возраст:** Младшая группа 4–6 лет. Старшая группа 7–12 лет.
+
+**Цена:** CAD 85 за день, CAD 320 за 4 дня или CAD 640 за 8 дней. Материалы включены.
+
+**Условия участия:** Сверить допуск и наличие мест до оплаты.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+- 2026-12-31 · 09:00–16:00 · America/Toronto · Hive5 Winter STEAM
+
+**Наличие мест:** Сверить допуск и наличие мест до оплаты.
+
+[Источник](https://hive5.ca/product/new-year-adventure-package-dec-28-31/)
+
+### Источники
+
+- [Проверена официальная карточка программы.](https://hive5.ca/winter-camps/) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://hive5.ca/product/hive5-winter-camp-2026-daily/) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://hive5.ca/product/christmas-workshop-package-dec-21-24/) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://hive5.ca/product/new-year-adventure-package-dec-28-31/) · 2026-11-10
+
+- [Проверена официальная карточка программы.](https://hive5.ca/product/full-winter-break-package-all-8-days/) · 2026-11-10
 
 ## Не закрытые проверки
 

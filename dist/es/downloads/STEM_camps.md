@@ -93286,6 +93286,278 @@ Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del
 Fuente: https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5
 Verificado: 2026-11-10
 
+### CP2412-20270705-20270709-20270705-09001230-timed · TechLabs Basel · Build. Hack. Engineer 2027 · AM · 2027-07-05–2027-07-09
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 745 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2412-20270705-20270709-20270705-09001700-timed · TechLabs Basel · Build. Hack. Engineer 2027 · Full day · 2027-07-05–2027-07-09
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1109 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.523f189c7f1a_7779309055.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%205-9?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2412-20270712-20270716-20270712-09001230-timed · TechLabs Basel · Build. Hack. Engineer 2027 · AM · 2027-07-12–2027-07-16
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 745 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2412-20270712-20270716-20270712-09001700-timed · TechLabs Basel · Build. Hack. Engineer 2027 · Full day · 2027-07-12–2027-07-16
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1109 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.f2a46e7916ff_7789715773.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2012-16?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2412-20270809-20270813-20270809-09001230-timed · TechLabs Basel · Build. Hack. Engineer 2027 · AM · 2027-08-09–2027-08-13
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 745 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2412-20270809-20270813-20270809-09001700-timed · TechLabs Basel · Build. Hack. Engineer 2027 · Full day · 2027-08-09–2027-08-13
+
+lugar: Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1109 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La ficha indica un depósito de CHF 350 no reembolsable si se cancela. Confirme su aplicación al precio y su relación con la cláusula de cancelación.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Basel%20%20TechLabs%20ELYS/Camp.ed.df9bf3df42f6_7789729297.BS%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20August%209-13?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2413-20270426-20270430-20270426-09001700-timed · TechLabs Zürich · Build. Hack. Engineer 2027 · Full day · 2027-04-26–2027-04-30
+
+Lugar: Suiza · TechLabs · Hohlstrasse 201 · 8004 Zürich
+Fecha: 2027-04-26 - 2027-04-30
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1240 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La página indica un cargo de CHF 350 si se cancela. Confirme las condiciones del pago inicial.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.69603c2a109d_7582345519.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20April%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2413-20270719-20270723-20270719-09001700-timed · TechLabs Zürich · Build. Hack. Engineer 2027 · Full day · 2027-07-19–2027-07-23
+
+Lugar: Suiza · TechLabs · Hohlstrasse 201 · 8004 Zürich
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1240 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La página indica un cargo de CHF 350 si se cancela. Confirme las condiciones del pago inicial.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.b0da22880b81_7681489963.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2019-23?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2413-20270726-20270730-20270726-09001700-timed · TechLabs Zürich · Build. Hack. Engineer 2027 · Full day · 2027-07-26–2027-07-30
+
+Lugar: Suiza · TechLabs · Hohlstrasse 201 · 8004 Zürich
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador indica inglés y alemán como idiomas de enseñanza. Confirme cuánto se usa el inglés en el grupo.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · CHF 1240 por 5 días en esta modalidad. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja si ha cumplido 7 años al inicio. Confirme la fecha de corte. Suplementos: Las descripciones mencionan 4 y 5 cajas. Confirme la cantidad del paquete elegido. Pago: La página indica un cargo de CHF 350 si se cancela. Confirme las condiciones del pago inicial.
+Fuente: https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Build.%20Hack.%20Engineer%20Camp%20featuring%20CrunchLabs/Zurich%20%20TechLabs/Camp.ed.8267708f9fdf_7791047887.ZH%20%20Build%20Hack%20Engineer%20Camp%20featuring%20CrunchLabs%20%20Age%207-13%20%20July%2026-30?edcode=T5FPcZhVC5tBFNv&edref=techlabs
+Verificado: 2026-11-10
+
+### CP2414-20261221-20261224-20261221-full · Flying Minds · Engineers Robotics Winter Camp · Full day · 2026-12-21–2026-12-24
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 330 por 4 días o CAD 100 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026
+Verificado: 2026-11-10
+
+### CP2414-20261221-20261224-20261221-am · Flying Minds · Engineers Robotics Winter Camp · AM · 2026-12-21–2026-12-24
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 215 por 4 días o CAD 70 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026
+Verificado: 2026-11-10
+
+### CP2414-20261221-20261224-20261221-pm · Flying Minds · Engineers Robotics Winter Camp · PM · 2026-12-21–2026-12-24
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 215 por 4 días o CAD 70 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-dec-21-24-2026
+Verificado: 2026-11-10
+
+### CP2414-20261228-20261231-20261228-full · Flying Minds · Engineers Robotics Winter Camp · Full day · 2026-12-28–2026-12-31
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 300 por 4 días o CAD 100 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026
+Verificado: 2026-11-10
+
+### CP2414-20261228-20261231-20261228-am · Flying Minds · Engineers Robotics Winter Camp · AM · 2026-12-28–2026-12-31
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 215 por 4 días o CAD 70 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Día completo: llegada de 08:00 a 08:30 y recogida de 16:00 a 16:30. Son franjas de entrega y recogida. Mañana 08:00–12:00.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026
+Verificado: 2026-11-10
+
+### CP2414-20261228-20261231-20261228-pm · Flying Minds · Engineers Robotics Winter Camp · PM · 2026-12-28–2026-12-31
+
+Lugar: Canadá · Flying Minds · Calgary. Confirme la dirección de la semana de invierno elegida.
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 215 por 4 días o CAD 70 por un día suelto. · suplementos y condiciones en la ficha
+Acceso: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Para el 28–31 de diciembre, la descripción indica 12:30–16:30 y el selector de tarifas 11:00–15:00. Confirme el horario antes de inscribirse. Pago: Según las condiciones, se puede cancelar hasta 1 mes antes. Se descuentan CAD 50 y posibles comisiones de pago.
+Fuente: https://www.flyingminds.ca/product-page/robotics-winter-camp-december-28-31-2026
+Verificado: 2026-11-10
+
+### CP2415-20261221-20261224-20261221-09001600-timed · Hive5 · Winter STEAM Aurora · Winter STEAM · 2026-12-21–2026-12-24
+
+Lugar: Canadá · Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
+Fecha: 2026-12-21 - 2026-12-24
+Edad: Grupo menor de 4–6 años. Grupo mayor de 7–12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 85 por día, CAD 320 por 4 días o CAD 640 por 8 días. Materiales incluidos. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Edad compatible con el grupo de 7–12 años. Oscar: Edad compatible con el grupo de 4–6 años. Suplementos: Cuidado temprano CAD 10 al día y tardío CAD 15. Sin cuidado tardío los días 24 y 31 de diciembre. Pago: Consulte al organizador.
+Fuente: https://hive5.ca/product/christmas-workshop-package-dec-21-24/
+Verificado: 2026-11-10
+
+### CP2415-20261228-20261231-20261228-09001600-timed · Hive5 · Winter STEAM Aurora · Winter STEAM · 2026-12-28–2026-12-31
+
+Lugar: Canadá · Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
+Fecha: 2026-12-28 - 2026-12-31
+Edad: Grupo menor de 4–6 años. Grupo mayor de 7–12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2026/27 · CAD 85 por día, CAD 320 por 4 días o CAD 640 por 8 días. Materiales incluidos. · suplementos y condiciones en la ficha
+Acceso: Confirme admisión y plazas antes de pagar.
+Restricciones: Matvey: Edad compatible con el grupo de 7–12 años. Oscar: Edad compatible con el grupo de 4–6 años. Suplementos: Cuidado temprano CAD 10 al día y tardío CAD 15. Sin cuidado tardío los días 24 y 31 de diciembre. Pago: Consulte al organizador.
+Fuente: https://hive5.ca/product/new-year-adventure-package-dec-28-31/
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
