@@ -14230,6 +14230,38 @@ Condiciones: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. L
 Fuente: https://vacacionesensenati.com/
 Se ha comprobado: 2026-11-09
 
+### L966 · TSI Riga · Mindstorms EV3 · Group 1
+
+Lugar: Letonia · Riga · TSI · Lauvas iela 2
+Fecha: El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.
+Edad: 7 a 12 años.
+Matvey: La edad encaja si se cumplen las condiciones escolares y del equipo.
+Oscar: Categoría para más adelante.
+Formato: regular
+Idioma: TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.
+Marca de idioma: primary; soporte: no declarado
+Costo: 70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.
+Acceso: Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+Condiciones: El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.
+Fuente: https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/
+Se ha comprobado: 2026-11-09
+
+### L967 · TSI Riga · Mindstorms EV3 · Group 2
+
+Lugar: Letonia · Riga · TSI · Lauvas iela 2
+Fecha: El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.
+Edad: 12–15 años.
+Matvey: Categoría para más adelante.
+Oscar: Categoría para más adelante.
+Formato: regular
+Idioma: TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.
+Marca de idioma: primary; soporte: no declarado
+Costo: 70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.
+Acceso: Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+Condiciones: El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.
+Fuente: https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

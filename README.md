@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В данных v354 добавлены 13 этапов чемпионата Латвии, восемь дисциплин TSI, Bebras, семейные выставки и курсы в Риге. [Аудит источников](data/latvia-robotics-gaming-and-learning-audit-v354.json)
+
 В данных v353 добавлены четыре отраслевые выставки Мексики, школьный Bebras Jamaica и четыре досье каникул в Аргентине, Перу и Чили. У Expo Manufactura уточнены дневные часы и вход. [Аудит источников](data/latam-mexico-fairs-and-junior-programmes-audit-v353.json)
 
 В данных v352 уточнены сроки Kiwibots и добавлены пять выставок Океании, 13 занятий LEGO SPIKE в библиотеках Логана и две смены Mission to Space. Каталог содержит 11 951 запись и 2 369 досье. [Аудит источников](data/oceania-expos-vex-and-library-robotics-audit-v352.json)

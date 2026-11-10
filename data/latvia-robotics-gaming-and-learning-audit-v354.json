@@ -1,0 +1,129 @@
+{
+  "version": 354,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "competition_ids": [
+    "C5391",
+    "C5392",
+    "C5393",
+    "C5394",
+    "C5395",
+    "C5396",
+    "C5397",
+    "C5398",
+    "C5399",
+    "C5400",
+    "C5401",
+    "C5402",
+    "C5403",
+    "C5404",
+    "C5405",
+    "C5406",
+    "C5407",
+    "C5408",
+    "C5409",
+    "C5410",
+    "C5411",
+    "C5412",
+    "C5413",
+    "C5414",
+    "C5415",
+    "C5416",
+    "C5417",
+    "C5418",
+    "C5419",
+    "C5420",
+    "C5421"
+  ],
+  "exhibition_ids": [
+    "E780",
+    "E781",
+    "E782",
+    "E783",
+    "E784"
+  ],
+  "learning_event_ids": [
+    "L966",
+    "L967"
+  ],
+  "camp_dossier_ids": [
+    "CP2374",
+    "CP2375",
+    "CP2376"
+  ],
+  "league_id": "latvian-robotics-championship",
+  "season_stage_ids": [
+    "C5391",
+    "C5392",
+    "C5393",
+    "C5394",
+    "C5395",
+    "C5396",
+    "C5397",
+    "C5398",
+    "C5399",
+    "C5400",
+    "C5401",
+    "C5402",
+    "C5403"
+  ],
+  "season_future_stages": 9,
+  "season_archive_stages": 4,
+  "jelgava_date_conflict": [
+    "2026-06-06",
+    "2026-06-07"
+  ],
+  "tsi_discipline_ids": [
+    "C5404",
+    "C5405",
+    "C5406",
+    "C5407",
+    "C5408",
+    "C5409",
+    "C5410",
+    "C5411"
+  ],
+  "tsi_registration_utc": "2026-11-16T21:59:00Z",
+  "broceni_registration_utc": "2026-11-12T15:00:00Z",
+  "tsi_judging_languages": [
+    "LV",
+    "EN"
+  ],
+  "tsi_overseas_admission_confirmed": false,
+  "national_route_updates": [
+    {
+      "id": "NR-WRO-LVA",
+      "url": "https://wro.lv/",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-09",
+      "access_url": "https://wro.lv/",
+      "checked": "2026-11-09",
+      "programme": "RoboMission 2026: Elementary 8–12, Junior 11–15, Senior 14–19.",
+      "website_note": "Источник описывает национальный этап 2026. Даты, цены и допуск на 2027 уточнить после новой публикации."
+    },
+    {
+      "id": "NR-FLL-LVA-general",
+      "url": "https://va.lv/studijas/robotika-un-automatizacija/robotikas-sacensibas",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-09",
+      "access_url": "https://va.lv/studijas/robotika-un-automatizacija/robotikas-sacensibas",
+      "checked": "2026-11-09",
+      "programme": "Локальный университет подтверждает Explore 6–10 и Challenge 9–16.",
+      "website_note": "Местный университет подтверждает направление. Дата нового события, редакция правил, языки и приём зарубежной команды уточняются.",
+      "provider": "Vidzeme University of Applied Sciences",
+      "evidence_level": "operator_announcement",
+      "source": "https://va.lv/studijas/robotika-un-automatizacija/robotikas-sacensibas"
+    },
+    {
+      "id": "NR-BEBRAS-LVA",
+      "url": "https://www.bebrs.lv/",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-09",
+      "access_url": "https://www.bebrs.lv/",
+      "checked": "2026-11-09",
+      "programme": "Ученики 4–12 классов. Возраст сам по себе не определяет категорию.",
+      "website_note": "Бесплатно, индивидуально за компьютером, 35 минут. Запись самостоятельно или через класс была до 1 ноября 2026."
+    }
+  ]
+}

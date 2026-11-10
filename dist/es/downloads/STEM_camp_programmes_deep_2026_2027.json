@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2373,
+    "dossiers": 2376,
     "countries": 140,
     "swiss": 153,
     "by_status": {
@@ -43,14 +43,14 @@
       "partial_2026": 24,
       "archive_next_unannounced": 152,
       "regular_programme": 21,
-      "regular_2026_27": 31,
-      "historical_2026_next_season_unknown": 1,
+      "regular_2026_27": 33,
+      "historical_2026_next_season_unknown": 2,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3282
+    "source_urls": 3284
   },
   "countries": [
     {
@@ -299,7 +299,7 @@
     },
     {
       "country": "Letonia",
-      "count": 8
+      "count": 11
     },
     {
       "country": "Lesoto",
@@ -417211,6 +417211,262 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2374",
+      "slug": "tsi-riga-ev3-beginner",
+      "provider": "TSI Riga · Mindstorms EV3 · Group 1",
+      "country": "Letonia",
+      "iso": "LVA",
+      "place": "Riga · TSI · Lauvas iela 2",
+      "age": "7–12 años.",
+      "programme": "LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "LV",
+        "RU"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Formación diurna. Alojamiento por separado.",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 70,
+        "unit": "month",
+        "label": "70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.",
+        "included": "LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.",
+        "extras": "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.",
+        "deposit": "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "La edad encaja si se cumplen las condiciones escolares y del equipo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Categoría para más adelante."
+        }
+      },
+      "editorial_reason": "El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.",
+      "shortlist": [],
+      "questions": [
+        "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos."
+      ],
+      "sources": [
+        {
+          "url": "https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "LV",
+          "RU"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2375",
+      "slug": "tsi-riga-ev3-foundation",
+      "provider": "TSI Riga · Mindstorms EV3 · Group 2",
+      "country": "Letonia",
+      "iso": "LVA",
+      "place": "Riga · TSI · Lauvas iela 2",
+      "age": "12–15 años.",
+      "programme": "LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "LV",
+        "RU"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Formación diurna. Alojamiento por separado.",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 70,
+        "unit": "month",
+        "label": "70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.",
+        "included": "LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.",
+        "extras": "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.",
+        "deposit": "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Categoría para más adelante."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Categoría para más adelante."
+        }
+      },
+      "editorial_reason": "El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.",
+      "shortlist": [],
+      "questions": [
+        "Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos."
+      ],
+      "sources": [
+        {
+          "url": "https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "LV",
+          "RU"
+        ],
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2376",
+      "slug": "robohub-riga-holiday-robotics",
+      "provider": "Robo Hub Riga · LEGO Robotics",
+      "country": "Letonia",
+      "iso": "LVA",
+      "place": "Riga · Brīvības gatve 224 K-1",
+      "age": "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.",
+      "programme": "Montaje y programación LEGO, tareas de lógica, actividades al aire libre y comidas.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "El idioma de trabajo es el letón. El profesorado también habla inglés y ruso. Acuerde el alcance del apoyo.",
+      "confirmed_instruction_languages": [
+        "LV"
+      ],
+      "confirmed_support_languages": [
+        "EN",
+        "RU"
+      ],
+      "materials_languages": [
+        "LV"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Formación diurna. Alojamiento por separado.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "El último turno publicado fue del 19–23 de octubre de 2026. Confirme temporada siguiente, edad y fechas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true,
+        "historical_window": [
+          "2026-10-19",
+          "2026-10-23"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 325,
+        "unit": "week",
+        "label": "En otoño de 2026 eran 325 EUR por 5 días. Descuento del 10% para el segundo niño. Confirme la tarifa del siguiente turno.",
+        "included": "Montaje y programación LEGO, tareas de lógica, actividades al aire libre y comidas.",
+        "extras": "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.",
+        "deposit": "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico."
+        }
+      },
+      "editorial_reason": "El último turno publicado fue del 19–23 de octubre de 2026. Confirme temporada siguiente, edad y fechas.",
+      "shortlist": [],
+      "questions": [
+        "Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robohub.lv/brauc-uz-nometni/",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "LV"
+        ],
+        "support": [
+          "EN",
+          "RU"
+        ],
+        "materials": [
+          "LV"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -435771,7 +436027,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2373,
+      "total_dossiers": 2376,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

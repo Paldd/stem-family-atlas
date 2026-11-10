@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11974,
-    "competition_cards": 5389,
-    "event_cards": 779,
-    "camp_cards": 5806,
-    "league_profiles": 339,
-    "major_exhibition_cards": 672,
+    "cards": 12012,
+    "competition_cards": 5420,
+    "event_cards": 784,
+    "camp_cards": 5808,
+    "league_profiles": 340,
+    "major_exhibition_cards": 677,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2591,
+      "total": 2629,
       "countries_with_records": 55,
-      "competitions": 733,
-      "events": 186,
-      "major_exhibitions": 162,
-      "camps": 1672,
+      "competitions": 764,
+      "events": 191,
+      "major_exhibitions": 167,
+      "camps": 1674,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -8838,6 +8838,40 @@
       "new": false
     },
     {
+      "id": "latvian-robotics-championship",
+      "name": "Latvijas Robotikas čempionāts",
+      "group": "regional",
+      "event_ids": [
+        "C5391",
+        "C5392",
+        "C5393",
+        "C5394",
+        "C5395",
+        "C5396",
+        "C5397",
+        "C5398",
+        "C5399",
+        "C5400",
+        "C5401",
+        "C5402",
+        "C5403",
+        "C5404",
+        "C5405",
+        "C5406",
+        "C5407",
+        "C5408",
+        "C5409",
+        "C5410",
+        "C5411"
+      ],
+      "cards": 21,
+      "future_dated": 17,
+      "linked_card_count": 21,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://robotuskola.lv/competitions/lrc/2026-2027/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -17231,6 +17265,61 @@
       "new": false
     },
     {
+      "id": "E780",
+      "name": "TSI Robotics Tournament 2026 · Spectators",
+      "country": "Letonia",
+      "region": "Europa",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://tsi.lv/lv/events/tsi-robotikas-turnirs-2026/",
+      "new": false
+    },
+    {
+      "id": "E781",
+      "name": "Tech Industry Riga 2026",
+      "country": "Letonia",
+      "region": "Europa",
+      "start": "2026-11-26",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.techindustry.lv/en/visitors",
+      "new": false
+    },
+    {
+      "id": "E782",
+      "name": "Tech Industry Riga 2027",
+      "country": "Letonia",
+      "region": "Europa",
+      "start": "2027-11-25",
+      "end": "2027-11-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.bt1.lv/saraksti/2027-BT1-ENG.pdf?v.2027=",
+      "new": false
+    },
+    {
+      "id": "E783",
+      "name": "UniCon Winter 2027",
+      "country": "Letonia",
+      "region": "Europa",
+      "start": "2027-01-08",
+      "end": "2027-01-10",
+      "visitor_policy": "family",
+      "source": "https://unicon.lv/",
+      "new": false
+    },
+    {
+      "id": "E784",
+      "name": "RIGA COMM 2027",
+      "country": "Letonia",
+      "region": "Europa",
+      "start": "2027-10-07",
+      "end": "2027-10-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://rigacomm.com/en/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17753,7 +17842,8 @@
     "Se añadieron opciones regionales activas de SENATI, el torneo Astra Challenge, cursos de enero de Astranautas y la exposición de juegos de mesa en Singapur. Los programas sin calendario exacto siguen pendientes de confirmación.",
     "Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado.",
     "Se precisaron los plazos y condiciones de Kiwibots. Se añadieron ferias de Oceanía, talleres de Logan Libraries y dos turnos de Mission to Space. El acceso profesional y la participación infantil figuran por separado.",
-    "Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario."
+    "Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.",
+    "Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado."
   ],
   "source_issues": [
     {
@@ -19656,16 +19746,16 @@
       }
     ],
     "counts": {
-      "records": 5806,
+      "records": 5808,
       "holiday": 5173,
-      "regular": 234,
+      "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1676,
+      "en_es_instruction": 1678,
       "en_es_support": 67,
-      "family_instruction": 1676,
+      "family_instruction": 1678,
       "family_support": 67,
-      "ru_instruction": 4,
+      "ru_instruction": 6,
       "language_lessons": 423,
       "camp_life_language": 228,
       "language_unclassified": 137,

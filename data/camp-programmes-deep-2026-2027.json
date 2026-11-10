@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2373,
+    "dossiers": 2376,
     "countries": 140,
     "swiss": 153,
     "by_status": {
@@ -43,14 +43,14 @@
       "partial_2026": 24,
       "archive_next_unannounced": 152,
       "regular_programme": 21,
-      "regular_2026_27": 31,
-      "historical_2026_next_season_unknown": 1,
+      "regular_2026_27": 33,
+      "historical_2026_next_season_unknown": 2,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3282
+    "source_urls": 3284
   },
   "countries": [
     {
@@ -299,7 +299,7 @@
     },
     {
       "country": "Латвия",
-      "count": 8
+      "count": 11
     },
     {
       "country": "Лесото",
@@ -362088,6 +362088,224 @@
         }
       ],
       "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2374",
+      "slug": "tsi-riga-ev3-beginner",
+      "provider": "TSI Riga · Mindstorms EV3 · Group 1",
+      "country": "Латвия",
+      "iso": "LVA",
+      "place": "Riga · TSI · Lauvas iela 2",
+      "age": "7–12 лет.",
+      "programme": "LEGO Mindstorms Education EV3, механизмы, моторы и датчики, программирование и собственные проекты.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "TSI указывает английский, латышский и русский как языки курса. Язык конкретной группы подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "LV",
+        "RU"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневное обучение. Проживание отдельно.",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Группа I занимается с сентября 2026 по май 2027 по вторникам и четвергам с 16:00 до 17:30. Курс начался 3 сентября 2026.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 70,
+        "unit": "month",
+        "label": "70 EUR в месяц. Подтвердить оставшийся срок, наличие мест и полную стоимость для позднего входа.",
+        "included": "LEGO Mindstorms Education EV3, механизмы, моторы и датчики, программирование и собственные проекты.",
+        "extras": "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования.",
+        "deposit": "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возрастная группа подходит при соблюдении требований к школе и составу команды."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Категория на будущее."
+        }
+      },
+      "editorial_reason": "Группа I занимается с сентября 2026 по май 2027 по вторникам и четвергам с 16:00 до 17:30. Курс начался 3 сентября 2026.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования."
+      ],
+      "sources": [
+        {
+          "url": "https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2375",
+      "slug": "tsi-riga-ev3-foundation",
+      "provider": "TSI Riga · Mindstorms EV3 · Group 2",
+      "country": "Латвия",
+      "iso": "LVA",
+      "place": "Riga · TSI · Lauvas iela 2",
+      "age": "12–15 лет.",
+      "programme": "LEGO Mindstorms Education EV3, механизмы, моторы и датчики, программирование и собственные проекты.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "TSI указывает английский, латышский и русский как языки курса. Язык конкретной группы подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "LV",
+        "RU"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневное обучение. Проживание отдельно.",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "Группа II занимается с октября 2026 по июнь 2027 по понедельникам и пятницам с 16:00 до 17:30. Курс начался 2 октября 2026.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 70,
+        "unit": "month",
+        "label": "70 EUR в месяц. Подтвердить оставшийся срок, наличие мест и полную стоимость для позднего входа.",
+        "included": "LEGO Mindstorms Education EV3, механизмы, моторы и датчики, программирование и собственные проекты.",
+        "extras": "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования.",
+        "deposit": "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Категория на будущее."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Категория на будущее."
+        }
+      },
+      "editorial_reason": "Группа II занимается с октября 2026 по июнь 2027 по понедельникам и пятницам с 16:00 до 17:30. Курс начался 2 октября 2026.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить поздний вход, уровень, язык группы и предоставление оборудования."
+      ],
+      "sources": [
+        {
+          "url": "https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2376",
+      "slug": "robohub-riga-holiday-robotics",
+      "provider": "Robo Hub Riga · LEGO Robotics",
+      "country": "Латвия",
+      "iso": "LVA",
+      "place": "Riga · Brīvības gatve 224 K-1",
+      "age": "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение.",
+      "programme": "Сборка и программирование LEGO, задачи на логику, уличная активность и питание.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "Рабочий язык латышский. Преподаватели также говорят по-английски и по-русски. Объём поддержки нужно согласовать.",
+      "confirmed_instruction_languages": [
+        "LV"
+      ],
+      "confirmed_support_languages": [
+        "EN",
+        "RU"
+      ],
+      "materials_languages": [
+        "LV"
+      ],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневное обучение. Проживание отдельно.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "Последняя опубликованная смена прошла 19–23 октября 2026. Следующий сезон, возраст и даты уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true,
+        "historical_window": [
+          "2026-10-19",
+          "2026-10-23"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 325,
+        "unit": "week",
+        "label": "В осеннем выпуске 2026 было 325 EUR за 5 дней. Скидка 10% на второго ребёнка. Тариф следующей смены уточнить.",
+        "included": "Сборка и программирование LEGO, задачи на логику, уличная активность и питание.",
+        "extras": "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение.",
+        "deposit": "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение."
+        }
+      },
+      "editorial_reason": "Последняя опубликованная смена прошла 19–23 октября 2026. Следующий сезон, возраст и даты уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить следующий набор, возраст, условия оплаты и языковое сопровождение."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robohub.lv/brauc-uz-nometni/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
     }
   ],
   "gaps": [
@@ -380648,7 +380866,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2373,
+      "total_dossiers": 2376,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

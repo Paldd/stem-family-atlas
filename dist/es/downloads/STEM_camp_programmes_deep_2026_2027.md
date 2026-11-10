@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2373 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2376 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -186497,6 +186497,120 @@ Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/) · 2026-11-09
+
+## CP2374 · TSI Riga · Mindstorms EV3 · Group 1
+
+Letonia · Riga · TSI · Lauvas iela 2
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 7–12 años.
+
+**Idioma:** TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.
+
+**Programa:** LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.
+
+**Alojamiento:** Formación diurna. Alojamiento por separado.
+
+**Fechas / estado:** El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.
+
+**Precio / año:** 2026 · 70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.
+
+**Incluye:** LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.
+
+**Cargos extra:** Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+**Pago:** Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+**Matvey:** La edad encaja si se cumplen las condiciones escolares y del equipo.
+
+**Oscar:** Categoría para más adelante.
+
+**Motivo de selección:** El grupo I se reúne de septiembre de 2026 a mayo de 2027 los martes y jueves de 16:00 a 17:30. El curso empezó el 3 de septiembre de 2026.
+
+### Antes de solicitar plaza
+
+- Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/) · 2026-11-09
+
+## CP2375 · TSI Riga · Mindstorms EV3 · Group 2
+
+Letonia · Riga · TSI · Lauvas iela 2
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 12–15 años.
+
+**Idioma:** TSI indica inglés, letón y ruso como idiomas del curso. Confirme el idioma del grupo concreto.
+
+**Programa:** LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.
+
+**Alojamiento:** Formación diurna. Alojamiento por separado.
+
+**Fechas / estado:** El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.
+
+**Precio / año:** 2026 · 70 EUR al mes. Confirme duración restante, plazas y coste total de incorporarse tarde.
+
+**Incluye:** LEGO Mindstorms Education EV3, mecanismos, motores y sensores, programación y proyectos propios.
+
+**Cargos extra:** Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+**Pago:** Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+**Matvey:** Categoría para más adelante.
+
+**Oscar:** Categoría para más adelante.
+
+**Motivo de selección:** El grupo II se reúne de octubre de 2026 a junio de 2027 los lunes y viernes de 16:00 a 17:30. El curso empezó el 2 de octubre de 2026.
+
+### Antes de solicitar plaza
+
+- Confirme incorporación tardía, nivel, idioma del grupo y equipos incluidos.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://tsi.lv/courses/robotics-based-on-the-constructor-mindstorms-ev3/) · 2026-11-09
+
+## CP2376 · Robo Hub Riga · LEGO Robotics
+
+Letonia · Riga · Brīvības gatve 224 K-1
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+**Idioma:** El idioma de trabajo es el letón. El profesorado también habla inglés y ruso. Acuerde el alcance del apoyo.
+
+**Programa:** Montaje y programación LEGO, tareas de lógica, actividades al aire libre y comidas.
+
+**Alojamiento:** Formación diurna. Alojamiento por separado.
+
+**Fechas / estado:** El último turno publicado fue del 19–23 de octubre de 2026. Confirme temporada siguiente, edad y fechas.
+
+**Precio / año:** 2026 · En otoño de 2026 eran 325 EUR por 5 días. Descuento del 10% para el segundo niño. Confirme la tarifa del siguiente turno.
+
+**Incluye:** Montaje y programación LEGO, tareas de lógica, actividades al aire libre y comidas.
+
+**Cargos extra:** Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+**Pago:** Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+**Matvey:** Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+**Oscar:** Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+**Motivo de selección:** El último turno publicado fue del 19–23 de octubre de 2026. Confirme temporada siguiente, edad y fechas.
+
+### Antes de solicitar plaza
+
+- Confirme nueva inscripción, edad, condiciones de pago y apoyo lingüístico.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.robohub.lv/brauc-uz-nometni/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

@@ -92,7 +92,8 @@ current_audits = [
                  'spirit-math-cobo-and-territories-audit-v347.json',
                  'indonesia-chile-and-family-exhibitions-audit-v348.json',
                  'oceania-expos-vex-and-library-robotics-audit-v352.json',
-                 'latam-mexico-fairs-and-junior-programmes-audit-v353.json')
+                 'latam-mexico-fairs-and-junior-programmes-audit-v353.json',
+                 'latvia-robotics-gaming-and-learning-audit-v354.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

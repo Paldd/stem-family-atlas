@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 11974 fichas en la base, con 5389 de competiciones, 779 de eventos y 5806 de campamentos o programas. Hay 339 perfiles de ligas y programas. Las 672 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12012 fichas en la base, con 5420 de competiciones, 784 de eventos y 5808 de campamentos o programas. Hay 340 perfiles de ligas y programas. Las 677 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2224 | 181 | 1428 |
 | América del Sur | 15 | 490 | 53 | 282 |
-| Europa | 55 | 733 | 162 | 1672 |
+| Europa | 55 | 764 | 167 | 1674 |
 | África | 61 | 281 | 46 | 156 |
 | Asia | 51 | 1242 | 190 | 1838 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5389 fichas de competiciones (15.2%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5420 fichas de competiciones (15.1%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -98,6 +98,7 @@ VEX concentra 821 de las 5389 fichas de competiciones (15.2%). La cobertura est�
 - Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado.
 - Se precisaron los plazos y condiciones de Kiwibots. Se añadieron ferias de Oceanía, talleres de Logan Libraries y dos turnos de Mission to Space. El acceso profesional y la participación infantil figuran por separado.
 - Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.
+- Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -373,6 +374,7 @@ VEX concentra 821 de las 5389 fichas de competiciones (15.2%). La cobertura est�
 - **International IDN IT FEST**: 9 fichas, 7 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://itfest.idn.sch.id/
 - **Shaastra Junior Make-a-Thon**: 4 fichas, 3 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://jmt.shaastra.org/
 - **Astra Challenge**: 5 fichas, 5 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://www.astranautas.com/astra-challenge-2026.php
+- **Latvijas Robotikas čempionāts**: 21 fichas, 17 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://robotuskola.lv/competitions/lrc/2026-2027/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1087,6 +1089,11 @@ VEX concentra 821 de las 5389 fichas de competiciones (15.2%). La cobertura est�
 - **WAFE 2027 · Welding Automation & Fabrication Experience** — México; 2027-03-02 – 2027-03-03. Confirme el acceso de menores. https://www.wafemx.com/
 - **FABTECH México 2027** — México; 2027-05-04 – 2027-05-06. Los niños de 6/9 años no pueden entrar. https://mexico.fabtechexpo.com/attend/faqs
 - **EXPO PACK Guadalajara 2027** — México; 2027-06-08 – 2027-06-10. Los niños de 6/9 años no pueden entrar. https://www.expopackguadalajara.com.mx/the-show/faqs
+- **TSI Robotics Tournament 2026 · Spectators** — Letonia; 2026-11-21. Confirme el acceso de menores. https://tsi.lv/lv/events/tsi-robotikas-turnirs-2026/
+- **Tech Industry Riga 2026** — Letonia; 2026-11-26 – 2026-11-28. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.techindustry.lv/en/visitors
+- **Tech Industry Riga 2027** — Letonia; 2027-11-25 – 2027-11-27. Confirme el acceso de menores. https://www.bt1.lv/saraksti/2027-BT1-ENG.pdf?v.2027=
+- **UniCon Winter 2027** — Letonia; 2027-01-08 – 2027-01-10. Con un adulto. Consulte las condiciones de entrada del adulto. https://unicon.lv/
+- **RIGA COMM 2027** — Letonia; 2027-10-07 – 2027-10-08. Confirme el acceso de menores. https://rigacomm.com/en/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

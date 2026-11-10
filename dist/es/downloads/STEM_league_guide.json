@@ -28221,6 +28221,178 @@
         "evidence": "Se verificaron la descripción oficial del torneo, las edades y las cuotas."
       },
       {
+        "id": "latvian-robotics-championship",
+        "name": "Latvijas Robotikas čempionāts",
+        "group": "regional",
+        "age_summary": "En TSI, LEGO Sumo hasta 12 años y 13–18. Las demás etapas anuncian sus categorías.",
+        "age_tags": [
+          "unknown",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "El calendario de la temporada contiene 13 etapas. La admisión y la edad dependen de la etapa y disciplina. La clasificación final se comprueba por separado.",
+        "categories": [
+          {
+            "name": "LEGO Sumo · ≤12",
+            "age": "Escolares hasta 12 años según la categoría del organizador. Confirme el mínimo y la fecha de corte.",
+            "team": "Robot LEGO autónomo propio. El PDF publicado permite un operador y varios asistentes. En cada disciplina LEGO se admite un robot por operador.",
+            "hardware": "Robot LEGO autónomo propio. El PDF publicado permite un operador y varios asistentes. En cada disciplina LEGO se admite un robot por operador.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5404",
+            "source": "https://robotuskola.lv/wp-content/uploads/rules/lrc/2025-2026/lego-sumo-lv.pdf",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "LEGO Sumo · 13–18",
+            "age": "Escolares de 13–18 años. Confirme la fecha de corte.",
+            "team": "Robot LEGO autónomo propio. El PDF publicado permite un operador y varios asistentes. En cada disciplina LEGO se admite un robot por operador.",
+            "hardware": "Robot LEGO autónomo propio. El PDF publicado permite un operador y varios asistentes. En cada disciplina LEGO se admite un robot por operador.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5405",
+            "source": "https://robotuskola.lv/wp-content/uploads/rules/lrc/2025-2026/lego-sumo-lv.pdf",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "LEGO Line Following",
+            "age": "Categoría escolar. Confirme edad exacta, grados y tamaño del equipo.",
+            "team": "Robot LEGO según las reglas de la disciplina. Un robot por operador en cada disciplina LEGO.",
+            "hardware": "Robot LEGO según las reglas de la disciplina. Un robot por operador en cada disciplina LEGO.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5406",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/linefollower/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "LEGO Folkrace",
+            "age": "Categoría escolar. Confirme edad exacta, grados y tamaño del equipo.",
+            "team": "Robot LEGO según las reglas de la disciplina. Un robot por operador en cada disciplina LEGO.",
+            "hardware": "Robot LEGO según las reglas de la disciplina. Un robot por operador en cada disciplina LEGO.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5407",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/folkrace/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "Mini Sumo",
+            "age": "Categoría escolar. Confirme edad exacta, grados y tamaño del equipo.",
+            "team": "Robot de construcción propia según el reglamento técnico.",
+            "hardware": "Robot de construcción propia según el reglamento técnico.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5408",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/mini-sumo/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "Folkrace",
+            "age": "Categoría escolar. Confirme edad exacta, grados y tamaño del equipo.",
+            "team": "Robot de construcción propia según el reglamento técnico.",
+            "hardware": "Robot de construcción propia según el reglamento técnico.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5409",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/folkrace/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "Line Following",
+            "age": "Categoría escolar. Confirme edad exacta, grados y tamaño del equipo.",
+            "team": "Robot de construcción propia según el reglamento técnico.",
+            "hardware": "Robot de construcción propia según el reglamento técnico.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5410",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/linefollower/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "Robot Battle · 907 g · Beginners",
+            "age": "Categoría de principiantes. Confirme edad, requisitos de seguridad y admisión.",
+            "team": "Robot según el reglamento de 907 g. El reglamento fija un límite distinto de 1300 g para desplazamientos no tradicionales.",
+            "hardware": "Robot según el reglamento de 907 g. El reglamento fija un límite distinto de 1300 g para desplazamientos no tradicionales.",
+            "entry": "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+            "event_id": "C5411",
+            "source": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/combat-robot-907g/",
+            "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+            "note": "Entrada desde las 09:00, apertura a las 10:00 y competición de 10:30 a 17:00. El horario por disciplinas se publicará tras la inscripción.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "event_ids": [
+          "C5391",
+          "C5392",
+          "C5393",
+          "C5394",
+          "C5395",
+          "C5396",
+          "C5397",
+          "C5398",
+          "C5399",
+          "C5400",
+          "C5401",
+          "C5402",
+          "C5403",
+          "C5404",
+          "C5405",
+          "C5406",
+          "C5407",
+          "C5408",
+          "C5409",
+          "C5410",
+          "C5411"
+        ],
+        "legacy_ids": [],
+        "route": "El calendario de la temporada contiene 13 etapas. La admisión y la edad dependen de la etapa y disciplina. La clasificación final se comprueba por separado.",
+        "hardware": "Robot LEGO propio o robot de construcción libre, según la categoría.",
+        "language": "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia.",
+        "importance": "Circuito nacional con etapas regionales.",
+        "strengths": "El calendario de la temporada contiene 13 etapas. La admisión y la edad dependen de la etapa y disciplina. La clasificación final se comprueba por separado.",
+        "requirements": [
+          "Se inscribe al participante y al robot hasta el 16 de noviembre de 2026 a las 23:59 en Riga. Confirme admisión, composición y requisitos de la disciplina para un equipo extranjero.",
+          "La regla 1.6 permite hablar con el juez en letón o inglés. Confirme el idioma de los anuncios y la asistencia."
+        ],
+        "nuances": [
+          "La fecha de la final figura en el calendario. En 2026 se clasificaban los puestos 1–4 de la temporada. Confirme las reglas y plazas de la final de 2027."
+        ],
+        "cost": "TSI 2026 es gratuito. Consulte las tarifas de las otras etapas por separado.",
+        "award": "Resultado y puesto de la disciplina según el acta de la etapa.",
+        "sources": [
+          {
+            "url": "https://robotuskola.lv/competitions/lrc/2026-2027/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://robotuskola.lv/competitions/lrc/rules/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://robotuskola.lv/competitions/lrc/rules/2026-2027/general/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://robotika.pvg.edu.lv/tsi2026/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Página oficial del organizador o condiciones de entrada."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -33566,7 +33738,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 339 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Hay 340 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
