@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12093,
-    "competition_cards": 5465,
-    "event_cards": 799,
-    "camp_cards": 5829,
-    "league_profiles": 347,
-    "major_exhibition_cards": 693,
+    "cards": 12120,
+    "competition_cards": 5466,
+    "event_cards": 800,
+    "camp_cards": 5854,
+    "league_profiles": 348,
+    "major_exhibition_cards": 694,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2668,
+      "total": 2695,
       "countries_with_records": 55,
-      "competitions": 792,
-      "events": 196,
-      "major_exhibitions": 172,
-      "camps": 1680,
+      "competitions": 793,
+      "events": 197,
+      "major_exhibitions": 173,
+      "camps": 1705,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -8991,6 +8991,20 @@
       "new": false
     },
     {
+      "id": "tnr-nimes",
+      "name": "Tournoi National de Robotique de Nîmes",
+      "group": "regional",
+      "event_ids": [
+        "C5467"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://robot-sumo.fr/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -17615,6 +17629,17 @@
       "new": false
     },
     {
+      "id": "E800",
+      "name": "Tournoi National de Robotique de Nîmes 2027 · public",
+      "country": "Francia",
+      "region": "Europa",
+      "start": "2027-05-23",
+      "end": "2027-05-23",
+      "visitor_policy": "family",
+      "source": "https://robot-sumo.fr/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18142,7 +18167,8 @@
     "En Estonia se añadieron Robotex, Folkrace, Delta X y actividades familiares de PROTO. En Lituania se revisaron STEAM ABC, las vías VILIPO y turnos de invierno en inglés. La cobertura mundial sigue siendo parcial.",
     "En Brasil se añadieron actividades familiares, torneos regionales y nacionales, ferias industriales con edades de acceso y vías separadas de campamentos.",
     "En México se añadió una selección de actividades y eventos del programa oficial de Zacatecas. Las condiciones de cada sede deben confirmarse.",
-    "En Centroamérica se contrastaron archivos concretos, reglas actuales de acceso y discrepancias en las condiciones de Matenciar. La cobertura local sigue sin confirmarse como completa."
+    "En Centroamérica se contrastaron archivos concretos, reglas actuales de acceso y discrepancias en las condiciones de Matenciar. La cobertura local sigue sin confirmarse como completa.",
+    "En Francia y Suiza se verificaron fechas concretas de torneos, talleres de museo y turnos de campamento. La cobertura completa de estos países sigue sin verificarse."
   ],
   "source_issues": [
     {
@@ -20045,14 +20071,14 @@
       }
     ],
     "counts": {
-      "records": 5829,
-      "holiday": 5187,
+      "records": 5854,
+      "holiday": 5209,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
-      "en_es_instruction": 1686,
+      "en_es_instruction": 1692,
       "en_es_support": 67,
-      "family_instruction": 1686,
+      "family_instruction": 1692,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,

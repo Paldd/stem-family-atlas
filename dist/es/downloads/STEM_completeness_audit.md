@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12093 fichas en la base, con 5465 de competiciones, 799 de eventos y 5829 de campamentos o programas. Hay 347 perfiles de ligas y programas. Las 693 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12120 fichas en la base, con 5466 de competiciones, 800 de eventos y 5854 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 694 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2233 | 185 | 1434 |
 | América del Sur | 15 | 498 | 60 | 291 |
-| Europa | 55 | 792 | 172 | 1680 |
+| Europa | 55 | 793 | 173 | 1705 |
 | África | 61 | 281 | 46 | 156 |
 | Asia | 51 | 1242 | 190 | 1838 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5465 fichas de competiciones (15.0%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5466 fichas de competiciones (15.0%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -103,6 +103,7 @@ VEX concentra 821 de las 5465 fichas de competiciones (15.0%). La cobertura est�
 - En Brasil se añadieron actividades familiares, torneos regionales y nacionales, ferias industriales con edades de acceso y vías separadas de campamentos.
 - En México se añadió una selección de actividades y eventos del programa oficial de Zacatecas. Las condiciones de cada sede deben confirmarse.
 - En Centroamérica se contrastaron archivos concretos, reglas actuales de acceso y discrepancias en las condiciones de Matenciar. La cobertura local sigue sin confirmarse como completa.
+- En Francia y Suiza se verificaron fechas concretas de torneos, talleres de museo y turnos de campamento. La cobertura completa de estos países sigue sin verificarse.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -386,6 +387,7 @@ VEX concentra 821 de las 5465 fichas de competiciones (15.0%). La cobertura est�
 - **Tecnikids · EXPO STEAM**: 5 fichas, 0 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.tecnikidscr.com/expo-steam-2026
 - **Hackathon Nicaragua**: 1 ficha, 0 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.hackathonicaragua.com.ni/
 - **JovenTech Nicaragua**: 1 ficha, 0 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.mined.gob.ni/mined-realiza-etapa-nacional-del-festival-de-innovacion-tecnologica-joventech/
+- **Tournoi National de Robotique de Nîmes**: 1 ficha, 1 con fechas futuras exactas. Hay perfil y ficha, con cobertura local parcial. https://robot-sumo.fr/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1121,6 +1123,7 @@ VEX concentra 821 de las 5465 fichas de competiciones (15.0%). La cobertura est�
 - **Datostada MX 2026 · IA y datos** — México; 2026-11-13 – 2026-11-14. Confirme el acceso de menores. https://datostada.mx/
 - **Tecnikids · EXPO STEAM 2026 · jornada familiar** — Costa Rica; 2026-08-22. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.tecnikidscr.com/expo-steam-2026
 - **Feria XR TEC 2026 · realidad extendida** — Costa Rica; 2026-06-26. Confirme el acceso de menores. https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial
+- **Tournoi National de Robotique de Nîmes 2027 · public** — Francia; 2027-05-23. Con un adulto. Consulte las condiciones de entrada del adulto. https://robot-sumo.fr/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

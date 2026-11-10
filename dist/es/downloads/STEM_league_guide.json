@@ -29089,6 +29089,64 @@
         "evidence": "Página oficial del organizador o condiciones de entrada."
       },
       {
+        "id": "tnr-nimes",
+        "name": "Tournoi National de Robotique de Nîmes",
+        "group": "regional",
+        "age_summary": "El organizador admite solicitudes de particulares, clubes y centros. Confirme edad mínima, papel del acompañante e idioma del arbitraje.",
+        "age_tags": [],
+        "summary": "Torneo nacional francés de robots móviles autónomos. No se anuncian fases verificadas de clasificación internacional.",
+        "categories": [
+          {
+            "name": "Tournoi National de Robotique de Nîmes 2027",
+            "age": "El organizador admite solicitudes de particulares, clubes y centros. Confirme edad mínima, papel del acompañante e idioma del arbitraje.",
+            "team": "Máximo de 5 robots por centro o asociación en una categoría. Cada robot tiene una persona responsable. Un robot inscrito en varias categorías paga cada una por separado.",
+            "hardware": "El formulario incluye Mini Sumo, Labyrinthe Ligne, Labyrinthe y Formule 1. Consulte construcción y autonomía en las reglas de la categoría elegida.",
+            "entry": "El organizador admite solicitudes de particulares, clubes y centros. Confirme edad mínima, papel del acompañante e idioma del arbitraje.",
+            "event_id": "C5467",
+            "source": "https://robot-sumo.fr/",
+            "language": "Confirme el idioma del taller concreto o del arbitraje.",
+            "note": "El organizador indica «antes del 28 de febrero de 2027» para solicitar y «antes del 31 de marzo de 2027» para pagar. No indica hora de cierre.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "event_ids": [
+          "C5467"
+        ],
+        "legacy_ids": [],
+        "route": "El organizador admite solicitudes de particulares, clubes y centros. Confirme edad mínima, papel del acompañante e idioma del arbitraje.",
+        "hardware": "El formulario incluye Mini Sumo, Labyrinthe Ligne, Labyrinthe y Formule 1. Consulte construcción y autonomía en las reglas de la categoría elegida.",
+        "language": "Confirme el idioma del taller concreto o del arbitraje.",
+        "importance": "Torneo nacional francés de robots móviles autónomos. No se anuncian fases verificadas de clasificación internacional.",
+        "strengths": "Torneo nacional francés de robots móviles autónomos. No se anuncian fases verificadas de clasificación internacional.",
+        "requirements": [
+          "El organizador admite solicitudes de particulares, clubes y centros. Confirme edad mínima, papel del acompañante e idioma del arbitraje.",
+          "Máximo de 5 robots por centro o asociación en una categoría. Cada robot tiene una persona responsable. Un robot inscrito en varias categorías paga cada una por separado."
+        ],
+        "nuances": [
+          "El organizador indica «antes del 28 de febrero de 2027» para solicitar y «antes del 31 de marzo de 2027» para pagar. No indica hora de cierre."
+        ],
+        "cost": "Particular 25 EUR, club o asociación 40 EUR, centro o universidad 50 EUR, categoría empresarial 60 EUR. Confirme el total para varios robots.",
+        "award": "Se anuncian premios técnicos para ganadores de categorías, por ejemplo impresoras 3D o kits.",
+        "sources": [
+          {
+            "url": "https://robot-sumo.fr/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://robot-sumo.fr/inscription",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://robot-sumo.fr/wp-content/uploads/2026/10/TNRS-Fiche-Inscription-2027.pdf",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Página oficial del organizador o condiciones de entrada."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -34434,7 +34492,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 347 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Hay 348 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

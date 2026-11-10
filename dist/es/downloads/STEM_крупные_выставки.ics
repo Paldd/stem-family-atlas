@@ -4916,7 +4916,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E394@family-stem.local
-DTSTAMP:20261107T172033Z
+DTSTAMP:20261110T060428Z
 SUMMARY:[Exposición · visita en familia] L’ideatorio USI · Robot. Da
  gli automi all’intelligenza artificiale
 DTSTART;VALUE=DATE:20260912
@@ -4926,16 +4926,18 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Sí. La exp
  entran gratis a la exposición. Entrada de adultos: Exposición CHF 10 a
  dulto\, CHF 7 reducida para menores de 18 años y gratis hasta 6 años i
  nclusive. Entrada familiar CHF 20 para un hogar. 1 adulto y niños de 6 
- y 9 años con entradas separadas suman CHF 17.. Visitas sábados y domin
- gos de 14:00 a 18:00 hasta el 6 de junio de 2027. Excepciones el 19–20
-  y 26–27 de diciembre de 2026\, el 2–3 de enero y el 27–28 de marz
- o de 2027. Módulos interactivos\, juegos y zona de experimentación con
-  robots. Empresas: Visitas sábados y domingos de 14:00 a 18:00 hasta el
-  6 de junio de 2027. Excepciones el 19–20 y 26–27 de diciembre de 20
- 26\, el 2–3 de enero y el 27–28 de marzo de 2027. Módulos interacti
- vos\, juegos y zona de experimentación con robots.. Fuente verificada e
- l 2026-11-07.
-LOCATION:Palazzo Reali · Piazza del Municipio · 6965 Cadro\, Suiza
+ y 9 años con entradas separadas suman CHF 17.. El museo confirma la exp
+ osición del 12 de septiembre de 2026 al 6 de junio de 2027. Horario hab
+ itual de fin de semana 14:00–18:00. Excepciones el 19–20 y 26–27 d
+ e diciembre de 2026\, 2–3 de enero y 27–28 de marzo de 2027. La expo
+ sición es desde 6 años y los talleres concretos desde 10 y 12 años. E
+ mpresas: Visitas sábados y domingos de 14:00 a 18:00 hasta el 6 de juni
+ o de 2027. Excepciones el 19–20 y 26–27 de diciembre de 2026\, el 2
+ –3 de enero y el 27–28 de marzo de 2027. Módulos interactivos\, jue
+ gos y zona de experimentación con robots.. Fuente verificada el 2026-11
+ -09.
+LOCATION:Cadro · L’ideatorio · Palazzo Reali · Piazza del Municipio\
+ , Suiza
 URL:https://ideatorio.usi.ch/event/robot-pubblico
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -13423,6 +13425,27 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada abi
 LOCATION:Ucú\, Yucatán · Universidad Politécnica de Yucatán · Carre
  tera Mérida–Tetiz km 4.5\, México
 URL:https://datostada.mx/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E800@family-stem.local
+DTSTAMP:20261110T060428Z
+SUMMARY:[Exposición · visita en familia] Tournoi National de Robotique 
+ de Nîmes 2027 · public
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
+ tuita para todo el público. El cierre figura a las 17:00. La hora inici
+ al aparece como 90h en el anuncio y requiere confirmación. Entrada de a
+ dultos: Entrada gratuita para todo el público. El cierre figura a las 1
+ 7:00. La hora inicial aparece como 90h en el anuncio y requiere confirma
+ ción.. Visita familiar para ver robots móviles autónomos y pruebas. E
+ l anuncio indica que no se necesita entrada de espectador. Empresas: Con
+ sulte los participantes en el programa.. Fuente verificada el 2026-11-09
+ .
+LOCATION:Milhaud · Centre socio-culturel\, Francia
+URL:https://robot-sumo.fr/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

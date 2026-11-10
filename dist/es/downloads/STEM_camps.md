@@ -2217,7 +2217,7 @@ Comprobado: 2026-09-30
 ### L131 · TechSpark · Robotics LEGO Junior 6+ · Cambio de acuerdo
 
 Lugar: Suiza · Filal y turno específico aún no seleccionados
-Fecha: No se han confirmado los días exactos futuros del curso seleccionado
+Fecha: LEGO Junior se ofrece desde 6 años y los idiomas EN, DE, FR dependen del grupo. Los menús de 2027 de cuatro sedes publican otros cursos. Puede concertarse un curso adicional para grupos de 3 personas o más. Confirme fechas, docente y precio de LEGO por separado.
 Edad: Robotics LEGO Junior: de 6 años; Arduino Robotics ○ Otro curso de 12 años
 Matway: Sí, por edad; necesito un flujo de LEGO confirmado.
 Oscar: Sí, por edad; necesito un flujo de LEGO confirmado.
@@ -2226,9 +2226,9 @@ Idioma: EN / DE / FR ○ versiones publicadas del idioma; flujo de correspondenc
 Marca de idioma: primary; soporte: no declarado
 Costo: Tarifa de la opción seleccionada
 Entrada: Solicitar específicamente a Robotics LEGO Junior 6+ para las vacaciones necesarias; obtener días específicos, un lugar y un idioma.
-Limitaciones: LEGO Robotics Junior Declaración de 6 años y opciones EN/DE/FR. Sin embargo, los menús de fecha Zürich, Zug, Geneva y Lausanne Propongo Game Design c 7 y Python c 10, a LEGO 6+ no se enumeran. No se han asignado fechas de otro tipo para un cambio robótico específico.
+Condiciones: LEGO Junior se ofrece desde 6 años y los idiomas EN, DE, FR dependen del grupo. Los menús de 2027 de cuatro sedes publican otros cursos. Puede concertarse un curso adicional para grupos de 3 personas o más. Confirme fechas, docente y precio de LEGO por separado.
 Fuente: https://online.techsparkacademy.ch/robotics-course/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-09
 
 ### L132 · NewTechKids Amsterdam · Autumn: robots and art 2026
 
@@ -14436,6 +14436,54 @@ Costo: Gratis para centros y equipos participantes.
 Acceso: El centro solicita la participación y trabaja con una escuela asociada de India o España. Esta modalidad no tiene inscripción familiar.
 Condiciones: El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.
 Fuente: https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work
+Se ha comprobado: 2026-11-09
+
+### L979 · L’ideatorio USI · Insegniamo alle macchine
+
+Lugar: Suiza · Cadro · L’ideatorio · Palazzo Reali · Piazza del Municipio
+Fecha: 2026-11-28 — 2026-11-28
+Edad: Desde 10 años. Menores de 16 años con un adulto.
+Matvey: Por ahora no. Taller desde 10 años.
+Oscar: Por ahora no. Taller desde 10 años.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: El taller está incluido en una entrada válida del museo. La entrada solo para la actividad cuesta 7 CHF por persona o 12 CHF por familia.
+Acceso: Desde 10 años. Menores de 16 años con un adulto.
+Condiciones: 15:15–16:45. Práctica de entrenamiento de una máquina con ejemplos y encuentro con un investigador.
+Fuente: https://ideatorio.usi.ch/event/teachable
+Se ha comprobado: 2026-11-09
+
+### L980 · L’ideatorio USI · L’IA senza veli
+
+Lugar: Suiza · Cadro · L’ideatorio · Palazzo Reali · Piazza del Municipio
+Fecha: 2027-01-23 — 2027-01-23
+Edad: Desde 12 años. Menores de 16 años con un adulto.
+Matvey: Por ahora no. Taller desde 12 años.
+Oscar: Por ahora no. Taller desde 12 años.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 7 CHF por participante. La inscripción se abrirá más adelante.
+Acceso: Desde 12 años. Menores de 16 años con un adulto.
+Condiciones: 10:00–12:00. Taller práctico sobre las capacidades de la IA.
+Fuente: https://ideatorio.usi.ch/event/ia-senza-veli
+Se ha comprobado: 2026-11-09
+
+### L981 · L’ideatorio USI · Sfida all’IA
+
+Lugar: Suiza · Cadro · L’ideatorio · Palazzo Reali · Piazza del Municipio
+Fecha: 2027-01-23 — 2027-01-23
+Edad: Desde 10 años. Confirme las reglas de acompañamiento para menores.
+Matvey: Si para el 23 de enero Matvey tiene 10 años, confirme idioma y plaza.
+Oscar: Por ahora no. Taller desde 10 años.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: El taller está incluido en una entrada válida del museo. La entrada solo para la actividad cuesta 7 CHF por persona o 12 CHF por familia.
+Acceso: Desde 10 años. Confirme las reglas de acompañamiento para menores.
+Condiciones: 15:15–16:45. Taller y encuentro con un experto en IA.
+Fuente: https://ideatorio.usi.ch/event/sfida-all-ia
 Se ha comprobado: 2026-11-09
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -26698,7 +26746,7 @@ Comprobado: 2026-10-05
 
 Lugar: Suiza · Zürich · Römerhof; dirección y flujo de edad de la tecnología para confirmar
 Fecha: 2027-07-19 国 2027-07-30
-Edad: Summer-tabla 4–12; Introducción del curso técnico 7+. Grupo y edad Zug no se activa automáticamente en Zürich.
+Edad: La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
 Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
@@ -26708,7 +26756,7 @@ Precio: 2027 · CHF 1 460 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matway: La edad de 9 a 10 corresponde a la tabla; nivel y grupo no se conoce. Oscar: 4 a 12 en la tabla contra 7+; no se promete a los robotics a los 6 años hasta que se confirme su validez.
 Fuente: https://www.helveticinstitute.ch/robotics-ai-and-coding/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-09
 
 ### CP319-20261019-20261023-full-20261019 · Babel School · English holiday camps · 09:00–17:00 · 2026-10-19–2026-10-23
 
@@ -92052,6 +92100,358 @@ Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta 
 Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 Condiciones: Matvey: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Oscar: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://es.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-09
+
+### CP2386-20270104-20270108 · Key English School · All Day Camp · Eaux-Vives · 4–6 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–6 años según la página del grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Docentes anglófonos dirigen actividades lúdicas. Confirme el idioma de cada bloque de la jornada completa.
+Función del idioma: partial_bilingual; apoyo: sin anunciar
+Costo: 2027 · 590 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Matvey supera el límite de edad del grupo. Oscar: Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2387-20270104-20270108 · Key English School · All Day Camp · Meyrin · 4–6 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–6 años según la página del grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Docentes anglófonos dirigen actividades lúdicas. Confirme el idioma de cada bloque de la jornada completa.
+Función del idioma: partial_bilingual; apoyo: sin anunciar
+Costo: 2027 · 590 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Matvey supera el límite de edad del grupo. Oscar: Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2388-20270104-20270108 · Key English School · All Day Camp · Eaux-Vives · 7–12 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–12 años según la página del grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inmersión en inglés por la mañana y actividades educativas por la tarde. Confirme el idioma de las actividades de la tarde.
+Función del idioma: partial_bilingual; apoyo: sin anunciar
+Costo: 2027 · 590 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Cumple por edad. Confirme plaza e idioma de los bloques elegidos. Oscar: Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2389-20270104-20270108 · Key English School · All Day Camp · Meyrin · 7–12 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–12 años según la página del grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inmersión en inglés por la mañana y actividades educativas por la tarde. Confirme el idioma de las actividades de la tarde.
+Función del idioma: partial_bilingual; apoyo: sin anunciar
+Costo: 2027 · 590 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Cumple por edad. Confirme plaza e idioma de los bloques elegidos. Oscar: Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2390-20270104-20270108 · Key English School · Morning English · Eaux-Vives · 3–6 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 3–6 años según la página del grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Matvey supera el límite de edad del grupo. Oscar: Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2391-20270104-20270108 · Key English School · Morning English · Lausanne · 3–6 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Lausanne · Rue du Valentin 7, 1004 Lausanne
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 3–6 años según la página del grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Matvey supera el límite de edad del grupo. Oscar: Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2392-20270104-20270108 · Key English School · Morning English · Meyrin · 3–6 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 3–6 años según la página del grupo.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Matvey supera el límite de edad del grupo. Oscar: Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2393-20270104-20270108 · Key English School · Morning English · Eaux-Vives · 7–12 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–12 años según la página del grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Cumple por edad. Confirme plaza e idioma de los bloques elegidos. Oscar: Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2394-20270104-20270108 · Key English School · Morning English · Lausanne · 7–12 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Lausanne · Rue du Valentin 7, 1004 Lausanne
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–12 años según la página del grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Cumple por edad. Confirme plaza e idioma de los bloques elegidos. Oscar: Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2395-20270104-20270108 · Key English School · Morning English · Meyrin · 7–12 · 2027-01-04–2027-01-08
+
+Lugar: Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–12 años según la página del grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 350 CHF por niño y semana según la tarifa base. · cargos y condiciones en la ficha
+Acceso: Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+Condiciones: Matvey: Cumple por edad. Confirme plaza e idioma de los bloques elegidos. Oscar: Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor. Cargos extra: Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos. Pago: Pago, cancelación y devolución según las condiciones vigentes del operador.
+Fuente: https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/
+Se ha comprobado: 2026-11-09
+
+### CP2396-20261228-20261230 · L’École du Numérique · Robotique · Robotique · 2026-12-28–2026-12-30
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2026-12-28 — 2026-12-30
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Cumple por edad. Confirme idioma y plaza. Oscar: Curso desde 8 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2396-20270215-20270217 · L’École du Numérique · Robotique · Robotique · 2027-02-15–2027-02-17
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2027-02-15 — 2027-02-17
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Cumple por edad. Confirme idioma y plaza. Oscar: Curso desde 8 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2396-20270412-20270414 · L’École du Numérique · Robotique · Robotique · 2027-04-12–2027-04-14
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2027-04-12 — 2027-04-14
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Cumple por edad. Confirme idioma y plaza. Oscar: Curso desde 8 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2397-20261222-20261222 · L’École du Numérique · CodeGaming · CodeGaming · 2026-12-22–2026-12-22
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2026-12-22 — 2026-12-22
+Edad: Desde 11 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Desde 11 años. Oscar: Desde 11 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2397-20270223-20270223 · L’École du Numérique · CodeGaming · CodeGaming · 2027-02-23–2027-02-23
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2027-02-23 — 2027-02-23
+Edad: Desde 11 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Desde 11 años. Oscar: Desde 11 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2397-20270420-20270420 · L’École du Numérique · CodeGaming · CodeGaming · 2027-04-20–2027-04-20
+
+Lugar: Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+Fecha: 2027-04-20 — 2027-04-20
+Edad: Desde 11 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 60 EUR por participante y curso, con equipo proporcionado. · cargos y condiciones en la ficha
+Acceso: No se exige experiencia. Plazas limitadas, reserva con el organizador.
+Condiciones: Matvey: Desde 11 años. Oscar: Desde 11 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.lecoledunumerique.fr/activites/stages-vacances/
+Se ha comprobado: 2026-11-09
+
+### CP2398-20261222-20261222 · Musée des Arts et Métiers · Tech’exploreurs · Modelado e impresión 3D. · 2026-12-22–2026-12-22
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2026-12-22 — 2026-12-22
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
+Se ha comprobado: 2026-11-09
+
+### CP2398-20261229-20261229 · Musée des Arts et Métiers · Tech’exploreurs · Robot teledirigido y Python. · 2026-12-29–2026-12-29
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2026-12-29 — 2026-12-29
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
+Se ha comprobado: 2026-11-09
+
+### CP2398-20270209-20270209 · Musée des Arts et Métiers · Tech’exploreurs · Montaje y prueba de un mecanismo. · 2027-02-09–2027-02-09
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2027-02-09 — 2027-02-09
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
+Se ha comprobado: 2026-11-09
+
+### CP2398-20270211-20270211 · Musée des Arts et Métiers · Tech’exploreurs · IA, Python y reconocimiento de imágenes. · 2027-02-11–2027-02-11
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2027-02-11 — 2027-02-11
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
+Se ha comprobado: 2026-11-09
+
+### CP2398-20270216-20270216 · Musée des Arts et Métiers · Tech’exploreurs · IA, Python y reconocimiento de imágenes. · 2027-02-16–2027-02-16
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2027-02-16 — 2027-02-16
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
+Se ha comprobado: 2026-11-09
+
+### CP2398-20270218-20270218 · Musée des Arts et Métiers · Tech’exploreurs · Montaje y prueba de un mecanismo. · 2027-02-18–2027-02-18
+
+Lugar: Francia · Paris · Musée des Arts et Métiers
+Fecha: 2027-02-18 — 2027-02-18
+edad: Desde 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La enseñanza en inglés o español no está confirmada.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar. · cargos y condiciones en la ficha
+Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
+Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

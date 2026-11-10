@@ -97,7 +97,8 @@ current_audits = [
                  'estonia-lithuania-junior-opportunities-audit-v355.json',
                  'brazil-robotics-fairs-family-learning-audit-v356.json',
                  'mexico-robotics-tech-and-madrid-camp-audit-v357.json',
-                 'central-america-eligibility-and-chile-camps-audit-v358.json')
+                 'central-america-eligibility-and-chile-camps-audit-v358.json',
+                 'france-switzerland-family-opportunities-audit-v359.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

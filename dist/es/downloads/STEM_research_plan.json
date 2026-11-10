@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 358,
+    "prepared_ui_version": 359,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 357,
-    "previous_verified_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc"
+    "previous_verified_ui_version": 358,
+    "previous_verified_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 357,
-    "published_version": 357,
-    "latest_source_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc",
-    "published_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc",
-    "latest_workflow": 42756634618,
+    "latest_source_version": 358,
+    "published_version": 358,
+    "latest_source_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5",
+    "published_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5",
+    "latest_workflow": 42765039494,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -39171,6 +39171,103 @@
       "E328",
       "L799",
       "L956"
+    ]
+  },
+  "france_switzerland_family_opportunities_v359": {
+    "version": 359,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5467"
+    ],
+    "exhibition_ids": [
+      "E800"
+    ],
+    "learning_event_ids": [
+      "L979",
+      "L980",
+      "L981",
+      "CP2386-20270104-20270108",
+      "CP2387-20270104-20270108",
+      "CP2388-20270104-20270108",
+      "CP2389-20270104-20270108",
+      "CP2390-20270104-20270108",
+      "CP2391-20270104-20270108",
+      "CP2392-20270104-20270108",
+      "CP2393-20270104-20270108",
+      "CP2394-20270104-20270108",
+      "CP2395-20270104-20270108",
+      "CP2396-20261228-20261230",
+      "CP2396-20270215-20270217",
+      "CP2396-20270412-20270414",
+      "CP2397-20261222-20261222",
+      "CP2397-20270223-20270223",
+      "CP2397-20270420-20270420",
+      "CP2398-20261222-20261222",
+      "CP2398-20261229-20261229",
+      "CP2398-20270209-20270209",
+      "CP2398-20270211-20270211",
+      "CP2398-20270216-20270216",
+      "CP2398-20270218-20270218"
+    ],
+    "camp_dossier_ids": [
+      "CP2386",
+      "CP2387",
+      "CP2388",
+      "CP2389",
+      "CP2390",
+      "CP2391",
+      "CP2392",
+      "CP2393",
+      "CP2394",
+      "CP2395",
+      "CP2396",
+      "CP2397",
+      "CP2398"
+    ],
+    "updated_camp_dossier_ids": [
+      "CP128",
+      "CP318"
+    ],
+    "legacy_overlay_event_ids": [
+      "E394",
+      "L131"
+    ],
+    "legacy_overlay_league_ids": [],
+    "new_league_ids": [
+      "tnr-nimes"
+    ],
+    "matched_sibling_options": 5,
+    "matched_morning_options": 3,
+    "matched_full_day_options": 2,
+    "sibling_base_prices_chf": {
+      "morning": 700,
+      "full_day": 1180
+    },
+    "all_day_language_confirmed": false,
+    "puy_language_confirmed": false,
+    "techspark_lego_2027_dated": false,
+    "nimes_visitor_start_confirmed": false,
+    "uncalendared_discrepancies": [
+      {
+        "operator": "LMO Lyon",
+        "verified_sources": [
+          "https://www.lmo-lyon.com/stage-robotique-fevrier-2027",
+          "https://www.lmo-lyon.com/s/Stage-Fevrier-2027-Robotique.pdf",
+          "https://www.lmo-lyon.com/stages-robotique"
+        ],
+        "reason": "The 2027 header conflicts with the booking matrix and second-week year. No exact date or current price was exported."
+      }
+    ],
+    "alternative_official_read_urls": [
+      "https://ideatorio.usi.ch/event/ia-senza-veli",
+      "https://ideatorio.usi.ch/event/sfida-all-ia",
+      "https://ideatorio.usi.ch/event/teachable",
+      "https://ideatorio.usi.ch/event/robot-pubblico",
+      "https://www.helveticinstitute.ch/stem-summer-camp-zurich/",
+      "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-codegaming",
+      "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-vacances-robotique"
     ]
   }
 }

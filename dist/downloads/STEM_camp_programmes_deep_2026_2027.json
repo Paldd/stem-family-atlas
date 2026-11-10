@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2385,
+    "dossiers": 2398,
     "countries": 140,
-    "swiss": 153,
+    "swiss": 163,
     "by_status": {
-      "published_2026_27": 334,
-      "published_2027": 663,
+      "published_2026_27": 337,
+      "published_2027": 673,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3296
+    "source_urls": 3312
   },
   "countries": [
     {
@@ -544,7 +544,7 @@
     },
     {
       "country": "Франция",
-      "count": 147
+      "count": 150
     },
     {
       "country": "Французская Гвиана",
@@ -572,7 +572,7 @@
     },
     {
       "country": "Швейцария",
-      "count": 153
+      "count": 163
     },
     {
       "country": "Швеция",
@@ -24738,7 +24738,7 @@
       "programme": "LEGO SPIKE: двигатели, сборка, программирование и ежедневные задачи. Страница курса подтверждает 6+ и отсутствие требований к опыту; общий календарь городов не доказывает наличие LEGO в каждой смене.",
       "timing": {
         "status": "next_unannounced",
-        "label": "Даты лагерей показаны как learning options, но в прочитанных датированных меню Junior перечислены Scratch/Python, а не LEGO. Подтверждённой смены именно LEGO 2027 пока нет.",
+        "label": "LEGO Junior заявлен с 6 лет, языки EN, DE, FR зависят от группы. В меню 2027 четырёх площадок опубликованы другие курсы. Дополнительный курс может быть согласован для группы от 3 человек. Даты, преподавателя и цену LEGO подтвердить отдельно.",
         "sessions": [],
         "precision": "published_sessions"
       },
@@ -24770,9 +24770,9 @@
       ],
       "sources": [
         {
-          "title": "LEGO 6+ / Arduino 12+, оборудование",
           "url": "https://online.techsparkacademy.ch/robotics-course/",
-          "checked": "2026-10-05"
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
         },
         {
           "title": "Язык дневных курсов",
@@ -24783,9 +24783,29 @@
           "title": "In-Person cancellation",
           "url": "https://techsparkacademy.ch/terms-conditions/",
           "checked": "2026-10-05"
+        },
+        {
+          "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-09",
       "related_event_ids": [
         "L131"
       ],
@@ -50495,7 +50515,7 @@
       "formats": [
         "day"
       ],
-      "age": "Summer-таблица 4–12; вступление технического курса 7+. Группа и возраст Zug не автоматически действуют в Zürich.",
+      "age": "Техническое описание указывает 6–11 лет. Общее вступление указывает 7+, а летняя таблица 4–12. Для ребёнка 6 лет нужен ответ по группе Zürich.",
       "language": "Язык технической группы не установлен; английский сайт не является доказательством EN.",
       "confirmed_instruction_languages": [],
       "programme": "Robotics, AI & Coding по обзорной таблице. Подробный учебный план/AI-модуль Цуга не автоматически обещается другой площадке.",
@@ -50531,7 +50551,9 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "day_camp_window",
+            "age": "Техническое описание указывает 6–11 лет. Общее вступление указывает 7+, а летняя таблица 4–12. Для ребёнка 6 лет нужен ответ по группе Zürich.",
+            "date_conflict": "Страница озаглавлена Zürich, но один заголовок внутри указывает Zug. Перед поездкой подтвердить фактическую площадку и язык технической группы."
           },
           {
             "start": "2027-07-26",
@@ -50543,7 +50565,9 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "day_camp_window",
+            "age": "Техническое описание указывает 6–11 лет. Общее вступление указывает 7+, а летняя таблица 4–12. Для ребёнка 6 лет нужен ответ по группе Zürich.",
+            "date_conflict": "Страница озаглавлена Zürich, но один заголовок внутри указывает Zug. Перед поездкой подтвердить фактическую площадку и язык технической группы."
           },
           {
             "start": "2027-08-16",
@@ -50555,7 +50579,9 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "day_camp_window",
+            "age": "Техническое описание указывает 6–11 лет. Общее вступление указывает 7+, а летняя таблица 4–12. Для ребёнка 6 лет нужен ответ по группе Zürich.",
+            "date_conflict": "Страница озаглавлена Zürich, но один заголовок внутри указывает Zug. Перед поездкой подтвердить фактическую площадку и язык технической группы."
           },
           {
             "start": "2027-07-19",
@@ -50567,7 +50593,9 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "day_camp_window",
+            "age": "Техническое описание указывает 6–11 лет. Общее вступление указывает 7+, а летняя таблица 4–12. Для ребёнка 6 лет нужен ответ по группе Zürich.",
+            "date_conflict": "Страница озаглавлена Zürich, но один заголовок внутри указывает Zug. Перед поездкой подтвердить фактическую площадку и язык технической группы."
           }
         ],
         "precision": "published_sessions"
@@ -50595,16 +50623,22 @@
         "technical"
       ],
       "questions": [
-        "Получить точный адрес, возраст технического потока, EN, питание/материалы и curriculum Zürich."
+        "Получить точный адрес, возраст технического потока, EN, питание/материалы и curriculum Zürich.",
+        "Страница озаглавлена Zürich, но один заголовок внутри указывает Zug. Перед поездкой подтвердить фактическую площадку и язык технической группы."
       ],
       "sources": [
         {
           "title": "Summer 2027 · Zürich",
           "url": "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
           "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.helveticinstitute.ch/stem-summer-camp-zurich/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-09",
       "related_event_ids": [
         "L224",
         "L225",
@@ -418809,6 +418843,2403 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2386",
+      "slug": "key-english-eaux-vives-full-4-6-2027",
+      "provider": "Key English School · All Day Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Genève · Rue des Vollandes 21, 1207 Genève",
+      "age": "4–6 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели ведут игровые занятия. Язык отдельных блоков полного дня уточнить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "partial_bilingual",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Eaux-Vives · 4–6",
+            "source": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/",
+            "price": "590 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 590,
+        "unit": "per_child_course",
+        "label": "590 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхнего порога группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для Оскара подходит, если на дату начала ему 6 лет и организатор подтверждает место."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-eaux-vives",
+        "verified_source": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 590,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2386-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "partial_bilingual": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2387",
+      "slug": "key-english-meyrin-full-4-6-2027",
+      "provider": "Key English School · All Day Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin",
+      "age": "4–6 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели ведут игровые занятия. Язык отдельных блоков полного дня уточнить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "partial_bilingual",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Meyrin · 4–6",
+            "source": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/",
+            "price": "590 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 590,
+        "unit": "per_child_course",
+        "label": "590 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхнего порога группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для Оскара подходит, если на дату начала ему 6 лет и организатор подтверждает место."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-meyrin",
+        "verified_source": "https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 590,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2387-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "partial_bilingual": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2388",
+      "slug": "key-english-eaux-vives-full-7-12-2027",
+      "provider": "Key English School · All Day Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Genève · Rue des Vollandes 21, 1207 Genève",
+      "age": "7–12 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Погружение в английский утром, образовательные занятия после обеда. Язык занятий после обеда уточнить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "partial_bilingual",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Eaux-Vives · 7–12",
+            "source": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+            "price": "590 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 590,
+        "unit": "per_child_course",
+        "label": "590 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Подтвердить место и язык нужных блоков."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа с 7 лет. Если к началу смены исполнится 7, уточнить переход в старшую группу."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-eaux-vives",
+        "verified_source": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 590,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2388-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "partial_bilingual": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2389",
+      "slug": "key-english-meyrin-full-7-12-2027",
+      "provider": "Key English School · All Day Camp",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin",
+      "age": "7–12 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Погружение в английский утром, образовательные занятия после обеда. Язык занятий после обеда уточнить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "partial_bilingual",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Meyrin · 7–12",
+            "source": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/",
+            "price": "590 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 590,
+        "unit": "per_child_course",
+        "label": "590 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Подтвердить место и язык нужных блоков."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа с 7 лет. Если к началу смены исполнится 7, уточнить переход в старшую группу."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-meyrin",
+        "verified_source": "https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 590,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2389-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "partial_bilingual": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2390",
+      "slug": "key-english-eaux-vives-morning-3-6-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Genève · Rue des Vollandes 21, 1207 Genève",
+      "age": "3–6 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Eaux-Vives · 3–6",
+            "source": "https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхнего порога группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для Оскара подходит, если на дату начала ему 6 лет и организатор подтверждает место."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-eaux-vives",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2390-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2391",
+      "slug": "key-english-lausanne-morning-3-6-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Lausanne · Rue du Valentin 7, 1004 Lausanne",
+      "age": "3–6 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Lausanne · 3–6",
+            "source": "https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхнего порога группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для Оскара подходит, если на дату начала ему 6 лет и организатор подтверждает место."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-lausanne",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2391-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2392",
+      "slug": "key-english-meyrin-morning-3-6-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin",
+      "age": "3–6 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Meyrin · 3–6",
+            "source": "https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Матвей старше верхнего порога группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Для Оскара подходит, если на дату начала ему 6 лет и организатор подтверждает место."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-meyrin",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2392-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2393",
+      "slug": "key-english-eaux-vives-morning-7-12-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Genève · Rue des Vollandes 21, 1207 Genève",
+      "age": "7–12 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Eaux-Vives · 7–12",
+            "source": "https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Подтвердить место и язык нужных блоков."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа с 7 лет. Если к началу смены исполнится 7, уточнить переход в старшую группу."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-eaux-vives",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2393-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2394",
+      "slug": "key-english-lausanne-morning-7-12-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Lausanne · Rue du Valentin 7, 1004 Lausanne",
+      "age": "7–12 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Lausanne · 7–12",
+            "source": "https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Подтвердить место и язык нужных блоков."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа с 7 лет. Если к началу смены исполнится 7, уточнить переход в старшую группу."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-lausanne",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2394-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2395",
+      "slug": "key-english-meyrin-morning-7-12-2027",
+      "provider": "Key English School · Morning English",
+      "country": "Швейцария",
+      "iso": "CHE",
+      "place": "Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin",
+      "age": "7–12 лет по странице группы.",
+      "programme": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "language": "Англоязычные преподаватели и занятия на английском в течение всей утренней программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Meyrin · 7–12",
+            "source": "https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/",
+            "price": "350 CHF за ребёнка за неделю по базовому тарифу.",
+            "entry": "Дневная программа для детей школьного возраста по описанию оператора. Подтвердить точный возраст на начало смены и наличие мест.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Zurich",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T11:00:00Z",
+                "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+              }
+            ],
+            "topic": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CHF",
+        "amount": 350,
+        "unit": "per_child_course",
+        "label": "350 CHF за ребёнка за неделю по базовому тарифу.",
+        "included": "Занятия в указанные часы.",
+        "extras": "Скидка за лояльность с 3-го лагеря на ребёнка за учебный год. Скидку для братьев, питание и налоги уточнить.",
+        "deposit": "Оплата, отмена и возврат по действующим условиям оператора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Подтвердить место и язык нужных блоков."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Группа с 7 лет. Если к началу смены исполнится 7, уточнить переход в старшую группу."
+        }
+      },
+      "editorial_reason": "Дневная программа английского и игровых заданий. Конкретный технический трек в расписании не заявлен.",
+      "shortlist": [],
+      "questions": [
+        "Питание, материалы, условия отмены и возможные сборы уточнить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://key-english-school.ch/camps/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "pairing": {
+        "venue_id": "key-english-meyrin",
+        "verified_source": "https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/",
+        "checked": "2026-11-09",
+        "fee": {
+          "amount": 350,
+          "currency": "CHF",
+          "unit": "per_child_course",
+          "tax_included": false
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2395-20270104-20270108"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2396",
+      "slug": "campus26-puy-robotique-2026-27",
+      "provider": "L’École du Numérique · Robotique",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France",
+      "age": "8–14 лет.",
+      "programme": "Робототехника. Практика сборки и программирования по школьному клубному формату.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "language": "Английский и испанский языки преподавания не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-17"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Robotique",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T13:30:00Z",
+                "end_utc": "2026-12-28T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T13:30:00Z",
+                "end_utc": "2026-12-29T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T13:30:00Z",
+                "end_utc": "2026-12-30T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              }
+            ],
+            "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-17",
+            "label": "Robotique",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T13:30:00Z",
+                "end_utc": "2027-02-15T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T13:30:00Z",
+                "end_utc": "2027-02-16T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T13:30:00Z",
+                "end_utc": "2027-02-17T15:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              }
+            ],
+            "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+          },
+          {
+            "start": "2027-04-12",
+            "end": "2027-04-14",
+            "label": "Robotique",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-04-12",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-04-12T12:30:00Z",
+                "end_utc": "2027-04-12T14:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2027-04-13",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-04-13T12:30:00Z",
+                "end_utc": "2027-04-13T14:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              },
+              {
+                "date": "2027-04-14",
+                "start_time": "14:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-04-14T12:30:00Z",
+                "end_utc": "2027-04-14T14:30:00Z",
+                "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+              }
+            ],
+            "topic": "Робототехника. Практика сборки и программирования по школьному клубному формату."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": "2026/27",
+        "currency": "EUR",
+        "amount": 60,
+        "unit": "per_child_course",
+        "label": "60 EUR за участника за курс, оборудование предоставляется.",
+        "included": "Занятия и оборудование.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит по возрасту. Сверить язык и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Курс с 8 лет."
+        }
+      },
+      "editorial_reason": "Робототехника. Практика сборки и программирования по школьному клубному формату.",
+      "shortlist": [],
+      "questions": [
+        "Сверить язык преподавателя, место и условия бронирования."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-vacances-robotique",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2396-20261228-20261230"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2396-20270215-20270217"
+          ]
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2396-20270412-20270414"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2397",
+      "slug": "campus26-puy-codegaming-2026-27",
+      "provider": "L’École du Numérique · CodeGaming",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France",
+      "age": "От 11 лет.",
+      "programme": "Создание видеоигр. Два блока в день с перерывом между ними.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "gaming",
+        "coding"
+      ],
+      "language": "Английский и испанский языки преподавания не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2027-02-23",
+            "2027-02-23"
+          ],
+          [
+            "2027-04-20",
+            "2027-04-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "CodeGaming",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T11:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T13:00:00Z",
+                "end_utc": "2026-12-22T16:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              }
+            ],
+            "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+          },
+          {
+            "start": "2027-02-23",
+            "end": "2027-02-23",
+            "label": "CodeGaming",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T08:00:00Z",
+                "end_utc": "2027-02-23T11:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T13:00:00Z",
+                "end_utc": "2027-02-23T16:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              }
+            ],
+            "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+          },
+          {
+            "start": "2027-04-20",
+            "end": "2027-04-20",
+            "label": "CodeGaming",
+            "source": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+            "price": "60 EUR за участника за курс, оборудование предоставляется.",
+            "entry": "Опыт не требуется. Места ограничены, бронирование у организатора.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-04-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-04-20T07:00:00Z",
+                "end_utc": "2027-04-20T10:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              },
+              {
+                "date": "2027-04-20",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-04-20T12:00:00Z",
+                "end_utc": "2027-04-20T15:00:00Z",
+                "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+              }
+            ],
+            "topic": "Создание видеоигр. Два блока в день с перерывом между ними."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": "2026/27",
+        "currency": "EUR",
+        "amount": 60,
+        "unit": "per_child_course",
+        "label": "60 EUR за участника за курс, оборудование предоставляется.",
+        "included": "Занятия и оборудование.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "От 11 лет."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "От 11 лет."
+        }
+      },
+      "editorial_reason": "Создание видеоигр. Два блока в день с перерывом между ними.",
+      "shortlist": [],
+      "questions": [
+        "Сверить язык преподавателя, место и условия бронирования."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lecoledunumerique.fr/activites/stages-vacances/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-codegaming",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2397-20261222-20261222"
+          ]
+        },
+        {
+          "start": "2027-02-23",
+          "end": "2027-02-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2397-20270223-20270223"
+          ]
+        },
+        {
+          "start": "2027-04-20",
+          "end": "2027-04-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2397-20270420-20270420"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2398",
+      "slug": "arts-et-metiers-techexploreurs-2026-27",
+      "provider": "Musée des Arts et Métiers · Tech’exploreurs",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Paris · Musée des Arts et Métiers",
+      "age": "От 12 лет.",
+      "programme": "Музейные технические мастерские. Темы различаются по дате.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "ai",
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "language": "Английский и испанский языки преподавания не подтверждены.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневные занятия без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Точные дни и часы опубликованы организатором. Наличие мест подтвердить.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2027-02-09",
+            "2027-02-09"
+          ],
+          [
+            "2027-02-11",
+            "2027-02-11"
+          ],
+          [
+            "2027-02-16",
+            "2027-02-16"
+          ],
+          [
+            "2027-02-18",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Моделирование и печать 3D.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T13:00:00Z",
+                "end_utc": "2026-12-22T16:00:00Z",
+                "topic": "Моделирование и печать 3D."
+              }
+            ],
+            "topic": "Моделирование и печать 3D.",
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ],
+            "admission_kind": "program"
+          },
+          {
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Дистанционно управляемый робот и Python.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T13:00:00Z",
+                "end_utc": "2026-12-29T16:00:00Z",
+                "topic": "Дистанционно управляемый робот и Python."
+              }
+            ],
+            "topic": "Дистанционно управляемый робот и Python.",
+            "catalog_themes": [
+              "robotics",
+              "coding"
+            ],
+            "admission_kind": "program"
+          },
+          {
+            "start": "2027-02-09",
+            "end": "2027-02-09",
+            "label": "Сборка и испытание механизма.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-09",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T13:00:00Z",
+                "end_utc": "2027-02-09T16:00:00Z",
+                "topic": "Сборка и испытание механизма."
+              }
+            ],
+            "topic": "Сборка и испытание механизма.",
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ],
+            "admission_kind": "program"
+          },
+          {
+            "start": "2027-02-11",
+            "end": "2027-02-11",
+            "label": "ИИ, Python и распознавание изображений.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-11",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T13:00:00Z",
+                "end_utc": "2027-02-11T16:00:00Z",
+                "topic": "ИИ, Python и распознавание изображений."
+              }
+            ],
+            "topic": "ИИ, Python и распознавание изображений.",
+            "catalog_themes": [
+              "ai",
+              "coding"
+            ],
+            "admission_kind": "program"
+          },
+          {
+            "start": "2027-02-16",
+            "end": "2027-02-16",
+            "label": "ИИ, Python и распознавание изображений.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-16",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T13:00:00Z",
+                "end_utc": "2027-02-16T16:00:00Z",
+                "topic": "ИИ, Python и распознавание изображений."
+              }
+            ],
+            "topic": "ИИ, Python и распознавание изображений.",
+            "catalog_themes": [
+              "ai",
+              "coding"
+            ],
+            "admission_kind": "program"
+          },
+          {
+            "start": "2027-02-18",
+            "end": "2027-02-18",
+            "label": "Сборка и испытание механизма.",
+            "source": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+            "price": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+            "entry": "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-18",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T13:00:00Z",
+                "end_utc": "2027-02-18T16:00:00Z",
+                "topic": "Сборка и испытание механизма."
+              }
+            ],
+            "topic": "Сборка и испытание механизма.",
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ],
+            "admission_kind": "program"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": "2026/27",
+        "currency": "EUR",
+        "amount": 60,
+        "unit": "unknown",
+        "label": "Музей указывает тариф 60 EUR. Условия для выбранной даты сверить при бронировании.",
+        "included": "Уточнить у организатора.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "От 12 лет."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "От 12 лет."
+        }
+      },
+      "editorial_reason": "Музейные технические мастерские. Темы различаются по дате.",
+      "shortlist": [],
+      "questions": [
+        "Обязательны онлайн-бронирование и разрешение родителя. Приход за 15 минут."
+      ],
+      "sources": [
+        {
+          "url": "https://www.arts-et-metiers.net/musee/stage-techexploreurs",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20261222-20261222"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20261229-20261229"
+          ]
+        },
+        {
+          "start": "2027-02-09",
+          "end": "2027-02-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20270209-20270209"
+          ]
+        },
+        {
+          "start": "2027-02-11",
+          "end": "2027-02-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20270211-20270211"
+          ]
+        },
+        {
+          "start": "2027-02-16",
+          "end": "2027-02-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20270216-20270216"
+          ]
+        },
+        {
+          "start": "2027-02-18",
+          "end": "2027-02-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2398-20270218-20270218"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -437369,7 +439800,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2385,
+      "total_dossiers": 2398,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -463209,6 +465640,116 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2386",
+      "event_id": "CP2386-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2387",
+      "event_id": "CP2387-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2388",
+      "event_id": "CP2388-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2389",
+      "event_id": "CP2389-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2390",
+      "event_id": "CP2390-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2391",
+      "event_id": "CP2391-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2392",
+      "event_id": "CP2392-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2393",
+      "event_id": "CP2393-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2394",
+      "event_id": "CP2394-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2395",
+      "event_id": "CP2395-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2396",
+      "event_id": "CP2396-20261228-20261230",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2396",
+      "event_id": "CP2396-20270215-20270217",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2396",
+      "event_id": "CP2396-20270412-20270414",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2397",
+      "event_id": "CP2397-20261222-20261222",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2397",
+      "event_id": "CP2397-20270223-20270223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2397",
+      "event_id": "CP2397-20270420-20270420",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20261222-20261222",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20261229-20261229",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20270209-20270209",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20270211-20270211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20270216-20270216",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2398",
+      "event_id": "CP2398-20270218-20270218",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -468470,10 +471011,32 @@
     "CP2384-20261223-20270108-single-day",
     "CP2385-20270103-20270108",
     "CP2385-20270124-20270129",
-    "CP2385-20270214-20270219"
+    "CP2385-20270214-20270219",
+    "CP2386-20270104-20270108",
+    "CP2387-20270104-20270108",
+    "CP2388-20270104-20270108",
+    "CP2389-20270104-20270108",
+    "CP2390-20270104-20270108",
+    "CP2391-20270104-20270108",
+    "CP2392-20270104-20270108",
+    "CP2393-20270104-20270108",
+    "CP2394-20270104-20270108",
+    "CP2395-20270104-20270108",
+    "CP2396-20261228-20261230",
+    "CP2396-20270215-20270217",
+    "CP2396-20270412-20270414",
+    "CP2397-20261222-20261222",
+    "CP2397-20270223-20270223",
+    "CP2397-20270420-20270420",
+    "CP2398-20261222-20261222",
+    "CP2398-20261229-20261229",
+    "CP2398-20270209-20270209",
+    "CP2398-20270211-20270211",
+    "CP2398-20270216-20270216",
+    "CP2398-20270218-20270218"
   ],
   "integration": {
-    "generated_sessions": 4851,
+    "generated_sessions": 4873,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

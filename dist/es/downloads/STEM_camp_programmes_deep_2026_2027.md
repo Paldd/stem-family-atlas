@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2385 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2398 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -15842,7 +15842,7 @@ Suiza · Pully / Petit-Lancy / Zürich / Zug
 
 - Acuerdo sobre la zona específica de la misión LEGO
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-09
 
 ** Edad:** 6+ en la descripción de LEGO Junior; Arduino ○ curso 12+
 
@@ -15852,7 +15852,7 @@ Suiza · Pully / Petit-Lancy / Zürich / Zug
 
 ** Residencia:** Campamento diurno; alojamiento familiar y escolta fuera del campamento.
 
-**Fechas / situación:** Las fechas de los campamentos se muestran como learning options, pero en menús de fecha Junior Lista Scratch/Python, No LEGO. El turno confirmado, exactamente. LEGO 2027 Todavía no..
+**Fechas / estado:** LEGO Junior se ofrece desde 6 años y los idiomas EN, DE, FR dependen del grupo. Los menús de 2027 de cuatro sedes publican otros cursos. Puede concertarse un curso adicional para grupos de 3 personas o más. Confirme fechas, docente y precio de LEGO por separado.
 
 **Precio / año:** No se ha establecido · El resultado exacto LEGO Desconocido. General junior-aranceles CHF 645–890 No creemos que esté confirmada. LEGO-Precio.
 
@@ -15934,11 +15934,19 @@ Un curso de robótica de primer año, y todavía se necesita un turno en inglés
 
 ### Fuentes
 
-- [LEGO 6+ / Arduino 12+, equipo](https://online.techsparkacademy.ch/robotics-course/) · 2026-10-05
+- [Página oficial del organizador o condiciones de entrada.](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-09
 
 - [el idioma de los cursos diurnos](https://techsparkacademy.ch/in-person-camps/) · 2026-10-05
 
 - [In-Person cancellation](https://techsparkacademy.ch/terms-conditions/) · 2026-10-05
+
+- [Página oficial del organizador o condiciones de entrada.](https://leman.techsparkacademy.ch/lausanne-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://leman.techsparkacademy.ch/geneva-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://zurich.techsparkacademy.ch/zurich-day-camps/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://zurich.techsparkacademy.ch/zug-day-camps/) · 2026-11-09
 
 ## CP129 · Lyceum Alpinum Zuoz · Digital Skills Boarding
 
@@ -28514,9 +28522,9 @@ Suiza - Zug; confirmar el lugar exacto del turno de verano
 
 Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-09
 
-**Edad:** Summer-tabla 4–12; Introducción del curso técnico 7+. Grupo y edad Zug no se activa automáticamente en Zürich.
+**Edad:** La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
 
 ** Idioma: ** No se ha establecido el idioma del grupo técnico; el sitio en inglés no es prueba de EN.
 
@@ -28544,11 +28552,15 @@ Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 
 - obtener la dirección exacta, la edad del flujo técnico, el EN, la alimentación/materiales y el currículo de Zürich.
 
+- La página se titula Zürich, pero un encabezado interior indica Zug. Antes del viaje confirme la sede efectiva y el idioma del grupo técnico.
+
 ### la semana 1
 
 **Fechas / estado:** 2027-07-19 — 2027-07-23
 
 **lugar:** Zürich · Römerhof; el domicilio y el flujo técnico de edad confirmar
+
+**Edad:** La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
 
 **Precio:** CHF 730
 
@@ -28560,6 +28572,8 @@ Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 
 **lugar:** Zürich · Römerhof; el domicilio y el flujo técnico de edad confirmar
 
+**Edad:** La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
+
 **Precio:** CHF 730
 
 [fuente](https://www.helveticinstitute.ch/robotics-ai-and-coding/)
@@ -28569,6 +28583,8 @@ Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 **Fechas / estado:** 2027-08-16 — 2027-08-20
 
 **lugar:** Zürich · Römerhof; el domicilio y el flujo técnico de edad confirmar
+
+**Edad:** La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
 
 **Precio:** CHF 730
 
@@ -28580,6 +28596,8 @@ Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 
 **lugar:** Zürich · Römerhof; el domicilio y el flujo técnico de edad confirmar
 
+**Edad:** La descripción técnica indica 6–11 años. La introducción general indica 7+ y la tabla de verano 4–12. Para un niño de 6 años se necesita confirmar el grupo de Zürich.
+
 **Precio:** CHF 1 460
 
 [fuente](https://www.helveticinstitute.ch/robotics-ai-and-coding/)
@@ -28587,6 +28605,8 @@ Suiza · Zürich · Römerhof; dirección y edad de la técnica de confirmación
 ### Fuentes
 
 - [Summer 2027 · Zürich](https://www.helveticinstitute.ch/robotics-ai-and-coding/) · 2026-10-05
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.helveticinstitute.ch/stem-summer-camp-zurich/) · 2026-11-09
 
 ## CP319 · Babel School · English holiday camps
 
@@ -187269,6 +187289,886 @@ Chile · Pelarco/Maule, Chile
 - [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/dates-and-rates) · 2026-11-09
 
 - [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/refund-policy) · 2026-11-09
+
+## CP2386 · Key English School · All Day Camp
+
+Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 4–6 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos dirigen actividades lúdicas. Confirme el idioma de cada bloque de la jornada completa.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 590 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Matvey supera el límite de edad del grupo.
+
+**Oscar:** Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Eaux-Vives · 4–6
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 590 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/all-day-camp-4-6-ans-eaux-vives-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2387 · Key English School · All Day Camp
+
+Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 4–6 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos dirigen actividades lúdicas. Confirme el idioma de cada bloque de la jornada completa.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 590 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Matvey supera el límite de edad del grupo.
+
+**Oscar:** Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Meyrin · 4–6
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 590 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/all-day-camp-4-6-ans-meyrin-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2388 · Key English School · All Day Camp
+
+Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 7–12 años según la página del grupo.
+
+**Idioma:** Inmersión en inglés por la mañana y actividades educativas por la tarde. Confirme el idioma de las actividades de la tarde.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 590 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Cumple por edad. Confirme plaza e idioma de los bloques elegidos.
+
+**Oscar:** Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Eaux-Vives · 7–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 590 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/all-day-camp-7-12-ans-eaux-vives-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2389 · Key English School · All Day Camp
+
+Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 7–12 años según la página del grupo.
+
+**Idioma:** Inmersión en inglés por la mañana y actividades educativas por la tarde. Confirme el idioma de las actividades de la tarde.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 590 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Cumple por edad. Confirme plaza e idioma de los bloques elegidos.
+
+**Oscar:** Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Meyrin · 7–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 590 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–17:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/all-day-camp-7-12-ans-meyrin-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2390 · Key English School · Morning English
+
+Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 3–6 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Matvey supera el límite de edad del grupo.
+
+**Oscar:** Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Eaux-Vives · 3–6
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-3-6-ans-eaux-vives-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2391 · Key English School · Morning English
+
+Suiza · Lausanne · Rue du Valentin 7, 1004 Lausanne
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 3–6 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Matvey supera el límite de edad del grupo.
+
+**Oscar:** Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Lausanne · 3–6
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-3-6-ans-lausanne-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2392 · Key English School · Morning English
+
+Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 3–6 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Matvey supera el límite de edad del grupo.
+
+**Oscar:** Adecuado para Oscar si tiene 6 años al inicio y el organizador confirma plaza.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Meyrin · 3–6
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-3-6-ans-meyrin-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2393 · Key English School · Morning English
+
+Suiza · Genève · Rue des Vollandes 21, 1207 Genève
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 7–12 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Cumple por edad. Confirme plaza e idioma de los bloques elegidos.
+
+**Oscar:** Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Eaux-Vives · 7–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-7-12-ans-eaux-vives-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2394 · Key English School · Morning English
+
+Suiza · Lausanne · Rue du Valentin 7, 1004 Lausanne
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 7–12 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Cumple por edad. Confirme plaza e idioma de los bloques elegidos.
+
+**Oscar:** Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Lausanne · 7–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-7-12-ans-lausanne-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2395 · Key English School · Morning English
+
+Suiza · Meyrin · Prom. des Champs-Fréchets 32, 1217 Meyrin
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 7–12 años según la página del grupo.
+
+**Idioma:** Docentes anglófonos y actividades en inglés durante todo el programa matutino.
+
+**Programa:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2027 · 350 CHF por niño y semana según la tarifa base.
+
+**Incluye:** Actividades en el horario indicado.
+
+**Cargos extra:** Descuento de fidelidad desde el 3.er campamento por niño durante el curso escolar. Confirme descuento para hermanos, comidas e impuestos.
+
+**Pago:** Pago, cancelación y devolución según las condiciones vigentes del operador.
+
+**Matvey:** Cumple por edad. Confirme plaza e idioma de los bloques elegidos.
+
+**Oscar:** Grupo desde 7 años. Si cumple 7 al inicio, consulte el paso al grupo mayor.
+
+**Motivo de selección:** Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+### Antes de solicitar plaza
+
+- Consulte con el operador comidas, materiales, cancelación y posibles cargos.
+
+### Meyrin · 7–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** 350 CHF por niño y semana según la tarifa base.
+
+**Condiciones de participación:** Programa de día para niños escolarizados según el operador. Confirme la edad exacta al inicio y las plazas.
+
+- 2027-01-04 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-05 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-06 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-07 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+- 2027-01-08 · 09:00–12:00 · Europe/Zurich · Programa diurno de inglés y actividades lúdicas. El horario no anuncia una vía técnica específica.
+
+[fuente](https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/morning-english-7-12-ans-meyrin-du-04-au-08-janvier/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://key-english-school.ch/camps/) · 2026-11-09
+
+## CP2396 · L’École du Numérique · Robotique
+
+Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–14 años.
+
+**Idioma:** La enseñanza en inglés o español no está confirmada.
+
+**Programa:** Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2026/27 · 60 EUR por participante y curso, con equipo proporcionado.
+
+**Incluye:** Actividades y equipo.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Cumple por edad. Confirme idioma y plaza.
+
+**Oscar:** Curso desde 8 años.
+
+**Motivo de selección:** Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+### Antes de solicitar plaza
+
+- Confirme el idioma del docente, la plaza y las condiciones de reserva.
+
+### Robotique
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2026-12-28 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2026-12-29 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2026-12-30 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### Robotique
+
+**Fechas / estado:** 2027-02-15 — 2027-02-17
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2027-02-15 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2027-02-16 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2027-02-17 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### Robotique
+
+**Fechas / estado:** 2027-04-12 — 2027-04-14
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2027-04-12 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2027-04-13 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+- 2027-04-14 · 14:30–16:30 · Europe/Paris · Robótica. Práctica de montaje y programación con el formato del club escolar.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.lecoledunumerique.fr/activites/stages-vacances/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-vacances-robotique) · 2026-11-09
+
+## CP2397 · L’École du Numérique · CodeGaming
+
+Francia · Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de France
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Desde 11 años.
+
+**Idioma:** La enseñanza en inglés o español no está confirmada.
+
+**Programa:** Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2026/27 · 60 EUR por participante y curso, con equipo proporcionado.
+
+**Incluye:** Actividades y equipo.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Desde 11 años.
+
+**Oscar:** Desde 11 años.
+
+**Motivo de selección:** Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+### Antes de solicitar plaza
+
+- Confirme el idioma del docente, la plaza y las condiciones de reserva.
+
+### CodeGaming
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2026-12-22 · 09:00–12:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+- 2026-12-22 · 14:00–17:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### CodeGaming
+
+**Fechas / estado:** 2027-02-23 — 2027-02-23
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2027-02-23 · 09:00–12:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+- 2027-02-23 · 14:00–17:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### CodeGaming
+
+**Fechas / estado:** 2027-04-20 — 2027-04-20
+
+**Precio:** 60 EUR por participante y curso, con equipo proporcionado.
+
+**Condiciones de participación:** No se exige experiencia. Plazas limitadas, reserva con el organizador.
+
+- 2027-04-20 · 09:00–12:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+- 2027-04-20 · 14:00–17:00 · Europe/Paris · Creación de videojuegos. Dos bloques en el día con una pausa entre ellos.
+
+[fuente](https://www.lecoledunumerique.fr/activites/stages-vacances/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.lecoledunumerique.fr/activites/stages-vacances/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-codegaming) · 2026-11-09
+
+## CP2398 · Musée des Arts et Métiers · Tech’exploreurs
+
+Francia · Paris · Musée des Arts et Métiers
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Desde 12 años.
+
+**Idioma:** La enseñanza en inglés o español no está confirmada.
+
+**Programa:** Talleres técnicos del museo. Los temas varían según la fecha.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** El organizador publicó días y horas exactos. Confirme plazas.
+
+**Precio / año:** 2026/27 · El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Incluye:** Consulte al organizador.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Desde 12 años.
+
+**Oscar:** Desde 12 años.
+
+**Motivo de selección:** Talleres técnicos del museo. Los temas varían según la fecha.
+
+### Antes de solicitar plaza
+
+- Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+### Modelado e impresión 3D.
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2026-12-22 · 14:00–17:00 · Europe/Paris · Modelado e impresión 3D.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### Robot teledirigido y Python.
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2026-12-29 · 14:00–17:00 · Europe/Paris · Robot teledirigido y Python.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### Montaje y prueba de un mecanismo.
+
+**Fechas / estado:** 2027-02-09 — 2027-02-09
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2027-02-09 · 14:00–17:00 · Europe/Paris · Montaje y prueba de un mecanismo.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### IA, Python y reconocimiento de imágenes.
+
+**Fechas / estado:** 2027-02-11 — 2027-02-11
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2027-02-11 · 14:00–17:00 · Europe/Paris · IA, Python y reconocimiento de imágenes.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### IA, Python y reconocimiento de imágenes.
+
+**Fechas / estado:** 2027-02-16 — 2027-02-16
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2027-02-16 · 14:00–17:00 · Europe/Paris · IA, Python y reconocimiento de imágenes.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### Montaje y prueba de un mecanismo.
+
+**Fechas / estado:** 2027-02-18 — 2027-02-18
+
+**Precio:** El museo indica una tarifa de 60 EUR. Confirme las condiciones para la fecha elegida al reservar.
+
+**Condiciones de participación:** Son obligatorias la reserva en línea y la autorización parental. Llegue 15 minutos antes.
+
+- 2027-02-18 · 14:00–17:00 · Europe/Paris · Montaje y prueba de un mecanismo.
+
+[fuente](https://www.arts-et-metiers.net/musee/stage-techexploreurs)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.arts-et-metiers.net/musee/stage-techexploreurs) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

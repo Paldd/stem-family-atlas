@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В v359 добавлены турнир и семейное посещение в Milhaud, выставочные мастерские в Кадро, зимние смены Key English School и технические программы во Франции. Пять вариантов для братьев имеют общую площадку и часы. [Аудит источников](data/france-switzerland-family-opportunities-audit-v359.json)
+
 В данных v358 разведены расходящиеся условия Matenciar, уточнён местный набор NASA Space Apps Cartago, добавлены архивы Tecnikids, JovenTech и Hackathon Nicaragua. Для Camp Mákemáke обновлены тарифы и транспорт, добавлен старший трек наставников. [Аудит источников](data/central-america-eligibility-and-chile-camps-audit-v358.json)
 
 В данных v357 уточнено расписание RoboJam Norestense, добавлены робототехника, ИИ и видеоигры в программе Сакатекаса, Datostada, школьные маршруты Formula 1 и семь дней зимнего лагеря Zoo Aquarium Madrid. [Аудит источников](data/mexico-robotics-tech-and-madrid-camp-audit-v357.json)
