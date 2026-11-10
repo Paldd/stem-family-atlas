@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12685. Competiciones: 5580. Eventos: 877. Campamentos o programas: 6228. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 769. Se cuentan ediciones y sedes.
+Fichas en la base: 12697. Competiciones: 5583. Eventos: 879. Campamentos o programas: 6235. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 771. Se cuentan ediciones y sedes.
 
 Hay fichas concretas para 245 de 249 países y territorios. Países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay fichas concretas para 245 de 249 países y territorios. Países auditados po
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2251 | 199 | 1587 |
-| América del Sur | 15 | 509 | 63 | 299 |
+| América del Sur | 15 | 509 | 65 | 306 |
 | Europa | 55 | 796 | 189 | 1809 |
 | África | 61 | 293 | 52 | 167 |
-| Asia | 51 | 1301 | 216 | 1935 |
+| Asia | 51 | 1304 | 216 | 1935 |
 | Oceanía | 28 | 185 | 48 | 416 |
 
 Fichas interregionales o globales sin continente asignado: 267. América del Norte incluye América Central y el Caribe. Las cifras reflejan el inventario de la base.
 
-VEX: 821 de 5580 fichas de competiciones (14.7%). La cobertura está desequilibrada.
+VEX: 821 de 5583 fichas de competiciones (14.7%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -1210,6 +1210,8 @@ VEX: 821 de 5580 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **Pinetree Tours · Stargazing Experience** — Isla Norfolk; fecha sin confirmar. Con un adulto. Consulte las condiciones de acceso. https://www.pinetreetours.com/stargazingexperience
 - **Dark Sky Week 2027 · Brisbane** — Isla Norfolk; 2027-04-06 – 2027-04-13. Confirme el acceso infantil. https://norfolkislandtravel.co/stargazing-with-dave/
 - **Dark Sky Week 2027 · Sydney** — Isla Norfolk; 2027-04-14 – 2027-04-21. Confirme el acceso infantil. https://norfolkislandtravel.co/stargazing-with-dave/
+- **SOMOS UFRO 2026 · Feria de Investigación y Encuentro de Innovación** — Chile; 2026-11-12 – 2026-11-13. Con un adulto. Consulte las condiciones de acceso. https://vrip.ufro.cl/investigacion-2/universidad-de-la-frontera-invita-a-la-comunidad-a-somos-ufro-2026-el-mayor-evento-de-divulgacion-cientifica-del-sur-de-chile/
+- **Ciencia Sin Ficción 8 · Copiapó** — Chile; 2026-11-17 – 2026-11-18. Confirme el acceso infantil. https://cienciasinficcion.cl/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

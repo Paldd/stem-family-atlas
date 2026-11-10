@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 386,
+    "prepared_ui_version": 387,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 385,
-    "previous_verified_commit": "ed75a1fa0e555d4e19fbdb1867ba978fa4b9217c",
-    "previous_working_ui_version": 385
+    "previous_verified_ui_version": 386,
+    "previous_verified_commit": "861c6fa88e6fbbeb7b36b96f2a59b0ccf9b5ca24",
+    "previous_working_ui_version": 386
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41829,6 +41829,39 @@
       "brazil_dossier": "CP2553",
       "brazil_start": "2027-01-11",
       "brazil_end_unknown": true
+    }
+  },
+  "codi_arena_and_chile_family_programmes_v387": {
+    "version": 387,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 386,
+      "commit": "861c6fa88e6fbbeb7b36b96f2a59b0ccf9b5ca24",
+      "workflow": 42881894735
+    },
+    "codi_arena": {
+      "event_ids": [
+        "C5582",
+        "C5583",
+        "C5584"
+      ],
+      "all_divisions_full": true,
+      "individual": true,
+      "next_season_unannounced": true
+    },
+    "chile": {
+      "public_ai_and_engineering_fair": "E878",
+      "science_festival": "E879",
+      "refreshed_qualifier": "C808",
+      "camp_dossiers": [
+        "CP2554",
+        "CP2555",
+        "CP2556"
+      ],
+      "summer_camp_tracks": 7,
+      "mixed_sibling_rate_unconfirmed": true
     }
   }
 }

@@ -98438,6 +98438,118 @@ Restricciones: Matvey: Se requiere inscripción previa. Confirme los días dispo
 Fuente: https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/
 Verificado: 2026-11-10
 
+### CP2554-20270104-20270108 · Colegio del Bosque · Talleres de Verano · Semana 1 · programa diurno · 2027-01-04–2027-01-08
+
+Lugar: Chile · Isla Teja, Valdivia
+Fecha: 2027-01-04 — 2027-01-08
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2554-20270111-20270115 · Colegio del Bosque · Talleres de Verano · Semana 2 · programa diurno · 2027-01-11–2027-01-15
+
+Lugar: Chile · Isla Teja, Valdivia
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2554-20270118-20270122 · Colegio del Bosque · Talleres de Verano · Semana 3 · programa diurno · 2027-01-18–2027-01-22
+
+Lugar: Chile · Isla Teja, Valdivia
+Fecha: 2027-01-18 国 2027-01-22
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2555-20270104-20270115 · Colegio del Bosque · Oncol 9–10 años · Dos semanas con salida a Oncol · 2027-01-04–2027-01-15
+
+Lugar: Chile · Isla Teja / Parque Oncol
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 9–10 años al 4 de enero de 2027.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2555-20270104-20270108 · Colegio del Bosque · Oncol 9–10 años · Primera semana sin pernocta · 2027-01-04–2027-01-08
+
+Lugar: Chile · Isla Teja, Valdivia
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9–10 años al 4 de enero de 2027.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2556-20270104-20270115 · Colegio del Bosque · Oncol 11–13 años · Dos semanas con salida a Oncol · 2027-01-04–2027-01-15
+
+Lugar: Chile · Isla Teja / Parque Oncol
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 11–13 años al 4 de enero de 2027.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: Por debajo del grupo de edad publicado. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2556-20270104-20270108 · Colegio del Bosque · Oncol 11–13 años · Primera semana sin pernocta · 2027-01-04–2027-01-08
+
+Lugar: Chile · Isla Teja, Valdivia
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 11–13 años al 4 de enero de 2027.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse. · suplementos y condiciones en la ficha
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Restricciones: Matvey: Por debajo del grupo de edad publicado. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

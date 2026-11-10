@@ -1,0 +1,33 @@
+{
+  "version": 387,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 386,
+    "commit": "861c6fa88e6fbbeb7b36b96f2a59b0ccf9b5ca24",
+    "workflow": 42881894735
+  },
+  "codi_arena": {
+    "event_ids": [
+      "C5582",
+      "C5583",
+      "C5584"
+    ],
+    "all_divisions_full": true,
+    "individual": true,
+    "next_season_unannounced": true
+  },
+  "chile": {
+    "public_ai_and_engineering_fair": "E878",
+    "science_festival": "E879",
+    "refreshed_qualifier": "C808",
+    "camp_dossiers": [
+      "CP2554",
+      "CP2555",
+      "CP2556"
+    ],
+    "summer_camp_tracks": 7,
+    "mixed_sibling_rate_unconfirmed": true
+  }
+}

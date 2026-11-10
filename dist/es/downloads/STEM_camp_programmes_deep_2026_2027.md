@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2553 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2556 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -200441,6 +200441,210 @@ Brasil · Porto Alegre · MCT PUCRS
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/) · 2026-11-10
+
+## CP2554 · Colegio del Bosque · Talleres de Verano
+
+Chile · Sector Isla Teja, Valdivia. No se ha anunciado la dirección exacta de las actividades diurnas.
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupos diurnos de 4–6 y 7–8 años.
+
+**Idioma:** Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+
+**Programa:** Juego, construcción, salidas y exploración de la naturaleza. Los grupos de 4–6 y 7–8 años se asignan por edad al inicio.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Semanas diurnas a elegir en enero de 2027. No se publican los horarios de cada grupo.
+
+**Precio / año:** 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño.
+
+**Incluido:** Semanas diurnas a elegir en enero de 2027. No se publican los horarios de cada grupo.
+
+**Suplementos:** Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento.
+
+**Pago:** CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+
+**Matvey:** Para 9–10 años hay una opción distinta con campamento.
+
+**Oscar:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+**Motivo de selección:** Juego, construcción, salidas y exploración de la naturaleza. Los grupos de 4–6 y 7–8 años se asignan por edad al inicio.
+
+### Antes de solicitar plaza
+
+- La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+- Confirme la plaza y todas las condiciones antes de abonar la reserva.
+
+### Semana 1 · programa diurno
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Isla Teja, Valdivia
+
+**Precio:** CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Semana 2 · programa diurno
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** Isla Teja, Valdivia
+
+**Precio:** CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Semana 3 · programa diurno
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Lugar:** Isla Teja, Valdivia
+
+**Precio:** CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.colegiodelbosque.cl/talleres-de-verano) · 2026-11-10
+
+## CP2555 · Colegio del Bosque · Oncol 9–10 años
+
+Chile · Valdivia · Isla Teja / Parque Oncol
+
+**Verificado:** 2026-11-10
+
+**Edad:** 9–10 años al 4 de enero de 2027.
+
+**Idioma:** Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+
+**Programa:** Campamento en un parque natural con una semana diurna de preparación. La primera semana se puede elegir por separado.
+
+**Alojamiento:** Preparación del 4–8 de enero de 2027. Salida del 12–14 de enero, 2 noches. Consulte horarios y días fuera de esas fases.
+
+**Fechas / estado:** Preparación del 4–8 de enero de 2027. Salida del 12–14 de enero, 2 noches. Consulte horarios y días fuera de esas fases.
+
+**Precio / año:** 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno.
+
+**Incluido:** Transporte de ida y vuelta de Club del Bosque a Parque Oncol, desayunos, colaciones, entrada y zona de camping.
+
+**Suplementos:** La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos.
+
+**Pago:** CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+
+**Matvey:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+**Oscar:** Por debajo del grupo de edad publicado.
+
+**Motivo de selección:** Campamento en un parque natural con una semana diurna de preparación. La primera semana se puede elegir por separado.
+
+### Antes de solicitar plaza
+
+- La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+- Confirme la plaza y todas las condiciones antes de abonar la reserva.
+
+### Dos semanas con salida a Oncol
+
+**Fechas / estado:** 2027-01-04 — 2027-01-15
+
+**Lugar:** Isla Teja / Parque Oncol
+
+**Precio:** CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Primera semana sin pernocta
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Isla Teja, Valdivia
+
+**Precio:** Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.colegiodelbosque.cl/talleres-de-verano) · 2026-11-10
+
+## CP2556 · Colegio del Bosque · Oncol 11–13 años
+
+Chile · Valdivia · Isla Teja / Parque Oncol
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–13 años al 4 de enero de 2027.
+
+**Idioma:** Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+
+**Programa:** Campamento en un parque natural con una semana diurna de preparación. La primera semana se puede elegir por separado.
+
+**Alojamiento:** Preparación del 4–8 de enero de 2027. Salida del 11–14 de enero, 3 noches. Consulte horarios y días fuera de esas fases.
+
+**Fechas / estado:** Preparación del 4–8 de enero de 2027. Salida del 11–14 de enero, 3 noches. Consulte horarios y días fuera de esas fases.
+
+**Precio / año:** 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno.
+
+**Incluido:** Transporte de ida y vuelta de Club del Bosque a Parque Oncol, desayunos, colaciones, entrada y zona de camping.
+
+**Suplementos:** La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos.
+
+**Pago:** CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+
+**Matvey:** Por debajo del grupo de edad publicado.
+
+**Oscar:** Por debajo del grupo de edad publicado.
+
+**Motivo de selección:** Campamento en un parque natural con una semana diurna de preparación. La primera semana se puede elegir por separado.
+
+### Antes de solicitar plaza
+
+- La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+- Confirme la plaza y todas las condiciones antes de abonar la reserva.
+
+### Dos semanas con salida a Oncol
+
+**Fechas / estado:** 2027-01-04 — 2027-01-15
+
+**Lugar:** Isla Teja / Parque Oncol
+
+**Precio:** CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Primera semana sin pernocta
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Isla Teja, Valdivia
+
+**Precio:** Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse.
+
+**Condiciones de participación:** La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+
+[fuente](https://www.colegiodelbosque.cl/talleres-de-verano)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.colegiodelbosque.cl/talleres-de-verano) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

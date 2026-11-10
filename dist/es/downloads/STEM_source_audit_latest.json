@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12685,
-    "competition_cards": 5580,
-    "event_cards": 877,
-    "camp_cards": 6228,
+    "cards": 12697,
+    "competition_cards": 5583,
+    "event_cards": 879,
+    "camp_cards": 6235,
     "league_profiles": 359,
-    "major_exhibition_cards": 769,
+    "major_exhibition_cards": 771,
     "vex_cards": 821,
     "countries_with_records": 245,
     "fully_audited_countries": 0
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 877,
+      "total": 886,
       "countries_with_records": 15,
       "competitions": 509,
-      "events": 69,
-      "major_exhibitions": 63,
-      "camps": 299,
+      "events": 71,
+      "major_exhibitions": 65,
+      "camps": 306,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 3465,
+      "total": 3468,
       "countries_with_records": 51,
-      "competitions": 1301,
+      "competitions": 1304,
       "events": 229,
       "major_exhibitions": 216,
       "camps": 1935,
@@ -18687,6 +18687,28 @@
       "new": false
     },
     {
+      "id": "E878",
+      "name": "SOMOS UFRO 2026 · Feria de Investigación y Encuentro de Innovación",
+      "country": "Chile",
+      "region": "América del Sur",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "visitor_policy": "family",
+      "source": "https://vrip.ufro.cl/investigacion-2/universidad-de-la-frontera-invita-a-la-comunidad-a-somos-ufro-2026-el-mayor-evento-de-divulgacion-cientifica-del-sur-de-chile/",
+      "new": false
+    },
+    {
+      "id": "E879",
+      "name": "Ciencia Sin Ficción 8 · Copiapó",
+      "country": "Chile",
+      "region": "América del Sur",
+      "start": "2026-11-17",
+      "end": "2026-11-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://cienciasinficcion.cl/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -21118,8 +21140,8 @@
       }
     ],
     "counts": {
-      "records": 6228,
-      "holiday": 5550,
+      "records": 6235,
+      "holiday": 5557,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,

@@ -1329,11 +1329,11 @@ Edad: Portal roborave.xyz: ES 8–11; local PDF utiliza Escuela Primaria / MS / 
 Matvey: Condicional — 9 años correspondientes ES 8–11; Clase, Categoría local y aceptación extranjera
 Oscar: No por publicación ES 8–11; Categoría aparte antes de 8 años o ninguna excepción
 Idioma: No se ha publicado el idioma de la sesión/juez; ES / EN
-Entrada: La página local invita a los participantes del país y del extranjero a recibir confirmación por escrito de la categoría ES, composición, emplazamiento y relación declarada con la Ciudad 2027.
-Costo: GoldenPass: inscription $20 000 + service fee; moneda/ unidad de pago y billete de visitante se aclara
+Acceso: La página del torneo invita a participantes del país y del extranjero. GoldenPass indica sede y hora. Confirme categoría, equipo, plaza y condiciones de clasificación.
+Coste: GoldenPass indica $20 000 por inscripción más un cargo de servicio. Confirme la moneda, la unidad de cobro y la tarifa de espectador.
 Limitaciones: GoldenPass da la bienvenida a las familias, pero no se ha publicado un billete de visita para niños. Filename PDF V6.1, en el V6.2; portada 2026 / Japan, sección de la revista 2027: edición de las normas locales para aclarar: la promesa chilena de cuota no se ha convertido en una final mundial de fecha automáticamente confirmada.
 Fuente: https://roborave.cl/eventos/
-Comprobado: 2026-10-01
+Verificado: 2026-11-10
 
 ### C809 · LNR Argentina · UTN San Rafael · 2026
 
@@ -7523,6 +7523,32 @@ Restricciones: Las finales se anuncian dentro de FestiGame del 10 al 13 de dicie
 Fuente: https://cl.festigame.com/
 Verificado: 2026-11-10
 
+### E878 · SOMOS UFRO 2026 · Feria de Investigación y Encuentro de Innovación
+
+Fecha: 2026-11-12 — 2026-11-13
+Edad: Abierto a familias. Obtenga antes una entrada gratuita a través de SOMOS UFRO. Consulte la edad y la inscripción para actividades concretas de Zona Kids.
+Matvey: Abierto a familias. Obtenga antes una entrada gratuita a través de SOMOS UFRO. Consulte la edad y la inscripción para actividades concretas de Zona Kids.
+Oscar: Abierto a familias. Obtenga antes una entrada gratuita a través de SOMOS UFRO. Consulte la edad y la inscripción para actividades concretas de Zona Kids.
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: Abierto a familias. Obtenga antes una entrada gratuita a través de SOMOS UFRO. Consulte la edad y la inscripción para actividades concretas de Zona Kids.
+Coste: Entrada gratuita con boleto.
+Limitaciones:
+Fuente: https://vrip.ufro.cl/investigacion-2/universidad-de-la-frontera-invita-a-la-comunidad-a-somos-ufro-2026-el-mayor-evento-de-divulgacion-cientifica-del-sur-de-chile/
+Verificado: 2026-11-10
+
+### E879 · Ciencia Sin Ficción 8 · Copiapó
+
+Fecha: 2026-11-17 — 2026-11-18
+Edad: La organización publica un formulario de inscripción. Consulte las edades admitidas, el acceso de los padres y el precio de los talleres.
+Matvey: La organización publica un formulario de inscripción. Consulte las edades admitidas, el acceso de los padres y el precio de los talleres.
+Oscar: La organización publica un formulario de inscripción. Consulte las edades admitidas, el acceso de los padres y el precio de los talleres.
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La organización publica un formulario de inscripción. Consulte las edades admitidas, el acceso de los padres y el precio de los talleres.
+Costo: Consulte al organizador.
+Limitaciones:
+Fuente: https://cienciasinficcion.cl/
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -10641,6 +10667,97 @@ Acceso: Se requiere inscripción previa. Confirme los días disponibles, el idio
 Coste: 2027 · BRL 160 por un día o BRL 640 por cinco días. Hay condiciones especiales para dos o más niños el mismo día. No se publica el importe del descuento. · suplementos y condiciones en la ficha
 Restricciones: Matvey: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Oscar: Se requiere inscripción previa. Confirme los días disponibles, el idioma y las condiciones para dos niños el mismo día. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://portal.pucrs.br/noticias/servicos/5-dicas-ferias/
+Verificado: 2026-11-10
+
+### CP2554-20270104-20270108 · Colegio del Bosque · Talleres de Verano · Semana 1 · programa diurno · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2554-20270111-20270115 · Colegio del Bosque · Talleres de Verano · Semana 2 · programa diurno · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2554-20270118-20270122 · Colegio del Bosque · Talleres de Verano · Semana 3 · programa diurno · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: Grupos diurnos de 4–6 y 7–8 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · CLP 120000 por 1 semana, CLP 190000 por 2 semanas o CLP 270000 por 3 semanas por niño. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para 9–10 años hay una opción distinta con campamento. Oscar: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Suplementos: Para 2 niños en la tabla diurna, CLP 220000 por 1 semana, CLP 340000 por 2 y CLP 500000 por 3 con una sola solicitud. Consulte el caso mixto diurno y con campamento. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2555-20270104-20270115 · Colegio del Bosque · Oncol 9–10 años · Dos semanas con salida a Oncol · 2027-01-04–2027-01-15
+
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 9–10 años al 4 de enero de 2027.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno. · suplementos y condiciones en la ficha
+Restricciones: Matvey: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2555-20270104-20270108 · Colegio del Bosque · Oncol 9–10 años · Primera semana sin pernocta · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9–10 años al 4 de enero de 2027.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse. · suplementos y condiciones en la ficha
+Restricciones: Matvey: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2556-20270104-20270115 · Colegio del Bosque · Oncol 11–13 años · Dos semanas con salida a Oncol · 2027-01-04–2027-01-15
+
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 11–13 años al 4 de enero de 2027.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · CLP 270000 por el programa de 2 semanas para un niño. La tabla del campamento para 2 niños indica CLP 500000. Consulte la combinación con el grupo diurno. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Por debajo del grupo de edad publicado. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
+Verificado: 2026-11-10
+
+### CP2556-20270104-20270108 · Colegio del Bosque · Oncol 11–13 años · Primera semana sin pernocta · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 11–13 años al 4 de enero de 2027.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Materiales en español. La organización no especifica por separado el idioma del acompañamiento.
+Acceso: La edad se calcula al 4 de enero de 2027. Consulte con la escuela horarios, sede, idioma y admisión desde el extranjero.
+Coste: 2027 · Solo la primera semana cuesta la mitad de la tarifa individual. Cálculo de CLP 135000 sobre CLP 270000. Confirme el total al inscribirse. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Por debajo del grupo de edad publicado. Oscar: Por debajo del grupo de edad publicado. Suplementos: La escuela comunicará la lista de equipo, comida para llevar y horarios en diciembre. Consulte el total para hermanos. Pago: CLP 50000 por menor dentro de 3 días de la solicitud. Se descuenta del total y no es reembolsable. Sin cupo se puede quedar en lista de espera sin pagar.
+Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
 Verificado: 2026-11-10
 
 ### E298 · Brasil Game Show 2027 · public exhibition
