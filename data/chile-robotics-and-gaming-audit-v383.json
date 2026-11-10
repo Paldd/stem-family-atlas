@@ -1,0 +1,65 @@
+{
+  "version": 383,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 382,
+    "commit": "f097fe99094cfc5d4cf1b1c325b908e7f89124ba",
+    "workflow": 42861291404
+  },
+  "fabri_k2": {
+    "dossier_ids": [
+      "CP2535",
+      "CP2536"
+    ],
+    "workshops": 4,
+    "fee_clp": 18000,
+    "year_inferred_from_weekdays": true,
+    "conflicting_start_on": "2026-12-02",
+    "space_availability": "sold_out",
+    "instructional_language_unconfirmed": true
+  },
+  "puerto_montt": {
+    "parent_event_id": "C049",
+    "discipline_ids": [
+      "C5574",
+      "C5575"
+    ],
+    "limit_teams": 25
+  },
+  "precision_final": {
+    "event_id": "C050",
+    "conflicting_days": [
+      "2026-12-12",
+      "2026-12-13"
+    ],
+    "published_as_preview": true
+  },
+  "festigame": {
+    "parent_event_id": "E402",
+    "discipline_ids": [
+      "C5576",
+      "C5577"
+    ],
+    "discipline_dates_and_age_unconfirmed": true
+  },
+  "ces": {
+    "event_id": "E016",
+    "age_min": 18,
+    "standard_usd": [
+      149,
+      349
+    ],
+    "premium_usd": [
+      1450,
+      1750
+    ]
+  },
+  "legacy_overlay_event_ids": [
+    "C049",
+    "C050",
+    "E016",
+    "E402"
+  ]
+}

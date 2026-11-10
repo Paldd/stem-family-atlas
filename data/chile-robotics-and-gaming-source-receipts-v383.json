@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://ces-chile.com/",
+    "artifact": "us-ces-chile.html",
+    "bytes": 27897,
+    "sha256": "2bd8bd014534f235647a2ee9f7b83166a9f6beb8debfe769fa98f8316a32bea8",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://cl.festigame.com/",
+    "artifact": "cl-festigame.html",
+    "bytes": 153344,
+    "sha256": "c3699d4dd82b0db923395b18eb4956ccd2fbb688c9e022019e98a6841d40a960",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+    "artifact": "cl-fabri-space-official-extract.json",
+    "bytes": 435,
+    "sha256": "799c4d2c5eafe8277367a6e9bcd61aa4d8612bf847a6977c4bc8c9b26b70d1f5",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+    "artifact": "cl-fabri-one-day.html",
+    "bytes": 344256,
+    "sha256": "455818c52f45e02d59166b4c3d01daf0326f04b217b34f18ae1e34f7f1da138e",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://torneorobotica.cl/torneos/final_2026/",
+    "artifact": "cl-final.html",
+    "bytes": 56913,
+    "sha256": "9ceec5bd9d86dbe82b45c61fbae82308a7110fb53b30fdf52e158d5ef6593cef",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
+    "artifact": "cl-puerto.html",
+    "bytes": 125223,
+    "sha256": "051b211c9b376f5d041445141dc87f9273f31b28aed2f2bbed381c729e315d12",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-SUMO.pdf",
+    "artifact": "cl-puerto-sumo.pdf",
+    "bytes": 253546,
+    "sha256": "a3866c05bc4b8a854dab7621c1b07a6c6d664875ed0043a64d14e16c7a1a4e8d",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-rescate-.pdf",
+    "artifact": "cl-puerto-rescate.pdf",
+    "bytes": 3025182,
+    "sha256": "4c18ca5366302c5e55fe56078b04c9af6b66091f26461b3d73aae8b323a37e13",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.ces.tech/attendee-guides/registration-information",
+    "artifact": "us-ces-registr.html",
+    "bytes": 327327,
+    "sha256": "bd0b61f4a49d3f311bd73748322d57c3c63d032c6ec1ff3d201a69550683130f",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  }
+]

@@ -695,7 +695,7 @@
       "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
       "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
       "format": "Hasta 5 estudiantes y tutor. Límite de 25 equipos. Prioridad para el primer equipo de cada centro, el siguiente va a lista de espera.",
-      "entry": "El equipo escolar se inscribe en la web de la liga. Se requiere tutor responsable. Confirmar admisión de equipos extranjeros, plazas y fecha límite.",
+      "entry": "Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.",
       "gear": "Sumo · Rescate Inicial / Avanzado",
       "language": "Reglamento en español. Confirmar por separado el idioma del jurado.",
       "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
@@ -705,7 +705,7 @@
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
       "proof": "La página de la etapa y los dos reglamentos confirman el 13 de noviembre de 2026 a las 10:00 en Padre Harter 125.",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "status": "Idea",
       "note": "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.",
       "iso": [
@@ -743,6 +743,10 @@
         {
           "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-SUMO.pdf",
           "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
         }
       ],
       "date_scope": "session_days",
@@ -763,7 +767,9 @@
       "date_conflict": "El anuncio inicial de temporada indica el 20 de noviembre. La ficha de la etapa y ambos reglamentos indican el 13 de noviembre.",
       "registration_status": "Hay un formulario de la liga. Disponibilidad y aceptación de un nuevo equipo sin confirmar.",
       "related_ids": [
-        "C050"
+        "C050",
+        "C5574",
+        "C5575"
       ]
     },
     {
@@ -774,9 +780,9 @@
       "region": "América del Sur",
       "city": "Empresa PRECISION · Ciudad Empresarial · Huechuraba",
       "start": "2026-12-12",
-      "end": "2026-12-12",
-      "period": "",
-      "date_status": "Confirmado",
+      "end": "2026-12-13",
+      "period": "El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje.",
+      "date_status": "Anunciado",
       "deadline": "",
       "age": "Educación básica y media. No se indica el curso mínimo exacto.",
       "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
@@ -789,12 +795,12 @@
       "level": "Etapa nacional",
       "reward": "Se anuncian viaje y membresía para Runibot Bogotá. Las preguntas frecuentes indican los 2 mejores equipos de regiones distintas y una restricción a ganadores del año anterior.",
       "priority": "P2 — LATAM",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
+      "action": "El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje.",
       "source": "https://torneorobotica.cl/torneos/final_2026/",
       "proof": "El calendario estructurado de la etapa y el plan de temporada coinciden en el 12 de diciembre de 2026.",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "status": "Idea",
-      "note": "La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.",
+      "note": "El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje.",
       "iso": [
         "CHL"
       ],
@@ -830,27 +836,16 @@
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
-      "date_scope": "session_days",
-      "date_precision": "published_session",
-      "sessions": [
-        {
-          "date": "2026-12-12",
-          "start_time": "10:00",
-          "end_time": "17:00",
-          "timezone": "America/Santiago",
-          "topic": "Liga Robótica Escolar",
-          "ical_timed": true,
-          "start_utc": "2026-12-12T13:00:00Z",
-          "end_utc": "2026-12-12T20:00:00Z"
-        }
-      ],
+      "date_scope": "date_conflict",
+      "date_precision": "announced_window",
       "language_mode": "materials",
       "admission_kind": "qualifier",
-      "date_conflict": "En el texto quedó la fecha del 13 de diciembre de la edición 2025. Para 2026 se usa el 12 de diciembre confirmado por el calendario.",
+      "date_conflict": "El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje.",
       "registration_status": "El acceso directo a la final no está confirmado. Verificar primero clasificación y lista de equipos.",
       "related_ids": [
         "C049"
-      ]
+      ],
+      "date_rule": "El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje."
     },
     {
       "block": "Competiciones",
@@ -15035,7 +15030,9 @@
       "highlights": [],
       "exhibitor_note": "10–13 de diciembre de 11:00 a 20:00 según la FAQ del organizador, último acceso a las 18:00. La plataforma muestra una franja desde las 10:00, por lo que hay que cotejar la hora de la entrada elegida. Zonas de juego, cosplay y competiciones con reglas propias.",
       "related_ids": [
-        "E403"
+        "E403",
+        "C5576",
+        "C5577"
       ]
     },
     {
@@ -37638,6 +37635,232 @@
       "visitor_policy": "confirm_children",
       "exhibition_tier": "regional_major",
       "exhibitor_note": "Reuniones de electrónica de consumo con importadores, distribuidores y proveedores.",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5574",
+      "title": "Liga Robótica Chile · Puerto Montt · Rescate",
+      "block": "Competiciones",
+      "country": "Chile",
+      "iso": [
+        "CHL"
+      ],
+      "region": "América del Sur",
+      "city": "Puerto Montt · INACAP, Padre Harter 125",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "source": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-rescate-.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "El organizador asigna equipos a Rescate inicial y Rescate avanzado según edad y resultados anteriores.",
+      "entry": "Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.",
+      "gear": "Robot autónomo de hasta 20 × 20 × 20 cm. Cámaras prohibidas. El reglamento no fija límite de peso.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "languages": [],
+      "language_mode": "materials",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar admisión",
+      "action": "Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.",
+      "note": "13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "date_scope": "discipline_day",
+      "evidence_level": "rules",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C049"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5575",
+      "title": "Liga Robótica Chile · Puerto Montt · Sumo",
+      "block": "Competiciones",
+      "country": "Chile",
+      "iso": [
+        "CHL"
+      ],
+      "region": "América del Sur",
+      "city": "Puerto Montt · INACAP, Padre Harter 125",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "source": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/",
+      "references": [
+        {
+          "url": "https://torneorobotica.cl/wp-content/uploads/2026/10/Puerto-Montt-2026-Categoria-SUMO.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "age": "Educación básica y media. No se indica el curso mínimo exacto.",
+      "mat": "Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.",
+      "osc": "Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.",
+      "format": "Torneo de robots de sumo con fase de grupos y clasificación a rondas finales.",
+      "entry": "Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.",
+      "gear": "Dimensiones base de 25 × 25 × 20 cm y peso de hasta 800 g. Tolerancia del 5% con la plantilla de verificación.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "languages": [],
+      "language_mode": "materials",
+      "cost": "Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar admisión",
+      "action": "Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.",
+      "note": "13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "date_scope": "discipline_day",
+      "evidence_level": "rules",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C049"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5576",
+      "title": "FestiGame 2026 · EA SPORTS FC",
+      "block": "Competiciones",
+      "country": "Chile",
+      "iso": [
+        "CHL"
+      ],
+      "region": "América del Sur",
+      "city": "Santiago",
+      "start": "",
+      "end": "",
+      "period": "Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.",
+      "deadline": "",
+      "date_status": "Por confirmar",
+      "source": "https://cl.festigame.com/",
+      "references": [],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "age": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "mat": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "osc": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "format": "Torneo del simulador de fútbol EA SPORTS FC.",
+      "entry": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "gear": "",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "languages": [],
+      "language_mode": "materials",
+      "cost": "Consulte al organizador.",
+      "level": "Torneo de videojuegos",
+      "reward": "",
+      "priority": "P3 — confirmar admisión",
+      "action": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "note": "Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "unknown",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "programme_watch",
+      "evidence_level": "event_page",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "E402"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5577",
+      "title": "FestiGame 2026 · Fighting",
+      "block": "Competiciones",
+      "country": "Chile",
+      "iso": [
+        "CHL"
+      ],
+      "region": "América del Sur",
+      "city": "Santiago",
+      "start": "",
+      "end": "",
+      "period": "Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.",
+      "deadline": "",
+      "date_status": "Por confirmar",
+      "source": "https://cl.festigame.com/",
+      "references": [],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "age": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "mat": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "osc": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "format": "El organizador menciona Street Fighter 6 y Mortal Kombat 1. Las reglas de edad se consultan por separado de la entrada general al festival.",
+      "entry": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "gear": "",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "languages": [],
+      "language_mode": "materials",
+      "cost": "Consulte al organizador.",
+      "level": "Torneo de videojuegos",
+      "reward": "",
+      "priority": "P3 — confirmar admisión",
+      "action": "La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.",
+      "note": "Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "unknown",
+      "admission_kind": "confirm_eligibility",
+      "date_scope": "programme_watch",
+      "evidence_level": "event_page",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "E402"
+      ],
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
@@ -61278,6 +61501,394 @@
         }
       ],
       "date_rule": "Días calculados según el horario publicado de martes y jueves dentro del periodo general. Confirme excepciones e inicio efectivo del grupo."
+    },
+    {
+      "id": "CP2535-20261201-20261201",
+      "block": "Campamentos",
+      "title": "Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-01–2026-12-01",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "period": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "De 6 años cumplidos a 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "gear": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "cost": "2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+      "references": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "camp_programme_id": "CP2535",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-01",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Santiago",
+          "topic": "Robótica por un día",
+          "ical_timed": true,
+          "start_utc": "2026-12-01T20:00:00Z",
+          "end_utc": "2026-12-01T21:30:00Z"
+        }
+      ],
+      "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada."
+    },
+    {
+      "id": "CP2535-20261202-20261202",
+      "block": "Campamentos",
+      "title": "Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-02–2026-12-02",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "period": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "De 6 años cumplidos a 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "gear": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "cost": "2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+      "references": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "camp_programme_id": "CP2535",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "date_rule": "Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio."
+    },
+    {
+      "id": "CP2535-20261203-20261203",
+      "block": "Campamentos",
+      "title": "Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-03–2026-12-03",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "period": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "De 6 años cumplidos a 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "gear": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "cost": "2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+      "references": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "camp_programme_id": "CP2535",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Santiago",
+          "topic": "Robótica por un día",
+          "ical_timed": true,
+          "start_utc": "2026-12-03T20:00:00Z",
+          "end_utc": "2026-12-03T21:30:00Z"
+        }
+      ],
+      "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada."
+    },
+    {
+      "id": "CP2535-20261204-20261204",
+      "block": "Campamentos",
+      "title": "Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-04–2026-12-04",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "period": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "De 6 años cumplidos a 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "gear": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "cost": "2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+      "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+      "references": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "camp_programme_id": "CP2535",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "start_time": "17:30",
+          "end_time": "19:00",
+          "timezone": "America/Santiago",
+          "topic": "Robótica por un día",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T20:30:00Z",
+          "end_utc": "2026-12-04T22:00:00Z"
+        }
+      ],
+      "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada."
+    },
+    {
+      "id": "CP2536-20261114-20261128",
+      "block": "Campamentos",
+      "title": "Fabri-K2 · Robótica de Otro Planeta · Robótica de Otro Planeta · 2026-11-14–2026-11-28",
+      "country": "Chile",
+      "region": "América del Sur",
+      "city": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "start": "2026-11-14",
+      "end": "2026-11-28",
+      "period": "Dos sesiones el 14 y 28 de noviembre de 2026, a las 11:45 en Santiago.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.",
+      "gear": "Dos talleres LEGO de robótica espacial de 90 minutos cada uno.",
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "cost": "2026/27 · CLP 35000 por el paquete de 2 talleres. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.",
+      "source": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+      "references": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Oscar: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.",
+      "iso": [
+        "CHL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "space"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fabri-k2-providencia-robotica-otro-planeta",
+      "camp_programme_id": "CP2536",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "11:45",
+          "end_time": "13:15",
+          "timezone": "America/Santiago",
+          "topic": "Robótica de Otro Planeta",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T14:45:00Z",
+          "end_utc": "2026-11-14T16:15:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "11:45",
+          "end_time": "13:15",
+          "timezone": "America/Santiago",
+          "topic": "Robótica de Otro Planeta",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T14:45:00Z",
+          "end_utc": "2026-11-28T16:15:00Z"
+        }
+      ],
+      "availability": {
+        "status": "sold_out",
+        "label": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+      }
     },
     {
       "id": "E298",

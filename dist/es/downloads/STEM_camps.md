@@ -98038,6 +98038,86 @@ Restricciones: Matvey: Edad superior al rango del grupo publicado. Oscar: Compat
 Fuente: https://www.spcakitchener.ca/programs?view=244458
 Verificado: 2026-11-10
 
+### CP2535-20261201-20261201 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-01–2026-12-01
+
+Lugar: Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+Fecha: 2026-12-01 — 2026-12-01
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261202-20261202 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-02–2026-12-02
+
+Lugar: Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+Fecha: 2026-12-02 国 2026-12-02
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Acceso: Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261203-20261203 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-03–2026-12-03
+
+Lugar: Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+Fecha: 2026-12-03 — 2026-12-03
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261204-20261204 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-04–2026-12-04
+
+Lugar: Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+Fecha: 2026-12-04 — 2026-12-04
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2536-20261114-20261128 · Fabri-K2 · Robótica de Otro Planeta · Robótica de Otro Planeta · 2026-11-14–2026-11-28
+
+Lugar: Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+Fecha: 2026-11-14 — 2026-11-28
+Edad: 7 a 12 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · CLP 35000 por el paquete de 2 talleres. · suplementos y condiciones en la ficha
+Acceso: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+Restricciones: Matvey: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Oscar: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+Fuente: https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

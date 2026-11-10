@@ -185,24 +185,24 @@ edad: Educación básica y media. No se indica el curso mínimo exacto.
 Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
 Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
 Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
-Acceso: El equipo escolar se inscribe en la web de la liga. Se requiere tutor responsable. Confirmar admisión de equipos extranjeros, plazas y fecha límite.
+Acceso: Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.
 Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
 Limitaciones: La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
 Fuente: https://torneorobotica.cl/torneos/inacap-puertomontt-2026/
-Se ha comprobado: 2026-11-09
+Verificado: 2026-11-10
 
 ### C050 · Liga Robótica Chile — Final
 
-Fecha: 2026-12-12 — 2026-12-12
+Fecha: 2026-12-12 — 2026-12-13
 edad: Educación básica y media. No se indica el curso mínimo exacto.
 Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
 Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
 Idioma: Reglamento en español. Confirmar por separado el idioma del jurado.
 Acceso: Según las preguntas frecuentes de la liga, un resultado destacado en Rescate durante la temporada vigente y sin amonestaciones da acceso a la final.
 Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
-Limitaciones: La liga anuncia emisiones públicas en YouTube. El enlace específico y el acceso presencial familiar requieren confirmación.
+Restricciones: El calendario de la liga indica el 12 de diciembre de 2026 y el texto de invitación el 13 de diciembre. Confirme la fecha antes del viaje.
 Fuente: https://torneorobotica.cl/torneos/final_2026/
-Se ha comprobado: 2026-11-09
+Verificado: 2026-11-10
 
 ### C051 ·Liga Robótica Chile · Internacional LATAM · próxima edición
 
@@ -7471,6 +7471,58 @@ Restricciones: La página argentina confirma Buenos Aires. El pie general indica
 Fuente: https://www.ce-expolatam.com/argentina-2027
 Verificado: 2026-11-10
 
+### C5574 · Liga Robótica Chile · Puerto Montt · Rescate
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Restricciones: 13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.
+Fuente: https://torneorobotica.cl/torneos/inacap-puertomontt-2026/
+Verificado: 2026-11-10
+
+### C5575 · Liga Robótica Chile · Puerto Montt · Sumo
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Educación básica y media. No se indica el curso mínimo exacto.
+Matvey: Condicional. Confirmar curso escolar y admisión de un equipo de Costa Rica.
+Oscar: Condicional. Confirmar curso mínimo y admisión de un equipo extranjero.
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Inscripción de equipo escolar con tutor. Límite general de 25 equipos. Confirme plazas y admisión de escuelas extranjeras.
+Precio: Inscripción gratuita según las preguntas frecuentes de la liga. Robot, viaje, comidas y alojamiento a cargo del equipo.
+Restricciones: 13 de noviembre de 2026, de 10:00 a 16:00 en Puerto Montt. Confirme el horario de cada categoría.
+Fuente: https://torneorobotica.cl/torneos/inacap-puertomontt-2026/
+Verificado: 2026-11-10
+
+### C5576 · FestiGame 2026 · EA SPORTS FC
+
+Fecha: Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.
+Edad: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Matvey: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Oscar: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Costo: Consulte al organizador.
+Restricciones: Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.
+Fuente: https://cl.festigame.com/
+Verificado: 2026-11-10
+
+### C5577 · FestiGame 2026 · Fighting
+
+Fecha: Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.
+Edad: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Matvey: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Oscar: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: La página del festival indica clasificatorias y finales. Confirme por separado edad, formato de equipo, precio y apertura de inscripción de la disciplina.
+Costo: Consulte al organizador.
+Restricciones: Las finales se anuncian dentro de FestiGame del 10 al 13 de diciembre de 2026. Aún faltan días y horas de cada partida.
+Fuente: https://cl.festigame.com/
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -10511,6 +10563,71 @@ Acceso: El organizador acepta preinscripciones. Confirme plaza, edad, calendario
 Coste: 2027 · No se publicó el coste del grupo. Solicite tarifa y conceptos incluidos. · suplementos y condiciones en la ficha
 Restricciones: Matvey: No. La edad supera el intervalo de 6–8. Oscar: La edad encaja en el intervalo anunciado. Hay que confirmar plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/
+Verificado: 2026-11-10
+
+### CP2535-20261201-20261201 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-01–2026-12-01
+
+Fecha: 2026-12-01 — 2026-12-01
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261202-20261202 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-02–2026-12-02
+
+Fecha: 2026-12-02 国 2026-12-02
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261203-20261203 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-03–2026-12-03
+
+Fecha: 2026-12-03 — 2026-12-03
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2535-20261204-20261204 · Fabri-K2 · Robótica por un día · Robótica por un día · 2026-12-04–2026-12-04
+
+Fecha: 2026-12-04 — 2026-12-04
+Edad: De 6 años cumplidos a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Coste: 2026/27 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Sujeto a la edad y a dos plazas disponibles. Oscar: Sujeto a la edad y a dos plazas disponibles. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+Fuente: https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146
+Verificado: 2026-11-10
+
+### CP2536-20261114-20261128 · Fabri-K2 · Robótica de Otro Planeta · Robótica de Otro Planeta · 2026-11-14–2026-11-28
+
+Fecha: 2026-11-14 — 2026-11-28
+Edad: 7 a 12 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+Acceso: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+Coste: 2026/27 · CLP 35000 por el paquete de 2 talleres. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Oscar: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+Fuente: https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia
 Verificado: 2026-11-10
 
 ### E298 · Brasil Game Show 2027 · public exhibition

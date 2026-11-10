@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2534,
+    "dossiers": 2536,
     "countries": 141,
     "swiss": 165,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 730,
       "partial_2027": 182,
       "next_unannounced": 488,
-      "published_2026": 484,
+      "published_2026": 486,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3456
+    "source_urls": 3458
   },
   "countries": [
     {
@@ -568,7 +568,7 @@
     },
     {
       "country": "Чили",
-      "count": 45
+      "count": 47
     },
     {
       "country": "Швейцария",
@@ -391167,6 +391167,290 @@
       "materials_languages": [
         "EN"
       ]
+    },
+    {
+      "id": "CP2535",
+      "slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "provider": "Fabri-K2 · Robótica por un día",
+      "iso": "CHL",
+      "country": "Чили",
+      "place": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "age": "От 6 полных до 12 лет.",
+      "programme": "Ребёнок собирает и программирует модель LEGO с мотором. Продолжительность 90 минут. Родители в классе не присутствуют.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Даты 1–4 декабря сопоставлены с днями недели текущего сезона 2026. Проверьте дату на билете. На 2 декабря указаны 17:00 в данных варианта и 17:30 в другой версии витрины. Начало подтвердить.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-01"
+          ],
+          [
+            "2026-12-02",
+            "2026-12-02"
+          ],
+          [
+            "2026-12-03",
+            "2026-12-03"
+          ],
+          [
+            "2026-12-04",
+            "2026-12-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-01",
+            "end": "2026-12-01",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 за одну мастерскую. Набор и планшет предоставляются на занятии.",
+            "entry": "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской.",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Даты 1–4 декабря сопоставлены с днями недели текущего сезона 2026. Проверьте дату на билете.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-01",
+                "start_time": "17:00",
+                "end_time": "18:30",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T20:00:00Z",
+                "end_utc": "2026-12-01T21:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-02",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 за одну мастерскую. Набор и планшет предоставляются на занятии.",
+            "entry": "На 2 декабря указаны 17:00 в данных варианта и 17:30 в другой версии витрины. Начало подтвердить.",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "На 2 декабря указаны 17:00 в данных варианта и 17:30 в другой версии витрины. Начало подтвердить.",
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2026-12-03",
+            "end": "2026-12-03",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 за одну мастерскую. Набор и планшет предоставляются на занятии.",
+            "entry": "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской.",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Даты 1–4 декабря сопоставлены с днями недели текущего сезона 2026. Проверьте дату на билете.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-03",
+                "start_time": "17:00",
+                "end_time": "18:30",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T20:00:00Z",
+                "end_utc": "2026-12-03T21:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-04",
+            "end": "2026-12-04",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 за одну мастерскую. Набор и планшет предоставляются на занятии.",
+            "entry": "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской.",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Даты 1–4 декабря сопоставлены с днями недели текущего сезона 2026. Проверьте дату на билете.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-04",
+                "start_time": "17:30",
+                "end_time": "19:00",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T20:30:00Z",
+                "end_utc": "2026-12-04T22:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "CLP",
+        "amount": 18000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "CLP 18000 за одну мастерскую. Набор и планшет предоставляются на занятии.",
+        "included": "Ребёнок собирает и программирует модель LEGO с мотором. Продолжительность 90 минут. Родители в классе не присутствуют.",
+        "extras": "Дорога отдельно. Возврат и доплаты уточнить у организатора.",
+        "deposit": "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по возрасту при наличии двух мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по возрасту при наличии двух мест."
+        }
+      },
+      "editorial_reason": "Ребёнок собирает и программирует модель LEGO с мотором. Продолжительность 90 минут. Родители в классе не присутствуют.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской.",
+        "На 2 декабря указаны 17:00 в данных варианта и 17:30 в другой версии витрины. Начало подтвердить."
+      ],
+      "sources": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить место, язык занятия и допуск ребёнка на дату выбранной мастерской."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2536",
+      "slug": "fabri-k2-providencia-robotica-otro-planeta",
+      "provider": "Fabri-K2 · Robótica de Otro Planeta",
+      "iso": "CHL",
+      "country": "Чили",
+      "place": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "age": "7–12 лет.",
+      "programme": "Две мастерские LEGO по космической робототехнике по 90 минут.",
+      "themes": [
+        "robotics",
+        "coding",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Две встречи 14 и 28 ноября 2026, начало в 11:45 по Сантьяго.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-28",
+            "label": "Robótica de Otro Planeta",
+            "price": "CLP 35000 за пакет из 2 мастерских.",
+            "source": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+            "entry": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "sold_out",
+              "label": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "America/Santiago",
+                "topic": "Robótica de Otro Planeta",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T14:45:00Z",
+                "end_utc": "2026-11-14T16:15:00Z"
+              },
+              {
+                "date": "2026-11-28",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "America/Santiago",
+                "topic": "Robótica de Otro Planeta",
+                "ical_timed": true,
+                "start_utc": "2026-11-28T14:45:00Z",
+                "end_utc": "2026-11-28T16:15:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "CLP",
+        "amount": 35000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "CLP 35000 за пакет из 2 мастерских.",
+        "included": "Две мастерские LEGO по космической робототехнике по 90 минут.",
+        "extras": "Дорога отдельно. Возврат и доплаты уточнить у организатора.",
+        "deposit": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+        }
+      },
+      "editorial_reason": "Две мастерские LEGO по космической робототехнике по 90 минут.",
+      "shortlist": [],
+      "questions": [
+        "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+      ],
+      "sources": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "sold_out",
+        "label": "Обе встречи продаются одним пакетом. На странице набора указано, что места закончились."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ]
     }
   ],
   "gaps": [
@@ -409727,7 +410011,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2534,
+      "total_dossiers": 2536,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

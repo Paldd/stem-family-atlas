@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2534 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2536 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -199109,6 +199109,146 @@ Canadá · Stanley Park Community Centre · Kitchener, Ontario
 - [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/stanleyparkcc/) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/) · 2026-11-10
+
+## CP2535 · Fabri-K2 · Robótica por un día
+
+Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6 años cumplidos a 12 años.
+
+**Idioma:** Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+
+**Programa:** El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.
+
+**Precio / año:** 2026 · CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.
+
+**Incluido:** El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.
+
+**Suplementos:** Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador.
+
+**Pago:** Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+
+**Matvey:** Sujeto a la edad y a dos plazas disponibles.
+
+**Oscar:** Sujeto a la edad y a dos plazas disponibles.
+
+**Motivo de selección:** El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+
+- Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.
+
+### Robótica por un día
+
+**Fechas / estado:** 2026-12-01 — 2026-12-01
+
+**Precio:** CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.
+
+**Condiciones de participación:** Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+
+- 2026-12-01 · 17:00–18:30 · America/Santiago · Robótica por un día
+
+[fuente](https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146)
+
+### Robótica por un día
+
+**Fechas / estado:** 2026-12-02 — 2026-12-02
+
+**Precio:** CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.
+
+**Condiciones de participación:** Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.
+
+[fuente](https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146)
+
+### Robótica por un día
+
+**Fechas / estado:** 2026-12-03 — 2026-12-03
+
+**Precio:** CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.
+
+**Condiciones de participación:** Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+
+- 2026-12-03 · 17:00–18:30 · America/Santiago · Robótica por un día
+
+[fuente](https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146)
+
+### Robótica por un día
+
+**Fechas / estado:** 2026-12-04 — 2026-12-04
+
+**Precio:** CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.
+
+**Condiciones de participación:** Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.
+
+- 2026-12-04 · 17:30–19:00 · America/Santiago · Robótica por un día
+
+[fuente](https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146) · 2026-11-10
+
+## CP2536 · Fabri-K2 · Robótica de Otro Planeta
+
+Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
+
+**Verificado:** 2026-11-10
+
+**edad:** 7–12 años.
+
+**Idioma:** Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.
+
+**Programa:** Dos talleres LEGO de robótica espacial de 90 minutos cada uno.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos sesiones el 14 y 28 de noviembre de 2026, a las 11:45 en Santiago.
+
+**Precio / año:** 2026 · CLP 35000 por el paquete de 2 talleres.
+
+**Incluido:** Dos talleres LEGO de robótica espacial de 90 minutos cada uno.
+
+**Suplementos:** Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador.
+
+**Pago:** Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+**Matvey:** Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+**Oscar:** Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+**Motivo de selección:** Dos talleres LEGO de robótica espacial de 90 minutos cada uno.
+
+### Antes de solicitar plaza
+
+- Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+### Robótica de Otro Planeta
+
+**Fechas / estado:** 2026-11-14 — 2026-11-28
+
+**Precio:** CLP 35000 por el paquete de 2 talleres.
+
+**Condiciones de participación:** Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+- 2026-11-14 · 11:45–13:15 · America/Santiago · Robótica de Otro Planeta
+
+- 2026-11-28 · 11:45–13:15 · America/Santiago · Robótica de Otro Planeta
+
+**Disponibilidad:** Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
+
+[fuente](https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

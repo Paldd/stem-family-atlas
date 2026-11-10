@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12643. Competiciones: 5572. Eventos: 868. Campamentos o programas: 6203. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 762. Se cuentan ediciones y sedes.
+Fichas en la base: 12652. Competiciones: 5576. Eventos: 868. Campamentos o programas: 6208. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 762. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -15,7 +15,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2250 | 196 | 1587 |
-| América del Sur | 15 | 505 | 63 | 293 |
+| América del Sur | 15 | 509 | 63 | 298 |
 | Europa | 55 | 796 | 189 | 1806 |
 | África | 61 | 293 | 52 | 167 |
 | Asia | 51 | 1298 | 215 | 1919 |
@@ -23,7 +23,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 Fichas interregionales o globales sin continente asignado: 267. América del Norte incluye América Central y el Caribe. Las cifras reflejan el inventario de la base.
 
-VEX: 821 de 5572 fichas de competiciones (14.7%). La cobertura está desequilibrada.
+VEX: 821 de 5576 fichas de competiciones (14.7%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -163,7 +163,7 @@ VEX: 821 de 5572 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **MARC Taiwan**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
 - **OBR / CBR / LARC · Brazil**: 16 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotica.robocup.org.br/
-- **Liga Robótica Chile**: 12 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.torneorobotica.cl/
+- **Liga Robótica Chile**: 12 fichas, 1 con fechas futuras exactas. Hay perfil y fichas. Cobertura local parcial. https://www.torneorobotica.cl/
 - **Technovation Girls**: 1 tarjeta, 0 con fechas exactas futuras. https://technovationchallenge.org/
 - **Rcube Robotics League**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/rcube-robotic-league
 - **BAFTA Young Game Designers**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bafta.org/programmes/young-game-designer/

@@ -119,7 +119,8 @@ current_audits = [
                  'winter-robotics-and-museum-audit-v379.json',
                  'africa-holiday-and-competition-audit-v380.json',
                  'digital-camps-and-visitor-access-audit-v381.json',
-                 'ontario-robotics-and-canada-visitor-audit-v382.json')
+                 'ontario-robotics-and-canada-visitor-audit-v382.json',
+                 'chile-robotics-and-gaming-audit-v383.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

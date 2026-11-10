@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2534,
+    "dossiers": 2536,
     "countries": 141,
     "swiss": 165,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 730,
       "partial_2027": 182,
       "next_unannounced": 488,
-      "published_2026": 484,
+      "published_2026": 486,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3456
+    "source_urls": 3458
   },
   "countries": [
     {
@@ -568,7 +568,7 @@
     },
     {
       "country": "Chile",
-      "count": 45
+      "count": 47
     },
     {
       "country": "Suiza",
@@ -450349,6 +450349,348 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2535",
+      "slug": "fabri-k2-providencia-robotica-por-un-dia",
+      "provider": "Fabri-K2 · Robótica por un día",
+      "iso": "CHL",
+      "country": "Chile",
+      "place": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "age": "De 6 años cumplidos a 12 años.",
+      "programme": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada. Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-01"
+          ],
+          [
+            "2026-12-02",
+            "2026-12-02"
+          ],
+          [
+            "2026-12-03",
+            "2026-12-03"
+          ],
+          [
+            "2026-12-04",
+            "2026-12-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-01",
+            "end": "2026-12-01",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.",
+            "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-01",
+                "start_time": "17:00",
+                "end_time": "18:30",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T20:00:00Z",
+                "end_utc": "2026-12-01T21:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-02",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.",
+            "entry": "Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio.",
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2026-12-03",
+            "end": "2026-12-03",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.",
+            "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-03",
+                "start_time": "17:00",
+                "end_time": "18:30",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T20:00:00Z",
+                "end_utc": "2026-12-03T21:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-04",
+            "end": "2026-12-04",
+            "label": "Robótica por un día",
+            "source": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+            "price": "CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.",
+            "entry": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Las fechas del 1 al 4 de diciembre se cotejaron con los días de la semana de la temporada 2026. Confirme la fecha en la entrada.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-04",
+                "start_time": "17:30",
+                "end_time": "19:00",
+                "timezone": "America/Santiago",
+                "topic": "Robótica por un día",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T20:30:00Z",
+                "end_utc": "2026-12-04T22:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "CLP",
+        "amount": 18000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "CLP 18000 por un taller. El kit y la tableta se facilitan durante la actividad.",
+        "included": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+        "extras": "Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador.",
+        "deposit": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sujeto a la edad y a dos plazas disponibles."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sujeto a la edad y a dos plazas disponibles."
+        }
+      },
+      "editorial_reason": "El niño construye y programa un modelo LEGO motorizado. Duración de 90 minutos. Los adultos no entran al aula.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida.",
+        "Para el 2 de diciembre, los datos de la variante muestran 17:00 y otra vista de la tienda muestra 17:30. Confirme la hora de inicio."
+      ],
+      "sources": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-por-un-dia-%F0%9F%A4%96?variant=67774710612146",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme plaza, idioma de la actividad y admisión del menor para la fecha elegida."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-01",
+          "end": "2026-12-01",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2535-20261201-20261201"
+          ]
+        },
+        {
+          "start": "2026-12-02",
+          "end": "2026-12-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2535-20261202-20261202"
+          ]
+        },
+        {
+          "start": "2026-12-03",
+          "end": "2026-12-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2535-20261203-20261203"
+          ]
+        },
+        {
+          "start": "2026-12-04",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2535-20261204-20261204"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2536",
+      "slug": "fabri-k2-providencia-robotica-otro-planeta",
+      "provider": "Fabri-K2 · Robótica de Otro Planeta",
+      "iso": "CHL",
+      "country": "Chile",
+      "place": "Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago",
+      "age": "7–12 años.",
+      "programme": "Dos talleres LEGO de robótica espacial de 90 minutos cada uno.",
+      "themes": [
+        "robotics",
+        "coding",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y materiales en español. Confirme el idioma de la actividad o del arbitraje.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Dos sesiones el 14 y 28 de noviembre de 2026, a las 11:45 en Santiago.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-28",
+            "label": "Robótica de Otro Planeta",
+            "price": "CLP 35000 por el paquete de 2 talleres.",
+            "source": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+            "entry": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "sold_out",
+              "label": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "America/Santiago",
+                "topic": "Robótica de Otro Planeta",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T14:45:00Z",
+                "end_utc": "2026-11-14T16:15:00Z"
+              },
+              {
+                "date": "2026-11-28",
+                "start_time": "11:45",
+                "end_time": "13:15",
+                "timezone": "America/Santiago",
+                "topic": "Robótica de Otro Planeta",
+                "ical_timed": true,
+                "start_utc": "2026-11-28T14:45:00Z",
+                "end_utc": "2026-11-28T16:15:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "CLP",
+        "amount": 35000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "CLP 35000 por el paquete de 2 talleres.",
+        "included": "Dos talleres LEGO de robótica espacial de 90 minutos cada uno.",
+        "extras": "Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador.",
+        "deposit": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+        }
+      },
+      "editorial_reason": "Dos talleres LEGO de robótica espacial de 90 minutos cada uno.",
+      "shortlist": [],
+      "questions": [
+        "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+      ],
+      "sources": [
+        {
+          "url": "https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "sold_out",
+        "label": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2536-20261114-20261128"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -468909,7 +469251,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2534,
+      "total_dossiers": 2536,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -496489,6 +496831,31 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2535",
+      "event_id": "CP2535-20261201-20261201",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2535",
+      "event_id": "CP2535-20261202-20261202",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2535",
+      "event_id": "CP2535-20261203-20261203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2535",
+      "event_id": "CP2535-20261204-20261204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2536",
+      "event_id": "CP2536-20261114-20261128",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -502084,10 +502451,15 @@
     "CP2531-20261212-20261212",
     "CP2532-20270217-20270310",
     "CP2533-20270113-20270203",
-    "CP2534-20270217-20270310"
+    "CP2534-20270217-20270310",
+    "CP2535-20261201-20261201",
+    "CP2535-20261202-20261202",
+    "CP2535-20261203-20261203",
+    "CP2535-20261204-20261204",
+    "CP2536-20261114-20261128"
   ],
   "integration": {
-    "generated_sessions": 5185,
+    "generated_sessions": 5190,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
