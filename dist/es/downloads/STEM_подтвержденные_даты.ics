@@ -16304,34 +16304,61 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C869@family-stem.local
-DTSTAMP:20261105T205716Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Días del evento] Robotek Grand Tournament 2027 · LOM Elementar
  y
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270305
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C8
- 69. . Matvey: Sí por nacimiento 2017\; confirmar equipo y admisión ext
- ranjera.\; Oscar: Sí por nacimiento 2020\; confirmar equipo y admisión
-  extranjera.. Cómo participar: Reglamento 2027 art.4.2 admite equipos e
- scolares\, clubes y particulares de Kazajistán y otros países. RGT int
- ernacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones:
-  liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027\,
-  solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren 
- decisión del comité\; ciudadanía no habilita liga local.. Próximo pa
- so: Años de nacimiento 2017 / 2020 conocidos\; fechas exactas y cursos 
- sin establecer. Verificar admisión del equipo\, idioma\, plazas y factu
- ra completa. Sin solicitudes\, consentimientos\, mensajes ni pagos.. Sel
- ección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task
-  Master. Reglamento no fija número de licencias ni Wild Card: exige act
- a final\, requisitos del socio y confirmación. Viaje\, alojamiento\, tr
- ámites migratorios y cuotas aparte. No es acceso automático ni viaje f
- inanciado. En LOM Elementary Gold / Silver / Bronze son certificados de 
- estímulo para quienes terminan clasificación: tercio superior / tercio
-  medio / resto. Puesto de alianza\, special award y Wild Card se cuentan
-  aparte. Club Division no otorga ranking formal\, special awards ni avan
- ce\; Club no anunciado por separado en RGT.. . No se ha confirmado el pu
- esto de la familia y la aceptación del equipo.. Fuente verificada el 20
- 26-11-05.
+ 69. . Matvey: Sí por el año 2017. Puede competir con Oscar si se admit
+ e el equipo.\; Oscar: Sí por el año 2020. Puede competir con Matvey si
+  se admite el equipo.. Cómo participar: Los equipos extranjeros de cent
+ ros educativos\, clubes y particulares envían el anexo n.º 2 directame
+ nte a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la 
+ clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 
+ de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y u
+ na categoría por equipo durante la temporada.. Próximo paso: Prepare e
+ l anexo n.º 2 y confirme el país del equipo\, la sede\, la cuota y el 
+ idioma del arbitraje. En el registro se exigen documentos de identidad y
+  edad.. Solo LOM\, Rising Pioneers y Task Master cuentan para la clasifi
+ cación a Taipéi. Las plazas y Wild Card requieren confirmación. El vi
+ aje y la cuota dependen de las condiciones de la final. Nombre de equipo
+  de hasta 20 caracteres: letras latinas\, números\, espacios y guiones.
+ . El reglamento indica el 18 de febrero de 2027 sin hora límite. La adm
+ isión depende de la decisión del comité.. Se publicó el procedimient
+ o de solicitud. Confirme la admisión y la disponibilidad.. Fuente verif
+ icada el 2026-11-10.
+LOCATION:Astana\, Kazajistán
+URL:https://rgt.robotek.kz/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C869-deadline@family-stem.local
+DTSTAMP:20261110T114525Z
+SUMMARY:[Solicitud del equipo extranjero\, confirmar hora] Robotek Grand 
+ Tournament 2027 · LOM Elementary
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C8
+ 69. . Matvey: Sí por el año 2017. Puede competir con Oscar si se admit
+ e el equipo.\; Oscar: Sí por el año 2020. Puede competir con Matvey si
+  se admite el equipo.. Cómo participar: Los equipos extranjeros de cent
+ ros educativos\, clubes y particulares envían el anexo n.º 2 directame
+ nte a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la 
+ clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 
+ de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y u
+ na categoría por equipo durante la temporada.. Próximo paso: Prepare e
+ l anexo n.º 2 y confirme el país del equipo\, la sede\, la cuota y el 
+ idioma del arbitraje. En el registro se exigen documentos de identidad y
+  edad.. Solo LOM\, Rising Pioneers y Task Master cuentan para la clasifi
+ cación a Taipéi. Las plazas y Wild Card requieren confirmación. El vi
+ aje y la cuota dependen de las condiciones de la final. Nombre de equipo
+  de hasta 20 caracteres: letras latinas\, números\, espacios y guiones.
+ . El reglamento indica el 18 de febrero de 2027 sin hora límite. La adm
+ isión depende de la decisión del comité.. Se publicó el procedimient
+ o de solicitud. Confirme la admisión y la disponibilidad.. Fuente verif
+ icada el 2026-11-10.
 LOCATION:Astana\, Kazajistán
 URL:https://rgt.robotek.kz/
 STATUS:TENTATIVE
@@ -23881,7 +23908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C1189@family-stem.local
-DTSTAMP:20261105T205716Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Días del evento] MARC 2027 · International Final · Taipei
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270524
@@ -23893,14 +23920,12 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
  , clasificación y wildcard 2027 aún sin publicar. No trasladar automá
  ticamente vía de 2026.. Próximo paso: Seguir registro\, categorías\, 
  edades y sede\; no reservar viaje familiar mediante fotos de sede 2026..
-  NTSEC aparece como recuerdo de 2026\, sin confirmar sede 2027. Invitaci
- ón internacional no garantiza plaza ni edad admitida. Selección a MARC
-  Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Regla
- mento no fija número de licencias ni Wild Card: exige acta final\, requ
- isitos del socio y confirmación. Viaje\, alojamiento\, trámites migrat
- orios y cuotas aparte. No es acceso automático ni viaje financiado.. . 
- Registro y horario completo prometidos para más adelante.. Fuente verif
- icada el 2026-11-05.
+  La sede de Taipéi 2027 aún no se ha indicado. RGT publicó una vía d
+ e clasificación desde Astaná. Solo LOM\, Rising Pioneers y Task Master
+  cuentan para la clasificación a Taipéi. Las plazas y Wild Card requie
+ ren confirmación. El viaje y la cuota dependen de las condiciones de la
+  final.. . Registro y horario completo prometidos para más adelante.. F
+ uente verificada el 2026-11-10.
 LOCATION:Taipéi · sede exacta 2027 aún sin anunciar\, Taiwán
 URL:https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
 STATUS:TENTATIVE
@@ -28856,34 +28881,52 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C1321@family-stem.local
-DTSTAMP:20261105T210011Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Días del evento] Robotek Grand Tournament 2027 · Robotek
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270305
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
- 321. . Matvey: Sí por nacimiento 2017\; confirmar vía extranjera.\; Os
- car: No — 2020 fuera de 2014–2018.. Cómo participar: Reglamento 202
- 7 art.4.2 admite equipos escolares\, clubes y particulares de Kazajistá
- n y otros países. RGT internacional en Astana 03–04.03.2027. Kazajist
- án tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privad
- a Birlik 30–31.01.2027\, solicitud hasta 20.01.2027. Vía extranjera y
-  plaza familiar requieren decisión del comité\; ciudadanía no habilit
- a liga local. Un participante — un equipo y una categoría RGT por tem
- porada. Si Matvey elige otra disciplina\, Oscar necesita otro compañero
-  elegible en LOM. RGT art.6.6 exige Matrix\; Rising Pioneers Maker globa
- l sin marca no se traslada automáticamente a Astana.. Próximo paso: A
- ños de nacimiento 2017 / 2020 conocidos\; fechas exactas y cursos sin e
- stablecer. Verificar admisión del equipo\, idioma\, plazas y factura co
- mpleta. Sin solicitudes\, consentimientos\, mensajes ni pagos.. Selecci
- ón a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Mas
- ter. Reglamento no fija número de licencias ni Wild Card: exige acta fi
- nal\, requisitos del socio y confirmación. Viaje\, alojamiento\, trámi
- tes migratorios y cuotas aparte. No es acceso automático ni viaje finan
- ciado. Un participante — un equipo y una categoría RGT por temporada.
-  Si Matvey elige otra disciplina\, Oscar necesita otro compañero elegib
- le en LOM. RGT art.6.6 exige Matrix\; Rising Pioneers Maker global sin m
- arca no se traslada automáticamente a Astana.. . . Fuente verificada el
-  2026-11-05.
+ 321. . Matvey: Sí por el año 2017. Puede solicitar plaza un estudiante
+  con entrenador de 18+.\; Oscar: No — 2020 fuera de 2014–2018.. Cóm
+ o participar: Los equipos extranjeros de centros educativos\, clubes y p
+ articulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta 
+ el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni 
+ de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta e
+ l 23 de febrero. Un equipo por estudiante y una categoría por equipo du
+ rante la temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme e
+ l país del equipo\, la sede\, la cuota y el idioma del arbitraje. En el
+  registro se exigen documentos de identidad y edad.. Esta categoría no 
+ clasifica para la final MARC en Taipéi.. El reglamento indica el 18 de 
+ febrero de 2027 sin hora límite. La admisión depende de la decisión d
+ el comité.. Se publicó el procedimiento de solicitud. Confirme la admi
+ sión y la disponibilidad.. Fuente verificada el 2026-11-10.
+LOCATION:Astana\, Kazajistán
+URL:https://rgt.robotek.kz/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C1321-deadline@family-stem.local
+DTSTAMP:20261110T114525Z
+SUMMARY:[Solicitud del equipo extranjero\, confirmar hora] Robotek Grand 
+ Tournament 2027 · Robotek
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
+ 321. . Matvey: Sí por el año 2017. Puede solicitar plaza un estudiante
+  con entrenador de 18+.\; Oscar: No — 2020 fuera de 2014–2018.. Cóm
+ o participar: Los equipos extranjeros de centros educativos\, clubes y p
+ articulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta 
+ el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni 
+ de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta e
+ l 23 de febrero. Un equipo por estudiante y una categoría por equipo du
+ rante la temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme e
+ l país del equipo\, la sede\, la cuota y el idioma del arbitraje. En el
+  registro se exigen documentos de identidad y edad.. Esta categoría no 
+ clasifica para la final MARC en Taipéi.. El reglamento indica el 18 de 
+ febrero de 2027 sin hora límite. La admisión depende de la decisión d
+ el comité.. Se publicó el procedimiento de solicitud. Confirme la admi
+ sión y la disponibilidad.. Fuente verificada el 2026-11-10.
 LOCATION:Astana\, Kazajistán
 URL:https://rgt.robotek.kz/
 STATUS:TENTATIVE
@@ -28891,35 +28934,57 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C1322@family-stem.local
-DTSTAMP:20261105T210011Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Días del evento] Robotek Grand Tournament 2027 · Rising Pionee
  rs Elementary
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270305
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
- 322. . Matvey: Sí por nacimiento 2017\; se permite solicitud de un part
- icipante.\; Oscar: No — 2020 fuera de 2015–2019.. Cómo participar: 
- Reglamento 2027 art.4.2 admite equipos escolares\, clubes y particulares
-  de Kazajistán y otros países. RGT internacional en Astana 03–04.03.
- 2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02
- .2027 y privada Birlik 30–31.01.2027\, solicitud hasta 20.01.2027. Ví
- a extranjera y plaza familiar requieren decisión del comité\; ciudadan
- ía no habilita liga local. Un participante — un equipo y una categor
- ía RGT por temporada. Si Matvey elige otra disciplina\, Oscar necesita 
- otro compañero elegible en LOM. RGT art.6.6 exige Matrix\; Rising Pione
- ers Maker global sin marca no se traslada automáticamente a Astana.. Pr
- óximo paso: Años de nacimiento 2017 / 2020 conocidos\; fechas exactas 
- y cursos sin establecer. Verificar admisión del equipo\, idioma\, plaza
- s y factura completa. Sin solicitudes\, consentimientos\, mensajes ni pa
- gos.. Selección a MARC Taiwan posible solo mediante LOM / Rising Pionee
- rs / Task Master. Reglamento no fija número de licencias ni Wild Card: 
- exige acta final\, requisitos del socio y confirmación. Viaje\, alojami
- ento\, trámites migratorios y cuotas aparte. No es acceso automático n
- i viaje financiado. Un participante — un equipo y una categoría RGT p
- or temporada. Si Matvey elige otra disciplina\, Oscar necesita otro comp
- añero elegible en LOM. RGT art.6.6 exige Matrix\; Rising Pioneers Maker
-  global sin marca no se traslada automáticamente a Astana.. . . Fuente 
- verificada el 2026-11-05.
+ 322. . Matvey: Sí por el año 2017. Puede solicitar plaza un estudiante
+  con entrenador de 18+.\; Oscar: No — 2020 fuera de 2015–2019.. Cóm
+ o participar: Los equipos extranjeros de centros educativos\, clubes y p
+ articulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta 
+ el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni 
+ de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta e
+ l 23 de febrero. Un equipo por estudiante y una categoría por equipo du
+ rante la temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme e
+ l país del equipo\, la sede\, la cuota y el idioma del arbitraje. En el
+  registro se exigen documentos de identidad y edad.. Solo LOM\, Rising P
+ ioneers y Task Master cuentan para la clasificación a Taipéi. Las plaz
+ as y Wild Card requieren confirmación. El viaje y la cuota dependen de 
+ las condiciones de la final.. El reglamento indica el 18 de febrero de 2
+ 027 sin hora límite. La admisión depende de la decisión del comité..
+  Se publicó el procedimiento de solicitud. Confirme la admisión y la d
+ isponibilidad.. Fuente verificada el 2026-11-10.
+LOCATION:Astana\, Kazajistán
+URL:https://rgt.robotek.kz/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C1322-deadline@family-stem.local
+DTSTAMP:20261110T114525Z
+SUMMARY:[Solicitud del equipo extranjero\, confirmar hora] Robotek Grand 
+ Tournament 2027 · Rising Pioneers Elementary
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
+ 322. . Matvey: Sí por el año 2017. Puede solicitar plaza un estudiante
+  con entrenador de 18+.\; Oscar: No — 2020 fuera de 2015–2019.. Cóm
+ o participar: Los equipos extranjeros de centros educativos\, clubes y p
+ articulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta 
+ el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni 
+ de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta e
+ l 23 de febrero. Un equipo por estudiante y una categoría por equipo du
+ rante la temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme e
+ l país del equipo\, la sede\, la cuota y el idioma del arbitraje. En el
+  registro se exigen documentos de identidad y edad.. Solo LOM\, Rising P
+ ioneers y Task Master cuentan para la clasificación a Taipéi. Las plaz
+ as y Wild Card requieren confirmación. El viaje y la cuota dependen de 
+ las condiciones de la final.. El reglamento indica el 18 de febrero de 2
+ 027 sin hora límite. La admisión depende de la decisión del comité..
+  Se publicó el procedimiento de solicitud. Confirme la admisión y la d
+ isponibilidad.. Fuente verificada el 2026-11-10.
 LOCATION:Astana\, Kazajistán
 URL:https://rgt.robotek.kz/
 STATUS:TENTATIVE
@@ -28927,7 +28992,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-C1323@family-stem.local
-DTSTAMP:20261105T210011Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Días del evento] Robotek Grand Tournament 2027 · Task Master E
  lementary
 DTSTART;VALUE=DATE:20270303
@@ -28935,27 +29000,49 @@ DTEND;VALUE=DATE:20270305
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
  323. . Matvey: Sí por nacimiento 2017\; necesita otro compañero\, Osca
  r no elegible.\; Oscar: No — 2020 fuera de 2015–2019.. Cómo partici
- par: Reglamento 2027 art.4.2 admite equipos escolares\, clubes y particu
- lares de Kazajistán y otros países. RGT internacional en Astana 03–0
- 4.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 
- 15.02.2027 y privada Birlik 30–31.01.2027\, solicitud hasta 20.01.2027
- . Vía extranjera y plaza familiar requieren decisión del comité\; ciu
- dadanía no habilita liga local. Un participante — un equipo y una cat
- egoría RGT por temporada. Si Matvey elige otra disciplina\, Oscar neces
- ita otro compañero elegible en LOM. RGT art.6.6 exige Matrix\; Rising P
- ioneers Maker global sin marca no se traslada automáticamente a Astana.
- . Próximo paso: Años de nacimiento 2017 / 2020 conocidos\; fechas exac
- tas y cursos sin establecer. Verificar admisión del equipo\, idioma\, p
- lazas y factura completa. Sin solicitudes\, consentimientos\, mensajes n
- i pagos.. Selección a MARC Taiwan posible solo mediante LOM / Rising Pi
- oneers / Task Master. Reglamento no fija número de licencias ni Wild Ca
- rd: exige acta final\, requisitos del socio y confirmación. Viaje\, alo
- jamiento\, trámites migratorios y cuotas aparte. No es acceso automáti
- co ni viaje financiado. Un participante — un equipo y una categoría R
- GT por temporada. Si Matvey elige otra disciplina\, Oscar necesita otro 
- compañero elegible en LOM. RGT art.6.6 exige Matrix\; Rising Pioneers M
- aker global sin marca no se traslada automáticamente a Astana.. . . Fue
- nte verificada el 2026-11-05.
+ par: Los equipos extranjeros de centros educativos\, clubes y particular
+ es envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de 
+ febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik
+ . Decisión del comité hasta el 20 de febrero y listas hasta el 23 de f
+ ebrero. Un equipo por estudiante y una categoría por equipo durante la 
+ temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme el país d
+ el equipo\, la sede\, la cuota y el idioma del arbitraje. En el registro
+  se exigen documentos de identidad y edad.. Solo LOM\, Rising Pioneers y
+  Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild
+  Card requieren confirmación. El viaje y la cuota dependen de las condi
+ ciones de la final.. El reglamento indica el 18 de febrero de 2027 sin h
+ ora límite. La admisión depende de la decisión del comité.. Se publi
+ có el procedimiento de solicitud. Confirme la admisión y la disponibil
+ idad.. Fuente verificada el 2026-11-10.
+LOCATION:Astana\, Kazajistán
+URL:https://rgt.robotek.kz/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C1323-deadline@family-stem.local
+DTSTAMP:20261110T114525Z
+SUMMARY:[Solicitud del equipo extranjero\, confirmar hora] Robotek Grand 
+ Tournament 2027 · Task Master Elementary
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
+ 323. . Matvey: Sí por nacimiento 2017\; necesita otro compañero\, Osca
+ r no elegible.\; Oscar: No — 2020 fuera de 2015–2019.. Cómo partici
+ par: Los equipos extranjeros de centros educativos\, clubes y particular
+ es envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de 
+ febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik
+ . Decisión del comité hasta el 20 de febrero y listas hasta el 23 de f
+ ebrero. Un equipo por estudiante y una categoría por equipo durante la 
+ temporada.. Próximo paso: Prepare el anexo n.º 2 y confirme el país d
+ el equipo\, la sede\, la cuota y el idioma del arbitraje. En el registro
+  se exigen documentos de identidad y edad.. Solo LOM\, Rising Pioneers y
+  Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild
+  Card requieren confirmación. El viaje y la cuota dependen de las condi
+ ciones de la final.. El reglamento indica el 18 de febrero de 2027 sin h
+ ora límite. La admisión depende de la decisión del comité.. Se publi
+ có el procedimiento de solicitud. Confirme la admisión y la disponibil
+ idad.. Fuente verificada el 2026-11-10.
 LOCATION:Astana\, Kazajistán
 URL:https://rgt.robotek.kz/
 STATUS:TENTATIVE
@@ -412072,7 +412159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12-26@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] Tokyo YMCA · Winter Magic · STEAM · Winter Mag
  ic · 2026-12-26–2026-12-28
 DTSTART:20261226T003000Z
@@ -412100,7 +412187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12-27@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] Tokyo YMCA · Winter Magic · STEAM · Winter Mag
  ic · 2026-12-26–2026-12-28
 DTSTART:20261227T003000Z
@@ -422310,7 +422397,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-04@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270104T080000Z
@@ -422339,7 +422426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-05@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270105T080000Z
@@ -422368,7 +422455,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-06@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270106T080000Z
@@ -422397,7 +422484,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp-2027-01-07@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Game Design with Scratch & AI · 
  Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270107T080000Z
@@ -422455,7 +422542,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-04@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270104T080000Z
@@ -422484,7 +422571,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-05@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270105T080000Z
@@ -422513,7 +422600,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-06@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270106T080000Z
@@ -422542,7 +422629,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01-07@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:0
  0–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270107T080000Z
@@ -422720,7 +422807,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-22@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270322T080000Z
@@ -422749,7 +422836,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-23@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270323T080000Z
@@ -422778,7 +422865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027-03-24@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Robotics & Physical AI · Turno d
  iurno 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270324T080000Z
@@ -422952,7 +423039,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-28@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270628T070000Z
@@ -422981,7 +423068,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-29@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270629T070000Z
@@ -423010,7 +423097,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-06-30@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270630T070000Z
@@ -423039,7 +423126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-07-01@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] ROBOT SCHOOL · Drone Pilot School · Turno diurn
  o 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270701T070000Z
@@ -432572,7 +432659,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22-2026-12-22@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] SUP Education · AI × STEAM Christmas · 7+ · M
  y Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-22–2
  026-12-23
@@ -432626,7 +432713,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29-2026-12-29@family-stem.local
-DTSTAMP:20261110T105556Z
+DTSTAMP:20261110T114525Z
 SUMMARY:[Día de clase] SUP Education · AI × STEAM Christmas · 7+ · M
  y Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-29–2
  026-12-30
@@ -466278,6 +466365,114 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
  .
 LOCATION:Taichung · 福林路61號\, Taiwán
 URL:https://www.irobo.com.tw/spm-camp
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2422-20270124-20270129@family-stem.local
+DTSTAMP:20261110T114345Z
+SUMMARY:[Anuncio · confirmar realización] [Turno de campamento] Tongzi 
+ Education · CUHK AI Innovation Camp · Hong Kong · CUHK / HKU · 2027-
+ 01-24–2027-01-29
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270130
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2422-20270124-20270129. . Matvey: Condicional\; confirmar edad\, curso y
+  admisión\; Oscar: Condicional\; confirmar edad\, curso y admisión. C
+ ómo participar: El operador Tongzi admite consultas individuales del ex
+ tranjero. Confirme la salida concreta y sus condiciones.. Próximo paso:
+  El operador Tongzi admite consultas individuales del extranjero. Confir
+ me la salida concreta y sus condiciones. Confirme la admisión de cada m
+ enor\, las plazas\, los idiomas por actividad\, el hotel\, los traslados
+ \, el precio total y el reembolso.. Matvey: El rango de edad aún no se 
+ publicó. Confirme la edad de ambos menores. Oscar: El rango de edad aú
+ n no se publicó. Confirme la edad de ambos menores. Suplementos: Confir
+ me la admisión de cada menor\, las plazas\, los idiomas por actividad\,
+  el hotel\, los traslados\, el precio total y el reembolso. Pago: Consul
+ te al organizador.. . . Fuente verificada el 2026-11-10.
+LOCATION:Hong Kong · CUHK / HKU\, RAE de Hong Kong (China)
+URL:https://tzyedu.org/cuhk-ai-winter-2027-en
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2423-20270124-20270128@family-stem.local
+DTSTAMP:20261110T114345Z
+SUMMARY:[Anuncio · confirmar realización] [Turno de campamento] Tongzi 
+ Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong ·
+  Macao · Zhuhai · 2027-01-24–2027-01-28
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270129
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2423-20270124-20270128. . Matvey: Cumple la edad\; la admisión se confi
+ rma por separado\; Oscar: no según las condiciones de la pista seleccio
+ nada. Cómo participar: El operador Tongzi admite consultas individuales
+  del extranjero. Confirme la salida concreta y sus condiciones.. Próxim
+ o paso: Antes de viajar\, compruebe la documentación para todos los ter
+ ritorios del itinerario y los traslados. Confirme la admisión de cada m
+ enor\, las plazas\, los idiomas por actividad\, el hotel\, los traslados
+ \, el precio total y el reembolso.. Matvey: Encaja en la edad orientativ
+ a. Confirme la admisión y el idioma de las actividades. Oscar: Edad inf
+ erior al rango orientativo de 8–16. Suplementos: Confirme la admisión
+  de cada menor\, las plazas\, los idiomas por actividad\, el hotel\, los
+  traslados\, el precio total y el reembolso. Pago: Consulte al organizad
+ or.. . . Fuente verificada el 2026-11-10.
+LOCATION:Shenzhen · Hong Kong · Macao · Zhuhai\, China
+URL:https://tzyedu.org/bilingual-winter-2027-en
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2423-20270131-20270204@family-stem.local
+DTSTAMP:20261110T114345Z
+SUMMARY:[Anuncio · confirmar realización] [Turno de campamento] Tongzi 
+ Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong ·
+  Macao · Zhuhai · 2027-01-31–2027-02-04
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270205
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2423-20270131-20270204. . Matvey: Cumple la edad\; la admisión se confi
+ rma por separado\; Oscar: no según las condiciones de la pista seleccio
+ nada. Cómo participar: El operador Tongzi admite consultas individuales
+  del extranjero. Confirme la salida concreta y sus condiciones.. Próxim
+ o paso: Antes de viajar\, compruebe la documentación para todos los ter
+ ritorios del itinerario y los traslados. Confirme la admisión de cada m
+ enor\, las plazas\, los idiomas por actividad\, el hotel\, los traslados
+ \, el precio total y el reembolso.. Matvey: Encaja en la edad orientativ
+ a. Confirme la admisión y el idioma de las actividades. Oscar: Edad inf
+ erior al rango orientativo de 8–16. Suplementos: Confirme la admisión
+  de cada menor\, las plazas\, los idiomas por actividad\, el hotel\, los
+  traslados\, el precio total y el reembolso. Pago: Consulte al organizad
+ or.. . . Fuente verificada el 2026-11-10.
+LOCATION:Shenzhen · Hong Kong · Macao · Zhuhai\, China
+URL:https://tzyedu.org/bilingual-winter-2027-en
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2423-20270214-20270218@family-stem.local
+DTSTAMP:20261110T114345Z
+SUMMARY:[Anuncio · confirmar realización] [Turno de campamento] Tongzi 
+ Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong ·
+  Macao · Zhuhai · 2027-02-14–2027-02-18
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270219
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID CP
+ 2423-20270214-20270218. . Matvey: Cumple la edad\; la admisión se confi
+ rma por separado\; Oscar: no según las condiciones de la pista seleccio
+ nada. Cómo participar: El operador Tongzi admite consultas individuales
+  del extranjero. Confirme la salida concreta y sus condiciones.. Próxim
+ o paso: Antes de viajar\, compruebe la documentación para todos los ter
+ ritorios del itinerario y los traslados. Confirme la admisión de cada m
+ enor\, las plazas\, los idiomas por actividad\, el hotel\, los traslados
+ \, el precio total y el reembolso.. Matvey: Encaja en la edad orientativ
+ a. Confirme la admisión y el idioma de las actividades. Oscar: Edad inf
+ erior al rango orientativo de 8–16. Suplementos: Confirme la admisión
+  de cada menor\, las plazas\, los idiomas por actividad\, el hotel\, los
+  traslados\, el precio total y el reembolso. Pago: Consulte al organizad
+ or.. . . Fuente verificada el 2026-11-10.
+LOCATION:Shenzhen · Hong Kong · Macao · Zhuhai\, China
+URL:https://tzyedu.org/bilingual-winter-2027-en
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

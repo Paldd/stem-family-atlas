@@ -6841,34 +6841,34 @@ Comprobado: 2026-10-02
 ### L420 · EISB Sant Cugat · Chess & Robotics · July 2027
 
 Lugar: España · Sant Cugat del Vallès · European International School of Barcelona
-Fecha: Julio 2027; días de la semana en cuestión y lugares actuales para confirmar
-Edad: Nacimientos publicados 2012–2019 / PY1–SY2; La edad de la nueva temporada no cambiaba de idea.
-Matway: Condicional: Nacer 2017 en el rango publicado; clase y juego actual de confirmación
-Oscar: No por nacimiento publicado: 2020 no entra en 2012–2019; la posible actualización de la norma sólo por conducto del organizador
+Fecha: Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+Edad: Años de nacimiento 2012–2019, cursos PY1–SY2.
+Matvey: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Oscar: No: 2020 queda fuera del rango publicado 2012–2019.
 Formato: day_camp
-Idioma: El lenguaje de Chess & Robotics no está instalado; el sitio en inglés y el entorno escolar no son confirmados.
+Idioma: El colegio no indica el idioma del taller técnico. Confírmelo para el grupo elegido.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: Precio July 2027 No se ha determinado: El enlace se refiere a la tabla 2026, a early bird Específicamente antes de 01.06.2026.
-Entrada: Se aceptan familiares externos según las condiciones de registro; seleccione la mañana 09:00-13:00 o el día completo 09:00-17:00, confirmando las fechas y la edad semanales.
-Limitaciones: El título de julio 2027 coexiste con la antigua tabla de precios / plazo 2026. Los nacimientos de 2012***2019 son literalmente tomados; el cutoff actualizado aún no está confirmado. Las semanas exactas no se han declarado en el cuerpo leído. Es un campamento mixto de día; una actividad de camping no lo convierte en un internado.
+Coste: Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+Acceso: Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+Restricciones: Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
 Fuente: https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/
-Comprobado: 2026-10-02
+Verificado: 2026-11-10
 
 ### L421 · EISB Sant Cugat · Scientific Talent · Science Camp · July 2027
 
 Lugar: España · Sant Cugat del Vallès · European International School of Barcelona
-Fecha: Julio 2027; días de la semana en cuestión y lugares actuales para confirmar
-Edad: Nacimientos publicados 2012–2019 / PY1–SY2; La edad de la nueva temporada no cambiaba de idea.
-Matway: Condicional: Nacer 2017 en el rango publicado; clase y juego actual de confirmación
-Oscar: No por nacimiento publicado: 2020 no entra en 2012–2019; la posible actualización de la norma sólo por conducto del organizador
+Fecha: Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+Edad: Años de nacimiento 2012–2019, cursos PY1–SY2.
+Matvey: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Oscar: No: 2020 queda fuera del rango publicado 2012–2019.
 Formato: day_camp
-Idioma: El operador escribe directamente las actividades en inglés guiadas por profesionales del Colegio.
+Idioma: El colegio indica explícitamente que las actividades son en inglés.
 Marca de idioma: primary; soporte: no declarado
-Precio: Precio July 2027 No se ha determinado: El enlace se refiere a la tabla 2026, a early bird Específicamente antes de 01.06.2026.
-Entrada: Se aceptan familiares externos según las condiciones de registro; seleccione la mañana 09:00-13:00 o el día completo 09:00-17:00, confirmando las fechas y la edad semanales.
-Limitaciones: El título de julio 2027 coexiste con la antigua tabla de precios / plazo 2026. Los nacimientos de 2012***2019 son literalmente tomados; el cutoff actualizado aún no está confirmado. Las semanas exactas no se han declarado en el cuerpo leído. Es un campamento mixto de día; una actividad de camping no lo convierte en un internado.
+Coste: Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+Acceso: Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+Restricciones: Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
 Fuente: https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/scientific-talent-summer-camp/
-Comprobado: 2026-10-02
+Verificado: 2026-11-10
 
 ### L422 · Logiscool Spain · LEGO WeDo Future · 6–9
 
@@ -14868,6 +14868,38 @@ Coste: La página indica EUR 6. Confirme la unidad de tarifa y las condiciones d
 Acceso: El programa se dirige a escolares. Solicite una franja para el grupo y confirme si se admite participación familiar.
 Restricciones: Se ofrecen inicios a las 09:30 y 11:15. El grupo acuerda el día y la franja disponible.
 Fuente: https://www.fundacionibercaja.es/programas-didacticos/pensamiento-computacional-y-diseno-de-videojuegos-guadalajara/
+Verificado: 2026-11-10
+
+### L1006 · EISB Sant Cugat · English Summer Camp · July 2027
+
+Lugar: España · Sant Cugat del Vallès
+Fecha: Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+Edad: Años de nacimiento 2012–2022, cursos FY1–SY2.
+Matvey: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Oscar: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Formato: day_camp
+Idioma: Inmersión en inglés con docentes del colegio.
+Marca de idioma: primary; soporte: no declarado
+Coste: Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+Acceso: Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+Restricciones: Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+Fuente: https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/english-summer-camp/
+Verificado: 2026-11-10
+
+### L1007 · EISB Sant Cugat · Spanish Summer Camp · July 2027
+
+Lugar: España · Sant Cugat del Vallès
+Fecha: Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+Edad: Años de nacimiento 2014–2020, cursos FY3–PY6.
+Matvey: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Oscar: El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+Formato: day_camp
+Idioma: Todas las actividades se realizan en español con docentes del colegio.
+Marca de idioma: primary; soporte: no declarado
+Coste: Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+Acceso: Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+Restricciones: Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+Fuente: https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/spanish-summer-camp/
 Verificado: 2026-11-10
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -93796,6 +93828,70 @@ Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condic
 Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
 Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
 Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2422-20270124-20270129 · Tongzi Education · CUHK AI Innovation Camp · Hong Kong · CUHK / HKU · 2027-01-24–2027-01-29
+
+Lugar: China, Región Administrativa Especial de Hong Kong · Hong Kong · CUHK / HKU
+Fecha: 2027-01-24 国 2027-01-29
+Edad: El rango de edad aún no se publicó. Confirme la edad de ambos menores.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: El folleto en inglés indica chino e inglés como idiomas de enseñanza. Confirme el reparto por actividad.
+Marca de idioma: bilingual; soporte: no declarado
+Coste: 2027 · La tarifa de la edición de 2027 aún no se ha publicado. · suplementos y condiciones en la ficha
+Acceso: El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+Restricciones: Matvey: El rango de edad aún no se publicó. Confirme la edad de ambos menores. Oscar: El rango de edad aún no se publicó. Confirme la edad de ambos menores. Suplementos: Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso. Pago: Consulte al organizador.
+Fuente: https://tzyedu.org/cuhk-ai-winter-2027-en
+Verificado: 2026-11-10
+
+### CP2423-20270124-20270128 · Tongzi Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong · Macao · Zhuhai · 2027-01-24–2027-01-28
+
+Lugar: China · Shenzhen · Hong Kong · Macao · Zhuhai
+Fecha: 2027-01-24 — 2027-01-28
+Edad: El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: residente
+Idioma: Se anuncian una clase DSE de inglés y tareas bilingües. Confirme el idioma de las actividades de IA y AR de la edición elegida.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · Aún no se publicaron la tarifa ni la moneda de la edición de 2027. · suplementos y condiciones en la ficha
+Acceso: El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+Restricciones: Matvey: Encaja en la edad orientativa. Confirme la admisión y el idioma de las actividades. Oscar: Edad inferior al rango orientativo de 8–16. Suplementos: Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso. Pago: Consulte al organizador.
+Fuente: https://tzyedu.org/bilingual-winter-2027-en
+Verificado: 2026-11-10
+
+### CP2423-20270131-20270204 · Tongzi Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong · Macao · Zhuhai · 2027-01-31–2027-02-04
+
+Lugar: China · Shenzhen · Hong Kong · Macao · Zhuhai
+Fecha: 2027-01-31 — 2027-02-04
+Edad: El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: residente
+Idioma: Se anuncian una clase DSE de inglés y tareas bilingües. Confirme el idioma de las actividades de IA y AR de la edición elegida.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · Aún no se publicaron la tarifa ni la moneda de la edición de 2027. · suplementos y condiciones en la ficha
+Acceso: El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+Restricciones: Matvey: Encaja en la edad orientativa. Confirme la admisión y el idioma de las actividades. Oscar: Edad inferior al rango orientativo de 8–16. Suplementos: Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso. Pago: Consulte al organizador.
+Fuente: https://tzyedu.org/bilingual-winter-2027-en
+Verificado: 2026-11-10
+
+### CP2423-20270214-20270218 · Tongzi Education · Greater Bay Area Bilingual Camp · Shenzhen · Hong Kong · Macao · Zhuhai · 2027-02-14–2027-02-18
+
+Lugar: China · Shenzhen · Hong Kong · Macao · Zhuhai
+Fecha: 2027-02-14 — 2027-02-18
+Edad: El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: residente
+Idioma: Se anuncian una clase DSE de inglés y tareas bilingües. Confirme el idioma de las actividades de IA y AR de la edición elegida.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · Aún no se publicaron la tarifa ni la moneda de la edición de 2027. · suplementos y condiciones en la ficha
+Acceso: El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+Restricciones: Matvey: Encaja en la edad orientativa. Confirme la admisión y el idioma de las actividades. Oscar: Edad inferior al rango orientativo de 8–16. Suplementos: Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso. Pago: Consulte al organizador.
+Fuente: https://tzyedu.org/bilingual-winter-2027-en
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

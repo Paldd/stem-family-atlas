@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12286,
-    "competition_cards": 5527,
-    "event_cards": 821,
-    "camp_cards": 5938,
+    "cards": 12299,
+    "competition_cards": 5533,
+    "event_cards": 822,
+    "camp_cards": 5944,
     "league_profiles": 356,
-    "major_exhibition_cards": 715,
+    "major_exhibition_cards": 716,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3943,
+      "total": 3944,
       "countries_with_records": 41,
       "competitions": 2234,
-      "events": 235,
-      "major_exhibitions": 188,
+      "events": 236,
+      "major_exhibitions": 189,
       "camps": 1474,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2727,
+      "total": 2729,
       "countries_with_records": 55,
       "competitions": 795,
       "events": 204,
       "major_exhibitions": 180,
-      "camps": 1728,
+      "camps": 1730,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3351,
+      "total": 3361,
       "countries_with_records": 51,
-      "competitions": 1283,
+      "competitions": 1289,
       "events": 210,
       "major_exhibitions": 197,
-      "camps": 1858,
+      "camps": 1862,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -3721,13 +3721,19 @@
         "C1325",
         "C1326",
         "C1327",
-        "C1328"
+        "C1328",
+        "C5529",
+        "C5530",
+        "C5531",
+        "C5532",
+        "C5533",
+        "C5534"
       ],
-      "cards": 10,
-      "future_dated": 9,
-      "linked_card_count": 10,
+      "cards": 16,
+      "future_dated": 15,
+      "linked_card_count": 16,
       "status": "Есть профиль и карточки; местный охват частичный",
-      "source": "https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view",
+      "source": "https://rgt.robotek.kz/",
       "new": false
     },
     {
@@ -18027,6 +18033,17 @@
       "new": false
     },
     {
+      "id": "E822",
+      "name": "Robotics & turkey · Jamaica",
+      "country": "Ямайка",
+      "region": "Карибский регион",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.roboticsturkey.org/blog-1-1/pausing-robotics-amp-turkey-for-2026",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20458,17 +20475,17 @@
       }
     ],
     "counts": {
-      "records": 5938,
-      "holiday": 5269,
+      "records": 5944,
+      "holiday": 5275,
       "regular": 236,
       "self_paced_materials": 4,
-      "boarding": 1042,
-      "en_es_instruction": 1709,
+      "boarding": 1046,
+      "en_es_instruction": 1712,
       "en_es_support": 67,
-      "family_instruction": 1709,
+      "family_instruction": 1712,
       "family_support": 67,
       "ru_instruction": 6,
-      "language_lessons": 423,
+      "language_lessons": 426,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 161

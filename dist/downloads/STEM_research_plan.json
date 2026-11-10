@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 371,
+    "prepared_ui_version": 372,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 370,
-    "previous_verified_commit": "201090260647f87b129f4512242b20a66b32d15a"
+    "previous_verified_ui_version": 371,
+    "previous_verified_commit": "595a0e19440fa251282c6a702ebbcbd8ce5c6602"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -40400,5 +40400,79 @@
     "irobo_instruction_language_confirmed": false,
     "micromouse_children_eligible": false,
     "guyexpo_robotics_exhibitor_confirmed": false
+  },
+  "robotek_direct_entry_and_family_camps_v372": {
+    "version": 372,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5529",
+      "C5530",
+      "C5531",
+      "C5532",
+      "C5533",
+      "C5534"
+    ],
+    "updated_robotek_ids": [
+      "C869",
+      "C870",
+      "C1321",
+      "C1322",
+      "C1323",
+      "C1189"
+    ],
+    "robotek_application_deadline": "2027-02-18",
+    "robotek_admission_not_guaranteed": true,
+    "robotek_qualifiers_preserved": true,
+    "robotek_2027_divisions": 10,
+    "event_ids": [
+      "E822"
+    ],
+    "jamaica_paused_without_new_dates": true,
+    "new_camp_dossiers": [
+      "CP2418",
+      "CP2419",
+      "CP2420",
+      "CP2421",
+      "CP2422",
+      "CP2423"
+    ],
+    "dossier_event_links": {
+      "eisb-sant-cugat-english-summer-2027": [
+        "L1006"
+      ],
+      "eisb-sant-cugat-spanish-summer-2027": [
+        "L1007"
+      ],
+      "eisb-sant-cugat-science-summer-2027": [
+        "L421"
+      ],
+      "eisb-sant-cugat-chess-robotics-summer-2027": [
+        "L420"
+      ]
+    },
+    "new_eis_month_cards": [
+      "L1006",
+      "L1007"
+    ],
+    "reused_eis_cards": [
+      "L420",
+      "L421"
+    ],
+    "eis_announced_month": "2027-07",
+    "eis_fees_2027_unpublished": true,
+    "tongzi_winter_variants": 4,
+    "legacy_overlay_event_ids": [
+      "C869",
+      "C870",
+      "C1321",
+      "C1322",
+      "C1323",
+      "C1189"
+    ],
+    "legacy_overlay_league_ids": [
+      "robotek-rgt"
+    ]
   }
 }

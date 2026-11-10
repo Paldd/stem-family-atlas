@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2417 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2423 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -190285,6 +190285,318 @@ Taiwán · Banqiao / Taichung
 - [Se comprobó la ficha oficial del programa.](https://www.irobo.com.tw/spm-camp) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.irobo.com.tw/timetable-taipei) · 2026-11-10
+
+## CP2418 · EISB Sant Cugat · English Summer Camp
+
+España · EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès
+
+**Verificado:** 2026-11-10
+
+**Edad:** Años de nacimiento 2012–2022, cursos FY1–SY2.
+
+**Idioma:** Inmersión en inglés con docentes del colegio.
+
+**Programa:** Juegos, canciones, manualidades y actividades acuáticas con inmersión en inglés.
+
+**Alojamiento:** Formato diurno sin internado.
+
+**Fechas / estado:** Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+
+**Precio / año:** 2027 · Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+
+**Incluido:** Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+
+**Suplementos:** Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Oscar:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Motivo de selección:** Juegos, canciones, manualidades y actividades acuáticas con inmersión en inglés.
+
+### Antes de solicitar plaza
+
+- Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/english-summer-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/eisb-international-summer-camps/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/) · 2026-11-10
+
+## CP2419 · EISB Sant Cugat · Spanish Summer Camp
+
+España · EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès
+
+**Verificado:** 2026-11-10
+
+**Edad:** Años de nacimiento 2014–2020, cursos FY3–PY6.
+
+**Idioma:** Todas las actividades se realizan en español con docentes del colegio.
+
+**Programa:** Juegos, canciones, manualidades y actividades acuáticas con inmersión en español.
+
+**Alojamiento:** Formato diurno sin internado.
+
+**Fechas / estado:** Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+
+**Precio / año:** 2027 · Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+
+**Incluido:** Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+
+**Suplementos:** Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Oscar:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Motivo de selección:** Juegos, canciones, manualidades y actividades acuáticas con inmersión en español.
+
+### Antes de solicitar plaza
+
+- Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/spanish-summer-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/eisb-international-summer-camps/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/) · 2026-11-10
+
+## CP2420 · EISB Sant Cugat · Scientific Talent · Science Camp
+
+España · EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès
+
+**Verificado:** 2026-11-10
+
+**Edad:** Años de nacimiento 2012–2019, cursos PY1–SY2.
+
+**Idioma:** El colegio indica explícitamente que las actividades son en inglés.
+
+**Programa:** Experimentos semanales, proyectos, observación y juegos en la piscina.
+
+**Alojamiento:** Formato diurno sin internado.
+
+**Fechas / estado:** Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+
+**Precio / año:** 2027 · Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+
+**Incluido:** Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+
+**Suplementos:** Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Oscar:** 2020 queda fuera del rango publicado 2012–2019.
+
+**Motivo de selección:** Experimentos semanales, proyectos, observación y juegos en la piscina.
+
+### Antes de solicitar plaza
+
+- Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/science-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/eisb-international-summer-camps/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/) · 2026-11-10
+
+## CP2421 · EISB Sant Cugat · Chess & Robotics Camp
+
+España · EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès
+
+**Verificado:** 2026-11-10
+
+**Edad:** Años de nacimiento 2012–2019, cursos PY1–SY2.
+
+**Idioma:** El colegio no indica el idioma del taller técnico. Confírmelo para el grupo elegido.
+
+**Programa:** Estrategia de ajedrez, introducción a la robótica y la programación, ejercicios prácticos y piscina.
+
+**Alojamiento:** Formato diurno sin internado.
+
+**Fechas / estado:** Se anunció julio de 2027. Aún no se publicaron las semanas exactas.
+
+**Precio / año:** 2027 · Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.
+
+**Incluido:** Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.
+
+**Suplementos:** Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión.
+
+**Oscar:** 2020 queda fuera del rango publicado 2012–2019.
+
+**Motivo de selección:** Estrategia de ajedrez, introducción a la robótica y la programación, ejercicios prácticos y piscina.
+
+### Antes de solicitar plaza
+
+- Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/eisb-international-summer-camps/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/) · 2026-11-10
+
+## CP2422 · Tongzi Education · CUHK AI Innovation Camp
+
+China, Región Administrativa Especial de Hong Kong · Hong Kong · CUHK / HKU
+
+**Verificado:** 2026-11-10
+
+**Edad:** El rango de edad aún no se publicó. Confirme la edad de ambos menores.
+
+**Idioma:** El folleto en inglés indica chino e inglés como idiomas de enseñanza. Confirme el reparto por actividad.
+
+**Programa:** IA y AGI, redes neuronales, generación de texto e imágenes, visita a SenseTime y acercamiento a CUHK y HKU. El programa lo dirige el operador privado Tongzi Education.
+
+**Alojamiento:** Con alojamiento. Confirme el hotel concreto y las condiciones de supervisión.
+
+**Fechas / estado:** 24–29 de enero de 2027, 6 días y 5 noches.
+
+**Precio / año:** 2027 · La tarifa de la edición de 2027 aún no se ha publicado.
+
+**Incluido:** Alojamiento en hotel de 4 estrellas en habitaciones dobles y comidas organizadas según el folleto.
+
+**Suplementos:** Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** El rango de edad aún no se publicó. Confirme la edad de ambos menores.
+
+**Oscar:** El rango de edad aún no se publicó. Confirme la edad de ambos menores.
+
+**Motivo de selección:** IA y AGI, redes neuronales, generación de texto e imágenes, visita a SenseTime y acercamiento a CUHK y HKU. El programa lo dirige el operador privado Tongzi Education.
+
+### Antes de solicitar plaza
+
+- El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+
+- Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.
+
+### Hong Kong · CUHK / HKU
+
+**Fechas / estado:** 2027-01-24 — 2027-01-29
+
+**Lugar:** Hong Kong · CUHK / HKU
+
+**Edad:** El rango de edad aún no se publicó. Confirme la edad de ambos menores.
+
+**Precio:** La tarifa de la edición de 2027 aún no se ha publicado.
+
+**Condiciones de participación:** El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+
+[fuente](https://tzyedu.org/cuhk-ai-winter-2027-en)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/cuhk-ai-winter-2027-en) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/brochures/cuhk-ai-winter-2027-en.pdf) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/international-camps) · 2026-11-10
+
+## CP2423 · Tongzi Education · Greater Bay Area Bilingual Camp
+
+China · Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Verificado:** 2026-11-10
+
+**Edad:** El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+
+**Idioma:** Se anuncian una clase DSE de inglés y tareas bilingües. Confirme el idioma de las actividades de IA y AR de la edición elegida.
+
+**Programa:** Visitas a universidades, demostraciones de IA y AR y proyecto en equipo Little CEO. Inicio en Shenzhen y final en Zhuhai, con Hong Kong y Macao en el itinerario.
+
+**Alojamiento:** Con alojamiento. Confirme el hotel concreto y las condiciones de supervisión.
+
+**Fechas / estado:** 3 ediciones en el invierno de 2027, de 5 días y 4 noches cada una.
+
+**Precio / año:** 2027 · Aún no se publicaron la tarifa ni la moneda de la edición de 2027.
+
+**Incluido:** Alojamiento en hotel de 4 estrellas en habitaciones dobles y comidas organizadas según el folleto.
+
+**Suplementos:** Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Encaja en la edad orientativa. Confirme la admisión y el idioma de las actividades.
+
+**Oscar:** Edad inferior al rango orientativo de 8–16.
+
+**Motivo de selección:** Visitas a universidades, demostraciones de IA y AR y proyecto en equipo Little CEO. Inicio en Shenzhen y final en Zhuhai, con Hong Kong y Macao en el itinerario.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, compruebe la documentación para todos los territorios del itinerario y los traslados.
+
+- Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.
+
+### Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Fechas / estado:** 2027-01-24 — 2027-01-28
+
+**Lugar:** Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Edad:** El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+
+**Precio:** Aún no se publicaron la tarifa ni la moneda de la edición de 2027.
+
+**Condiciones de participación:** El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+
+[fuente](https://tzyedu.org/bilingual-winter-2027-en)
+
+### Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Fechas / estado:** 2027-01-31 — 2027-02-04
+
+**Lugar:** Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Edad:** El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+
+**Precio:** Aún no se publicaron la tarifa ni la moneda de la edición de 2027.
+
+**Condiciones de participación:** El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+
+[fuente](https://tzyedu.org/bilingual-winter-2027-en)
+
+### Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Fechas / estado:** 2027-02-14 — 2027-02-18
+
+**Lugar:** Shenzhen · Hong Kong · Macao · Zhuhai
+
+**Edad:** El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.
+
+**Precio:** Aún no se publicaron la tarifa ni la moneda de la edición de 2027.
+
+**Condiciones de participación:** El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.
+
+[fuente](https://tzyedu.org/bilingual-winter-2027-en)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/bilingual-winter-2027-en) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/brochures/winter-2027.pdf?v=20260913) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://tzyedu.org/international-camps) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

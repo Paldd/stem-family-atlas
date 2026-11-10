@@ -108,7 +108,8 @@ current_audits = [
                  'robotics-routes-and-family-visits-audit-v367.json',
                  'techlabs-canada-and-family-robotics-audit-v368.json',
                  'regional-robotics-and-family-visits-audit-v369.json',
-                 'wrc-source-crosswalk-and-family-programmes-audit-v370.json')
+                 'wrc-source-crosswalk-and-family-programmes-audit-v370.json',
+                 'robotek-direct-entry-and-family-camps-audit-v372.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

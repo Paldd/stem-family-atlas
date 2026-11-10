@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2417,
+    "dossiers": 2423,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 678,
-      "partial_2027": 176,
+      "published_2027": 680,
+      "partial_2027": 180,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3353
+    "source_urls": 3364
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "Испания",
-      "count": 152
+      "count": 156
     },
     {
       "country": "Италия",
@@ -272,11 +272,11 @@
     },
     {
       "country": "Китай",
-      "count": 13
+      "count": 14
     },
     {
       "country": "Китай, Специальный административный район Гонконг",
-      "count": 67
+      "count": 68
     },
     {
       "country": "Кокосовых (Килинг) островов",
@@ -426467,6 +426467,643 @@
         }
       ],
       "language_roles": {}
+    },
+    {
+      "id": "CP2418",
+      "slug": "eisb-sant-cugat-english-summer-2027",
+      "provider": "EISB Sant Cugat · English Summer Camp",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "age": "Годы рождения 2012–2022, школьные ступени FY1–SY2.",
+      "programme": "Игры, песни, поделки и водные занятия с английским погружением.",
+      "language": "Погружение в английский с преподавателями школы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Дневной формат без пансиона.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Объявлен июль 2027. Точные недели пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф 2027 пока не опубликован. Таблица цен и срок скидки относятся к 2026.",
+        "included": "Приём 08:45–09:00. Выход 13:00–13:15 или 16:45–17:00. Бесплатный присмотр 08:00–08:45 и 17:00–18:00 по общей странице лагеря.",
+        "extras": "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Игры, песни, поделки и водные занятия с английским погружением.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/english-summer-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "related_event_ids": [
+        "L1006"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2419",
+      "slug": "eisb-sant-cugat-spanish-summer-2027",
+      "provider": "EISB Sant Cugat · Spanish Summer Camp",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "age": "Годы рождения 2014–2020, школьные ступени FY3–PY6.",
+      "programme": "Игры, песни, поделки и водные занятия с испанским погружением.",
+      "language": "Все занятия проходят на испанском с преподавателями школы.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Дневной формат без пансиона.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Объявлен июль 2027. Точные недели пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф 2027 пока не опубликован. Таблица цен и срок скидки относятся к 2026.",
+        "included": "Приём 08:45–09:00. Выход 13:00–13:15 или 16:45–17:00. Бесплатный присмотр 08:00–08:45 и 17:00–18:00 по общей странице лагеря.",
+        "extras": "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Игры, песни, поделки и водные занятия с испанским погружением.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/spanish-summer-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "related_event_ids": [
+        "L1007"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2420",
+      "slug": "eisb-sant-cugat-science-summer-2027",
+      "provider": "EISB Sant Cugat · Scientific Talent · Science Camp",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "age": "Годы рождения 2012–2019, школьные ступени PY1–SY2.",
+      "programme": "Еженедельные опыты, проекты, наблюдения и игры в бассейне.",
+      "language": "Школа прямо указывает английский язык занятий.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Дневной формат без пансиона.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Объявлен июль 2027. Точные недели пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф 2027 пока не опубликован. Таблица цен и срок скидки относятся к 2026.",
+        "included": "Приём 08:45–09:00. Выход 13:00–13:15 или 16:45–17:00. Бесплатный присмотр 08:00–08:45 и 17:00–18:00 по общей странице лагеря.",
+        "extras": "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "2020 вне опубликованного диапазона 2012–2019."
+        }
+      },
+      "editorial_reason": "Еженедельные опыты, проекты, наблюдения и игры в бассейне.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/science-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "related_event_ids": [
+        "L421"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2421",
+      "slug": "eisb-sant-cugat-chess-robotics-summer-2027",
+      "provider": "EISB Sant Cugat · Chess & Robotics Camp",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "age": "Годы рождения 2012–2019, школьные ступени PY1–SY2.",
+      "programme": "Шахматная стратегия, введение в робототехнику и программирование, практические задания и бассейн.",
+      "language": "Язык технического занятия школа не указала. Уточнить для выбранной группы.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Дневной формат без пансиона.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Объявлен июль 2027. Точные недели пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф 2027 пока не опубликован. Таблица цен и срок скидки относятся к 2026.",
+        "included": "Приём 08:45–09:00. Выход 13:00–13:15 или 16:45–17:00. Бесплатный присмотр 08:00–08:45 и 17:00–18:00 по общей странице лагеря.",
+        "extras": "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Год рождения входит в опубликованный диапазон. Школьную ступень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "2020 вне опубликованного диапазона 2012–2019."
+        }
+      },
+      "editorial_reason": "Шахматная стратегия, введение в робототехнику и программирование, практические задания и бассейн.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить школьную ступень, места для детей из другой школы, недели, питание, полный тариф и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "related_event_ids": [
+        "L420"
+      ],
+      "calendar_links": [],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2422",
+      "slug": "tongzi-cuhk-ai-innovation-winter-2027",
+      "provider": "Tongzi Education · CUHK AI Innovation Camp",
+      "iso": "HKG",
+      "country": "Китай, Специальный административный район Гонконг",
+      "place": "Hong Kong · CUHK / HKU",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "age": "Возрастная сетка не опубликована. Уточнить возраст обоих детей.",
+      "programme": "ИИ и AGI, нейросети, генерация текста и изображений, визит в SenseTime и знакомство с CUHK и HKU. Программу ведёт частный оператор Tongzi Education.",
+      "language": "В английской брошюре языки обучения указаны как китайский и английский. Распределение по занятиям уточнить.",
+      "confirmed_instruction_languages": [
+        "ZH",
+        "EN"
+      ],
+      "language_evidence_role": "bilingual",
+      "formats": [
+        "boarding"
+      ],
+      "accommodation": "С проживанием. Точный отель и порядок присмотра подтвердить.",
+      "timing": {
+        "status": "published_2027",
+        "label": "24–29 января 2027, 6 дней и 5 ночей.",
+        "sessions": [
+          [
+            "2027-01-24",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-24",
+            "end": "2027-01-29",
+            "label": "Hong Kong · CUHK / HKU",
+            "place": "Hong Kong · CUHK / HKU",
+            "age": "Возрастная сетка не опубликована. Уточнить возраст обоих детей.",
+            "price": "Цена смены 2027 не опубликована.",
+            "source": "https://tzyedu.org/cuhk-ai-winter-2027-en",
+            "date_status": "Анонсировано",
+            "entry": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения.",
+            "date_precision": "announced_window",
+            "date_rule": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Цена смены 2027 не опубликована.",
+        "included": "Проживание в отеле 4 звезды по двое и организованное питание по брошюре.",
+        "extras": "Сверить допуск каждого ребёнка, места, языки по занятиям, отель, трансферы, полную цену и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастная сетка не опубликована. Уточнить возраст обоих детей."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возрастная сетка не опубликована. Уточнить возраст обоих детей."
+        }
+      },
+      "editorial_reason": "ИИ и AGI, нейросети, генерация текста и изображений, визит в SenseTime и знакомство с CUHK и HKU. Программу ведёт частный оператор Tongzi Education.",
+      "shortlist": [],
+      "questions": [
+        "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения.",
+        "Сверить допуск каждого ребёнка, места, языки по занятиям, отель, трансферы, полную цену и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://tzyedu.org/cuhk-ai-winter-2027-en",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/brochures/cuhk-ai-winter-2027-en.pdf",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/international-camps",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-24",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2422-20270124-20270129"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "ZH",
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2423",
+      "slug": "tongzi-greater-bay-bilingual-winter-2027",
+      "provider": "Tongzi Education · Greater Bay Area Bilingual Camp",
+      "iso": "CHN",
+      "country": "Китай",
+      "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+      "themes": [
+        "ai",
+        "technology",
+        "languages",
+        "entrepreneurship"
+      ],
+      "age": "Рекомендованный диапазон для запроса 8–16 лет. Допуск подтверждает оператор.",
+      "programme": "Визиты в университеты, демонстрации ИИ и AR и командный проект Little CEO. Сбор в Шэньчжэне, финиш в Чжухае, в маршруте Гонконг и Макао.",
+      "language": "Объявлены занятие DSE по английскому и двуязычные задания. Язык занятий ИИ и AR для выбранной смены уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "formats": [
+        "boarding"
+      ],
+      "accommodation": "С проживанием. Точный отель и порядок присмотра подтвердить.",
+      "timing": {
+        "status": "published_2027",
+        "label": "3 смены зимой 2027, 5 дней и 4 ночи каждая.",
+        "sessions": [
+          [
+            "2027-01-24",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-31",
+            "2027-02-04"
+          ],
+          [
+            "2027-02-14",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-24",
+            "end": "2027-01-28",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "Рекомендованный диапазон для запроса 8–16 лет. Допуск подтверждает оператор.",
+            "price": "Цена и валюта смены 2027 пока не опубликованы.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Анонсировано",
+            "entry": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения.",
+            "date_precision": "announced_window",
+            "date_rule": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения."
+          },
+          {
+            "start": "2027-01-31",
+            "end": "2027-02-04",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "Рекомендованный диапазон для запроса 8–16 лет. Допуск подтверждает оператор.",
+            "price": "Цена и валюта смены 2027 пока не опубликованы.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Анонсировано",
+            "entry": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения.",
+            "date_precision": "announced_window",
+            "date_rule": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения."
+          },
+          {
+            "start": "2027-02-14",
+            "end": "2027-02-18",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "Рекомендованный диапазон для запроса 8–16 лет. Допуск подтверждает оператор.",
+            "price": "Цена и валюта смены 2027 пока не опубликованы.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Анонсировано",
+            "entry": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения.",
+            "date_precision": "announced_window",
+            "date_rule": "Оператор Tongzi принимает индивидуальные запросы из других стран. Конкретный выезд и условия требуют подтверждения."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Цена и валюта смены 2027 пока не опубликованы.",
+        "included": "Проживание в отеле 4 звезды по двое и организованное питание по брошюре.",
+        "extras": "Сверить допуск каждого ребёнка, места, языки по занятиям, отель, трансферы, полную цену и возврат.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит по рекомендованному возрасту. Допуск и язык занятий уточнить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Возраст ниже рекомендованного диапазона 8–16."
+        }
+      },
+      "editorial_reason": "Визиты в университеты, демонстрации ИИ и AR и командный проект Little CEO. Сбор в Шэньчжэне, финиш в Чжухае, в маршруте Гонконг и Макао.",
+      "shortlist": [],
+      "questions": [
+        "До поездки проверить документы для всех территорий маршрута и трансферы.",
+        "Сверить допуск каждого ребёнка, места, языки по занятиям, отель, трансферы, полную цену и возврат."
+      ],
+      "sources": [
+        {
+          "url": "https://tzyedu.org/bilingual-winter-2027-en",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/brochures/winter-2027.pdf?v=20260913",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/international-camps",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить у организатора."
+      },
+      "catalog_participation": "residential",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-24",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270124-20270128"
+          ]
+        },
+        {
+          "start": "2027-01-31",
+          "end": "2027-02-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270131-20270204"
+          ]
+        },
+        {
+          "start": "2027-02-14",
+          "end": "2027-02-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270214-20270218"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -445027,7 +445664,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2417,
+      "total_dossiers": 2423,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -471277,6 +471914,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2418",
+      "event_id": "L1006",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2419",
+      "event_id": "L1007",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2420",
+      "event_id": "L421",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2421",
+      "event_id": "L420",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2422",
+      "event_id": "CP2422-20270124-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270124-20270128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270131-20270204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270214-20270218",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -476620,10 +477297,14 @@
     "CP2417-20270128-20270129-banqiao-20270128",
     "CP2417-20270201-20270203-banqiao-20270201",
     "CP2417-20270128-20270129-taichung-20270128",
-    "CP2417-20270201-20270203-taichung-20270201"
+    "CP2417-20270201-20270203-taichung-20270201",
+    "CP2422-20270124-20270129",
+    "CP2423-20270124-20270128",
+    "CP2423-20270131-20270204",
+    "CP2423-20270214-20270218"
   ],
   "integration": {
-    "generated_sessions": 4933,
+    "generated_sessions": 4937,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

@@ -9697,7 +9697,7 @@
         "id": "robotek-rgt",
         "name": "Robotek Grand Tournament · Kazajstán / Taiwán",
         "group": "regional",
-        "age_summary": "LOM 2016–2021; Robotek 2014–2018; RP / TM 2015–2019",
+        "age_summary": "Años de nacimiento según la disciplina: de 2009 a 2021. LOM Elementary 2016–2021.",
         "age_tags": [
           "6",
           "9",
@@ -9705,22 +9705,22 @@
           "teen",
           "unknown"
         ],
-        "summary": "RGT 2027: reglas de edad publicadas, equipos extranjeros admitidos; selección local y final internacional son distintos.",
+        "summary": "RGT 2027: cinco categorías, diez formatos por edad y solicitud directa desde el extranjero.",
         "categories": [
           {
             "name": "Robotek Grand Tournament 2027 · LOM Elementary",
             "age": "2016–2021",
-            "team": "2–3 niños + un mentor 18+; ambos hermanos cumplen años y composición mínima.",
-            "hardware": "LOM: MATRIX Mini V2.0+ o R4 V1.0, MATRIX MJ2 / MJ5, máximo dos MATRIX TT drive motors; inicio 32 × 32 cm y hasta 1200 g en Elementary. Reglas globales permiten piezas estructurales no MATRIX en Elementary; confirmar aplicación local. Robot kit, portátil y alimentación propios.",
-            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local.",
+            "team": "2–3 estudiantes de la misma división + un entrenador de 18+. Se permiten equipos de distintos centros. Los estudiantes diseñan y programan el robot.",
+            "hardware": "LOM Elementary: un MATRIX Mini V2.0+ o R4 V1.0, mando MJ2 / MJ5, hasta 2 MATRIX TT / TT Encoder para la tracción. Inicio de 32 × 32 cm, hasta 1200 g con batería y una sola batería de hasta 12 V. Confirme las piezas estructurales de otras marcas según RGT §6.6.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
             "event_id": "C869"
           },
           {
             "name": "Robotek Grand Tournament 2027 · Robotek",
             "age": "2014–2018",
             "team": "1–2 participantes + un mentor 18+",
-            "hardware": "Cualquier plataforma robótica permitida por reglamento propio; no selección a Taiwan.",
-            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "hardware": "Se permiten todas las plataformas de robótica conforme al reglamento de la categoría.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
             "event_id": "C1321"
           },
           {
@@ -9728,7 +9728,7 @@
             "age": "2015–2019",
             "team": "1–3 participantes + un mentor 18+",
             "hardware": "Proyecto, demostración, informe y comprobación de contribución personal. RGT exige Matrix; Maker track local sin acreditar.",
-            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
             "event_id": "C1322"
           },
           {
@@ -9736,8 +9736,56 @@
             "age": "2015–2019",
             "team": "2–3 participantes + un mentor 18+",
             "hardware": "Matrix; ronda híbrida: hasta 30 segundos autónomos + hasta 90 segundos de control. Un niño y mentor no forman equipo.",
-            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
             "event_id": "C1323"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Robot de reparto",
+            "age": "2009–2013",
+            "team": "1–2 participantes + un mentor 18+",
+            "hardware": "Se permiten todas las plataformas de robótica conforme al reglamento de la categoría.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5529"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · LOM Junior–Senior",
+            "age": "2009–2015",
+            "team": "2–3 participantes + un mentor 18+",
+            "hardware": "MATRIX Mini V2.0+ o R4 V1.0, hasta 2 motores de tracción, inicio de 32 × 32 cm, hasta 1800 g con batería y una sola batería de hasta 12 V. Confirme las piezas según RGT §6.6.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5530"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Rising Pioneers Junior",
+            "age": "2012–2016",
+            "team": "1–3 participantes + un mentor 18+",
+            "hardware": "Equipo y kit Matrix según RGT §6.6 y el reglamento técnico de la disciplina MARC 2027.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5531"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Rising Pioneers Senior",
+            "age": "2009–2013",
+            "team": "1–3 participantes + un mentor 18+",
+            "hardware": "Equipo y kit Matrix según RGT §6.6 y el reglamento técnico de la disciplina MARC 2027.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5532"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Task Master Junior",
+            "age": "2012–2016",
+            "team": "2–3 participantes + un mentor 18+",
+            "hardware": "Equipo y kit Matrix según RGT §6.6 y el reglamento técnico de la disciplina MARC 2027.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5533"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Task Master Senior",
+            "age": "2009–2013",
+            "team": "2–3 participantes + un mentor 18+",
+            "hardware": "Equipo y kit Matrix según RGT §6.6 y el reglamento técnico de la disciplina MARC 2027.",
+            "entry": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Un equipo por estudiante y una categoría por equipo durante la temporada.",
+            "event_id": "C5534"
           }
         ],
         "event_ids": [
@@ -9750,36 +9798,58 @@
           "C1325",
           "C1326",
           "C1327",
-          "C1328"
+          "C1328",
+          "C5529",
+          "C5530",
+          "C5531",
+          "C5532",
+          "C5533",
+          "C5534"
         ],
         "legacy_ids": [],
-        "route": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local.",
-        "hardware": "LOM: MATRIX Mini V2.0+ o R4 V1.0, MATRIX MJ2 / MJ5, máximo dos MATRIX TT drive motors; inicio 32 × 32 cm y hasta 1200 g en Elementary. Reglas globales permiten piezas estructurales no MATRIX en Elementary; confirmar aplicación local. Robot kit, portátil y alimentación propios.",
+        "route": "Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero.",
+        "hardware": "LOM Elementary: un MATRIX Mini V2.0+ o R4 V1.0, mando MJ2 / MJ5, hasta 2 MATRIX TT / TT Encoder para la tracción. Inicio de 32 × 32 cm, hasta 1200 g con batería y una sola batería de hasta 12 V. Confirme las piezas estructurales de otras marcas según RGT §6.6.",
         "language": "los materiales / información rusos están disponibles; RU / EN / KK el juez y la ayuda se comprueban por separado.",
         "importance": "una ruta regional / internacional adicional; no sustituye a todas las ligas mundiales.",
         "strengths": "dos etapas internacionales de 2027; cinco categorías de Matrix / Robotek.",
         "requirements": [
-          "Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+          "Prepare el anexo n.º 2 y confirme el país del equipo, la sede, la cuota y el idioma del arbitraje. En el registro se exigen documentos de identidad y edad."
         ],
         "nuances": [
-          "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
+          "Solo LOM, Rising Pioneers y Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild Card requieren confirmación. El viaje y la cuota dependen de las condiciones de la final.",
+          "Nombre de equipo de hasta 20 caracteres: letras latinas, números, espacios y guiones.",
           "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT."
         ],
         "cost": "el precio de la etapa actual, el equipo, la preparación y el viaje por separado.",
-        "award": "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT.",
+        "award": "RGT §9: certificados para todos los participantes. Trofeos para los equipos en los puestos 1–3 y medallas y diplomas para sus integrantes. En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT.",
         "sources": [
           {
-            "title": "RGT 2027 official regulation",
-            "url": "https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view",
-            "checked": "2026-11-05"
+            "url": "https://rgt.robotek.kz/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
           },
           {
-            "title": "RGT current season",
-            "url": "https://rgt.robotek.kz/",
-            "checked": "2026-11-05"
+            "url": "https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1D-yhgab1kvzpFs0MTa2pSqrN-BLjKCee/view",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1goY8Ask7w7GpXaRMdUqJTrPjxVcYVVGH/view",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
           }
         ],
-        "evidence": "Leídos reglamento RGT 2027 y PDF MARC actuales. Sin trasladar selección 2026; documento nuevo 2027 sí contiene dos ligas kazajas."
+        "evidence": "Se cotejaron el reglamento RGT 2027 §4, §6, §7, §9 y las reglas MARC LOM."
       },
       {
         "id": "roboland-kz",

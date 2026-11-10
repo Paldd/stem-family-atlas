@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2417,
+    "dossiers": 2423,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 678,
-      "partial_2027": 176,
+      "published_2027": 680,
+      "partial_2027": 180,
       "next_unannounced": 488,
       "published_2026": 443,
       "partial_2026_27": 44,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3353
+    "source_urls": 3364
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "España",
-      "count": 152
+      "count": 156
     },
     {
       "country": "Italia",
@@ -272,11 +272,11 @@
     },
     {
       "country": "China",
-      "count": 13
+      "count": 14
     },
     {
       "country": "RAE de Hong Kong (China)",
-      "count": 67
+      "count": 68
     },
     {
       "country": "Islas Cocos",
@@ -426467,6 +426467,643 @@
         }
       ],
       "language_roles": {}
+    },
+    {
+      "id": "CP2418",
+      "slug": "eisb-sant-cugat-english-summer-2027",
+      "provider": "EISB Sant Cugat · English Summer Camp",
+      "iso": "ESP",
+      "country": "España",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "age": "Años de nacimiento 2012–2022, cursos FY1–SY2.",
+      "programme": "Juegos, canciones, manualidades y actividades acuáticas con inmersión en inglés.",
+      "language": "Inmersión en inglés con docentes del colegio.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Formato diurno sin internado.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anunció julio de 2027. Aún no se publicaron las semanas exactas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.",
+        "included": "Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.",
+        "extras": "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        }
+      },
+      "editorial_reason": "Juegos, canciones, manualidades y actividades acuáticas con inmersión en inglés.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/english-summer-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "related_event_ids": [
+        "L1006"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2419",
+      "slug": "eisb-sant-cugat-spanish-summer-2027",
+      "provider": "EISB Sant Cugat · Spanish Summer Camp",
+      "iso": "ESP",
+      "country": "España",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "age": "Años de nacimiento 2014–2020, cursos FY3–PY6.",
+      "programme": "Juegos, canciones, manualidades y actividades acuáticas con inmersión en español.",
+      "language": "Todas las actividades se realizan en español con docentes del colegio.",
+      "confirmed_instruction_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Formato diurno sin internado.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anunció julio de 2027. Aún no se publicaron las semanas exactas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.",
+        "included": "Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.",
+        "extras": "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        }
+      },
+      "editorial_reason": "Juegos, canciones, manualidades y actividades acuáticas con inmersión en español.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/spanish-summer-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "related_event_ids": [
+        "L1007"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      }
+    },
+    {
+      "id": "CP2420",
+      "slug": "eisb-sant-cugat-science-summer-2027",
+      "provider": "EISB Sant Cugat · Scientific Talent · Science Camp",
+      "iso": "ESP",
+      "country": "España",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "age": "Años de nacimiento 2012–2019, cursos PY1–SY2.",
+      "programme": "Experimentos semanales, proyectos, observación y juegos en la piscina.",
+      "language": "El colegio indica explícitamente que las actividades son en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Formato diurno sin internado.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anunció julio de 2027. Aún no se publicaron las semanas exactas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.",
+        "included": "Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.",
+        "extras": "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "2020 queda fuera del rango publicado 2012–2019."
+        }
+      },
+      "editorial_reason": "Experimentos semanales, proyectos, observación y juegos en la piscina.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/science-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "related_event_ids": [
+        "L421"
+      ],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2421",
+      "slug": "eisb-sant-cugat-chess-robotics-summer-2027",
+      "provider": "EISB Sant Cugat · Chess & Robotics Camp",
+      "iso": "ESP",
+      "country": "España",
+      "place": "EISB · Av. Pla del Vinyet 110 · Sant Cugat del Vallès",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "age": "Años de nacimiento 2012–2019, cursos PY1–SY2.",
+      "programme": "Estrategia de ajedrez, introducción a la robótica y la programación, ejercicios prácticos y piscina.",
+      "language": "El colegio no indica el idioma del taller técnico. Confírmelo para el grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "formats": [
+        "day"
+      ],
+      "accommodation": "Formato diurno sin internado.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anunció julio de 2027. Aún no se publicaron las semanas exactas.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-07"
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Aún no se publicó la tarifa de 2027. La tabla de precios y la fecha de descuento corresponden a 2026.",
+        "included": "Entrada 08:45–09:00. Salida 13:00–13:15 o 16:45–17:00. Acogida gratuita 08:00–08:45 y 17:00–18:00 según la página general del campamento.",
+        "extras": "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "El año de nacimiento encaja en el rango publicado. Confirme el curso escolar y la admisión."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "2020 queda fuera del rango publicado 2012–2019."
+        }
+      },
+      "editorial_reason": "Estrategia de ajedrez, introducción a la robótica y la programación, ejercicios prácticos y piscina.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el curso escolar, las plazas para alumnado externo, las semanas, la comida, la tarifa completa y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/eisb-international-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://eisbarcelona.com/en/eisb-international-summer-camps/school-summer-camps/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "related_event_ids": [
+        "L420"
+      ],
+      "calendar_links": [],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2422",
+      "slug": "tongzi-cuhk-ai-innovation-winter-2027",
+      "provider": "Tongzi Education · CUHK AI Innovation Camp",
+      "iso": "HKG",
+      "country": "RAE de Hong Kong (China)",
+      "place": "Hong Kong · CUHK / HKU",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "age": "El rango de edad aún no se publicó. Confirme la edad de ambos menores.",
+      "programme": "IA y AGI, redes neuronales, generación de texto e imágenes, visita a SenseTime y acercamiento a CUHK y HKU. El programa lo dirige el operador privado Tongzi Education.",
+      "language": "El folleto en inglés indica chino e inglés como idiomas de enseñanza. Confirme el reparto por actividad.",
+      "confirmed_instruction_languages": [
+        "ZH",
+        "EN"
+      ],
+      "language_evidence_role": "bilingual",
+      "formats": [
+        "boarding"
+      ],
+      "accommodation": "Con alojamiento. Confirme el hotel concreto y las condiciones de supervisión.",
+      "timing": {
+        "status": "published_2027",
+        "label": "24–29 de enero de 2027, 6 días y 5 noches.",
+        "sessions": [
+          [
+            "2027-01-24",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-24",
+            "end": "2027-01-29",
+            "label": "Hong Kong · CUHK / HKU",
+            "place": "Hong Kong · CUHK / HKU",
+            "age": "El rango de edad aún no se publicó. Confirme la edad de ambos menores.",
+            "price": "La tarifa de la edición de 2027 aún no se ha publicado.",
+            "source": "https://tzyedu.org/cuhk-ai-winter-2027-en",
+            "date_status": "Anunciado",
+            "entry": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.",
+            "date_precision": "announced_window",
+            "date_rule": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "La tarifa de la edición de 2027 aún no se ha publicado.",
+        "included": "Alojamiento en hotel de 4 estrellas en habitaciones dobles y comidas organizadas según el folleto.",
+        "extras": "Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "El rango de edad aún no se publicó. Confirme la edad de ambos menores."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "El rango de edad aún no se publicó. Confirme la edad de ambos menores."
+        }
+      },
+      "editorial_reason": "IA y AGI, redes neuronales, generación de texto e imágenes, visita a SenseTime y acercamiento a CUHK y HKU. El programa lo dirige el operador privado Tongzi Education.",
+      "shortlist": [],
+      "questions": [
+        "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.",
+        "Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://tzyedu.org/cuhk-ai-winter-2027-en",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/brochures/cuhk-ai-winter-2027-en.pdf",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/international-camps",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-24",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2422-20270124-20270129"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "ZH",
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2423",
+      "slug": "tongzi-greater-bay-bilingual-winter-2027",
+      "provider": "Tongzi Education · Greater Bay Area Bilingual Camp",
+      "iso": "CHN",
+      "country": "China",
+      "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+      "themes": [
+        "ai",
+        "technology",
+        "languages",
+        "entrepreneurship"
+      ],
+      "age": "El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.",
+      "programme": "Visitas a universidades, demostraciones de IA y AR y proyecto en equipo Little CEO. Inicio en Shenzhen y final en Zhuhai, con Hong Kong y Macao en el itinerario.",
+      "language": "Se anuncian una clase DSE de inglés y tareas bilingües. Confirme el idioma de las actividades de IA y AR de la edición elegida.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "formats": [
+        "boarding"
+      ],
+      "accommodation": "Con alojamiento. Confirme el hotel concreto y las condiciones de supervisión.",
+      "timing": {
+        "status": "published_2027",
+        "label": "3 ediciones en el invierno de 2027, de 5 días y 4 noches cada una.",
+        "sessions": [
+          [
+            "2027-01-24",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-31",
+            "2027-02-04"
+          ],
+          [
+            "2027-02-14",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-24",
+            "end": "2027-01-28",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.",
+            "price": "Aún no se publicaron la tarifa ni la moneda de la edición de 2027.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Anunciado",
+            "entry": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.",
+            "date_precision": "announced_window",
+            "date_rule": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones."
+          },
+          {
+            "start": "2027-01-31",
+            "end": "2027-02-04",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.",
+            "price": "Aún no se publicaron la tarifa ni la moneda de la edición de 2027.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Anunciado",
+            "entry": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.",
+            "date_precision": "announced_window",
+            "date_rule": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones."
+          },
+          {
+            "start": "2027-02-14",
+            "end": "2027-02-18",
+            "label": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "place": "Shenzhen · Hong Kong · Macao · Zhuhai",
+            "age": "El rango orientativo para consultar es de 8–16 años. El operador confirma la admisión.",
+            "price": "Aún no se publicaron la tarifa ni la moneda de la edición de 2027.",
+            "source": "https://tzyedu.org/bilingual-winter-2027-en",
+            "date_status": "Anunciado",
+            "entry": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones.",
+            "date_precision": "announced_window",
+            "date_rule": "El operador Tongzi admite consultas individuales del extranjero. Confirme la salida concreta y sus condiciones."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Aún no se publicaron la tarifa ni la moneda de la edición de 2027.",
+        "included": "Alojamiento en hotel de 4 estrellas en habitaciones dobles y comidas organizadas según el folleto.",
+        "extras": "Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Encaja en la edad orientativa. Confirme la admisión y el idioma de las actividades."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Edad inferior al rango orientativo de 8–16."
+        }
+      },
+      "editorial_reason": "Visitas a universidades, demostraciones de IA y AR y proyecto en equipo Little CEO. Inicio en Shenzhen y final en Zhuhai, con Hong Kong y Macao en el itinerario.",
+      "shortlist": [],
+      "questions": [
+        "Antes de viajar, compruebe la documentación para todos los territorios del itinerario y los traslados.",
+        "Confirme la admisión de cada menor, las plazas, los idiomas por actividad, el hotel, los traslados, el precio total y el reembolso."
+      ],
+      "sources": [
+        {
+          "url": "https://tzyedu.org/bilingual-winter-2027-en",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/brochures/winter-2027.pdf?v=20260913",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tzyedu.org/international-camps",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "programme_type": "holiday_camp",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Consulte al organizador."
+      },
+      "catalog_participation": "residential",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-24",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270124-20270128"
+          ]
+        },
+        {
+          "start": "2027-01-31",
+          "end": "2027-02-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270131-20270204"
+          ]
+        },
+        {
+          "start": "2027-02-14",
+          "end": "2027-02-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2423-20270214-20270218"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -445027,7 +445664,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2417,
+      "total_dossiers": 2423,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -471277,6 +471914,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2418",
+      "event_id": "L1006",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2419",
+      "event_id": "L1007",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2420",
+      "event_id": "L421",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2421",
+      "event_id": "L420",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2422",
+      "event_id": "CP2422-20270124-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270124-20270128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270131-20270204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2423",
+      "event_id": "CP2423-20270214-20270218",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -476620,10 +477297,14 @@
     "CP2417-20270128-20270129-banqiao-20270128",
     "CP2417-20270201-20270203-banqiao-20270201",
     "CP2417-20270128-20270129-taichung-20270128",
-    "CP2417-20270201-20270203-taichung-20270201"
+    "CP2417-20270201-20270203-taichung-20270201",
+    "CP2422-20270124-20270129",
+    "CP2423-20270124-20270128",
+    "CP2423-20270131-20270204",
+    "CP2423-20270214-20270218"
   ],
   "integration": {
-    "generated_sessions": 4933,
+    "generated_sessions": 4937,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

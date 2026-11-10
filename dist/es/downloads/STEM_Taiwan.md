@@ -512,15 +512,15 @@ Comprobado: 2026-10-01
 ### C870 · Ruta RGT → MARC Taiwan · final vigente C1189
 
 Fecha: Fechas antiguas 29–30.05.2027 sustituidas; MARC Final vigente 20–23.05.2027 en C1189.
-Edad: Cinco categorías de 2027: Rising Pioneers, League of Mecha-Clash, Task Master, Robotech, Robot-proveedor.
-Mateway: Condicionalmente, se necesita un reglamento y una autorización extranjera.
-Óscar: Condicionalmente, se necesita un reglamento y una autorización extranjera.
+Edad: LOM Elementary 2016–2021
+Matvey: Sí por el año 2017. Puede competir con Oscar si se admite el equipo.
+Oscar: Sí por el año 2020. Puede competir con Matvey si se admite el equipo.
 Idioma: Información en ruso disponible; idioma de la judicatura/educación no confirmado.
-Acceso: Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
+Acceso: Los equipos extranjeros de centros educativos, clubes y particulares envían el anexo n.º 2 directamente a rgt@robotek.kz hasta el 18 de febrero de 2027. No se les exige la clasificación de Daryn ni de Birlik. Decisión del comité hasta el 20 de febrero y listas hasta el 23 de febrero. Solo LOM, Rising Pioneers y Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild Card requieren confirmación. El viaje y la cuota dependen de las condiciones de la final.
 Costo: Tarifas, equipo, viajes y alojamiento no confirmados.
-Limitaciones: Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
+Restricciones: Solo LOM, Rising Pioneers y Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild Card requieren confirmación. El viaje y la cuota dependen de las condiciones de la final.
 Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### L459 · STEAM SQUAD · ESM Early Simple Machines · curso ordinario
 
@@ -648,9 +648,9 @@ Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admi
 Idioma: Leído anuncio EN; idioma de jueces y apoyo familiar aún sin acreditar.
 Acceso: Operador invita equipos de todo el mundo; solicitud directa, clasificación y wildcard 2027 aún sin publicar. No trasladar automáticamente vía de 2026.
 Precio: Cuota, equipo, viaje y alojamiento 2027 sin acreditar.
-Limitaciones: NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida. Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
+Restricciones: La sede de Taipéi 2027 aún no se ha indicado. RGT publicó una vía de clasificación desde Astaná. Solo LOM, Rising Pioneers y Task Master cuentan para la clasificación a Taipéi. Las plazas y Wild Card requieren confirmación. El viaje y la cuota dependen de las condiciones de la final.
 Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
-Se ha comprobado: 2026-11-05
+Verificado: 2026-11-10
 
 ### C1291 · Taiwan Bebras 115-1 · Grades 5–6
 
