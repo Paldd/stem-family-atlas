@@ -29,6 +29,8 @@ jobs:
         run: python3 scripts/build-database.py
       - name: Build the complete Spanish edition
         run: python3 scripts/build-spanish.py
+      - name: Compact large JSON downloads for Pages
+        run: python3 scripts/compact-pages-downloads.py
       - name: Verify source, exports and project-relative links
         run: python3 scripts/verify-site.py
       - name: Verify Spanish completeness and unchanged facts
@@ -90,3 +92,23 @@ jobs:
         uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
         with:
           timeout: '600000'
+      - name: Verify the public revision in both languages
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          for edition in '' 'es/'; do
+            url="${PAGE_URL%/}/${edition}release.json"
+            for attempt in {1..18}; do
+              if curl --fail --silent --show-error --max-time 12 \
+                  "${url}?revision=${GITHUB_SHA}" | python3 -c \
+                  'import json, sys; assert json.load(sys.stdin)["source_commit"] == sys.argv[1]' "$GITHUB_SHA"; then
+                echo "Verified $url"
+                break
+              fi
+              if [[ "$attempt" == 18 ]]; then
+                echo "::error::Published revision did not match $GITHUB_SHA at $url"
+                exit 1
+              fi
+              sleep 5
+            done
+          done
