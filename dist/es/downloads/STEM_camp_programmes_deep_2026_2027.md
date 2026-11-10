@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2384 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2385 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -7918,9 +7918,9 @@ Uno de los primeros candidatos técnicos para la prueba del verano sudamericano.
 
 Chile · Pelarco / Maule
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-09
 
-**Edad:** Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 
 ** Idioma: ** Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 
@@ -7930,17 +7930,17 @@ Chile · Pelarco / Maule
 
 **Fechas / estado:** Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.
 
-**Precio / año:** 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Precio / año:** 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
 
-**se ha puesto:** 535 000 CLP/6 días inc VAT: camp/foodsnacks, activities/safetyequipment, tents, shirt/photos y round-tripprivatebus de la Santiago En directo included.el operador indica el acompañamiento las veinticuatro horas y ratio1:4. Currentratesbusstop Av.Francisco Bilbao8000 Las Condes; FAQLa Reina más viejo/se desvía. de autobús campplaces, lugar en bus - ¿Qué es ?. Departurefirstday13:00/returnlastday13:00 por rates.
+**Incluye:** Alojamiento en carpas, comidas, actividades, equipo de protección y transporte desde Santiago sujeto a plazas. El organizador indica supervisión continua y 1 monitor por cada 4 participantes.
 
-** Pagadero: ** Traslado/carretera al lugar de aterrizaje; no se incluye la vivienda familiar.
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
 
-**Pago:** Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 
-**Matvey:** La edad encaja; Ver entering Grade2–8.
+**Matvey:** El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8.
 
-**Oscar: ** La edad de homepage 6+ es adecuada, pero Classic exige Grade2+: sin confirmación de categoría/exclusión, no se considerará admisible.
+**Oscar:** Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión.
 
 ** Por qué en la selección: ** Un fuerte internado inglés común de América Latina con 2027 turnos publicados; la clase Oscar puede ser un obstáculo.
 
@@ -7996,15 +7996,21 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 ### Antes de solicitar plaza
 
-- Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas y la comunicación.
-
-- Determine el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.
+- Confirme el grado de ambos niños, las plazas restantes y el transporte para el turno concreto.
 
 ### Classic Summer Camp
 
 **Fechas / estado:** 2027-01-03 — 2027-01-08
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas versiones muestran plazas. La página inglesa indica 16 y la española 26. Ambas indican 10 plazas de autobús.
 
@@ -8014,7 +8020,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-01-10 — 2027-01-15
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas versiones indican turno completo.
 
@@ -8024,7 +8038,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-01-17 — 2027-01-22
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas versiones indican turno completo.
 
@@ -8034,7 +8056,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-01-24 — 2027-01-29
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas páginas indican 4 plazas y 0 en autobús.
 
@@ -8044,7 +8074,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-01-31 — 2027-02-05
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** La versión inglesa indica 6 plazas, la española 2 y ambas indican 0 en autobús.
 
@@ -8054,7 +8092,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-02-07 — 2027-02-12
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas páginas muestran 28 plazas y 20 en autobús.
 
@@ -8064,7 +8110,15 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 **Fechas / estado:** 2027-02-14 — 2027-02-19
 
-**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+**Edad:** Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
 
 **Disponibilidad de plazas:** Ambas páginas muestran 36 plazas, en autobús 32 en la versión inglesa y 33 en la española.
 
@@ -8074,13 +8128,17 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 - [Homepage / edad general](https://www.campmakemake.com/) · 2026-10-04
 
-- [Página oficial del organizador](https://www.campmakemake.com/dates-and-rates) · 2026-11-07
+- [Página oficial del organizador o condiciones de entrada.](https://www.campmakemake.com/dates-and-rates) · 2026-11-09
 
 - [English / camp life](https://www.campmakemake.com/everything-you-need-to-know) · 2026-10-04
 
 - [política de financiación específica del 2027.](https://www.campmakemake.com/refund-policy) · 2026-10-05
 
 - [Página oficial del organizador](https://es.campmakemake.com/general-6) · 2026-11-07
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/dates-and-rates) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/refund-policy) · 2026-11-09
 
 ## CP048 · My Robot School · Verano
 
@@ -47820,7 +47878,7 @@ Costa Rica - Amora, Dominicalito, Costa Ballena
 
 Chile · Pelarco/Maule, Chile
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-09
 
 **Edad:** Entering Iº–IIIºMedio / currently Grades9–11, no general 6–17
 
@@ -47830,15 +47888,15 @@ Chile · Pelarco/Maule, Chile
 
 ** Residencia:** Tiendas de campaña, duchas/tuales separadas. Por lo general no hay teléfonos/llamadas de un niño a su hogar; los padres pueden ponerse en contacto con el equipo, con excepciones si es necesario.
 
-**Fechas / situación:** Teen2027:17–22 January y 31 January–5 February. Algunos 20 camp/busplaces; de las que se ha dado testimonio 16/15 no reserva.
+**Fechas / estado:** Dos turnos, del 17 al 22 de enero y del 31 de enero al 5 de febrero de 2027. Al verificar, las páginas mostraban 6 y 13 plazas respectivamente, con las mismas plazas de autobús.
 
-**Precio / año:** 2027 · CLP535 000/6 días inc VAT, también listed Teenprice como Classic; de un país que no sea independiente rank.
+**Precio / año:** 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
 
-**se ha puesto:** 535 000 CLP/6 días inc VAT: camp/foodsnacks, activities/safetyequipment, tents, shirt/photos y round-tripprivatebus de la Santiago En directo included.el operador indica el acompañamiento las veinticuatro horas y ratio1:4. Currentratesbusstop Av.Francisco Bilbao8000 Las Condes; FAQLa Reina más viejo/se desvía. de autobús campplaces, lugar en bus - ¿Qué es ?. Departurefirstday13:00/returnlastday13:00 por rates.
+**Incluye:** Alojamiento en carpas, comidas, actividades, equipo de protección y transporte desde Santiago sujeto a plazas. El organizador indica supervisión continua y 1 monitor por cada 4 participantes.
 
-** Pagadero: ** Traslado/carretera al lugar de aterrizaje; no se incluye la vivienda familiar.
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
 
-**Pago:** Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 
 ** Matwey:** Grades9*11* Futuros centros de enseñanza secundaria/primaria; se necesitará un grade efectivo.
 
@@ -47850,13 +47908,49 @@ Chile · Pelarco/Maule, Chile
 
 - real Grade9–11, la independencia/English/foreignintake, camp y busplace, kit/refund de precisión.
 
+### Camp 1
+
+**Fechas / estado:** 2027-01-17 — 2027-01-22
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+
+**Disponibilidad:** Al verificar, ambas páginas mostraban 6 plazas en el campamento y 6 en el autobús.
+
+[fuente](https://es.campmakemake.com/dates-and-rates)
+
+### Camp 2
+
+**Fechas / estado:** 2027-01-31 — 2027-02-05
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+
+**Disponibilidad:** Al verificar, ambas páginas mostraban 13 plazas en el campamento y 13 en el autobús.
+
+[fuente](https://es.campmakemake.com/dates-and-rates)
+
 ### Fuentes
 
-- [Dated Teen2027 dates/fee/inclusions](https://www.campmakemake.com/dates-and-rates) · 2026-10-05
+- [Página oficial del organizador o condiciones de entrada.](https://www.campmakemake.com/dates-and-rates) · 2026-11-09
 
 - [English/foreignhistory/life](https://www.campmakemake.com/everything-you-need-to-know) · 2026-10-05
 
 - [2027 refundpolicy](https://www.campmakemake.com/refund-policy) · 2026-10-05
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/dates-and-rates) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/refund-policy) · 2026-11-09
 
 ## CP595 · Leysin American School · AI & Python: Build, Code, Create
 
@@ -69602,59 +69696,53 @@ Costa Rica · IAC, Sede Central UTN · Alajuela; oficina exacta y recepción ext
 
 Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
-**Se ha comprobado:** 2026-11-08
+**Se ha comprobado:** 2026-11-09
 
-**edad:** 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.
+**Edad:** El anuncio y las condiciones de la UCR indican 10–12 años. La descripción del portal de pagos también indica 10–12 años, pero su línea de admisión señala 9–12 años y los grados 4–6 de escuela pública.
 
 **Idioma:** Confirmar con el operador el idioma del grupo concreto.
 
-**Programa:** Clases diurnas prácticas de matemáticas, diseño y arte. El participante asiste los 4 días, 3.5 horas por día.
+**Programa:** Cuatro días de matemáticas prácticas. La página de pagos RAzon-ando describe proporciones, porcentajes y retos de música, ingeniería y diseño.
 
 **Alojamiento:** Turno universitario diurno.
 
-**Fechas / estado:** 18–21 de enero de 2027, diariamente 08:00–11:30. Solicitud hasta el 18 de diciembre de 2026.
+**Fechas / estado:** 18–21 de enero de 2027 en Instalaciones Deportivas UCR. El anuncio indica 08:00–11:30 y el portal de pagos 07:30–12:00. Confirme el horario exacto.
 
-**Precio / año:** 2027 · 5000 CRC por turno, incluido seguro INS.
+**Precio / año:** 2027 · Las condiciones de solicitud indican 5000 CRC, con seguro INS según el anuncio. El portal de pagos muestra 3270 CRC y exige pagar aparte la póliza obligatoria. Confirme con la UCR el total y la tarifa aplicable.
 
-**Incluido:** Clases y seguro INS.
+**Incluye:** El anuncio de la UCR incluye INS. El portal de pagos indica la póliza por separado.
 
 **Suplementos:** El menor trae su merienda. Transporte por separado.
 
-**Pago:** Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
+**Pago:** Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.
 
-**Matvey:** Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado.
+**Matvey:** Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro.
 
-**Oscar:** Nació en 2020. Este turno requiere tener al menos 10 años.
+**Oscar:** Nació en 2020. Está por debajo de ambas edades mínimas publicadas.
 
 ** Por qué en la selección:** candidato de redacción para el contenido y la edad: no se ha establecido una clasificación mundial independiente ni un lugar accesible; no se ha obtenido un certificado de cambio de victoria internacional.
 
 ### Antes de solicitar plaza
 
-- Confirmar edad en la fecha requerida, idioma, plazas y punto de encuentro.
+- Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.
 
 ### Matenciar
 
 **Fechas / estado:** 2027-01-18 — 2027-01-21
 
-**Precio:** 5000 CRC por turno, incluido seguro INS.
+**Precio:** Las condiciones de solicitud indican 5000 CRC, con seguro INS según el anuncio. El portal de pagos muestra 3270 CRC y exige pagar aparte la póliza obligatoria. Confirme con la UCR el total y la tarifa aplicable.
 
-**condiciones de participación:** Presentar solicitud hasta el 18 de diciembre de 2026. UCR primero verifica requisitos y comunica al tutor la plaza asignada, y luego facilita los datos de pago. Clases para 10–12 años. Se exige asistir las 3,5 horas diarias.
-
-- 2027-01-18 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
-
-- 2027-01-19 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
-
-- 2027-01-20 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
-
-- 2027-01-21 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
+**Condiciones de participación:** Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.
 
 [fuente](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html)
 
 ### Fuentes
 
-- [UCR · Matenciar 2027 y fechas](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-08
+- [Página oficial del organizador o condiciones de entrada.](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-09
 
-- [UCR · requisitos y confirmación de plaza](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-08
+- [Página oficial del organizador o condiciones de entrada.](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.ucrenlinea.com/products/422/campamento-de-verano-matenciar) · 2026-11-09
 
 ## CP945 · Parque La Libertad × ColibrIA · AI for Good Boot Camp
 
@@ -187091,6 +187179,96 @@ España · Madrid · Zoo Aquarium · Casa de Campo
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad) · 2026-11-09
+
+## CP2385 · Camp Mákemáke · Junior Counselor Experience
+
+Chile · Pelarco/Maule, Chile
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+
+**Idioma:** Inglés como lengua de la vida y las actividades del campamento.
+
+**Programa:** Práctica de seis días con un mentor. Los adolescentes ayudan a planificar actividades y acompañar a grupos menores.
+
+** Residencia:** Tiendas de campaña, duchas/tuales separadas. Por lo general no hay teléfonos/llamadas de un niño a su hogar; los padres pueden ponerse en contacto con el equipo, con excepciones si es necesario.
+
+**Fechas / estado:** Turnos contrastados del 3 al 8 de enero, del 24 al 29 de enero y del 14 al 19 de febrero de 2027. Para el 24–29 de enero, la página en inglés muestra 1 plaza y la española indica lleno. Otras dos filas del horario difieren entre idiomas.
+
+**Precio / año:** 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Incluye:** Alojamiento en carpas, comidas, actividades, equipo de protección y transporte desde Santiago sujeto a plazas. El organizador indica supervisión continua y 1 monitor por cada 4 participantes.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Matvey:** Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+
+**Oscar:** Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+
+**Motivo de selección:** Práctica de seis días con un mentor. Los adolescentes ayudan a planificar actividades y acompañar a grupos menores.
+
+### Antes de solicitar plaza
+
+- Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+
+### Session One
+
+**Fechas / estado:** 2027-01-03 — 2027-01-08
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+
+**Disponibilidad:** Ambas páginas mostraban 2 plazas en el campamento y 2 en el autobús.
+
+[fuente](https://es.campmakemake.com/dates-and-rates)
+
+### Session Four
+
+**Fechas / estado:** 2027-01-24 — 2027-01-29
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+
+**Disponibilidad:** La página en inglés muestra 1 plaza y 1 asiento de autobús. La española indica turno lleno.
+
+[fuente](https://es.campmakemake.com/dates-and-rates)
+
+### Session Seven
+
+**Fechas / estado:** 2027-02-14 — 2027-02-19
+
+**Precio:** 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado.
+
+**Cargos extra:** Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte.
+
+**Pago:** Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+
+**Condiciones de participación:** La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+
+**Disponibilidad:** Ambas páginas mostraban 2 plazas en el campamento y 2 en el autobús para Session Seven.
+
+[fuente](https://es.campmakemake.com/dates-and-rates)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.campmakemake.com/dates-and-rates) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/dates-and-rates) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://es.campmakemake.com/refund-policy) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

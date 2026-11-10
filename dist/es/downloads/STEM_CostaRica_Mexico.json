@@ -1034,9 +1034,9 @@
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.tecnikidscr.com/expo-steam-2026",
       "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "checked": "2026-11-09",
       "status": "Idea",
-      "note": "sitio web 2026 muestra 22 de agosto; La ventana 21–22.08 en la fuente de salida no es igual a dos días abiertos de visitantes.",
+      "note": "La página aún describe la edición de 2026. El día familiar y cinco grupos de competición de 2026 están en las fichas de archivo enlazadas. Fechas y tarifas de 2027 pendientes de confirmar.",
       "iso": [
         "CRI"
       ],
@@ -1049,7 +1049,16 @@
         "ES"
       ],
       "participation": "visitor",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "references": [],
+      "related_ids": [
+        "E798",
+        "C5460",
+        "C5461",
+        "C5462",
+        "C5463",
+        "C5464"
+      ]
     },
     {
       "block": "Campamentos",
@@ -12760,7 +12769,7 @@
       "deadline": "2026-11-15",
       "date_status": "Confirmado",
       "date_scope": "competition",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "source": "https://www.spaceappschallenge.org/2026/local-events/cartago/",
       "references": [
         {
@@ -12791,13 +12800,13 @@
       "proof": "Sede cotejada con el mapa oficial y su propia página. Acceso familiar, idioma y horario dependen de las condiciones locales.",
       "status": "Idea",
       "registration_url": "https://www.spaceappschallenge.org/2026/local-events/cartago/",
-      "registration_status": "open",
+      "registration_status": "Es obligatorio registrarse en NASA Space Apps y elegir Cartago. El formulario adicional del TEC está deshabilitado porque el organizador indica que se llenó. Consulte en la ficha oficial si es posible participar, incluida la lista de espera de NASA.",
       "age": "Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.",
       "mat": "Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.",
       "osc": "Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.",
       "format": "TEC confirma la modalidad presencial. La ficha de NASA también indica modalidad virtual. Confirmar si admite plazas virtuales.",
       "delivery_mode": "hybrid",
-      "entry": "Inscripción en NASA Space Apps y elección de Cartago. TEC admite a menores con tutor. La plataforma habilita la lista de espera, confirmar disponibilidad.",
+      "entry": "Es obligatorio registrarse en NASA Space Apps y elegir Cartago. El formulario adicional del TEC está deshabilitado porque el organizador indica que se llenó. Consulte en la ficha oficial si es posible participar, incluida la lista de espera de NASA. Se puede llegar sin equipo y formarlo allí si se acepta al participante. Para menores rigen el registro por representante legal y las condiciones de acompañamiento.",
       "team_min": 1,
       "team_max": 6,
       "gear": "Portátil y acceso a datos abiertos de NASA y sus socios. Confirmar requisitos de la sede y del proyecto elegido.",
@@ -12809,7 +12818,7 @@
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
       "priority": "P1 — opción cercana para participar",
-      "action": "Confirmar plaza para ambos menores y su adulto en Cartago. Preparar el portátil y elegir un reto adecuado antes del inicio.",
+      "action": "Consulte el estado en NASA y confirme las condiciones de acompañamiento con el TEC.",
       "note": "El programa de TEC indica preparación y entrega de la presentación local desde las 14:00 el 15 de noviembre. La entrega del proyecto a NASA es aparte hasta las 23:59 de Costa Rica. Importan ambos plazos.",
       "themes": [
         "coding",
@@ -31366,6 +31375,460 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
+      "id": "E798",
+      "title": "Tecnikids · EXPO STEAM 2026 · jornada familiar",
+      "block": "Eventos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Visita a feria o festival.",
+      "entry": "El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.",
+      "gear": "",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "En 2026 la entrada general costaba 5000 CRC y la de menores de 4–17 años 2500 CRC. Se desconoce la tarifa de la próxima edición.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.",
+      "adult_entry": "El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.",
+      "highlights": [
+        "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición."
+      ],
+      "exhibitor_note": "Consulte los participantes en el programa.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2026-08-22",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T14:00:00Z",
+          "end_utc": "2026-08-22T23:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "C5460",
+        "C5461",
+        "C5462",
+        "C5463",
+        "C5464",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5460",
+      "title": "Tecnikids · EXPO STEAM 2026 · Preescolar",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Preescolar",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Reto escolar por equipos. En 2026 se publicaron grupos por nivel escolar. Confirme equivalencia de cursos, número de alumnos y acceso de visitantes para la próxima edición.",
+      "entry": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "gear": "Retos de salud y nutrición mediante juego y construcción.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T14:00:00Z",
+          "end_utc": "2026-08-22T16:00:00Z",
+          "topic": "Preescolar"
+        }
+      ],
+      "related_ids": [
+        "E798",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5461",
+      "title": "Tecnikids · EXPO STEAM 2026 · Primaria Menor",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Primaria Menor",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Reto escolar por equipos. En 2026 se publicaron grupos por nivel escolar. Confirme equivalencia de cursos, número de alumnos y acceso de visitantes para la próxima edición.",
+      "entry": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "gear": "Simulación de la producción farmacéutica y diseño de soluciones de salud.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T15:30:00Z",
+          "end_utc": "2026-08-22T18:30:00Z",
+          "topic": "Primaria Menor"
+        }
+      ],
+      "related_ids": [
+        "E798",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5462",
+      "title": "Tecnikids · EXPO STEAM 2026 · Primaria Mayor",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Primaria Mayor",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Reto escolar por equipos. En 2026 se publicaron grupos por nivel escolar. Confirme equivalencia de cursos, número de alumnos y acceso de visitantes para la próxima edición.",
+      "entry": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "gear": "Sistema de entrega de suministros médicos. Construcción y circuitos eléctricos sencillos.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "start_time": "12:30",
+          "end_time": "15:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T18:30:00Z",
+          "end_utc": "2026-08-22T21:00:00Z",
+          "topic": "Primaria Mayor"
+        }
+      ],
+      "related_ids": [
+        "E798",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5463",
+      "title": "Tecnikids · EXPO STEAM 2026 · Secundaria",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Secundaria",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Reto escolar por equipos. En 2026 se publicaron grupos por nivel escolar. Confirme equivalencia de cursos, número de alumnos y acceso de visitantes para la próxima edición.",
+      "entry": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "gear": "Proyecto sobre biotransporte y funcionamiento del corazón.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "start_time": "14:30",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T20:30:00Z",
+          "end_utc": "2026-08-22T23:00:00Z",
+          "topic": "Secundaria"
+        }
+      ],
+      "related_ids": [
+        "E798",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5464",
+      "title": "Tecnikids · EXPO STEAM 2026 · Diversificado",
+      "block": "Competiciones",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro de Convenciones de Costa Rica",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "references": [],
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Diversificado",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Reto escolar por equipos. En 2026 se publicaron grupos por nivel escolar. Confirme equivalencia de cursos, número de alumnos y acceso de visitantes para la próxima edición.",
+      "entry": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "gear": "Soluciones de salud física y emocional con sensores, datos e IA.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "start_time": "08:00",
+          "end_time": "12:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-08-22T14:00:00Z",
+          "end_utc": "2026-08-22T18:30:00Z",
+          "topic": "Diversificado"
+        }
+      ],
+      "related_ids": [
+        "E798",
+        "E004"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E799",
+      "title": "Feria XR TEC 2026 · realidad extendida",
+      "block": "Eventos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Cartago · Campus Tecnológico Central · parqueo contiguo al Gimnasio",
+      "source": "https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial",
+      "references": [],
+      "start": "2026-06-26",
+      "end": "2026-06-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.",
+      "mat": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "osc": "Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.",
+      "format": "Visita a feria o festival.",
+      "entry": "En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.",
+      "gear": "",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P4 — archivo",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El 26 de junio de 2026 en el TEC de Cartago. Proyectos estudiantiles de realidad virtual y aumentada, IoT y modelos digitales. La próxima edición aún no está confirmada.",
+      "themes": [
+        "technology",
+        "engineering",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.",
+      "adult_entry": "En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.",
+      "highlights": [
+        "El 26 de junio de 2026 en el TEC de Cartago. Proyectos estudiantiles de realidad virtual y aumentada, IoT y modelos digitales. La próxima edición aún no está confirmada."
+      ],
+      "exhibitor_note": "Consulte los participantes en el programa.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2026-06-26",
+          "start_time": "09:00",
+          "end_time": "16:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-06-26T15:00:00Z",
+          "end_utc": "2026-06-26T22:30:00Z"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -35506,36 +35969,40 @@
       "city": "Instalaciones Deportivas UCR · Montes de Oca",
       "start": "2027-01-18",
       "end": "2027-01-21",
-      "period": "18–21 de enero de 2027, diariamente 08:00–11:30. Solicitud hasta el 18 de diciembre de 2026.",
+      "period": "18–21 de enero de 2027 en Instalaciones Deportivas UCR. El anuncio indica 08:00–11:30 y el portal de pagos 07:30–12:00. Confirme el horario exacto.",
       "date_status": "Confirmado",
       "deadline": "2026-12-18",
-      "age": "10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.",
+      "age": "El anuncio y las condiciones de la UCR indican 10–12 años. La descripción del portal de pagos también indica 10–12 años, pero su línea de admisión señala 9–12 años y los grados 4–6 de escuela pública.",
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "No ahora; el futuro nivel de edad",
       "format": "Turno universitario diurno.",
-      "entry": "Presentar solicitud hasta el 18 de diciembre de 2026. UCR primero verifica requisitos y comunica al tutor la plaza asignada, y luego facilita los datos de pago. Clases para 10–12 años. Se exige asistir las 3,5 horas diarias.",
-      "gear": "Clases diurnas prácticas de matemáticas, diseño y arte. El participante asiste los 4 días, 3.5 horas por día.",
+      "entry": "Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.",
+      "gear": "Cuatro días de matemáticas prácticas. La página de pagos RAzon-ando describe proporciones, porcentajes y retos de música, ingeniería y diseño.",
       "language": "Confirmar con el operador el idioma del grupo concreto.",
-      "cost": "2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier",
+      "cost": "2027 · Las condiciones de solicitud indican 5000 CRC, con seguro INS según el anuncio. El portal de pagos muestra 3270 CRC y exige pagar aparte la póliza obligatoria. Confirme con la UCR el total y la tarifa aplicable. · cargos y condiciones en la ficha",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
-      "action": "Confirmar edad en la fecha requerida, idioma, plazas y punto de encuentro.",
+      "action": "Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.",
       "source": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
       "references": [
         {
           "url": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
-          "label": "UCR · Matenciar 2027 y fechas"
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx",
-          "label": "UCR · requisitos y confirmación de plaza"
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.ucrenlinea.com/products/422/campamento-de-verano-matenciar",
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
-      "note": "Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.",
+      "note": "Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Cargos extra: El menor trae su merienda. Transporte por separado. Pago: Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.",
       "iso": [
         "CRI"
       ],
@@ -35549,55 +36016,15 @@
       "participation": "day_camp",
       "admission_kind": "open_application",
       "evidence_level": "program",
-      "date_scope": "session_days",
+      "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "ucr-cimm-matenciar",
       "camp_programme_id": "CP944",
       "language_roles": {},
       "language_mode": "unconfirmed",
       "languages": [],
-      "sessions": [
-        {
-          "date": "2027-01-18",
-          "topic": "Matenciar · matemáticas prácticas en ciencia y arte",
-          "start_time": "08:00",
-          "end_time": "11:30",
-          "timezone": "America/Costa_Rica",
-          "ical_timed": true,
-          "start_utc": "2027-01-18T14:00:00Z",
-          "end_utc": "2027-01-18T17:30:00Z"
-        },
-        {
-          "date": "2027-01-19",
-          "topic": "Matenciar · matemáticas prácticas en ciencia y arte",
-          "start_time": "08:00",
-          "end_time": "11:30",
-          "timezone": "America/Costa_Rica",
-          "ical_timed": true,
-          "start_utc": "2027-01-19T14:00:00Z",
-          "end_utc": "2027-01-19T17:30:00Z"
-        },
-        {
-          "date": "2027-01-20",
-          "topic": "Matenciar · matemáticas prácticas en ciencia y arte",
-          "start_time": "08:00",
-          "end_time": "11:30",
-          "timezone": "America/Costa_Rica",
-          "ical_timed": true,
-          "start_utc": "2027-01-20T14:00:00Z",
-          "end_utc": "2027-01-20T17:30:00Z"
-        },
-        {
-          "date": "2027-01-21",
-          "topic": "Matenciar · matemáticas prácticas en ciencia y arte",
-          "start_time": "08:00",
-          "end_time": "11:30",
-          "timezone": "America/Costa_Rica",
-          "ical_timed": true,
-          "start_utc": "2027-01-21T14:00:00Z",
-          "end_utc": "2027-01-21T17:30:00Z"
-        }
-      ]
+      "deadline_note": "Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.",
+      "date_conflict": "18–21 de enero de 2027 en Instalaciones Deportivas UCR. El anuncio indica 08:00–11:30 y el portal de pagos 07:30–12:00. Confirme el horario exacto."
     },
     {
       "id": "CP1080-20261207-20261211",

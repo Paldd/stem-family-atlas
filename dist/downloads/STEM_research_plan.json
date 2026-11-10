@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 357,
+    "prepared_ui_version": 358,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 356,
-    "previous_verified_commit": "c964bacd1ce3cdd05046cabef099e782f766a239"
+    "previous_verified_ui_version": 357,
+    "previous_verified_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 356,
-    "published_version": 356,
-    "latest_source_commit": "c964bacd1ce3cdd05046cabef099e782f766a239",
-    "published_commit": "c964bacd1ce3cdd05046cabef099e782f766a239",
-    "latest_workflow": 42753561102,
+    "latest_source_version": 357,
+    "published_version": 357,
+    "latest_source_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc",
+    "published_commit": "16d0f0d52b2d9ec5345a2ef27d5015dc492facbc",
+    "latest_workflow": 42756634618,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -39100,6 +39100,77 @@
     ],
     "historical_only_excluded_urls": [
       "https://www.bcs.gob.mx/coscyt-invita-a-ninas-y-ninos-al-taller-de-robotica-en-la-paz/"
+    ]
+  },
+  "central_america_eligibility_and_chile_camps_v358": {
+    "version": 358,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5460",
+      "C5461",
+      "C5462",
+      "C5463",
+      "C5464",
+      "C5465",
+      "C5466"
+    ],
+    "exhibition_ids": [
+      "E798",
+      "E799"
+    ],
+    "learning_event_ids": [
+      "CP2385-20270103-20270108",
+      "CP2385-20270124-20270129",
+      "CP2385-20270214-20270219"
+    ],
+    "camp_dossier_ids": [
+      "CP2385"
+    ],
+    "updated_camp_dossier_ids": [
+      "CP944",
+      "CP047",
+      "CP594"
+    ],
+    "legacy_overlay_event_ids": [
+      "E004",
+      "C3116"
+    ],
+    "legacy_overlay_league_ids": [],
+    "new_league_ids": [
+      "tecnikids-expo-steam",
+      "hackathon-nicaragua",
+      "joventech-nicaragua"
+    ],
+    "matenciar_id": "CP944-20270118-20270121",
+    "matenciar_exact_hours_conflict": true,
+    "matenciar_single_price_confirmed": false,
+    "tecnikids_archive_visitor_id": "E798",
+    "tecnikids_archive_competition_ids": [
+      "C5460",
+      "C5461",
+      "C5462",
+      "C5463",
+      "C5464"
+    ],
+    "tecnikids_2027_date_confirmed": false,
+    "space_apps_local_form_full": true,
+    "make_junior_disputed_schedule_excluded": true,
+    "alternative_official_read_urls": [
+      "https://hackathonicaragua.com.ni/media/bases/4c5ac185-f84e-46b0-988d-4db9b38ac3b4.pdf"
+    ],
+    "deduplicated_existing_ids": [
+      "C008",
+      "C003",
+      "C1295",
+      "C1296",
+      "C3499",
+      "C5301",
+      "E294",
+      "E328",
+      "L799",
+      "L956"
     ]
   }
 }

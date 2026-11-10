@@ -7357,93 +7357,93 @@ Se ha comprobado: 2026-11-09
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270110-20270115 · Camp Mákemáke · Classic Summer Camp · 2027-01-10–2027-01-15
 
 Fecha: 2027-01-10 国 2027-01-15
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270117-20270122 · Camp Mákemáke · Classic Summer Camp · 2027-01-17–2027-01-22
 
 Fecha: 2027-01-17 国 2027-01-22
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270124-20270129 · Camp Mákemáke · Classic Summer Camp · 2027-01-24–2027-01-29
 
 Fecha: 2027-01-24 国 2027-01-29
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270131-20270205 · Camp Mákemáke · Classic Summer Camp · 2027-01-31–2027-02-05
 
 Fecha: 2027-01-31 — 2027-02-05
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270207-20270212 · Camp Mákemáke · Classic Summer Camp · 2027-02-07–2027-02-12
 
 Fecha: 2027-02-07 国 2027-02-12
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP047-20270214-20270219 · Camp Mákemáke · Classic Summer Camp · 2027-02-14–2027-02-19
 
 Fecha: 2027-02-14 国 2027-02-19
-Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
+Edad: Classic 2027 admite grados 2–8. El intervalo de 6–17 años corresponde al campamento en general. Para Classic importa el grado escolar.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: El acceso depende del grado al inicio del turno. Confirme equivalencia con los grados 2–8. Oscar: Confirme si Oscar estará en el grado 2 requerido o superior al inicio. La mención general de 6+ no confirma la admisión. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
 Fuente: https://www.campmakemake.com/dates-and-rates
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### CP097-20270104-20270106 · Los Pellines · Pioneros · Pioneros · 3 días / 2 noches · 2027-01-04-2027-01-06
 
@@ -7926,31 +7926,31 @@ Limitaciones: Matvey: Matvey8–9 en2026 AjustadoYCAMP8–13; Medio inglés conf
 Fuente: https://ymcacolombia.org/campamento-en-ingles-para-ninos-y-jovenes/
 Comprobado: 2026-10-05
 
-### CP594-20270117-20270122 · Camp Mákemáke · Teen Camp · 2027-01-17–2027-01-22
+### CP594-20270117-20270122 · Camp Mákemáke · Teen Camp · Camp 1 · 2027-01-17–2027-01-22
 
 Fecha: 2027-01-17 国 2027-01-22
 Edad: Entering Iº–IIIºMedio / currently Grades9–11, no general 6–17
 Matvey: No ahora; la edad futura
 Óscar: No ahora; la edad futura
 Idioma: Dated Teen2027 page directamente English-speaking; FAQallactivities EN/translationifneed/all Enlevels; principal EN, traducción necesaria; no se ha prometido una ESteachingcurriculum separada.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP535 000/6 días inc VAT, también listed Teenprice como Classic; de un país que no sea independiente rank.
-Limitaciones: Matvey: Grades9–11—Promedio futuro/Escuela superior; real grade Lo hará.. Oscar: Superior teen Grade9–11, el futuro. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/dates-and-rates
-Comprobado: 2026-10-05
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: Grades9–11—el futuro/escuela secundaria; de hecho grade Lo necesitaré.. Oscar: mayor teen Grade9–11, el paso futuro. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+Fuente: https://es.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-09
 
-### CP594-20270131-20270205 · Camp Mákemáke · Teen Camp · 2027-01-31–2027-02-05
+### CP594-20270131-20270205 · Camp Mákemáke · Teen Camp · Camp 2 · 2027-01-31–2027-02-05
 
 Fecha: 2027-01-31 — 2027-02-05
 Edad: Entering Iº–IIIºMedio / currently Grades9–11, no general 6–17
 Matvey: No ahora; la edad futura
 Óscar: No ahora; la edad futura
 Idioma: Dated Teen2027 page directamente English-speaking; FAQallactivities EN/translationifneed/all Enlevels; principal EN, traducción necesaria; no se ha prometido una ESteachingcurriculum separada.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP535 000/6 días inc VAT, también listed Teenprice como Classic; de un país que no sea independiente rank.
-Limitaciones: Matvey: Grades9–11—Promedio futuro/Escuela superior; real grade Lo hará.. Oscar: Superior teen Grade9–11, el futuro. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/dates-and-rates
-Comprobado: 2026-10-05
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: Grades9–11—el futuro/escuela secundaria; de hecho grade Lo necesitaré.. Oscar: mayor teen Grade9–11, el paso futuro. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+Fuente: https://es.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-09
 
 ### CP810-20261030-20261101 · Escola Arca · English Camp · Lauro de Freitas · Little4–7 + Junior8–11 · Inmersión de tres días · 2026-10-30–2026-11-01
 
@@ -10329,6 +10329,45 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
 Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
 Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2385-20270103-20270108 · Camp Mákemáke · Junior Counselor Experience · Session One · 2027-01-03–2027-01-08
+
+Fecha: 2027-01-03 国 2027-01-08
+Edad: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Inglés como lengua de la vida y las actividades del campamento.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Oscar: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+Fuente: https://es.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-09
+
+### CP2385-20270124-20270129 · Camp Mákemáke · Junior Counselor Experience · Session Four · 2027-01-24–2027-01-29
+
+Fecha: 2027-01-24 国 2027-01-29
+Edad: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Inglés como lengua de la vida y las actividades del campamento.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Oscar: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+Fuente: https://es.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-09
+
+### CP2385-20270214-20270219 · Camp Mákemáke · Junior Counselor Experience · Session Seven · 2027-02-14–2027-02-19
+
+Fecha: 2027-02-14 国 2027-02-19
+Edad: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Inglés como lengua de la vida y las actividades del campamento.
+Acceso: La plaza se confirma tras tramitar la solicitud y el pago. Las plazas del campamento y del autobús cambian por separado.
+Costo: 2027 · 535000 CLP con IVA y autobús. Con entrega y recogida por cuenta propia se deducen 20000 CLP, total de 515000 CLP por niño y turno. La plaza de autobús se confirma por separado. · cargos y condiciones en la ficha
+Condiciones: Matvey: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Oscar: Para participantes que regresan, en los grados 9–11. El grado exacto se confirma con el organizador. Cargos extra: Salida y regreso a las 13:00 el primer y último día según la página de tarifas. Punto de encuentro Av. Francisco Bilbao 8000, Las Condes. Viaje hasta allí y alojamiento familiar aparte. Pago: Para cancelaciones antes del 20 de diciembre de 2026 se retiene el 21%. Después del 20 de diciembre se prevé un reembolso reducido en un 30% por enfermedad grave, lesión o emergencia familiar. Consulte las condiciones del propio 20 de diciembre.
+Fuente: https://es.campmakemake.com/dates-and-rates
 Se ha comprobado: 2026-11-09
 
 ### E298 · Brasil Game Show 2027 · public exhibition

@@ -312,7 +312,7 @@ def integrate(catalog, dossier_report):
             if variant.get('delivery_mode'):
                 row['delivery_mode']=variant['delivery_mode']
             if variant.get('availability'):row['availability']=deepcopy(variant['availability'])
-            for key in ('deadline_utc', 'deadline_timezone', 'deadline_note'):
+            for key in ('deadline_utc', 'deadline_timezone', 'deadline_note', 'date_conflict'):
                 if variant.get(key):
                     row[key] = variant[key]
             if variant.get('date_precision')=='published_rule':

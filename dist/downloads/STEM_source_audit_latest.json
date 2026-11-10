@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12081,
-    "competition_cards": 5458,
-    "event_cards": 797,
-    "camp_cards": 5826,
-    "league_profiles": 344,
-    "major_exhibition_cards": 691,
+    "cards": 12093,
+    "competition_cards": 5465,
+    "event_cards": 799,
+    "camp_cards": 5829,
+    "league_profiles": 347,
+    "major_exhibition_cards": 693,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3890,
+      "total": 3899,
       "countries_with_records": 41,
-      "competitions": 2226,
-      "events": 230,
-      "major_exhibitions": 183,
+      "competitions": 2233,
+      "events": 232,
+      "major_exhibitions": 185,
       "camps": 1434,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 852,
+      "total": 855,
       "countries_with_records": 15,
       "competitions": 498,
       "events": 66,
       "major_exhibitions": 60,
-      "camps": 288,
+      "camps": 291,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -8945,6 +8945,52 @@
       "new": false
     },
     {
+      "id": "tecnikids-expo-steam",
+      "name": "Tecnikids · EXPO STEAM",
+      "group": "international",
+      "event_ids": [
+        "C5460",
+        "C5461",
+        "C5462",
+        "C5463",
+        "C5464"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "new": false
+    },
+    {
+      "id": "hackathon-nicaragua",
+      "name": "Hackathon Nicaragua",
+      "group": "regional",
+      "event_ids": [
+        "C5466"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.hackathonicaragua.com.ni/",
+      "new": false
+    },
+    {
+      "id": "joventech-nicaragua",
+      "name": "JovenTech Nicaragua",
+      "group": "regional",
+      "event_ids": [
+        "C5465"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.mined.gob.ni/mined-realiza-etapa-nacional-del-festival-de-innovacion-tecnologica-joventech/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17547,6 +17593,28 @@
       "new": false
     },
     {
+      "id": "E798",
+      "name": "Tecnikids · EXPO STEAM 2026 · jornada familiar",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "visitor_policy": "family",
+      "source": "https://www.tecnikidscr.com/expo-steam-2026",
+      "new": false
+    },
+    {
+      "id": "E799",
+      "name": "Feria XR TEC 2026 · realidad extendida",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-06-26",
+      "end": "2026-06-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18073,7 +18141,8 @@
     "Добавлен латвийский сезон робототехники, проверены семейные выставки, игровая программа и языки курсов в Риге. Зарубежный допуск и правила следующих этапов отмечены отдельно.",
     "В Эстонии добавлены Robotex, Folkrace, Delta X и семейные события PROTO. В Литве проверены STEAM ABC, маршруты VILIPO и зимние англоязычные смены. Всемирный охват остаётся частичным.",
     "В Бразилии добавлены семейные события, региональные и национальные турниры, промышленные выставки с возрастными правилами и отдельные маршруты лагерей.",
-    "В Мексике добавлена выборка занятий и событий по официальной программе Сакатекаса. Условия отдельных площадок требуют проверки."
+    "В Мексике добавлена выборка занятий и событий по официальной программе Сакатекаса. Условия отдельных площадок требуют проверки.",
+    "В Центральной Америке сверены отдельные архивы, актуальные правила доступа и конфликт условий Matenciar. Полнота местного охвата не подтверждена."
   ],
   "source_issues": [
     {
@@ -19976,14 +20045,14 @@
       }
     ],
     "counts": {
-      "records": 5826,
-      "holiday": 5184,
+      "records": 5829,
+      "holiday": 5187,
       "regular": 236,
       "self_paced_materials": 4,
-      "boarding": 1039,
-      "en_es_instruction": 1683,
+      "boarding": 1042,
+      "en_es_instruction": 1686,
       "en_es_support": 67,
-      "family_instruction": 1683,
+      "family_instruction": 1686,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,

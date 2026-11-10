@@ -287,9 +287,9 @@ Sí.
 Idioma: ES
 Entrada: Exposición + problemas específicos de la escuela; situación de la escuela / equipo
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: Sitio web 2026 muestra 22 agosto; ventana 21–22.08 en el punto de partida no es igual a dos días abiertos de visitas.
+Condiciones: La página aún describe la edición de 2026. El día familiar y cinco grupos de competición de 2026 están en las fichas de archivo enlazadas. Fechas y tarifas de 2027 pendientes de confirmar.
 Fuente: https://www.tecnikidscr.com/expo-steam-2026
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-09
 
 ### L001 · MachineCare Education — Monterrey
 
@@ -2755,11 +2755,11 @@ edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción
 Matvey: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
 Oscar: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
 Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
-Acceso: Inscripción en NASA Space Apps y elección de Cartago. TEC admite a menores con tutor. La plataforma habilita la lista de espera, confirmar disponibilidad.
+Acceso: Es obligatorio registrarse en NASA Space Apps y elegir Cartago. El formulario adicional del TEC está deshabilitado porque el organizador indica que se llenó. Consulte en la ficha oficial si es posible participar, incluida la lista de espera de NASA. Se puede llegar sin equipo y formarlo allí si se acepta al participante. Para menores rigen el registro por representante legal y las condiciones de acompañamiento.
 Precio: Participación gratuita según la organización local.
 Limitaciones: El programa de TEC indica preparación y entrega de la presentación local desde las 14:00 el 15 de noviembre. La entrega del proyecto a NASA es aparte hasta las 23:59 de Costa Rica. Importan ambos plazos.
 Fuente: https://www.spaceappschallenge.org/2026/local-events/cartago/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C3117 · NASA Space Apps Challenge 2026 · San José · presencial
 
@@ -6245,6 +6245,97 @@ Condiciones: El equipo investiga un problema de su comunidad. El proyecto está 
 Fuente: https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026
 Se ha comprobado: 2026-11-09
 
+### E798 · Tecnikids · EXPO STEAM 2026 · jornada familiar
+
+Fecha: 2026-08-22 — 2026-08-22
+Edad: El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El 22 de agosto de 2026 de 08:00 a 17:00 fue el día familiar. Solo los participantes y un entrenador accedían a la zona de equipos. El 21 de agosto hubo una reunión separada para directivos escolares.
+Costo: En 2026 la entrada general costaba 5000 CRC y la de menores de 4–17 años 2500 CRC. Se desconoce la tarifa de la próxima edición.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### C5460 · Tecnikids · EXPO STEAM 2026 · Preescolar
+
+Fecha: 2026-08-22 — 2026-08-22
+Edad: Preescolar
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Costo: Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### C5461 · Tecnikids · EXPO STEAM 2026 · Primaria Menor
+
+Fecha: 2026-08-22 — 2026-08-22
+edad: Primaria Menor
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Costo: Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### C5462 · Tecnikids · EXPO STEAM 2026 · Primaria Mayor
+
+Fecha: 2026-08-22 — 2026-08-22
+Edad: Primaria Mayor
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Costo: Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### C5463 · Tecnikids · EXPO STEAM 2026 · Secundaria
+
+Fecha: 2026-08-22 — 2026-08-22
+Edad: Secundaria
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Costo: Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### C5464 · Tecnikids · EXPO STEAM 2026 · Diversificado
+
+Fecha: 2026-08-22 — 2026-08-22
+Edad: Diversificado
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Costo: Archivo de 2026. Por equipo, 30000 CRC en Costa Rica, 65 USD en Panamá y 65 USD para otros países.
+Condiciones: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Fuente: https://www.tecnikidscr.com/expo-steam-2026
+Se ha comprobado: 2026-11-09
+
+### E799 · Feria XR TEC 2026 · realidad extendida
+
+Fecha: 2026-06-26 — 2026-06-26
+Edad: En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.
+Matvey: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Oscar: Archivo de 2026. Aún no se han anunciado las condiciones de la próxima edición.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.
+Costo: En 2026 la entrada era gratuita sin inscripción previa. No se indica la edad para utilizar el equipo de realidad virtual.
+Condiciones: El 26 de junio de 2026 en el TEC de Cartago. Proyectos estudiantiles de realidad virtual y aumentada, IoT y modelos digitales. La próxima edición aún no está confirmada.
+Fuente: https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial
+Se ha comprobado: 2026-11-09
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -6911,15 +7002,15 @@ Comprobado: 2026-10-06
 ### CP944-20270118-20270121 · UCR CIMM · Mat’enCiAr Summer · Matenciar · 2027-01-18–2027-01-21
 
 Fecha: 2027-01-18 — 2027-01-21
-edad: 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.
+Edad: El anuncio y las condiciones de la UCR indican 10–12 años. La descripción del portal de pagos también indica 10–12 años, pero su línea de admisión señala 9–12 años y los grados 4–6 de escuela pública.
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Idioma: Confirmar con el operador el idioma del grupo concreto.
-Acceso: Presentar solicitud hasta el 18 de diciembre de 2026. UCR primero verifica requisitos y comunica al tutor la plaza asignada, y luego facilita los datos de pago. Clases para 10–12 años. Se exige asistir las 3,5 horas diarias.
-Precio: 2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
+Acceso: Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.
+Costo: 2027 · Las condiciones de solicitud indican 5000 CRC, con seguro INS según el anuncio. El portal de pagos muestra 3270 CRC y exige pagar aparte la póliza obligatoria. Confirme con la UCR el total y la tarifa aplicable. · cargos y condiciones en la ficha
+Condiciones: Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Cargos extra: El menor trae su merienda. Transporte por separado. Pago: Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.
 Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### CP1080-20261207-20261211 · CENFOTEC · Explorador IA · El IE de la adolescencia · 2026-12-07–2026-12-11
 
