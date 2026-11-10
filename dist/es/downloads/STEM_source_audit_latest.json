@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12635,
-    "competition_cards": 5570,
-    "event_cards": 865,
-    "camp_cards": 6200,
+    "cards": 12643,
+    "competition_cards": 5572,
+    "event_cards": 868,
+    "camp_cards": 6203,
     "league_profiles": 359,
-    "major_exhibition_cards": 759,
+    "major_exhibition_cards": 762,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 4072,
+      "total": 4080,
       "countries_with_records": 41,
-      "competitions": 2248,
-      "events": 240,
-      "major_exhibitions": 193,
-      "camps": 1584,
+      "competitions": 2250,
+      "events": 243,
+      "major_exhibitions": 196,
+      "camps": 1587,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -18577,6 +18577,39 @@
       "new": false
     },
     {
+      "id": "E866",
+      "name": "FIRST Robotics Competition · Waterloo · Public viewing",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-03-30",
+      "end": "2027-04-01",
+      "visitor_policy": "family",
+      "source": "https://wwfirst.ca/2027-frc-waterloo/",
+      "new": false
+    },
+    {
+      "id": "E867",
+      "name": "2702 Rebels · Robot Reveal & Open House 2027",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "visitor_policy": "family",
+      "source": "https://2702rebels.com/events/",
+      "new": false
+    },
+    {
+      "id": "E868",
+      "name": "Mecha Mayhem 2027 · Public robotics visit",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-02-12",
+      "end": "2027-02-14",
+      "visitor_policy": "family",
+      "source": "https://www.mechamayhem.ca/info",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -21008,7 +21041,7 @@
       }
     ],
     "counts": {
-      "records": 6200,
+      "records": 6203,
       "holiday": 5525,
       "regular": 238,
       "self_paced_materials": 4,

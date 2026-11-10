@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12635. Competiciones: 5570. Eventos: 865. Campamentos o programas: 6200. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 759. Se cuentan ediciones y sedes.
+Fichas en la base: 12643. Competiciones: 5572. Eventos: 868. Campamentos o programas: 6203. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 762. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2248 | 193 | 1584 |
+| América del Norte | 41 | 2250 | 196 | 1587 |
 | América del Sur | 15 | 505 | 63 | 293 |
 | Europa | 55 | 796 | 189 | 1806 |
 | África | 61 | 293 | 52 | 167 |
@@ -23,7 +23,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 Fichas interregionales o globales sin continente asignado: 267. América del Norte incluye América Central y el Caribe. Las cifras reflejan el inventario de la base.
 
-VEX: 821 de 5570 fichas de competiciones (14.7%). La cobertura está desequilibrada.
+VEX: 821 de 5572 fichas de competiciones (14.7%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -1200,6 +1200,9 @@ VEX: 821 de 5570 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **Seoul RAIM · Robot City · Robot & AI Garden** — República de Corea; 2026-09-04 – 2026-12-05. Confirme el acceso infantil. https://science.seoul.go.kr/RAIM/index.do
 - **Next Consumer Electronics Show · NCES 2027** — Nigeria; 2027-11-10 – 2027-11-12. Restricciones de edad. https://nces.tech/terms-of-use
 - **ExpoLatam Business Summit Buenos Aires 2027** — Argentina; 2027-06-02 – 2027-06-03. Confirme el acceso infantil. https://www.ce-expolatam.com/argentina-2027
+- **FIRST Robotics Competition · Waterloo · Public viewing** — Canadá; 2027-03-30 – 2027-04-01. Con un adulto. Consulte las condiciones de acceso. https://wwfirst.ca/2027-frc-waterloo/
+- **2702 Rebels · Robot Reveal & Open House 2027** — Canadá; 2027-02-27. Con un adulto. Consulte las condiciones de acceso. https://2702rebels.com/events/
+- **Mecha Mayhem 2027 · Public robotics visit** — Canadá; 2027-02-12 – 2027-02-14. Con un adulto. Consulte las condiciones de acceso. https://www.mechamayhem.ca/info
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

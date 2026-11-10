@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2531 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2534 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -198923,6 +198923,192 @@ Singapur · Our Tampines Hub · Seminar Room 4 · Level 3 · 1 Tampines Walk, Si
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502) · 2026-11-10
+
+## CP2532 · Stanley Park · Quirky Creations
+
+Canadá · Stanley Park Community Centre · Kitchener, Ontario
+
+**Verificado:** 2026-11-10
+
+**edad:** 4–6 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de las clases.
+
+**Programa:** Construcción y programación básica de modelos LEGO para el grupo menor.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Cuatro miércoles, de 17:00 a 17:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.
+
+**Precio / año:** 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Incluido:** Construcción y programación básica de modelos LEGO para el grupo menor.
+
+**Suplementos:** Traslado por separado. Confirme el equipo y los posibles cargos adicionales.
+
+**Pago:** El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+**Matvey:** Edad superior al rango del grupo publicado.
+
+**Oscar:** Compatible con el grupo si cumple la edad al inicio.
+
+**Motivo de selección:** Construcción y programación básica de modelos LEGO para el grupo menor.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+### Quirky Creations
+
+**Fechas / estado:** 2027-02-17 — 2027-03-10
+
+**Precio:** CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Condiciones de participación:** Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- 2027-02-17 · 17:00–17:55 · America/Toronto · Quirky Creations
+
+- 2027-02-24 · 17:00–17:55 · America/Toronto · Quirky Creations
+
+- 2027-03-03 · 17:00–17:55 · America/Toronto · Quirky Creations
+
+- 2027-03-10 · 17:00–17:55 · America/Toronto · Quirky Creations
+
+[fuente](https://www.spcakitchener.ca/programs?view=244456)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.spcakitchener.ca/programs?view=244456) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/stanleyparkcc/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/) · 2026-11-10
+
+## CP2533 · Stanley Park · SPIKE Essential Machines and Mechanisms
+
+Canadá · Stanley Park Community Centre · Kitchener, Ontario
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–8 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de las clases.
+
+**Programa:** Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Cuatro miércoles, de 18:00 a 18:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.
+
+**Precio / año:** 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Incluido:** Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.
+
+**Suplementos:** Traslado por separado. Confirme el equipo y los posibles cargos adicionales.
+
+**Pago:** El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+**Matvey:** Edad superior al rango del grupo publicado.
+
+**Oscar:** Compatible con el grupo si cumple la edad al inicio.
+
+**Motivo de selección:** Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+### SPIKE Essential Machines and Mechanisms
+
+**Fechas / estado:** 2027-01-13 — 2027-02-03
+
+**Precio:** CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Condiciones de participación:** Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- 2027-01-13 · 18:00–18:55 · America/Toronto · SPIKE Essential Machines and Mechanisms
+
+- 2027-01-20 · 18:00–18:55 · America/Toronto · SPIKE Essential Machines and Mechanisms
+
+- 2027-01-27 · 18:00–18:55 · America/Toronto · SPIKE Essential Machines and Mechanisms
+
+- 2027-02-03 · 18:00–18:55 · America/Toronto · SPIKE Essential Machines and Mechanisms
+
+[fuente](https://www.spcakitchener.ca/programs?view=244457)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.spcakitchener.ca/programs?view=244457) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/stanleyparkcc/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/) · 2026-11-10
+
+## CP2534 · Stanley Park · RoboMaker Challenge
+
+Canadá · Stanley Park Community Centre · Kitchener, Ontario
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–8 años.
+
+**Idioma:** Descripción en inglés. Confirme el idioma de las clases.
+
+**Programa:** Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Cuatro miércoles, de 18:00 a 18:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.
+
+**Precio / año:** 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Incluido:** Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.
+
+**Suplementos:** Traslado por separado. Confirme el equipo y los posibles cargos adicionales.
+
+**Pago:** El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+**Matvey:** Edad superior al rango del grupo publicado.
+
+**Oscar:** Compatible con el grupo si cumple la edad al inicio.
+
+**Motivo de selección:** Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.
+
+### Antes de solicitar plaza
+
+- Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+
+### RoboMaker Challenge
+
+**Fechas / estado:** 2027-02-17 — 2027-03-10
+
+**Precio:** CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.
+
+**Condiciones de participación:** Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+
+- 2027-02-17 · 18:00–18:55 · America/Toronto · RoboMaker Challenge
+
+- 2027-02-24 · 18:00–18:55 · America/Toronto · RoboMaker Challenge
+
+- 2027-03-03 · 18:00–18:55 · America/Toronto · RoboMaker Challenge
+
+- 2027-03-10 · 18:00–18:55 · America/Toronto · RoboMaker Challenge
+
+[fuente](https://www.spcakitchener.ca/programs?view=244458)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.spcakitchener.ca/programs?view=244458) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/stanleyparkcc/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

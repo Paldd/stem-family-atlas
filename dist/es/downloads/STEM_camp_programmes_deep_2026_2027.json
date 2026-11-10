@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2531,
+    "dossiers": 2534,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 727,
+      "published_2027": 730,
       "partial_2027": 182,
       "next_unannounced": 488,
       "published_2026": 484,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3451
+    "source_urls": 3456
   },
   "countries": [
     {
@@ -260,7 +260,7 @@
     },
     {
       "country": "Canadá",
-      "count": 218
+      "count": 221
     },
     {
       "country": "Catar",
@@ -449884,6 +449884,471 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2532",
+      "slug": "stanley-park-kitchener-quirky-creations",
+      "provider": "Stanley Park · Quirky Creations",
+      "iso": "CAN",
+      "country": "Canadá",
+      "place": "Stanley Park Community Centre · Kitchener, Ontario",
+      "age": "4–6 años.",
+      "programme": "Construcción y programación básica de modelos LEGO para el grupo menor.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirme el idioma de las clases.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Cuatro miércoles, de 17:00 a 17:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.",
+        "sessions": [
+          [
+            "2027-02-17",
+            "2027-03-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-17",
+            "end": "2027-03-10",
+            "label": "Quirky Creations",
+            "source": "https://www.spcakitchener.ca/programs?view=244456",
+            "price": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+            "entry": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-17",
+                "start_time": "17:00",
+                "end_time": "17:55",
+                "timezone": "America/Toronto",
+                "topic": "Quirky Creations",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T22:00:00Z",
+                "end_utc": "2027-02-17T22:55:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "17:00",
+                "end_time": "17:55",
+                "timezone": "America/Toronto",
+                "topic": "Quirky Creations",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T22:00:00Z",
+                "end_utc": "2027-02-24T22:55:00Z"
+              },
+              {
+                "date": "2027-03-03",
+                "start_time": "17:00",
+                "end_time": "17:55",
+                "timezone": "America/Toronto",
+                "topic": "Quirky Creations",
+                "ical_timed": true,
+                "start_utc": "2027-03-03T22:00:00Z",
+                "end_utc": "2027-03-03T22:55:00Z"
+              },
+              {
+                "date": "2027-03-10",
+                "start_time": "17:00",
+                "end_time": "17:55",
+                "timezone": "America/Toronto",
+                "topic": "Quirky Creations",
+                "ical_timed": true,
+                "start_utc": "2027-03-10T22:00:00Z",
+                "end_utc": "2027-03-10T22:55:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "CAD",
+        "amount": 85,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+        "included": "Construcción y programación básica de modelos LEGO para el grupo menor.",
+        "extras": "Traslado por separado. Confirme el equipo y los posibles cargos adicionales.",
+        "deposit": "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad superior al rango del grupo publicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Compatible con el grupo si cumple la edad al inicio."
+        }
+      },
+      "editorial_reason": "Construcción y programación básica de modelos LEGO para el grupo menor.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+        "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      ],
+      "sources": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244456",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-17",
+          "end": "2027-03-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2532-20270217-20270310"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2533",
+      "slug": "stanley-park-kitchener-spike-machines",
+      "provider": "Stanley Park · SPIKE Essential Machines and Mechanisms",
+      "iso": "CAN",
+      "country": "Canadá",
+      "place": "Stanley Park Community Centre · Kitchener, Ontario",
+      "age": "6–8 años.",
+      "programme": "Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirme el idioma de las clases.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Cuatro miércoles, de 18:00 a 18:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.",
+        "sessions": [
+          [
+            "2027-01-13",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-13",
+            "end": "2027-02-03",
+            "label": "SPIKE Essential Machines and Mechanisms",
+            "source": "https://www.spcakitchener.ca/programs?view=244457",
+            "price": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+            "entry": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "SPIKE Essential Machines and Mechanisms",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T23:00:00Z",
+                "end_utc": "2027-01-13T23:55:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "SPIKE Essential Machines and Mechanisms",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T23:00:00Z",
+                "end_utc": "2027-01-20T23:55:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "SPIKE Essential Machines and Mechanisms",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T23:00:00Z",
+                "end_utc": "2027-01-27T23:55:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "SPIKE Essential Machines and Mechanisms",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T23:00:00Z",
+                "end_utc": "2027-02-03T23:55:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "CAD",
+        "amount": 85,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+        "included": "Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.",
+        "extras": "Traslado por separado. Confirme el equipo y los posibles cargos adicionales.",
+        "deposit": "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad superior al rango del grupo publicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Compatible con el grupo si cumple la edad al inicio."
+        }
+      },
+      "editorial_reason": "Construcción de palancas, engranajes y mecanismos motorizados con LEGO SPIKE Essential.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+        "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      ],
+      "sources": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244457",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-13",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2533-20270113-20270203"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2534",
+      "slug": "stanley-park-kitchener-robomaker",
+      "provider": "Stanley Park · RoboMaker Challenge",
+      "iso": "CAN",
+      "country": "Canadá",
+      "place": "Stanley Park Community Centre · Kitchener, Ontario",
+      "age": "6–8 años.",
+      "programme": "Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirme el idioma de las clases.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Cuatro miércoles, de 18:00 a 18:55 en Kitchener. Horario los miércoles. El campo de cancelación muestra el 31 de diciembre de 1969. Compruebe las cancelaciones reales en ActiveNet.",
+        "sessions": [
+          [
+            "2027-02-17",
+            "2027-03-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-17",
+            "end": "2027-03-10",
+            "label": "RoboMaker Challenge",
+            "source": "https://www.spcakitchener.ca/programs?view=244458",
+            "price": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+            "entry": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-17",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "RoboMaker Challenge",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T23:00:00Z",
+                "end_utc": "2027-02-17T23:55:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "RoboMaker Challenge",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T23:00:00Z",
+                "end_utc": "2027-02-24T23:55:00Z"
+              },
+              {
+                "date": "2027-03-03",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "RoboMaker Challenge",
+                "ical_timed": true,
+                "start_utc": "2027-03-03T23:00:00Z",
+                "end_utc": "2027-03-03T23:55:00Z"
+              },
+              {
+                "date": "2027-03-10",
+                "start_time": "18:00",
+                "end_time": "18:55",
+                "timezone": "America/Toronto",
+                "topic": "RoboMaker Challenge",
+                "ical_timed": true,
+                "start_utc": "2027-03-10T23:00:00Z",
+                "end_utc": "2027-03-10T23:55:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "CAD",
+        "amount": 85,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales.",
+        "included": "Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.",
+        "extras": "Traslado por separado. Confirme el equipo y los posibles cargos adicionales.",
+        "deposit": "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad superior al rango del grupo publicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Compatible con el grupo si cumple la edad al inicio."
+        }
+      },
+      "editorial_reason": "Cuatro proyectos de programación LEGO, entre ellos un coche de carreras y un robot para el sumo final del curso.",
+      "shortlist": [],
+      "questions": [
+        "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.",
+        "El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet."
+      ],
+      "sources": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244458",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local."
+      },
+      "programme_type": "regular_course",
+      "catalog_participation": "day_course",
+      "materials_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-17",
+          "end": "2027-03-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2534-20270217-20270310"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -468444,7 +468909,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2531,
+      "total_dossiers": 2534,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -496009,6 +496474,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2532",
+      "event_id": "CP2532-20270217-20270310",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2533",
+      "event_id": "CP2533-20270113-20270203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2534",
+      "event_id": "CP2534-20270217-20270310",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -501601,10 +502081,13 @@
     "CP2528-20261130-20261216",
     "CP2529-20261130-20261216",
     "CP2530-20261130-20261216",
-    "CP2531-20261212-20261212"
+    "CP2531-20261212-20261212",
+    "CP2532-20270217-20270310",
+    "CP2533-20270113-20270203",
+    "CP2534-20270217-20270310"
   ],
   "integration": {
-    "generated_sessions": 5182,
+    "generated_sessions": 5185,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

@@ -97990,6 +97990,54 @@ Restricciones: Matvey: Edad dentro del rango de 5–9. Confirme acceso de famili
 Fuente: https://www.onepa.gov.sg/events/tampines-courtview-young-robotics-explorers-42010502
 Verificado: 2026-11-10
 
+### CP2532-20270217-20270310 · Stanley Park · Quirky Creations · Quirky Creations · 2027-02-17–2027-03-10
+
+Lugar: Canadá · Stanley Park Community Centre · Kitchener, Ontario
+Fecha: 2027-02-17 — 2027-03-10
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: day_course
+Idioma: Descripción en inglés. Confirme el idioma de las clases.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+Restricciones: Matvey: Edad superior al rango del grupo publicado. Oscar: Compatible con el grupo si cumple la edad al inicio. Suplementos: Traslado por separado. Confirme el equipo y los posibles cargos adicionales. Pago: El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+Fuente: https://www.spcakitchener.ca/programs?view=244456
+Verificado: 2026-11-10
+
+### CP2533-20270113-20270203 · Stanley Park · SPIKE Essential Machines and Mechanisms · SPIKE Essential Machines and Mechanisms · 2027-01-13–2027-02-03
+
+Lugar: Canadá · Stanley Park Community Centre · Kitchener, Ontario
+Fecha: 2027-01-13 — 2027-02-03
+Edad: 6–8 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: day_course
+Idioma: Descripción en inglés. Confirme el idioma de las clases.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+Restricciones: Matvey: Edad superior al rango del grupo publicado. Oscar: Compatible con el grupo si cumple la edad al inicio. Suplementos: Traslado por separado. Confirme el equipo y los posibles cargos adicionales. Pago: El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+Fuente: https://www.spcakitchener.ca/programs?view=244457
+Verificado: 2026-11-10
+
+### CP2534-20270217-20270310 · Stanley Park · RoboMaker Challenge · RoboMaker Challenge · 2027-02-17–2027-03-10
+
+Lugar: Canadá · Stanley Park Community Centre · Kitchener, Ontario
+Fecha: 2027-02-17 — 2027-03-10
+Edad: 6–8 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: day_course
+Idioma: Descripción en inglés. Confirme el idioma de las clases.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · CAD 85 por curso. Confirme impuestos incluidos y posibles cargos adicionales. · suplementos y condiciones en la ficha
+Acceso: Confirme plaza, edad al inicio, idioma y acceso para familias sin domicilio local.
+Restricciones: Matvey: Edad superior al rango del grupo publicado. Oscar: Compatible con el grupo si cumple la edad al inicio. Suplementos: Traslado por separado. Confirme el equipo y los posibles cargos adicionales. Pago: El centro indica apertura el 8 de diciembre de 2026 para residentes y el 15 de diciembre de 2026 para los demás, a las 08:30. La tabla municipal general indica 2027. Compruebe el curso en ActiveNet.
+Fuente: https://www.spcakitchener.ca/programs?view=244458
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

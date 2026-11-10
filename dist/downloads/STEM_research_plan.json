@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 381,
+    "prepared_ui_version": 382,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 380,
-    "previous_verified_commit": "24c04ea823b41847637ebfc3f0e785aa7f639cfd",
-    "previous_working_ui_version": 380
+    "previous_verified_ui_version": 381,
+    "previous_verified_commit": "75252dd1ec9dff6d60564e364a01cfc6bbaf83d1",
+    "previous_working_ui_version": 381
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41526,6 +41526,53 @@
     },
     "legacy_overlay_event_ids": [
       "C1777"
+    ]
+  },
+  "ontario_robotics_and_canada_visitor_v382": {
+    "version": 382,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 381,
+      "commit": "75252dd1ec9dff6d60564e364a01cfc6bbaf83d1",
+      "workflow": 42858397603
+    },
+    "kitchener": {
+      "dossier_ids": [
+        "CP2532",
+        "CP2533",
+        "CP2534"
+      ],
+      "sessions_per_course": 4,
+      "fee_cad": 85,
+      "language_role": "materials",
+      "excluded_date_placeholder": "1969-12-31",
+      "community_centre_registration_year": 2026,
+      "general_city_page_year": 2027,
+      "course_availability_unconfirmed": true
+    },
+    "frc_waterloo": {
+      "competition_id": "C5572",
+      "public_visit_id": "E866",
+      "team_open_house_id": "E867",
+      "timed_public_days": 3,
+      "timezone": "America/Toronto"
+    },
+    "mecha_mayhem": {
+      "competition_id": "C025",
+      "public_visit_id": "E868",
+      "free_public_registration": true
+    },
+    "wwsef": {
+      "event_id": "C5573",
+      "independent_contact_deadline": "2027-01-08",
+      "application_deadline": "2027-03-10",
+      "school_grade_min": 7,
+      "regional_eligibility": true
+    },
+    "legacy_overlay_event_ids": [
+      "C025"
     ]
   }
 }

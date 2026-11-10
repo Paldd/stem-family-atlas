@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 6200,
+      "records": 6203,
       "holiday": 5525,
       "regular": 238,
       "self_paced_materials": 4,
@@ -525657,6 +525657,345 @@
         }
       ],
       "deadline_note": "Проверить наличие мест и подходящую категорию билета через OnePA. Регистрация указана до 12 декабря 2026."
+    },
+    {
+      "id": "CP2532-20270217-20270310",
+      "block": "Лагеря",
+      "title": "Stanley Park · Quirky Creations · Quirky Creations · 2027-02-17–2027-03-10",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Stanley Park Community Centre · Kitchener, Ontario",
+      "start": "2027-02-17",
+      "end": "2027-03-10",
+      "period": "Четыре среды, 17:00–17:55 по Китченеру. Расписание по средам. Поле отмены показывает 31 декабря 1969. Проверить реальные отмены в ActiveNet.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–6 лет.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.",
+      "gear": "Сборка и простое программирование моделей LEGO для младшей группы.",
+      "language": "Описание на английском. Язык занятий подтвердить.",
+      "cost": "2027 · CAD 85 за курс. Включение налога и возможные доплаты уточнить. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.; Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "source": "https://www.spcakitchener.ca/programs?view=244456",
+      "references": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244456",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше диапазона опубликованной группы. Оскар: Подходит по возрастной группе при соответствии возрасту на старте. Доплаты: Дорога отдельно. Состав оборудования и доплаты уточнить. Оплата: Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание на английском. Язык занятий подтвердить.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stanley-park-kitchener-quirky-creations",
+      "camp_programme_id": "CP2532",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-17",
+          "start_time": "17:00",
+          "end_time": "17:55",
+          "timezone": "America/Toronto",
+          "topic": "Quirky Creations",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T22:00:00Z",
+          "end_utc": "2027-02-17T22:55:00Z"
+        },
+        {
+          "date": "2027-02-24",
+          "start_time": "17:00",
+          "end_time": "17:55",
+          "timezone": "America/Toronto",
+          "topic": "Quirky Creations",
+          "ical_timed": true,
+          "start_utc": "2027-02-24T22:00:00Z",
+          "end_utc": "2027-02-24T22:55:00Z"
+        },
+        {
+          "date": "2027-03-03",
+          "start_time": "17:00",
+          "end_time": "17:55",
+          "timezone": "America/Toronto",
+          "topic": "Quirky Creations",
+          "ical_timed": true,
+          "start_utc": "2027-03-03T22:00:00Z",
+          "end_utc": "2027-03-03T22:55:00Z"
+        },
+        {
+          "date": "2027-03-10",
+          "start_time": "17:00",
+          "end_time": "17:55",
+          "timezone": "America/Toronto",
+          "topic": "Quirky Creations",
+          "ical_timed": true,
+          "start_utc": "2027-03-10T22:00:00Z",
+          "end_utc": "2027-03-10T22:55:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2533-20270113-20270203",
+      "block": "Лагеря",
+      "title": "Stanley Park · SPIKE Essential Machines and Mechanisms · SPIKE Essential Machines and Mechanisms · 2027-01-13–2027-02-03",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Stanley Park Community Centre · Kitchener, Ontario",
+      "start": "2027-01-13",
+      "end": "2027-02-03",
+      "period": "Четыре среды, 18:00–18:55 по Китченеру. Расписание по средам. Поле отмены показывает 31 декабря 1969. Проверить реальные отмены в ActiveNet.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–8 лет.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.",
+      "gear": "Сборка рычагов, передач и механизмов с мотором на LEGO SPIKE Essential.",
+      "language": "Описание на английском. Язык занятий подтвердить.",
+      "cost": "2027 · CAD 85 за курс. Включение налога и возможные доплаты уточнить. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.; Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "source": "https://www.spcakitchener.ca/programs?view=244457",
+      "references": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244457",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше диапазона опубликованной группы. Оскар: Подходит по возрастной группе при соответствии возрасту на старте. Доплаты: Дорога отдельно. Состав оборудования и доплаты уточнить. Оплата: Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание на английском. Язык занятий подтвердить.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stanley-park-kitchener-spike-machines",
+      "camp_programme_id": "CP2533",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-13",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "SPIKE Essential Machines and Mechanisms",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T23:00:00Z",
+          "end_utc": "2027-01-13T23:55:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "SPIKE Essential Machines and Mechanisms",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T23:00:00Z",
+          "end_utc": "2027-01-20T23:55:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "SPIKE Essential Machines and Mechanisms",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T23:00:00Z",
+          "end_utc": "2027-01-27T23:55:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "SPIKE Essential Machines and Mechanisms",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T23:00:00Z",
+          "end_utc": "2027-02-03T23:55:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2534-20270217-20270310",
+      "block": "Лагеря",
+      "title": "Stanley Park · RoboMaker Challenge · RoboMaker Challenge · 2027-02-17–2027-03-10",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Stanley Park Community Centre · Kitchener, Ontario",
+      "start": "2027-02-17",
+      "end": "2027-03-10",
+      "period": "Четыре среды, 18:00–18:55 по Китченеру. Расписание по средам. Поле отмены показывает 31 декабря 1969. Проверить реальные отмены в ActiveNet.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–8 лет.",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.",
+      "gear": "Четыре проекта с программированием LEGO, включая машинку для гонок и робота для финального сумо внутри курса.",
+      "language": "Описание на английском. Язык занятий подтвердить.",
+      "cost": "2027 · CAD 85 за курс. Включение налога и возможные доплаты уточнить. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, возраст на старте, язык и доступ семьи без местного адреса.; Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "source": "https://www.spcakitchener.ca/programs?view=244458",
+      "references": [
+        {
+          "url": "https://www.spcakitchener.ca/programs?view=244458",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/stanleyparkcc/",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.kitchener.ca/recreation-and-sports/program-registration/registration-info/",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше диапазона опубликованной группы. Оскар: Подходит по возрастной группе при соответствии возрасту на старте. Доплаты: Дорога отдельно. Состав оборудования и доплаты уточнить. Оплата: Центр указывает старт записи 8 декабря 2026 для жителей и 15 декабря 2026 для остальных, в 08:30. В общей городской таблице указан 2027 год. Проверить конкретный курс в ActiveNet.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Описание на английском. Язык занятий подтвердить.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "stanley-park-kitchener-robomaker",
+      "camp_programme_id": "CP2534",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-17",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "RoboMaker Challenge",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T23:00:00Z",
+          "end_utc": "2027-02-17T23:55:00Z"
+        },
+        {
+          "date": "2027-02-24",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "RoboMaker Challenge",
+          "ical_timed": true,
+          "start_utc": "2027-02-24T23:00:00Z",
+          "end_utc": "2027-02-24T23:55:00Z"
+        },
+        {
+          "date": "2027-03-03",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "RoboMaker Challenge",
+          "ical_timed": true,
+          "start_utc": "2027-03-03T23:00:00Z",
+          "end_utc": "2027-03-03T23:55:00Z"
+        },
+        {
+          "date": "2027-03-10",
+          "start_time": "18:00",
+          "end_time": "18:55",
+          "timezone": "America/Toronto",
+          "topic": "RoboMaker Challenge",
+          "ical_timed": true,
+          "start_utc": "2027-03-10T23:00:00Z",
+          "end_utc": "2027-03-10T23:55:00Z"
+        }
+      ]
     },
     {
       "id": "L491",
