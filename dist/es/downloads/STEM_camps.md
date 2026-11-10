@@ -7240,19 +7240,19 @@ Comprobado: 2026-10-02
 
 ### L445 · FIRST Singapore · BIOGLOW Future 5+ · Programa de apoyo
 
-Lugar: Singapur - Organizador/centro de capacitación
-Fecha: BIOGLOW 2026/27; juego actual y fechas futuras 5+ desconocidas
+Lugar: Singapur · Singapur, sede por confirmar.
+Fecha: 2027-03-20 — 2027-03-20
 Edad: 5–7 años y Grades 1–3 por página BIOGLOW
 Matvey: No: 9 Ahora está por encima del rango. Future 5–7
-Oscar: Condicional: La edad es adecuada; Clase Grade 1–3 y no se ha confirmado la contratación abierta
+Oscar: Sujeto a verificación: la edad encaja. Confirme Grade 1–3 y la plaza.
 Formato: regular
-Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
-Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: Valor actual y moneda de confirmación
+Idioma: Materiales en inglés. Confirme el idioma de las actividades, la presentación y el arbitraje.
+Marca de idioma: materials; apoyo: no declarado
+Coste: SGD 203 por equipo non-MOE en la página del organizador, con SGD 273 como precio tachado. Confirme el importe completo y el material incluido.
 Entrada: La página de temporada también comprueba la clase escolar. El equipo de la escuela/organización extranjera sólo está autorizado en Overseas Category y no puede representar a Singapore en el World Festival. Cuando se muda, se establece una clasificación del equipo local real.
-Limitaciones: La categoría se describe, pero la lista non-MOE muestra Out of stock. No se han anunciado fechas de clase ni eventos. Es un candidato a una ruta de aprendizaje sin un asiento confirmado y sin cuota mundial.
+Restricciones: Inscripción hasta el 31.01.2027 a las 10:00 SGT. Tarifa anticipada hasta el 31.12.2026 a las 22:00 SGT. Plazas limitadas. Para non-MOE se anuncia pago completo por adelantado. La portada indica 2–5 participantes; confirme la composición de cada categoría. La ficha non-MOE muestra el producto disponible. Confirme por separado la admisión del equipo y su plaza en el evento.
 Fuente: https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-5-7-45835/
-Comprobado: 2026-10-02
+Verificado: 2026-11-10
 
 ### L446 · Cobo Hong Kong · Vibe Coding Hackathon · Etapa futura 12–14
 
@@ -95876,6 +95876,1510 @@ Coste: 2027 · No se publicó el coste del grupo. Solicite tarifa y conceptos in
 Acceso: El organizador acepta preinscripciones. Confirme plaza, edad, calendario, idioma y precio.
 Restricciones: Matvey: No. La edad supera el intervalo de 6–8. Oscar: La edad encaja en el intervalo anunciado. Hay que confirmar plaza. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/
+Verificado: 2026-11-10
+
+### CP2467-20260901-20260901 · MOSI · Homeschool SEED Science · 5–7 · Fantastic Fliers (Forces and Flight) · 2026-09-01–2026-09-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-01 — 2026-09-01
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20260903-20260903 · MOSI · Homeschool SEED Science · 5–7 · Fantastic Fliers (Forces and Flight) · 2026-09-03–2026-09-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-03 — 2026-09-03
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261006-20261006 · MOSI · Homeschool SEED Science · 5–7 · Ooze and Ahhs (Chemistry) · 2026-10-06–2026-10-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-06 — 2026-10-06
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261008-20261008 · MOSI · Homeschool SEED Science · 5–7 · Ooze and Ahhs (Chemistry) · 2026-10-08–2026-10-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-08 — 2026-10-08
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261103-20261103 · MOSI · Homeschool SEED Science · 5–7 · Fall Science Frenzy (Weather and Seasons) · 2026-11-03–2026-11-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-03 — 2026-11-03
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261105-20261105 · MOSI · Homeschool SEED Science · 5–7 · Fall Science Frenzy (Weather and Seasons) · 2026-11-05–2026-11-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261201-20261201 · MOSI · Homeschool SEED Science · 5–7 · Far Out! A Space Adventure (Space) · 2026-12-01–2026-12-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-01 — 2026-12-01
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20261203-20261203 · MOSI · Homeschool SEED Science · 5–7 · Far Out! A Space Adventure (Space) · 2026-12-03–2026-12-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-03 — 2026-12-03
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270105-20270105 · MOSI · Homeschool SEED Science · 5–7 · Engineering the Future (Engineering) · 2027-01-05–2027-01-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270107-20270107 · MOSI · Homeschool SEED Science · 5–7 · Engineering the Future (Engineering) · 2027-01-07–2027-01-07
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270202-20270202 · MOSI · Homeschool SEED Science · 5–7 · Sweet Science (Chemistry) · 2027-02-02–2027-02-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-02 — 2027-02-02
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270204-20270204 · MOSI · Homeschool SEED Science · 5–7 · Sweet Science (Chemistry) · 2027-02-04–2027-02-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-04 — 2027-02-04
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270302-20270302 · MOSI · Homeschool SEED Science · 5–7 · Marching with the Dinosaurs (Paleontology) · 2027-03-02–2027-03-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-02 — 2027-03-02
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270304-20270304 · MOSI · Homeschool SEED Science · 5–7 · Marching with the Dinosaurs (Paleontology) · 2027-03-04–2027-03-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-04 — 2027-03-04
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270406-20270406 · MOSI · Homeschool SEED Science · 5–7 · Let’s Get Physical (Physics) · 2027-04-06–2027-04-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-06 — 2027-04-06
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2467-20270408-20270408 · MOSI · Homeschool SEED Science · 5–7 · Let’s Get Physical (Physics) · 2027-04-08–2027-04-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-08 — 2027-04-08
+Edad: 5–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Encaja en la edad publicada. Confirme inscripción y plaza. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20260901-20260901 · MOSI · Homeschool SEED Science · 8–10 · Fly Like an Eagle (Flight) · 2026-09-01–2026-09-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-01 — 2026-09-01
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20260903-20260903 · MOSI · Homeschool SEED Science · 8–10 · Fly Like an Eagle (Flight) · 2026-09-03–2026-09-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-03 — 2026-09-03
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261006-20261006 · MOSI · Homeschool SEED Science · 8–10 · Journey through the Stars (Space) · 2026-10-06–2026-10-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-06 — 2026-10-06
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261008-20261008 · MOSI · Homeschool SEED Science · 8–10 · Journey through the Stars (Space) · 2026-10-08–2026-10-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-08 — 2026-10-08
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261103-20261103 · MOSI · Homeschool SEED Science · 8–10 · Chemistry Chaos (Chemistry) · 2026-11-03–2026-11-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-03 — 2026-11-03
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261105-20261105 · MOSI · Homeschool SEED Science · 8–10 · Chemistry Chaos (Chemistry) · 2026-11-05–2026-11-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261201-20261201 · MOSI · Homeschool SEED Science · 8–10 · The Blueprint of Life (DNA) · 2026-12-01–2026-12-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-01 — 2026-12-01
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20261203-20261203 · MOSI · Homeschool SEED Science · 8–10 · The Blueprint of Life (DNA) · 2026-12-03–2026-12-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-03 — 2026-12-03
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270105-20270105 · MOSI · Homeschool SEED Science · 8–10 · STEM Olympics (Integrating Science, Technology, Engineering and Mathematics) · 2027-01-05–2027-01-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270107-20270107 · MOSI · Homeschool SEED Science · 8–10 · STEM Olympics (Integrating Science, Technology, Engineering and Mathematics) · 2027-01-07–2027-01-07
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270202-20270202 · MOSI · Homeschool SEED Science · 8–10 · In the Physics Lab (Physics) · 2027-02-02–2027-02-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-02 — 2027-02-02
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270204-20270204 · MOSI · Homeschool SEED Science · 8–10 · In the Physics Lab (Physics) · 2027-02-04–2027-02-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-04 — 2027-02-04
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270302-20270302 · MOSI · Homeschool SEED Science · 8–10 · Storm Chasers (Weather) · 2027-03-02–2027-03-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-02 — 2027-03-02
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270304-20270304 · MOSI · Homeschool SEED Science · 8–10 · Storm Chasers (Weather) · 2027-03-04–2027-03-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-04 — 2027-03-04
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270406-20270406 · MOSI · Homeschool SEED Science · 8–10 · Just Build It! (Engineering) · 2027-04-06–2027-04-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-06 — 2027-04-06
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2468-20270408-20270408 · MOSI · Homeschool SEED Science · 8–10 · Just Build It! (Engineering) · 2027-04-08–2027-04-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-08 — 2027-04-08
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20260901-20260901 · MOSI · Homeschool SEED Technology · 8–10 · Go for Launch! · 2026-09-01–2026-09-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-01 — 2026-09-01
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20261006-20261006 · MOSI · Homeschool SEED Technology · 8–10 · Watt’s the Matter? · 2026-10-06–2026-10-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-06 — 2026-10-06
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20261103-20261103 · MOSI · Homeschool SEED Technology · 8–10 · Design Station · 2026-11-03–2026-11-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-03 — 2026-11-03
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20261201-20261201 · MOSI · Homeschool SEED Technology · 8–10 · Mine-imation · 2026-12-01–2026-12-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-01 — 2026-12-01
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20270105-20270105 · MOSI · Homeschool SEED Technology · 8–10 · Video Game Programming · 2027-01-05–2027-01-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20270202-20270202 · MOSI · Homeschool SEED Technology · 8–10 · Robot Craze · 2027-02-02–2027-02-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-02 — 2027-02-02
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20270302-20270302 · MOSI · Homeschool SEED Technology · 8–10 · Roll with It! · 2027-03-02–2027-03-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-02 — 2027-03-02
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2469-20270406-20270406 · MOSI · Homeschool SEED Technology · 8–10 · Planet Earth · 2027-04-06–2027-04-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-06 — 2027-04-06
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20260903-20260903 · MOSI · Homeschool SEED Technology · 11–13 · Go for Launch! · 2026-09-03–2026-09-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-09-03 — 2026-09-03
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20261008-20261008 · MOSI · Homeschool SEED Technology · 11–13 · Watt’s the Matter? · 2026-10-08–2026-10-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-10-08 — 2026-10-08
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20261105-20261105 · MOSI · Homeschool SEED Technology · 11–13 · Design Station · 2026-11-05–2026-11-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20261203-20261203 · MOSI · Homeschool SEED Technology · 11–13 · Mine-imation · 2026-12-03–2026-12-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-03 — 2026-12-03
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20270107-20270107 · MOSI · Homeschool SEED Technology · 11–13 · Video Game Programming · 2027-01-07–2027-01-07
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20270204-20270204 · MOSI · Homeschool SEED Technology · 11–13 · Robot Craze · 2027-02-04–2027-02-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-04 — 2027-02-04
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20270304-20270304 · MOSI · Homeschool SEED Technology · 11–13 · Roll with It! · 2027-03-04–2027-03-04
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-04 — 2027-03-04
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2470-20270408-20270408 · MOSI · Homeschool SEED Technology · 11–13 · Planet Earth · 2027-04-08–2027-04-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-08 — 2027-04-08
+Edad: 11–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 25 por clase con tarifa general. USD 20 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+Fuente: https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf
+Verificado: 2026-11-10
+
+### CP2471-20261123-20261125 · MOSI · Little Engineers · Little Engineers · 2026-11-23–2026-11-25
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Grupo escolar K–1.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2472-20261123-20261125 · MOSI · Flight Academy · Flight Academy · 2026-11-23–2026-11-25
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Grupo escolar 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2473-20261123-20261125 · MOSI · Minecraft Engineering · Minecraft Engineering · 2026-11-23–2026-11-25
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-23 国 2026-11-25
+Edad: Grupo escolar 5–8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2474-20261221-20261223 · MOSI · Superhero Science · Superhero Science · 2026-12-21–2026-12-23
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-21 - 2026-12-23
+Edad: Grupo escolar K–1.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2475-20261221-20261223 · MOSI · Mission to Space · Mission to Space · 2026-12-21–2026-12-23
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-21 - 2026-12-23
+Edad: Grupo escolar 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2476-20261221-20261223 · MOSI · Game On! STEM and Gaming · Game On! STEM and Gaming · 2026-12-21–2026-12-23
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-21 - 2026-12-23
+Edad: Grupo escolar 5–8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2477-20261228-20261230 · MOSI · Winter Wonderland Science · Winter Wonderland Science · 2026-12-28–2026-12-30
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-28 — 2026-12-30
+Edad: Grupo escolar K–1.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2478-20261228-20261230 · MOSI · Inventors Workshop · Inventors Workshop · 2026-12-28–2026-12-30
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-28 — 2026-12-30
+Edad: Grupo escolar 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2479-20261228-20261230 · MOSI · Digital Creators Lab · Digital Creators Lab · 2026-12-28–2026-12-30
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-28 — 2026-12-30
+Edad: Grupo escolar 5–8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 199 por menor por 3 días. USD 160 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2480-20270322-20270326 · MOSI · Dino Discovery · Dino Discovery · 2027-03-22–2027-03-26
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-22 — 2027-03-26
+Edad: Grupo escolar K–1.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2481-20270322-20270326 · MOSI · Dinosaur Investigation · Dinosaur Investigation · 2027-03-22–2027-03-26
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-22 — 2027-03-26
+Edad: Grupo escolar 2–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2482-20270322-20270326 · MOSI · Minecraft Spring Adventures · Minecraft Spring Adventures · 2027-03-22–2027-03-26
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-22 — 2027-03-26
+Edad: Grupo escolar 5–8.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción. Pago: La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+Fuente: https://mosi.org/program/school-break-camps/
+Verificado: 2026-11-10
+
+### CP2483-20261114-20261114 · MOSI · Minecraft Mania · Minecraft Mania · 2026-11-14–2026-11-14
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20261121-20261121 · MOSI · Minecraft Mania · Minecraft Mania · 2026-11-21–2026-11-21
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20261128-20261128 · MOSI · Minecraft Mania · Minecraft Mania · 2026-11-28–2026-11-28
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20261205-20261205 · MOSI · Minecraft Mania · Minecraft Mania · 2026-12-05–2026-12-05
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-05 — 2026-12-05
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20261212-20261212 · MOSI · Minecraft Mania · Minecraft Mania · 2026-12-12–2026-12-12
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-12-12 — 2026-12-12
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270109-20270109 · MOSI · Minecraft Mania · Minecraft Mania · 2027-01-09–2027-01-09
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-09 — 2027-01-09
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270116-20270116 · MOSI · Minecraft Mania · Minecraft Mania · 2027-01-16–2027-01-16
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-16 — 2027-01-16
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270123-20270123 · MOSI · Minecraft Mania · Minecraft Mania · 2027-01-23–2027-01-23
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-23 — 2027-01-23
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270130-20270130 · MOSI · Minecraft Mania · Minecraft Mania · 2027-01-30–2027-01-30
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-30 国 2027-01-30
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270206-20270206 · MOSI · Minecraft Mania · Minecraft Mania · 2027-02-06–2027-02-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-06 — 2027-02-06
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270213-20270213 · MOSI · Minecraft Mania · Minecraft Mania · 2027-02-13–2027-02-13
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-13 ♫ 2027-02-13
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270220-20270220 · MOSI · Minecraft Mania · Minecraft Mania · 2027-02-20–2027-02-20
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-20 — 2027-02-20
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270227-20270227 · MOSI · Minecraft Mania · Minecraft Mania · 2027-02-27–2027-02-27
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-27 — 2027-02-27
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270306-20270306 · MOSI · Minecraft Mania · Minecraft Mania · 2027-03-06–2027-03-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-06 — 2027-03-06
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270313-20270313 · MOSI · Minecraft Mania · Minecraft Mania · 2027-03-13–2027-03-13
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-13 — 2027-03-13
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270320-20270320 · MOSI · Minecraft Mania · Minecraft Mania · 2027-03-20–2027-03-20
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-20 — 2027-03-20
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270327-20270327 · MOSI · Minecraft Mania · Minecraft Mania · 2027-03-27–2027-03-27
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-27 — 2027-03-27
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270403-20270403 · MOSI · Minecraft Mania · Minecraft Mania · 2027-04-03–2027-04-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-03 — 2027-04-03
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270410-20270410 · MOSI · Minecraft Mania · Minecraft Mania · 2027-04-10–2027-04-10
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270417-20270417 · MOSI · Minecraft Mania · Minecraft Mania · 2027-04-17–2027-04-17
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-17 — 2027-04-17
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270424-20270424 · MOSI · Minecraft Mania · Minecraft Mania · 2027-04-24–2027-04-24
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-24 — 2027-04-24
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270501-20270501 · MOSI · Minecraft Mania · Minecraft Mania · 2027-05-01–2027-05-01
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-05-01 — 2027-05-01
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2483-20270508-20270508 · MOSI · Minecraft Mania · Minecraft Mania · 2027-05-08–2027-05-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-05-08 — 2027-05-08
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día. · suplementos y condiciones en la ficha
+Acceso: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Restricciones: Matvey: Encaja en la edad publicada. Confirme inscripción y plaza. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Consulte por separado la entrada de acompañantes y el acceso a la exposición. Pago: Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+Fuente: https://mosi.org/program/minecraft-mania/
+Verificado: 2026-11-10
+
+### CP2484-20261114-20261114 · MOSI · Make it Move · Make it Move · 2026-11-14–2026-11-14
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Grupo recomendado 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2485-20270117-20270117 · MOSI · Among the Stars · Among the Stars · 2027-01-17–2027-01-17
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-17 国 2027-01-17
+Edad: Grupo recomendado 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2486-20270131-20270131 · MOSI · Space Explorers · Space Explorers · 2027-01-31–2027-01-31
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-01-31 ♫ 2027-01-31
+Edad: Grupo recomendado K–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2487-20270207-20270207 · MOSI · Daring Designers · Daring Designers · 2027-02-07–2027-02-07
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-07 国 2027-02-07
+Edad: Grupo recomendado K–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2488-20270221-20270221 · MOSI · Director's Cut · Director's Cut · 2027-02-21–2027-02-21
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-02-21 国 2027-02-21
+Edad: Grupo recomendado 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2489-20270306-20270306 · MOSI · Special Agents · Special Agents · 2027-03-06–2027-03-06
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-06 — 2027-03-06
+Edad: Grupo recomendado 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2490-20270313-20270313 · MOSI · Super Slueths · Super Slueths · 2027-03-13–2027-03-13
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-03-13 — 2027-03-13
+Edad: Grupo recomendado K–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2491-20270403-20270403 · MOSI · Champions for Nature · Champions for Nature · 2027-04-03–2027-04-03
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-03 — 2027-04-03
+Edad: Grupo recomendado 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2492-20270425-20270425 · MOSI · Rescue Ready · Rescue Ready · 2027-04-25–2027-04-25
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-04-25 — 2027-04-25
+Edad: Grupo recomendado K–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2493-20270508-20270508 · MOSI · Little Champions for Nature · Little Champions for Nature · 2027-05-08–2027-05-08
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-05-08 — 2027-05-08
+Edad: Grupo recomendado K–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo. · suplementos y condiciones en la ficha
+Acceso: Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+Restricciones: Matvey: No cumple la edad o el curso de este grupo. El museo ofrece otros grupos. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme el precio exacto del boleto infantil y las plazas del taller elegido. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2494-20270501-20270502 · MOSI · Dino Detectives · Dino Detectives · 2027-05-01–2027-05-02
+
+Lugar: Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+Fecha: 2027-05-01 — 2027-05-02
+Edad: Cursos recomendados K–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · USD 48 por menor y USD 36 por adulto con tarifa general. Dos menores y 1 adulto — USD 132. Adulto miembro del museo USD 30. · suplementos y condiciones en la ficha
+Acceso: Se requiere al menos 1 acompañante desde 18 años por cada 4 menores. Se recomiendan los cursos K–6. Abierto a menores que no son scouts. Inscripción previa obligatoria.
+Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme la tarifa para menores con membresía y las plazas. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+Fuente: https://mosi.org/program/kids-steam-workshops/
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

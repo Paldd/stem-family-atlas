@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12486,
+    "cards": 12587,
     "competition_cards": 5563,
-    "event_cards": 855,
-    "camp_cards": 6068,
+    "event_cards": 862,
+    "camp_cards": 6162,
     "league_profiles": 359,
-    "major_exhibition_cards": 749,
+    "major_exhibition_cards": 756,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3978,
+      "total": 4072,
       "countries_with_records": 41,
       "competitions": 2248,
       "events": 240,
       "major_exhibitions": 193,
-      "camps": 1490,
+      "camps": 1584,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2801,
+      "total": 2808,
       "countries_with_records": 55,
       "competitions": 796,
-      "events": 206,
-      "major_exhibitions": 182,
+      "events": 213,
+      "major_exhibitions": 189,
       "camps": 1799,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -1400,7 +1400,7 @@
         "C1900"
       ],
       "cards": 821,
-      "future_dated": 690,
+      "future_dated": 688,
       "linked_card_count": 821,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
@@ -2089,7 +2089,7 @@
         "C2929"
       ],
       "cards": 624,
-      "future_dated": 495,
+      "future_dated": 494,
       "linked_card_count": 633,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -2754,7 +2754,7 @@
         "C3284"
       ],
       "cards": 52,
-      "future_dated": 49,
+      "future_dated": 48,
       "linked_card_count": 52,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.bebras.org/countries",
@@ -4538,7 +4538,7 @@
         "C1056"
       ],
       "cards": 5,
-      "future_dated": 5,
+      "future_dated": 4,
       "linked_card_count": 5,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.informatik-biber.ch/was-ist-der-informatik-biber/",
@@ -4748,7 +4748,7 @@
         "C1110"
       ],
       "cards": 5,
-      "future_dated": 4,
+      "future_dated": 5,
       "linked_card_count": 6,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstlegoleague.sg/season/",
@@ -4958,7 +4958,7 @@
         "C4619"
       ],
       "cards": 14,
-      "future_dated": 13,
+      "future_dated": 12,
       "linked_card_count": 14,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://worldrobotleague.net/",
@@ -6258,7 +6258,7 @@
         "C2895"
       ],
       "cards": 356,
-      "future_dated": 282,
+      "future_dated": 281,
       "linked_card_count": 361,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://recf.org/teams/recf-robotics-competition/",
@@ -7241,7 +7241,7 @@
         "C3301"
       ],
       "cards": 6,
-      "future_dated": 5,
+      "future_dated": 0,
       "linked_card_count": 6,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.zedmakeylatechnologies.com/forum2026",
@@ -8648,7 +8648,7 @@
         "C5294"
       ],
       "cards": 147,
-      "future_dated": 115,
+      "future_dated": 114,
       "linked_card_count": 147,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.iacompetitions.com/emssciencebee/",
@@ -10066,7 +10066,7 @@
         "C1855"
       ],
       "cards": 33,
-      "future_dated": 27,
+      "future_dated": 26,
       "linked_card_count": 33,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstaustralia.org/first-lego-league-challenge",
@@ -18467,6 +18467,83 @@
       "new": false
     },
     {
+      "id": "E856",
+      "name": "Techspressionism · Group A",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-01-22",
+      "end": "2027-02-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/",
+      "new": false
+    },
+    {
+      "id": "E857",
+      "name": "Techspressionism · Group B",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-02-26",
+      "end": "2027-03-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/",
+      "new": false
+    },
+    {
+      "id": "E858",
+      "name": "Techspressionism · Exhibition Reel",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-01-22",
+      "end": "2027-03-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/reel/",
+      "new": false
+    },
+    {
+      "id": "E859",
+      "name": "Techspressionism · Vernissage Group A",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-01-22",
+      "end": "2027-01-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/events/",
+      "new": false
+    },
+    {
+      "id": "E860",
+      "name": "Techspressionism · Vernissage Group B",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/events/",
+      "new": false
+    },
+    {
+      "id": "E861",
+      "name": "Techspressionism · International Nocturne Group A",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-02-04",
+      "end": "2027-02-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/events/",
+      "new": false
+    },
+    {
+      "id": "E862",
+      "name": "Techspressionism · International Nocturne Group B",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2027-03-04",
+      "end": "2027-03-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://techspressionism.com/paris/events/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20898,11 +20975,11 @@
       }
     ],
     "counts": {
-      "records": 6068,
-      "holiday": 5397,
+      "records": 6162,
+      "holiday": 5491,
       "regular": 238,
       "self_paced_materials": 4,
-      "boarding": 1046,
+      "boarding": 1047,
       "en_es_instruction": 1722,
       "en_es_support": 67,
       "family_instruction": 1722,
@@ -23106,7 +23183,7 @@
     "source_receipts": "33 HTTP requests,3failed;17primary bodies read plus2LATI summaries; PDF relevant pages visually inspected; shell-only pages not declared read"
   },
   "updated_profile_ids": [],
-  "calendar_counts_asof": "2026-11-09",
+  "calendar_counts_asof": "2026-11-10",
   "territory_access_checks": {
     "NFK": {
       "status": "Проверены отдельные источники. Открытая местная программа не подтверждена.",

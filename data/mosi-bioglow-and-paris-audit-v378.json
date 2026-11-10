@@ -1,0 +1,118 @@
+{
+  "version": 378,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 377,
+    "commit": "76e612385c761de2969e64e4807e4710084af366",
+    "workflow": 42833160745
+  },
+  "mosi": {
+    "dossier_ids": [
+      "CP2467",
+      "CP2468",
+      "CP2469",
+      "CP2470",
+      "CP2471",
+      "CP2472",
+      "CP2473",
+      "CP2474",
+      "CP2475",
+      "CP2476",
+      "CP2477",
+      "CP2478",
+      "CP2479",
+      "CP2480",
+      "CP2481",
+      "CP2482",
+      "CP2483",
+      "CP2484",
+      "CP2485",
+      "CP2486",
+      "CP2487",
+      "CP2488",
+      "CP2489",
+      "CP2490",
+      "CP2491",
+      "CP2492",
+      "CP2493",
+      "CP2494"
+    ],
+    "seed_ids": [
+      "CP2467",
+      "CP2468",
+      "CP2469",
+      "CP2470"
+    ],
+    "seed_sessions": 48,
+    "homeschool_admission_check": true,
+    "parallel_upcoming_science_times": 10,
+    "school_break_ids": [
+      "CP2471",
+      "CP2472",
+      "CP2473",
+      "CP2474",
+      "CP2475",
+      "CP2476",
+      "CP2477",
+      "CP2478",
+      "CP2479",
+      "CP2480",
+      "CP2481",
+      "CP2482"
+    ],
+    "school_break_weeks": 4,
+    "parallel_school_break_windows": 4,
+    "minecraft_id": "CP2483",
+    "minecraft_dates": 23,
+    "steam_workshop_ids": [
+      "CP2484",
+      "CP2485",
+      "CP2486",
+      "CP2487",
+      "CP2488",
+      "CP2489",
+      "CP2490",
+      "CP2491",
+      "CP2492",
+      "CP2493"
+    ],
+    "camp_in_id": "CP2494",
+    "camp_in_general_tariff_two_children_one_adult_usd": 132,
+    "language_evidence_role": "materials"
+  },
+  "singapore": {
+    "updated_ids": [
+      "C1106",
+      "L445"
+    ],
+    "league_id": "fll-singapore-bioglow",
+    "event_date": "2027-03-20",
+    "deadline_utc": "2027-01-31T02:00:00Z",
+    "singapore_world_festival_quota_for_overseas": false
+  },
+  "paris": {
+    "event_ids": [
+      "E856",
+      "E857",
+      "E858",
+      "E859",
+      "E860",
+      "E861",
+      "E862"
+    ],
+    "gallery_installation_parts": 2,
+    "video_programmes": 1,
+    "openings": 2,
+    "nocturnes": 2,
+    "child_visitor_policy_unconfirmed": true
+  },
+  "legacy_overlay_event_ids": [
+    "C1106",
+    "L445"
+  ],
+  "legacy_overlay_league_ids": [
+    "fll-singapore-bioglow"
+  ]
+}

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2466 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2494 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -194585,6 +194585,2266 @@ Perú · Comunidad Arcoíris · Av. Coronel Juan Valer Lt. 3 · Punta Hermosa ·
 - [Se comprobó la ficha oficial del programa.](https://www.comunidadarcoirisph.com/inscripciones-summer-arcoiris-club-2027/) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.comunidadarcoirisph.com/) · 2026-11-10
+
+## CP2467 · MOSI · Homeschool SEED Science · 5–7
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 5 a 7 años.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Fechas publicadas por grupo. Horario local de Tampa.
+
+**Precio / año:** Sin año indicado · USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Incluido:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+**Suplementos:** Consulte por separado la entrada de acompañantes y el acceso a la exposición.
+
+**Pago:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Encaja en la edad publicada. Confirme inscripción y plaza.
+
+**Motivo de selección:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+### Antes de solicitar plaza
+
+- Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+### Fantastic Fliers (Forces and Flight)
+
+**Fechas / estado:** 2026-09-01 — 2026-09-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-01 · 13:00–15:00 · America/New_York · Fantastic Fliers (Forces and Flight)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fantastic Fliers (Forces and Flight)
+
+**Fechas / estado:** 2026-09-03 — 2026-09-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-03 · 13:00–15:00 · America/New_York · Fantastic Fliers (Forces and Flight)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Ooze and Ahhs (Chemistry)
+
+**Fechas / estado:** 2026-10-06 — 2026-10-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-06 · 13:00–15:00 · America/New_York · Ooze and Ahhs (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Ooze and Ahhs (Chemistry)
+
+**Fechas / estado:** 2026-10-08 — 2026-10-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-08 · 13:00–15:00 · America/New_York · Ooze and Ahhs (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fall Science Frenzy (Weather and Seasons)
+
+**Fechas / estado:** 2026-11-03 — 2026-11-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-03 · 13:00–15:00 · America/New_York · Fall Science Frenzy (Weather and Seasons)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fall Science Frenzy (Weather and Seasons)
+
+**Fechas / estado:** 2026-11-05 — 2026-11-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-05 · 13:00–15:00 · America/New_York · Fall Science Frenzy (Weather and Seasons)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Far Out! A Space Adventure (Space)
+
+**Fechas / estado:** 2026-12-01 — 2026-12-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-01 · 13:00–15:00 · America/New_York · Far Out! A Space Adventure (Space)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Far Out! A Space Adventure (Space)
+
+**Fechas / estado:** 2026-12-03 — 2026-12-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-03 · 13:00–15:00 · America/New_York · Far Out! A Space Adventure (Space)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Engineering the Future (Engineering)
+
+**Fechas / estado:** 2027-01-05 — 2027-01-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-05 · 13:00–15:00 · America/New_York · Engineering the Future (Engineering)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Engineering the Future (Engineering)
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-07 · 13:00–15:00 · America/New_York · Engineering the Future (Engineering)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Sweet Science (Chemistry)
+
+**Fechas / estado:** 2027-02-02 — 2027-02-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-02 · 13:00–15:00 · America/New_York · Sweet Science (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Sweet Science (Chemistry)
+
+**Fechas / estado:** 2027-02-04 — 2027-02-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-04 · 13:00–15:00 · America/New_York · Sweet Science (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Marching with the Dinosaurs (Paleontology)
+
+**Fechas / estado:** 2027-03-02 — 2027-03-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-02 · 13:00–15:00 · America/New_York · Marching with the Dinosaurs (Paleontology)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Marching with the Dinosaurs (Paleontology)
+
+**Fechas / estado:** 2027-03-04 — 2027-03-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-04 · 13:00–15:00 · America/New_York · Marching with the Dinosaurs (Paleontology)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Let’s Get Physical (Physics)
+
+**Fechas / estado:** 2027-04-06 — 2027-04-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-06 · 13:00–15:00 · America/New_York · Let’s Get Physical (Physics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Let’s Get Physical (Physics)
+
+**Fechas / estado:** 2027-04-08 — 2027-04-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-08 · 13:00–15:00 · America/New_York · Let’s Get Physical (Physics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/homeschool-seed-technology-detail/) · 2026-11-10
+
+## CP2468 · MOSI · Homeschool SEED Science · 8–10
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**edad:** 8–10 años.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Fechas publicadas por grupo. Horario local de Tampa.
+
+**Precio / año:** Sin año indicado · USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Incluido:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+**Suplementos:** Consulte por separado la entrada de acompañantes y el acceso a la exposición.
+
+**Pago:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+**Matvey:** Encaja en la edad publicada. Confirme inscripción y plaza.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Talleres prácticos de ciencias e ingeniería. Cada grupo de edad tiene temas propios.
+
+### Antes de solicitar plaza
+
+- Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+### Fly Like an Eagle (Flight)
+
+**Fechas / estado:** 2026-09-01 — 2026-09-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-01 · 13:00–15:00 · America/New_York · Fly Like an Eagle (Flight)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fly Like an Eagle (Flight)
+
+**Fechas / estado:** 2026-09-03 — 2026-09-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-03 · 13:00–15:00 · America/New_York · Fly Like an Eagle (Flight)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Journey through the Stars (Space)
+
+**Fechas / estado:** 2026-10-06 — 2026-10-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-06 · 13:00–15:00 · America/New_York · Journey through the Stars (Space)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Journey through the Stars (Space)
+
+**Fechas / estado:** 2026-10-08 — 2026-10-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-08 · 13:00–15:00 · America/New_York · Journey through the Stars (Space)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Chemistry Chaos (Chemistry)
+
+**Fechas / estado:** 2026-11-03 — 2026-11-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-03 · 13:00–15:00 · America/New_York · Chemistry Chaos (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Chemistry Chaos (Chemistry)
+
+**Fechas / estado:** 2026-11-05 — 2026-11-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-05 · 13:00–15:00 · America/New_York · Chemistry Chaos (Chemistry)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### The Blueprint of Life (DNA)
+
+**Fechas / estado:** 2026-12-01 — 2026-12-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-01 · 13:00–15:00 · America/New_York · The Blueprint of Life (DNA)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### The Blueprint of Life (DNA)
+
+**Fechas / estado:** 2026-12-03 — 2026-12-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-03 · 13:00–15:00 · America/New_York · The Blueprint of Life (DNA)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### STEM Olympics (Integrating Science, Technology, Engineering and Mathematics)
+
+**Fechas / estado:** 2027-01-05 — 2027-01-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-05 · 13:00–15:00 · America/New_York · STEM Olympics (Integrating Science, Technology, Engineering and Mathematics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### STEM Olympics (Integrating Science, Technology, Engineering and Mathematics)
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-07 · 13:00–15:00 · America/New_York · STEM Olympics (Integrating Science, Technology, Engineering and Mathematics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### In the Physics Lab (Physics)
+
+**Fechas / estado:** 2027-02-02 — 2027-02-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-02 · 13:00–15:00 · America/New_York · In the Physics Lab (Physics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### In the Physics Lab (Physics)
+
+**Fechas / estado:** 2027-02-04 — 2027-02-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-04 · 13:00–15:00 · America/New_York · In the Physics Lab (Physics)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Storm Chasers (Weather)
+
+**Fechas / estado:** 2027-03-02 — 2027-03-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-02 · 13:00–15:00 · America/New_York · Storm Chasers (Weather)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Storm Chasers (Weather)
+
+**Fechas / estado:** 2027-03-04 — 2027-03-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-04 · 13:00–15:00 · America/New_York · Storm Chasers (Weather)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Just Build It! (Engineering)
+
+**Fechas / estado:** 2027-04-06 — 2027-04-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-06 · 13:00–15:00 · America/New_York · Just Build It! (Engineering)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Just Build It! (Engineering)
+
+**Fechas / estado:** 2027-04-08 — 2027-04-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-08 · 13:00–15:00 · America/New_York · Just Build It! (Engineering)
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/homeschool-seed-technology-detail/) · 2026-11-10
+
+## CP2469 · MOSI · Homeschool SEED Technology · 8–10
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**edad:** 8–10 años.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Fechas publicadas por grupo. Horario local de Tampa.
+
+**Precio / año:** Sin año indicado · USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Incluido:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+**Suplementos:** Consulte por separado la entrada de acompañantes y el acceso a la exposición.
+
+**Pago:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+**Matvey:** Encaja en la edad publicada. Confirme inscripción y plaza.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+### Antes de solicitar plaza
+
+- Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+### Go for Launch!
+
+**Fechas / estado:** 2026-09-01 — 2026-09-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-01 · 10:00–12:00 · America/New_York · Go for Launch!
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Watt’s the Matter?
+
+**Fechas / estado:** 2026-10-06 — 2026-10-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-06 · 10:00–12:00 · America/New_York · Watt’s the Matter?
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Design Station
+
+**Fechas / estado:** 2026-11-03 — 2026-11-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-03 · 10:00–12:00 · America/New_York · Design Station
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Mine-imation
+
+**Fechas / estado:** 2026-12-01 — 2026-12-01
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-01 · 10:00–12:00 · America/New_York · Mine-imation
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Video Game Programming
+
+**Fechas / estado:** 2027-01-05 — 2027-01-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-05 · 10:00–12:00 · America/New_York · Video Game Programming
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Robot Craze
+
+**Fechas / estado:** 2027-02-02 — 2027-02-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-02 · 10:00–12:00 · America/New_York · Robot Craze
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Roll with It!
+
+**Fechas / estado:** 2027-03-02 — 2027-03-02
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-02 · 10:00–12:00 · America/New_York · Roll with It!
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Planet Earth
+
+**Fechas / estado:** 2027-04-06 — 2027-04-06
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-06 · 10:00–12:00 · America/New_York · Planet Earth
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/homeschool-seed-technology-detail/) · 2026-11-10
+
+## CP2470 · MOSI · Homeschool SEED Technology · 11–13
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** 11–13 años.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Fechas publicadas por grupo. Horario local de Tampa.
+
+**Precio / año:** Sin año indicado · USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Incluido:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+**Suplementos:** Consulte por separado la entrada de acompañantes y el acceso a la exposición.
+
+**Pago:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Taller de tecnología con electrónica, modelos 3D, Minecraft, juegos y robots LEGO. El día depende de la edad.
+
+### Antes de solicitar plaza
+
+- Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+### Go for Launch!
+
+**Fechas / estado:** 2026-09-03 — 2026-09-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-09-03 · 10:00–12:00 · America/New_York · Go for Launch!
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Watt’s the Matter?
+
+**Fechas / estado:** 2026-10-08 — 2026-10-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-10-08 · 10:00–12:00 · America/New_York · Watt’s the Matter?
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Design Station
+
+**Fechas / estado:** 2026-11-05 — 2026-11-05
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-11-05 · 10:00–12:00 · America/New_York · Design Station
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Mine-imation
+
+**Fechas / estado:** 2026-12-03 — 2026-12-03
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2026-12-03 · 10:00–12:00 · America/New_York · Mine-imation
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Video Game Programming
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-01-07 · 10:00–12:00 · America/New_York · Video Game Programming
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Robot Craze
+
+**Fechas / estado:** 2027-02-04 — 2027-02-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-02-04 · 10:00–12:00 · America/New_York · Robot Craze
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Roll with It!
+
+**Fechas / estado:** 2027-03-04 — 2027-03-04
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-03-04 · 10:00–12:00 · America/New_York · Roll with It!
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Planet Earth
+
+**Fechas / estado:** 2027-04-08 — 2027-04-08
+
+**Precio:** USD 25 por clase con tarifa general. USD 20 para miembros del museo.
+
+**Condiciones de participación:** Actividades pensadas para educación en casa. Confirme la admisión de familias con otra modalidad escolar. Inscripción y pago al menos 1 semana antes. Los adultos no asisten a la clase.
+
+- 2027-04-08 · 10:00–12:00 · America/New_York · Planet Earth
+
+[fuente](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/wp-content/uploads/2026/06/MOSI-Homeschool-Flyer-2026_27.pdf) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/homeschool-seed-technology-detail/) · 2026-11-10
+
+## CP2471 · MOSI · Little Engineers
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar K–1.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Little Engineers
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-11-23 · 09:00–16:00 · America/New_York · Little Engineers
+
+- 2026-11-24 · 09:00–16:00 · America/New_York · Little Engineers
+
+- 2026-11-25 · 09:00–16:00 · America/New_York · Little Engineers
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2472 · MOSI · Flight Academy
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 2–4.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Flight Academy
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-11-23 · 09:00–16:00 · America/New_York · Flight Academy
+
+- 2026-11-24 · 09:00–16:00 · America/New_York · Flight Academy
+
+- 2026-11-25 · 09:00–16:00 · America/New_York · Flight Academy
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2473 · MOSI · Minecraft Engineering
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 5–8.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Minecraft Engineering
+
+**Fechas / estado:** 2026-11-23 — 2026-11-25
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-11-23 · 09:00–16:00 · America/New_York · Minecraft Engineering
+
+- 2026-11-24 · 09:00–16:00 · America/New_York · Minecraft Engineering
+
+- 2026-11-25 · 09:00–16:00 · America/New_York · Minecraft Engineering
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2474 · MOSI · Superhero Science
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar K–1.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Superhero Science
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-21 · 09:00–16:00 · America/New_York · Superhero Science
+
+- 2026-12-22 · 09:00–16:00 · America/New_York · Superhero Science
+
+- 2026-12-23 · 09:00–16:00 · America/New_York · Superhero Science
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2475 · MOSI · Mission to Space
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 2–4.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Mission to Space
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-21 · 09:00–16:00 · America/New_York · Mission to Space
+
+- 2026-12-22 · 09:00–16:00 · America/New_York · Mission to Space
+
+- 2026-12-23 · 09:00–16:00 · America/New_York · Mission to Space
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2476 · MOSI · Game On! STEM and Gaming
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 5–8.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Game On! STEM and Gaming
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-21 · 09:00–16:00 · America/New_York · Game On! STEM and Gaming
+
+- 2026-12-22 · 09:00–16:00 · America/New_York · Game On! STEM and Gaming
+
+- 2026-12-23 · 09:00–16:00 · America/New_York · Game On! STEM and Gaming
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2477 · MOSI · Winter Wonderland Science
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar K–1.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Winter Wonderland Science
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-28 · 09:00–16:00 · America/New_York · Winter Wonderland Science
+
+- 2026-12-29 · 09:00–16:00 · America/New_York · Winter Wonderland Science
+
+- 2026-12-30 · 09:00–16:00 · America/New_York · Winter Wonderland Science
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2478 · MOSI · Inventors Workshop
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 2–4.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Inventors Workshop
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-28 · 09:00–16:00 · America/New_York · Inventors Workshop
+
+- 2026-12-29 · 09:00–16:00 · America/New_York · Inventors Workshop
+
+- 2026-12-30 · 09:00–16:00 · America/New_York · Inventors Workshop
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2479 · MOSI · Digital Creators Lab
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 5–8.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2026 · USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Digital Creators Lab
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** USD 199 por menor por 3 días. USD 160 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2026-12-28 · 09:00–16:00 · America/New_York · Digital Creators Lab
+
+- 2026-12-29 · 09:00–16:00 · America/New_York · Digital Creators Lab
+
+- 2026-12-30 · 09:00–16:00 · America/New_York · Digital Creators Lab
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2480 · MOSI · Dino Discovery
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar K–1.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Dino Discovery
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**Precio:** USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2027-03-22 · 09:00–16:00 · America/New_York · Dino Discovery
+
+- 2027-03-23 · 09:00–16:00 · America/New_York · Dino Discovery
+
+- 2027-03-24 · 09:00–16:00 · America/New_York · Dino Discovery
+
+- 2027-03-25 · 09:00–16:00 · America/New_York · Dino Discovery
+
+- 2027-03-26 · 09:00–16:00 · America/New_York · Dino Discovery
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2481 · MOSI · Dinosaur Investigation
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 2–4.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Dinosaur Investigation
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**Precio:** USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2027-03-22 · 09:00–16:00 · America/New_York · Dinosaur Investigation
+
+- 2027-03-23 · 09:00–16:00 · America/New_York · Dinosaur Investigation
+
+- 2027-03-24 · 09:00–16:00 · America/New_York · Dinosaur Investigation
+
+- 2027-03-25 · 09:00–16:00 · America/New_York · Dinosaur Investigation
+
+- 2027-03-26 · 09:00–16:00 · America/New_York · Dinosaur Investigation
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2482 · MOSI · Minecraft Spring Adventures
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo escolar 5–8.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Programa diurno de 09:00 a 16:00. El cuidado de 07:00 a 09:00 y de 16:00 a 18:00 se paga por separado.
+
+**Precio / año:** 2027 · USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Incluido:** Programa diurno en el museo.
+
+**Suplementos:** Lleve almuerzo y 2 refrigerios o encargue el almuerzo por separado. El precio del cuidado adicional depende de la opción.
+
+**Pago:** La inscripción depende de las plazas. Si el museo cancela, prevé el reembolso total. Las cancelaciones familiares se rigen por plazos y condiciones.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Campamento de vacaciones con proyectos y actividades prácticas sobre el tema del grupo elegido.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+### Minecraft Spring Adventures
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**Precio:** USD 299 por menor por 5 días. USD 260 para miembros del museo.
+
+**Condiciones de participación:** El grupo se determina por curso escolar. Confirme plazas, equivalencia para otros sistemas escolares e idioma del grupo.
+
+- 2027-03-22 · 09:00–16:00 · America/New_York · Minecraft Spring Adventures
+
+- 2027-03-23 · 09:00–16:00 · America/New_York · Minecraft Spring Adventures
+
+- 2027-03-24 · 09:00–16:00 · America/New_York · Minecraft Spring Adventures
+
+- 2027-03-25 · 09:00–16:00 · America/New_York · Minecraft Spring Adventures
+
+- 2027-03-26 · 09:00–16:00 · America/New_York · Minecraft Spring Adventures
+
+[fuente](https://mosi.org/program/school-break-camps/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/school-break-camps/) · 2026-11-10
+
+## CP2483 · MOSI · Minecraft Mania
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**edad:** 7–12 años.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Retos individuales y de equipo en Minecraft con elementos básicos de programación.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** Sábados publicados, de 13:00 a 15:00 en Tampa.
+
+**Precio / año:** Sin año indicado · USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Incluido:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Suplementos:** Consulte por separado la entrada de acompañantes y el acceso a la exposición.
+
+**Pago:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+**Matvey:** Encaja en la edad publicada. Confirme inscripción y plaza.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Retos individuales y de equipo en Minecraft con elementos básicos de programación.
+
+### Antes de solicitar plaza
+
+- Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+### Minecraft Mania
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2026-11-14 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2026-11-21 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2026-11-28 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2026-12-05 — 2026-12-05
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2026-12-05 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2026-12-12 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-01-09 — 2027-01-09
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-01-09 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-01-16 — 2027-01-16
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-01-16 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-01-23 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-01-30 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-02-06 — 2027-02-06
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-02-06 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-02-13 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-02-20 — 2027-02-20
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-02-20 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-02-27 — 2027-02-27
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-02-27 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-03-06 — 2027-03-06
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-03-06 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-03-13 — 2027-03-13
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-03-13 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-03-20 — 2027-03-20
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-03-20 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-03-27 — 2027-03-27
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-03-27 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-04-03 — 2027-04-03
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-04-03 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-04-10 — 2027-04-10
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-04-10 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-04-17 — 2027-04-17
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-04-17 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-04-24 — 2027-04-24
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-04-24 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-05-01 — 2027-05-01
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-05-01 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Minecraft Mania
+
+**Fechas / estado:** 2027-05-08 — 2027-05-08
+
+**Precio:** USD 20 por sesión. USD 15 para miembros del museo. Incluye la entrada del menor al museo el mismo día.
+
+**Condiciones de participación:** Inscríbase con antelación. Los adultos no asisten a la sesión en el aula informática.
+
+- 2027-05-08 · 13:00–15:00 · America/New_York · Minecraft Mania
+
+[fuente](https://mosi.org/program/minecraft-mania/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/minecraft-mania/) · 2026-11-10
+
+## CP2484 · MOSI · Make it Move
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado 3–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Construcción y prueba de botes de paletas y autos impulsados por globos.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2026 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Construcción y prueba de botes de paletas y autos impulsados por globos.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Construcción y prueba de botes de paletas y autos impulsados por globos.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Make it Move
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2026-11-14 · 10:00–13:00 · America/New_York · Make it Move
+
+**Disponibilidad:** Venció el plazo de inscripción publicado. Consulte si hay lista de espera.
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2485 · MOSI · Among the Stars
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado 3–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Sistema solar, espacio y sesión en el planetario.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:45 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Sistema solar, espacio y sesión en el planetario.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Sistema solar, espacio y sesión en el planetario.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Among the Stars
+
+**Fechas / estado:** 2027-01-17 — 2027-01-17
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-01-17 · 10:00–13:45 · America/New_York · Among the Stars
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2486 · MOSI · Space Explorers
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado K–2.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Sol, Luna, cielo nocturno y sesión en el planetario.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:45 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Sol, Luna, cielo nocturno y sesión en el planetario.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Sol, Luna, cielo nocturno y sesión en el planetario.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Space Explorers
+
+**Fechas / estado:** 2027-01-31 — 2027-01-31
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-01-31 · 10:00–13:45 · America/New_York · Space Explorers
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2487 · MOSI · Daring Designers
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado K–2.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Creación y prueba de una estructura mecánica basada en la física.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Creación y prueba de una estructura mecánica basada en la física.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Creación y prueba de una estructura mecánica basada en la física.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Daring Designers
+
+**Fechas / estado:** 2027-02-07 — 2027-02-07
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-02-07 · 10:00–13:00 · America/New_York · Daring Designers
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2488 · MOSI · Director's Cut
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado 3–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Guion, rodaje y edición de un cortometraje en el museo.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Guion, rodaje y edición de un cortometraje en el museo.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Guion, rodaje y edición de un cortometraje en el museo.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Director's Cut
+
+**Fechas / estado:** 2027-02-21 — 2027-02-21
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-02-21 · 10:00–13:00 · America/New_York · Director's Cut
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2489 · MOSI · Special Agents
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado 3–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Ciencia forense, huellas dactilares y trabajo con ADN.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Ciencia forense, huellas dactilares y trabajo con ADN.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Ciencia forense, huellas dactilares y trabajo con ADN.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Special Agents
+
+**Fechas / estado:** 2027-03-06 — 2027-03-06
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-03-06 · 10:00–13:00 · America/New_York · Special Agents
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2490 · MOSI · Super Slueths
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado K–2.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Observación, búsqueda de pistas y recogida de pruebas.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Observación, búsqueda de pistas y recogida de pruebas.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Observación, búsqueda de pistas y recogida de pruebas.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Super Slueths
+
+**Fechas / estado:** 2027-03-13 — 2027-03-13
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-03-13 · 10:00–13:00 · America/New_York · Super Slueths
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2491 · MOSI · Champions for Nature
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado 3–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Actividades prácticas sobre ecosistemas y sostenibilidad.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Actividades prácticas sobre ecosistemas y sostenibilidad.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Motivo de selección:** Actividades prácticas sobre ecosistemas y sostenibilidad.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Champions for Nature
+
+**Fechas / estado:** 2027-04-03 — 2027-04-03
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-04-03 · 10:00–13:00 · America/New_York · Champions for Nature
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2492 · MOSI · Rescue Ready
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado K–2.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Práctica de seguridad y respuesta ante emergencias sencillas.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Práctica de seguridad y respuesta ante emergencias sencillas.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Práctica de seguridad y respuesta ante emergencias sencillas.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Rescue Ready
+
+**Fechas / estado:** 2027-04-25 — 2027-04-25
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-04-25 · 10:00–13:00 · America/New_York · Rescue Ready
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2493 · MOSI · Little Champions for Nature
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Grupo recomendado K–2.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Reutilización de materiales, reciclaje y reducción de residuos.
+
+**Alojamiento:** Programa diurno en el museo.
+
+**Fechas / estado:** De 10:00 a 13:00 en Tampa.
+
+**Precio / año:** 2027 · Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Incluido:** Reutilización de materiales, reciclaje y reducción de residuos.
+
+**Suplementos:** Confirme el precio exacto del boleto infantil y las plazas del taller elegido.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** No cumple la edad o el curso de este grupo. El museo ofrece otros grupos.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Reutilización de materiales, reciclaje y reducción de residuos.
+
+### Antes de solicitar plaza
+
+- Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+### Little Champions for Nature
+
+**Fechas / estado:** 2027-05-08 — 2027-05-08
+
+**Precio:** Desde USD 21 por menor, con entrada al museo incluida. Acompañante USD 7 con tarifa general o USD 5 para miembros del museo.
+
+**Condiciones de participación:** Abierto a scouts y a los demás menores. El curso es recomendado. Para menores de 13 años se requiere al menos 1 adulto por cada 10 niños. Inscripción previa obligatoria.
+
+- 2027-05-08 · 10:00–13:00 · America/New_York · Little Champions for Nature
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2494 · MOSI · Dino Detectives
+
+Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
+
+**Verificado:** 2026-11-10
+
+**Edad:** Cursos recomendados K–6.
+
+**Idioma:** Materiales oficiales en inglés. Confirme el idioma del instructor y el apoyo en español.
+
+**Programa:** Noche familiar en el museo con paleontología y estudio de muestras de roca. Incluye refrigerio y desayuno ligero.
+
+**Alojamiento:** Noche en el museo con un adulto acompañante.
+
+**Fechas / estado:** Del 1 de mayo a las 19:00 al 2 de mayo a las 09:00 en Tampa.
+
+**Precio / año:** 2027 · USD 48 por menor y USD 36 por adulto con tarifa general. Dos menores y 1 adulto — USD 132. Adulto miembro del museo USD 30.
+
+**Incluido:** Noche familiar en el museo con paleontología y estudio de muestras de roca. Incluye refrigerio y desayuno ligero.
+
+**Suplementos:** Confirme la tarifa para menores con membresía y las plazas.
+
+**Pago:** Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
+
+**Matvey:** Compare el curso escolar actual con la categoría local.
+
+**Oscar:** Compare el curso escolar actual con la categoría local.
+
+**Motivo de selección:** Noche familiar en el museo con paleontología y estudio de muestras de roca. Incluye refrigerio y desayuno ligero.
+
+### Antes de solicitar plaza
+
+- Se requiere al menos 1 acompañante desde 18 años por cada 4 menores. Se recomiendan los cursos K–6. Abierto a menores que no son scouts. Inscripción previa obligatoria.
+
+### Dino Detectives
+
+**Fechas / estado:** 2027-05-01 — 2027-05-02
+
+**Precio:** USD 48 por menor y USD 36 por adulto con tarifa general. Dos menores y 1 adulto — USD 132. Adulto miembro del museo USD 30.
+
+**Condiciones de participación:** Se requiere al menos 1 acompañante desde 18 años por cada 4 menores. Se recomiendan los cursos K–6. Abierto a menores que no son scouts. Inscripción previa obligatoria.
+
+[fuente](https://mosi.org/program/kids-steam-workshops/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 
