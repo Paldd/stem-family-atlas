@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2383,
+    "dossiers": 2384,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 333,
+      "published_2026_27": 334,
       "published_2027": 662,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3292
+    "source_urls": 3293
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "España",
-      "count": 151
+      "count": 152
     },
     {
       "country": "Italia",
@@ -418410,6 +418410,188 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2384",
+      "slug": "zoo-madrid-navidad-2026-27",
+      "provider": "Zoo Aquarium Madrid · Campamento de Navidad 2026/27",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Madrid · Zoo Aquarium · Casa de Campo",
+      "age": "De 4 a 14 años, en grupos por edad.",
+      "programme": "Siete días a elegir de 09:00 a 16:00. Los temas incluyen cuidados de animales, comunicación, conservación y adaptaciones a entornos extremos.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "general"
+      ],
+      "language": "La página está en español. No se indica explícitamente el idioma del grupo.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "23, 28, 29 y 30 de diciembre de 2026, y 4, 7 y 8 de enero de 2027, de 09:00 a 16:00 en Madrid.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2027-01-08",
+            "label": "Días a elegir · 09:00–16:00",
+            "variant_key": "single-day",
+            "age": "De 4 a 14 años, en grupos por edad.",
+            "price": "Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable.",
+            "place": "Madrid · Zoo Aquarium · Casa de Campo",
+            "source": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador."
+              }
+            },
+            "entry": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.",
+            "delivery_mode": "in_person",
+            "extras": "La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio.",
+            "deposit": "Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes.",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T15:00:00Z",
+                "topic": "Mis primeras Navidades"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T15:00:00Z",
+                "topic": "¡Inocente, inocente!"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T15:00:00Z",
+                "topic": "Los sonidos de la Navidad"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T15:00:00Z",
+                "topic": "12 campanadas, 12 razones"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T15:00:00Z",
+                "topic": "Regalos salvajes"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T15:00:00Z",
+                "topic": "Próxima parada: Conservación"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T15:00:00Z",
+                "topic": "Biodiversidad extrema: supervivientes del planeta"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 50,
+        "unit": "day",
+        "label": "Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable.",
+        "included": "Entrada al parque, tentempié, materiales y comida. Posibilidad de menú adaptado.",
+        "extras": "La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio.",
+        "deposit": "Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador."
+        }
+      },
+      "editorial_reason": "Siete días a elegir de 09:00 a 16:00. Los temas incluyen cuidados de animales, comunicación, conservación y adaptaciones a entornos extremos.",
+      "shortlist": [],
+      "questions": [
+        "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-23",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2384-20261223-20270108-single-day"
+          ]
+        }
+      ],
+      "language_roles": {}
     }
   ],
   "gaps": [
@@ -436970,7 +437152,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2383,
+      "total_dossiers": 2384,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -462790,6 +462972,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2384",
+      "event_id": "CP2384-20261223-20270108-single-day",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -468047,10 +468234,11 @@
     "CP2379-20270104-20270108-week-3",
     "CP2382-20270111-20270115-full",
     "CP2382-20270111-20270115-morning",
-    "CP2382-20270111-20270115-afternoon"
+    "CP2382-20270111-20270115-afternoon",
+    "CP2384-20261223-20270108-single-day"
   ],
   "integration": {
-    "generated_sessions": 4847,
+    "generated_sessions": 4848,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

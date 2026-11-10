@@ -1424,46 +1424,46 @@ Se ha comprobado: 2026-11-05
 
 ### C1171 · RoboJam MX Norestense · ASFM · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.
-Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Matvey: Condicional. En abril de 2027 Matvey tendrá 9–10 años. Revise primero Path Attack Junior y después Bristle Race según la fecha de corte.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Condiciones: El programa de la etapa anuncia la reunión virtual de entrenadores el 11 de abril de 08:00 a 09:00 y su recepción el 16 de abril de 19:00 a 21:00 en Mercado Cordillera. Para el 17 de abril ASFM prevé apertura a las 07:00, acreditación de equipos de 07:30 a 09:30, eliminatorias de 10:00 a 12:00 y finales de 13:30 a 16:00. Son horas del programa del 17 de abril y deben confirmarse junto con la fecha.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1172 · RoboJam MX Norestense · Bristle Race · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.
-Matvey: Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.
+Matvey: Condicional. El PDF admite hasta los 9 años inclusive. En abril de 2027 Matvey tendrá 9–10 años y necesita confirmar su fecha de nacimiento y el criterio de corte. El resumen en español formula el límite de forma más estricta que el inglés.
 Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.
-Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
-Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Matvey: Condicional. Ambos tendrán menos de 12 años en abril de 2027. Confirme la edad mínima, el trabajo autónomo y el acceso local.
+Oscar: Condicional. Ambos tendrán menos de 12 años en abril de 2027. Confirme la edad mínima, el trabajo autónomo y el acceso local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1174 · RoboJam MX Norestense · CrossBot · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1472,11 +1472,11 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1175 · RoboJam MX Norestense · Skill Drive · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1485,11 +1485,11 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1176 · RoboJam MX Norestense · Stack.IN · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1498,11 +1498,11 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1511,11 +1511,11 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1524,11 +1524,11 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1179 · RoboJam MX Norestense · Disk Derby · 2027
 
-Fecha: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
+Fecha: La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1537,7 +1537,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### C1197 · ITR Mexico 2028 · Cancún · fechas discrepantes
 
@@ -6113,6 +6113,136 @@ Acceso: Acceso al piso de exhibición a partir de 18 años. La regla incluye beb
 Costo: Registro de 200 MXN según las preguntas frecuentes. Se necesita el código QR de confirmación para recoger la acreditación.
 Condiciones: Feria de equipos de envasado y procesamiento. Las preguntas frecuentes indican como horario habitual de estudiantes 13:00–15:00 el último día, con registro. Confirme el horario de 2027.
 Fuente: https://www.expopackguadalajara.com.mx/the-show/faqs
+Se ha comprobado: 2026-11-09
+
+### E796 · 8 Jornada Estatal de Ciencia y Tecnología 2026 · Zacatecas
+
+Fecha: 2026-11-09 — 2026-11-27
+Edad: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: Del 9 al 27 de noviembre en varios municipios del estado. El programa incluye demostraciones científicas, tecnología, talleres, un torneo y actividades escolares. Los plazos de la convocatoria general corresponden a ponentes y sedes. El acceso de visitantes se comprueba por actividad.
+Fuente: https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026
+Se ha comprobado: 2026-11-09
+
+### L972 · JECyT · Innovaciones de niñas y niños para mejorar su comunidad
+
+Fecha: 2026-11-24 — 2026-11-25
+Edad: Para alumnado de primaria. Confirme el curso exacto y si admite alumnado de otros centros.
+Matvey: Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.
+Oscar: Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/405
+Se ha comprobado: 2026-11-09
+
+### L973 · JECyT · Creación de Videojuegos
+
+Fecha: 2026-11-11 — 2026-11-11
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/777
+Se ha comprobado: 2026-11-09
+
+### L974 · JECyT · Robótica, Programación Básica
+
+Fecha: 2026-11-13 — 2026-11-13
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/787
+Se ha comprobado: 2026-11-09
+
+### L975 · JECyT · Taller de inteligencia artificial para jóvenes
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/37
+Se ha comprobado: 2026-11-09
+
+### L976 · JECyT · Robots que Ven · Python, OpenCV y ESP32
+
+Fecha: 2026-11-26 — 2026-11-26
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/161
+Se ha comprobado: 2026-11-09
+
+### L977 · JECyT · Robótica Inteligente con NVIDIA Jetson Nano
+
+Fecha: 2026-11-27 2026-11-27
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/789
+Se ha comprobado: 2026-11-09
+
+### C5458 · JECyT · Concurso de Robots Seguidores de Línea
+
+Fecha: 2026-11-12 — 2026-11-12
+Edad: Para estudiantes de ingeniería de la UAZ en Jalpa según la descripción del torneo.
+Matvey: No. Compite alumnado de programas de ingeniería.
+Oscar: No. Compite alumnado de programas de ingeniería.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Para estudiantes de ingeniería de la UAZ en Jalpa según la descripción del torneo.
+Costo: No se indica el precio de las actividades concretas.
+Condiciones: 12 de noviembre de 10:00 a 12:00. No se ha confirmado el acceso de familias como público.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/332
+Se ha comprobado: 2026-11-09
+
+### E797 · Datostada MX 2026 · IA y datos
+
+Fecha: 2026-11-13 — 2026-11-14
+Edad: Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.
+Costo: Gratis con inscripción.
+Condiciones: 13–14 de noviembre en la Universidad Politécnica de Yucatán. Charlas y talleres sobre agentes de IA, SQL, Python, datos y búsqueda de imágenes. El 14 de noviembre desde las 13:00 se presentan comunidades y empresas emergentes.
+Fuente: https://datostada.mx/
+Se ha comprobado: 2026-11-09
+
+### C5459 · Learning Sectors · Formula 1 y British Council · Hidalgo 2026/27
+
+Fecha: El equipo investiga un problema de su comunidad. El proyecto está previsto de enero a mayo de 2027, la evaluación en junio y la invitación de los tres mejores equipos al Gran Premio en octubre. Aún no hay días exactos.
+Edad: 15–16 años al 31 de diciembre de 2026 según los requisitos de la convocatoria mexicana. La descripción general también menciona 17 años. Para solicitar plaza use el corte numérico de los requisitos.
+Matvey: No. Este ciclo de Hidalgo se dirige a estudiantes de educación media superior.
+Oscar: No. Este ciclo de Hidalgo se dirige a estudiantes de educación media superior.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Centros de Hidalgo de COBAEH, CECYTEH, CONALEP o BEH. Tercer semestre, equipo de 2 alumnas, 2 alumnos y 1 docente. El plazo de este ciclo terminó el 30 de septiembre de 2026.
+Costo: Gratis para centros y equipos participantes.
+Condiciones: El equipo investiga un problema de su comunidad. El proyecto está previsto de enero a mayo de 2027, la evaluación en junio y la invitación de los tres mejores equipos al Gran Premio en octubre. Aún no hay días exactos.
+Fuente: https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026
 Se ha comprobado: 2026-11-09
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

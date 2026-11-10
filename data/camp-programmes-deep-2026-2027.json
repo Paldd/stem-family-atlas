@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2383,
+    "dossiers": 2384,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 333,
+      "published_2026_27": 334,
       "published_2027": 662,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3292
+    "source_urls": 3293
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "Испания",
-      "count": 151
+      "count": 152
     },
     {
       "country": "Италия",
@@ -363156,6 +363156,176 @@
         }
       ],
       "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2384",
+      "slug": "zoo-madrid-navidad-2026-27",
+      "provider": "Zoo Aquarium Madrid · Campamento de Navidad 2026/27",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Madrid · Zoo Aquarium · Casa de Campo",
+      "age": "4–14 лет, группы разделены по возрасту.",
+      "programme": "Семь дней на выбор с 09:00 до 16:00. Темы включают уход за животными, способы их общения, охрану видов и адаптации к экстремальным средам.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "general"
+      ],
+      "language": "Страница на испанском. Язык занятий группы прямо не указан.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "23, 28, 29 и 30 декабря 2026, 4, 7 и 8 января 2027, с 09:00 до 16:00 по Мадриду.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2027-01-08",
+            "label": "Отдельные дни · 09:00–16:00",
+            "variant_key": "single-day",
+            "age": "4–14 лет, группы разделены по возрасту.",
+            "price": "Тариф на ребёнка за 1–7 дней: 50, 95, 136, 179, 210, 240 и 275 EUR соответственно. Владельцам абонемента скидка 10%, без суммирования.",
+            "place": "Madrid · Zoo Aquarium · Casa de Campo",
+            "source": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора."
+              }
+            },
+            "entry": "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора.",
+            "delivery_mode": "in_person",
+            "extras": "Продление 08:00–09:00 и 16:00–17:00 оплачивается отдельно. Цену уточнить.",
+            "deposit": "Возврат при отмене за неделю или при обоснованной причине. Для проведения требуется минимальная группа.",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T15:00:00Z",
+                "topic": "Mis primeras Navidades"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T15:00:00Z",
+                "topic": "¡Inocente, inocente!"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T15:00:00Z",
+                "topic": "Los sonidos de la Navidad"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T15:00:00Z",
+                "topic": "12 campanadas, 12 razones"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T15:00:00Z",
+                "topic": "Regalos salvajes"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T15:00:00Z",
+                "topic": "Próxima parada: Conservación"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T15:00:00Z",
+                "topic": "Biodiversidad extrema: supervivientes del planeta"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 50,
+        "unit": "day",
+        "label": "Тариф на ребёнка за 1–7 дней: 50, 95, 136, 179, 210, 240 и 275 EUR соответственно. Владельцам абонемента скидка 10%, без суммирования.",
+        "included": "Вход в парк, перекус, материалы и обед. Возможно адаптированное меню.",
+        "extras": "Продление 08:00–09:00 и 16:00–17:00 оплачивается отдельно. Цену уточнить.",
+        "deposit": "Возврат при отмене за неделю или при обоснованной причине. Для проведения требуется минимальная группа."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора."
+        }
+      },
+      "editorial_reason": "Семь дней на выбор с 09:00 до 16:00. Темы включают уход за животными, способы их общения, охрану видов и адаптации к экстремальным средам.",
+      "shortlist": [],
+      "questions": [
+        "По возрасту подходит. Язык группы и место на выбранный день подтвердить у организатора."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
     }
   ],
   "gaps": [
@@ -381716,7 +381886,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2383,
+      "total_dossiers": 2384,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

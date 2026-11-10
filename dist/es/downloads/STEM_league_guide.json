@@ -6045,7 +6045,9 @@
         ],
         "nuances": [
           "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
-          "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo."
+          "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+          "El programa de la etapa anuncia la reunión virtual de entrenadores el 11 de abril de 08:00 a 09:00 y su recepción el 16 de abril de 19:00 a 21:00 en Mercado Cordillera. Para el 17 de abril ASFM prevé apertura a las 07:00, acreditación de equipos de 07:30 a 09:30, eliminatorias de 10:00 a 12:00 y finales de 13:30 a 16:00. Son horas del programa del 17 de abril y deben confirmarse junto con la fecha.",
+          "Condicional. El PDF admite hasta los 9 años inclusive. En abril de 2027 Matvey tendrá 9–10 años y necesita confirmar su fecha de nacimiento y el criterio de corte. El resumen en español formula el límite de forma más estricta que el inglés."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
@@ -28786,6 +28788,87 @@
         "evidence": "Página oficial del organizador o condiciones de entrada."
       },
       {
+        "id": "learning-sectors-f1",
+        "name": "Learning Sectors · Formula 1 / British Council",
+        "group": "international",
+        "age_summary": "Programa escolar internacional de F1 y British Council. Edad general 7–16 años. Cada convocatoria local determina edad, composición del equipo y acceso.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "13-17"
+        ],
+        "summary": "Programa escolar internacional de F1 y British Council. Edad general 7–16 años. Cada convocatoria local determina edad, composición del equipo y acceso.",
+        "categories": [
+          {
+            "name": "Learning Sectors · Formula 1 y British Council · Hidalgo 2026/27",
+            "age": "15–16 años al 31 de diciembre de 2026 según los requisitos de la convocatoria mexicana. La descripción general también menciona 17 años. Para solicitar plaza use el corte numérico de los requisitos.",
+            "team": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+            "hardware": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+            "entry": "Centros de Hidalgo de COBAEH, CECYTEH, CONALEP o BEH. Tercer semestre, equipo de 2 alumnas, 2 alumnos y 1 docente. El plazo de este ciclo terminó el 30 de septiembre de 2026.",
+            "event_id": "C5459",
+            "source": "https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026",
+            "language": "Confirme el idioma del taller concreto o del arbitraje.",
+            "note": "El equipo investiga un problema de su comunidad. El proyecto está previsto de enero a mayo de 2027, la evaluación en junio y la invitación de los tres mejores equipos al Gran Premio en octubre. Aún no hay días exactos.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "Learning Sectors · Formula 1 and British Council · UK school partnerships",
+            "age": "7–16 años. La solicitud corresponde a centros de primaria y secundaria financiados por el Estado en el Reino Unido.",
+            "team": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+            "hardware": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+            "entry": "El centro solicita la participación y trabaja con una escuela asociada de India o España. Esta modalidad no tiene inscripción familiar.",
+            "event_id": "L978",
+            "source": "https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work",
+            "language": "Confirme el idioma del taller concreto o del arbitraje.",
+            "note": "El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "event_ids": [
+          "C5459",
+          "L978"
+        ],
+        "legacy_ids": [],
+        "route": "Programa escolar internacional de F1 y British Council. Edad general 7–16 años. Cada convocatoria local determina edad, composición del equipo y acceso.",
+        "hardware": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+        "language": "Confirme el idioma del taller concreto o del arbitraje.",
+        "importance": "Programa escolar internacional de F1 y British Council. Edad general 7–16 años. Cada convocatoria local determina edad, composición del equipo y acceso.",
+        "strengths": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+        "requirements": [
+          "Centros de Hidalgo de COBAEH, CECYTEH, CONALEP o BEH. Tercer semestre, equipo de 2 alumnas, 2 alumnos y 1 docente. El plazo de este ciclo terminó el 30 de septiembre de 2026.",
+          "El centro solicita la participación y trabaja con una escuela asociada de India o España. Esta modalidad no tiene inscripción familiar."
+        ],
+        "nuances": [
+          "15–16 años al 31 de diciembre de 2026 según los requisitos de la convocatoria mexicana. La descripción general también menciona 17 años. Para solicitar plaza use el corte numérico de los requisitos.",
+          "7–16 años. La solicitud corresponde a centros de primaria y secundaria financiados por el Estado en el Reino Unido."
+        ],
+        "cost": "Gratis para centros y equipos participantes.",
+        "award": "En Hidalgo los participantes reciben certificados y los tres mejores equipos reciben invitación al Gran Premio según la convocatoria.",
+        "sources": [
+          {
+            "url": "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://www.britishcouncil.org/school-resources/learningsectors/how-apply",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Página oficial del organizador o condiciones de entrada."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -34131,7 +34214,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 343 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Hay 344 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

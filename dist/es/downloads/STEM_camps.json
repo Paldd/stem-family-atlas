@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5818,
-      "holiday": 5183,
+      "records": 5826,
+      "holiday": 5184,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -52630,6 +52630,515 @@
       "date_scope": "programme_watch",
       "camp_dossier_slug": "avenues-sao-paulo-nature-camp-watch",
       "camp_programme_id": "CP2383",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L972",
+      "title": "JECyT · Innovaciones de niñas y niños para mejorar su comunidad",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Tlaltenango · ITS Zacatecas Sur · Audiovisual",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/405",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/406",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-24",
+      "end": "2026-11-25",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Para alumnado de primaria. Confirme el curso exacto y si admite alumnado de otros centros.",
+      "mat": "Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.",
+      "osc": "Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T15:00:00Z",
+          "end_utc": "2026-11-24T16:30:00Z",
+          "topic": "Innovaciones de niñas y niños para mejorar su comunidad"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T15:00:00Z",
+          "end_utc": "2026-11-25T16:30:00Z",
+          "topic": "Innovaciones de niñas y niños para mejorar su comunidad"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L973",
+      "title": "JECyT · Creación de Videojuegos",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "UTZAC · Laboratorio de cómputo",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/777",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-11T19:00:00Z",
+          "end_utc": "2026-11-11T20:30:00Z",
+          "topic": "Creación de Videojuegos"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L974",
+      "title": "JECyT · Robótica, Programación Básica",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "UTZAC · Edificio F · Laboratorio de cómputo",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/787",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T18:00:00Z",
+          "end_utc": "2026-11-13T19:30:00Z",
+          "topic": "Robótica, Programación Básica"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L975",
+      "title": "JECyT · Taller de inteligencia artificial para jóvenes",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Zacatecas · CECODIC",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/37",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-10T14:00:00Z",
+          "end_utc": "2026-11-10T19:00:00Z",
+          "topic": "Taller de inteligencia artificial para jóvenes"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L976",
+      "title": "JECyT · Robots que Ven · Python, OpenCV y ESP32",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Fresnillo · UPZ · Edificio A · Sala Azul",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/161",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "hybrid",
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "start_time": "09:00",
+          "end_time": "13:45",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-26T15:00:00Z",
+          "end_utc": "2026-11-26T19:45:00Z",
+          "topic": "Robots que Ven · Python, OpenCV y ESP32"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L977",
+      "title": "JECyT · Robótica Inteligente con NVIDIA Jetson Nano",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Zacatecas · COZCyT · Av. de la Juventud 504",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/789",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T16:00:00Z",
+          "end_utc": "2026-11-27T17:00:00Z",
+          "topic": "Robótica Inteligente con NVIDIA Jetson Nano"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L978",
+      "title": "Learning Sectors · Formula 1 and British Council · UK school partnerships",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR"
+      ],
+      "city": "UK · partner schools",
+      "source": "https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work",
+      "references": [
+        {
+          "url": "https://www.britishcouncil.org/school-resources/learningsectors/how-apply",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "7–16 años. La solicitud corresponde a centros de primaria y secundaria financiados por el Estado en el Reino Unido.",
+      "mat": "Condicional. La edad encaja si participa un centro elegible.",
+      "osc": "No. Edad mínima de 7 años en la vía escolar británica.",
+      "format": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+      "entry": "El centro solicita la participación y trabaja con una escuela asociada de India o España. Esta modalidad no tiene inscripción familiar.",
+      "gear": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratis para centros y equipos participantes.",
+      "level": "Programa educativo internacional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "school_programme",
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "C5459"
+      ],
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
@@ -489344,6 +489853,135 @@
           "topic": "Tarde"
         }
       ]
+    },
+    {
+      "id": "CP2384-20261223-20270108-single-day",
+      "block": "Campamentos",
+      "title": "Zoo Aquarium Madrid · Campamento de Navidad 2026/27 · Días a elegir · 09:00–16:00 · 2026-12-23–2027-01-08",
+      "country": "España",
+      "region": "Europa",
+      "city": "Madrid · Zoo Aquarium · Casa de Campo",
+      "start": "2026-12-23",
+      "end": "2027-01-08",
+      "period": "23, 28, 29 y 30 de diciembre de 2026, y 4, 7 y 8 de enero de 2027, de 09:00 a 16:00 en Madrid.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 4 a 14 años, en grupos por edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.",
+      "gear": "Siete días a elegir de 09:00 a 16:00. Los temas incluyen cuidados de animales, comunicación, conservación y adaptaciones a entornos extremos.",
+      "language": "La página está en español. No se indica explícitamente el idioma del grupo.",
+      "cost": "2026/27 · Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.",
+      "source": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+      "references": [
+        {
+          "url": "https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador. Oscar: La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador. Cargos extra: La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio. Pago: Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La página está en español. No se indica explícitamente el idioma del grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "zoo-madrid-navidad-2026-27",
+      "camp_programme_id": "CP2384",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T15:00:00Z",
+          "topic": "Mis primeras Navidades"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T15:00:00Z",
+          "topic": "¡Inocente, inocente!"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T15:00:00Z",
+          "topic": "Los sonidos de la Navidad"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T15:00:00Z",
+          "topic": "12 campanadas, 12 razones"
+        },
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T15:00:00Z",
+          "topic": "Regalos salvajes"
+        },
+        {
+          "date": "2027-01-07",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T08:00:00Z",
+          "end_utc": "2027-01-07T15:00:00Z",
+          "topic": "Próxima parada: Conservación"
+        },
+        {
+          "date": "2027-01-08",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T08:00:00Z",
+          "end_utc": "2027-01-08T15:00:00Z",
+          "topic": "Biodiversidad extrema: supervivientes del planeta"
+        }
+      ],
+      "delivery_mode": "in_person"
     },
     {
       "id": "L491",

@@ -6523,7 +6523,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6541,9 +6541,9 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
-      "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "note": "El programa de la etapa anuncia la reunión virtual de entrenadores el 11 de abril de 08:00 a 09:00 y su recepción el 16 de abril de 19:00 a 21:00 en Mercado Cordillera. Para el 17 de abril ASFM prevé apertura a las 07:00, acreditación de equipos de 07:30 a 09:30, eliminatorias de 10:00 a 12:00 y finales de 13:30 a 16:00. Son horas del programa del 17 de abril y deben confirmarse junto con la fecha.",
       "themes": [
         "robotics",
         "coding"
@@ -6553,25 +6553,25 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1171",
       "title": "RoboJam MX Norestense · ASFM · 2027",
       "age": "Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.",
-      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "mat": "Condicional. En abril de 2027 Matvey tendrá 9–10 años. Revise primero Path Attack Junior y después Bristle Race según la fecha de corte.",
       "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
       "gear": "Robot y pista según reto; Bristlebot, programa autónomo y teleoperado tienen requisitos distintos.",
       "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6580,15 +6580,23 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person",
       "related_ids": [
-        "C685"
+        "C685",
+        "C1172",
+        "C1173",
+        "C1174",
+        "C1175",
+        "C1176",
+        "C1177",
+        "C1178",
+        "C1179"
       ]
     },
     {
@@ -6599,7 +6607,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6617,7 +6625,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -6629,11 +6637,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -6641,17 +6649,17 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1172",
       "title": "RoboJam MX Norestense · Bristle Race · 2027",
       "age": "Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.",
-      "mat": "Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.",
+      "mat": "Condicional. El PDF admite hasta los 9 años inclusive. En abril de 2027 Matvey tendrá 9–10 años y necesita confirmar su fecha de nacimiento y el criterio de corte. El resumen en español formula el límite de forma más estricta que el inglés.",
       "osc": "Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.",
       "gear": "Bristlebot 10 × 10 cm, máximo 1 motor y 9 V; cerdas en lugar de ruedas/orugas; inicio remoto prohibido. Distancia 150 cm.",
       "related_ids": [
@@ -6663,10 +6671,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -6679,7 +6687,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6697,7 +6705,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -6709,11 +6717,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -6721,18 +6729,18 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1173",
       "title": "RoboJam MX Norestense · Path Attack Junior · 2027",
       "age": "Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.",
-      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
-      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "mat": "Condicional. Ambos tendrán menos de 12 años en abril de 2027. Confirme la edad mínima, el trabajo autónomo y el acceso local.",
+      "osc": "Condicional. Ambos tendrán menos de 12 años en abril de 2027. Confirme la edad mínima, el trabajo autónomo y el acceso local.",
       "gear": "Robot autónomo 15 × 15 cm para 10 hexágonos. Sin sensores externos; encoders, gyroscope y accelerometer integrados permitidos. Sin programación ni inicio remoto durante intento oficial.",
       "related_ids": [
         "C1171"
@@ -6743,10 +6751,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -6759,7 +6767,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6777,7 +6785,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -6789,11 +6797,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -6801,11 +6809,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1174",
@@ -6823,10 +6831,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -6839,7 +6847,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6857,7 +6865,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -6869,11 +6877,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -6881,11 +6889,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1175",
@@ -6903,10 +6911,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -6919,7 +6927,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -6937,7 +6945,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -6949,11 +6957,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -6961,11 +6969,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1176",
@@ -6983,10 +6991,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -6999,7 +7007,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -7017,7 +7025,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -7029,11 +7037,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -7041,11 +7049,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1177",
@@ -7063,10 +7071,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -7079,7 +7087,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -7097,7 +7105,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -7109,11 +7117,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -7121,11 +7129,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1178",
@@ -7143,10 +7151,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -7159,7 +7167,7 @@
       "start": "",
       "end": "",
       "deadline": "2027-02-26",
-      "period": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
+      "period": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "date_status": "Por confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
@@ -7177,7 +7185,7 @@
       "action": "Antes de pagar y viajar, confirmar con ASFM la fecha, la edad de corte de la prueba elegida y la aceptación del equipo.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "La página y el programa de la sede indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirmar el día con ASFM antes de reservar el viaje.",
       "themes": [
@@ -7189,11 +7197,11 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "season_window",
-      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
+      "deadline_note": "26 de febrero de 2027 a las 20:00 según la página de la etapa. La indicación «-6 GMT PDT» combina dos referencias horarias distintas, por lo que hay que confirmar la zona horaria.",
       "references": [
         {
-          "label": "Descripción de retos",
-          "url": "https://www.robojam.live/challenges"
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "label": "Reglamento ES leído · 25.06.2026",
@@ -7201,11 +7209,11 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         },
         {
           "url": "https://www.robojam.live/events",
-          "label": "Página de la organización o reglamento de la categoría."
+          "label": "Página oficial del organizador o condiciones de entrada."
         }
       ],
       "id": "C1179",
@@ -7223,10 +7231,10 @@
         "MEX"
       ],
       "registration_opens": "2026-11-02",
-      "registration_status": "El inicio de inscripciones se anunció para el 2 de noviembre de 2026. El plazo final es el 26 de febrero de 2027. La página también pide el consentimiento para datos e imagen antes del 14 de marzo. Verificar acceso al formulario y plazas por separado.",
+      "registration_status": "Inscripción anunciada del 2 de noviembre de 2026 al 26 de febrero de 2027. El organizador pide completar el consentimiento de datos e imagen antes del 14 de marzo. Consulte disponibilidad y acceso al formulario por separado.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
       "deadline_label": "Fecha límite de inscripción para la etapa presencial",
-      "date_conflict": "La página y el horario de la sede indican el 17 de abril de 2027, y el calendario general indica el 18 de abril de 2027. El formulario solicita autenticación al abrirlo sin sesión. Confirmar el día exacto y la disponibilidad de inscripción.",
+      "date_conflict": "La página de la etapa y el programa de ASFM indican el 17 de abril de 2027. El calendario general indica el 18 de abril de 2027. Confirme la fecha con el organizador.",
       "reported_start": "2027-04-17",
       "reported_end": "2027-04-17",
       "delivery_mode": "in_person"
@@ -30655,6 +30663,705 @@
           "start_utc": "2027-06-10T16:00:00Z",
           "end_utc": "2027-06-10T23:00:00Z"
         }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E796",
+      "title": "8 Jornada Estatal de Ciencia y Tecnología 2026 · Zacatecas",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Zacatecas · sedes múltiples",
+      "source": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-09",
+      "end": "2026-11-27",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Visita a feria o festival.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Del 9 al 27 de noviembre en varios municipios del estado. El programa incluye demostraciones científicas, tecnología, talleres, un torneo y actividades escolares. Los plazos de la convocatoria general corresponden a ponentes y sedes. El acceso de visitantes se comprueba por actividad.",
+      "themes": [
+        "robotics",
+        "ai",
+        "science",
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "adult_entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "highlights": [
+        "Del 9 al 27 de noviembre en varios municipios del estado. El programa incluye demostraciones científicas, tecnología, talleres, un torneo y actividades escolares. Los plazos de la convocatoria general corresponden a ponentes y sedes. El acceso de visitantes se comprueba por actividad."
+      ],
+      "exhibitor_note": "Consulte los participantes en el programa.",
+      "exhibitors": [],
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "C5458",
+        "L972",
+        "L973",
+        "L974",
+        "L975",
+        "L976",
+        "L977"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L972",
+      "title": "JECyT · Innovaciones de niñas y niños para mejorar su comunidad",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Tlaltenango · ITS Zacatecas Sur · Audiovisual",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/405",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/406",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-24",
+      "end": "2026-11-25",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Para alumnado de primaria. Confirme el curso exacto y si admite alumnado de otros centros.",
+      "mat": "Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.",
+      "osc": "Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T15:00:00Z",
+          "end_utc": "2026-11-24T16:30:00Z",
+          "topic": "Innovaciones de niñas y niños para mejorar su comunidad"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T15:00:00Z",
+          "end_utc": "2026-11-25T16:30:00Z",
+          "topic": "Innovaciones de niñas y niños para mejorar su comunidad"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L973",
+      "title": "JECyT · Creación de Videojuegos",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "UTZAC · Laboratorio de cómputo",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/777",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-11T19:00:00Z",
+          "end_utc": "2026-11-11T20:30:00Z",
+          "topic": "Creación de Videojuegos"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L974",
+      "title": "JECyT · Robótica, Programación Básica",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "UTZAC · Edificio F · Laboratorio de cómputo",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/787",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T18:00:00Z",
+          "end_utc": "2026-11-13T19:30:00Z",
+          "topic": "Robótica, Programación Básica"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L975",
+      "title": "JECyT · Taller de inteligencia artificial para jóvenes",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Zacatecas · CECODIC",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/37",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-10T14:00:00Z",
+          "end_utc": "2026-11-10T19:00:00Z",
+          "topic": "Taller de inteligencia artificial para jóvenes"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L976",
+      "title": "JECyT · Robots que Ven · Python, OpenCV y ESP32",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Fresnillo · UPZ · Edificio A · Sala Azul",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/161",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "hybrid",
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "start_time": "09:00",
+          "end_time": "13:45",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-26T15:00:00Z",
+          "end_utc": "2026-11-26T19:45:00Z",
+          "topic": "Robots que Ven · Python, OpenCV y ESP32"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L977",
+      "title": "JECyT · Robótica Inteligente con NVIDIA Jetson Nano",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Zacatecas · COZCyT · Av. de la Juventud 504",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/789",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Consulte al organizador.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Actividad individual en el programa de la jornada científica.",
+      "entry": "El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.",
+      "gear": "Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme el día elegido, la edad, el idioma y el acceso a la sede.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T16:00:00Z",
+          "end_utc": "2026-11-27T17:00:00Z",
+          "topic": "Robótica Inteligente con NVIDIA Jetson Nano"
+        }
+      ],
+      "parent_event_id": "E796",
+      "related_ids": [
+        "E796"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5458",
+      "title": "JECyT · Concurso de Robots Seguidores de Línea",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Jalpa · Auditorio UAZ Campus Jalpa",
+      "source": "https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/332",
+      "references": [
+        {
+          "url": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://secyt.cozcyt.gob.mx/jecyt/8/participar",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Para estudiantes de ingeniería de la UAZ en Jalpa según la descripción del torneo.",
+      "mat": "No. Compite alumnado de programas de ingeniería.",
+      "osc": "No. Compite alumnado de programas de ingeniería.",
+      "format": "Concurso universitario local de robots seguidores de línea.",
+      "entry": "Para estudiantes de ingeniería de la UAZ en Jalpa según la descripción del torneo.",
+      "gear": "Robot seguidor de línea. La ficha no publica el reglamento ni el número de miembros por equipo.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "No se indica el precio de las actividades concretas.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — fuera de la edad actual",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "12 de noviembre de 10:00 a 12:00. No se ha confirmado el acceso de familias como público.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "E796"
+      ],
+      "parent_event_id": "E796",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E797",
+      "title": "Datostada MX 2026 · IA y datos",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ucú, Yucatán · Universidad Politécnica de Yucatán · Carretera Mérida–Tetiz km 4.5",
+      "source": "https://datostada.mx/",
+      "references": [
+        {
+          "url": "https://datostada.mx/lineup/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.",
+      "mat": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "osc": "Condicional. Confirme edad, idioma, plazas y condiciones de acceso.",
+      "format": "Visita a feria o festival.",
+      "entry": "Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.",
+      "gear": "",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratis con inscripción.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Elija las charlas y confirme la edad y si el taller requiere inscripción aparte.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "13–14 de noviembre en la Universidad Politécnica de Yucatán. Charlas y talleres sobre agentes de IA, SQL, Python, datos y búsqueda de imágenes. El 14 de noviembre desde las 13:00 se presentan comunidades y empresas emergentes.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.",
+      "adult_entry": "Entrada abierta con inscripción previa gratuita, también para visitantes de otros países. No se indican reglas de edad ni acceso de menores a los talleres.",
+      "highlights": [
+        "13–14 de noviembre en la Universidad Politécnica de Yucatán. Charlas y talleres sobre agentes de IA, SQL, Python, datos y búsqueda de imágenes. El 14 de noviembre desde las 13:00 se presentan comunidades y empresas emergentes."
+      ],
+      "exhibitor_note": "Consulte los participantes en el programa.",
+      "exhibitors": [],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "C5459",
+      "title": "Learning Sectors · Formula 1 y British Council · Hidalgo 2026/27",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Hidalgo · centros participantes",
+      "source": "https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026",
+      "references": [
+        {
+          "url": "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "El equipo investiga un problema de su comunidad. El proyecto está previsto de enero a mayo de 2027, la evaluación en junio y la invitación de los tres mejores equipos al Gran Premio en octubre. Aún no hay días exactos.",
+      "date_status": "No se ha anunciado",
+      "deadline": "2026-09-30",
+      "age": "15–16 años al 31 de diciembre de 2026 según los requisitos de la convocatoria mexicana. La descripción general también menciona 17 años. Para solicitar plaza use el corte numérico de los requisitos.",
+      "mat": "No. Este ciclo de Hidalgo se dirige a estudiantes de educación media superior.",
+      "osc": "No. Este ciclo de Hidalgo se dirige a estudiantes de educación media superior.",
+      "format": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+      "entry": "Centros de Hidalgo de COBAEH, CECYTEH, CONALEP o BEH. Tercer semestre, equipo de 2 alumnas, 2 alumnos y 1 docente. El plazo de este ciclo terminó el 30 de septiembre de 2026.",
+      "gear": "Proyecto escolar en equipo sobre ingeniería y comunicación científica.",
+      "language": "Confirme el idioma del taller concreto o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratis para centros y equipos participantes.",
+      "level": "evento regional",
+      "reward": "",
+      "priority": "P4 — plazo de inscripción vencido",
+      "action": "Consulte al organizador.",
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "El equipo investiga un problema de su comunidad. El proyecto está previsto de enero a mayo de 2027, la evaluación en junio y la invitación de los tres mejores equipos al Gran Premio en octubre. Aún no hay días exactos.",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "school_programme",
+      "registration_status": "La inscripción para esta edición está cerrada.",
+      "related_ids": [
+        "L978"
       ],
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },

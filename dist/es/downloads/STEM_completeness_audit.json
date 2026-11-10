@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12069,
-    "competition_cards": 5456,
-    "event_cards": 795,
-    "camp_cards": 5818,
-    "league_profiles": 343,
-    "major_exhibition_cards": 689,
+    "cards": 12081,
+    "competition_cards": 5458,
+    "event_cards": 797,
+    "camp_cards": 5826,
+    "league_profiles": 344,
+    "major_exhibition_cards": 691,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3880,
+      "total": 3890,
       "countries_with_records": 41,
-      "competitions": 2224,
-      "events": 228,
-      "major_exhibitions": 181,
-      "camps": 1428,
+      "competitions": 2226,
+      "events": 230,
+      "major_exhibitions": 183,
+      "camps": 1434,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2666,
+      "total": 2668,
       "countries_with_records": 55,
       "competitions": 792,
       "events": 196,
       "major_exhibitions": 172,
-      "camps": 1678,
+      "camps": 1680,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -8931,6 +8931,20 @@
       "new": false
     },
     {
+      "id": "learning-sectors-f1",
+      "name": "Learning Sectors · Formula 1 / British Council",
+      "group": "international",
+      "event_ids": [
+        "C5459"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -17511,6 +17525,28 @@
       "new": false
     },
     {
+      "id": "E796",
+      "name": "8 Jornada Estatal de Ciencia y Tecnología 2026 · Zacatecas",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-09",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+      "new": false
+    },
+    {
+      "id": "E797",
+      "name": "Datostada MX 2026 · IA y datos",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://datostada.mx/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18036,7 +18072,8 @@
     "Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.",
     "Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado.",
     "En Estonia se añadieron Robotex, Folkrace, Delta X y actividades familiares de PROTO. En Lituania se revisaron STEAM ABC, las vías VILIPO y turnos de invierno en inglés. La cobertura mundial sigue siendo parcial.",
-    "En Brasil se añadieron actividades familiares, torneos regionales y nacionales, ferias industriales con edades de acceso y vías separadas de campamentos."
+    "En Brasil se añadieron actividades familiares, torneos regionales y nacionales, ferias industriales con edades de acceso y vías separadas de campamentos.",
+    "En México se añadió una selección de actividades y eventos del programa oficial de Zacatecas. Las condiciones de cada sede deben confirmarse."
   ],
   "source_issues": [
     {
@@ -19939,8 +19976,8 @@
       }
     ],
     "counts": {
-      "records": 5818,
-      "holiday": 5183,
+      "records": 5826,
+      "holiday": 5184,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2383 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2384 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -187017,6 +187017,80 @@ Brasil · São Paulo · Avenues
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.avenues.org/sao-paulo/student-life/school-break-programs) · 2026-11-09
+
+## CP2384 · Zoo Aquarium Madrid · Campamento de Navidad 2026/27
+
+España · Madrid · Zoo Aquarium · Casa de Campo
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** De 4 a 14 años, en grupos por edad.
+
+**Idioma:** La página está en español. No se indica explícitamente el idioma del grupo.
+
+**Programa:** Siete días a elegir de 09:00 a 16:00. Los temas incluyen cuidados de animales, comunicación, conservación y adaptaciones a entornos extremos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 23, 28, 29 y 30 de diciembre de 2026, y 4, 7 y 8 de enero de 2027, de 09:00 a 16:00 en Madrid.
+
+**Precio / año:** 2026 · Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable.
+
+**Incluye:** Entrada al parque, tentempié, materiales y comida. Posibilidad de menú adaptado.
+
+**Cargos extra:** La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio.
+
+**Pago:** Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes.
+
+**Matvey:** La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+**Oscar:** La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+**Motivo de selección:** Siete días a elegir de 09:00 a 16:00. Los temas incluyen cuidados de animales, comunicación, conservación y adaptaciones a entornos extremos.
+
+### Antes de solicitar plaza
+
+- La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+### Días a elegir · 09:00–16:00
+
+**Fechas / estado:** 2026-12-23 — 2027-01-08
+
+**Lugar:** Madrid · Zoo Aquarium · Casa de Campo
+
+**Edad:** De 4 a 14 años, en grupos por edad.
+
+**Precio:** Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable.
+
+**Cargos extra:** La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio.
+
+**Pago:** Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes.
+
+**Condiciones de participación:** La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+- 2026-12-23 · 09:00–16:00 · Europe/Madrid · Mis primeras Navidades
+
+- 2026-12-28 · 09:00–16:00 · Europe/Madrid · ¡Inocente, inocente!
+
+- 2026-12-29 · 09:00–16:00 · Europe/Madrid · Los sonidos de la Navidad
+
+- 2026-12-30 · 09:00–16:00 · Europe/Madrid · 12 campanadas, 12 razones
+
+- 2027-01-04 · 09:00–16:00 · Europe/Madrid · Regalos salvajes
+
+- 2027-01-07 · 09:00–16:00 · Europe/Madrid · Próxima parada: Conservación
+
+- 2027-01-08 · 09:00–16:00 · Europe/Madrid · Biodiversidad extrema: supervivientes del planeta
+
+**Matvey:** La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+**Oscar:** La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+
+[fuente](https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12069,
-    "competition_cards": 5456,
-    "event_cards": 795,
-    "camp_cards": 5818,
-    "league_profiles": 343,
-    "major_exhibition_cards": 689,
+    "cards": 12081,
+    "competition_cards": 5458,
+    "event_cards": 797,
+    "camp_cards": 5826,
+    "league_profiles": 344,
+    "major_exhibition_cards": 691,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3880,
+      "total": 3890,
       "countries_with_records": 41,
-      "competitions": 2224,
-      "events": 228,
-      "major_exhibitions": 181,
-      "camps": 1428,
+      "competitions": 2226,
+      "events": 230,
+      "major_exhibitions": 183,
+      "camps": 1434,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2666,
+      "total": 2668,
       "countries_with_records": 55,
       "competitions": 792,
       "events": 196,
       "major_exhibitions": 172,
-      "camps": 1678,
+      "camps": 1680,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -8931,6 +8931,20 @@
       "new": false
     },
     {
+      "id": "learning-sectors-f1",
+      "name": "Learning Sectors · Formula 1 / British Council",
+      "group": "international",
+      "event_ids": [
+        "C5459"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17511,6 +17525,28 @@
       "new": false
     },
     {
+      "id": "E796",
+      "name": "8 Jornada Estatal de Ciencia y Tecnología 2026 · Zacatecas",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-09",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://secyt.cozcyt.gob.mx/e/8-jornada-estatal-de-ciencia-y-tecnologia-2026",
+      "new": false
+    },
+    {
+      "id": "E797",
+      "name": "Datostada MX 2026 · IA y datos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://datostada.mx/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18036,7 +18072,8 @@
     "Сверены выставки Мексики, Bebras на Ямайке и каникулы в Аргентине, Перу и Чили. Допуск, язык и расхождения по расписанию отмечены в карточках.",
     "Добавлен латвийский сезон робототехники, проверены семейные выставки, игровая программа и языки курсов в Риге. Зарубежный допуск и правила следующих этапов отмечены отдельно.",
     "В Эстонии добавлены Robotex, Folkrace, Delta X и семейные события PROTO. В Литве проверены STEAM ABC, маршруты VILIPO и зимние англоязычные смены. Всемирный охват остаётся частичным.",
-    "В Бразилии добавлены семейные события, региональные и национальные турниры, промышленные выставки с возрастными правилами и отдельные маршруты лагерей."
+    "В Бразилии добавлены семейные события, региональные и национальные турниры, промышленные выставки с возрастными правилами и отдельные маршруты лагерей.",
+    "В Мексике добавлена выборка занятий и событий по официальной программе Сакатекаса. Условия отдельных площадок требуют проверки."
   ],
   "source_issues": [
     {
@@ -19939,8 +19976,8 @@
       }
     ],
     "counts": {
-      "records": 5818,
-      "holiday": 5183,
+      "records": 5826,
+      "holiday": 5184,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,

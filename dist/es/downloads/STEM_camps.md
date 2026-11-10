@@ -14326,6 +14326,118 @@ Condiciones: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 
 Fuente: https://www.avenues.org/sao-paulo/student-life/school-break-programs
 Se ha comprobado: 2026-11-09
 
+### L972 · JECyT · Innovaciones de niñas y niños para mejorar su comunidad
+
+Lugar: México · Tlaltenango · ITS Zacatecas Sur · Audiovisual
+Fecha: 2026-11-24 — 2026-11-25
+Edad: Para alumnado de primaria. Confirme el curso exacto y si admite alumnado de otros centros.
+Matvey: Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.
+Oscar: Condicional. Adecuado para alumnado de primaria si la sede admite participantes externos.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: Charla sobre cómo niños y niñas pueden crear soluciones para su comunidad. Dos pases independientes el 24 y 25 de noviembre de 09:00 a 10:30.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/405
+Se ha comprobado: 2026-11-09
+
+### L973 · JECyT · Creación de Videojuegos
+
+Lugar: México · UTZAC · Laboratorio de cómputo
+Fecha: 2026-11-11 — 2026-11-11
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: El programa confirma un taller de creación de videojuegos. No indica plataforma, edad ni si se debe llevar ordenador.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/777
+Se ha comprobado: 2026-11-09
+
+### L974 · JECyT · Robótica, Programación Básica
+
+Lugar: México · UTZAC · Edificio F · Laboratorio de cómputo
+Fecha: 2026-11-13 — 2026-11-13
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: El programa indica robótica y programación básica. Confirme el kit, los requisitos y la edad de los participantes.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/787
+Se ha comprobado: 2026-11-09
+
+### L975 · JECyT · Taller de inteligencia artificial para jóvenes
+
+Lugar: México · Zacatecas · CECODIC
+Fecha: 2026-11-10 国 2026-11-10
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: Taller de uso de IA y formulación de instrucciones. Indica público juvenil, sin límites de edad publicados.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/37
+Se ha comprobado: 2026-11-09
+
+### L976 · JECyT · Robots que Ven · Python, OpenCV y ESP32
+
+Lugar: México · Fresnillo · UPZ · Edificio A · Sala Azul
+Fecha: 2026-11-26 — 2026-11-26
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: Taller híbrido de control visual de un robot diferencial con cámara, Python, OpenCV y ESP32. Confirme el nivel y el acceso a la parte en línea.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/161
+Se ha comprobado: 2026-11-09
+
+### L977 · JECyT · Robótica Inteligente con NVIDIA Jetson Nano
+
+Lugar: México · Zacatecas · COZCyT · Av. de la Juventud 504
+Fecha: 2026-11-27 2026-11-27
+Edad: Consulte al organizador.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+formato: workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: No se indica el precio de las actividades concretas.
+Acceso: El programa está abierto a familias. El portal pide iniciar sesión para actividades concretas. Confirme acceso y plazas con la sede.
+Condiciones: Demostración presencial de procesamiento de imágenes de cámaras y sensores en Jetson Nano. El aforo estimado es de 100 personas. Confirme plaza y acceso de menores.
+Fuente: https://secyt.cozcyt.gob.mx/seii-publico/eventos/8/programa/789
+Se ha comprobado: 2026-11-09
+
+### L978 · Learning Sectors · Formula 1 and British Council · UK school partnerships
+
+Lugar: Reino Unido · UK · partner schools
+Fecha: El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.
+Edad: 7–16 años. La solicitud corresponde a centros de primaria y secundaria financiados por el Estado en el Reino Unido.
+Matvey: Condicional. La edad encaja si participa un centro elegible.
+Oscar: No. Edad mínima de 7 años en la vía escolar británica.
+Formato: team
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Gratis para centros y equipos participantes.
+Acceso: El centro solicita la participación y trabaja con una escuela asociada de India o España. Esta modalidad no tiene inscripción familiar.
+Condiciones: El programa dura 4–6 meses. Octubre de 2026 figura como inicio previsto de este ciclo. Los centros pueden expresar interés para futuras rondas. Confirme fechas exactas y grupos.
+Fuente: https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -91876,6 +91988,22 @@ Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
 Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2384-20261223-20270108-single-day · Zoo Aquarium Madrid · Campamento de Navidad 2026/27 · Días a elegir · 09:00–16:00 · 2026-12-23–2027-01-08
+
+Lugar: España · Madrid · Zoo Aquarium · Casa de Campo
+Fecha: 2026-12-23 — 2027-01-08
+Edad: De 4 a 14 años, en grupos por edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La página está en español. No se indica explícitamente el idioma del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2026/27 · Tarifas por niño para 1–7 días: 50, 95, 136, 179, 210, 240 y 275 EUR respectivamente. Descuento del 10% para abonados, no acumulable. · cargos y condiciones en la ficha
+Acceso: La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador.
+Condiciones: Matvey: La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador. Oscar: La edad encaja. Confirme el idioma del grupo y la plaza del día elegido con el organizador. Cargos extra: La ampliación de 08:00 a 09:00 y de 16:00 a 17:00 se paga aparte. Consulte el precio. Pago: Reembolso si se cancela con una semana de antelación o por causa justificada. La actividad requiere un mínimo de participantes.
+Fuente: https://www.zoomadrid.com/educacion/campamentos/campamentos-de-navidad
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

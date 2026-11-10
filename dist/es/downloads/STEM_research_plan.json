@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 356,
+    "prepared_ui_version": 357,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 355,
-    "previous_verified_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09"
+    "previous_verified_ui_version": 356,
+    "previous_verified_commit": "c964bacd1ce3cdd05046cabef099e782f766a239"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 355,
-    "published_version": 355,
-    "latest_source_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09",
-    "published_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09",
-    "latest_workflow": 42750832400,
+    "latest_source_version": 356,
+    "published_version": 356,
+    "latest_source_commit": "c964bacd1ce3cdd05046cabef099e782f766a239",
+    "published_commit": "c964bacd1ce3cdd05046cabef099e782f766a239",
+    "latest_workflow": 42753561102,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -39005,5 +39005,101 @@
       "https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao"
     ],
     "eleva_instruction_language_confirmed": false
+  },
+  "mexico_robotics_tech_and_madrid_camp_v357": {
+    "version": 357,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5458",
+      "C5459"
+    ],
+    "exhibition_ids": [
+      "E796",
+      "E797"
+    ],
+    "learning_event_ids": [
+      "L972",
+      "L973",
+      "L974",
+      "L975",
+      "L976",
+      "L977",
+      "L978",
+      "CP2384-20261223-20270108-single-day"
+    ],
+    "camp_dossier_ids": [
+      "CP2384"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179"
+    ],
+    "legacy_overlay_league_ids": [
+      "robojam"
+    ],
+    "new_league_id": "learning-sectors-f1",
+    "zacatecas_parent_id": "E796",
+    "zacatecas_workshop_ids": [
+      "L972",
+      "L973",
+      "L974",
+      "L975",
+      "L976",
+      "L977"
+    ],
+    "zacatecas_competition_id": "C5458",
+    "datostada_id": "E797",
+    "robojam_norestense_candidates": [
+      "2027-04-17",
+      "2027-04-18"
+    ],
+    "robojam_deadline_timezone_confirmed": false,
+    "formula1_local_ids": [
+      "C5459",
+      "L978"
+    ],
+    "zoo_camp_days": [
+      "2026-12-23",
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30",
+      "2027-01-04",
+      "2027-01-07",
+      "2027-01-08"
+    ],
+    "zoo_instruction_language_confirmed": false,
+    "alternate_official_read_urls": [
+      "https://www.britishcouncil.org/school-resources/learningsectors/aboutlearningsectors",
+      "https://www.britishcouncil.org/school-resources/learningsectors/how-apply",
+      "https://www.britishcouncil.org.mx/programas/educacion/learning-sectors/2026",
+      "https://www.britishcouncil.org/school-resources/learningsectors/how-does-it-work"
+    ],
+    "deduplicated_existing_ids": [
+      "C043",
+      "C082",
+      "C1170",
+      "C1309",
+      "C3122",
+      "L141",
+      "L763",
+      "E001",
+      "E508",
+      "E640",
+      "C4522",
+      "C4523",
+      "C4524"
+    ],
+    "historical_only_excluded_urls": [
+      "https://www.bcs.gob.mx/coscyt-invita-a-ninas-y-ninos-al-taller-de-robotica-en-la-paz/"
+    ]
   }
 }
