@@ -14838,6 +14838,38 @@ Restricciones: Sala Mosaico de Física. Anuncio en español. No se especifica el
 Fuente: https://www.universum.unam.mx/actividades/e/364/fisica-en-accion-2026
 Verificado: 2026-11-10
 
+### L1004 · Fundación Ibercaja Actur · MiniCoders Scratch
+
+Lugar: España · Zaragoza · Antón García Abril, 1
+Fecha: 2027-01-14 — 2027-02-25
+Edad: Educación primaria. La admisión depende del curso y las condiciones de reserva.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+formato: school_workshop
+Idioma: Materiales en español. Confirme el idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Consulte al organizador.
+Acceso: El programa se dirige a escolares. Solicite una franja para el grupo y confirme si se admite participación familiar.
+Restricciones: Los jueves entre 09:30 y 14:30. El grupo elige 90 minutos dentro de la franja.
+Fuente: https://aulaenred.fundacionibercaja.es/actividades/alumnado/minicoders-crea-tu-primer-videojuego-con-scratch-26-27/
+Verificado: 2026-11-10
+
+### L1005 · Fundación Ibercaja Guadalajara · Diseño de videojuegos
+
+Lugar: España · Guadalajara · Dr. Fleming, 2 B
+Fecha: 2027-01-18 — 2027-01-29
+Edad: Educación primaria. La admisión depende del curso y las condiciones de reserva.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+formato: school_workshop
+Idioma: Materiales en español. Confirme el idioma de enseñanza del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: La página indica EUR 6. Confirme la unidad de tarifa y las condiciones del grupo.
+Acceso: El programa se dirige a escolares. Solicite una franja para el grupo y confirme si se admite participación familiar.
+Restricciones: Se ofrecen inicios a las 09:30 y 11:15. El grupo acuerda el día y la franja disponible.
+Fuente: https://www.fundacionibercaja.es/programas-didacticos/pensamiento-computacional-y-diseno-de-videojuegos-guadalajara/
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -93684,6 +93716,86 @@ Coste: 2027 · EUR 375 por sesión. · suplementos y condiciones en la ficha
 Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
 Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
 Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2417-20270123-20270124-banqiao-20270123 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 2 días · 2027-01-23–2027-01-24
+
+Lugar: Taiwán · Banqiao · 四維路177巷4弄20號
+Fecha: 2027-01-23 国 2027-01-24
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270128-20270129-banqiao-20270128 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 2 días · 2027-01-28–2027-01-29
+
+Lugar: Taiwán · Banqiao · 四維路177巷4弄20號
+Fecha: 2027-01-28 - 2027-01-29
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270201-20270203-banqiao-20270201 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 3 días · 2027-02-01–2027-02-03
+
+Lugar: Taiwán · Banqiao · 四維路177巷4弄20號
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270128-20270129-taichung-20270128 · iROBO · LEGO SPM · 奇妙任務島 · Taichung · 福林路61號 · 2 días · 2027-01-28–2027-01-29
+
+Lugar: Taiwán · Taichung · 福林路61號
+Fecha: 2027-01-28 - 2027-01-29
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270201-20270203-taichung-20270201 · iROBO · LEGO SPM · 奇妙任務島 · Taichung · 福林路61號 · 3 días · 2027-02-01–2027-02-03
+
+Lugar: Taiwán · Taichung · 福林路61號
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

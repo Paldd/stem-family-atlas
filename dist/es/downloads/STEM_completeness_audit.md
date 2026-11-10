@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12274. Competiciones: 5525. Eventos: 818. Campamentos o programas: 5931. Perfiles de ligas y programas: 356. Fichas de grandes exposiciones y exposiciones especializadas: 712. Se cuentan ediciones y sedes.
+Fichas en la base: 12286. Competiciones: 5527. Eventos: 821. Campamentos o programas: 5938. Perfiles de ligas y programas: 356. Fichas de grandes exposiciones y exposiciones especializadas: 715. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2234 | 187 | 1474 |
-| América del Sur | 15 | 504 | 61 | 292 |
-| Europa | 55 | 795 | 180 | 1726 |
+| América del Norte | 41 | 2234 | 188 | 1474 |
+| América del Sur | 15 | 505 | 62 | 292 |
+| Europa | 55 | 795 | 180 | 1728 |
 | África | 61 | 286 | 47 | 156 |
-| Asia | 51 | 1283 | 197 | 1853 |
-| Oceanía | 27 | 183 | 38 | 415 |
+| Asia | 51 | 1283 | 197 | 1858 |
+| Oceanía | 27 | 184 | 39 | 415 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX: 821 de 5525 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5527 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
 
 ## Lo que queda
 
@@ -1150,6 +1150,9 @@ VEX: 821 de 5525 fichas de competición (14.9%). La cobertura tiene un sesgo cla
 - **Robotic Worlds** — Alemania. 2025-11-28 – 2027-11-28. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.pinakothek-der-moderne.de/en/exhibitions/robotic-worlds/
 - **Nicolas Darrot · Fuzzy Logic** — Suiza. 2026-03-05 – 2027-03-07. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.tinguely.ch/en/exhibitions/exhibitions/2026/nicolas-darrot.html
 - **Circus of Curiosities · An Exhibition of Moving Marvels** — Reino Unido. 2026-07-04 – 2027-01-03. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.americanmuseum.org/whats-on/circus-of-curiosities-exhibition
+- **GuyExpo 2026** — Guyana. 2026-11-12 – 2026-11-15. Con un adulto. Consulte las condiciones de acceso para adultos. https://guyexpo.gy/
+- **RELICS: A New World Rises** — Australia. 2026-09-19 – 2027-01-31. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.cmag.com.au/exhibitions/relics-a-new-world-rises
+- **Feria Tecno-Académica Nacional STEAM 2026** — Honduras. Fecha desconocida. Confirme el acceso infantil. https://www.uth.hn/juventud-hondurena-lidera-la-transformacion-digital-en-la-feria-nacional-steam-2026/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

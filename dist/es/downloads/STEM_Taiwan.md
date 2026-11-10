@@ -4162,6 +4162,71 @@ Restricciones: Matvey: Condicional. Confirme equivalencia escolar y apertura del
 Fuente: https://anxanx.yuntech.edu.tw/course-detail/33BZI45sQ3yXbpy5
 Verificado: 2026-11-10
 
+### CP2417-20270123-20270124-banqiao-20270123 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 2 días · 2027-01-23–2027-01-24
+
+Fecha: 2027-01-23 国 2027-01-24
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270128-20270129-banqiao-20270128 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 2 días · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270201-20270203-banqiao-20270201 · iROBO · LEGO SPM · 奇妙任務島 · Banqiao · 四維路177巷4弄20號 · 3 días · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270128-20270129-taichung-20270128 · iROBO · LEGO SPM · 奇妙任務島 · Taichung · 福林路61號 · 2 días · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Coste: 2027 · TWD 4 700 por 2 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2417-20270201-20270203-taichung-20270201 · iROBO · LEGO SPM · 奇妙任務島 · Taichung · 福林路61號 · 3 días · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
+Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
 ## ~ Comprobar de nuevo
 
 - The Grove: edad de ambos niños, acogida y apoyo extranjeros sin necesidad de chino.

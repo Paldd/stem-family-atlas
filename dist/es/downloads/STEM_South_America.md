@@ -7445,6 +7445,19 @@ Restricciones: La web indica desde las 16:00. El reglamento fija la franja gener
 Fuente: https://www.ect2026.fpune.edu.py/docs/Reglamento_Robotica.pdf
 Verificado: 2026-11-10
 
+### C5527 · IEEE CASS UMSA · Micromouse 2026
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Solo estudiantes de grado o egresados del sistema universitario de Bolivia.
+Matvey: No cumple el nivel escolar de esta categoría.
+Oscar: No cumple el nivel escolar de esta categoría.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Inscribe el capitán o un integrante con membresía IEEE. El reglamento consultado no indica plazo ni cuota.
+Costo: Consulte al organizador.
+Restricciones: IEEE indica 09:00–13:00 en La Paz. Confirme acceso de público y dirección exacta.
+Fuente: https://micromuose-competiton.vercel.app/reglamento
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

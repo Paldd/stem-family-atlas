@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2416 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2417 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -190137,6 +190137,154 @@ Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
 - [Se comprobó la ficha oficial del programa.](https://www.brightfutureclubs.com/contact) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://www.brightfutureclubs.com/agb) · 2026-11-10
+
+## CP2417 · iROBO · LEGO SPM · 奇妙任務島
+
+Taiwán · Banqiao / Taichung
+
+**Verificado:** 2026-11-10
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Idioma:** El organizador no indica explícitamente el idioma de enseñanza. Confirme inglés o español.
+
+**Programa:** Los niños montan mecanismos LEGO y exploran transmisión de movimiento, estabilidad y estructura.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 3 sesiones en Banqiao y 2 en Taichung en enero y febrero de 2027.
+
+**Precio / año:** 2027 · TWD 4 700 por 2 días o TWD 6 800 por 3 días.
+
+**Incluido:** El almuerzo está incluido en la tarifa base.
+
+**Suplementos:** El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza.
+
+**Oscar:** Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza.
+
+**Motivo de selección:** Los niños montan mecanismos LEGO y exploran transmisión de movimiento, estabilidad y estructura.
+
+### Antes de solicitar plaza
+
+- Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza.
+
+- Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación.
+
+### Banqiao · 四維路177巷4弄20號 · 2 días
+
+**Fechas / estado:** 2027-01-23 — 2027-01-24
+
+**Lugar:** Banqiao · 四維路177巷4弄20號
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Precio:** TWD 4 700 por 2 días. Almuerzo incluido.
+
+**Condiciones de participación:** Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- 2027-01-23 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-01-24 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.irobo.com.tw/spm-camp)
+
+### Banqiao · 四維路177巷4弄20號 · 2 días
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**Lugar:** Banqiao · 四維路177巷4弄20號
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Precio:** TWD 4 700 por 2 días. Almuerzo incluido.
+
+**Condiciones de participación:** Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.irobo.com.tw/spm-camp)
+
+### Banqiao · 四維路177巷4弄20號 · 3 días
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**Lugar:** Banqiao · 四維路177巷4弄20號
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Precio:** TWD 6 800 por 3 días. Almuerzo incluido.
+
+**Condiciones de participación:** Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.irobo.com.tw/spm-camp)
+
+### Taichung · 福林路61號 · 2 días
+
+**Fechas / estado:** 2027-01-28 — 2027-01-29
+
+**Lugar:** Taichung · 福林路61號
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Precio:** TWD 4 700 por 2 días. Almuerzo incluido.
+
+**Condiciones de participación:** Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.irobo.com.tw/spm-camp)
+
+### Taichung · 福林路61號 · 3 días
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**Lugar:** Taichung · 福林路61號
+
+**Edad:** Último curso de infantil o grados 1–3. El organizador verifica el nivel escolar.
+
+**Precio:** TWD 6 800 por 3 días. Almuerzo incluido.
+
+**Condiciones de participación:** Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30.
+
+- 2027-02-01 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-02-02 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+- 2027-02-03 · 09:00–16:00 · Asia/Taipei · LEGO SPM · 奇妙任務島
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.irobo.com.tw/spm-camp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.irobo.com.tw/spm-camp) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.irobo.com.tw/timetable-taipei) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

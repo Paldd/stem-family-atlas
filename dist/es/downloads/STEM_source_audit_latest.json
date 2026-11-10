@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12274,
-    "competition_cards": 5525,
-    "event_cards": 818,
-    "camp_cards": 5931,
+    "cards": 12286,
+    "competition_cards": 5527,
+    "event_cards": 821,
+    "camp_cards": 5938,
     "league_profiles": 356,
-    "major_exhibition_cards": 712,
+    "major_exhibition_cards": 715,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3942,
+      "total": 3943,
       "countries_with_records": 41,
       "competitions": 2234,
-      "events": 234,
-      "major_exhibitions": 187,
+      "events": 235,
+      "major_exhibitions": 188,
       "camps": 1474,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -48,11 +48,11 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 863,
+      "total": 865,
       "countries_with_records": 15,
-      "competitions": 504,
-      "events": 67,
-      "major_exhibitions": 61,
+      "competitions": 505,
+      "events": 68,
+      "major_exhibitions": 62,
       "camps": 292,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2725,
+      "total": 2727,
       "countries_with_records": 55,
       "competitions": 795,
       "events": 204,
       "major_exhibitions": 180,
-      "camps": 1726,
+      "camps": 1728,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3346,
+      "total": 3351,
       "countries_with_records": 51,
       "competitions": 1283,
       "events": 210,
       "major_exhibitions": 197,
-      "camps": 1853,
+      "camps": 1858,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,11 +104,11 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 640,
+      "total": 642,
       "countries_with_records": 27,
-      "competitions": 183,
-      "events": 42,
-      "major_exhibitions": 38,
+      "competitions": 184,
+      "events": 43,
+      "major_exhibitions": 39,
       "camps": 415,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
@@ -17994,6 +17994,39 @@
       "new": false
     },
     {
+      "id": "E819",
+      "name": "GuyExpo 2026",
+      "country": "Guyana",
+      "region": "América del Sur",
+      "start": "2026-11-12",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://guyexpo.gy/",
+      "new": false
+    },
+    {
+      "id": "E820",
+      "name": "RELICS: A New World Rises",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2026-09-19",
+      "end": "2027-01-31",
+      "visitor_policy": "family",
+      "source": "https://www.cmag.com.au/exhibitions/relics-a-new-world-rises",
+      "new": false
+    },
+    {
+      "id": "E821",
+      "name": "Feria Tecno-Académica Nacional STEAM 2026",
+      "country": "Honduras",
+      "region": "América Central",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.uth.hn/juventud-hondurena-lidera-la-transformacion-digital-en-la-feria-nacional-steam-2026/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -20425,8 +20458,8 @@
       }
     ],
     "counts": {
-      "records": 5931,
-      "holiday": 5264,
+      "records": 5938,
+      "holiday": 5269,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
