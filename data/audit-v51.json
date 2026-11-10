@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12412,
-    "competition_cards": 5547,
-    "event_cards": 834,
-    "camp_cards": 6031,
-    "league_profiles": 358,
-    "major_exhibition_cards": 728,
+    "cards": 12469,
+    "competition_cards": 5559,
+    "event_cards": 853,
+    "camp_cards": 6057,
+    "league_profiles": 359,
+    "major_exhibition_cards": 747,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3976,
+      "total": 3977,
       "countries_with_records": 41,
-      "competitions": 2247,
+      "competitions": 2248,
       "events": 239,
       "major_exhibitions": 192,
       "camps": 1490,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 2800,
+      "total": 2801,
       "countries_with_records": 55,
-      "competitions": 795,
+      "competitions": 796,
       "events": 206,
       "major_exhibitions": 182,
       "camps": 1799,
@@ -76,11 +76,11 @@
       "regions": [
         "Африка"
       ],
-      "total": 496,
+      "total": 500,
       "countries_with_records": 61,
-      "competitions": 286,
-      "events": 54,
-      "major_exhibitions": 47,
+      "competitions": 287,
+      "events": 57,
+      "major_exhibitions": 50,
       "camps": 156,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3364,
+      "total": 3410,
       "countries_with_records": 51,
-      "competitions": 1290,
-      "events": 211,
-      "major_exhibitions": 198,
-      "camps": 1863,
+      "competitions": 1294,
+      "events": 227,
+      "major_exhibitions": 214,
+      "camps": 1889,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 649,
+      "total": 650,
       "countries_with_records": 27,
-      "competitions": 184,
+      "competitions": 185,
       "events": 49,
       "major_exhibitions": 45,
       "camps": 416,
@@ -9207,6 +9207,26 @@
       "new": false
     },
     {
+      "id": "xpertstem",
+      "name": "XPERTSTEM",
+      "group": "international",
+      "event_ids": [
+        "C5552",
+        "C5553",
+        "C5554",
+        "C5555",
+        "C5556",
+        "C5557",
+        "C5558"
+      ],
+      "cards": 7,
+      "future_dated": 6,
+      "linked_card_count": 7,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://xpertstem.org/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -18216,6 +18236,215 @@
       "new": false
     },
     {
+      "id": "E835",
+      "name": "A Voyage to Space · Tsing Yi Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-08-24",
+      "end": "2026-09-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302277/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E836",
+      "name": "A Voyage to Space · Po On Road Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-09-01",
+      "end": "2026-09-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302278/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E837",
+      "name": "A Voyage to Space · Shui Wo Street Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-09-07",
+      "end": "2026-09-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302279/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E838",
+      "name": "A Voyage to Space · Kowloon Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-10-01",
+      "end": "2026-10-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302280/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E839",
+      "name": "A Voyage to Space · Tuen Mun Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-10-01",
+      "end": "2026-10-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302281/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E840",
+      "name": "A Voyage to Space · Aberdeen Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-10-16",
+      "end": "2026-10-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302282/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E841",
+      "name": "A Voyage to Space · Tseung Kwan O Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-11-01",
+      "end": "2026-11-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302283/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E842",
+      "name": "A Voyage to Space · Lam Tin Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302284/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E843",
+      "name": "A Voyage to Space · Ping Shan Tin Shui Wai Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-12-02",
+      "end": "2026-12-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302285/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E844",
+      "name": "A Voyage to Space · Tiu Keng Leng Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-12-17",
+      "end": "2026-12-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302286/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E845",
+      "name": "A Voyage to Space · Tai Po Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-01-07",
+      "end": "2027-01-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302287/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E846",
+      "name": "A Voyage to Space · Sheung Shui Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-02-02",
+      "end": "2027-02-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302288/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E847",
+      "name": "A Voyage to Space · Ngau Tau Kok Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-02-16",
+      "end": "2027-02-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302289/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E848",
+      "name": "A Voyage to Space · Yuen Chau Kok Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-02-24",
+      "end": "2027-03-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302290/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E849",
+      "name": "A Voyage to Space · Sha Tin Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-03-05",
+      "end": "2027-03-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302291/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E850",
+      "name": "A Voyage to Space · Quarry Bay Public Library",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2027-03-16",
+      "end": "2027-03-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/302292/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition",
+      "new": false
+    },
+    {
+      "id": "E851",
+      "name": "Banlieue Smart Days 2026 · Forum & Exhibition",
+      "country": "Сенегал",
+      "region": "Африка",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.banlieusmartdays.com/",
+      "new": false
+    },
+    {
+      "id": "E852",
+      "name": "Banlieue Smart Days 2026 · Ateliers d’initiation",
+      "country": "Сенегал",
+      "region": "Африка",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.banlieusmartdays.com/",
+      "new": false
+    },
+    {
+      "id": "E853",
+      "name": "Drone Ignite Africa Summit 2027",
+      "country": "Гана",
+      "region": "Африка",
+      "start": "2027-04-01",
+      "end": "2027-04-02",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.droneigniteafrica.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -19610,7 +19839,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 262,
+  "interregional_cards": 266,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -20647,8 +20876,8 @@
       }
     ],
     "counts": {
-      "records": 6031,
-      "holiday": 5360,
+      "records": 6057,
+      "holiday": 5386,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1046,
@@ -20657,7 +20886,7 @@
       "family_instruction": 1712,
       "family_support": 67,
       "ru_instruction": 6,
-      "language_lessons": 427,
+      "language_lessons": 439,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 161

@@ -41862,7 +41862,103 @@ Limitaciones: Matvey: 9–10 en 2027 Ajustado 9–14; plan y autonomía para con
 Fuente: https://www.threegeneration.org/post/traidhos-winter-residential-english-camp-week-1-24-30-january-2027
 Comprobado: 2026-10-05
 
-### CP767-20270215-20270219 · Traidhos · Junior Winter Nature Day Camp · 2027-02-15–2027-02-19
+### CP767-20270104-20270108 · Traidhos · Junior Winter Nature Day Camp · Junior Naturalist · 2027-01-04–2027-01-08
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-camp-2-6-november-2026-1
+Verificado: 2026-11-10
+
+### CP767-20270111-20270115 · Traidhos · Junior Winter Nature Day Camp · Farm Fun · 2027-01-11–2027-01-15
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/copy-of-traidhos-junior-winter-day-camp-farm-fun-camp-11-15-january-2027
+Verificado: 2026-11-10
+
+### CP767-20270118-20270122 · Traidhos · Junior Winter Nature Day Camp · Nature and Wonder · 2027-01-18–2027-01-22
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-camp-18-22-january-2027
+Verificado: 2026-11-10
+
+### CP767-20270125-20270129 · Traidhos · Junior Winter Nature Day Camp · Nature Everywhere · 2027-01-25–2027-01-29
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-25-29-january-2027
+Verificado: 2026-11-10
+
+### CP767-20270201-20270205 · Traidhos · Junior Winter Nature Day Camp · Junior Naturalist · 2027-02-01–2027-02-05
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-02-01 国 2027-02-05
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-1-5-february-2027
+Verificado: 2026-11-10
+
+### CP767-20270208-20270212 · Traidhos · Junior Winter Nature Day Camp · Farm Fun · 2027-02-08–2027-02-12
+
+Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 4–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-farm-fun-8-12-february-2027
+Verificado: 2026-11-10
+
+### CP767-20270215-20270219 · Traidhos · Junior Winter Nature Day Camp · Nature and Wonder · 2027-02-15–2027-02-19
 
 Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
 Fecha: 2027-02-15 国 2027-02-19
@@ -41872,13 +41968,13 @@ Matway: No según la pista seleccionada
 Formato: day_camp
 Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 - THB 12000/5 días/hijo; 2 semanas 24000 días sin descuentos.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
 Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
 Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027
-Comprobado: 2026-10-05
+Verificado: 2026-11-10
 
-### CP767-20270222-20270226 · Traidhos · Junior Winter Nature Day Camp · 2027-02-22–2027-02-26
+### CP767-20270222-20270226 · Traidhos · Junior Winter Nature Day Camp · Nature Everywhere · 2027-02-22–2027-02-26
 
 Lugar: Tailandia · Traidhos · MaeRim · ChiangMai
 Fecha: 2027-02-22 国 2027-02-26
@@ -41888,11 +41984,11 @@ Matway: No según la pista seleccionada
 Formato: day_camp
 Idioma: El naturedaycam no establece una EN. FAQqualified Englishspeakers se refiere a EnglishCamp, la no automatizada JuniorNature.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2027 - THB 12000/5 días/hijo; 2 semanas 24000 días sin descuentos.
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Coste: 2027 · THB 12000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
 Limitaciones: Matvey: 9–10 mayor que 8. Oscar: 6–7 Ajustado 4–8; EN/dayhours , necesitas más. Gastos adicionales: Noche de pijamas/Viviendas, carretera/airport, Enfermedades de los seguros; accommodation en generic la línea se aplica a la parte de la parte de residential. Pago: C ibling/multiweek Sin descuentos. Refund sólo con medicalcertificate Menos bankcharges; Sin él. none, después de la puesta en marcha none; Posible sustitución convenida de un miembro. FAQ separada force majeure Escala y total refund de un operador de cancelación: No se puede llevar a la negativa familiar normal. Lugar de pago después del pago, No después de abrir el formulario.
-Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027
-Comprobado: 2026-10-05
+Fuente: https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027
+Verificado: 2026-11-10
 
 ### CP768-20270109-20270204 · FCIS / Prime Camp · English Winter Boarding · 4 semanas · 2027-01-09 CLAIM2027-02-04
 
@@ -95284,6 +95380,326 @@ Coste: 2027 · La página de este taller no indica la tarifa. · suplementos y c
 Acceso: Confirme plazas, coste y apoyo lingüístico con la sede.
 Restricciones: Matvey: Condicional. Confirme la edad al inicio de la semana elegida, la preparación y la plaza. Oscar: Nivel de edad para un año futuro. Suplementos: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://mmi.universite-lyon.fr/stage-robot-origami-8-12--420685.kjsp?RH=1747729064832
+Verificado: 2026-11-10
+
+### CP2450-20270104-20270108 · Traidhos · English & Environment · 2027-01-04–2027-01-08
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-english-day-camp-1-english-environment-4-8-january-2027-age-6-12
+Verificado: 2026-11-10
+
+### CP2451-20270111-20270115 · Traidhos · English & Sports · 2027-01-11–2027-01-15
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-11 — 2027-01-15
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-english-day-camp-2-english-sports-11-15-january-2027-age-6-12
+Verificado: 2026-11-10
+
+### CP2452-20270118-20270122 · Traidhos · English & Adventure · 2027-01-18–2027-01-22
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-18 国 2027-01-22
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-english-day-camp-3-english-adventure-18-22-january-2027-age-6-12
+Verificado: 2026-11-10
+
+### CP2453-20270125-20270129 · Traidhos · English & Survival · 2027-01-25–2027-01-29
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-25 国 2027-01-29
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-english-day-camp-4-english-survival-25-29-january-2027-age-6-12
+Verificado: 2026-11-10
+
+### CP2454-20270104-20270108 · Traidhos · Tennis & English · Tennis & English · 2027-01-04–2027-01-08
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270111-20270115 · Traidhos · Tennis & English · Tennis & English · 2027-01-11–2027-01-15
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-11 — 2027-01-15
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270118-20270122 · Traidhos · Tennis & English · Tennis & English · 2027-01-18–2027-01-22
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-18 国 2027-01-22
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270125-20270129 · Traidhos · Tennis & English · Tennis & English · 2027-01-25–2027-01-29
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-25 国 2027-01-29
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270201-20270205 · Traidhos · Tennis & English · Tennis & English · 2027-02-01–2027-02-05
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-01 国 2027-02-05
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270208-20270212 · Traidhos · Tennis & English · Tennis & English · 2027-02-08–2027-02-12
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-08 — 2027-02-12
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270215-20270219 · Traidhos · Tennis & English · Tennis & English · 2027-02-15–2027-02-19
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-15 国 2027-02-19
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2454-20270222-20270226 · Traidhos · Tennis & English · Tennis & English · 2027-02-22–2027-02-26
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-22 国 2027-02-26
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+Marca de idioma: language_lessons; soporte: no declarado
+Coste: 2027 · THB 15000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270104-20270108 · Traidhos · Tennis Only · Tennis Only · 2027-01-04–2027-01-08
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270111-20270115 · Traidhos · Tennis Only · Tennis Only · 2027-01-11–2027-01-15
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-11 — 2027-01-15
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270118-20270122 · Traidhos · Tennis Only · Tennis Only · 2027-01-18–2027-01-22
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-18 国 2027-01-22
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270125-20270129 · Traidhos · Tennis Only · Tennis Only · 2027-01-25–2027-01-29
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-01-25 国 2027-01-29
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270201-20270205 · Traidhos · Tennis Only · Tennis Only · 2027-02-01–2027-02-05
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-01 国 2027-02-05
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270208-20270212 · Traidhos · Tennis Only · Tennis Only · 2027-02-08–2027-02-12
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-08 — 2027-02-12
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270215-20270219 · Traidhos · Tennis Only · Tennis Only · 2027-02-15–2027-02-19
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-15 国 2027-02-19
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
+Verificado: 2026-11-10
+
+### CP2455-20270222-20270226 · Traidhos · Tennis Only · Tennis Only · 2027-02-22–2027-02-26
+
+Lugar: Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+Fecha: 2027-02-22 国 2027-02-26
+Edad: De 6–12 años según la ficha del organizador.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Coste: 2027 · THB 7000 por menor por 5 días. · suplementos y condiciones en la ficha
+Acceso: Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+Restricciones: Matvey: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Oscar: La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión. Suplementos: Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado. Pago: Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+Fuente: https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

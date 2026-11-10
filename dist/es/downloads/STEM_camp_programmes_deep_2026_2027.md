@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2449 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2455 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -58440,7 +58440,7 @@ Tailandia · 234 Moo 3 Huaysai · MaeRim · ChiangMai · campus shared with Prem
 
 Tailandia · Traidhos · MaeRim · ChiangMai
 
-** Verificado:** 2026-10-05
+**Verificado:** 2026-11-10
 
 **Edad:** 4–8
 
@@ -58450,7 +58450,7 @@ Tailandia · Traidhos · MaeRim · ChiangMai
 
 ** Vivienda: ** Programa de día; vivienda familiar, vuelos y camino al campamento por separado.
 
-**Fechas / situación:** 15–19 y 22–26 febrero 2027; Una copia antigua de la televisión WinterCamp 2026, Pero su título/URL Justo 2027.
+**Fechas / estado:** 8 semanas a elegir del 4 de enero al 26 de febrero de 2027 según los títulos. Los textos generales conservan una mención de 2026.
 
 **Cada año:** 2027 · THB 12000/5 días/hijo; 2 semanas 24000 días sin descuentos.
 
@@ -58472,13 +58472,105 @@ Tailandia · Traidhos · MaeRim · ChiangMai
 
 - JuniorNatureEN, horas diurnas, transfer/visits conjuntos de familia sin permiso de residencia.
 
+### Junior Naturalist
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-camp-2-6-november-2026-1)
+
+### Farm Fun
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/copy-of-traidhos-junior-winter-day-camp-farm-fun-camp-11-15-january-2027)
+
+### Nature and Wonder
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-camp-18-22-january-2027)
+
+### Nature Everywhere
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-25-29-january-2027)
+
+### Junior Naturalist
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-1-5-february-2027)
+
+### Farm Fun
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-farm-fun-8-12-february-2027)
+
+### Nature and Wonder
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027)
+
+### Nature Everywhere
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Precio:** THB 12000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme el horario y el idioma. El título indica 2027 y el texto general conserva una mención de 2026.
+
+[fuente](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027)
+
 ### Fuentes
 
-- [de la misma NatureandWonder la semana/THB/4–8](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027) · 2026-10-05
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-camp-2-6-november-2026-1) · 2026-11-10
 
-- [NatureEverywhere de la semana en concreto](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027) · 2026-10-05
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/copy-of-traidhos-junior-winter-day-camp-farm-fun-camp-11-15-january-2027) · 2026-11-10
 
-- [condiciones generales/aseguro; ENcamp no JuniorEN](https://www.threegeneration.org/faq-camp) · 2026-10-05
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-camp-18-22-january-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-25-29-january-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-1-5-february-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-farm-fun-8-12-february-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/current-camps) · 2026-11-10
 
 ## CP768 · FCIS / Prime Camp · English Winter Boarding
 
@@ -193465,6 +193557,554 @@ Francia · Maison des Mathématiques et de l’Informatique · Lyon
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://mmi.universite-lyon.fr/stage-robot-origami-8-12--420685.kjsp?RH=1747729064832) · 2026-11-10
+
+## CP2450 · Traidhos · English & Environment
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+
+**Programa:** Observación de aves y pequeños animales, estudio de árboles, plantación de arroz y actividades en la granja.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 4–8 de enero de 2027. Cinco jornadas diurnas, consulte el horario.
+
+**Precio / año:** 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+
+**Incluido:** Almuerzo, refrigerios, recuerdo y seguro de accidentes.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Observación de aves y pequeños animales, estudio de árboles, plantación de arroz y actividades en la granja.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-english-day-camp-1-english-environment-4-8-january-2027-age-6-12) · 2026-11-10
+
+## CP2451 · Traidhos · English & Sports
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+
+**Programa:** Tenis, fútbol, golf, natación y retos de equipo. Inglés mediante vocabulario deportivo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 de enero de 2027. Cinco jornadas diurnas, consulte el horario.
+
+**Precio / año:** 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+
+**Incluido:** Almuerzo, refrigerios, recuerdo y seguro de accidentes.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Tenis, fútbol, golf, natación y retos de equipo. Inglés mediante vocabulario deportivo.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-english-day-camp-2-english-sports-11-15-january-2027-age-6-12) · 2026-11-10
+
+## CP2452 · Traidhos · English & Adventure
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+
+**Programa:** Ruta por la naturaleza, circuitos de cuerdas, escalada, construcción de balsas y cocina al aire libre.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 18–22 de enero de 2027. Cinco jornadas diurnas, consulte el horario.
+
+**Precio / año:** 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+
+**Incluido:** Almuerzo, refrigerios, recuerdo y seguro de accidentes.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Ruta por la naturaleza, circuitos de cuerdas, escalada, construcción de balsas y cocina al aire libre.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-english-day-camp-3-english-adventure-18-22-january-2027-age-6-12) · 2026-11-10
+
+## CP2453 · Traidhos · English & Survival
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+
+**Programa:** Refugio, horno solar, encendido seguro del fuego y actividades prácticas bajo supervisión.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 25–29 de enero de 2027. Cinco jornadas diurnas, consulte el horario.
+
+**Precio / año:** 2027 · THB 15000 por menor por 5 días. Dos menores en la misma semana — THB 30000.
+
+**Incluido:** Almuerzo, refrigerios, recuerdo y seguro de accidentes.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** La inscripción se confirma tras el pago. Los English Day Camp de enero no ofrecen descuentos por hermanos ni por varias semanas. Reembolso con certificado médico, menos gastos bancarios.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Refugio, horno solar, encendido seguro del fuego y actividades prácticas bajo supervisión.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-english-day-camp-4-english-survival-25-29-january-2027-age-6-12) · 2026-11-10
+
+## CP2454 · Traidhos · Tennis & English
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** Se confirman clases y práctica de inglés. Consulte el idioma de las instrucciones de todas las actividades.
+
+**Programa:** Tenis, clases de inglés, actividades diurnas y almuerzo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 8 semanas a elegir del 4 de enero al 26 de febrero de 2027. Hora local de 09:00–15:30.
+
+**Precio / año:** 2027 · THB 15000 por menor por 5 días.
+
+**Incluido:** Tenis, clases de inglés, actividades diurnas y almuerzo.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Tenis, clases de inglés, actividades diurnas y almuerzo.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Tennis & English
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-04 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-05 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-06 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-07 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-08 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-11 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-12 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-13 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-14 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-15 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-18 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-19 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-20 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-21 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-22 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-25 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-26 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-27 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-28 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-01-29 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-01 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-02 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-03 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-04 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-05 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-08 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-09 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-10 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-11 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-12 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-15 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-16 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-17 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-18 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-19 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis & English
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Precio:** THB 15000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-22 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-23 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-24 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-25 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+- 2027-02-26 · 09:00–15:30 · Asia/Bangkok · Tennis & English
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027) · 2026-11-10
+
+## CP2455 · Traidhos · Tennis Only
+
+Tailandia · Traidhos Campus · Mae Rim · Chiang Mai
+
+**Verificado:** 2026-11-10
+
+**Edad:** De 6–12 años según la ficha del organizador.
+
+**Idioma:** No se confirmó el idioma de las actividades o del arbitraje.
+
+**Programa:** Dos horas de tenis con pausa para un refrigerio. Consulte el idioma del entrenador.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 8 semanas a elegir del 4 de enero al 26 de febrero de 2027. Hora local de 09:00–11:00.
+
+**Precio / año:** 2027 · THB 7000 por menor por 5 días.
+
+**Incluido:** Dos horas de tenis con pausa para un refrigerio. Consulte el idioma del entrenador.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, visados y gastos bancarios por separado.
+
+**Pago:** Se publicó el formulario. Confirme plazas, importe total y condiciones de pago.
+
+**Matvey:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Oscar:** La edad encaja en el intervalo anunciado. Confirme plaza y condiciones de admisión.
+
+**Motivo de selección:** Dos horas de tenis con pausa para un refrigerio. Consulte el idioma del entrenador.
+
+### Antes de solicitar plaza
+
+- Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+### Tennis Only
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-04 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-05 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-06 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-07 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-08 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-11 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-12 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-13 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-14 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-15 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-18 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-19 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-20 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-21 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-22 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-01-25 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-26 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-27 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-28 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-01-29 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-01 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-02 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-03 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-04 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-05 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-08 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-09 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-10 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-11 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-12 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-15 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-16 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-17 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-18 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-19 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Tennis Only
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Precio:** THB 7000 por menor por 5 días.
+
+**Condiciones de participación:** Confirme las plazas de la semana elegida, el horario, el acceso de extranjeros y la edad el primer día.
+
+- 2027-02-22 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-23 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-24 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-25 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+- 2027-02-26 · 09:00–11:00 · Asia/Bangkok · Tennis Only
+
+[fuente](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

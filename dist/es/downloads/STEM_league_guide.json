@@ -30597,6 +30597,81 @@
         "evidence": "Se comprobó la ficha oficial del programa."
       },
       {
+        "id": "xpertstem",
+        "name": "XPERTSTEM",
+        "group": "international",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen",
+          "unknown"
+        ],
+        "age_summary": "Cursos 3–12 según las reglas de la fase en línea.",
+        "summary": "Prueba individual en línea de una parte del temario. 30 preguntas de opción múltiple en 80 minutos.",
+        "importance": "Clasificación en línea desde casa y fases presenciales anunciadas en distintos países.",
+        "strengths": "Ciencia, matemáticas, CoreSTEM e inglés. Puede elegir fecha de prueba y nivel escolar.",
+        "route": "Clasificación en línea o presencial → Elite Finals. También hay una vía por finales nacionales y regionales.",
+        "language": "Clasificación en línea y Elite Finals en inglés. Los socios nacionales pueden usar el idioma local.",
+        "hardware": "La prueba en línea requiere internet y un dispositivo. Confirme las reglas técnicas de supervisión.",
+        "award": "Certificado de participación y distinciones por resultados. Desde 60 puntos en una prueba se alcanza el umbral de clasificación, sujeto a las reglas de curso y final.",
+        "cost": "Se requiere pago. Consulte la tarifa de la prueba o final elegida.",
+        "evidence": "La portada indica cursos 5–12 para Elite Finals, y la página de finales indica 3–12 y enumera solo EE. UU. y Reino Unido. Confirme curso, sede e invitación antes de viajar.",
+        "requirements": [
+          "Elija prueba y curso, complete la solicitud y pague. Confirme el acceso desde su país de residencia, la zona horaria y el precio."
+        ],
+        "nuances": [
+          "La portada indica cursos 5–12 para Elite Finals, y la página de finales indica 3–12 y enumera solo EE. UU. y Reino Unido. Confirme curso, sede e invitación antes de viajar.",
+          "Acceso tras clasificarse. Confirme a qué sede corresponde la invitación. La cita de marzo en EAU empieza antes de la tercera prueba en línea."
+        ],
+        "categories": [
+          {
+            "name": "Online Qualification",
+            "age": "Cursos 3–12 según las reglas de la fase en línea.",
+            "age_rule": "Cursos 3–12 según las reglas de la fase en línea.",
+            "team": "Prueba individual en línea de una parte del temario. 30 preguntas de opción múltiple en 80 minutos.",
+            "hardware": "Consulte al organizador.",
+            "entry": "Elija prueba y curso, complete la solicitud y pague. Confirme el acceso desde su país de residencia, la zona horaria y el precio.",
+            "event_id": "C5552"
+          },
+          {
+            "name": "Elite Finals",
+            "age": "Cursos 5–12 en la portada y 3–12 en la página Elite Finals. Confirme el requisito vigente.",
+            "age_rule": "La portada indica cursos 5–12 para Elite Finals, y la página de finales indica 3–12 y enumera solo EE. UU. y Reino Unido. Confirme curso, sede e invitación antes de viajar.",
+            "team": "Fase presencial. La página de finales describe pruebas individual, teórica y de equipo. Hasta 3 integrantes por equipo.",
+            "hardware": "Consulte al organizador.",
+            "entry": "Acceso tras clasificarse. Confirme a qué sede corresponde la invitación. La cita de marzo en EAU empieza antes de la tercera prueba en línea.",
+            "event_id": "C5556"
+          }
+        ],
+        "legacy_ids": [],
+        "event_ids": [
+          "C5552",
+          "C5553",
+          "C5554",
+          "C5555",
+          "C5556",
+          "C5557",
+          "C5558"
+        ],
+        "sources": [
+          {
+            "url": "https://xpertstem.org/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://xpertstem.org/qualification-phase/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://xpertstem.org/elite-finals/",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ]
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -35942,7 +36017,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 358. Se conservan las 46 vías anteriores. Los formatos brasileños están separados y se describen las categorías locales de Robofest LATAM y BajaBot. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 359. Se conservan las 46 vías anteriores. Los formatos brasileños figuran por separado y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

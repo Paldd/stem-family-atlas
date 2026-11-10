@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12412; соревнований: 5547; событий: 834; лагерей / программ: 6031. Профилей лиг и программ: 358. Карточек крупных и профильных выставок: 728 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12469; соревнований: 5559; событий: 853; лагерей / программ: 6057. Профилей лиг и программ: 359. Карточек крупных и профильных выставок: 747 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2247 | 192 | 1490 |
+| Северная Америка | 41 | 2248 | 192 | 1490 |
 | Южная Америка | 15 | 505 | 62 | 292 |
-| Европа | 55 | 795 | 182 | 1799 |
-| Африка | 61 | 286 | 47 | 156 |
-| Азия | 51 | 1290 | 198 | 1863 |
-| Океания | 27 | 184 | 45 | 416 |
+| Европа | 55 | 796 | 182 | 1799 |
+| Африка | 61 | 287 | 50 | 156 |
+| Азия | 51 | 1294 | 214 | 1889 |
+| Океания | 27 | 185 | 45 | 416 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 262. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 266. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5547 карточек соревнований (14.8%). Это явный перекос охвата.
+VEX: 821 из 5559 карточек соревнований (14.8%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -398,6 +398,7 @@ VEX: 821 из 5547 карточек соревнований (14.8%). Это я�
 - **CRD Robotics & Innovation Championship**: 13 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://crdthailand.com/en
 - **Taiwan Exhibition for Young Inventors · TEYI**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8
 - **National Robotics Challenge · NRC**: 13 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.thenrc.org/contest-manual
+- **XPERTSTEM**: 7 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://xpertstem.org/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1168,6 +1169,25 @@ VEX: 821 из 5547 карточек соревнований (14.8%). Это я�
 - **Le Pavillon · Pavillon Playground** — Бельгия; 2027-01-06 – 2027-04-11. Со взрослым; условия взрослого входа отдельно. https://www.le-pavillon.be/en/exhibitions/pavillon-playground
 - **Nationalmuseum · Women as Technology** — Швеция; 2027-02-18 – 2027-09-19. Детский допуск уточнить. https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/women-as-technology
 - **Museum of Idaho · Sci-Fi: Inventing Tomorrow** — США; 2027-02-05 – 2027-09-07. Со взрослым; условия взрослого входа отдельно. https://museumofidaho.org/scifi/
+- **A Voyage to Space · Tsing Yi Public Library** — Китай, Специальный административный район Гонконг; 2026-08-24 – 2026-09-05. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302277/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Po On Road Public Library** — Китай, Специальный административный район Гонконг; 2026-09-01 – 2026-09-15. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302278/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Shui Wo Street Public Library** — Китай, Специальный административный район Гонконг; 2026-09-07 – 2026-09-30. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302279/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Kowloon Public Library** — Китай, Специальный административный район Гонконг; 2026-10-01 – 2026-10-14. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302280/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tuen Mun Public Library** — Китай, Специальный административный район Гонконг; 2026-10-01 – 2026-10-15. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302281/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Aberdeen Public Library** — Китай, Специальный административный район Гонконг; 2026-10-16 – 2026-10-30. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302282/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tseung Kwan O Public Library** — Китай, Специальный административный район Гонконг; 2026-11-01 – 2026-11-14. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302283/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Lam Tin Public Library** — Китай, Специальный административный район Гонконг; 2026-11-16 – 2026-11-30. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302284/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Ping Shan Tin Shui Wai Public Library** — Китай, Специальный административный район Гонконг; 2026-12-02 – 2026-12-15. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302285/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tiu Keng Leng Public Library** — Китай, Специальный административный район Гонконг; 2026-12-17 – 2026-12-31. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302286/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tai Po Public Library** — Китай, Специальный административный район Гонконг; 2027-01-07 – 2027-01-21. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302287/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Sheung Shui Public Library** — Китай, Специальный административный район Гонконг; 2027-02-02 – 2027-02-14. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302288/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Ngau Tau Kok Public Library** — Китай, Специальный административный район Гонконг; 2027-02-16 – 2027-02-22. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302289/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Yuen Chau Kok Public Library** — Китай, Специальный административный район Гонконг; 2027-02-24 – 2027-03-04. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302290/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Sha Tin Public Library** — Китай, Специальный административный район Гонконг; 2027-03-05 – 2027-03-14. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302291/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Quarry Bay Public Library** — Китай, Специальный административный район Гонконг; 2027-03-16 – 2027-03-31. Детский допуск уточнить. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302292/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **Banlieue Smart Days 2026 · Forum & Exhibition** — Сенегал; 2026-12-12 – 2026-12-13. Детский допуск уточнить. https://www.banlieusmartdays.com/
+- **Banlieue Smart Days 2026 · Ateliers d’initiation** — Сенегал; 2026-12-12. Детский допуск уточнить. https://www.banlieusmartdays.com/
+- **Drone Ignite Africa Summit 2027** — Гана; 2027-04-01 – 2027-04-02. Детский допуск уточнить. https://www.droneigniteafrica.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

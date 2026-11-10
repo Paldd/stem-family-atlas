@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12412. Competiciones: 5547. Eventos: 834. Campamentos o programas: 6031. Perfiles de ligas y programas: 358. Fichas de grandes exposiciones y exposiciones especializadas: 728. Se cuentan ediciones y sedes.
+Fichas en la base: 12469. Competiciones: 5559. Eventos: 853. Campamentos o programas: 6057. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 747. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2247 | 192 | 1490 |
+| América del Norte | 41 | 2248 | 192 | 1490 |
 | América del Sur | 15 | 505 | 62 | 292 |
-| Europa | 55 | 795 | 182 | 1799 |
-| África | 61 | 286 | 47 | 156 |
-| Asia | 51 | 1290 | 198 | 1863 |
-| Oceanía | 27 | 184 | 45 | 416 |
+| Europa | 55 | 796 | 182 | 1799 |
+| África | 61 | 287 | 50 | 156 |
+| Asia | 51 | 1294 | 214 | 1889 |
+| Oceanía | 27 | 185 | 45 | 416 |
 
-Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
+Fichas interregionales o globales sin continente único: 266. América del Norte incluye América Central y el Caribe. Los recuentos reflejan el inventario de la base.
 
-VEX: 821 de 5547 fichas de competición (14.8%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5559 fichas de competiciones (14.8%). Es un desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -398,6 +398,7 @@ VEX: 821 de 5547 fichas de competición (14.8%). La cobertura tiene un sesgo cla
 - **CRD Robotics & Innovation Championship**: 13 fichas, 0 con fechas futuras exactas. Hay un perfil y fichas. La cobertura local es parcial. https://crdthailand.com/en
 - **Taiwan Exhibition for Young Inventors · TEYI**: 1 ficha, 0 con fechas futuras precisas. Hay perfil y ficha. La cobertura local es parcial. https://www.teyi.org/Client/_InformationPopup/757dd4c116974abda50a23aed10b6ab8
 - **National Robotics Challenge · NRC**: 13 fichas, 1 con fechas futuras precisas. Hay perfil y fichas. La cobertura local es parcial. https://www.thenrc.org/contest-manual
+- **XPERTSTEM**: 7 fichas, 6 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://xpertstem.org/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1168,6 +1169,25 @@ VEX: 821 de 5547 fichas de competición (14.8%). La cobertura tiene un sesgo cla
 - **Le Pavillon · Pavillon Playground** — Bélgica; 2027-01-06 – 2027-04-11. Con un adulto. Consulte las condiciones de acceso. https://www.le-pavillon.be/en/exhibitions/pavillon-playground
 - **Nationalmuseum · Women as Technology** — Suecia; 2027-02-18 – 2027-09-19. Confirme el acceso infantil. https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/women-as-technology
 - **Museum of Idaho · Sci-Fi: Inventing Tomorrow** — EE. UU.; 2027-02-05 – 2027-09-07. Con un adulto. Consulte las condiciones de acceso. https://museumofidaho.org/scifi/
+- **A Voyage to Space · Tsing Yi Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-08-24 – 2026-09-05. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302277/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Po On Road Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-09-01 – 2026-09-15. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302278/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Shui Wo Street Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-09-07 – 2026-09-30. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302279/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Kowloon Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-10-01 – 2026-10-14. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302280/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tuen Mun Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-10-01 – 2026-10-15. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302281/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Aberdeen Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-10-16 – 2026-10-30. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302282/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tseung Kwan O Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-11-01 – 2026-11-14. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302283/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Lam Tin Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-11-16 – 2026-11-30. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302284/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Ping Shan Tin Shui Wai Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-12-02 – 2026-12-15. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302285/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tiu Keng Leng Public Library** — China, Región Administrativa Especial de Hong Kong; 2026-12-17 – 2026-12-31. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302286/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Tai Po Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-01-07 – 2027-01-21. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302287/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Sheung Shui Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-02-02 – 2027-02-14. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302288/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Ngau Tau Kok Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-02-16 – 2027-02-22. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302289/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Yuen Chau Kok Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-02-24 – 2027-03-04. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302290/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Sha Tin Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-03-05 – 2027-03-14. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302291/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **A Voyage to Space · Quarry Bay Public Library** — China, Región Administrativa Especial de Hong Kong; 2027-03-16 – 2027-03-31. Confirme el acceso infantil. https://www.hkpl.gov.hk/en/extension-activities/event-detail/302292/a-voyage-to-space-china-s-manned-space-expedition-roving-exhibition
+- **Banlieue Smart Days 2026 · Forum & Exhibition** — Senegal; 2026-12-12 – 2026-12-13. Confirme el acceso infantil. https://www.banlieusmartdays.com/
+- **Banlieue Smart Days 2026 · Ateliers d’initiation** — Senegal; 2026-12-12. Confirme el acceso infantil. https://www.banlieusmartdays.com/
+- **Drone Ignite Africa Summit 2027** — Ghana; 2027-04-01 – 2027-04-02. Confirme el acceso infantil. https://www.droneigniteafrica.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

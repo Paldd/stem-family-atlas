@@ -1,0 +1,129 @@
+{
+  "version": 376,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 375,
+    "commit": "7a32d23846deb56f895cf6d3f3d9379891d283c2",
+    "workflow": 42824375798
+  },
+  "hong_kong": {
+    "venue_count": 16,
+    "ended_at_check": 6,
+    "current_or_upcoming": 10,
+    "records": [
+      "E835",
+      "E836",
+      "E837",
+      "E838",
+      "E839",
+      "E840",
+      "E841",
+      "E842",
+      "E843",
+      "E844",
+      "E845",
+      "E846",
+      "E847",
+      "E848",
+      "E849",
+      "E850"
+    ],
+    "language_evidence": {
+      "source": "https://www.ccpo.gov.hk/media/2026/08/A-Voyage-to-Space-Chinas-Manned-Space-Expedition-Exhibition-Panels_2026.pdf",
+      "sample_page": 2,
+      "materials": [
+        "EN",
+        "ZH"
+      ]
+    },
+    "age_fee_and_booking_unconfirmed": true
+  },
+  "senegal": {
+    "exhibition": "E851",
+    "workshop_block": "E852",
+    "competition": "C5549"
+  },
+  "ghana": "E853",
+  "india": "C5550",
+  "cyprus": {
+    "record": "C5551",
+    "linked_rules_edition": "2024-25",
+    "current_rules_unverified": true
+  },
+  "xpertstem": {
+    "event_ids": [
+      "C5552",
+      "C5553",
+      "C5554",
+      "C5555",
+      "C5556",
+      "C5557",
+      "C5558"
+    ],
+    "online_class_range": [
+      3,
+      12
+    ],
+    "qualification_points": 60,
+    "elite_grade_conflict": [
+      [
+        5,
+        12
+      ],
+      [
+        3,
+        12
+      ]
+    ],
+    "league_id": "xpertstem"
+  },
+  "nextgen": {
+    "archive": "C5559",
+    "final": "C5560",
+    "qualification_only": true
+  },
+  "traidhos": {
+    "new_dossiers": [
+      "CP2450",
+      "CP2451",
+      "CP2452",
+      "CP2453",
+      "CP2454",
+      "CP2455"
+    ],
+    "updated_dossier": "CP767",
+    "new_week_options": 26,
+    "english_lesson_options": 12,
+    "weekly_tennis_options": 16,
+    "new_junior_nature_weeks": 6
+  },
+  "verified_existing_without_duplication": [
+    "CP308",
+    "CP1183",
+    "CP1184",
+    "CP1185",
+    "CP1622",
+    "CP1623",
+    "CP1624",
+    "CP1667",
+    "CP1668",
+    "CP1669",
+    "CP1670",
+    "CP2400"
+  ],
+  "deferred_conflicts": {
+    "greece_grade_ranges": [
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "future_labs_africa": "The Future Labs page says alongside AATF but AATF's own page announces 6–8 July and lists 6–9 July in its footer. The existing E609 record preserves the July discrepancy. Do not copy dates or admission rules across brands."
+  }
+}

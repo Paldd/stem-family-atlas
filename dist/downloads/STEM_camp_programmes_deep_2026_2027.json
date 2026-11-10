@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2449,
+    "dossiers": 2455,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 341,
-      "published_2027": 701,
+      "published_2027": 707,
       "partial_2027": 182,
       "next_unannounced": 488,
       "published_2026": 443,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3396
+    "source_urls": 3408
   },
   "countries": [
     {
@@ -496,7 +496,7 @@
     },
     {
       "country": "Таиланд",
-      "count": 12
+      "count": 18
     },
     {
       "country": "Тайвань",
@@ -113557,8 +113557,32 @@
       "programme": "Nature and Wonder / Nature Everywhere:опытысприродой/игры/друзья. Полнаяежедневнаяпрограммаичасы нераскрыты. FarmFun/JuniorNaturalist упомянутыкакдругиетемы, ихнепрочитанныедатировки не создаём.",
       "timing": {
         "status": "partial_2027",
-        "label": "15–19 и 22–26 февраля 2027; втелепостастараякопия WinterCamp 2026, но собственныйзаголовок/URL прямо 2027.",
+        "label": "8 недель на выбор с 4 января по 26 февраля 2027 по заголовкам страниц. В общих описаниях сохранилось упоминание 2026.",
         "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
           [
             "2027-02-15",
             "2027-02-19"
@@ -113567,6 +113591,72 @@
             "2027-02-22",
             "2027-02-26"
           ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Junior Naturalist",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-camp-2-6-november-2026-1",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Farm Fun",
+            "source": "https://www.threegeneration.org/post/copy-of-traidhos-junior-winter-day-camp-farm-fun-camp-11-15-january-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nature and Wonder",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-camp-18-22-january-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nature Everywhere",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-25-29-january-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Junior Naturalist",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-1-5-february-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Farm Fun",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-farm-fun-8-12-february-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Nature and Wonder",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "Nature Everywhere",
+            "source": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027",
+            "price": "THB 12000 за ребёнка за 5 дней.",
+            "entry": "Уточнить часы и язык занятий. В заголовке указан 2027, в общем описании сохранилось упоминание 2026."
+          }
         ],
         "precision": "published_sessions"
       },
@@ -113598,24 +113688,102 @@
       ],
       "sources": [
         {
-          "title": "Конкретная NatureandWonder неделя/THB/4–8",
+          "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-camp-2-6-november-2026-1",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.threegeneration.org/post/copy-of-traidhos-junior-winter-day-camp-farm-fun-camp-11-15-january-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-camp-18-22-january-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-25-29-january-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-junior-naturalist-1-5-february-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-farm-fun-8-12-february-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
           "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-and-wonder-15-19-february-2027",
-          "checked": "2026-10-05"
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         },
         {
-          "title": "Конкретная NatureEverywhere неделя",
           "url": "https://www.threegeneration.org/post/traidhos-junior-winter-day-camp-nature-everywhere-22-26-february-2027",
-          "checked": "2026-10-05"
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         },
         {
-          "title": "Общиеусловия/страхование; ENcamp не JuniorEN",
-          "url": "https://www.threegeneration.org/faq-camp",
-          "checked": "2026-10-05"
+          "url": "https://www.threegeneration.org/current-camps",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-10",
       "related_event_ids": [],
       "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP767-20270208-20270212"
+          ]
+        },
         {
           "start": "2027-02-15",
           "end": "2027-02-19",
@@ -435683,6 +435851,1675 @@
           "FR"
         ]
       }
+    },
+    {
+      "id": "CP2450",
+      "slug": "traidhos-winter-english-environment-2027",
+      "provider": "Traidhos · English & Environment",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Наблюдение за птицами и мелкими животными, изучение деревьев, посадка риса и задания на ферме.",
+      "themes": [
+        "science",
+        "nature",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Подтверждены уроки и практика английского. Язык инструктажа по всем видам активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–8 января 2027. Пять дневных занятий, часы уточнить.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 15000,
+        "unit": "week",
+        "label": "THB 15000 за ребёнка за 5 дней. Двое детей на одну смену — THB 30000.",
+        "included": "Обед, перекусы, сувенир и страховка от несчастных случаев.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Запись подтверждается после оплаты. Для январских English Day Camp скидок для братьев или нескольких недель нет. Возврат при медицинской справке за вычетом банковских расходов."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Наблюдение за птицами и мелкими животными, изучение деревьев, посадка риса и задания на ферме.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-english-day-camp-1-english-environment-4-8-january-2027-age-6-12",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2450-20270104-20270108"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2451",
+      "slug": "traidhos-winter-english-sports-2027",
+      "provider": "Traidhos · English & Sports",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Теннис, футбол, гольф, плавание и задания на командную работу. Английский через спортивную лексику.",
+      "themes": [
+        "sport",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Подтверждены уроки и практика английского. Язык инструктажа по всем видам активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 января 2027. Пять дневных занятий, часы уточнить.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 15000,
+        "unit": "week",
+        "label": "THB 15000 за ребёнка за 5 дней. Двое детей на одну смену — THB 30000.",
+        "included": "Обед, перекусы, сувенир и страховка от несчастных случаев.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Запись подтверждается после оплаты. Для январских English Day Camp скидок для братьев или нескольких недель нет. Возврат при медицинской справке за вычетом банковских расходов."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Теннис, футбол, гольф, плавание и задания на командную работу. Английский через спортивную лексику.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-english-day-camp-2-english-sports-11-15-january-2027-age-6-12",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2451-20270111-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2452",
+      "slug": "traidhos-winter-english-adventure-2027",
+      "provider": "Traidhos · English & Adventure",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Маршрут по природе, верёвочные задания, скалолазание, постройка плота и приготовление еды на природе.",
+      "themes": [
+        "adventure",
+        "nature",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Подтверждены уроки и практика английского. Язык инструктажа по всем видам активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "18–22 января 2027. Пять дневных занятий, часы уточнить.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 15000,
+        "unit": "week",
+        "label": "THB 15000 за ребёнка за 5 дней. Двое детей на одну смену — THB 30000.",
+        "included": "Обед, перекусы, сувенир и страховка от несчастных случаев.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Запись подтверждается после оплаты. Для январских English Day Camp скидок для братьев или нескольких недель нет. Возврат при медицинской справке за вычетом банковских расходов."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Маршрут по природе, верёвочные задания, скалолазание, постройка плота и приготовление еды на природе.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-english-day-camp-3-english-adventure-18-22-january-2027-age-6-12",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2452-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2453",
+      "slug": "traidhos-winter-english-survival-2027",
+      "provider": "Traidhos · English & Survival",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Укрытие, солнечная печь, безопасное разведение огня и практические задания под присмотром.",
+      "themes": [
+        "science",
+        "nature",
+        "adventure",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Подтверждены уроки и практика английского. Язык инструктажа по всем видам активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–29 января 2027. Пять дневных занятий, часы уточнить.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 15000,
+        "unit": "week",
+        "label": "THB 15000 за ребёнка за 5 дней. Двое детей на одну смену — THB 30000.",
+        "included": "Обед, перекусы, сувенир и страховка от несчастных случаев.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Запись подтверждается после оплаты. Для январских English Day Camp скидок для братьев или нескольких недель нет. Возврат при медицинской справке за вычетом банковских расходов."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Укрытие, солнечная печь, безопасное разведение огня и практические задания под присмотром.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-english-day-camp-4-english-survival-25-29-january-2027-age-6-12",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2453-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2454",
+      "slug": "traidhos-winter-tennis-english-2027",
+      "provider": "Traidhos · Tennis & English",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Теннис, уроки английского, дневные занятия и обед.",
+      "themes": [
+        "sport",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Подтверждены уроки и практика английского. Язык инструктажа по всем видам активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 недель на выбор с 4 января по 26 февраля 2027. Местное время 09:00–15:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T08:30:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T08:30:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T08:30:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T08:30:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T02:00:00Z",
+                "end_utc": "2027-01-11T08:30:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T02:00:00Z",
+                "end_utc": "2027-01-12T08:30:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T02:00:00Z",
+                "end_utc": "2027-01-13T08:30:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T02:00:00Z",
+                "end_utc": "2027-01-14T08:30:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T02:00:00Z",
+                "end_utc": "2027-01-15T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T02:00:00Z",
+                "end_utc": "2027-01-18T08:30:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T02:00:00Z",
+                "end_utc": "2027-01-19T08:30:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T02:00:00Z",
+                "end_utc": "2027-01-20T08:30:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T02:00:00Z",
+                "end_utc": "2027-01-21T08:30:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T02:00:00Z",
+                "end_utc": "2027-01-22T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T02:00:00Z",
+                "end_utc": "2027-01-25T08:30:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T02:00:00Z",
+                "end_utc": "2027-01-26T08:30:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T02:00:00Z",
+                "end_utc": "2027-01-27T08:30:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T02:00:00Z",
+                "end_utc": "2027-01-28T08:30:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T02:00:00Z",
+                "end_utc": "2027-01-29T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T02:00:00Z",
+                "end_utc": "2027-02-01T08:30:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T02:00:00Z",
+                "end_utc": "2027-02-02T08:30:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T02:00:00Z",
+                "end_utc": "2027-02-03T08:30:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T02:00:00Z",
+                "end_utc": "2027-02-04T08:30:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T02:00:00Z",
+                "end_utc": "2027-02-05T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T02:00:00Z",
+                "end_utc": "2027-02-08T08:30:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T02:00:00Z",
+                "end_utc": "2027-02-09T08:30:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T02:00:00Z",
+                "end_utc": "2027-02-10T08:30:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T02:00:00Z",
+                "end_utc": "2027-02-11T08:30:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T02:00:00Z",
+                "end_utc": "2027-02-12T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T02:00:00Z",
+                "end_utc": "2027-02-15T08:30:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T02:00:00Z",
+                "end_utc": "2027-02-16T08:30:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T02:00:00Z",
+                "end_utc": "2027-02-17T08:30:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T02:00:00Z",
+                "end_utc": "2027-02-18T08:30:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T02:00:00Z",
+                "end_utc": "2027-02-19T08:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "Tennis & English",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 15000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T02:00:00Z",
+                "end_utc": "2027-02-22T08:30:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T02:00:00Z",
+                "end_utc": "2027-02-23T08:30:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T02:00:00Z",
+                "end_utc": "2027-02-24T08:30:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T02:00:00Z",
+                "end_utc": "2027-02-25T08:30:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis & English",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T02:00:00Z",
+                "end_utc": "2027-02-26T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 15000,
+        "unit": "week",
+        "label": "THB 15000 за ребёнка за 5 дней.",
+        "included": "Теннис, уроки английского, дневные занятия и обед.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Форма опубликована. Подтвердить наличие мест, полную сумму и условия оплаты."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Теннис, уроки английского, дневные занятия и обед.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270208-20270212"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270215-20270219"
+          ]
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2454-20270222-20270226"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2455",
+      "slug": "traidhos-winter-tennis-only-2027",
+      "provider": "Traidhos · Tennis Only",
+      "iso": "THA",
+      "country": "Таиланд",
+      "place": "Traidhos Campus · Mae Rim · Chiang Mai",
+      "age": "6–12 лет по карточке организатора.",
+      "programme": "Два часа тенниса с перерывом на перекус. Язык тренера уточнить.",
+      "themes": [
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Язык занятий или судейства не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 недель на выбор с 4 января по 26 февраля 2027. Местное время 09:00–11:00.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T04:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T04:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T04:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T04:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T02:00:00Z",
+                "end_utc": "2027-01-11T04:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T02:00:00Z",
+                "end_utc": "2027-01-12T04:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T02:00:00Z",
+                "end_utc": "2027-01-13T04:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T02:00:00Z",
+                "end_utc": "2027-01-14T04:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T02:00:00Z",
+                "end_utc": "2027-01-15T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T02:00:00Z",
+                "end_utc": "2027-01-18T04:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T02:00:00Z",
+                "end_utc": "2027-01-19T04:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T02:00:00Z",
+                "end_utc": "2027-01-20T04:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T02:00:00Z",
+                "end_utc": "2027-01-21T04:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T02:00:00Z",
+                "end_utc": "2027-01-22T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T02:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T02:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T02:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T02:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T02:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T02:00:00Z",
+                "end_utc": "2027-02-01T04:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T02:00:00Z",
+                "end_utc": "2027-02-02T04:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T02:00:00Z",
+                "end_utc": "2027-02-03T04:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T02:00:00Z",
+                "end_utc": "2027-02-04T04:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T02:00:00Z",
+                "end_utc": "2027-02-05T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T02:00:00Z",
+                "end_utc": "2027-02-08T04:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T02:00:00Z",
+                "end_utc": "2027-02-09T04:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T02:00:00Z",
+                "end_utc": "2027-02-10T04:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T02:00:00Z",
+                "end_utc": "2027-02-11T04:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T02:00:00Z",
+                "end_utc": "2027-02-12T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T02:00:00Z",
+                "end_utc": "2027-02-15T04:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T02:00:00Z",
+                "end_utc": "2027-02-16T04:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T02:00:00Z",
+                "end_utc": "2027-02-17T04:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T02:00:00Z",
+                "end_utc": "2027-02-18T04:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T02:00:00Z",
+                "end_utc": "2027-02-19T04:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "Tennis Only",
+            "source": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+            "price": "THB 7000 за ребёнка за 5 дней.",
+            "entry": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T02:00:00Z",
+                "end_utc": "2027-02-22T04:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T02:00:00Z",
+                "end_utc": "2027-02-23T04:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T02:00:00Z",
+                "end_utc": "2027-02-24T04:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T02:00:00Z",
+                "end_utc": "2027-02-25T04:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "11:00",
+                "timezone": "Asia/Bangkok",
+                "topic": "Tennis Only",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T02:00:00Z",
+                "end_utc": "2027-02-26T04:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "THB",
+        "amount": 7000,
+        "unit": "week",
+        "label": "THB 7000 за ребёнка за 5 дней.",
+        "included": "Два часа тенниса с перерывом на перекус. Язык тренера уточнить.",
+        "extras": "Жильё семьи, перелёты, трансфер, визовые и банковские расходы отдельно.",
+        "deposit": "Форма опубликована. Подтвердить наличие мест, полную сумму и условия оплаты."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит по заявленному диапазону. Подтвердить место и условия зачисления."
+        }
+      },
+      "editorial_reason": "Два часа тенниса с перерывом на перекус. Язык тренера уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      ],
+      "sources": [
+        {
+          "url": "https://www.threegeneration.org/post/traidhos-winter-tennis-and-english-camp-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить места на выбранную неделю, часы, условия приёма иностранцев и возраст на первый день."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "language_roles": {},
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270208-20270212"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270215-20270219"
+          ]
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2455-20270222-20270226"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -454243,7 +456080,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2449,
+      "total_dossiers": 2455,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -463420,6 +465257,36 @@
     {
       "programme_id": "CP766",
       "event_id": "CP766-20270221-20270227",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP767",
+      "event_id": "CP767-20270208-20270212",
       "relation": "catalogue_session"
     },
     {
@@ -480968,6 +482835,106 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2450",
+      "event_id": "CP2450-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2451",
+      "event_id": "CP2451-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2452",
+      "event_id": "CP2452-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2453",
+      "event_id": "CP2453-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270208-20270212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2454",
+      "event_id": "CP2454-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270208-20270212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2455",
+      "event_id": "CP2455-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -483064,6 +485031,12 @@
     "CP766-20270207-20270213",
     "CP766-20270214-20270220",
     "CP766-20270221-20270227",
+    "CP767-20270104-20270108",
+    "CP767-20270111-20270115",
+    "CP767-20270118-20270122",
+    "CP767-20270125-20270129",
+    "CP767-20270201-20270205",
+    "CP767-20270208-20270212",
     "CP767-20270215-20270219",
     "CP767-20270222-20270226",
     "CP768-20270109-20270204",
@@ -486402,10 +488375,30 @@
     "CP2448-20270405-20270409-2027-04-05-all-day-part-both",
     "CP2448-20270531-20270604-2027-05-31-afternoon-part-1",
     "CP2448-20270531-20270604-2027-05-31-all-day-part-both",
-    "CP2449-20270222-20270223"
+    "CP2449-20270222-20270223",
+    "CP2450-20270104-20270108",
+    "CP2451-20270111-20270115",
+    "CP2452-20270118-20270122",
+    "CP2453-20270125-20270129",
+    "CP2454-20270104-20270108",
+    "CP2454-20270111-20270115",
+    "CP2454-20270118-20270122",
+    "CP2454-20270125-20270129",
+    "CP2454-20270201-20270205",
+    "CP2454-20270208-20270212",
+    "CP2454-20270215-20270219",
+    "CP2454-20270222-20270226",
+    "CP2455-20270104-20270108",
+    "CP2455-20270111-20270115",
+    "CP2455-20270118-20270122",
+    "CP2455-20270125-20270129",
+    "CP2455-20270201-20270205",
+    "CP2455-20270208-20270212",
+    "CP2455-20270215-20270219",
+    "CP2455-20270222-20270226"
   ],
   "integration": {
-    "generated_sessions": 5024,
+    "generated_sessions": 5050,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
