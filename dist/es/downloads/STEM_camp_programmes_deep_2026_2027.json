@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2381,
+    "dossiers": 2383,
     "countries": 140,
     "swiss": 153,
     "by_status": {
       "published_2026_27": 333,
-      "published_2027": 661,
+      "published_2027": 662,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -44,14 +44,14 @@
       "archive_next_unannounced": 152,
       "regular_programme": 21,
       "regular_2026_27": 33,
-      "historical_2026_next_season_unknown": 3,
+      "historical_2026_next_season_unknown": 4,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3289
+    "source_urls": 3292
   },
   "countries": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "country": "Brasil",
-      "count": 6
+      "count": 8
     },
     {
       "country": "Islas Vírgenes Británicas",
@@ -417993,6 +417993,423 @@
       "related_event_ids": [],
       "calendar_links": [],
       "language_roles": {}
+    },
+    {
+      "id": "CP2382",
+      "slug": "eleva-sp-dinosaurs-2027",
+      "provider": "Escola Eleva São Paulo · Summer Camp 2027",
+      "country": "Brasil",
+      "iso": "BRA",
+      "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "age": "Desde los 3 años, grupos de Infantil 3 a 9.º grado.",
+      "programme": "Tema de dinosaurios, búsqueda de fósiles, descubrimientos sobre la vida prehistórica, talleres y actividades al aire libre.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "language": "No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Turno del 11 al 15 de enero de 2027. Se admite alumnado externo, con un formulario de información de salud.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Turno completo",
+            "variant_key": "full",
+            "age": "Desde los 3 años, grupos de Infantil 3 a 9.º grado.",
+            "price": "1815 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T11:00:00Z",
+                "end_utc": "2027-01-11T20:00:00Z",
+                "topic": "Turno completo"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T11:00:00Z",
+                "end_utc": "2027-01-12T20:00:00Z",
+                "topic": "Turno completo"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T11:00:00Z",
+                "end_utc": "2027-01-13T20:00:00Z",
+                "topic": "Turno completo"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T11:00:00Z",
+                "end_utc": "2027-01-14T20:00:00Z",
+                "topic": "Turno completo"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T11:00:00Z",
+                "end_utc": "2027-01-15T20:00:00Z",
+                "topic": "Turno completo"
+              }
+            ],
+            "extras": "Confirme idioma, plazas, total con comisión y condiciones por día.",
+            "deposit": "Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Mañana",
+            "variant_key": "morning",
+            "age": "Desde los 3 años, grupos de Infantil 3 a 9.º grado.",
+            "price": "1320 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T11:00:00Z",
+                "end_utc": "2027-01-11T16:00:00Z",
+                "topic": "Mañana"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T11:00:00Z",
+                "end_utc": "2027-01-12T16:00:00Z",
+                "topic": "Mañana"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T11:00:00Z",
+                "end_utc": "2027-01-13T16:00:00Z",
+                "topic": "Mañana"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T11:00:00Z",
+                "end_utc": "2027-01-14T16:00:00Z",
+                "topic": "Mañana"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T11:00:00Z",
+                "end_utc": "2027-01-15T16:00:00Z",
+                "topic": "Mañana"
+              }
+            ],
+            "extras": "Confirme idioma, plazas, total con comisión y condiciones por día.",
+            "deposit": "Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Tarde",
+            "variant_key": "afternoon",
+            "age": "Desde los 3 años, grupos de Infantil 3 a 9.º grado.",
+            "price": "1320 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T15:00:00Z",
+                "end_utc": "2027-01-11T20:00:00Z",
+                "topic": "Tarde"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T15:00:00Z",
+                "end_utc": "2027-01-12T20:00:00Z",
+                "topic": "Tarde"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T15:00:00Z",
+                "end_utc": "2027-01-13T20:00:00Z",
+                "topic": "Tarde"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T15:00:00Z",
+                "end_utc": "2027-01-14T20:00:00Z",
+                "topic": "Tarde"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T15:00:00Z",
+                "end_utc": "2027-01-15T20:00:00Z",
+                "topic": "Tarde"
+              }
+            ],
+            "extras": "Confirme idioma, plazas, total con comisión y condiciones por día.",
+            "deposit": "Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio."
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "BRL",
+        "amount": 1815,
+        "unit": "session",
+        "label": "1815 BRL turno completo, 1320 BRL turno de mañana o tarde y 440 BRL por día. Incluye almuerzo y merienda.",
+        "included": "Almuerzo y merienda.",
+        "extras": "Confirme idioma, plazas, total con comisión y condiciones por día.",
+        "deposit": "Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirme idioma, grupo y plaza con el campamento."
+        }
+      },
+      "editorial_reason": "Turno del 11 al 15 de enero de 2027. Se admite alumnado externo, con un formulario de información de salud.",
+      "shortlist": [],
+      "questions": [
+        "Confirme idioma, plazas, total con comisión y condiciones por día."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2382-20270111-20270115-full"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2382-20270111-20270115-morning"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2382-20270111-20270115-afternoon"
+          ]
+        }
+      ],
+      "language_roles": {}
+    },
+    {
+      "id": "CP2383",
+      "slug": "avenues-sao-paulo-nature-camp-watch",
+      "provider": "Avenues São Paulo · Explorers Nature Camp",
+      "country": "Brasil",
+      "iso": "BRA",
+      "place": "São Paulo · Avenues",
+      "age": "De 3 a 11 años según el formato publicado. Admite alumnado de otros colegios.",
+      "programme": "Proyectos en la naturaleza, lectura, escritura y matemáticas en inglés, y excursión por zonas verdes de São Paulo.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "language": "En el formato publicado todas las actividades son en inglés. Confirme el idioma de la próxima edición.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Programa diurno sin alojamiento.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BRL",
+        "amount": null,
+        "unit": "session",
+        "label": "Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.",
+        "extras": "Consulte al organizador.",
+        "deposit": "Consulte al organizador."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar."
+        }
+      },
+      "editorial_reason": "Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.",
+      "shortlist": [],
+      "questions": [
+        "Consulte al organizador."
+      ],
+      "sources": [
+        {
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "url": "https://www.avenues.org/sao-paulo/student-life/school-break-programs",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -436553,7 +436970,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2381,
+      "total_dossiers": 2383,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -462358,6 +462775,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2382",
+      "event_id": "CP2382-20270111-20270115-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2382",
+      "event_id": "CP2382-20270111-20270115-morning",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2382",
+      "event_id": "CP2382-20270111-20270115-afternoon",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -467612,10 +468044,13 @@
     "CP2373-20270222-20270226-summer-week-8",
     "CP2377-20261221-20261224-week-1",
     "CP2378-20261228-20261231-week-2",
-    "CP2379-20270104-20270108-week-3"
+    "CP2379-20270104-20270108-week-3",
+    "CP2382-20270111-20270115-full",
+    "CP2382-20270111-20270115-morning",
+    "CP2382-20270111-20270115-afternoon"
   ],
   "integration": {
-    "generated_sessions": 4844,
+    "generated_sessions": 4847,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

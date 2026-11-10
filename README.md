@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В данных v356 добавлены бразильские REC’n’Play, MCTIA, FEMIC, финал TJR и выставки 2027 с правилами входа. Уточнены SESI Pinhais и CONNEPI, добавлены расписания и тарифы лагеря Eleva. [Аудит источников](data/brazil-robotics-fairs-family-learning-audit-v356.json)
+
 В данных v355 добавлены эстонские Robotex, Folkrace, Delta X и события PROTO, литовские STEAM ABC и VILIPO, зимние смены на английском и маршрут на испанском в Вильнюсе. [Аудит источников](data/estonia-lithuania-junior-opportunities-audit-v355.json)
 
 В данных v354 добавлены 13 этапов чемпионата Латвии, восемь дисциплин TSI, Bebras, семейные выставки и курсы в Риге. [Аудит источников](data/latvia-robotics-gaming-and-learning-audit-v354.json)

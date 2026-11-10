@@ -6352,20 +6352,28 @@
       "gear": "Не нужен",
       "language": "Язык конкретного этапа и EN/ES-судейство уточнить",
       "languages": [],
-      "cost": "Бесплатно для специалистов отрасли с аккредитацией и удостоверением личности с фото.",
+      "cost": "Обычная аккредитация бесплатная на все 5 дней. VIP-пропуск 85 BRL по опубликованным условиям.",
       "level": "Выставка компаний и технологий",
       "reward": "Демонстрации, общение и знакомство с технологиями; не соревновательная медаль",
       "priority": "P4 — поездка взрослого",
       "action": "Проверить доступность пропуска выбранного уровня и расписание выставочного зала.",
-      "source": "https://www.expomafe.com.br/",
+      "source": "https://www.expomafe.com.br/a-feira/faq-expomafe/",
       "references": [
         {
           "url": "https://www.expomafe.com.br/a-feira/faq-expomafe/",
           "label": "FAQ: возраст и посетители"
+        },
+        {
+          "url": "https://www.expomafe.com.br/termos-e-condicoes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.expomafe.com.br/imprensa/releases/",
+          "label": "Официальная страница организатора или правила входа."
         }
       ],
       "proof": "Сверено с официальным расписанием и опубликованными условиями доступа.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Идея",
       "note": "4–7 мая 10:00–19:00, 8 мая 09:00–17:00. São Paulo Expo.",
       "themes": [
@@ -6382,7 +6390,7 @@
       "exhibition_tier": "regional",
       "visitor_policy": "adults_only",
       "visitor_policy_note": "Вход до 16 лет закрыт. Исключения для аккредитованных групп технических школ старше 14 лет с преподавателями и для грудных детей. Возраст 6 и 9 лет правилам не соответствует.",
-      "adult_entry": "Бесплатно для специалистов отрасли с аккредитацией и удостоверением личности с фото.",
+      "adult_entry": "Обычная аккредитация бесплатная на все 5 дней. VIP-пропуск 85 BRL по опубликованным условиям.",
       "highlights": [
         "Промышленные роботы",
         "Автоматизация ячеек",
@@ -6394,7 +6402,55 @@
       "importance_reason": "Редакционный выбор по тематике, международному / региональному охвату и выставочной программе организатора; не официальный мировой рейтинг.",
       "iso": [
         "BRA"
-      ]
+      ],
+      "public_days": [
+        {
+          "date": "2027-05-04",
+          "start_time": "10:00",
+          "end_time": "19:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-05-04T13:00:00Z",
+          "end_utc": "2027-05-04T22:00:00Z"
+        },
+        {
+          "date": "2027-05-05",
+          "start_time": "10:00",
+          "end_time": "19:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-05-05T13:00:00Z",
+          "end_utc": "2027-05-05T22:00:00Z"
+        },
+        {
+          "date": "2027-05-06",
+          "start_time": "10:00",
+          "end_time": "19:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-05-06T13:00:00Z",
+          "end_utc": "2027-05-06T22:00:00Z"
+        },
+        {
+          "date": "2027-05-07",
+          "start_time": "10:00",
+          "end_time": "19:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-05-07T13:00:00Z",
+          "end_utc": "2027-05-07T22:00:00Z"
+        },
+        {
+          "date": "2027-05-08",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-05-08T12:00:00Z",
+          "end_utc": "2027-05-08T20:00:00Z"
+        }
+      ],
+      "date_scope": "exhibition_window"
     },
     {
       "id": "E110",
@@ -34031,7 +34087,7 @@
       "references": [
         {
           "url": "https://www.even3.com.br/connepi-fortaleza-2026/",
-          "label": "Страница организатора или регламент категории."
+          "label": "Официальная страница организатора или правила входа."
         },
         {
           "url": "https://drive.google.com/uc?export=download&id=1dh6DxXdXYDd1KzOFc4AH5xZ2WolCmegb",
@@ -34040,6 +34096,10 @@
         {
           "url": "https://drive.google.com/uc?export=download&id=1xco1XhzkqPQpBBtgqxygj-gFogMaf1CB",
           "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.lnrobotica.com.br/",
+          "label": "Официальная страница организатора или правила входа."
         }
       ],
       "proof": "Сверено с официальной страницей и опубликованными условиями.",
@@ -34059,7 +34119,7 @@
       "reward": "1–3 места в каждой из 5 дисциплин получают официальные документы для участия в MRC Global Olympiad 2027. Поездка и расходы в квоту не входят.",
       "priority": "P4 — возраст пока ниже минимума",
       "action": "Внутренний отбор и подача через подразделение федерального института или IFCE. После поправки срок 9 ноября 2026. Точное время в поправке не указано.",
-      "note": "Верхнее правило заявки требует Ensino Médio или Ensino Superior и отбор через IF или IFCE. В приложениях по отдельным задачам упомянут Ensino Fundamental. При конфликте младшую группу считать недоступной без письменного уточнения.",
+      "note": "Верхнее правило заявки требует Ensino Médio или Ensino Superior и отбор через IF или IFCE. В приложениях по отдельным задачам упомянут Ensino Fundamental. При конфликте младшую группу считать недоступной без письменного уточнения. Фестиваль указан в календаре LNR как Edição Nordeste 9–11 декабря. Для этого турнира действует регламент CONNEPI и поправка со сроком 9 ноября.",
       "themes": [
         "robotics",
         "technology"
@@ -34098,6 +34158,14 @@
         {
           "url": "https://portal.ifce.edu.br/noticias/ifce-sedia-congresso-norte-nordeste-de-pesquisa-e-inovacao-em-2026/",
           "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://portal.ifce.edu.br/campus/fortaleza/eventos/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.lnrobotica.com.br/",
+          "label": "Официальная страница организатора или правила входа."
         }
       ],
       "proof": "Сверено с официальной страницей и опубликованными условиями.",
@@ -34117,7 +34185,7 @@
       "reward": "",
       "priority": "P3 — условия подтвердить",
       "action": "Перед записью сверить допуск, язык и наличие места.",
-      "note": "Даты относятся ко всему конгрессу. Вход зрителей и правила участия в игровых дисциплинах проверяются отдельно.",
+      "note": "Календарь IFCE указывает общие часы конгресса 08:00–17:00, 9–11 декабря. Время входа в Mostra Tecnológica и Arena Gamer и допуск детей сверяются отдельно.",
       "themes": [
         "technology",
         "games",
@@ -34133,7 +34201,15 @@
       "visitor_policy": "confirm_children",
       "related_ids": [
         "C5102"
-      ]
+      ],
+      "exhibition_tier": "regional",
+      "visitor_policy_note": "Минимум для зрителя не опубликован в открытой программе.",
+      "adult_entry": "Уточнить у организатора.",
+      "highlights": [
+        "Календарь IFCE указывает общие часы конгресса 08:00–17:00, 9–11 декабря. Время входа в Mostra Tecnológica и Arena Gamer и допуск детей сверяются отдельно."
+      ],
+      "exhibitors": [],
+      "exhibitor_note": "Уточнить у организатора."
     },
     {
       "id": "C5103",
@@ -35892,6 +35968,1168 @@
       "related_ids": [
         "L964"
       ]
+    },
+    {
+      "id": "E790",
+      "title": "Futurecom 2027",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo Expo · Rodovia dos Imigrantes km 1,5",
+      "source": "https://www.futurecom.com.br/faq/",
+      "references": [],
+      "start": "2027-10-05",
+      "end": "2027-10-07",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "До 18 лет вход с родителем или законным представителем и формой разрешения на входе. Билет нужен с 12 лет.",
+      "mat": "Да для семейного посещения. Возраст и язык конкретных занятий уточнить.",
+      "osc": "Да для семейного посещения. Возраст и язык конкретных занятий уточнить.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "До 18 лет вход с родителем или законным представителем и формой разрешения на входе. Билет нужен с 12 лет.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Выставка и конгресс платные для взрослых. Тариф на выбранный пропуск уточнить у билетного партнёра.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Выставка 10:00–20:00, конгресс 09:00–18:00. В FAQ выделена тема AI & Data Economy. Расписание докладов 2027 уточнить.",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "До 18 лет вход с родителем или законным представителем и формой разрешения на входе. Билет нужен с 12 лет.",
+      "adult_entry": "Выставка и конгресс платные для взрослых. Тариф на выбранный пропуск уточнить у билетного партнёра.",
+      "highlights": [
+        "Выставка 10:00–20:00, конгресс 09:00–18:00. В FAQ выделена тема AI & Data Economy. Расписание докладов 2027 уточнить."
+      ],
+      "exhibitor_note": "Состав участников уточнить по программе.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2027-10-05",
+          "start_time": "10:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-10-05T13:00:00Z",
+          "end_utc": "2027-10-05T23:00:00Z"
+        },
+        {
+          "date": "2027-10-06",
+          "start_time": "10:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-10-06T13:00:00Z",
+          "end_utc": "2027-10-06T23:00:00Z"
+        },
+        {
+          "date": "2027-10-07",
+          "start_time": "10:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-10-07T13:00:00Z",
+          "end_utc": "2027-10-07T23:00:00Z"
+        }
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "E791",
+      "title": "Intermach 2027",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Joinville · Expoville · Rua XV de Novembro 4315",
+      "source": "https://intermach.com.br/quero-visitar/",
+      "references": [],
+      "start": "2027-07-13",
+      "end": "2027-07-16",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "С 14 лет для специалистов и профильных учащихся. До 14 лет вход закрыт даже со взрослым.",
+      "mat": "Нет. Вход с 14 лет по общему правилу.",
+      "osc": "Нет. Вход с 14 лет по общему правилу.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "С 14 лет для специалистов и профильных учащихся. До 14 лет вход закрыт даже со взрослым.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно для профильных посетителей с аккредитацией.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P4 — поездка взрослого",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "13–16 июля, ежедневно 13:00–20:00. Станки, промышленная автоматизация, ПО и роботизированное производство.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "С 14 лет для специалистов и профильных учащихся. До 14 лет вход закрыт даже со взрослым.",
+      "adult_entry": "Бесплатно для профильных посетителей с аккредитацией.",
+      "highlights": [
+        "13–16 июля, ежедневно 13:00–20:00. Станки, промышленная автоматизация, ПО и роботизированное производство."
+      ],
+      "exhibitor_note": "Состав участников уточнить по программе.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2027-07-13",
+          "start_time": "13:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-07-13T16:00:00Z",
+          "end_utc": "2027-07-13T23:00:00Z"
+        },
+        {
+          "date": "2027-07-14",
+          "start_time": "13:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-07-14T16:00:00Z",
+          "end_utc": "2027-07-14T23:00:00Z"
+        },
+        {
+          "date": "2027-07-15",
+          "start_time": "13:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-07-15T16:00:00Z",
+          "end_utc": "2027-07-15T23:00:00Z"
+        },
+        {
+          "date": "2027-07-16",
+          "start_time": "13:00",
+          "end_time": "20:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-07-16T16:00:00Z",
+          "end_utc": "2027-07-16T23:00:00Z"
+        }
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "E792",
+      "title": "Feira Induspar 2027",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Pinhais · Expotrade Convention · Rod. João Leopoldo Jacomel 10454",
+      "source": "https://feirainduspar.com.br/visitantes",
+      "references": [],
+      "start": "2027-08-03",
+      "end": "2027-08-06",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Техническая выставка для специалистов. До 16 лет вход закрыт даже со взрослым.",
+      "mat": "Нет. Вход с 16 лет по общему правилу.",
+      "osc": "Нет. Вход с 16 лет по общему правилу.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "Техническая выставка для специалистов. До 16 лет вход закрыт даже со взрослым.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно для профильных посетителей с аккредитацией.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P4 — поездка взрослого",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "3–6 августа, ежедневно 14:00–21:00. Автоматизация, искусственный интеллект, станки и метрология.",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Техническая выставка для специалистов. До 16 лет вход закрыт даже со взрослым.",
+      "adult_entry": "Бесплатно для профильных посетителей с аккредитацией.",
+      "highlights": [
+        "3–6 августа, ежедневно 14:00–21:00. Автоматизация, искусственный интеллект, станки и метрология."
+      ],
+      "exhibitor_note": "Состав участников уточнить по программе.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2027-08-03",
+          "start_time": "14:00",
+          "end_time": "21:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-08-03T17:00:00Z",
+          "end_utc": "2027-08-04T00:00:00Z"
+        },
+        {
+          "date": "2027-08-04",
+          "start_time": "14:00",
+          "end_time": "21:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-08-04T17:00:00Z",
+          "end_utc": "2027-08-05T00:00:00Z"
+        },
+        {
+          "date": "2027-08-05",
+          "start_time": "14:00",
+          "end_time": "21:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-08-05T17:00:00Z",
+          "end_utc": "2027-08-06T00:00:00Z"
+        },
+        {
+          "date": "2027-08-06",
+          "start_time": "14:00",
+          "end_time": "21:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-08-06T17:00:00Z",
+          "end_utc": "2027-08-07T00:00:00Z"
+        }
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "E793",
+      "title": "REC’n’Play 2026 · Family Technology Festival",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Recife · Bairro do Recife",
+      "source": "https://recnplay.pe/duvidas-frequentes/",
+      "references": [
+        {
+          "url": "https://recnplay.pe/programacao/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://recnplay.pe/o-futuro-nasce-aqui-inscricoes-abertas-para-o-recnplay-2026/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-11",
+      "end": "2026-11-14",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "mat": "Да для семейного посещения. Возраст и язык конкретных занятий уточнить.",
+      "osc": "Да для семейного посещения. Возраст и язык конкретных занятий уточнить.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно по регистрации.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "11–14 ноября, исторический центр Ресифи. Fab Lab Rec проводит робототехнику без электроники, Divertec Educacional показывает роботов-крабов Manguerobô.",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "national",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "adult_entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "highlights": [
+        "11–14 ноября, исторический центр Ресифи. Fab Lab Rec проводит робототехнику без электроники, Divertec Educacional показывает роботов-крабов Manguerobô."
+      ],
+      "exhibitor_note": "Детская программа подтверждена. Время, место, возраст и наличие мест у каждой активности смотрите в живой афише.",
+      "exhibitors": [
+        "Fab Lab Rec",
+        "Divertec Educacional"
+      ],
+      "exhibitor_directory_url": "https://superapp.jalanlive.com/recnplay2026/agenda",
+      "related_ids": [
+        "L969",
+        "L970"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L969",
+      "title": "REC’n’Play · Jornada Criativa · Robótica desplugada",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Recife · Fab Lab Rec",
+      "source": "https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/",
+      "references": [
+        {
+          "url": "https://recnplay.pe/duvidas-frequentes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://superapp.jalanlive.com/recnplay2026/agenda",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "gear": "Задачи на логику и робототехнику без электронных устройств.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно по регистрации.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "holiday_workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "parent_event_id": "E793",
+      "related_ids": [
+        "E793"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L970",
+      "title": "REC’n’Play · Manguerobô · Divertec Educacional",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Recife · Bairro do Recife",
+      "source": "https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/",
+      "references": [
+        {
+          "url": "https://recnplay.pe/duvidas-frequentes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://superapp.jalanlive.com/recnplay2026/agenda",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "gear": "Демонстрация роботов-крабов, которые играют manguebeat.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно по регистрации.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "holiday_workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "parent_event_id": "E793",
+      "related_ids": [
+        "E793"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5450",
+      "title": "MCTIA 2026 · International Student Projects",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Ananindeua · Centro de Convenções do SESI · Rod. Mário Covas km 2",
+      "source": "https://www.mctia.com/inscricao.php",
+      "references": [
+        {
+          "url": "https://www.mctia.com/programacao.php",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "2026-08-25",
+      "age": "Включены дошкольная группа и начальная школа. Категория зависит от ступени образования и проекта.",
+      "mat": "Набор на этот выпуск закрыт.",
+      "osc": "Набор на этот выпуск закрыт.",
+      "format": "",
+      "entry": "Международная выставка проектов. Заявки продлевали до 25 августа 2026. В ноябре выступают отобранные финалисты.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "100 BRL с участника финала за аккредитацию и комплект. Транспорт и проживание отдельно.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Условия следующего выпуска будут проверены после публикации.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Аккредитация 23 ноября, презентации 24–26 ноября, награждение 27 ноября. В программе проекты, maker-зона, роботы и логические игры.",
+      "themes": [
+        "science",
+        "technology",
+        "robotics",
+        "makers"
+      ],
+      "scope": "international",
+      "participation": "unknown",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "deadline_label": "Подача проекта",
+      "related_ids": [
+        "E794"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "E794",
+      "title": "MCTIA 2026 · Public Project Exhibition",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Ananindeua · Centro de Convenções do SESI · Rod. Mário Covas km 2",
+      "source": "https://www.mctia.com/programacao.php",
+      "references": [
+        {
+          "url": "https://www.mctia.com/inscricao.php",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-24",
+      "end": "2026-11-26",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Организатор публикует часы посещения стендов. Тариф, необходимость пропуска и правила входа с детьми уточнить отдельно.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "Организатор публикует часы посещения стендов. Тариф, необходимость пропуска и правила входа с детьми уточнить отдельно.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Уточнить у организатора.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "24 ноября 15:00–20:00, 25 ноября 08:00–11:00 и 14:00–19:00, 26 ноября 14:00–20:00. Площадка в Ананиндеуа.",
+      "themes": [
+        "science",
+        "technology",
+        "robotics",
+        "makers"
+      ],
+      "scope": "international",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Организатор публикует часы посещения стендов. Тариф, необходимость пропуска и правила входа с детьми уточнить отдельно.",
+      "adult_entry": "Организатор публикует часы посещения стендов. Тариф, необходимость пропуска и правила входа с детьми уточнить отдельно.",
+      "highlights": [
+        "24 ноября 15:00–20:00, 25 ноября 08:00–11:00 и 14:00–19:00, 26 ноября 14:00–20:00. Площадка в Ананиндеуа."
+      ],
+      "exhibitor_note": "Состав участников уточнить по программе.",
+      "exhibitors": [],
+      "public_days": [
+        {
+          "date": "2026-11-24",
+          "start_time": "15:00",
+          "end_time": "20:00",
+          "timezone": "America/Belem",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T18:00:00Z",
+          "end_utc": "2026-11-24T23:00:00Z"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "08:00",
+          "end_time": "11:00",
+          "timezone": "America/Belem",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T11:00:00Z",
+          "end_utc": "2026-11-25T14:00:00Z"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "14:00",
+          "end_time": "19:00",
+          "timezone": "America/Belem",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T17:00:00Z",
+          "end_utc": "2026-11-25T22:00:00Z"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "14:00",
+          "end_time": "20:00",
+          "timezone": "America/Belem",
+          "ical_timed": true,
+          "start_utc": "2026-11-26T17:00:00Z",
+          "end_utc": "2026-11-26T23:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "C5450"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5451",
+      "title": "FEMIC Júnior 2026 · Virtual presentations",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Online · Brazil",
+      "source": "https://femic.com.br/datas-importantes/",
+      "references": [
+        {
+          "url": "https://femic.com.br/datas-importantes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://femic.com.br/regras-de-participacao-virtual/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-10",
+      "end": "2026-11-12",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "2026-08-20",
+      "age": "Дошкольники и учащиеся 1–5 классов государственных или частных школ Бразилии и других стран.",
+      "mat": "Набор на этот выпуск закрыт.",
+      "osc": "Набор на этот выпуск закрыт.",
+      "format": "От 1 до 3 учащихся и от 1 до 3 наставников. Наставнику от 18 лет, он должен учиться или иметь высшее образование.",
+      "entry": "Подача до 20 августа 2026, подтверждение выбранных работ до 20 октября. В ноябре выступают прошедшие отбор.",
+      "gear": "Научный постер, видео и отчёт о проекте. Работу презентуют сами ученики.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Подача проекта бесплатная. Транспорт и проживание очной команды оплачиваются отдельно.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Условия следующего выпуска будут проверены после публикации.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "science",
+        "technology",
+        "engineering",
+        "makers"
+      ],
+      "scope": "international",
+      "participation": "individual_or_team",
+      "admission_kind": "invitation",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Подача проекта",
+      "delivery_mode": "online",
+      "team_min": 1,
+      "team_max": 3,
+      "related_ids": [
+        "C5452"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5452",
+      "title": "FEMIC Júnior 2026 · In-person presentations",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Belo Horizonte · FAE-UEMG",
+      "source": "https://femic.com.br/projetos-presenciais/",
+      "references": [
+        {
+          "url": "https://femic.com.br/datas-importantes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://femic.com.br/regras-de-participacao-virtual/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-17",
+      "end": "2026-11-18",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "2026-08-20",
+      "age": "Дошкольники и учащиеся 1–5 классов государственных или частных школ Бразилии и других стран.",
+      "mat": "Набор на этот выпуск закрыт.",
+      "osc": "Набор на этот выпуск закрыт.",
+      "format": "От 1 до 3 учащихся и от 1 до 3 наставников. Наставнику от 18 лет, он должен учиться или иметь высшее образование.",
+      "entry": "Подача до 20 августа 2026, подтверждение выбранных работ до 20 октября. В ноябре выступают прошедшие отбор.",
+      "gear": "Научный постер, видео и отчёт о проекте. Работу презентуют сами ученики.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Подача проекта бесплатная. Транспорт и проживание очной команды оплачиваются отдельно.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Условия следующего выпуска будут проверены после публикации.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "",
+      "themes": [
+        "science",
+        "technology",
+        "engineering",
+        "makers"
+      ],
+      "scope": "international",
+      "participation": "individual_or_team",
+      "admission_kind": "invitation",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Подача проекта",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "team_max": 3,
+      "related_ids": [
+        "C5451"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5453",
+      "title": "Liga dos Robôs 2026 · Sumô Estoura Balão",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Campo Limpo Paulista · Complexo Esportivo",
+      "source": "https://www.ligadosrobos.com.br/",
+      "references": [],
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "entry": "Организатор назначает команде один из дней 2–3 декабря. Открытие подачи было 5 августа 2026 в 12:00, срок закрытия и доступность формы уточнить.",
+      "gear": "Роботы на арене с задачей лопнуть шар соперника.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Общий план дня 08:00–16:00. Точное время и условия каждой дисциплины назначаются отдельно.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "related_ids": [
+        "C5454",
+        "C5455"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5454",
+      "title": "Liga dos Robôs 2026 · Futebol de Robôs",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Campo Limpo Paulista · Complexo Esportivo",
+      "source": "https://www.ligadosrobos.com.br/",
+      "references": [],
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "entry": "Организатор назначает команде один из дней 2–3 декабря. Открытие подачи было 5 августа 2026 в 12:00, срок закрытия и доступность формы уточнить.",
+      "gear": "Командный футбол роботов. Формат поля и управление сверить с регламентом.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Общий план дня 08:00–16:00. Точное время и условия каждой дисциплины назначаются отдельно.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "related_ids": [
+        "C5453",
+        "C5455"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5455",
+      "title": "Liga dos Robôs 2026 · Mostra de Projetos",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Campo Limpo Paulista · Complexo Esportivo",
+      "source": "https://www.ligadosrobos.com.br/",
+      "references": [],
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Заявка от школы с учителем-наставником. Возраст, класс, численность команды и доступ приезжих школ уточнить по edital.",
+      "entry": "Организатор назначает команде один из дней 2–3 декабря. Открытие подачи было 5 августа 2026 в 12:00, срок закрытия и доступность формы уточнить.",
+      "gear": "Школьная презентация технологических проектов и прототипов.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Общий план дня 08:00–16:00. Точное время и условия каждой дисциплины назначаются отдельно.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "related_ids": [
+        "C5453",
+        "C5454"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5456",
+      "title": "Robótica Brasil 2026 · TJR Annual Final",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo · Novotel Center Norte Convention Center",
+      "source": "https://www.torneiojrobotica.org/PROGRAMA%C3%87%C3%83O-ROB%C3%93TICA-BRASIL-2026/",
+      "references": [
+        {
+          "url": "https://www.torneiojrobotica.org/PROGRAMA%C3%87%C3%83O-ROB%C3%93TICA-BRASIL-2026/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://internationaltournamentofrobots.org/BRAZIL-ITR-QUALIFIER/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1QGKU97rcxHn6-rDpV6v15ATyRaP3Javb",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.torneiojrobotica.org/CALEND%C3%81RIO-2026/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 6 лет для школьников по общему правилу. Nível 1: все участники младше 12 лет. Возраст считают по году рождения.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Команда 2–4 участника. Дисциплины имеют отдельные возрастные группы.",
+      "entry": "В финале TJR участвуют команды, прошедшие местный отбор. Право подачи команды из другой страны, статус заявки и день конкретной дисциплины уточнить.",
+      "gear": "Автономные роботы: сумо, спасение, танец и перетягивание каната. Дисциплину для младшей категории сверить по регламенту.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Организатор описывает бесплатное участие. Условия взноса на странице финала и расходы команды уточнить.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Общее окно 5–6 декабря в программе организатора. В кратком блоке ITR указано 5 декабря. Связанная таблица матчей относится к 2023, часы 2026 требуют подтверждения.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "team_min": 2,
+      "team_max": 4,
+      "related_ids": [
+        "C5457"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "C5457",
+      "title": "Robótica Brasil 2026 · Brazil ITR National Qualifier",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo · Novotel Center Norte Convention Center",
+      "source": "https://internationaltournamentofrobots.org/BRAZIL-ITR-QUALIFIER/",
+      "references": [
+        {
+          "url": "https://www.torneiojrobotica.org/PROGRAMA%C3%87%C3%83O-ROB%C3%93TICA-BRASIL-2026/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://internationaltournamentofrobots.org/BRAZIL-ITR-QUALIFIER/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1QGKU97rcxHn6-rDpV6v15ATyRaP3Javb",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.torneiojrobotica.org/CALEND%C3%81RIO-2026/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 6 лет для школьников по общему правилу. Nível 1: все участники младше 12 лет. Возраст считают по году рождения.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Команда 2–4 участника. Дисциплины имеют отдельные возрастные группы.",
+      "entry": "Бразильский национальный отбор ITR. Путь к Grand Slam через национальный результат. Условия отдельного ITR Open BR и квоты иностранной команды уточнить.",
+      "gear": "Автономные роботы: сумо, спасение, танец и перетягивание каната. Дисциплину для младшей категории сверить по регламенту.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Организатор описывает бесплатное участие. Условия взноса на странице финала и расходы команды уточнить.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Общее окно 5–6 декабря в программе организатора. В кратком блоке ITR указано 5 декабря. Связанная таблица матчей относится к 2023, часы 2026 требуют подтверждения.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "team_min": 2,
+      "team_max": 4,
+      "related_ids": [
+        "C5456"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "E795",
+      "title": "Festival Regional SESI de Educação 2026 · Pinhais",
+      "block": "События",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Pinhais · Expotrade Convention Center",
+      "source": "https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao",
+      "references": [
+        {
+          "url": "https://edu.sesipr.org.br/pt/web/colegio-sesi/festival-regional-educacao",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://ftc-events.firstinspires.org/2026/BRPIQ",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "period": "",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Организатор подтверждает программу для публики. Условия аккредитации, цены и вход с детьми нужно проверить отдельно.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "Посещение выставки или фестиваля.",
+      "entry": "Организатор подтверждает программу для публики. Условия аккредитации, цены и вход с детьми нужно проверить отдельно.",
+      "gear": "",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Уточнить у организатора.",
+      "level": "Выставка компаний и технологий",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "12 ноября открытие 09:00, соревнования 09:30–18:00. 13 ноября робототехника 08:00–18:00, награждение 16:00.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Организатор подтверждает программу для публики. Условия аккредитации, цены и вход с детьми нужно проверить отдельно.",
+      "adult_entry": "Организатор подтверждает программу для публики. Условия аккредитации, цены и вход с детьми нужно проверить отдельно.",
+      "highlights": [
+        "12 ноября открытие 09:00, соревнования 09:30–18:00. 13 ноября робототехника 08:00–18:00, награждение 16:00."
+      ],
+      "exhibitor_note": "Состав участников уточнить по программе.",
+      "exhibitors": [],
+      "related_ids": [
+        "C3079"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L971",
+      "title": "Avenues São Paulo · Explorers Nature Camp · watch",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo · Avenues",
+      "source": "https://www.avenues.org/sao-paulo/student-life/school-break-programs",
+      "references": [],
+      "start": "",
+      "end": "",
+      "period": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "3–11 лет по опубликованному формату, допускаются учащиеся других школ.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "gear": "Проекты на природе, чтение, письмо и математика на английском, экскурсия по зелёным зонам Сан-Паулу.",
+      "language": "В опубликованном формате занятия полностью на английском. Язык следующего набора сверить с организатором.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "cost": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "camp_dossier_slug": "avenues-sao-paulo-nature-camp-watch",
+      "camp_programme_id": "CP2383",
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
     },
     {
       "id": "CP047-20270103-20270108",
@@ -58622,6 +59860,342 @@
       ]
     },
     {
+      "id": "CP2382-20270111-20270115-full",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · Полная смена · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1815 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T11:00:00Z",
+          "end_utc": "2027-01-11T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T11:00:00Z",
+          "end_utc": "2027-01-12T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T11:00:00Z",
+          "end_utc": "2027-01-13T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T11:00:00Z",
+          "end_utc": "2027-01-14T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T11:00:00Z",
+          "end_utc": "2027-01-15T20:00:00Z",
+          "topic": "Полная смена"
+        }
+      ]
+    },
+    {
+      "id": "CP2382-20270111-20270115-morning",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · Утро · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1320 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T11:00:00Z",
+          "end_utc": "2027-01-11T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T11:00:00Z",
+          "end_utc": "2027-01-12T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T11:00:00Z",
+          "end_utc": "2027-01-13T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T11:00:00Z",
+          "end_utc": "2027-01-14T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T11:00:00Z",
+          "end_utc": "2027-01-15T16:00:00Z",
+          "topic": "Утро"
+        }
+      ]
+    },
+    {
+      "id": "CP2382-20270111-20270115-afternoon",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · День · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1320 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T15:00:00Z",
+          "end_utc": "2027-01-11T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T15:00:00Z",
+          "end_utc": "2027-01-12T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T15:00:00Z",
+          "end_utc": "2027-01-13T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T15:00:00Z",
+          "end_utc": "2027-01-14T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T15:00:00Z",
+          "end_utc": "2027-01-15T20:00:00Z",
+          "topic": "День"
+        }
+      ]
+    },
+    {
       "id": "E298",
       "block": "События",
       "title": "Brasil Game Show 2027 · public exhibition",
@@ -59050,17 +60624,17 @@
       "iso": [
         "BRA"
       ],
-      "city": "Pinhais/PR",
+      "city": "Pinhais · Expotrade Convention Center",
       "start": "2026-11-12",
       "end": "2026-11-13",
-      "deadline": "",
+      "deadline": "2026-10-26",
       "period": "",
       "date_status": "Подтверждено",
       "age": "FLL Challenge в SESI: 9–15 лет. FTC в SESI: 12–18 лет. STEM Racing: программа SESI для своих учащихся от 9 лет. Срез и тип команды уточнить по этапу.",
-      "mat": "Условно. Проверить возрастной срез, школу или клуб и список групп на площадке.",
-      "osc": "По опубликованным возрастам SESI порог для младших групп начинается с 9 лет. Состав местных групп уточнить.",
+      "mat": "Набор на этот выпуск закрыт.",
+      "osc": "Набор на этот выпуск закрыт.",
       "format": "Школьные и клубные команды по правилам группы этапа.",
-      "entry": "Командный отбор. Уточнить регистрацию школы или клуба, возрастной срез и допуск иностранной команды.",
+      "entry": "Заявки команд принимали 19–26 октября 2026. Группы школ SESI и других школ, НКО и независимых команд штата Парана. STEM Racing только для команд SESI Paraná.",
       "gear": "FLL, FTC, STEM Racing",
       "language": "Язык судейства, документов и поддержка для иностранных команд требуют подтверждения.",
       "languages": [],
@@ -59070,8 +60644,8 @@
       "level": "Региональный отбор SESI · сезон 2026/27",
       "reward": "Региональная заявка и отбор ведут к национальному фестивалю по опубликованным правилам.",
       "priority": "P2 — маршрут регионального отбора",
-      "action": "Командный отбор. Уточнить регистрацию школы или клуба, возрастной срез и допуск иностранной команды.",
-      "source": "https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/",
+      "action": "Заявки команд принимали 19–26 октября 2026. Группы школ SESI и других школ, НКО и независимых команд штата Парана. STEM Racing только для команд SESI Paraná.",
+      "source": "https://ftc-events.firstinspires.org/2026/BRPIQ",
       "references": [
         {
           "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
@@ -59084,12 +60658,20 @@
         {
           "url": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica/stem-racing",
           "label": "Возрастные категории SESI"
+        },
+        {
+          "url": "https://edu.sesipr.org.br/pt/web/colegio-sesi/festival-regional-educacao",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao",
+          "label": "Официальная страница организатора или правила входа."
         }
       ],
       "proof": "Дата, город и дисциплины сверены по опубликованному календарю SESI. Допуск и расписание площадки подтвердить отдельно.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-09",
       "status": "Идея",
-      "note": "Обозначение группы сохранено из расписания. Доступ для школьных, клубных и независимых команд зависит от группы.",
+      "note": "12 ноября открытие 09:00, соревнования 09:30–18:00. 13 ноября робототехника 08:00–18:00, награждение 16:00.",
       "themes": [
         "robotics",
         "engineering",
@@ -59100,7 +60682,11 @@
       "participation": "team",
       "admission_kind": "qualifier",
       "evidence_level": "event_page",
-      "date_scope": "competition"
+      "date_scope": "competition",
+      "deadline_label": "Регистрация",
+      "related_ids": [
+        "E795"
+      ]
     },
     {
       "id": "C3080",

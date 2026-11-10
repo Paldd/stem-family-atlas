@@ -1291,10 +1291,10 @@ Matvey: No. Edad mínima de 16 años.
 Oscar: No. Edad mínima de 16 años.
 Idioma: Idioma de la etapa específica y juez de primera instancia
 Entrada: Gratis para profesionales de la industria, pases y photo ID.
-Precio: Gratis para profesionales del sector con acreditación y documento de identidad con foto.
+Costo: Acreditación general gratuita para los 5 días. Pase VIP de 85 BRL según las condiciones publicadas.
 Limitaciones: 4–7 de mayo de 10:00 a 19:00, 8 de mayo de 09:00 a 17:00. São Paulo Expo.
-Fuente: https://www.expomafe.com.br/
-Se ha comprobado: 2026-11-08
+Fuente: https://www.expomafe.com.br/a-feira/faq-expomafe/
+Se ha comprobado: 2026-11-09
 
 ### E110 · Web Summit Rio 2027
 
@@ -6778,7 +6778,7 @@ Oscar: No encaja en la franja de edad de este grupo.
 Idioma: Reglas en portugués. Confirmar el idioma de la entrevista y el jurado para equipos extranjeros.
 Acceso: Selección interna y solicitud por el departamento del instituto federal o IFCE. La corrección fija el plazo en 9 de noviembre de 2026. No indica hora exacta.
 Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita.
+Condiciones: La regla general de inscripción exige Ensino Médio o Ensino Superior y selección a través de IF o IFCE. Algunos anexos de pruebas mencionan Ensino Fundamental. Ante el conflicto, el acceso del grupo menor requiere confirmación escrita. El festival figura como Edição Nordeste de LNR del 9 al 11 de diciembre. Para este torneo rigen el reglamento CONNEPI y la enmienda con plazo del 9 de noviembre.
 Fuente: https://portal.ifce.edu.br/noticias/ifce-sedia-congresso-norte-nordeste-de-pesquisa-e-inovacao-em-2026/
 Se ha comprobado: 2026-11-09
 
@@ -6791,7 +6791,7 @@ Oscar: Condicional. Confirmar edad y acceso según las bases de la edición eleg
 Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
 Acceso: El programa incluye Mostra Tecnológica, juegos y proyectos científicos. Antes de viajar, confirmar la inscripción de visitantes y los días de acceso familiar.
 Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: Las fechas corresponden a todo el congreso. Confirmar por separado el acceso como visitante y las reglas de participación en juegos.
+Condiciones: El calendario IFCE indica horario general del congreso de 08:00 a 17:00, del 9 al 11 de diciembre. Confirme por separado horarios de Mostra Tecnológica y Arena Gamer y acceso de menores.
 Fuente: https://www.even3.com.br/connepi-fortaleza-2026/
 Se ha comprobado: 2026-11-09
 
@@ -7131,6 +7131,227 @@ Acceso: El formulario pide DNI o Carnet de extranjería. Confirme el procedimien
 Costo: En la presentación de Arequipa se anunció un descuento del 20% hasta el 15 de diciembre. Precio base y aplicación al módulo pendientes.
 Condiciones: El anuncio local de lanzamiento indica el 4 o 5 de enero de 2027. La sede aún no publica día, horario y fin concretos por módulo.
 Fuente: https://vacacionesensenati.com/
+Se ha comprobado: 2026-11-09
+
+### E790 · Futurecom 2027
+
+Fecha: 2027-10-05 — 2027-10-07
+Edad: Menores de 18 años con padre, madre o tutor legal y autorización en la entrada. Se requiere entrada desde los 12 años.
+Matvey: Sí para la visita familiar. Confirme la edad y el idioma de las actividades concretas.
+Oscar: Sí para la visita familiar. Confirme la edad y el idioma de las actividades concretas.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Menores de 18 años con padre, madre o tutor legal y autorización en la entrada. Se requiere entrada desde los 12 años.
+Costo: Feria y congreso de pago para adultos. Consulte la tarifa del pase elegido con la taquilla.
+Condiciones: Feria de 10:00 a 20:00 y congreso de 09:00 a 18:00. Las preguntas frecuentes destacan AI & Data Economy. Confirme el programa de charlas de 2027.
+Fuente: https://www.futurecom.com.br/faq/
+Se ha comprobado: 2026-11-09
+
+### E791 · Intermach 2027
+
+Fecha: 2027-07-13 — 2027-07-16
+Edad: Desde los 14 años para profesionales y estudiantes del sector. Los menores de 14 años no entran ni con un adulto.
+Matvey: No. Entrada a partir de 14 años según la regla general.
+Oscar: No. Entrada a partir de 14 años según la regla general.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Desde los 14 años para profesionales y estudiantes del sector. Los menores de 14 años no entran ni con un adulto.
+Costo: Gratis para visitantes del sector con acreditación.
+Condiciones: 13–16 de julio, de 13:00 a 20:00 cada día. Máquinas herramienta, automatización industrial, software y producción robotizada.
+Fuente: https://intermach.com.br/quero-visitar/
+Se ha comprobado: 2026-11-09
+
+### E792 · Feira Induspar 2027
+
+Fecha: 2027-08-03 — 2027-08-06
+Edad: Feria técnica para profesionales. Los menores de 16 años no entran ni con un adulto.
+Matvey: No. Entrada a partir de 16 años según la regla general.
+Oscar: No. Entrada a partir de 16 años según la regla general.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Feria técnica para profesionales. Los menores de 16 años no entran ni con un adulto.
+Costo: Gratis para visitantes del sector con acreditación.
+Condiciones: 3–6 de agosto, de 14:00 a 21:00 cada día. Automatización, inteligencia artificial, máquinas herramienta y metrología.
+Fuente: https://feirainduspar.com.br/visitantes
+Se ha comprobado: 2026-11-09
+
+### E793 · REC’n’Play 2026 · Family Technology Festival
+
+Fecha: 2026-11-11 — 2026-11-14
+Edad: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Matvey: Sí para la visita familiar. Confirme la edad y el idioma de las actividades concretas.
+Oscar: Sí para la visita familiar. Confirme la edad y el idioma de las actividades concretas.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Costo: Gratis con inscripción.
+Condiciones: 11–14 de noviembre, centro histórico de Recife. Fab Lab Rec ofrece robótica sin electrónica y Divertec Educacional muestra los robots cangrejo Manguerobô.
+Fuente: https://recnplay.pe/duvidas-frequentes/
+Se ha comprobado: 2026-11-09
+
+### L969 · REC’n’Play · Jornada Criativa · Robótica desplugada
+
+Fecha: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Edad: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Costo: Gratis con inscripción.
+Condiciones: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Fuente: https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/
+Se ha comprobado: 2026-11-09
+
+### L970 · REC’n’Play · Manguerobô · Divertec Educacional
+
+Fecha: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Edad: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Costo: Gratis con inscripción.
+Condiciones: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Fuente: https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/
+Se ha comprobado: 2026-11-09
+
+### C5450 · MCTIA 2026 · International Student Projects
+
+Fecha: 2026-11-23 国 2026-11-27
+Edad: Incluye educación infantil y primaria. La categoría depende del nivel escolar y el proyecto.
+Matvey: La inscripción para esta edición está cerrada.
+Oscar: La inscripción para esta edición está cerrada.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Feria internacional de proyectos. Las solicitudes se ampliaron hasta el 25 de agosto de 2026. En noviembre presentan los finalistas seleccionados.
+Costo: 100 BRL por participante finalista por acreditación y kit. Transporte y alojamiento por separado.
+Condiciones: Acreditación el 23 de noviembre, presentaciones del 24 al 26 y premiación el 27. Hay proyectos, zona maker, robots y juegos de lógica.
+Fuente: https://www.mctia.com/inscricao.php
+Se ha comprobado: 2026-11-09
+
+### E794 · MCTIA 2026 · Public Project Exhibition
+
+Fecha: 2026-11-24 — 2026-11-26
+Edad: El organizador publica horarios de visita a los stands. Confirme por separado tarifa, pase y reglas de acceso de menores.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El organizador publica horarios de visita a los stands. Confirme por separado tarifa, pase y reglas de acceso de menores.
+Costo: Consulte al organizador.
+Condiciones: 24 de noviembre de 15:00 a 20:00, 25 de noviembre de 08:00 a 11:00 y de 14:00 a 19:00, 26 de noviembre de 14:00 a 20:00. Sede en Ananindeua.
+Fuente: https://www.mctia.com/programacao.php
+Se ha comprobado: 2026-11-09
+
+### C5451 · FEMIC Júnior 2026 · Virtual presentations
+
+Fecha: 2026-11-10 — 2026-11-12
+Edad: Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.
+Matvey: La inscripción para esta edición está cerrada.
+Oscar: La inscripción para esta edición está cerrada.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.
+Costo: Presentación del proyecto gratuita. Transporte y alojamiento del equipo presencial por separado.
+Limitaciones:
+Fuente: https://femic.com.br/datas-importantes/
+Se ha comprobado: 2026-11-09
+
+### C5452 · FEMIC Júnior 2026 · In-person presentations
+
+Fecha: 2026-11-17 — 2026-11-18
+Edad: Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.
+Matvey: La inscripción para esta edición está cerrada.
+Oscar: La inscripción para esta edición está cerrada.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.
+Costo: Presentación del proyecto gratuita. Transporte y alojamiento del equipo presencial por separado.
+Limitaciones:
+Fuente: https://femic.com.br/projetos-presenciais/
+Se ha comprobado: 2026-11-09
+
+### C5453 · Liga dos Robôs 2026 · Sumô Estoura Balão
+
+Fecha: 2026-12-02 国 2026-12-03
+Edad: Inscripción por el colegio con docente mentor. Confirme edad, grado, tamaño de equipo y acceso de centros visitantes en el reglamento.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: La organización asigna al equipo uno de los días 2–3 de diciembre. El portal abrió el 5 de agosto de 2026 a las 12:00; confirme el cierre y la disponibilidad del formulario.
+Costo:
+Condiciones: Horario general de 08:00 a 16:00. La hora y las condiciones de cada disciplina se asignan por separado.
+Fuente: https://www.ligadosrobos.com.br/
+Se ha comprobado: 2026-11-09
+
+### C5454 · Liga dos Robôs 2026 · Futebol de Robôs
+
+Fecha: 2026-12-02 国 2026-12-03
+Edad: Inscripción por el colegio con docente mentor. Confirme edad, grado, tamaño de equipo y acceso de centros visitantes en el reglamento.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: La organización asigna al equipo uno de los días 2–3 de diciembre. El portal abrió el 5 de agosto de 2026 a las 12:00; confirme el cierre y la disponibilidad del formulario.
+Costo:
+Condiciones: Horario general de 08:00 a 16:00. La hora y las condiciones de cada disciplina se asignan por separado.
+Fuente: https://www.ligadosrobos.com.br/
+Se ha comprobado: 2026-11-09
+
+### C5455 · Liga dos Robôs 2026 · Mostra de Projetos
+
+Fecha: 2026-12-02 国 2026-12-03
+Edad: Inscripción por el colegio con docente mentor. Confirme edad, grado, tamaño de equipo y acceso de centros visitantes en el reglamento.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: La organización asigna al equipo uno de los días 2–3 de diciembre. El portal abrió el 5 de agosto de 2026 a las 12:00; confirme el cierre y la disponibilidad del formulario.
+Costo:
+Condiciones: Horario general de 08:00 a 16:00. La hora y las condiciones de cada disciplina se asignan por separado.
+Fuente: https://www.ligadosrobos.com.br/
+Se ha comprobado: 2026-11-09
+
+### C5456 · Robótica Brasil 2026 · TJR Annual Final
+
+Fecha: 2026-12-05 — 2026-12-06
+Edad: Desde 6 años para escolares según la regla general. Nivel 1: todos los integrantes menores de 12 años. Se calcula la edad por año de nacimiento.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: La final TJR reúne equipos clasificados en etapas locales. Confirme acceso de equipos extranjeros, estado de inscripción y día de cada disciplina.
+Costo: El organizador describe participación gratuita. Confirme las condiciones de contribución de la página final y los gastos del equipo.
+Condiciones: Ventana general 5–6 de diciembre en el programa. La ficha breve de ITR indica el 5 de diciembre. La tabla de partidos enlazada es de 2023; confirme horarios de 2026.
+Fuente: https://www.torneiojrobotica.org/PROGRAMA%C3%87%C3%83O-ROB%C3%93TICA-BRASIL-2026/
+Se ha comprobado: 2026-11-09
+
+### C5457 · Robótica Brasil 2026 · Brazil ITR National Qualifier
+
+Fecha: 2026-12-05 — 2026-12-06
+Edad: Desde 6 años para escolares según la regla general. Nivel 1: todos los integrantes menores de 12 años. Se calcula la edad por año de nacimiento.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: Clasificatorio nacional de ITR en Brasil. La vía al Grand Slam depende del resultado nacional. Confirme reglas del ITR Open BR separado y cupos de equipos extranjeros.
+Costo: El organizador describe participación gratuita. Confirme las condiciones de contribución de la página final y los gastos del equipo.
+Condiciones: Ventana general 5–6 de diciembre en el programa. La ficha breve de ITR indica el 5 de diciembre. La tabla de partidos enlazada es de 2023; confirme horarios de 2026.
+Fuente: https://internationaltournamentofrobots.org/BRAZIL-ITR-QUALIFIER/
+Se ha comprobado: 2026-11-09
+
+### E795 · Festival Regional SESI de Educação 2026 · Pinhais
+
+Fecha: 2026-11-12 — 2026-11-13
+Edad: El organizador confirma programación para el público. Compruebe por separado acreditación, precio y acceso con menores.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Acceso: El organizador confirma programación para el público. Compruebe por separado acreditación, precio y acceso con menores.
+Costo: Consulte al organizador.
+Condiciones: El 12 de noviembre, apertura a las 09:00 y competición de 09:30 a 18:00. El 13 de noviembre, robótica de 08:00 a 18:00 y premiación a las 16:00.
+Fuente: https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao
+Se ha comprobado: 2026-11-09
+
+### L971 · Avenues São Paulo · Explorers Nature Camp · watch
+
+Fecha: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Edad: De 3 a 11 años según el formato publicado. Admite alumnado de otros colegios.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Idioma: En el formato publicado todas las actividades son en inglés. Confirme el idioma de la próxima edición.
+Acceso: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Costo: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Condiciones: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Fuente: https://www.avenues.org/sao-paulo/student-life/school-break-programs
 Se ha comprobado: 2026-11-09
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
@@ -10071,6 +10292,45 @@ Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
 Se ha comprobado: 2026-11-09
 
+### CP2382-20270111-20270115-full · Escola Eleva São Paulo · Summer Camp 2027 · Turno completo · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Costo: 2027 · 1815 BRL · cargos y condiciones en la ficha
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2382-20270111-20270115-morning · Escola Eleva São Paulo · Summer Camp 2027 · Mañana · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2382-20270111-20270115-afternoon · Escola Eleva São Paulo · Summer Camp 2027 · Tarde · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
 ### E298 · Brasil Game Show 2027 · public exhibition
 
 Fecha: 2027-10-09 — 2027-10-12
@@ -10166,14 +10426,14 @@ Se ha comprobado: 2026-11-07
 
 Fecha: 2026-11-12 — 2026-11-13
 edad: FLL Challenge en SESI: 9–15 años. FTC en SESI: 12–18 años. STEM Racing: programa SESI para sus estudiantes desde 9 años. Confirmar corte y tipo de equipo en la sede.
-Matvey: Condicional. Confirmar fecha de corte, colegio o club y grupos de la sede.
-Oscar: En las edades publicadas por SESI los grupos iniciales empiezan desde 9 años. Confirmar grupos de la sede.
+Matvey: La inscripción para esta edición está cerrada.
+Oscar: La inscripción para esta edición está cerrada.
 Idioma: Confirmar idioma de arbitraje, documentos y apoyo a equipos extranjeros.
-Acceso: Clasificatoria por equipos. Confirmar registro de colegio o club, fecha de corte y admisión de equipo extranjero.
+Acceso: Solicitudes de equipos del 19 al 26 de octubre de 2026. Grupos de colegios SESI y de otros centros, ONG y equipos independientes de Paraná. STEM Racing solo para equipos de SESI Paraná.
 Precio: Confirmar cuota, equipo y viaje con la organización de la categoría elegida.
-Limitaciones: Se conserva el nombre del grupo del calendario. El acceso de colegios, clubes y equipos independientes depende del grupo.
-Fuente: https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
-Se ha comprobado: 2026-11-07
+Condiciones: El 12 de noviembre, apertura a las 09:00 y competición de 09:30 a 18:00. El 13 de noviembre, robótica de 08:00 a 18:00 y premiación a las 16:00.
+Fuente: https://ftc-events.firstinspires.org/2026/BRPIQ
+Se ha comprobado: 2026-11-09
 
 ### C3080 · SESI CANOPY · Vitória/ES · FLL, STEM Racing
 

@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5812,
-      "holiday": 5177,
+      "records": 5818,
+      "holiday": 5183,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1682,
+      "en_es_instruction": 1683,
       "en_es_support": 67,
-      "family_instruction": 1682,
+      "family_instruction": 1683,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,
@@ -52460,6 +52460,176 @@
       "date_scope": "programme_watch",
       "camp_dossier_slug": "cla-vilnius-spanish-day-camp-watch",
       "camp_programme_id": "CP2380",
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L969",
+      "title": "REC’n’Play · Jornada Criativa · Robótica desplugada",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Recife · Fab Lab Rec",
+      "source": "https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/",
+      "references": [
+        {
+          "url": "https://recnplay.pe/duvidas-frequentes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://superapp.jalanlive.com/recnplay2026/agenda",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "gear": "Задачи на логику и робототехнику без электронных устройств.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно по регистрации.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "holiday_workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "parent_event_id": "E793",
+      "related_ids": [
+        "E793"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L970",
+      "title": "REC’n’Play · Manguerobô · Divertec Educacional",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Recife · Bairro do Recife",
+      "source": "https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/",
+      "references": [
+        {
+          "url": "https://recnplay.pe/duvidas-frequentes/",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://superapp.jalanlive.com/recnplay2026/agenda",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "start": "",
+      "end": "",
+      "period": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Все возрасты. Дети и законные представители должны быть зарегистрированы. Взрослый сопровождает ребёнка и предъявляет удостоверение. Общая запись не гарантирует место в мастерской.",
+      "gear": "Демонстрация роботов-крабов, которые играют manguebeat.",
+      "language": "Язык конкретной мастерской или судейства уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Бесплатно по регистрации.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Активность в детской программе 11–14 ноября. Точный день, время, возраст, язык и место в группе уточнить в афише.",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "holiday_workshop",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "parent_event_id": "E793",
+      "related_ids": [
+        "E793"
+      ],
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+    },
+    {
+      "id": "L971",
+      "title": "Avenues São Paulo · Explorers Nature Camp · watch",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo · Avenues",
+      "source": "https://www.avenues.org/sao-paulo/student-life/school-break-programs",
+      "references": [],
+      "start": "",
+      "end": "",
+      "period": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "date_status": "Не объявлено",
+      "deadline": "",
+      "age": "3–11 лет по опубликованному формату, допускаются учащиеся других школ.",
+      "mat": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "osc": "Условно. Сверить возраст, язык, наличие мест и условия входа.",
+      "format": "",
+      "entry": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "gear": "Проекты на природе, чтение, письмо и математика на английском, экскурсия по зелёным зонам Сан-Паулу.",
+      "language": "В опубликованном формате занятия полностью на английском. Язык следующего набора сверить с организатором.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "cost": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "level": "",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Уточнить у организатора.",
+      "proof": "Официальная страница организатора или правила входа.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "camp_dossier_slug": "avenues-sao-paulo-nature-camp-watch",
+      "camp_programme_id": "CP2383",
       "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
     },
     {
@@ -488837,6 +489007,342 @@
         "WE",
         "TH",
         "FR"
+      ]
+    },
+    {
+      "id": "CP2382-20270111-20270115-full",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · Полная смена · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1815 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T11:00:00Z",
+          "end_utc": "2027-01-11T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T11:00:00Z",
+          "end_utc": "2027-01-12T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T11:00:00Z",
+          "end_utc": "2027-01-13T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T11:00:00Z",
+          "end_utc": "2027-01-14T20:00:00Z",
+          "topic": "Полная смена"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T11:00:00Z",
+          "end_utc": "2027-01-15T20:00:00Z",
+          "topic": "Полная смена"
+        }
+      ]
+    },
+    {
+      "id": "CP2382-20270111-20270115-morning",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · Утро · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1320 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T11:00:00Z",
+          "end_utc": "2027-01-11T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T11:00:00Z",
+          "end_utc": "2027-01-12T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T11:00:00Z",
+          "end_utc": "2027-01-13T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T11:00:00Z",
+          "end_utc": "2027-01-14T16:00:00Z",
+          "topic": "Утро"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "13:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T11:00:00Z",
+          "end_utc": "2027-01-15T16:00:00Z",
+          "topic": "Утро"
+        }
+      ]
+    },
+    {
+      "id": "CP2382-20270111-20270115-afternoon",
+      "block": "Лагеря",
+      "title": "Escola Eleva São Paulo · Summer Camp 2027 · День · 2027-01-11–2027-01-15",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "city": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "cost": "2027 · 1320 BRL · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+      "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "references": [
+        {
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Оскар: Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря. Доплаты: Уточнить язык, места, итог с комиссией и условия посещения по дням. Оплата: Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала.",
+      "iso": [
+        "BRA"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "eleva-sp-dinosaurs-2027",
+      "camp_programme_id": "CP2382",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T15:00:00Z",
+          "end_utc": "2027-01-11T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T15:00:00Z",
+          "end_utc": "2027-01-12T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T15:00:00Z",
+          "end_utc": "2027-01-13T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T15:00:00Z",
+          "end_utc": "2027-01-14T20:00:00Z",
+          "topic": "День"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "timezone": "America/Sao_Paulo",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T15:00:00Z",
+          "end_utc": "2027-01-15T20:00:00Z",
+          "topic": "День"
+        }
       ]
     },
     {

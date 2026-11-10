@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2381 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2383 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -186851,6 +186851,172 @@ Estonia · Tabasalu · Metsa 4
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://digipurk.ee/en/laagrid) · 2026-11-09
+
+## CP2382 · Escola Eleva São Paulo · Summer Camp 2027
+
+Brasil · São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+
+**Idioma:** No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+
+**Programa:** Tema de dinosaurios, búsqueda de fósiles, descubrimientos sobre la vida prehistórica, talleres y actividades al aire libre.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Turno del 11 al 15 de enero de 2027. Se admite alumnado externo, con un formulario de información de salud.
+
+**Precio / año:** 2027 · 1815 BRL turno completo, 1320 BRL turno de mañana o tarde y 440 BRL por día. Incluye almuerzo y merienda.
+
+**Incluye:** Almuerzo y merienda.
+
+**Cargos extra:** Confirme idioma, plazas, total con comisión y condiciones por día.
+
+**Pago:** Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+
+**Matvey:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+**Oscar:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+**Motivo de selección:** Turno del 11 al 15 de enero de 2027. Se admite alumnado externo, con un formulario de información de salud.
+
+### Antes de solicitar plaza
+
+- Confirme idioma, plazas, total con comisión y condiciones por día.
+
+### Turno completo
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+
+**Edad:** Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+
+**Precio:** 1815 BRL
+
+**Cargos extra:** Confirme idioma, plazas, total con comisión y condiciones por día.
+
+**Pago:** Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+
+- 2027-01-11 · 08:00–17:00 · America/Sao_Paulo · Turno completo
+
+- 2027-01-12 · 08:00–17:00 · America/Sao_Paulo · Turno completo
+
+- 2027-01-13 · 08:00–17:00 · America/Sao_Paulo · Turno completo
+
+- 2027-01-14 · 08:00–17:00 · America/Sao_Paulo · Turno completo
+
+- 2027-01-15 · 08:00–17:00 · America/Sao_Paulo · Turno completo
+
+**Matvey:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+**Oscar:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+[fuente](https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619)
+
+### Mañana
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+
+**Edad:** Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+
+**Precio:** 1320 BRL
+
+**Cargos extra:** Confirme idioma, plazas, total con comisión y condiciones por día.
+
+**Pago:** Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+
+- 2027-01-11 · 08:00–13:00 · America/Sao_Paulo · Mañana
+
+- 2027-01-12 · 08:00–13:00 · America/Sao_Paulo · Mañana
+
+- 2027-01-13 · 08:00–13:00 · America/Sao_Paulo · Mañana
+
+- 2027-01-14 · 08:00–13:00 · America/Sao_Paulo · Mañana
+
+- 2027-01-15 · 08:00–13:00 · America/Sao_Paulo · Mañana
+
+**Matvey:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+**Oscar:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+[fuente](https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619)
+
+### Tarde
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+
+**Edad:** Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+
+**Precio:** 1320 BRL
+
+**Cargos extra:** Confirme idioma, plazas, total con comisión y condiciones por día.
+
+**Pago:** Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+
+- 2027-01-11 · 12:00–17:00 · America/Sao_Paulo · Tarde
+
+- 2027-01-12 · 12:00–17:00 · America/Sao_Paulo · Tarde
+
+- 2027-01-13 · 12:00–17:00 · America/Sao_Paulo · Tarde
+
+- 2027-01-14 · 12:00–17:00 · America/Sao_Paulo · Tarde
+
+- 2027-01-15 · 12:00–17:00 · America/Sao_Paulo · Tarde
+
+**Matvey:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+**Oscar:** La edad encaja. Confirme idioma, grupo y plaza con el campamento.
+
+[fuente](https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.saopaulo.escolaeleva.com.br/) · 2026-11-09
+
+## CP2383 · Avenues São Paulo · Explorers Nature Camp
+
+Brasil · São Paulo · Avenues
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** De 3 a 11 años según el formato publicado. Admite alumnado de otros colegios.
+
+**Idioma:** En el formato publicado todas las actividades son en inglés. Confirme el idioma de la próxima edición.
+
+**Programa:** Proyectos en la naturaleza, lectura, escritura y matemáticas en inglés, y excursión por zonas verdes de São Paulo.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+
+**Precio / año:** 2026 · Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+
+**Cargos extra:** Consulte al organizador.
+
+**Pago:** Consulte al organizador.
+
+**Matvey:** Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+
+**Oscar:** Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+
+**Motivo de selección:** Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+
+### Antes de solicitar plaza
+
+- Consulte al organizador.
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.avenues.org/sao-paulo/student-life/school-break-programs) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

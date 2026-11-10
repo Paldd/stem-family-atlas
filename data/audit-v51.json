@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12049,
-    "competition_cards": 5448,
-    "event_cards": 789,
-    "camp_cards": 5812,
-    "league_profiles": 342,
-    "major_exhibition_cards": 682,
+    "cards": 12069,
+    "competition_cards": 5456,
+    "event_cards": 795,
+    "camp_cards": 5818,
+    "league_profiles": 343,
+    "major_exhibition_cards": 689,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 832,
+      "total": 852,
       "countries_with_records": 15,
-      "competitions": 490,
-      "events": 60,
-      "major_exhibitions": 53,
-      "camps": 282,
+      "competitions": 498,
+      "events": 66,
+      "major_exhibitions": 60,
+      "camps": 288,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -2792,11 +2792,12 @@
       "name": "TJR Mini / RoboLeague",
       "group": "regional",
       "event_ids": [
-        "C065"
+        "C065",
+        "C5456"
       ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
+      "cards": 2,
+      "future_dated": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.torneiojrobotica.org/TJR-MINI/",
       "new": false
@@ -2811,11 +2812,12 @@
         "C1191",
         "C1192",
         "C1197",
-        "C1198"
+        "C1198",
+        "C5457"
       ],
-      "cards": 6,
-      "future_dated": 4,
-      "linked_card_count": 6,
+      "cards": 7,
+      "future_dated": 5,
+      "linked_card_count": 7,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://internationaltournamentofrobots.org/contribution/",
       "new": false
@@ -8914,6 +8916,21 @@
       "new": false
     },
     {
+      "id": "femic-junior",
+      "name": "FEMIC Júnior",
+      "group": "international",
+      "event_ids": [
+        "C5451",
+        "C5452"
+      ],
+      "cards": 2,
+      "future_dated": 2,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://femic.com.br/regras-de-participacao-virtual/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -10901,7 +10918,7 @@
       "start": "2027-05-04",
       "end": "2027-05-08",
       "visitor_policy": "adults_only",
-      "source": "https://www.expomafe.com.br/",
+      "source": "https://www.expomafe.com.br/a-feira/faq-expomafe/",
       "new": false
     },
     {
@@ -16856,6 +16873,17 @@
       "new": false
     },
     {
+      "id": "E736",
+      "name": "CONNEPI 2026 · Mostra Tecnológica / Arena Gamer",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-12-09",
+      "end": "2026-12-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.even3.com.br/connepi-fortaleza-2026/",
+      "new": false
+    },
+    {
       "id": "E739",
       "name": "Exponencial. De analógicos a digitales · Espacio Fundación Telefónica",
       "country": "Испания",
@@ -17417,6 +17445,72 @@
       "new": false
     },
     {
+      "id": "E790",
+      "name": "Futurecom 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-10-05",
+      "end": "2027-10-07",
+      "visitor_policy": "family",
+      "source": "https://www.futurecom.com.br/faq/",
+      "new": false
+    },
+    {
+      "id": "E791",
+      "name": "Intermach 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-07-13",
+      "end": "2027-07-16",
+      "visitor_policy": "adults_only",
+      "source": "https://intermach.com.br/quero-visitar/",
+      "new": false
+    },
+    {
+      "id": "E792",
+      "name": "Feira Induspar 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-08-03",
+      "end": "2027-08-06",
+      "visitor_policy": "adults_only",
+      "source": "https://feirainduspar.com.br/visitantes",
+      "new": false
+    },
+    {
+      "id": "E793",
+      "name": "REC’n’Play 2026 · Family Technology Festival",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-11",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://recnplay.pe/duvidas-frequentes/",
+      "new": false
+    },
+    {
+      "id": "E794",
+      "name": "MCTIA 2026 · Public Project Exhibition",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-24",
+      "end": "2026-11-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.mctia.com/programacao.php",
+      "new": false
+    },
+    {
+      "id": "E795",
+      "name": "Festival Regional SESI de Educação 2026 · Pinhais",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17941,7 +18035,8 @@
     "Уточнены сроки и условия Kiwibots. Добавлены выставки Океании, занятия Logan Libraries и две смены Mission to Space. Правила профессионального входа и детского участия указаны отдельно.",
     "Сверены выставки Мексики, Bebras на Ямайке и каникулы в Аргентине, Перу и Чили. Допуск, язык и расхождения по расписанию отмечены в карточках.",
     "Добавлен латвийский сезон робототехники, проверены семейные выставки, игровая программа и языки курсов в Риге. Зарубежный допуск и правила следующих этапов отмечены отдельно.",
-    "В Эстонии добавлены Robotex, Folkrace, Delta X и семейные события PROTO. В Литве проверены STEAM ABC, маршруты VILIPO и зимние англоязычные смены. Всемирный охват остаётся частичным."
+    "В Эстонии добавлены Robotex, Folkrace, Delta X и семейные события PROTO. В Литве проверены STEAM ABC, маршруты VILIPO и зимние англоязычные смены. Всемирный охват остаётся частичным.",
+    "В Бразилии добавлены семейные события, региональные и национальные турниры, промышленные выставки с возрастными правилами и отдельные маршруты лагерей."
   ],
   "source_issues": [
     {
@@ -19844,14 +19939,14 @@
       }
     ],
     "counts": {
-      "records": 5812,
-      "holiday": 5177,
+      "records": 5818,
+      "holiday": 5183,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1039,
-      "en_es_instruction": 1682,
+      "en_es_instruction": 1683,
       "en_es_support": 67,
-      "family_instruction": 1682,
+      "family_instruction": 1683,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,

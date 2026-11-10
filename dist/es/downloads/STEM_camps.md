@@ -14278,6 +14278,54 @@ Condiciones: El catálogo ofrece un campamento creativo separado en español, si
 Fuente: https://www.creative-learning-academy.com/camps/international-day-camps/
 Se ha comprobado: 2026-11-09
 
+### L969 · REC’n’Play · Jornada Criativa · Robótica desplugada
+
+Lugar: Brasil · Recife · Fab Lab Rec
+Fecha: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Edad: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Formato: holiday_workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Gratis con inscripción.
+Acceso: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Condiciones: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Fuente: https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/
+Se ha comprobado: 2026-11-09
+
+### L970 · REC’n’Play · Manguerobô · Divertec Educacional
+
+Lugar: Brasil · Recife · Bairro do Recife
+Fecha: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Edad: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Formato: holiday_workshop
+Idioma: Confirme el idioma del taller concreto o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: Gratis con inscripción.
+Acceso: Todas las edades. Niños y tutores legales deben estar inscritos. El adulto acompaña al menor y presenta identificación. La inscripción general no garantiza plaza en un taller.
+Condiciones: Actividad del programa infantil del 11–14 de noviembre. Confirme día, hora, edad, idioma y plaza en la agenda.
+Fuente: https://recnplay.pe/roteiro-infantil-do-recnplay-reune-oficinas-musica-tecnologia-e-experiencias-para-toda-a-familia/
+Se ha comprobado: 2026-11-09
+
+### L971 · Avenues São Paulo · Explorers Nature Camp · watch
+
+Lugar: Brasil · São Paulo · Avenues
+Fecha: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Edad: De 3 a 11 años según el formato publicado. Admite alumnado de otros colegios.
+Matvey: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Oscar: Condicional. Confirme edad, idioma, plazas y condiciones de acceso.
+Formato: day_camp
+Idioma: En el formato publicado todas las actividades son en inglés. Confirme el idioma de la próxima edición.
+Marca de idioma: primary; soporte: no declarado
+Costo: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Acceso: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Condiciones: Se publicaron turnos de junio y julio de 2026. Fechas y tarifas de 2027 sin confirmar.
+Fuente: https://www.avenues.org/sao-paulo/student-life/school-break-programs
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -91780,6 +91828,54 @@ Costo: 2027 · 230 EUR por turno por niño. 55 EUR por día completo con almuerz
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Condiciones: Matvey: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Oscar: Sí por edad. Ambos niños encajan si se confirma la plaza y el grupo. Cargos extra: Confirme horarios de día completo y corto, plazas para ambos niños, cancelaciones y posibles cambios de excursiones. Pago: Según la política de campamentos, pago completo dentro de 7 días tras confirmación, inmediato si faltan menos de 14 días. Cancelación con 30 días o más: reembolso total, con 14–29 días: 50%, después sin reembolso. Los días completos y medios días sueltos no se reembolsan.
 Fuente: https://www.creative-learning-academy.com/camps/christmas-camps/
+Se ha comprobado: 2026-11-09
+
+### CP2382-20270111-20270115-full · Escola Eleva São Paulo · Summer Camp 2027 · Turno completo · 2027-01-11–2027-01-15
+
+Lugar: Brasil · São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 1815 BRL · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2382-20270111-20270115-morning · Escola Eleva São Paulo · Summer Camp 2027 · Mañana · 2027-01-11–2027-01-15
+
+Lugar: Brasil · São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
+Se ha comprobado: 2026-11-09
+
+### CP2382-20270111-20270115-afternoon · Escola Eleva São Paulo · Summer Camp 2027 · Tarde · 2027-01-11–2027-01-15
+
+Lugar: Brasil · São Paulo · Escola Eleva · Rua José Antônio Coelho 819
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde los 3 años, grupos de Infantil 3 a 9.º grado.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de este turno. El programa bilingüe del colegio por sí solo no confirma el idioma del campamento.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 2027 · 1320 BRL · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Oscar: La edad encaja. Confirme idioma, grupo y plaza con el campamento. Cargos extra: Confirme idioma, plazas, total con comisión y condiciones por día. Pago: Reembolso según la página de inscripción dentro de 7 días de la compra, si se solicita al menos 48 horas antes del inicio.
+Fuente: https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

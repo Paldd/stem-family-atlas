@@ -5467,7 +5467,8 @@
           }
         ],
         "event_ids": [
-          "C065"
+          "C065",
+          "C5456"
         ],
         "legacy_ids": [
           "C065"
@@ -5492,6 +5493,11 @@
             "title": "fuente oficial C065",
             "url": "https://www.torneiojrobotica.org/TJR-MINI/",
             "checked": "2026-09-29"
+          },
+          {
+            "url": "https://www.torneiojrobotica.org/PROGRAMA%C3%87%C3%83O-ROB%C3%93TICA-BRASIL-2026/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -5570,7 +5576,8 @@
           "C1191",
           "C1192",
           "C1197",
-          "C1198"
+          "C1198",
+          "C5457"
         ],
         "legacy_ids": [
           "C066"
@@ -5630,6 +5637,11 @@
             "title": "ITR Chile 2026 · Santiago · archivo",
             "url": "https://internationaltournamentofrobots.org/CHILE/",
             "checked": "2026-11-04"
+          },
+          {
+            "url": "https://internationaltournamentofrobots.org/BRAZIL-ITR-QUALIFIER/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
           }
         ],
         "evidence": "Leídas páginas nacionales actuales, formulario general, código del calculador y directrices; discrepancias conservadas explícitamente."
@@ -28704,6 +28716,76 @@
         "evidence": "Página oficial del organizador o condiciones de entrada."
       },
       {
+        "id": "femic-junior",
+        "name": "FEMIC Júnior",
+        "group": "international",
+        "age_summary": "Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+        "categories": [
+          {
+            "name": "FEMIC Júnior 2026 · Virtual presentations",
+            "age": "Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.",
+            "team": "De 1 a 3 estudiantes y de 1 a 3 mentores. El mentor debe tener al menos 18 años y cursar o haber cursado estudios superiores.",
+            "hardware": "Póster científico, vídeo e informe de proyecto. Los propios estudiantes presentan el trabajo.",
+            "entry": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+            "event_id": "C5451",
+            "source": "https://femic.com.br/datas-importantes/",
+            "language": "Confirme el idioma del taller concreto o del arbitraje.",
+            "note": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+            "checked": "2026-11-09"
+          },
+          {
+            "name": "FEMIC Júnior 2026 · In-person presentations",
+            "age": "Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.",
+            "team": "De 1 a 3 estudiantes y de 1 a 3 mentores. El mentor debe tener al menos 18 años y cursar o haber cursado estudios superiores.",
+            "hardware": "Póster científico, vídeo e informe de proyecto. Los propios estudiantes presentan el trabajo.",
+            "entry": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+            "event_id": "C5452",
+            "source": "https://femic.com.br/projetos-presenciais/",
+            "language": "Confirme el idioma del taller concreto o del arbitraje.",
+            "note": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "event_ids": [
+          "C5451",
+          "C5452"
+        ],
+        "legacy_ids": [],
+        "route": "Envío hasta el 20 de agosto de 2026 y confirmación de seleccionados hasta el 20 de octubre. En noviembre presentan los seleccionados.",
+        "hardware": "Póster científico, vídeo e informe de proyecto. Los propios estudiantes presentan el trabajo.",
+        "language": "Confirme el idioma del taller concreto o del arbitraje.",
+        "importance": "Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.",
+        "strengths": "Póster científico, vídeo e informe de proyecto. Los propios estudiantes presentan el trabajo.",
+        "requirements": [
+          "Alumnado de infantil y de 1.º a 5.º grado de colegios públicos o privados de Brasil y otros países.",
+          "De 1 a 3 estudiantes y de 1 a 3 mentores. El mentor debe tener al menos 18 años y cursar o haber cursado estudios superiores."
+        ],
+        "nuances": [
+          "Las condiciones de la próxima edición se comprobarán cuando se publiquen."
+        ],
+        "cost": "Presentación del proyecto gratuita. Transporte y alojamiento del equipo presencial por separado.",
+        "award": "Premios según la evaluación de proyectos.",
+        "sources": [
+          {
+            "url": "https://femic.com.br/regras-de-participacao-virtual/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          },
+          {
+            "url": "https://femic.com.br/datas-importantes/",
+            "title": "Página oficial del organizador o condiciones de entrada.",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Página oficial del organizador o condiciones de entrada."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -34049,7 +34131,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Hay 342 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Hay 343 perfiles de ligas, familias y programas. Se conservan las 46 vías anteriores. Los formatos brasileños están separados, y Robofest LATAM y BajaBot locales se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

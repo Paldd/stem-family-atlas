@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 355,
+    "prepared_ui_version": 356,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 353,
-    "previous_verified_commit": "707e5778f7453daa47d10d756ef9f3a1bc55976f"
+    "previous_verified_ui_version": 355,
+    "previous_verified_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,13 +20811,13 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 354,
-    "published_version": 353,
-    "latest_source_commit": "678911f01d48bf9ee04a4abdc1d0eec78034a323",
-    "published_commit": "707e5778f7453daa47d10d756ef9f3a1bc55976f",
-    "latest_workflow": 42745919644,
-    "latest_workflow_conclusion": "failure",
-    "status": "pages-deployment-timeout"
+    "latest_source_version": 355,
+    "published_version": 355,
+    "latest_source_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09",
+    "published_commit": "3ea249479b17ffa43fb405d9d39b992aafdb8c09",
+    "latest_workflow": 42750832400,
+    "latest_workflow_conclusion": "success",
+    "status": "local-main-and-pages-match"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -38924,5 +38924,86 @@
         "robotex_estonia_judging"
       ]
     }
+  },
+  "brazil_robotics_fairs_family_learning_v356": {
+    "version": 356,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5450",
+      "C5451",
+      "C5452",
+      "C5453",
+      "C5454",
+      "C5455",
+      "C5456",
+      "C5457"
+    ],
+    "exhibition_ids": [
+      "E790",
+      "E791",
+      "E792",
+      "E793",
+      "E794",
+      "E795"
+    ],
+    "learning_event_ids": [
+      "L969",
+      "L970",
+      "L971",
+      "CP2382-20270111-20270115-full",
+      "CP2382-20270111-20270115-morning",
+      "CP2382-20270111-20270115-afternoon"
+    ],
+    "camp_dossier_ids": [
+      "CP2382",
+      "CP2383"
+    ],
+    "legacy_overlay_event_ids": [
+      "E098",
+      "C3079",
+      "C5102",
+      "E736"
+    ],
+    "legacy_overlay_league_ids": [
+      "tjr",
+      "itr"
+    ],
+    "new_league_id": "femic-junior",
+    "recnplay_id": "E793",
+    "mctia_ids": [
+      "C5450",
+      "E794"
+    ],
+    "femic_ids": [
+      "C5451",
+      "C5452"
+    ],
+    "ldr_ids": [
+      "C5453",
+      "C5454",
+      "C5455"
+    ],
+    "tjr_ids": [
+      "C5456",
+      "C5457"
+    ],
+    "visitor_age_thresholds": {
+      "E791": 14,
+      "E792": 16,
+      "E098": 16
+    },
+    "paid_ticket_from_age": {
+      "E790": 12
+    },
+    "tjr_match_schedule_excluded_season": 2023,
+    "alternate_official_read_urls": [
+      "https://www.avenues.org/sao-paulo/student-life/school-break-programs",
+      "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+      "https://edu.sesipr.org.br/pt/web/colegio-sesi/festival-regional-educacao",
+      "https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao"
+    ],
+    "eleva_instruction_language_confirmed": false
   }
 }

@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2381,
+    "dossiers": 2383,
     "countries": 140,
     "swiss": 153,
     "by_status": {
       "published_2026_27": 333,
-      "published_2027": 661,
+      "published_2027": 662,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -44,14 +44,14 @@
       "archive_next_unannounced": 152,
       "regular_programme": 21,
       "regular_2026_27": 33,
-      "historical_2026_next_season_unknown": 3,
+      "historical_2026_next_season_unknown": 4,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1,
       "recurring_tbd": 3,
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3289
+    "source_urls": 3292
   },
   "countries": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "country": "Бразилия",
-      "count": 6
+      "count": 8
     },
     {
       "country": "Британские Виргинские острова",
@@ -362774,6 +362774,388 @@
         }
       ],
       "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2382",
+      "slug": "eleva-sp-dinosaurs-2027",
+      "provider": "Escola Eleva São Paulo · Summer Camp 2027",
+      "country": "Бразилия",
+      "iso": "BRA",
+      "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+      "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+      "programme": "Тема динозавров, поиск окаменелостей, наблюдения о доисторической жизни, мастерские и занятия на воздухе.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "language": "Язык занятий этой смены не указан. Двуязычная программа школы сама по себе не подтверждает язык лагеря.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Полная смена",
+            "variant_key": "full",
+            "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+            "price": "1815 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T11:00:00Z",
+                "end_utc": "2027-01-11T20:00:00Z",
+                "topic": "Полная смена"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T11:00:00Z",
+                "end_utc": "2027-01-12T20:00:00Z",
+                "topic": "Полная смена"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T11:00:00Z",
+                "end_utc": "2027-01-13T20:00:00Z",
+                "topic": "Полная смена"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T11:00:00Z",
+                "end_utc": "2027-01-14T20:00:00Z",
+                "topic": "Полная смена"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T11:00:00Z",
+                "end_utc": "2027-01-15T20:00:00Z",
+                "topic": "Полная смена"
+              }
+            ],
+            "extras": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+            "deposit": "Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утро",
+            "variant_key": "morning",
+            "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+            "price": "1320 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T11:00:00Z",
+                "end_utc": "2027-01-11T16:00:00Z",
+                "topic": "Утро"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T11:00:00Z",
+                "end_utc": "2027-01-12T16:00:00Z",
+                "topic": "Утро"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T11:00:00Z",
+                "end_utc": "2027-01-13T16:00:00Z",
+                "topic": "Утро"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T11:00:00Z",
+                "end_utc": "2027-01-14T16:00:00Z",
+                "topic": "Утро"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "13:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T11:00:00Z",
+                "end_utc": "2027-01-15T16:00:00Z",
+                "topic": "Утро"
+              }
+            ],
+            "extras": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+            "deposit": "Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "День",
+            "variant_key": "afternoon",
+            "age": "От 3 лет, группы от Infantil 3 до 9 класса.",
+            "price": "1320 BRL",
+            "place": "São Paulo · Escola Eleva · Rua José Antônio Coelho 819",
+            "source": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T15:00:00Z",
+                "end_utc": "2027-01-11T20:00:00Z",
+                "topic": "День"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T15:00:00Z",
+                "end_utc": "2027-01-12T20:00:00Z",
+                "topic": "День"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T15:00:00Z",
+                "end_utc": "2027-01-13T20:00:00Z",
+                "topic": "День"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T15:00:00Z",
+                "end_utc": "2027-01-14T20:00:00Z",
+                "topic": "День"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "12:00",
+                "end_time": "17:00",
+                "timezone": "America/Sao_Paulo",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T15:00:00Z",
+                "end_utc": "2027-01-15T20:00:00Z",
+                "topic": "День"
+              }
+            ],
+            "extras": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+            "deposit": "Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала."
+          }
+        ],
+        "precision": "published_sessions",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "BRL",
+        "amount": 1815,
+        "unit": "session",
+        "label": "1815 BRL полный день на смену, 1320 BRL утро или день на смену, 440 BRL за один день. Включены обед и перекус.",
+        "included": "Обед и перекус.",
+        "extras": "Уточнить язык, места, итог с комиссией и условия посещения по дням.",
+        "deposit": "Возврат по странице записи в течение 7 дней после покупки, если запрос не позднее 48 часов до начала."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возрастная группа подходит. Язык, группу и наличие места подтвердить у лагеря."
+        }
+      },
+      "editorial_reason": "Смена 11–15 января 2027. Принимают детей из других школ, для них нужна анкета об особенностях здоровья.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить язык, места, итог с комиссией и условия посещения по дням."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.sympla.com.br/evento/escola-eleva-sao-paulo-summer-camp-2027/3608619",
+          "checked": "2026-11-09"
+        },
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.saopaulo.escolaeleva.com.br/",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2383",
+      "slug": "avenues-sao-paulo-nature-camp-watch",
+      "provider": "Avenues São Paulo · Explorers Nature Camp",
+      "country": "Бразилия",
+      "iso": "BRA",
+      "place": "São Paulo · Avenues",
+      "age": "3–11 лет по опубликованному формату, допускаются учащиеся других школ.",
+      "programme": "Проекты на природе, чтение, письмо и математика на английском, экскурсия по зелёным зонам Сан-Паулу.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "language": "В опубликованном формате занятия полностью на английском. Язык следующего набора сверить с организатором.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "instruction",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "historical_2026_next_season_unknown",
+        "label": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+        "sessions": [],
+        "session_details": [],
+        "precision": "season_window",
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BRL",
+        "amount": null,
+        "unit": "session",
+        "label": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+        "extras": "Уточнить у организатора.",
+        "deposit": "Уточнить у организатора."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены."
+        }
+      },
+      "editorial_reason": "Опубликованы июньские и июльские смены 2026. Даты и цены 2027 пока не подтверждены.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "title": "Официальная страница организатора или правила входа.",
+          "url": "https://www.avenues.org/sao-paulo/student-life/school-break-programs",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
     }
   ],
   "gaps": [
@@ -381334,7 +381716,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2381,
+      "total_dossiers": 2383,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

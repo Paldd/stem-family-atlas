@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12049 fichas en la base, con 5448 de competiciones, 789 de eventos y 5812 de campamentos o programas. Hay 342 perfiles de ligas y programas. Las 682 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12069 fichas en la base, con 5456 de competiciones, 795 de eventos y 5818 de campamentos o programas. Hay 343 perfiles de ligas y programas. Las 689 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -15,7 +15,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2224 | 181 | 1428 |
-| América del Sur | 15 | 490 | 53 | 282 |
+| América del Sur | 15 | 498 | 60 | 288 |
 | Europa | 55 | 792 | 172 | 1678 |
 | África | 61 | 281 | 46 | 156 |
 | Asia | 51 | 1242 | 190 | 1838 |
@@ -23,7 +23,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5456 fichas de competiciones (15.0%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -100,6 +100,7 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.
 - Se añadió la temporada letona de robótica y se revisaron ferias familiares, videojuegos e idiomas de cursos en Riga. El acceso extranjero y las reglas de etapas futuras figuran por separado.
 - En Estonia se añadieron Robotex, Folkrace, Delta X y actividades familiares de PROTO. En Lituania se revisaron STEAM ABC, las vías VILIPO y turnos de invierno en inglés. La cobertura mundial sigue siendo parcial.
+- En Brasil se añadieron actividades familiares, torneos regionales y nacionales, ferias industriales con edades de acceso y vías separadas de campamentos.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -129,8 +130,8 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - **Bebras**: 52 fichas, 49 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
 - **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
-- **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
-- **ITR · serie internacional TJR / RoboLeague**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://internationaltournamentofrobots.org/contribution/
+- **TJR Mini / RoboLeague**: 2 fichas, 1 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.torneiojrobotica.org/TJR-MINI/
+- **ITR · serie internacional TJR / RoboLeague**: 7 fichas, 5 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://internationaltournamentofrobots.org/contribution/
 - **TecPro Challenge · LATAM / Virtual**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tdrobotica.co/tecpro-challenge-2026-2027
 - **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
 - **RoboJam**: 22 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
@@ -378,6 +379,7 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - **Latvijas Robotikas čempionāts**: 21 fichas, 17 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://robotuskola.lv/competitions/lrc/2026-2027/
 - **Robotex Eesti**: 12 fichas, 12 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://robotex.ee/
 - **TalTech x TTK Folkrace**: 4 fichas, 2 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://folkrace.ee/
+- **FEMIC Júnior**: 2 fichas, 2 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://femic.com.br/regras-de-participacao-virtual/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -509,7 +511,7 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - **Automate 2027 — robotics / automation** — Estados Unidos; 2027-05-10 – 2027-05-13. Niños 6/9 No puedes.. https://www.automateshow.com/
 - **Expo Manufactura 2027** — México; 2027-02-23 – 2027-02-25. Niños 6/9 No puedes.. https://expomanufactura.com.mx/
 - **Smart Technology Expo 2026** — México; 2026-11-18 – 2026-11-20. Los niños del 6/9 no pueden. https://smarttechnologyexpo.mx/
-- **EXPOMAFE 2027** 国 Brazil; 2027-05-04 国 2027-05-08; los niños 6/9 no pueden. https://www.expomafe.com.br/
+- **EXPOMAFE 2027** 国 Brazil; 2027-05-04 国 2027-05-08; los niños 6/9 no pueden. https://www.expomafe.com.br/a-feira/faq-expomafe/
 - **Australian Manufacturing Week 2027** — Australia; 2027-05-11 – 2027-05-14. el permiso de entrada de niños. https://australianmanufacturingweek.com.au/visit2027/
 - **Africa Tech Festival 2026** Sudáfrica; 2026-11-17 2026-11-19. https://africatechfestival.com/
 - **AI Expo Africa 2026** — Sudáfrica; 2026-10-28 – 2026-10-29. Acceso de los niños a la educación. https://aiexpoafrica.com/ai-expo-africa-2026-faq/
@@ -1051,6 +1053,7 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — China; fecha desconocida. Confirmar acceso infantil. https://www.lxhtexpo.com/
 - **FHNW Robot Day 2027** — Suiza; 2027-05-15. con un adulto; condiciones de admisión adulta por separado. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
 - **Coupe de France Junior · Village scientifique Île-de-France 2027** — Francia; 2027-04-17. con un adulto; condiciones de admisión adulta por separado. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
+- **CONNEPI 2026 · Mostra Tecnológica / Arena Gamer** — Brasil; 2026-12-09 – 2026-12-11. Confirme el acceso de menores. https://www.even3.com.br/connepi-fortaleza-2026/
 - **Exponencial. De analógicos a digitales · Espacio Fundación Telefónica** — España; sin fecha puntual. Con un adulto. Las condiciones de acceso adulto figuran por separado. https://espacio.fundaciontelefonica.com/evento/exponencial/
 - **Universidad de Almería · Desafío del Club de Robótica 2026/27 · Acto público y premios** — España; fecha desconocida. Confirmar acceso infantil. https://www.ualjoven.ual.es/index.php/actividades/desafio-club-de-robotica-curso-2026-2027-ualjoven
 - **OlimPIA Panamá 2027 · Premiación** — Panamá; 2027-09-03. el permiso de entrada de niños. https://olimpanama-ia.org/
@@ -1102,6 +1105,12 @@ VEX concentra 821 de las 5448 fichas de competiciones (15.1%). La cobertura est�
 - **PROTO Great Inventors Festival 2026** — Estonia; 2026-11-14 – 2026-11-15. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.prototehas.ee/event/suur-leiutajate-festival/
 - **PROTO Brick Fun 2026 · EstLUG** — Estonia; 2026-11-21 – 2026-11-29. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.prototehas.ee/event/klotsilust/
 - **GameOn 2026 · archive** — Lituania; 2026-10-23 – 2026-10-25. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.litexpo.lt/renginiai/gameon-2026/
+- **Futurecom 2027** — Brasil; 2027-10-05 – 2027-10-07. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.futurecom.com.br/faq/
+- **Intermach 2027** — Brasil; 2027-07-13 – 2027-07-16. Los niños de 6/9 años no pueden entrar. https://intermach.com.br/quero-visitar/
+- **Feira Induspar 2027** — Brasil; 2027-08-03 – 2027-08-06. Los niños de 6/9 años no pueden entrar. https://feirainduspar.com.br/visitantes
+- **REC’n’Play 2026 · Family Technology Festival** — Brasil; 2026-11-11 – 2026-11-14. Con un adulto. Consulte las condiciones de entrada del adulto. https://recnplay.pe/duvidas-frequentes/
+- **MCTIA 2026 · Public Project Exhibition** — Brasil; 2026-11-24 – 2026-11-26. Confirme el acceso de menores. https://www.mctia.com/programacao.php
+- **Festival Regional SESI de Educação 2026 · Pinhais** — Brasil; 2026-11-12 – 2026-11-13. Confirme el acceso de menores. https://blogeducacao.sesipr.org.br/pt/w/robos-criatividade-e-jovens-talentos-transformam-o-parana-em-palco-da-inovacao-no-festival-regional-sesi-de-educacao
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
