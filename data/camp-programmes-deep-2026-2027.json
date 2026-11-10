@@ -30,18 +30,18 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2540,
+    "dossiers": 2550,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 731,
+      "published_2027": 742,
       "partial_2027": 182,
       "next_unannounced": 489,
       "published_2026": 488,
       "partial_2026_27": 44,
       "partial_2026": 25,
-      "archive_next_unannounced": 152,
+      "archive_next_unannounced": 151,
       "regular_programme": 33,
       "regular_2026_27": 33,
       "historical_2026_next_season_unknown": 4,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3460
+    "source_urls": 3467
   },
   "countries": [
     {
@@ -500,7 +500,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 216
+      "count": 226
     },
     {
       "country": "Тринидад и Тобаго",
@@ -108665,72 +108665,288 @@
     {
       "id": "CP908",
       "slug": "taipei-kids-theme-camps",
-      "provider": "Taipei Kids Academy · Summer / Winter Theme Camps",
+      "provider": "Taipei Kids Academy · Winter Theme Camps 2027",
       "country": "Тайвань",
       "iso": "TWN",
-      "place": "520 Ren’ai Road, Section4 · 1–2F · Xinyi, Taipei",
+      "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
       "themes": [
-        "general",
+        "engineering",
+        "makers",
         "languages",
         "science",
         "art",
-        "culture"
+        "culture",
+        "general"
       ],
       "formats": [
         "day"
       ],
-      "age": "3–12; максимум 16, один англоязычный и один китайскоязычный преподаватель",
-      "language": "Основные занятия на EN; около 20% специальных художественных занятий на китайском. Это двуязычная программа, не весь день на английском.",
+      "age": "3–12 лет. До 16 детей в группе.",
+      "language": "Основные занятия на английском. По правилам центра 20% специализированных художественных занятий ведут на китайском.",
       "confirmed_instruction_languages": [
         "EN",
         "ZH"
       ],
-      "programme": "Тематические недели: природа, вода, загадки, путешествия и творчество. Есть экскурсии и дополнительные elective занятия; робототехника как отдельный курс не подтверждена. Полный день 08:00–16:30, присмотр до 18:00; half-day08:00–12:30.",
+      "programme": "Зимние темы Invent, Design, Build!, Color Spectrum Quest и Spring Festival Wonders. Первая посвящена изобретательству и конструированию, вторая цвету и экспериментам, третья праздничным традициям.",
       "timing": {
-        "status": "archive_next_unannounced",
-        "label": "Собственная страница: зима 21.01–03.02.2026, лето июль–август 2026. Всё в прошлом; зимой/летом 2027 новых точных дат ещё нет.",
-        "sessions": []
+        "status": "published_2027",
+        "label": "6 вариантов на 3 зимние темы. Можно выбрать полдня или полный день.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "variant_key": "build-half",
+            "label": "Invent, Design, Build! · полдня",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 3400 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полдня. Программа 08:00–12:30, начало уроков в 09:00. Забрать до 13:00 по общим правилам.",
+            "catalog_themes": [
+              "engineering",
+              "makers",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          },
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "variant_key": "build-full",
+            "label": "Invent, Design, Build! · полный день",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 5040 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полный день. С 08:00, занятия 09:00–16:30. Без факультатива забрать до 18:00 по общим правилам.",
+            "catalog_themes": [
+              "engineering",
+              "makers",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "variant_key": "color-half",
+            "label": "Color Spectrum Quest · полдня",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 8500 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полдня. Программа 08:00–12:30, начало уроков в 09:00. Забрать до 13:00 по общим правилам.",
+            "catalog_themes": [
+              "science",
+              "art",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "variant_key": "color-full",
+            "label": "Color Spectrum Quest · полный день",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 13800 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полный день. С 08:00, занятия 09:00–16:30. Без факультатива забрать до 18:00 по общим правилам.",
+            "catalog_themes": [
+              "science",
+              "art",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "variant_key": "festival-half",
+            "label": "Spring Festival Wonders · полдня",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 5100 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полдня. Программа 08:00–12:30, начало уроков в 09:00. Забрать до 13:00 по общим правилам.",
+            "catalog_themes": [
+              "general",
+              "art",
+              "culture",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "variant_key": "festival-full",
+            "label": "Spring Festival Wonders · полный день",
+            "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+            "price": "TWD 7560 за ребёнка за этот вариант.",
+            "entry": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+            "place": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+            "age": "3–12 лет. До 16 детей в группе.",
+            "availability": {
+              "status": "open",
+              "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+            },
+            "programme": "Полный день. С 08:00, занятия 09:00–16:30. Без факультатива забрать до 18:00 по общим правилам.",
+            "catalog_themes": [
+              "general",
+              "art",
+              "culture",
+              "languages"
+            ],
+            "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+            "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию.",
+            "date_scope": "camp_session"
+          }
+        ]
       },
       "price": {
-        "year": 2026,
-        "label": "Основной тариф не установлен в прочитанных первичных материалах.",
-        "included": "Экскурсии входят в структуру/расчёт курса; полный состав питания уточнить.",
-        "extras": "Electives и поздний pickup отдельно; стоимость не установлена.",
-        "deposit": "Отмена: невозвратные NT$1 000; внутри месяца ещё NT$1 200 за смену для экскурсий. Остаток по местным правилам; отсутствие не денежный возврат."
+        "currency": "TWD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "От TWD 3400 до TWD 13800 за ребёнка. Тариф зависит от темы и формата.",
+        "included": "Экскурсии входят в программу, где предусмотрены. Состав зависит от смены и формата.",
+        "extras": "Семейное жильё, дорога, факультативы и возможный поздний присмотр отдельно. Меню выбранной смены уточнить.",
+        "deposit": "При отмене удерживается TWD 1000. При отмене в течение месяца до начала удерживается также TWD 1200 за смену на экскурсию."
       },
       "accommodation": "Дневной формат; семейное жильё отдельно.",
       "family_fit": {
         "matvey": {
           "status": "conditional",
-          "detail": "Оба подходят по годам рождения; новый сезон, возрастная группа и иностранный приём ещё не подтверждены."
+          "detail": "Подходит по общему возрастному диапазону 3–12 лет. Центр распределяет детей по возрасту и уровню английского. Подтвердить группу, место и приём из-за рубежа."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Оба подходят по годам рождения; новый сезон, возрастная группа и иностранный приём ещё не подтверждены."
+          "detail": "Подходит по общему возрастному диапазону 3–12 лет. Центр распределяет детей по возрасту и уровню английского. Подтвердить группу, место и приём из-за рубежа."
         }
       },
-      "editorial_reason": "Возраст обоим подходит; основной английский подтверждён, китайский художественного блока требует решения.",
+      "editorial_reason": "Опубликованы даты, варианты оплаты и правила обучения на английском и китайском.",
       "shortlist": [
         "both",
         "general"
       ],
       "questions": [
-        "Уточнить новый набор, возраст/класс на начало, индивидуальный иностранный приём, язык группы, итоговый счёт, оборудование, страховку и отмену. Заявки не отправлялись."
+        "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа.",
+        "Уточнить содержание инженерных занятий и возрастные группы выбранной темы."
       ],
       "sources": [
         {
-          "title": "Текущая первичная страница: язык, возраст и правила",
-          "url": "https://tka.com.tw/zh_tw/theme-camps/",
-          "checked": "2026-10-06"
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         },
         {
-          "title": "Летние темы 2026: первичный reader, прямойURL404",
-          "url": "https://tka.com.tw/en/summer-camp-2026/",
-          "checked": "2026-10-06"
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-10-06",
-      "language_evidence_role": "bilingual"
+      "checked": "2026-11-10",
+      "language_evidence_role": "bilingual",
+      "availability": {
+        "status": "open",
+        "label": "Выбрать смену и формат. Подтвердить места, меню и условия приёма детей из-за рубежа."
+      },
+      "previous_programme": {
+        "timing": {
+          "status": "archive_next_unannounced",
+          "label": "Собственная страница: зима 21.01–03.02.2026, лето июль–август 2026. Всё в прошлом; зимой/летом 2027 новых точных дат ещё нет.",
+          "sessions": []
+        },
+        "price": {
+          "year": 2026,
+          "label": "Основной тариф не установлен в прочитанных первичных материалах.",
+          "included": "Экскурсии входят в структуру/расчёт курса; полный состав питания уточнить.",
+          "extras": "Electives и поздний pickup отдельно; стоимость не установлена.",
+          "deposit": "Отмена: невозвратные NT$1 000; внутри месяца ещё NT$1 200 за смену для экскурсий. Остаток по местным правилам; отсутствие не денежный возврат."
+        },
+        "checked": "2026-10-06",
+        "sources": [
+          {
+            "title": "Текущая первичная страница: язык, возраст и правила",
+            "url": "https://tka.com.tw/zh_tw/theme-camps/",
+            "checked": "2026-10-06"
+          },
+          {
+            "title": "Летние темы 2026: первичный reader, прямойURL404",
+            "url": "https://tka.com.tw/en/summer-camp-2026/",
+            "checked": "2026-10-06"
+          }
+        ]
+      }
     },
     {
       "id": "CP909",
@@ -391944,6 +392160,1590 @@
       "materials_languages": [
         "ES"
       ]
+    },
+    {
+      "id": "CP2541",
+      "slug": "block-planet-full-term-north",
+      "provider": "Block Planet · Five Lanterns · Culture & Making · North District",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "age": "1–6 классы начальной школы.",
+      "programme": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+      "themes": [
+        "culture",
+        "creative",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "9 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-02-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-02-02",
+            "label": "Five Lanterns · Culture & Making",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 15000 за ребёнка. Ранняя цена TWD 13000 до 30 ноября 2026. При действующем купоне TWD 12350.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+            "age": "1–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z"
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z"
+              },
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T09:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 15000,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 15000 за ребёнка. Ранняя цена TWD 13000 до 30 ноября 2026. При действующем купоне TWD 12350.",
+        "included": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+        "extras": "По опубликованным правилам приём с 07:30, забрать до 18:30. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ]
+    },
+    {
+      "id": "CP2542",
+      "slug": "block-planet-full-term-yongkang",
+      "provider": "Block Planet · Five Lanterns · Culture & Making · Dongqiao",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "age": "1–6 классы начальной школы.",
+      "programme": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+      "themes": [
+        "culture",
+        "creative",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "9 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-02-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-02-02",
+            "label": "Five Lanterns · Culture & Making",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 15000 за ребёнка. Ранняя цена TWD 13000 до 30 ноября 2026. При действующем купоне TWD 12350.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+            "age": "1–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z"
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z"
+              },
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T09:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Five Lanterns · Culture & Making",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 15000,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 15000 за ребёнка. Ранняя цена TWD 13000 до 30 ноября 2026. При действующем купоне TWD 12350.",
+        "included": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+        "extras": "По опубликованным правилам приём с 07:30, забрать до 18:30. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "9 будних дней. Культурные ремёсла, театр кукол, механика вращения и выезд в творческую деревню.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ]
+    },
+    {
+      "id": "CP2543",
+      "slug": "block-planet-drone-north",
+      "provider": "Block Planet · Drone Soccer · North District",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "age": "1–6 классы начальной школы.",
+      "programme": "Управление дроном, маршрут и командный дрон-футбол. Дроны предоставляют для занятия.",
+      "themes": [
+        "drones",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "5 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Drone Soccer",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 9200 за ребёнка. Ранняя цена TWD 7999 до 30 ноября 2026. При действующем купоне TWD 7600.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+            "age": "1–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Drone Soccer",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Drone Soccer",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Drone Soccer",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Drone Soccer",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Drone Soccer",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 9200,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 9200 за ребёнка. Ранняя цена TWD 7999 до 30 ноября 2026. При действующем купоне TWD 7600.",
+        "included": "Управление дроном, маршрут и командный дрон-футбол. Дроны предоставляют для занятия.",
+        "extras": "Забрать до 18:30. Ранний приём согласовать. Поздний присмотр TWD 190 за начатый час. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "Управление дроном, маршрут и командный дрон-футбол. Дроны предоставляют для занятия.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "pairing": {
+        "venue_id": "twn-block-planet-north",
+        "verified_source": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "TWD",
+          "amount": 9200,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2544",
+      "slug": "block-planet-lego-north",
+      "provider": "Block Planet · LEGO IDEAS · Toy Design · North District",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "age": "Со 2 класса начальной школы.",
+      "programme": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "5 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "LEGO IDEAS · Toy Design",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 9800 за ребёнка. Ранняя цена TWD 7800 до 30 ноября 2026. При действующем купоне TWD 7410.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+            "age": "Со 2 класса начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для LEGO IDEAS нужен 2 класс или выше. Уточнить эквивалент класса, место и язык."
+              },
+              "oscar": {
+                "status": "unknown",
+                "detail": "Для Оскара пока не установлен 2 класс или выше. Уточнить допуск."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 9800,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 9800 за ребёнка. Ранняя цена TWD 7800 до 30 ноября 2026. При действующем купоне TWD 7410.",
+        "included": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+        "extras": "По правилам этой программы приём с 07:30, забрать до 18:30. Поздний присмотр TWD 190 за начатый час. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для LEGO IDEAS нужен 2 класс или выше. Уточнить эквивалент класса, место и язык."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Для Оскара пока не установлен 2 класс или выше. Уточнить допуск."
+        }
+      },
+      "editorial_reason": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "pairing": {
+        "venue_id": "twn-block-planet-north",
+        "verified_source": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "TWD",
+          "amount": 9800,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2545",
+      "slug": "block-planet-lego-yongkang",
+      "provider": "Block Planet · LEGO IDEAS · Toy Design · Dongqiao",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "age": "Со 2 класса начальной школы.",
+      "programme": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "5 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "LEGO IDEAS · Toy Design",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 9800 за ребёнка. Ранняя цена TWD 7800 до 30 ноября 2026. При действующем купоне TWD 7410.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+            "age": "Со 2 класса начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Для LEGO IDEAS нужен 2 класс или выше. Уточнить эквивалент класса, место и язык."
+              },
+              "oscar": {
+                "status": "unknown",
+                "detail": "Для Оскара пока не установлен 2 класс или выше. Уточнить допуск."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "LEGO IDEAS · Toy Design",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 9800,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 9800 за ребёнка. Ранняя цена TWD 7800 до 30 ноября 2026. При действующем купоне TWD 7410.",
+        "included": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+        "extras": "По правилам этой программы приём с 07:30, забрать до 18:30. Поздний присмотр TWD 190 за начатый час. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для LEGO IDEAS нужен 2 класс или выше. Уточнить эквивалент класса, место и язык."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Для Оскара пока не установлен 2 класс или выше. Уточнить допуск."
+        }
+      },
+      "editorial_reason": "Дизайн набора, 3D-модель, инструкции и упаковка. Нужен свой Windows или Mac с BrickLink Studio 2.0.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "pairing": {
+        "venue_id": "twn-block-planet-yongkang",
+        "verified_source": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "TWD",
+          "amount": 9800,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2546",
+      "slug": "block-planet-game-north",
+      "provider": "Block Planet · Game Lab · MakeCode Arcade · North District",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "age": "С 1 класса начальной школы.",
+      "programme": "Сюжет, пиксельные герои, игровая логика Microsoft MakeCode Arcade. Нужен свой планшет. Портативная игровая приставка с проектом включена.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Game Lab · MakeCode Arcade",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 7400 за ребёнка. Ранняя цена TWD 5400 до 30 ноября 2026. При действующем купоне TWD 5130.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+            "age": "С 1 класса начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Game Lab · MakeCode Arcade",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Game Lab · MakeCode Arcade",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 7400,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 7400 за ребёнка. Ранняя цена TWD 5400 до 30 ноября 2026. При действующем купоне TWD 5130.",
+        "included": "Сюжет, пиксельные герои, игровая логика Microsoft MakeCode Arcade. Нужен свой планшет. Портативная игровая приставка с проектом включена.",
+        "extras": "Часы приёма и передачи ребёнка согласовать с площадкой. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "Сюжет, пиксельные герои, игровая логика Microsoft MakeCode Arcade. Нужен свой планшет. Портативная игровая приставка с проектом включена.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "pairing": {
+        "venue_id": "twn-block-planet-north",
+        "verified_source": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "TWD",
+          "amount": 7400,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2547",
+      "slug": "block-planet-aviation-yongkang",
+      "provider": "Block Planet · Flight Science · Dongqiao",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "age": "1–6 классы начальной школы.",
+      "programme": "Сборка летательного аппарата, поиск центра тяжести, пробные полёты и доработка.",
+      "themes": [
+        "science",
+        "engineering",
+        "drones"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Flight Science",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 6500 за ребёнка. Ранняя цена TWD 5400 до 30 ноября 2026. При действующем купоне TWD 5130.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+            "age": "1–6 классы начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Flight Science",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Flight Science",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 6500,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 6500 за ребёнка. Ранняя цена TWD 5400 до 30 ноября 2026. При действующем купоне TWD 5130.",
+        "included": "Сборка летательного аппарата, поиск центра тяжести, пробные полёты и доработка.",
+        "extras": "По правилам этой программы приём с 07:30, забрать до 18:30. Поздний присмотр TWD 190 за начатый час. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "Сборка летательного аппарата, поиск центра тяжести, пробные полёты и доработка.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ]
+    },
+    {
+      "id": "CP2548",
+      "slug": "block-planet-fragrance-north",
+      "provider": "Block Planet · Fragrance Science · North District",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "age": "Учащиеся начальной школы.",
+      "programme": "Опыты с материалами, ароматами, шипучими шариками для ванны и свечами.",
+      "themes": [
+        "science",
+        "art",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "2 учебных дней с 09:00 до 17:00 по Тайнаню.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "label": "Fragrance Science",
+            "source": "https://blockplanetcamp.com/camp2027/index.html",
+            "price": "TWD 6500 за ребёнка. Ранняя цена TWD 4800 до 30 ноября 2026. При действующем купоне TWD 4560.",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "place": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+            "age": "Учащиеся начальной школы.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Fragrance Science",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Fragrance Science",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 6500,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 6500 за ребёнка. Ранняя цена TWD 4800 до 30 ноября 2026. При действующем купоне TWD 4560.",
+        "included": "Опыты с материалами, ароматами, шипучими шариками для ванны и свечами.",
+        "extras": "По правилам этой программы приём с 07:30, забрать до 18:30. Поздний присмотр TWD 190 за начатый час. Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "Опыты с материалами, ароматами, шипучими шариками для ванны и свечами.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+        "Срок 30 ноября относится к ранней цене. Итог, действительность купона и наличие мест уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "pairing": {
+        "venue_id": "twn-block-planet-north",
+        "verified_source": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "TWD",
+          "amount": 6500,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2549",
+      "slug": "danlu-world-new-year-2027",
+      "provider": "Danlu Kids Space · World New Year Adventure",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "Danlu Kids Space · 296 Wencheng 5th Road · North District, Tainan",
+      "age": "1–6 классы начальной школы.",
+      "programme": "Общая программа каникул. Темы Нового года в 8 странах, практические задания по классу и 2 выезда.",
+      "themes": [
+        "general",
+        "culture",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "21 января – 3 февраля 2027. Занятия по будням. Часы и формат отдельных смен уточнить.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-02-03",
+            "label": "World New Year Adventure",
+            "source": "https://www.danlukids.com/winter/2027/",
+            "price": "Организатор сообщает тариф по запросу. Первый этап ранней цены до 30 ноября 2026.",
+            "place": "Danlu Kids Space · 296 Wencheng 5th Road · North District, Tainan",
+            "entry": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа.",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "Организатор сообщает тариф по запросу. Первый этап ранней цены до 30 ноября 2026.",
+        "included": "Общая программа каникул. Темы Нового года в 8 странах, практические задания по классу и 2 выезда.",
+        "extras": "Питание, возврат, страховку и возможные доплаты подтвердить у площадки.",
+        "deposit": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+        }
+      },
+      "editorial_reason": "Общая программа каникул. Темы Нового года в 8 странах, практические задания по классу и 2 выезда.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      ],
+      "sources": [
+        {
+          "url": "https://www.danlukids.com/winter/2027/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Подтвердить место, соответствие школьного класса, язык и индивидуальный приём ребёнка из-за рубежа."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ]
+    },
+    {
+      "id": "CP2550",
+      "slug": "ai4kids-nycu-robotics-2027",
+      "provider": "AI4kids · AI Robotics Lab at NYCU",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "National Yang Ming Chiao Tung University · 1001 Daxue Road · Hsinchu",
+      "age": "15–19 лет. От последнего класса средней школы до первого курса вуза.",
+      "programme": "Лаборатория NYCU. Компьютерное зрение, NVIDIA Isaac Sim, управление физической роботизированной рукой через VLA и учебный хакатон.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day",
+        "boarding"
+      ],
+      "language": "Организатор публикует описание на традиционном китайском. Язык занятий и возможность поддержки на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная смена. Дополнительное проживание с сопровождением TWD 3600 за 3 ночи. Наличие и документы уточнить.",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–28 января 2027. Занятия с 09:00 до 17:00.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-28",
+            "label": "AI Robotics Lab",
+            "source": "https://ai4kids.ai/pages/ai-robot-camp",
+            "price": "TWD 16800 за курс. Индивидуальная ранняя цена TWD 15960 до 30 ноября 2026.",
+            "entry": "Для старшего трека. Уточнить язык занятий, места и документы для иностранного учащегося.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "AI Robotics Lab",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "AI Robotics Lab",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "AI Robotics Lab",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "topic": "AI Robotics Lab",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 16800,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "TWD 16800 за курс. Индивидуальная ранняя цена TWD 15960 до 30 ноября 2026.",
+        "included": "Обед включён. Роботизированная рука и рабочие станции предоставляются.",
+        "extras": "Нужен свой ноутбук Windows или macOS. Завтрак, ужин, проживание и дорога отдельно.",
+        "deposit": "Для старшего трека. Уточнить язык занятий, места и документы для иностранного учащегося."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Оба ребёнка младше опубликованного минимума 15 лет."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Оба ребёнка младше опубликованного минимума 15 лет."
+        }
+      },
+      "editorial_reason": "Лаборатория NYCU. Компьютерное зрение, NVIDIA Isaac Sim, управление физической роботизированной рукой через VLA и учебный хакатон.",
+      "shortlist": [],
+      "questions": [
+        "Для старшего трека. Уточнить язык занятий, места и документы для иностранного учащегося."
+      ],
+      "sources": [
+        {
+          "url": "https://ai4kids.ai/pages/ai-robot-camp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://ai4kids.ai/products/accommodation",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Для старшего трека. Уточнить язык занятий, места и документы для иностранного учащегося."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "mixed_camp",
+      "materials_languages": [
+        "ZH"
+      ]
     }
   ],
   "gaps": [
@@ -410504,7 +412304,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2540,
+      "total_dossiers": 2550,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

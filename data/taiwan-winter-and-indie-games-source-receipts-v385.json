@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://ai4kids.ai/pages/ai-robot-camp",
+    "artifact": "twn-ai4kids-robot.html",
+    "bytes": 284931,
+    "sha256": "8a5a1477922825f346dd7de0f2ceb41e74d7854f279b1506a197706a332f2855",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://ai4kids.ai/pages/codecombat-codequest",
+    "artifact": "codequest-public-facts.json",
+    "bytes": 520,
+    "sha256": "3034eda9786c84364970d6c8514f5ea7a693ee7351cffb40ed0e13b974dddaad",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://ai4kids.ai/products/accommodation",
+    "artifact": "ai4kids-stay-facts.json",
+    "bytes": 690,
+    "sha256": "5704948a958ece1345cad888b0136d773eac23b4a89da84aa8e8c7639606bbf6",
+    "checked": "2026-11-10",
+    "evidence_kind": "web_facts_extract"
+  },
+  {
+    "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+    "artifact": "block-data.js",
+    "bytes": 51575,
+    "sha256": "655c31e84fc7f5ace0a8b311391f5b0d50f551af4c9dca02b5854bfa0e00b3a9",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://blockplanetcamp.com/camp2027/index.html",
+    "artifact": "block-index.html",
+    "bytes": 32443,
+    "sha256": "298e8d711547ac39c4de42a98896f795262d9336587ba3dd90f4f6df26277556",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://blockplanetcamp.com/camp2027/register.html",
+    "artifact": "block-register.html",
+    "bytes": 3080,
+    "sha256": "35454c76258e07db2b4cce4fbfde0c51c19d9a72909028af2f89d6b618dcd740",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tgs.tca.org.tw/?p=IGA_Finalist_e",
+    "artifact": "iga-finalists.html",
+    "bytes": 29990,
+    "sha256": "6b4be4543a097af1f9afd9ca1aee3917745d857c2fa25efd09da0d7c93e6e7ec",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tgs.tca.org.tw/?p=event_info_e",
+    "artifact": "tgs-2027.html",
+    "bytes": 15179,
+    "sha256": "9b43ba7886f1a487beab5a80b0141c4581969799a587f704a9a314b696e7506b",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tgs.tca.org.tw/indie_award_e.php",
+    "artifact": "iga-rules.html",
+    "bytes": 26000,
+    "sha256": "54ca178d175e33314889401aa5d1991059bf82732ed9e1092aab69a1aabb8573",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
+    "artifact": "iga-press.html",
+    "bytes": 32050,
+    "sha256": "694bd57919f556a6497b6904a05025876d2cfedc188b1ad4e5396473d1927731",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+    "artifact": "tka-winter-poster.webp",
+    "bytes": 203876,
+    "sha256": "7ddab6758cc4b0270d1e58e2e703752586b6047d7af03cd8077ff1df463ccc99",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+    "artifact": "twn-tka-winter.html",
+    "bytes": 123694,
+    "sha256": "a5a39d4cb4c0d52cd1e6a3108c931a537a0a409a6bf1a483ac832f7cb1873d9a",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://tka.com.tw/zh_tw/theme-camps/",
+    "artifact": "twn-tka-theme-rules.html",
+    "bytes": 187170,
+    "sha256": "52f134b3fca36a08b1b19761f9877611d6166ea70eb5b3d4c0a3b8d099db66c2",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.danlukids.com/winter/2027/",
+    "artifact": "twn-danlu-winter.html",
+    "bytes": 71862,
+    "sha256": "11db7b130681460dcc3b18c77f691954bcc0147575b0757223b41ca7a76b0c98",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  }
+]

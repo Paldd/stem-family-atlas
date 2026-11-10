@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 6211,
-      "holiday": 5533,
+      "records": 6227,
+      "holiday": 5549,
       "regular": 238,
       "self_paced_materials": 4,
-      "boarding": 1049,
-      "en_es_instruction": 1731,
+      "boarding": 1050,
+      "en_es_instruction": 1737,
       "en_es_support": 67,
-      "family_instruction": 1731,
+      "family_instruction": 1737,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 439,
@@ -206578,6 +206578,470 @@
       "language_roles": {},
       "language_mode": "unconfirmed",
       "languages": []
+    },
+    {
+      "id": "CP908-20270121-20270122-build-half",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Invent, Design, Build! · media jornada · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Media jornada. Actividad de 08:00 a 12:30, clases desde las 09:00. Recogida hasta las 13:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 3400 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "makers",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
+    },
+    {
+      "id": "CP908-20270121-20270122-build-full",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Invent, Design, Build! · jornada completa · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Jornada completa. Desde las 08:00, clases de 09:00 a 16:30. Sin actividad optativa, recogida hasta las 18:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 5040 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "makers",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
+    },
+    {
+      "id": "CP908-20270125-20270129-color-half",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Color Spectrum Quest · media jornada · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Media jornada. Actividad de 08:00 a 12:30, clases desde las 09:00. Recogida hasta las 13:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 8500 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "art",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
+    },
+    {
+      "id": "CP908-20270125-20270129-color-full",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Color Spectrum Quest · jornada completa · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Jornada completa. Desde las 08:00, clases de 09:00 a 16:30. Sin actividad optativa, recogida hasta las 18:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 13800 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "art",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
+    },
+    {
+      "id": "CP908-20270201-20270203-festival-half",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Spring Festival Wonders · media jornada · 2027-02-01–2027-02-03",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-02-01",
+      "end": "2027-02-03",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Media jornada. Actividad de 08:00 a 12:30, clases desde las 09:00. Recogida hasta las 13:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 5100 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "culture",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
+    },
+    {
+      "id": "CP908-20270201-20270203-festival-full",
+      "block": "Campamentos",
+      "title": "Taipei Kids Academy · Winter Theme Camps 2027 · Spring Festival Wonders · jornada completa · 2027-02-01–2027-02-03",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Taipei Kids Academy · 520 Ren’ai Road, Section 4 · Xinyi, Taipei",
+      "start": "2027-02-01",
+      "end": "2027-02-03",
+      "period": "6 opciones en 3 temas de invierno. Se puede elegir media jornada o jornada completa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 3 a 12 años. Hasta 16 niños por grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "forma diurna; vivienda familiar por separado.",
+      "entry": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.",
+      "gear": "Jornada completa. Desde las 08:00, clases de 09:00 a 16:30. Sin actividad optativa, recogida hasta las 18:00 según las reglas generales.",
+      "language": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "cost": "2027 · TWD 7560 por menor para esta opción. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros. Confirme el contenido de ingeniería y los grupos de edad del tema elegido.",
+      "source": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+      "references": [
+        {
+          "url": "https://tka.com.tw/zh_tw/product/2027wintercamp/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/zh_tw/theme-camps/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://tka.com.tw/wp-content/uploads/2026/10/%E4%B8%BB%E9%A1%8C%E6%8E%A2%E7%B4%A2%E7%87%9F-1.webp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "general",
+        "art",
+        "culture",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "taipei-kids-theme-camps",
+      "camp_programme_id": "CP908",
+      "language_roles": {
+        "instruction": [
+          "EN",
+          "ZH"
+        ]
+      },
+      "language_mode": "bilingual",
+      "languages": [
+        "EN",
+        "ZH"
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros."
+      }
     },
     {
       "id": "CP916-20270627-20270702",
@@ -526681,6 +527145,1192 @@
         "status": "open",
         "label": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida."
       }
+    },
+    {
+      "id": "CP2541-20270121-20270202",
+      "block": "Campamentos",
+      "title": "Block Planet · Five Lanterns · Culture & Making · North District · Five Lanterns · Culture & Making · 2027-01-21–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "start": "2027-01-21",
+      "end": "2027-02-02",
+      "period": "9 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "1–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "9 días laborables. Artesanía cultural, teatro de marionetas, mecánica de la rotación y salida a una aldea creativa.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 15000 por menor. Tarifa anticipada TWD 13000 hasta el 30 de noviembre de 2026. Con cupón válido TWD 12350. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Según las reglas publicadas, recepción desde las 07:30 y recogida hasta las 18:30. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "culture",
+        "creative",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-full-term-north",
+      "camp_programme_id": "CP2541",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z"
+        },
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z"
+        },
+        {
+          "date": "2027-02-01",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T09:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2542-20270121-20270202",
+      "block": "Campamentos",
+      "title": "Block Planet · Five Lanterns · Culture & Making · Dongqiao · Five Lanterns · Culture & Making · 2027-01-21–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "start": "2027-01-21",
+      "end": "2027-02-02",
+      "period": "9 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "1–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "9 días laborables. Artesanía cultural, teatro de marionetas, mecánica de la rotación y salida a una aldea creativa.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 15000 por menor. Tarifa anticipada TWD 13000 hasta el 30 de noviembre de 2026. Con cupón válido TWD 12350. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Según las reglas publicadas, recepción desde las 07:30 y recogida hasta las 18:30. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "culture",
+        "creative",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-full-term-yongkang",
+      "camp_programme_id": "CP2542",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z"
+        },
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z"
+        },
+        {
+          "date": "2027-02-01",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T09:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Five Lanterns · Culture & Making",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2543-20270125-20270129",
+      "block": "Campamentos",
+      "title": "Block Planet · Drone Soccer · North District · Drone Soccer · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "5 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "1–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Control de drones, rutas y fútbol con drones en equipo. Se facilitan drones durante la actividad.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 9200 por menor. Tarifa anticipada TWD 7999 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7600. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Recogida hasta las 18:30. Acuerde la llegada temprana. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "drones",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-drone-north",
+      "camp_programme_id": "CP2543",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Drone Soccer",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Drone Soccer",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Drone Soccer",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Drone Soccer",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Drone Soccer",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2544-20270125-20270129",
+      "block": "Campamentos",
+      "title": "Block Planet · LEGO IDEAS · Toy Design · North District · LEGO IDEAS · Toy Design · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "5 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde el grado 2 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Diseño de un set, modelo 3D, instrucciones y embalaje. Se necesita equipo propio con Windows o Mac y BrickLink Studio 2.0.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 9800 por menor. Tarifa anticipada TWD 7800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7410. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: LEGO IDEAS exige grado 2 o superior. Confirme equivalencia de grado, plaza e idioma. Oscar: Aún no consta que Oscar curse grado 2 o superior. Confirme su admisión. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-lego-north",
+      "camp_programme_id": "CP2544",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2545-20270125-20270129",
+      "block": "Campamentos",
+      "title": "Block Planet · LEGO IDEAS · Toy Design · Dongqiao · LEGO IDEAS · Toy Design · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "5 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde el grado 2 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Diseño de un set, modelo 3D, instrucciones y embalaje. Se necesita equipo propio con Windows o Mac y BrickLink Studio 2.0.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 9800 por menor. Tarifa anticipada TWD 7800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7410. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: LEGO IDEAS exige grado 2 o superior. Confirme equivalencia de grado, plaza e idioma. Oscar: Aún no consta que Oscar curse grado 2 o superior. Confirme su admisión. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-lego-yongkang",
+      "camp_programme_id": "CP2545",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "LEGO IDEAS · Toy Design",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2546-20270121-20270122",
+      "block": "Campamentos",
+      "title": "Block Planet · Game Lab · MakeCode Arcade · North District · Game Lab · MakeCode Arcade · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "2 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde 1.º de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Historia, personajes pixelados y lógica de juego con Microsoft MakeCode Arcade. Se necesita tableta propia. Incluye una consola portátil con el proyecto.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 7400 por menor. Tarifa anticipada TWD 5400 hasta el 30 de noviembre de 2026. Con cupón válido TWD 5130. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Acuerde con la sede los horarios de entrega y recogida. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-game-north",
+      "camp_programme_id": "CP2546",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Game Lab · MakeCode Arcade",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Game Lab · MakeCode Arcade",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2547-20270121-20270122",
+      "block": "Campamentos",
+      "title": "Block Planet · Flight Science · Dongqiao · Flight Science · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · Dongqiao · 558 Dongqiao 1st Road · Yongkang, Tainan",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "2 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "1–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Montaje de una aeronave, centro de gravedad, vuelos de prueba y ajustes.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 6500 por menor. Tarifa anticipada TWD 5400 hasta el 30 de noviembre de 2026. Con cupón válido TWD 5130. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "engineering",
+        "drones"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-aviation-yongkang",
+      "camp_programme_id": "CP2547",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Flight Science",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Flight Science",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2548-20270121-20270122",
+      "block": "Campamentos",
+      "title": "Block Planet · Fragrance Science · North District · Fragrance Science · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Block Planet · North District · 113 Section 2, Zhonghua North Road · Tainan",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "2 días de actividades de 09:00 a 17:00 en Tainan.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Alumnado de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Experimentos con materiales, aromas, bombas de baño efervescentes y velas.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 6500 por menor. Tarifa anticipada TWD 4800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 4560. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "source": "https://blockplanetcamp.com/camp2027/index.html",
+      "references": [
+        {
+          "url": "https://blockplanetcamp.com/camp2027/index.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/camp-data.js?v=20261020-add-tickets",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://blockplanetcamp.com/camp2027/register.html",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "science",
+        "art",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "block-planet-fragrance-north",
+      "camp_programme_id": "CP2548",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Fragrance Science",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Fragrance Science",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero."
+      }
+    },
+    {
+      "id": "CP2549-20270121-20270203",
+      "block": "Campamentos",
+      "title": "Danlu Kids Space · World New Year Adventure · World New Year Adventure · 2027-01-21–2027-02-03",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Danlu Kids Space · 296 Wencheng 5th Road · North District, Tainan",
+      "start": "2027-01-21",
+      "end": "2027-02-03",
+      "period": "Del 21 de enero al 3 de febrero de 2027. Actividades de lunes a viernes. Confirme horas y modalidad de cada turno.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "1–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "gear": "Programa general de vacaciones. Temas de Año Nuevo de 8 países, actividades según el grado y 2 salidas.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · El organizador indica el precio a petición. Primera tarifa anticipada hasta el 30 de noviembre de 2026. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "source": "https://www.danlukids.com/winter/2027/",
+      "references": [
+        {
+          "url": "https://www.danlukids.com/winter/2027/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "general",
+        "culture",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "danlu-world-new-year-2027",
+      "camp_programme_id": "CP2549",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ]
+    },
+    {
+      "id": "CP2550-20270125-20270128",
+      "block": "Campamentos",
+      "title": "AI4kids · AI Robotics Lab at NYCU · AI Robotics Lab · 2027-01-25–2027-01-28",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "National Yang Ming Chiao Tung University · 1001 Daxue Road · Hsinchu",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "period": "25–28 de enero de 2027. Clases de 09:00 a 17:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 15 a 19 años. Desde el último grado de secundaria inferior hasta el primer año universitario.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Turno diurno. Alojamiento opcional con acompañamiento por TWD 3600 durante 3 noches. Confirme plazas y documentos.",
+      "entry": "Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.",
+      "gear": "Laboratorio de NYCU. Visión artificial, NVIDIA Isaac Sim, control de un brazo robótico real con VLA y hackatón formativo.",
+      "language": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "cost": "2027 · TWD 16800 por curso. Tarifa individual anticipada de TWD 15960 hasta el 30 de noviembre de 2026. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.",
+      "source": "https://ai4kids.ai/pages/ai-robot-camp",
+      "references": [
+        {
+          "url": "https://ai4kids.ai/pages/ai-robot-camp",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://ai4kids.ai/products/accommodation",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Ambos menores están por debajo de la edad mínima publicada de 15 años. Oscar: Ambos menores están por debajo de la edad mínima publicada de 15 años. Suplementos: Se necesita portátil propio con Windows o macOS. Desayuno, cena, alojamiento y traslado por separado. Pago: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.",
+      "participation": "mixed_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ai4kids-nycu-robotics-2027",
+      "camp_programme_id": "CP2550",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "AI Robotics Lab",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "AI Robotics Lab",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "AI Robotics Lab",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "topic": "AI Robotics Lab",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z"
+        }
+      ]
     },
     {
       "id": "L491",

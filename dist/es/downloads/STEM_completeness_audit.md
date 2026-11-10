@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12658. Competiciones: 5576. Eventos: 871. Campamentos o programas: 6211. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 763. Se cuentan ediciones y sedes.
+Fichas en la base: 12678. Competiciones: 5579. Eventos: 872. Campamentos o programas: 6227. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 764. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -18,12 +18,12 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 | América del Sur | 15 | 509 | 63 | 298 |
 | Europa | 55 | 796 | 189 | 1809 |
 | África | 61 | 293 | 52 | 167 |
-| Asia | 51 | 1298 | 215 | 1919 |
+| Asia | 51 | 1301 | 216 | 1935 |
 | Oceanía | 27 | 185 | 45 | 416 |
 
 Fichas interregionales o globales sin continente asignado: 267. América del Norte incluye América Central y el Caribe. Las cifras reflejan el inventario de la base.
 
-VEX: 821 de 5576 fichas de competiciones (14.7%). La cobertura está desequilibrada.
+VEX: 821 de 5579 fichas de competiciones (14.7%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -1049,7 +1049,7 @@ VEX: 821 de 5576 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **Kinia Creative Technology Week 2027** — Irlanda; 2027-04-14 – 2027-04-24. el permiso de entrada de niños. https://kinia.ie/creative-technology-week/
 - **Souidania · Espace de loisirs scientifiques** — Argelia; fecha por confirmar. Con un adulto; condiciones de admisión adulta por separado. https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785
 - **EMECEXPO 2027 · AI & Business Technology** — Marruecos; 2027-12-02 – 2027-12-04. el permiso de entrada de niños. https://www.emecexpo.com/informations-pratiques
-- **Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage** — Taiwán; 2027-01-21 – 2027-01-22. el permiso de entrada de niños. https://tgs.tca.org.tw/?p=event_info_e
+- **Taipei Game Show 2027 · Asia Pacific Game Summit** — Taiwán; 2027-01-21 – 2027-01-22. Confirme el acceso infantil. https://tgs.tca.org.tw/?p=event_info_e
 - **Asia Tech x Singapore 2027 · ATxEnterprise** — Singapur; 2027-05-26 – 2027-05-28. Los niños del 6/9 no pueden. https://asiatechxsg.com/faqs/
 - **Asia Tech x Singapore 2027 · ATxSummit** — Singapur; 2027-05-26 – 2027-05-27. el permiso de entrada de niños. https://asiatechxsg.com/faqs/
 - **ExpoLatam Consumer Electronics Show · Panamá 2027** — Panamá; 2027-01-14 – 2027-01-15. el permiso de entrada de niños. https://www.ce-expolatam.com/
@@ -1204,6 +1204,7 @@ VEX: 821 de 5576 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **2702 Rebels · Robot Reveal & Open House 2027** — Canadá; 2027-02-27. Con un adulto. Consulte las condiciones de acceso. https://2702rebels.com/events/
 - **Mecha Mayhem 2027 · Public robotics visit** — Canadá; 2027-02-12 – 2027-02-14. Con un adulto. Consulte las condiciones de acceso. https://www.mechamayhem.ca/info
 - **Museo Franz Mayer · Mockups · Maquetas y prototipos** — México; 2026-10-16 – 2027-02-14. Confirme el acceso infantil. https://franzmayer.org.mx/exposicion/mockups-before-fuckups/
+- **Taipei Game Show 2027 · Indie Game Award Winner’s Pavilion** — Taiwán; 2027-01-21 – 2027-01-24. Confirme el acceso infantil. https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

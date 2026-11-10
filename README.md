@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В v385 обновлены три зимние темы Taipei Kids Academy и добавлены программы Block Planet, Danlu и AI4kids. Разделены конкурс Indie Game Award, публичная витрина и программа профессионального форума. [Аудит источников](data/taiwan-winter-and-indie-games-audit-v385.json)
+
 В v384 добавлены три мексиканских события, программы Ibercaja Actur и курс RF TechnoKids для наблюдения. В Сарагосе сопоставлены параллельные программы Minecraft и кулинарии для братьев. Уточнены источники по RoboJam и UCR. [Аудит источников](data/mexico-costa-rica-and-spain-audit-v384.json)
 
 В v383 добавлены мастерские Fabri-K2, дисциплины Liga Robótica в Пуэрто-Монте и конкурсы FestiGame. Отмечено расхождение даты финала Liga Robótica и обновлены условия CES. [Аудит источников](data/chile-robotics-and-gaming-audit-v383.json)

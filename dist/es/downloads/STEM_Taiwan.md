@@ -286,7 +286,7 @@ Acceso: Zona pública del 21 al 24 de enero de 2027, TaiNEX 1. Falta cotejar acc
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones: El anuncio vigente confirma las fechas B2C. El plano y la lista de expositores de la página describen 2026. Para 2027 se publican aparte las condiciones de stands de juegos de mesa.
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### C779 · MARC Taiwan · TM Elementary · 2027
 
@@ -1081,18 +1081,18 @@ Limitaciones: La página en chino incluye expresamente los 12 años. La redacci�
 Fuente: https://www.chanchao.com.tw/Atlife/visitor.asp
 Se ha comprobado: 2026-11-08
 
-### E707 · Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage
+### E707 · Taipei Game Show 2027 · Asia Pacific Game Summit
 
 Fecha: 2027-01-21 国 2027-01-22
-edad: Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.
-Matvey: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
-Oscar: Condicional. Confirmar edad en la fecha, idioma, plaza y acceso de participantes extranjeros.
+Edad: El foro está confirmado para el 21–22 de enero de 2027. La página muestra el escenario de IA y ponentes en el programa de 2026. Confirme temas de 2027, idioma y acceso de menores.
+Matvey: El foro está confirmado para el 21–22 de enero de 2027. La página muestra el escenario de IA y ponentes en el programa de 2026. Confirme temas de 2027, idioma y acceso de menores.
+Oscar: El foro está confirmado para el 21–22 de enero de 2027. La página muestra el escenario de IA y ponentes en el programa de 2026. Confirme temas de 2027, idioma y acceso de menores.
 Idioma: Hay materiales en inglés. Confirmar el idioma en la sede.
-Acceso: Confirmar inscripción como oyente, edad e idioma de las ponencias. La zona pública de Taipei Game Show se tramita por separado.
+Acceso: El foro está confirmado para el 21–22 de enero de 2027. La página muestra el escenario de IA y ponentes en el programa de 2026. Confirme temas de 2027, idioma y acceso de menores.
 Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: Foro profesional con ponencias sobre aplicaciones de IA en videojuegos. Pendientes el programa de esta edición y el acceso de menores.
+Restricciones: El foro está confirmado para el 21–22 de enero de 2027. La página muestra el escenario de IA y ponentes en el programa de 2026. Confirme temas de 2027, idioma y acceso de menores.
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### C5360 · Spirit of Math 2027 · Taiwán · ronda nacional
 
@@ -1248,6 +1248,58 @@ Acceso: Visitantes individuales y grupos pueden solicitar plaza. La sesión se a
 Coste: TWD 600 por persona en grupos de 10–19. TWD 550 por persona desde 20. Consulte la tarifa individual.
 Restricciones: Confirme la entrada a la exposición general y el pago de los adultos.
 Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=491
+Verificado: 2026-11-10
+
+### E872 · Taipei Game Show 2027 · Indie Game Award Winner’s Pavilion
+
+Fecha: 2027-01-21 国 2027-01-24
+Edad: Muestra en la zona pública B2C. Confirme tarifa, acceso infantil y clasificaciones de edad de los juegos de 2027.
+Matvey: Muestra en la zona pública B2C. Confirme tarifa, acceso infantil y clasificaciones de edad de los juegos de 2027.
+Oscar: Muestra en la zona pública B2C. Confirme tarifa, acceso infantil y clasificaciones de edad de los juegos de 2027.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Muestra en la zona pública B2C. Confirme tarifa, acceso infantil y clasificaciones de edad de los juegos de 2027.
+Coste: Confirme la tarifa B2C de 2027.
+Restricciones: Los ganadores del Indie Game Award mostrarán demos en INDIE HOUSE. La visita a la muestra y la candidatura al concurso son trámites separados.
+Fuente: https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6
+Verificado: 2026-11-10
+
+### C5578 · Taipei Game Show · Indie Game Award 2027
+
+Fecha: 2027-01-20 — 2027-01-20
+Edad: Concurso abierto a desarrolladores independientes. Las reglas resumidas no indican una edad mínima numérica.
+Matvey: No. Las candidaturas de la edición 2027 están cerradas.
+Oscar: No. Las candidaturas de la edición 2027 están cerradas.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Las candidaturas de la edición 2027 cerraron el 19 de agosto de 2026. La ceremonia no admite nuevas candidaturas.
+Coste: La presentación del proyecto es gratuita.
+Restricciones: Candidaturas de 53 países y territorios. El organizador informó de 45 equipos de 20 países y territorios en la segunda ronda.
+Fuente: https://tgs.tca.org.tw/indie_award_e.php
+Verificado: 2026-11-10
+
+### C5579 · Taipei Game Show · Indie Game Award 2027 · Best Student Game
+
+Fecha: 2027-01-20 — 2027-01-20
+Edad: Para Best Student Game todos los integrantes acreditan su condición de estudiantes. Las reglas resumidas no fijan edad mínima numérica.
+Matvey: No. Las candidaturas de la edición 2027 están cerradas.
+Oscar: No. Las candidaturas de la edición 2027 están cerradas.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: Las candidaturas de la edición 2027 cerraron el 19 de agosto de 2026. La ceremonia no admite nuevas candidaturas.
+Coste: La presentación del proyecto es gratuita.
+Restricciones: Candidaturas de 53 países y territorios. El organizador informó de 45 equipos de 20 países y territorios en la segunda ronda.
+Fuente: https://tgs.tca.org.tw/indie_award_e.php
+Verificado: 2026-11-10
+
+### C5580 · CodeCombat CodeQuest · clasificación de Taiwán · próxima temporada
+
+Fecha: La próxima clasificación local aún no tiene fecha. Se describe el itinerario de 2026.
+Edad: En 2026 hubo dos grupos por grado: 1–6 y 7–12. Confirme el límite de edad y la equivalencia de estudios extranjeros para la próxima temporada.
+Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: En 2026 se recomendó a los 15 primeros de cada grupo de la final taiwanesa para la fase mundial. Confirme las reglas de la nueva temporada para participantes extranjeros.
+Costo: Consulte al organizador.
+Restricciones: La próxima clasificación local aún no tiene fecha. Se describe el itinerario de 2026.
+Fuente: https://ai4kids.ai/pages/codecombat-codequest
 Verificado: 2026-11-10
 
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
@@ -2042,6 +2094,84 @@ Costo: 2027 · NT6800;early6300do16October2026; shirt300extra · pagos y condici
 Limitaciones: Matvey: Necesito el efectivo current Grade1–5; Edad 2017 no sustituye a la clase. Idioma de las explicaciones complejas. Oscar: Al menos Grade 1 Fecha de inscripción; Clase desconocida. No se aprueba la admisión 2020 año. Gastos adicionales: Camp shirt NT300/Una cosa., Puedes usar el anterior.. Si todo el mundo necesita una nueva:14200standard/13200early la familia, A la carretera/Vivienda. Latepickup17–18:30 ad-hoc NT400, El primer turno es gratis.; Dos días wholecamp lateplan no vendido. No se ha solicitado pensión. Pago: Página de invierno: devolución 95% por 41+ día, 90% por 31–40, 80% por 21–30, 70% por 2–20, 50% Un día; al día de comienzo/después del comienzo/sin notificación. Se aplica el acuerdo de viaje; La transición sólo es posible en el lugar de destino. Período de descuento inicial 16 octubre — Plazo de inscripción no definitivo.
 Fuente: https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%AF%A6%E9%AB%94%E5%B7%A5%E5%9D%8A/
 Comprobado: 2026-10-06
+
+### CP908-20270121-20270122-build-half · Taipei Kids Academy · Winter Theme Camps 2027 · Invent, Design, Build! · media jornada · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 3400 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
+
+### CP908-20270121-20270122-build-full · Taipei Kids Academy · Winter Theme Camps 2027 · Invent, Design, Build! · jornada completa · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 5040 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
+
+### CP908-20270125-20270129-color-half · Taipei Kids Academy · Winter Theme Camps 2027 · Color Spectrum Quest · media jornada · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 8500 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
+
+### CP908-20270125-20270129-color-full · Taipei Kids Academy · Winter Theme Camps 2027 · Color Spectrum Quest · jornada completa · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 13800 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
+
+### CP908-20270201-20270203-festival-half · Taipei Kids Academy · Winter Theme Camps 2027 · Spring Festival Wonders · media jornada · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 5100 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
+
+### CP908-20270201-20270203-festival-full · Taipei Kids Academy · Winter Theme Camps 2027 · Spring Festival Wonders · jornada completa · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: De 3 a 12 años. Hasta 16 niños por grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las actividades principales son en inglés. Según las reglas del centro, el 20% de las clases especializadas de arte se imparte en chino.
+Acceso: Elija el turno y la modalidad. Confirme plazas, menú y admisión de menores extranjeros.
+Coste: 2027 · TWD 7560 por menor para esta opción. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Oscar: Cumple el intervalo general de 3 a 12 años. El centro agrupa por edad y nivel de inglés. Confirme grupo, plaza y admisión desde el extranjero. Suplementos: Alojamiento familiar, traslado, actividades optativas y posible recogida tardía por separado. Confirme el menú del turno. Pago: Por cancelación se retienen TWD 1000. Si se cancela dentro del mes anterior al inicio, se retienen además TWD 1200 por turno para la excursión.
+Fuente: https://tka.com.tw/zh_tw/product/2027wintercamp/
+Verificado: 2026-11-10
 
 ### CP967-20270130-20270203 · STARK Lab · Tinker Lab Winter · Cambio publicado · 2027-01-30-2027-02-03
 
@@ -4368,6 +4498,136 @@ Acceso: Actividades 09:00–16:00. Llegada desde 08:30 y recogida antes de 17:30
 Coste: 2027 · TWD 6 800 por 3 días. Almuerzo incluido. · suplementos y condiciones en la ficha
 Restricciones: Matvey: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Oscar: Candidato si encaja el curso escolar. Confirme equivalencia, idioma y plaza. Suplementos: El descuento depende de la fecha y sesión. Confirme importe actual y condiciones de cancelación. Pago: Consulte al organizador.
 Fuente: https://www.irobo.com.tw/spm-camp
+Verificado: 2026-11-10
+
+### CP2541-20270121-20270202 · Block Planet · Five Lanterns · Culture & Making · North District · Five Lanterns · Culture & Making · 2027-01-21–2027-02-02
+
+Fecha: 2027-01-21 — 2027-02-02
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 15000 por menor. Tarifa anticipada TWD 13000 hasta el 30 de noviembre de 2026. Con cupón válido TWD 12350. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Según las reglas publicadas, recepción desde las 07:30 y recogida hasta las 18:30. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2542-20270121-20270202 · Block Planet · Five Lanterns · Culture & Making · Dongqiao · Five Lanterns · Culture & Making · 2027-01-21–2027-02-02
+
+Fecha: 2027-01-21 — 2027-02-02
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 15000 por menor. Tarifa anticipada TWD 13000 hasta el 30 de noviembre de 2026. Con cupón válido TWD 12350. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Según las reglas publicadas, recepción desde las 07:30 y recogida hasta las 18:30. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2543-20270125-20270129 · Block Planet · Drone Soccer · North District · Drone Soccer · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 9200 por menor. Tarifa anticipada TWD 7999 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7600. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Recogida hasta las 18:30. Acuerde la llegada temprana. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2544-20270125-20270129 · Block Planet · LEGO IDEAS · Toy Design · North District · LEGO IDEAS · Toy Design · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Desde el grado 2 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 9800 por menor. Tarifa anticipada TWD 7800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7410. · suplementos y condiciones en la ficha
+Restricciones: Matvey: LEGO IDEAS exige grado 2 o superior. Confirme equivalencia de grado, plaza e idioma. Oscar: Aún no consta que Oscar curse grado 2 o superior. Confirme su admisión. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2545-20270125-20270129 · Block Planet · LEGO IDEAS · Toy Design · Dongqiao · LEGO IDEAS · Toy Design · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Desde el grado 2 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 9800 por menor. Tarifa anticipada TWD 7800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 7410. · suplementos y condiciones en la ficha
+Restricciones: Matvey: LEGO IDEAS exige grado 2 o superior. Confirme equivalencia de grado, plaza e idioma. Oscar: Aún no consta que Oscar curse grado 2 o superior. Confirme su admisión. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2546-20270121-20270122 · Block Planet · Game Lab · MakeCode Arcade · North District · Game Lab · MakeCode Arcade · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Desde 1.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 7400 por menor. Tarifa anticipada TWD 5400 hasta el 30 de noviembre de 2026. Con cupón válido TWD 5130. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Acuerde con la sede los horarios de entrega y recogida. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2547-20270121-20270122 · Block Planet · Flight Science · Dongqiao · Flight Science · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 6500 por menor. Tarifa anticipada TWD 5400 hasta el 30 de noviembre de 2026. Con cupón válido TWD 5130. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2548-20270121-20270122 · Block Planet · Fragrance Science · North District · Fragrance Science · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Alumnos de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · TWD 6500 por menor. Tarifa anticipada TWD 4800 hasta el 30 de noviembre de 2026. Con cupón válido TWD 4560. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Para este programa, recepción desde las 07:30 y recogida hasta las 18:30. Supervisión tardía TWD 190 por hora iniciada. Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: El 30 de noviembre corresponde a la tarifa anticipada. Confirme importe final, validez del cupón y plazas.
+Fuente: https://blockplanetcamp.com/camp2027/index.html
+Verificado: 2026-11-10
+
+### CP2549-20270121-20270203 · Danlu Kids Space · World New Year Adventure · World New Year Adventure · 2027-01-21–2027-02-03
+
+Fecha: 2027-01-21 - 2027-02-03
+edad: 1–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Coste: 2027 · El organizador indica el precio a petición. Primera tarifa anticipada hasta el 30 de noviembre de 2026. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Oscar: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero. Suplementos: Confirme comidas, reembolsos, seguro y posibles suplementos con la sede. Pago: Confirme plaza, equivalencia de grado, idioma y admisión individual de un menor extranjero.
+Fuente: https://www.danlukids.com/winter/2027/
+Verificado: 2026-11-10
+
+### CP2550-20270125-20270128 · AI4kids · AI Robotics Lab at NYCU · AI Robotics Lab · 2027-01-25–2027-01-28
+
+Fecha: 2027-01-25 — 2027-01-28
+Edad: De 15 a 19 años. Desde el último grado de secundaria inferior hasta el primer año universitario.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: El organizador publica la descripción en chino tradicional. Confirme el idioma de enseñanza y la posibilidad de apoyo en inglés.
+Acceso: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.
+Coste: 2027 · TWD 16800 por curso. Tarifa individual anticipada de TWD 15960 hasta el 30 de noviembre de 2026. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Ambos menores están por debajo de la edad mínima publicada de 15 años. Oscar: Ambos menores están por debajo de la edad mínima publicada de 15 años. Suplementos: Se necesita portátil propio con Windows o macOS. Desayuno, cena, alojamiento y traslado por separado. Pago: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.
+Fuente: https://ai4kids.ai/pages/ai-robot-camp
 Verificado: 2026-11-10
 
 ## ~ Comprobar de nuevo

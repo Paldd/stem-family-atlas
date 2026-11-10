@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12658; соревнований: 5576; событий: 871; лагерей / программ: 6211. Профилей лиг и программ: 359. Карточек крупных и профильных выставок: 763 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12678; соревнований: 5579; событий: 872; лагерей / программ: 6227. Профилей лиг и программ: 359. Карточек крупных и профильных выставок: 764 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 15 | 509 | 63 | 298 |
 | Европа | 55 | 796 | 189 | 1809 |
 | Африка | 61 | 293 | 52 | 167 |
-| Азия | 51 | 1298 | 215 | 1919 |
+| Азия | 51 | 1301 | 216 | 1935 |
 | Океания | 27 | 185 | 45 | 416 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 267. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5576 карточек соревнований (14.7%). Это явный перекос охвата.
+VEX: 821 из 5579 карточек соревнований (14.7%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -1049,7 +1049,7 @@ VEX: 821 из 5576 карточек соревнований (14.7%). Это я�
 - **Kinia Creative Technology Week 2027** — Ирландия; 2027-04-14 – 2027-04-24. Детский допуск уточнить. https://kinia.ie/creative-technology-week/
 - **Souidania · Espace de loisirs scientifiques** — Алжир; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://youthconnect.mjeunesse.gov.dz/showactivitypg/50785
 - **EMECEXPO 2027 · AI & Business Technology** — Марокко; 2027-12-02 – 2027-12-04. Детский допуск уточнить. https://www.emecexpo.com/informations-pratiques
-- **Taipei Game Show 2027 · Asia Pacific Game Summit / AI Stage** — Тайвань; 2027-01-21 – 2027-01-22. Детский допуск уточнить. https://tgs.tca.org.tw/?p=event_info_e
+- **Taipei Game Show 2027 · Asia Pacific Game Summit** — Тайвань; 2027-01-21 – 2027-01-22. Детский допуск уточнить. https://tgs.tca.org.tw/?p=event_info_e
 - **Asia Tech x Singapore 2027 · ATxEnterprise** — Сингапур; 2027-05-26 – 2027-05-28. Детям 6/9 нельзя. https://asiatechxsg.com/faqs/
 - **Asia Tech x Singapore 2027 · ATxSummit** — Сингапур; 2027-05-26 – 2027-05-27. Детский допуск уточнить. https://asiatechxsg.com/faqs/
 - **ExpoLatam Consumer Electronics Show · Panamá 2027** — Панама; 2027-01-14 – 2027-01-15. Детский допуск уточнить. https://www.ce-expolatam.com/
@@ -1204,6 +1204,7 @@ VEX: 821 из 5576 карточек соревнований (14.7%). Это я�
 - **2702 Rebels · Robot Reveal & Open House 2027** — Канада; 2027-02-27. Со взрослым; условия взрослого входа отдельно. https://2702rebels.com/events/
 - **Mecha Mayhem 2027 · Public robotics visit** — Канада; 2027-02-12 – 2027-02-14. Со взрослым; условия взрослого входа отдельно. https://www.mechamayhem.ca/info
 - **Museo Franz Mayer · Mockups · Maquetas y prototipos** — Мексика; 2026-10-16 – 2027-02-14. Детский допуск уточнить. https://franzmayer.org.mx/exposicion/mockups-before-fuckups/
+- **Taipei Game Show 2027 · Indie Game Award Winner’s Pavilion** — Тайвань; 2027-01-21 – 2027-01-24. Детский допуск уточнить. https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

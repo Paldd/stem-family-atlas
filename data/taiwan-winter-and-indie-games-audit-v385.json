@@ -1,0 +1,70 @@
+{
+  "version": 385,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 384,
+    "commit": "ba6a5b8f4c61815749693dd2848e21cf3e9b176c",
+    "workflow": 42868382843
+  },
+  "tka": {
+    "dossier_id": "CP908",
+    "distinct_themes": 3,
+    "priced_variants": 6,
+    "main_instruction": "EN",
+    "art_instruction": "ZH"
+  },
+  "block_planet": {
+    "dossier_ids": [
+      "CP2541",
+      "CP2542",
+      "CP2543",
+      "CP2544",
+      "CP2545",
+      "CP2546",
+      "CP2547",
+      "CP2548"
+    ],
+    "distinct_courses": 6,
+    "campus_options": 8,
+    "early_price_deadline": "2026-11-30",
+    "instruction_language_unconfirmed": true
+  },
+  "danlu": {
+    "dossier_id": "CP2549",
+    "grades": [
+      1,
+      6
+    ],
+    "published_window": [
+      "2027-01-21",
+      "2027-02-03"
+    ],
+    "hours_and_language_unconfirmed": true
+  },
+  "ai4kids": {
+    "dossier_id": "CP2550",
+    "age": [
+      15,
+      19
+    ],
+    "base_twd": 16800,
+    "optional_lodging_twd": 3600
+  },
+  "indie_game_award": {
+    "competition_ids": [
+      "C5578",
+      "C5579"
+    ],
+    "award_date": "2027-01-20",
+    "submissions_closed": "2026-08-19",
+    "showcase_id": "E872",
+    "public_child_admission_unconfirmed": true
+  },
+  "codequest": {
+    "watch_id": "C5580",
+    "next_dates_unannounced": true
+  },
+  "corrected_historical_ai_stage_event_id": "E707"
+}
