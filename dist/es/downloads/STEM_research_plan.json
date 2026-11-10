@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 361,
+    "prepared_ui_version": 362,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 360,
-    "previous_verified_commit": "80c02a394d19b906d9ac1b1415b1ed0a9b042c6c"
+    "previous_verified_ui_version": 361,
+    "previous_verified_commit": "898c0a43e8abf2cc95b0ddde47843c4f69169db4"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -39339,5 +39339,53 @@
     "mexico_ccd_clock_unresolved": "L987",
     "mexico_ccd_exhibition_header_conflict": "E804",
     "indonesia_foreign_admission_confirmed": false
+  },
+  "japan_robotics_winter_and_maker_visits_v362": {
+    "version": 362,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "learning_event_ids": [
+      "L988",
+      "L989",
+      "L990",
+      "L991",
+      "L992",
+      "L993",
+      "CP2399-20261221-20261225"
+    ],
+    "competition_ids": [
+      "C5470",
+      "C5471"
+    ],
+    "camp_dossier_ids": [
+      "CP2399"
+    ],
+    "legacy_overlay_event_ids": [
+      "E697",
+      "E066",
+      "E071",
+      "E009"
+    ],
+    "legacy_overlay_league_ids": [
+      "roboone"
+    ],
+    "timed_exhibition_ids": [
+      "E066",
+      "E071",
+      "E697"
+    ],
+    "kanagawa_residence_or_enrollment_required": true,
+    "minamata_deadline_extended": true,
+    "shenzhen_visitor_times_2026_confirmed": false,
+    "yokohama_early_bird": {
+      "deadline": "2026-11-15",
+      "deadline_clock": null,
+      "regular_week_two_jpy": 132000,
+      "early_week_two_jpy": 112200,
+      "regular_day_two_jpy": 26400,
+      "early_day_two_jpy": 22440,
+      "afternoon_english_confirmed": false
+    }
   }
 }

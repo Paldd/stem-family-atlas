@@ -766,7 +766,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-E009@family-stem.local
-DTSTAMP:20261107T082208Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Идея] Maker Faire Shenzhen 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
@@ -783,7 +783,7 @@ DESCRIPTION:Идея для планирования\, не принят
  ляет первые 98 стендов\, не окончательно
  е число компаний. У ALPHA возможны роботы /
   ИИ\, но возраст и язык не подтверждены.. 
- . . Источник проверен 2026-11-07.
+ . . Источник проверен 2026-11-10.
 LOCATION:Vanke Cloud Design Commune · Nanshan\, Shenzhen\, Китай
 URL:https://www.shenzhenmakerfaire.com/
 STATUS:TENTATIVE
@@ -14911,11 +14911,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-E066@family-stem.local
-DTSTAMP:20261107T063902Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Дни мероприятия] Maker Faire Monterrey / ITERA TEC
   2026
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
+DTSTART:20261112T150000Z
+DTEND:20261112T230000Z
 DESCRIPTION:Идея для планирования\, не принят
  ая регистрация. ID E066. . Матвей: Условно: п
  одтвердить детский вход\; Оскар: Условн
@@ -14925,14 +14925,11 @@ DESCRIPTION:Идея для планирования\, не принят
  ета. Возраст 6 и 9 лет и сопровождение ут
  очнить.. Следующий шаг: Проверить досту
  п детей на общий показ и записываться о
- тдельно на подходящую мастерскую.. Нова
- я официальная ссылка и страница хозяин
- а согласуются: четверг 12 ноября 2026. Стар
- ые 29–30 октября / 19–20 ноября больше не о
- сновной анонс. Общая Expo 09:00–17:00\, Talking Robot
- s отдельно 17:00–18:00. Возраст и EN/ES препода
- вание не подтверждены.. . . Источник пров
- ерен 2026-11-07.
+ тдельно на подходящую мастерскую.. Обща
+ я выставка с 09:00 до 17:00. На 10 ноября у Talking
+  Robots в 17:00–18:00 стояло Sold Out. У каждого зан
+ ятия своя квота и отдельный билет.. . . Ис
+ точник проверен 2026-11-10.
 LOCATION:Monterrey · HUB de Innovación y Emprendimiento Eduardo Garza T
  . · Av. Eugenio Garza Sada 2501 Sur\, Мексика
 URL:https://luma.com/i5cz5p70
@@ -14992,10 +14989,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-E071@family-stem.local
-DTSTAMP:20261107T063902Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Идея] Ogaki Mini Maker Faire 2026
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
+DTSTART:20261205T030000Z
+DTEND:20261205T080000Z
 DESCRIPTION:Идея для планирования\, не принят
  ая регистрация. ID E071. . Матвей: Условно: п
  одтвердить детский вход\; Оскар: Условн
@@ -15004,14 +15001,35 @@ DESCRIPTION:Идея для планирования\, не принят
  граничения выбранной активности. Следу
  ющий шаг: До бронирования получить возр
  астной допуск\, язык\, наличие мест и усл
- овия отмены. 5 декабря 12:00–17:00\, 6 декабря
-  10:00–16:00\, Softopia Japan Center Building. Заявки makers з
- акрыты\; это не закрытие посещения. Детс
- кий вход\, EN/ES и тариф не опубликованы. С
- уммы спонсорства не билеты.. . . Источник
-  проверен 2026-11-07.
+ овия отмены. 5 декабря 12:00–17:00 и 6 декабр
+ я 10:00–16:00. Softopia Japan Center Building\, 4-1-7 Kagano. Цен
+ а\, детский вход и язык мастерских не оп
+ убликованы.. . . Источник проверен 2026-11-10.
 LOCATION:Softopia Japan Center Building · Ogaki\, Япония
-URL:https://www.iamas.ac.jp/ommf2026/
+URL:https://www.iamas.ac.jp/ommf2026/index.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-E071-visit-2026-12-06@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Идея] Ogaki Mini Maker Faire 2026
+DTSTART:20261206T010000Z
+DTEND:20261206T070000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID E071. . Матвей: Условно: п
+ одтвердить детский вход\; Оскар: Условн
+ о: подтвердить детский вход. Как попаст
+ ь: Проверить текущие билеты / запись и о
+ граничения выбранной активности. Следу
+ ющий шаг: До бронирования получить возр
+ астной допуск\, язык\, наличие мест и усл
+ овия отмены. 5 декабря 12:00–17:00 и 6 декабр
+ я 10:00–16:00. Softopia Japan Center Building\, 4-1-7 Kagano. Цен
+ а\, детский вход и язык мастерских не оп
+ убликованы.. . . Источник проверен 2026-11-10.
+LOCATION:Softopia Japan Center Building · Ogaki\, Япония
+URL:https://www.iamas.ac.jp/ommf2026/index.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -159781,23 +159799,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-E697@family-stem.local
-DTSTAMP:20261109T012912Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Идея] Youth RoboFesta 2026 · Yokohama
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTART:20261129T010000Z
+DTEND:20261129T063000Z
 DESCRIPTION:Идея для планирования\, не принят
  ая регистрация. ID E697. . Матвей: Да\, можно 
  посетить с родителем.\; Оскар: Да\, можно 
- посетить с родителем.. Как попасть: Публ
- ичное семейное мероприятие. Для отдель
- ных занятий действуют свои правила зап
- иси и возраста.. Следующий шаг: Перед за
- писью сверить допуск\, язык и наличие ме
- ста.. Публичное семейное мероприятие. Д
- ля отдельных занятий действуют свои пр
- авила записи и возраста.. . . Источник пр
- оверен 2026-11-08.
-LOCATION:Kanagawa Prefectural Youth Center · Yokohama\, Япония
+ посетить с родителем.. Как попасть: 29 но
+ ября с 10:00 до 15:30. Общий вход без предвар
+ ительной записи. У лунной VR-экскурсии JGC
+  минимум 10 лет. У остальных занятий свои
+  условия.. Следующий шаг: Перед записью 
+ сверить допуск\, язык и наличие места.. 29
+  ноября с 10:00 до 15:30. Общий вход без предв
+ арительной записи. У лунной VR-экскурсии
+  JGC минимум 10 лет. У остальных занятий св
+ ои условия.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Япония
 URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robofesta.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -186414,6 +186434,484 @@ DESCRIPTION:Идея для планирования\, не принят
 LOCATION:Ciudad de México · CCEMx · Espacio X · Guatemala 18\, Мек
  сика
 URL:https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L988-2026-12-12@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Учебный день] Kanagawa · Robot Battle
+DTSTART:20261212T043000Z
+DTEND:20261212T063000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L988. Занятие: Программи
+ рование робота с датчиками для учебных 
+ боёв.\; 13:30–15:30 Asia/Tokyo. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 15 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L988-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] Kanagawa · Robot Batt
+ le
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L988. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 15 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L989-2026-12-27@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Учебный день] Kanagawa · RoboPro Junior · Sensors
+DTSTART:20261227T050000Z
+DTEND:20261227T063000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L989. Занятие: Ультразву
+ ковой датчик и датчик цвета помогают ро
+ боту замечать стены и линии.\; 14:00–15:30 Asia
+ /Tokyo. . Матвей: Только при проживании или 
+ учёбе в префектуре Канагава. Сверить шк
+ ольный класс.\; Оскар: Только при прожив
+ ании или учёбе в префектуре Канагава. С
+ верить школьный класс.. Как попасть: Под
+ готовка к приёму заявок. В опубликованн
+ ое окно подать через систему Канагава\, 
+ где доступна заявка без создания аккау
+ нта.. Следующий шаг: Только при проживан
+ ии или учёбе в префектуре Канагава. Све
+ рить школьный класс.. 16 мест. Жеребьёвка
+  при превышении квоты. Если братьев под
+ ают вместе\, результат жеребьёвки общий
+ .. Опубликована дата закрытия. Точный ча
+ с не указан.. . Источник проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L989-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] Kanagawa · RoboPro Ju
+ nior · Sensors
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L989. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 16 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L990-2027-01-10@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Учебный день] Kanagawa · Robot Maze Escape
+DTSTART:20270110T043000Z
+DTEND:20270110T063000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L990. Занятие: Робот про
+ ходит лабиринт и выполняет задания с да
+ тчиком цвета и манипулятором.\; 13:30–15:30 A
+ sia/Tokyo. . Матвей: Только при проживании ил
+ и учёбе в префектуре Канагава. Сверить 
+ школьный класс.\; Оскар: Только при прож
+ ивании или учёбе в префектуре Канагава.
+  Сверить школьный класс.. Как попасть: П
+ одготовка к приёму заявок. В опубликова
+ нное окно подать через систему Канагав
+ а\, где доступна заявка без создания акк
+ аунта.. Следующий шаг: Только при прожив
+ ании или учёбе в префектуре Канагава. С
+ верить школьный класс.. 16 мест. Жеребьёв
+ ка при превышении квоты. Если братьев п
+ одают вместе\, результат жеребьёвки общ
+ ий.. Опубликована дата закрытия. Точный 
+ час не указан.. . Источник проверен 2026-11-1
+ 0.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L990-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] Kanagawa · Robot Maze
+  Escape
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L990. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 16 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L991-2027-02-21@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Учебный день] Kanagawa · Robot Race
+DTSTART:20270221T043000Z
+DTEND:20270221T063000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L991. Занятие: Участники
+  настраивают датчики и улучшают время п
+ рохождения трассы.\; 13:30–15:30 Asia/Tokyo. . Мат
+ вей: Только при проживании или учёбе в п
+ рефектуре Канагава. Сверить школьный к
+ ласс.\; Оскар: Только при проживании или 
+ учёбе в префектуре Канагава. Сверить шк
+ ольный класс.. Как попасть: Подготовка к
+  приёму заявок. В опубликованное окно п
+ одать через систему Канагава\, где дост
+ упна заявка без создания аккаунта.. Сле
+ дующий шаг: Только при проживании или у
+ чёбе в префектуре Канагава. Сверить шко
+ льный класс.. 12 мест. Жеребьёвка при пре
+ вышении квоты. Если братьев подают вмес
+ те\, результат жеребьёвки общий.. Опубли
+ кована дата закрытия. Точный час не ука
+ зан.. . Источник проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L991-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] Kanagawa · Robot Race
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L991. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 12 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L992-2027-03-07@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Учебный день] Kanagawa · RoboPro Junior · Time Trav
+ el
+DTSTART:20270307T050000Z
+DTEND:20270307T063000Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L992. Занятие: Начальный
+  курс управления роботом через визуаль
+ ное программирование.\; 14:00–15:30 Asia/Tokyo. . 
+ Матвей: Только при проживании или учёбе
+  в префектуре Канагава. Сверить школьны
+ й класс.\; Оскар: Только при проживании и
+ ли учёбе в префектуре Канагава. Сверить
+  школьный класс.. Как попасть: Подготовк
+ а к приёму заявок. В опубликованное окн
+ о подать через систему Канагава\, где до
+ ступна заявка без создания аккаунта.. С
+ ледующий шаг: Только при проживании или
+  учёбе в префектуре Канагава. Сверить ш
+ кольный класс.. 16 мест. Жеребьёвка при п
+ ревышении квоты. Если братьев подают вм
+ есте\, результат жеребьёвки общий.. Опуб
+ ликована дата закрытия. Точный час не у
+ казан.. . Источник проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L992-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] Kanagawa · RoboPro Ju
+ nior · Time Travel
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L992. . Матвей: Только пр
+ и проживании или учёбе в префектуре Кан
+ агава. Сверить школьный класс.\; Оскар: Т
+ олько при проживании или учёбе в префек
+ туре Канагава. Сверить школьный класс.. 
+ Как попасть: Подготовка к приёму заявок
+ . В опубликованное окно подать через си
+ стему Канагава\, где доступна заявка бе
+ з создания аккаунта.. Следующий шаг: Тол
+ ько при проживании или учёбе в префекту
+ ре Канагава. Сверить школьный класс.. 16 
+ мест. Жеребьёвка при превышении квоты. 
+ Если братьев подают вместе\, результат 
+ жеребьёвки общий.. Опубликована дата за
+ крытия. Точный час не указан.. . Источник
+  проверен 2026-11-10.
+LOCATION:Atsugi · Kanagawa Youth Center Science Division · Promity Atsu
+ gi 2F · 4-16-21 Nakamachi\, Япония
+URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L993@family-stem.local
+DTSTAMP:20261110T071624Z
+SUMMARY:[Начало · полный период уточнить] Mina
+ mata Environmental Academia · JRC 2027 Winter preparation
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L993. . Матвей: Условно. П
+ одтвердить допуск и наличие мест.\; Оска
+ р: Условно. Подтвердить допуск и наличи
+ е мест.. Как попасть: Подготовка по отбо
+ ру. Заявку на сам JRC подают отдельно во в
+ ремя занятий. Школьный транспорт к акад
+ емии только из школ Минаматы.. Следующи
+ й шаг: Уточнить исключения для младших\,
+  условия для иностранных школьников и я
+ зык занятий.. Подготовка с 25 ноября по к
+ онец января\, по средам и пятницам 15:00–18
+ :00. 27 ноября занятия нет. Ориентация 14 но
+ ября в 09:00.. Муниципалитет продлил приём
+  до 11 ноября из-за обслуживания формы. О
+ коло 10 мест\, ответ до 13 ноября.. . Источн
+ ик проверен 2026-11-10.
+LOCATION:Minamata · Environmental Academia · 6-1 Minamifukuji\, Япо
+ ния
+URL:https://localcms.city.minamata.lg.jp/page4936.html?type=top
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-L993-deadline@family-stem.local
+DTSTAMP:20261110T071624Z
+SUMMARY:[Дедлайн\, час уточнить] Minamata Environmental
+  Academia · JRC 2027 Winter preparation
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID L993. . Матвей: Условно. П
+ одтвердить допуск и наличие мест.\; Оска
+ р: Условно. Подтвердить допуск и наличи
+ е мест.. Как попасть: Подготовка по отбо
+ ру. Заявку на сам JRC подают отдельно во в
+ ремя занятий. Школьный транспорт к акад
+ емии только из школ Минаматы.. Следующи
+ й шаг: Уточнить исключения для младших\,
+  условия для иностранных школьников и я
+ зык занятий.. Подготовка с 25 ноября по к
+ онец января\, по средам и пятницам 15:00–18
+ :00. 27 ноября занятия нет. Ориентация 14 но
+ ября в 09:00.. Муниципалитет продлил приём
+  до 11 ноября из-за обслуживания формы. О
+ коло 10 мест\, ответ до 13 ноября.. . Источн
+ ик проверен 2026-11-10.
+LOCATION:Minamata · Environmental Academia · 6-1 Minamifukuji\, Япо
+ ния
+URL:https://localcms.city.minamata.lg.jp/page4936.html?type=top
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C5470@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Идея] ROBO-ONE Beginners Yokohama · 8th
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID C5470. . Матвей: Условно. 
+ Подтвердить допуск и наличие мест.\; Оск
+ ар: Условно. Подтвердить допуск и налич
+ ие мест.. Как попасть: Допускаются коман
+ ды. Квалификационный разряд присваиваю
+ т при индивидуальном участии и выполне
+ нии критериев.. Следующий шаг: Уточнить 
+ у организатора.. Отбор по времени круга 
+ и финальный турнир. Зрительское посеще
+ ние отмечено отдельной карточкой RoboFesta.
+ . Объявленный срок заявки 10 ноября 2026. Т
+ очный час и наличие мест не подтвержден
+ ы.. . Источник проверен 2026-11-10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Япония
+URL:https://robo-one.com/beginners/index/97
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C5470-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] ROBO-ONE Beginners Yok
+ ohama · 8th
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID C5470. . Матвей: Условно. 
+ Подтвердить допуск и наличие мест.\; Оск
+ ар: Условно. Подтвердить допуск и налич
+ ие мест.. Как попасть: Допускаются коман
+ ды. Квалификационный разряд присваиваю
+ т при индивидуальном участии и выполне
+ нии критериев.. Следующий шаг: Уточнить 
+ у организатора.. Отбор по времени круга 
+ и финальный турнир. Зрительское посеще
+ ние отмечено отдельной карточкой RoboFesta.
+ . Объявленный срок заявки 10 ноября 2026. Т
+ очный час и наличие мест не подтвержден
+ ы.. . Источник проверен 2026-11-10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Япония
+URL:https://robo-one.com/beginners/index/97
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C5471@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Идея] New ROBO-Ken Yokohama · 5th
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID C5471. . Матвей: По возрас
+ ту подходит. Нужен готовый автономный р
+ обот по правилам и принятая заявка.\; Ос
+ кар: Возраст допускается. Практическая 
+ готовность и технические условия требу
+ ют отдельной проверки.. Как попасть: Рег
+ ламент допускает участников любого воз
+ раста и гражданства. Нужны регистрация 
+ игрока\, отдельная заявка и технический
+  контроль.. Следующий шаг: Уточнить у ор
+ ганизатора.. Автономное роботизированн
+ ое кэндо. Число участников команды и та
+ риф уточнить.. Объявленный срок заявки 1
+ 0 ноября 2026. Точный час и наличие мест не
+  подтверждены.. . Источник проверен 2026-11-
+ 10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Япония
+URL:https://www.robo-one.com/sinkens/index/96
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-C5471-deadline@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Дедлайн\, час уточнить] New ROBO-Ken Yokohama 
+ · 5th
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID C5471. . Матвей: По возрас
+ ту подходит. Нужен готовый автономный р
+ обот по правилам и принятая заявка.\; Ос
+ кар: Возраст допускается. Практическая 
+ готовность и технические условия требу
+ ют отдельной проверки.. Как попасть: Рег
+ ламент допускает участников любого воз
+ раста и гражданства. Нужны регистрация 
+ игрока\, отдельная заявка и технический
+  контроль.. Следующий шаг: Уточнить у ор
+ ганизатора.. Автономное роботизированн
+ ое кэндо. Число участников команды и та
+ риф уточнить.. Объявленный срок заявки 1
+ 0 ноября 2026. Точный час и наличие мест не
+  подтверждены.. . Источник проверен 2026-11-
+ 10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Япония
+URL:https://www.robo-one.com/sinkens/index/96
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -560582,7 +561080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12
  -26@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] Tokyo YMCA · Winter Magic · STEAM · 
  Winter Magic · 2026-12-26–2026-12-28
 DTSTART:20261226T003000Z
@@ -560620,7 +561118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho-2026-12
  -27@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] Tokyo YMCA · Winter Magic · STEAM · 
  Winter Magic · 2026-12-26–2026-12-28
 DTSTART:20261227T003000Z
@@ -574399,7 +574897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-ferienca
  mp-2027-01-04@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Game Design with Scratc
  h & AI · Дневная смена 09:00–15:30. · 2027-01-04–2027-
  01-08
@@ -574438,7 +574936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-ferienca
  mp-2027-01-05@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Game Design with Scratc
  h & AI · Дневная смена 09:00–15:30. · 2027-01-04–2027-
  01-08
@@ -574477,7 +574975,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-ferienca
  mp-2027-01-06@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Game Design with Scratc
  h & AI · Дневная смена 09:00–15:30. · 2027-01-04–2027-
  01-08
@@ -574516,7 +575014,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1946-20270104-20270108-game-design-mit-scratch-und-ki-ferienca
  mp-2027-01-07@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Game Design with Scratc
  h & AI · Дневная смена 09:00–15:30. · 2027-01-04–2027-
  01-08
@@ -574594,7 +575092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01
  -04@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · AI Robot Lab · Дне
  вная смена 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270104T080000Z
@@ -574632,7 +575130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01
  -05@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · AI Robot Lab · Дне
  вная смена 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270105T080000Z
@@ -574670,7 +575168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01
  -06@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · AI Robot Lab · Дне
  вная смена 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270106T080000Z
@@ -574708,7 +575206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp-2027-01
  -07@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · AI Robot Lab · Дне
  вная смена 09:00–15:30. · 2027-01-04–2027-01-08
 DTSTART:20270107T080000Z
@@ -574940,7 +575438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027
  -03-22@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Robotics & Physical AI 
  · Дневная смена 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270322T080000Z
@@ -574979,7 +575477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027
  -03-23@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Robotics & Physical AI 
  · Дневная смена 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270323T080000Z
@@ -575018,7 +575516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp-2027
  -03-24@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Robotics & Physical AI 
  · Дневная смена 09:00–15:30. · 2027-03-22–2027-03-25
 DTSTART:20270324T080000Z
@@ -575244,7 +575742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-0
  6-28@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Drone Pilot School · 
  Дневная смена 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270628T070000Z
@@ -575282,7 +575780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-0
  6-29@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Drone Pilot School · 
  Дневная смена 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270629T070000Z
@@ -575320,7 +575818,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-0
  6-30@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Drone Pilot School · 
  Дневная смена 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270630T070000Z
@@ -575358,7 +575856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp-2027-0
  7-01@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] ROBOT SCHOOL · Drone Pilot School · 
  Дневная смена 09:00–15:30. · 2027-06-28–2027-07-02
 DTSTART:20270701T070000Z
@@ -587860,7 +588358,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22-202
  6-12-22@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] SUP Education · AI × STEAM Christmas 
  · 7+ · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026
  -12-22–2026-12-23
@@ -587932,7 +588430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stem-CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29-202
  6-12-29@family-stem.local
-DTSTAMP:20261110T065622Z
+DTSTAMP:20261110T071712Z
 SUMMARY:[Учебный день] SUP Education · AI × STEAM Christmas 
  · 7+ · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026
  -12-29–2026-12-30
@@ -626251,6 +626749,196 @@ DESCRIPTION:Идея для планирования\, не принят
 LOCATION:Le Puy-en-Velay · Campus26 · 4 rue du Pensionnat Notre-Dame de
   France\, Франция
 URL:https://www.lecoledunumerique.fr/activites/stages-vacances/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2399-20261221-20261225-2026-12-21@family-stem.local
+DTSTAMP:20261110T071712Z
+SUMMARY:[Учебный день] YES International School · Future City
+  · 2026-12-21–2026-12-25
+DTSTART:20261220T234500Z
+DTEND:20261221T061500Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID CP2399-20261221-20261225. Занятие
+ : Future City\; 08:45–15:15 Asia/Tokyo. 21–25 декабря. Вст
+ реча с 08:45\, занятия с 09:15\, забрать до 15:15.
+  Продлёнка до 17:00 входит в тариф.. Матвей
+ : Условно\; проверить возраст\, класс и д
+ опуск\; Оскар: Условно\; проверить возра
+ ст\, класс и допуск. Как попасть: Принима
+ ют внешних учеников. Можно выбрать один
+  день или всю неделю. Льготная цена дейс
+ твует при подаче до 15 ноября. Точный час
+  и места уточнить.. Следующий шаг: Подтв
+ ердить места для двоих\, школьный класс 
+ и языковую поддержку.. Матвей: Общий про
+ ект подходит по возрасту. Для программи
+ рования подтвердить эквивалент 3-го кла
+ сса или выше. Оскар: По возрасту подходи
+ т общий и художественный проект. Для пр
+ ограммирования нужен 3-й класс. Доплаты:
+  Программа включает обед и продлёнку. П
+ рименимость льготного тарифа подтверж
+ дает школа. Оплата: Школа подтверждает 
+ место и присылает реквизиты для банков
+ ского перевода. Условия возврата уточн
+ ить.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · YES International School · 1-33-1 Hiranuma\, Nishi-
+ ku · 3F/4F\, Япония
+URL:https://www.yesinternationalschool.com/winter-school
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2399-20261221-20261225-2026-12-22@family-stem.local
+DTSTAMP:20261110T071712Z
+SUMMARY:[Учебный день] YES International School · Future City
+  · 2026-12-21–2026-12-25
+DTSTART:20261221T234500Z
+DTEND:20261222T061500Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID CP2399-20261221-20261225. Занятие
+ : Future City\; 08:45–15:15 Asia/Tokyo. 21–25 декабря. Вст
+ реча с 08:45\, занятия с 09:15\, забрать до 15:15.
+  Продлёнка до 17:00 входит в тариф.. Матвей
+ : Условно\; проверить возраст\, класс и д
+ опуск\; Оскар: Условно\; проверить возра
+ ст\, класс и допуск. Как попасть: Принима
+ ют внешних учеников. Можно выбрать один
+  день или всю неделю. Льготная цена дейс
+ твует при подаче до 15 ноября. Точный час
+  и места уточнить.. Следующий шаг: Подтв
+ ердить места для двоих\, школьный класс 
+ и языковую поддержку.. Матвей: Общий про
+ ект подходит по возрасту. Для программи
+ рования подтвердить эквивалент 3-го кла
+ сса или выше. Оскар: По возрасту подходи
+ т общий и художественный проект. Для пр
+ ограммирования нужен 3-й класс. Доплаты:
+  Программа включает обед и продлёнку. П
+ рименимость льготного тарифа подтверж
+ дает школа. Оплата: Школа подтверждает 
+ место и присылает реквизиты для банков
+ ского перевода. Условия возврата уточн
+ ить.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · YES International School · 1-33-1 Hiranuma\, Nishi-
+ ku · 3F/4F\, Япония
+URL:https://www.yesinternationalschool.com/winter-school
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2399-20261221-20261225-2026-12-23@family-stem.local
+DTSTAMP:20261110T071712Z
+SUMMARY:[Учебный день] YES International School · Future City
+  · 2026-12-21–2026-12-25
+DTSTART:20261222T234500Z
+DTEND:20261223T061500Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID CP2399-20261221-20261225. Занятие
+ : Future City\; 08:45–15:15 Asia/Tokyo. 21–25 декабря. Вст
+ реча с 08:45\, занятия с 09:15\, забрать до 15:15.
+  Продлёнка до 17:00 входит в тариф.. Матвей
+ : Условно\; проверить возраст\, класс и д
+ опуск\; Оскар: Условно\; проверить возра
+ ст\, класс и допуск. Как попасть: Принима
+ ют внешних учеников. Можно выбрать один
+  день или всю неделю. Льготная цена дейс
+ твует при подаче до 15 ноября. Точный час
+  и места уточнить.. Следующий шаг: Подтв
+ ердить места для двоих\, школьный класс 
+ и языковую поддержку.. Матвей: Общий про
+ ект подходит по возрасту. Для программи
+ рования подтвердить эквивалент 3-го кла
+ сса или выше. Оскар: По возрасту подходи
+ т общий и художественный проект. Для пр
+ ограммирования нужен 3-й класс. Доплаты:
+  Программа включает обед и продлёнку. П
+ рименимость льготного тарифа подтверж
+ дает школа. Оплата: Школа подтверждает 
+ место и присылает реквизиты для банков
+ ского перевода. Условия возврата уточн
+ ить.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · YES International School · 1-33-1 Hiranuma\, Nishi-
+ ku · 3F/4F\, Япония
+URL:https://www.yesinternationalschool.com/winter-school
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2399-20261221-20261225-2026-12-24@family-stem.local
+DTSTAMP:20261110T071712Z
+SUMMARY:[Учебный день] YES International School · Future City
+  · 2026-12-21–2026-12-25
+DTSTART:20261223T234500Z
+DTEND:20261224T061500Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID CP2399-20261221-20261225. Занятие
+ : Future City\; 08:45–15:15 Asia/Tokyo. 21–25 декабря. Вст
+ реча с 08:45\, занятия с 09:15\, забрать до 15:15.
+  Продлёнка до 17:00 входит в тариф.. Матвей
+ : Условно\; проверить возраст\, класс и д
+ опуск\; Оскар: Условно\; проверить возра
+ ст\, класс и допуск. Как попасть: Принима
+ ют внешних учеников. Можно выбрать один
+  день или всю неделю. Льготная цена дейс
+ твует при подаче до 15 ноября. Точный час
+  и места уточнить.. Следующий шаг: Подтв
+ ердить места для двоих\, школьный класс 
+ и языковую поддержку.. Матвей: Общий про
+ ект подходит по возрасту. Для программи
+ рования подтвердить эквивалент 3-го кла
+ сса или выше. Оскар: По возрасту подходи
+ т общий и художественный проект. Для пр
+ ограммирования нужен 3-й класс. Доплаты:
+  Программа включает обед и продлёнку. П
+ рименимость льготного тарифа подтверж
+ дает школа. Оплата: Школа подтверждает 
+ место и присылает реквизиты для банков
+ ского перевода. Условия возврата уточн
+ ить.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · YES International School · 1-33-1 Hiranuma\, Nishi-
+ ku · 3F/4F\, Япония
+URL:https://www.yesinternationalschool.com/winter-school
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-CP2399-20261221-20261225-2026-12-25@family-stem.local
+DTSTAMP:20261110T071712Z
+SUMMARY:[Учебный день] YES International School · Future City
+  · 2026-12-21–2026-12-25
+DTSTART:20261224T234500Z
+DTEND:20261225T061500Z
+DESCRIPTION:Идея для планирования\, не принят
+ ая регистрация. ID CP2399-20261221-20261225. Занятие
+ : Future City\; 08:45–15:15 Asia/Tokyo. 21–25 декабря. Вст
+ реча с 08:45\, занятия с 09:15\, забрать до 15:15.
+  Продлёнка до 17:00 входит в тариф.. Матвей
+ : Условно\; проверить возраст\, класс и д
+ опуск\; Оскар: Условно\; проверить возра
+ ст\, класс и допуск. Как попасть: Принима
+ ют внешних учеников. Можно выбрать один
+  день или всю неделю. Льготная цена дейс
+ твует при подаче до 15 ноября. Точный час
+  и места уточнить.. Следующий шаг: Подтв
+ ердить места для двоих\, школьный класс 
+ и языковую поддержку.. Матвей: Общий про
+ ект подходит по возрасту. Для программи
+ рования подтвердить эквивалент 3-го кла
+ сса или выше. Оскар: По возрасту подходи
+ т общий и художественный проект. Для пр
+ ограммирования нужен 3-й класс. Доплаты:
+  Программа включает обед и продлёнку. П
+ рименимость льготного тарифа подтверж
+ дает школа. Оплата: Школа подтверждает 
+ место и присылает реквизиты для банков
+ ского перевода. Условия возврата уточн
+ ить.. . . Источник проверен 2026-11-10.
+LOCATION:Yokohama · YES International School · 1-33-1 Hiranuma\, Nishi-
+ ku · 3F/4F\, Япония
+URL:https://www.yesinternationalschool.com/winter-school
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

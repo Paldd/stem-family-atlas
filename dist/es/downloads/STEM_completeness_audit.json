@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12133,
-    "competition_cards": 5468,
+    "cards": 12142,
+    "competition_cards": 5470,
     "event_cards": 805,
-    "camp_cards": 5860,
+    "camp_cards": 5867,
     "league_profiles": 348,
     "major_exhibition_cards": 699,
     "vex_cards": 821,
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3285,
+      "total": 3294,
       "countries_with_records": 51,
-      "competitions": 1243,
+      "competitions": 1245,
       "events": 204,
       "major_exhibitions": 191,
-      "camps": 1838,
+      "camps": 1845,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -3362,11 +3362,13 @@
         "C4855",
         "C4856",
         "C4857",
-        "C4858"
+        "C4858",
+        "C5470",
+        "C5471"
       ],
-      "cards": 5,
-      "future_dated": 5,
-      "linked_card_count": 5,
+      "cards": 7,
+      "future_dated": 7,
+      "linked_card_count": 7,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robo-one.com/en/",
       "new": false
@@ -10730,7 +10732,7 @@
       "start": "2026-12-05",
       "end": "2026-12-06",
       "visitor_policy": "confirm_children",
-      "source": "https://www.iamas.ac.jp/ommf2026/",
+      "source": "https://www.iamas.ac.jp/ommf2026/index.html",
       "new": false
     },
     {
@@ -20128,8 +20130,8 @@
       }
     ],
     "counts": {
-      "records": 5860,
-      "holiday": 5209,
+      "records": 5867,
+      "holiday": 5210,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,

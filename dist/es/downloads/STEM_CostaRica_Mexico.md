@@ -807,9 +807,9 @@ Oscar: Condicional: confirmar la entrada de niños
 Idioma: No se ha confirmado el idioma de actividad
 Acceso: Para la feria elegir Acceso General gratuito. Los talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y acompañamiento.
 Precio: General y Talking Robots tienen type=free en configuración pública de entradas. Confirmar materiales y otros gastos obligatorios de actividad elegida.
-Limitaciones: Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.
+Condiciones: Exposición general de 09:00 a 17:00. El 10 de noviembre, Talking Robots de 17:00 a 18:00 figuraba como Sold Out. Cada actividad tiene su propio cupo y entrada.
 Fuente: https://luma.com/i5cz5p70
-Se ha comprobado: 2026-11-07
+Verificado: 2026-11-10
 
 ### ~#L115 · Logiscool México - LEGO WeDo camp, futuro turno
 

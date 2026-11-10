@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2398,
+    "dossiers": 2399,
     "countries": 140,
     "swiss": 163,
     "by_status": {
-      "published_2026_27": 337,
+      "published_2026_27": 338,
       "published_2027": 673,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3313
+    "source_urls": 3314
   },
   "countries": [
     {
@@ -612,7 +612,7 @@
     },
     {
       "country": "Japón",
-      "count": 92
+      "count": 93
     },
     {
       "country": "Lituania",
@@ -421247,6 +421247,163 @@
         }
       ],
       "language_roles": {}
+    },
+    {
+      "id": "CP2399",
+      "slug": "yes-yokohama-future-city-winter-2026",
+      "provider": "YES International School",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3F/4F",
+      "age": "Desde 4 años hasta grado 9. Programación desde grado 3. El proyecto artístico está abierto a todo el grupo.",
+      "programme": "Los niños diseñan una ciudad futura y exploran cómo la tecnología ayuda a crear edificios más sostenibles. De 13:30 a 15:00 eligen entre programación y proyecto artístico.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "coding",
+        "technology",
+        "makers",
+        "art"
+      ],
+      "language": "El proyecto matutino de 09:15 a 12:00 se imparte en inglés y japonés. Confirme el idioma de la actividad de la tarde y el apoyo sin japonés.",
+      "confirmed_instruction_languages": [
+        "EN",
+        "JA"
+      ],
+      "confirmed_support_languages": [],
+      "materials_languages": [],
+      "language_evidence_role": "partial_bilingual",
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "Future City",
+            "source": "https://www.yesinternationalschool.com/winter-school",
+            "price": "66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día.",
+            "entry": "Se admiten alumnos externos. Se puede elegir un día o toda la semana. Tarifa anticipada para solicitudes hasta el 15 de noviembre. Confirme hora exacta y plazas.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:45",
+                "end_time": "15:15",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T23:45:00Z",
+                "end_utc": "2026-12-21T06:15:00Z",
+                "topic": "Future City",
+                "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:45",
+                "end_time": "15:15",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T23:45:00Z",
+                "end_utc": "2026-12-22T06:15:00Z",
+                "topic": "Future City",
+                "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:45",
+                "end_time": "15:15",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T23:45:00Z",
+                "end_utc": "2026-12-23T06:15:00Z",
+                "topic": "Future City",
+                "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:45",
+                "end_time": "15:15",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T23:45:00Z",
+                "end_utc": "2026-12-24T06:15:00Z",
+                "topic": "Future City",
+                "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+              },
+              {
+                "date": "2026-12-25",
+                "start_time": "08:45",
+                "end_time": "15:15",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T23:45:00Z",
+                "end_utc": "2026-12-25T06:15:00Z",
+                "topic": "Future City",
+                "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 66000,
+        "unit": "per_child_course",
+        "label": "66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día.",
+        "included": "Incluye almuerzo y cuidado hasta las 17:00.",
+        "extras": "El programa incluye almuerzo y cuidado extendido. La escuela confirma si se aplica la tarifa anticipada.",
+        "deposit": "La escuela confirma la plaza y envía las instrucciones de transferencia bancaria. Consulte las condiciones de devolución."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cumple por edad para el proyecto general. Para programación confirme equivalencia de grado 3 o superior."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Cumple por edad para el proyecto general y artístico. Para programación se exige grado 3."
+        }
+      },
+      "editorial_reason": "Los niños diseñan una ciudad futura y exploran cómo la tecnología ayuda a crear edificios más sostenibles. De 13:30 a 15:00 eligen entre programación y proyecto artístico.",
+      "shortlist": [],
+      "questions": [
+        "Confirme dos plazas, el grado escolar y el apoyo lingüístico."
+      ],
+      "sources": [
+        {
+          "url": "https://www.yesinternationalschool.com/winter-school",
+          "title": "Se comprobó la ficha oficial del programa.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2399-20261221-20261225"
+          ]
+        }
+      ],
+      "language_roles": {
+        "partial_bilingual": [
+          "EN",
+          "JA"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -439807,7 +439964,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2398,
+      "total_dossiers": 2399,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -465757,6 +465914,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2399",
+      "event_id": "CP2399-20261221-20261225",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -471040,10 +471202,11 @@
     "CP2398-20270209-20270209",
     "CP2398-20270211-20270211",
     "CP2398-20270216-20270216",
-    "CP2398-20270218-20270218"
+    "CP2398-20270218-20270218",
+    "CP2399-20261221-20261225"
   ],
   "integration": {
-    "generated_sessions": 4873,
+    "generated_sessions": 4874,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

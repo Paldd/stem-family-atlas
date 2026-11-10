@@ -8053,6 +8053,30 @@
             "hardware": "Un robot de dos patas",
             "entry": "Player registration y reglas de la etapa",
             "age_rule": "edad / clase según las reglas de la etapa concreta"
+          },
+          {
+            "name": "ROBO-ONE Beginners Yokohama · 8th",
+            "age": "En las categorías autónoma y Vision AI no se indica edad mínima. En la categoría teledirigida la clase exigida del robot aumenta para bachillerato y adultos.",
+            "team": "Se permiten equipos. El grado de habilidad se acredita con participación individual y cumplimiento de los criterios.",
+            "hardware": "Solo modelos autorizados con ruedas. Variantes KXR-R2B/K y servomotores según el reglamento. En Vision AI se exige cámara.",
+            "entry": "Se permiten equipos. El grado de habilidad se acredita con participación individual y cumplimiento de los criterios.",
+            "event_id": "C5470",
+            "source": "https://robo-one.com/beginners/index/97",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "El plazo publicado es el 10 de noviembre de 2026. La hora exacta y las plazas quedan por confirmar.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "New ROBO-Ken Yokohama · 5th",
+            "age": "El reglamento admite participantes de cualquier edad y nacionalidad. Se exige alta de jugador, solicitud aparte e inspección técnica.",
+            "team": "",
+            "hardware": "Robot móvil completamente autónomo con brazo. Se permite conexión inalámbrica con ordenador externo si se mantiene la autonomía.",
+            "entry": "El reglamento admite participantes de cualquier edad y nacionalidad. Se exige alta de jugador, solicitud aparte e inspección técnica.",
+            "event_id": "C5471",
+            "source": "https://www.robo-one.com/sinkens/index/96",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "El plazo publicado es el 10 de noviembre de 2026. La hora exacta y las plazas quedan por confirmar.",
+            "checked": "2026-11-10"
           }
         ],
         "event_ids": [
@@ -8060,7 +8084,9 @@
           "C4855",
           "C4856",
           "C4857",
-          "C4858"
+          "C4858",
+          "C5470",
+          "C5471"
         ],
         "legacy_ids": [],
         "route": "dominar el robot de dos piernas → Beginners / certified event → reglas y calificación de un torneo concreto.",
@@ -8088,6 +8114,26 @@
             "title": "45o ROBO-ONE: concluido",
             "url": "https://www.robo-one.com/en/roboones/index/93",
             "checked": "2026-09-30"
+          },
+          {
+            "url": "https://robo-one.com/beginners/index/97",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://robo-one.com/upload/roboones/97_d57fac296b9405045993ca0e27f130d3original.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.robo-one.com/sinkens/index/96",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://www.robo-one.com/upload/roboones/96_9a0dc45c5188211cb1c1399042017b88original.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
           }
         ],
         "evidence": "la fuente original se ha leído 30.09.2026. la admisión de la familia y la representación nacional no se han confirmado."

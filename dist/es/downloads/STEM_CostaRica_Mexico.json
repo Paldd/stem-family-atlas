@@ -3595,9 +3595,9 @@
       "action": "Confirmar acceso infantil a la exposición y reservar aparte el taller apropiado.",
       "source": "https://luma.com/i5cz5p70",
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-10",
       "status": "Idea",
-      "note": "Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.",
+      "note": "Exposición general de 09:00 a 17:00. El 10 de noviembre, Talking Robots de 17:00 a 18:00 figuraba como Sold Out. Cada actividad tiene su propio cupo y entrada.",
       "themes": [
         "technology",
         "robotics"
@@ -3621,15 +3621,25 @@
       "visitor_policy": "confirm_children",
       "visitor_policy_note": "Condicional: confirmar entrada infantil, acompañamiento y edad de actividad elegida.",
       "highlights": [
-        "Proyectos maker",
-        "Inventos y prototipos",
-        "Talleres: reglas aparte"
+        "Exposición general de 09:00 a 17:00. El 10 de noviembre, Talking Robots de 17:00 a 18:00 figuraba como Sold Out. Cada actividad tiene su propio cupo y entrada.",
+        "En Roll Your Design se modela e imprime un dado. Las entradas de talleres son separadas. Confirme el acceso infantil."
       ],
       "exhibitor_note": "Festival de proyectos y makers; no es un catálogo completo de empresas mundiales ni una final mundial de robótica.",
       "exhibitor_directory_url": "https://luma.com/i5cz5p70",
       "adult_entry": "Para la feria elegir Acceso General gratuito. Los talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y acompañamiento.",
       "related_ids": [
         "CP1163-20261112-20261112"
+      ],
+      "public_days": [
+        {
+          "date": "2026-11-12",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2026-11-12T15:00:00Z",
+          "end_utc": "2026-11-12T23:00:00Z"
+        }
       ]
     },
     {

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12133 fichas en la base, con 5468 de competiciones, 805 de eventos y 5860 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 699 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12142 fichas en la base, con 5470 de competiciones, 805 de eventos y 5867 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 699 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -18,12 +18,12 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 | América del Sur | 15 | 498 | 60 | 291 |
 | Europa | 55 | 794 | 175 | 1705 |
 | África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1243 | 191 | 1838 |
+| Asia | 51 | 1245 | 191 | 1845 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5470 fichas de competiciones (15.0%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -158,7 +158,7 @@ VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura est�
 - **ICYS · Young Scientifics**: 1 tarjeta, 1 con fechas exactas futuras. https://icysconference.com/
 - **PARC · Pan-African Robotics Competition**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.parcrobotics.org/
 - **ABU Robocon**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
-- **ROBO-ONE / Light / auto / Beginners**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robo-one.com/en/
+- **ROBO-ONE / Light / auto / Beginners**: 7 fichas, 7 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.robo-one.com/en/
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
 - **MARC Taiwan**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
@@ -495,7 +495,7 @@ VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura est�
 - **Maker Faire Mittleres Rheinland 2026** — Alemania; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://makerspace-myk.de/makerfaire/
 - **Maker Faire Olomouc 2026** — Chequia; 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://makerfaire.cz/olomouc/
 - **Rochester Maker Faire 2026** — Estados Unidos; 2026-11-21. con un adulto; condiciones de entrada adulta aparte. https://rochester.makerfaire.com/
-- **Ogaki Mini Maker Faire 2026** — Japón; 2026-12-05 – 2026-12-06. el permiso de entrada de niños. https://www.iamas.ac.jp/ommf2026/
+- **Ogaki Mini Maker Faire 2026** — Japón; 2026-12-05 – 2026-12-06. el permiso de entrada de niños. https://www.iamas.ac.jp/ommf2026/index.html
 - **Sarawak Maker Faire 2026** — Malasia; 2026-12-09. el permiso de entrada de niños. https://www.makeramai.com/
 - **South Dallas Maker Faire 2027** — Estados Unidos; 2027-03-06. con un adulto; condiciones de admisión adulta por separado. https://fortworth.makerfaire.com/
 - **Buffalo Maker Faire — Summer 2027** — Estados Unidos; fecha desconocida. con un adulto; condiciones de entrada adulta aparte. https://buffalo.makerfaire.com/

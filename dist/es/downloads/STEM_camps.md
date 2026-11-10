@@ -14582,6 +14582,102 @@ Condiciones: Los niños diseñan un refugio para distintas especies. La página 
 Fuente: https://centroculturadigital.mx/actividad/la-imaginacion-como-tecnologia
 Verificado: 2026-11-10
 
+### L988 · Kanagawa · Robot Battle
+
+Lugar: Japón · Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi
+Fecha: 2026-12-12 — 2026-12-12
+Edad: Desde grado 3 hasta el final de la secundaria básica.
+Matvey: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Oscar: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.
+Condiciones: 15 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.
+Fuente: https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+Verificado: 2026-11-10
+
+### L989 · Kanagawa · RoboPro Junior · Sensors
+
+Lugar: Japón · Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi
+Fecha: 2026-12-27 - 2026-12-27
+Edad: Grados 1–3 de primaria.
+Matvey: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Oscar: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.
+Condiciones: 16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.
+Fuente: https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+Verificado: 2026-11-10
+
+### L990 · Kanagawa · Robot Maze Escape
+
+Lugar: Japón · Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi
+Fecha: 2027-01-10 国 2027-01-10
+Edad: Grados 3–6 de primaria.
+Matvey: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Oscar: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.
+Condiciones: 16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.
+Fuente: https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+Verificado: 2026-11-10
+
+### L991 · Kanagawa · Robot Race
+
+Lugar: Japón · Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi
+Fecha: 2027-02-21 国 2027-02-21
+Edad: Desde grado 3 hasta el final de la secundaria básica.
+Matvey: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Oscar: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.
+Condiciones: 12 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.
+Fuente: https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+Verificado: 2026-11-10
+
+### L992 · Kanagawa · RoboPro Junior · Time Travel
+
+Lugar: Japón · Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi
+Fecha: 2027-03-07 — 2027-03-07
+Edad: Grados 1–3 de primaria.
+Matvey: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Oscar: Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.
+Condiciones: 16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.
+Fuente: https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html
+Verificado: 2026-11-10
+
+### L993 · Minamata Environmental Academia · JRC 2027 Winter preparation
+
+Lugar: Japón · Minamata · Environmental Academia · 6-1 Minamifukuji
+Fecha: 2026-11-25 — 2026-11-25
+Edad: Público principal desde grado 5 hasta el final de la secundaria básica. Para grado 4 o inferior se recomienda experiencia en programación. Consulte si hay excepciones.
+Matvey: Condicional. Confirme admisión y plazas.
+Oscar: Condicional. Confirme admisión y plazas.
+Formato: individual
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Preparación por selección. La solicitud al JRC se presenta aparte durante las clases. El transporte escolar a la academia solo sale de escuelas de Minamata.
+Condiciones: Preparación del 25 de noviembre a finales de enero, miércoles y viernes de 15:00 a 18:00. El 27 de noviembre no hay sesión. Orientación el 14 de noviembre a las 09:00.
+Fuente: https://localcms.city.minamata.lg.jp/page4936.html?type=top
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -92549,6 +92645,22 @@ Acceso: Son obligatorias la reserva en línea y la autorización parental. Llegu
 Condiciones: Matvey: Desde 12 años. Oscar: Desde 12 años. Cargos extra: Consulte al organizador. Pago: Consulte al organizador.
 Fuente: https://www.arts-et-metiers.net/musee/stage-techexploreurs
 Se ha comprobado: 2026-11-09
+
+### CP2399-20261221-20261225 · YES International School · Future City · 2026-12-21–2026-12-25
+
+Lugar: Japón · Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3F/4F
+Fecha: 2026-12-21 — 2026-12-25
+Edad: Desde 4 años hasta grado 9. Programación desde grado 3. El proyecto artístico está abierto a todo el grupo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El proyecto matutino de 09:15 a 12:00 se imparte en inglés y japonés. Confirme el idioma de la actividad de la tarde y el apoyo sin japonés.
+Función del idioma: partial_bilingual; apoyo: sin anunciar
+Costo: 2026/27 · 66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día. · cargos y condiciones en la ficha
+Acceso: Se admiten alumnos externos. Se puede elegir un día o toda la semana. Tarifa anticipada para solicitudes hasta el 15 de noviembre. Confirme hora exacta y plazas.
+Condiciones: Matvey: Cumple por edad para el proyecto general. Para programación confirme equivalencia de grado 3 o superior. Oscar: Cumple por edad para el proyecto general y artístico. Para programación se exige grado 3. Cargos extra: El programa incluye almuerzo y cuidado extendido. La escuela confirma si se aplica la tarifa anticipada. Pago: La escuela confirma la plaza y envía las instrucciones de transferencia bancaria. Consulte las condiciones de devolución.
+Fuente: https://www.yesinternationalschool.com/winter-school
+Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 

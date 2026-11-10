@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5860,
-      "holiday": 5209,
+      "records": 5867,
+      "holiday": 5210,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
@@ -53766,6 +53766,378 @@
       "admission_kind": "confirm_eligibility",
       "evidence_level": "event_page",
       "date_scope": "workshop_window",
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L988",
+      "title": "Kanagawa · Robot Battle",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "period": "",
+      "deadline": "2026-11-25",
+      "age": "Desde grado 3 hasta el final de la secundaria básica.",
+      "mat": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "osc": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "format": "Taller presencial de programación por bloques.",
+      "entry": "En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.",
+      "gear": "proro",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html",
+      "references": [
+        {
+          "url": "https://www.pref.kanagawa.jp/documents/87152/r8robotprogram.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "15 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "registration_opens": "2026-11-12",
+      "deadline_note": "Se publicó el día de cierre. No se indica una hora exacta.",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T04:30:00Z",
+          "end_utc": "2026-12-12T06:30:00Z",
+          "topic": "Programación de un robot con sensores para combates de práctica."
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L989",
+      "title": "Kanagawa · RoboPro Junior · Sensors",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi",
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "period": "",
+      "deadline": "2026-12-09",
+      "age": "Grados 1–3 de primaria.",
+      "mat": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "osc": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "format": "Taller presencial de programación por bloques.",
+      "entry": "En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.",
+      "gear": "proro",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html",
+      "references": [
+        {
+          "url": "https://www.pref.kanagawa.jp/documents/87152/r8robotprogram.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "registration_opens": "2026-11-26",
+      "deadline_note": "Se publicó el día de cierre. No se indica una hora exacta.",
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T05:00:00Z",
+          "end_utc": "2026-12-27T06:30:00Z",
+          "topic": "El sensor ultrasónico y el sensor de color ayudan al robot a detectar paredes y líneas."
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L990",
+      "title": "Kanagawa · Robot Maze Escape",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "period": "",
+      "deadline": "2026-12-23",
+      "age": "Grados 3–6 de primaria.",
+      "mat": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "osc": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "format": "Taller presencial de programación por bloques.",
+      "entry": "En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.",
+      "gear": "LEGO Mindstorms EV3",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html",
+      "references": [
+        {
+          "url": "https://www.pref.kanagawa.jp/documents/87152/r8robotprogram.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "registration_opens": "2026-12-10",
+      "deadline_note": "Se publicó el día de cierre. No se indica una hora exacta.",
+      "sessions": [
+        {
+          "date": "2027-01-10",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2027-01-10T04:30:00Z",
+          "end_utc": "2027-01-10T06:30:00Z",
+          "topic": "El robot recorre un laberinto y cumple misiones con el sensor de color y el brazo."
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L991",
+      "title": "Kanagawa · Robot Race",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "period": "",
+      "deadline": "2027-02-03",
+      "age": "Desde grado 3 hasta el final de la secundaria básica.",
+      "mat": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "osc": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "format": "Taller presencial de programación por bloques.",
+      "entry": "En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.",
+      "gear": "mBot2",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html",
+      "references": [
+        {
+          "url": "https://www.pref.kanagawa.jp/documents/87152/r8robotprogram.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "12 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "registration_opens": "2027-01-21",
+      "deadline_note": "Se publicó el día de cierre. No se indica una hora exacta.",
+      "sessions": [
+        {
+          "date": "2027-02-21",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2027-02-21T04:30:00Z",
+          "end_utc": "2027-02-21T06:30:00Z",
+          "topic": "Los participantes ajustan sensores y mejoran el tiempo en pista."
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L992",
+      "title": "Kanagawa · RoboPro Junior · Time Travel",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Atsugi · Kanagawa Youth Center Science Division · Promity Atsugi 2F · 4-16-21 Nakamachi",
+      "start": "2027-03-07",
+      "end": "2027-03-07",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "period": "",
+      "deadline": "2027-02-17",
+      "age": "Grados 1–3 de primaria.",
+      "mat": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "osc": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "format": "Taller presencial de programación por bloques.",
+      "entry": "En preparación para recibir solicitudes. Presente la solicitud en el plazo publicado por el sistema de Kanagawa, que permite solicitar sin crear cuenta.",
+      "gear": "proro",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo si reside o estudia en la prefectura de Kanagawa. Confirme el grado escolar.",
+      "source": "https://www.pref.kanagawa.jp/docs/ch3/kagaku/robopro.html",
+      "references": [
+        {
+          "url": "https://www.pref.kanagawa.jp/documents/87152/r8robotprogram.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "16 plazas. Sorteo si se supera el cupo. Si se presenta una solicitud conjunta para hermanos, comparten el resultado del sorteo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "registration_opens": "2027-02-04",
+      "deadline_note": "Se publicó el día de cierre. No se indica una hora exacta.",
+      "sessions": [
+        {
+          "date": "2027-03-07",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2027-03-07T05:00:00Z",
+          "end_utc": "2027-03-07T06:30:00Z",
+          "topic": "Curso inicial de control de robots con programación visual."
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "L993",
+      "title": "Minamata Environmental Academia · JRC 2027 Winter preparation",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Minamata · Environmental Academia · 6-1 Minamifukuji",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "date_status": "Confirmado",
+      "date_scope": "activity_start",
+      "period": "Preparación del 25 de noviembre a finales de enero, miércoles y viernes de 15:00 a 18:00. El 27 de noviembre no hay sesión. Orientación el 14 de noviembre a las 09:00.",
+      "deadline": "2026-11-11",
+      "age": "Público principal desde grado 5 hasta el final de la secundaria básica. Para grado 4 o inferior se recomienda experiencia en programación. Consulte si hay excepciones.",
+      "mat": "Condicional. Confirme admisión y plazas.",
+      "osc": "Condicional. Confirme admisión y plazas.",
+      "format": "Clases presenciales de preparación.",
+      "entry": "Preparación por selección. La solicitud al JRC se presenta aparte durante las clases. El transporte escolar a la academia solo sale de escuelas de Minamata.",
+      "gear": "La academia presta un kit de robótica y un ordenador.",
+      "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Gratuito.",
+      "level": "C — ruta regional / local",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirme las excepciones para menores, las condiciones para alumnos extranjeros y el idioma de las clases.",
+      "source": "https://localcms.city.minamata.lg.jp/page4936.html?type=top",
+      "references": [],
+      "proof": "Se comprobó la ficha oficial del programa.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Preparación del 25 de noviembre a finales de enero, miércoles y viernes de 15:00 a 18:00. El 27 de noviembre no hay sesión. Orientación el 14 de noviembre a las 09:00.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "participation": "individual",
+      "admission_kind": "confirm_eligibility",
+      "evidence_level": "event_page",
+      "deadline_note": "El municipio amplió las solicitudes hasta el 11 de noviembre por mantenimiento del formulario. Unas 10 plazas, respuesta hasta el 13 de noviembre.",
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
@@ -492995,6 +493367,129 @@
           "start_utc": "2027-02-18T13:00:00Z",
           "end_utc": "2027-02-18T16:00:00Z",
           "topic": "Montaje y prueba de un mecanismo."
+        }
+      ]
+    },
+    {
+      "id": "CP2399-20261221-20261225",
+      "block": "Campamentos",
+      "title": "YES International School · Future City · 2026-12-21–2026-12-25",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3F/4F",
+      "start": "2026-12-21",
+      "end": "2026-12-25",
+      "period": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde 4 años hasta grado 9. Programación desde grado 3. El proyecto artístico está abierto a todo el grupo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Se admiten alumnos externos. Se puede elegir un día o toda la semana. Tarifa anticipada para solicitudes hasta el 15 de noviembre. Confirme hora exacta y plazas.",
+      "gear": "Los niños diseñan una ciudad futura y exploran cómo la tecnología ayuda a crear edificios más sostenibles. De 13:30 a 15:00 eligen entre programación y proyecto artístico.",
+      "language": "El proyecto matutino de 09:15 a 12:00 se imparte en inglés y japonés. Confirme el idioma de la actividad de la tarde y el apoyo sin japonés.",
+      "cost": "2026/27 · 66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día. · cargos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme dos plazas, el grado escolar y el apoyo lingüístico.",
+      "source": "https://www.yesinternationalschool.com/winter-school",
+      "references": [
+        {
+          "url": "https://www.yesinternationalschool.com/winter-school",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple por edad para el proyecto general. Para programación confirme equivalencia de grado 3 o superior. Oscar: Cumple por edad para el proyecto general y artístico. Para programación se exige grado 3. Cargos extra: El programa incluye almuerzo y cuidado extendido. La escuela confirma si se aplica la tarifa anticipada. Pago: La escuela confirma la plaza y envía las instrucciones de transferencia bancaria. Consulte las condiciones de devolución.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "coding",
+        "technology",
+        "makers",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El proyecto matutino de 09:15 a 12:00 se imparte en inglés y japonés. Confirme el idioma de la actividad de la tarde y el apoyo sin japonés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "yes-yokohama-future-city-winter-2026",
+      "camp_programme_id": "CP2399",
+      "language_roles": {
+        "partial_bilingual": [
+          "EN",
+          "JA"
+        ]
+      },
+      "language_mode": "partial_bilingual",
+      "languages": [
+        "EN",
+        "JA"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "08:45",
+          "end_time": "15:15",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T23:45:00Z",
+          "end_utc": "2026-12-21T06:15:00Z",
+          "topic": "Future City",
+          "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "08:45",
+          "end_time": "15:15",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T23:45:00Z",
+          "end_utc": "2026-12-22T06:15:00Z",
+          "topic": "Future City",
+          "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "08:45",
+          "end_time": "15:15",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T23:45:00Z",
+          "end_utc": "2026-12-23T06:15:00Z",
+          "topic": "Future City",
+          "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "08:45",
+          "end_time": "15:15",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T23:45:00Z",
+          "end_utc": "2026-12-24T06:15:00Z",
+          "topic": "Future City",
+          "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
+        },
+        {
+          "date": "2026-12-25",
+          "start_time": "08:45",
+          "end_time": "15:15",
+          "timezone": "Asia/Tokyo",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T23:45:00Z",
+          "end_utc": "2026-12-25T06:15:00Z",
+          "topic": "Future City",
+          "time_note": "Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido."
         }
       ]
     },

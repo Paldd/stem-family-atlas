@@ -8,21 +8,23 @@ X-WR-CALNAME:STEM Atlas — exposiciones; admisión de menores por separa
 X-WR-TIMEZONE:America/Costa_Rica
 BEGIN:VEVENT
 UID:stem-exhibition-E009@family-stem.local
-DTSTAMP:20261107T082208Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Exposición · confirmar admisión de menores] Maker Faire Shenz
  hen 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El formato 
- de Maker es potencialmente de interés para la familia\; el acceso actua
- l de los niños y el boleto local se confirman en el anfitrión. Entrada
-  de adultos: El organizador publicó fecha y sede del festival. ALPHA re
- quiere pase separado. Confirmar edad e idioma del taller concreto.. 12
- –13 de diciembre\, Vanke Design Commune\, Nanshan. Noticia 28 de octub
- re anuncia primeros 98 puestos\, no número final de empresas. ALPHA pue
- de incluir robots / IA\, pero edad e idioma sin confirmar. Empresas: Es 
- un festival de proyectos y creadores\, no un catálogo completo de compa
- ñías de robótica del mundo.. Fuente verificada el 2026-11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La página 
+ para visitantes muestra 12–13 de diciembre de 2026 en el encabezado\, 
+ pero el horario y la entrada gratuita corresponden al 15–16 de noviemb
+ re de 2025. Tarifa\, horario y registro de visitantes para 2026 por conf
+ irmar. Entrada de adultos: El organizador publicó fecha y sede del fest
+ ival. ALPHA requiere pase separado. Confirmar edad e idioma del taller c
+ oncreto.. 12–13 de diciembre\, Vanke Design Commune\, Nanshan. Noticia
+  28 de octubre anuncia primeros 98 puestos\, no número final de empresa
+ s. ALPHA puede incluir robots / IA\, pero edad e idioma sin confirmar. E
+ mpresas: Es un festival de proyectos y creadores\, no un catálogo compl
+ eto de compañías de robótica del mundo.. Fuente verificada el 2026-11
+ -10.
 LOCATION:Vanke Cloud Design Commune · Nanshan\, Shenzhen\, China
 URL:https://www.shenzhenmakerfaire.com/
 STATUS:TENTATIVE
@@ -450,22 +452,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E066@family-stem.local
-DTSTAMP:20261107T063902Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Exposición · confirmar admisión de menores] Maker Faire Monte
  rrey / ITERA TEC 2026
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
+DTSTART:20261112T150000Z
+DTEND:20261112T230000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
  : confirmar entrada infantil\, acompañamiento y edad de actividad elegi
  da. Entrada de adultos: Para la feria elegir Acceso General gratuito. Lo
  s talleres requieren entrada aparte. Confirmar edades de 6 y 9 años y a
- compañamiento.. Enlace oficial nuevo y página anfitriona coinciden: ju
- eves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de n
- oviembre ya no son anuncio principal. Expo general 09:00–17:00\, Talki
- ng Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirma
- r. Empresas: Festival de proyectos y makers\; no es un catálogo complet
- o de empresas mundiales ni una final mundial de robótica.. Fuente verif
- icada el 2026-11-07.
+ compañamiento.. Exposición general de 09:00 a 17:00. El 10 de noviembr
+ e\, Talking Robots de 17:00 a 18:00 figuraba como Sold Out. Cada activid
+ ad tiene su propio cupo y entrada. Empresas: Festival de proyectos y mak
+ ers\; no es un catálogo completo de empresas mundiales ni una final mun
+ dial de robótica.. Fuente verificada el 2026-11-10.
 LOCATION:Monterrey · HUB de Innovación y Emprendimiento Eduardo Garza T
  . · Av. Eugenio Garza Sada 2501 Sur\, México
 URL:https://luma.com/i5cz5p70
@@ -514,23 +514,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E071@family-stem.local
-DTSTAMP:20261107T063902Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Exposición · confirmar admisión de menores] Ogaki Mini Maker 
  Faire 2026
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
+DTSTART:20261205T030000Z
+DTEND:20261205T080000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
  : confirmar entrada infantil\, acompañamiento y edad de actividad elegi
  da. Entrada de adultos: comprobar los billetes / registros actuales y la
- s limitaciones de la actividad seleccionada. 5 de diciembre 12:00–17:0
- 0\, 6 de diciembre 10:00–16:00\, Softopia Japan Center Building. Propu
- estas maker cerradas\; no implica cierre al público. Entrada infantil\,
-  EN/ES y tarifa sin publicar. Importes de patrocinio no son entradas. Em
- presas: Festival de proyectos y makers\; no es un catálogo completo de 
- empresas mundiales ni una final mundial de robótica.. Fuente verificada
-  el 2026-11-07.
+ s limitaciones de la actividad seleccionada. 5 de diciembre de 12:00 a 1
+ 7:00 y 6 de diciembre de 10:00 a 16:00. Softopia Japan Center Building\,
+  4-1-7 Kagano. No se publicaron la tarifa\, el acceso infantil ni el idi
+ oma de los talleres. Empresas: Festival de proyectos y makers\; no es un
+  catálogo completo de empresas mundiales ni una final mundial de robót
+ ica.. Fuente verificada el 2026-11-10.
 LOCATION:Softopia Japan Center Building · Ogaki\, Japón
-URL:https://www.iamas.ac.jp/ommf2026/
+URL:https://www.iamas.ac.jp/ommf2026/index.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E071-visit-2026-12-06@family-stem.local
+DTSTAMP:20261110T071250Z
+SUMMARY:[Exposición · confirmar admisión de menores] Ogaki Mini Maker 
+ Faire 2026
+DTSTART:20261206T010000Z
+DTEND:20261206T070000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ : confirmar entrada infantil\, acompañamiento y edad de actividad elegi
+ da. Entrada de adultos: comprobar los billetes / registros actuales y la
+ s limitaciones de la actividad seleccionada. 5 de diciembre de 12:00 a 1
+ 7:00 y 6 de diciembre de 10:00 a 16:00. Softopia Japan Center Building\,
+  4-1-7 Kagano. No se publicaron la tarifa\, el acceso infantil ni el idi
+ oma de los talleres. Empresas: Festival de proyectos y makers\; no es un
+  catálogo completo de empresas mundiales ni una final mundial de robót
+ ica.. Fuente verificada el 2026-11-10.
+LOCATION:Softopia Japan Center Building · Ogaki\, Japón
+URL:https://www.iamas.ac.jp/ommf2026/index.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9557,20 +9577,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E697@family-stem.local
-DTSTAMP:20261109T012912Z
+DTSTAMP:20261110T071250Z
 SUMMARY:[Exposición · visita en familia] Youth RoboFesta 2026 · Yokoha
  ma
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Actividad p
- ública para familias. Algunos talleres tienen sus propios requisitos de
-  edad e inscripción. Entrada de adultos: Actividad pública para famili
- as. Algunos talleres tienen sus propios requisitos de edad e inscripció
- n.. Actividad pública para familias. Algunos talleres tienen sus propio
- s requisitos de edad e inscripción. Empresas: Consultar lista de exposi
- tores y programa concreto en la página oficial.. Fuente verificada el 2
- 026-11-08.
-LOCATION:Kanagawa Prefectural Youth Center · Yokohama\, Japón
+DTSTART:20261129T010000Z
+DTEND:20261129T063000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. 29 de novie
+ mbre de 10:00 a 15:30. Entrada general sin reserva previa. La visita lun
+ ar en VR de JGC exige al menos 10 años. Las demás actividades tienen s
+ us propias condiciones. Entrada de adultos: 29 de noviembre de 10:00 a 1
+ 5:30. Entrada general sin reserva previa. La visita lunar en VR de JGC e
+ xige al menos 10 años. Las demás actividades tienen sus propias condic
+ iones.. 29 de noviembre de 10:00 a 15:30. Entrada general sin reserva pr
+ evia. La visita lunar en VR de JGC exige al menos 10 años. Las demás a
+ ctividades tienen sus propias condiciones. Empresas: Consultar lista de 
+ expositores y programa concreto en la página oficial.. Fuente verificad
+ a el 2026-11-10.
+LOCATION:Yokohama · Kanagawa Prefectural Youth Center · 9-1 Momijigaoka
+ \, Nishi-ku\, Japón
 URL:https://www.pref.kanagawa.jp/docs/ch3/kagaku/robofesta.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT

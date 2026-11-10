@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2398 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2399 fichas en 141 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -188175,6 +188175,64 @@ Francia · Paris · Musée des Arts et Métiers
 ### Fuentes
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.arts-et-metiers.net/musee/stage-techexploreurs) · 2026-11-09
+
+## CP2399 · YES International School
+
+Japón · Yokohama · YES International School · 1-33-1 Hiranuma, Nishi-ku · 3F/4F
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde 4 años hasta grado 9. Programación desde grado 3. El proyecto artístico está abierto a todo el grupo.
+
+**Idioma:** El proyecto matutino de 09:15 a 12:00 se imparte en inglés y japonés. Confirme el idioma de la actividad de la tarde y el apoyo sin japonés.
+
+**Programa:** Los niños diseñan una ciudad futura y exploran cómo la tecnología ayuda a crear edificios más sostenibles. De 13:30 a 15:00 eligen entre programación y proyecto artístico.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Del 21 al 25 de diciembre. Llegada desde las 08:45, actividades desde las 09:15, recogida hasta las 15:15. Cuidado hasta las 17:00 incluido.
+
+**Precio / año:** 2026 · 66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día.
+
+**Incluye:** Incluye almuerzo y cuidado hasta las 17:00.
+
+**Cargos extra:** El programa incluye almuerzo y cuidado extendido. La escuela confirma si se aplica la tarifa anticipada.
+
+**Pago:** La escuela confirma la plaza y envía las instrucciones de transferencia bancaria. Consulte las condiciones de devolución.
+
+**Matvey:** Cumple por edad para el proyecto general. Para programación confirme equivalencia de grado 3 o superior.
+
+**Oscar:** Cumple por edad para el proyecto general y artístico. Para programación se exige grado 3.
+
+**Motivo de selección:** Los niños diseñan una ciudad futura y exploran cómo la tecnología ayuda a crear edificios más sostenibles. De 13:30 a 15:00 eligen entre programación y proyecto artístico.
+
+### Antes de solicitar plaza
+
+- Confirme dos plazas, el grado escolar y el apoyo lingüístico.
+
+### Future City
+
+**Fechas / estado:** 2026-12-21 — 2026-12-25
+
+**Precio:** 66000 JPY por semana o 13200 JPY por día y niño. Hasta el 15 de noviembre, 56100 JPY por semana o 11220 JPY por día. Impuesto incluido. Para dos, 132000 JPY por semana o 26400 JPY por día. Con la tarifa anticipada, 112200 JPY por semana o 22440 JPY por día.
+
+**Condiciones de participación:** Se admiten alumnos externos. Se puede elegir un día o toda la semana. Tarifa anticipada para solicitudes hasta el 15 de noviembre. Confirme hora exacta y plazas.
+
+- 2026-12-21 · 08:45–15:15 · Asia/Tokyo · Future City
+
+- 2026-12-22 · 08:45–15:15 · Asia/Tokyo · Future City
+
+- 2026-12-23 · 08:45–15:15 · Asia/Tokyo · Future City
+
+- 2026-12-24 · 08:45–15:15 · Asia/Tokyo · Future City
+
+- 2026-12-25 · 08:45–15:15 · Asia/Tokyo · Future City
+
+[fuente](https://www.yesinternationalschool.com/winter-school)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.yesinternationalschool.com/winter-school) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 
