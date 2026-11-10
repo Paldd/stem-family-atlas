@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12247. Competiciones: 5509. Eventos: 815. Campamentos o programas: 5923. Perfiles de ligas y programas: 355. Fichas de grandes exposiciones y exposiciones especializadas: 709. Se cuentan ediciones y sedes.
+Fichas en la base: 12274. Competiciones: 5525. Eventos: 818. Campamentos o programas: 5931. Perfiles de ligas y programas: 356. Fichas de grandes exposiciones y exposiciones especializadas: 712. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -15,15 +15,15 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2234 | 187 | 1474 |
-| América del Sur | 15 | 501 | 61 | 292 |
-| Europa | 55 | 795 | 177 | 1718 |
+| América del Sur | 15 | 504 | 61 | 292 |
+| Europa | 55 | 795 | 180 | 1726 |
 | África | 61 | 286 | 47 | 156 |
-| Asia | 51 | 1270 | 197 | 1853 |
+| Asia | 51 | 1283 | 197 | 1853 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o globales sin un solo continente: 262. América del Norte incluye Centroamérica y el Caribe. Los recuentos describen el inventario y no un porcentaje de cobertura.
 
-VEX: 821 de 5509 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
+VEX: 821 de 5525 fichas de competición (14.9%). La cobertura tiene un sesgo claro.
 
 ## Lo que queda
 
@@ -395,6 +395,7 @@ VEX: 821 de 5509 fichas de competición (14.9%). La cobertura tiene un sesgo cla
 - **Uganda National STEM & Robotics Championship**: 4 fichas, 0 con fechas futuras confirmadas. Incluye perfil y fichas. Cobertura local parcial. https://asist.ac.ug/events/national-championship-2026
 - **Mubarmij Al Emarat**: 5 fichas, 0 con fechas futuras exactas. Incluye perfil y fichas. Cobertura local parcial. https://www.mubarmijalemarat.com/
 - **WRO Uganda · Mindset Coders**: 1 ficha, 0 con fechas futuras exactas. Incluye perfil y ficha. Cobertura local parcial. https://wro.mindset-group.org/competition/2026
+- **CRD Robotics & Innovation Championship**: 13 fichas, 0 con fechas futuras exactas. Hay un perfil y fichas. La cobertura local es parcial. https://crdthailand.com/en
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1146,6 +1147,9 @@ VEX: 821 de 5509 fichas de competición (14.9%). La cobertura tiene un sesgo cla
 - **Andersen Inside Out – Robots and Fairytales Meet** — República de Corea. Fecha desconocida. Acceso de menores por confirmar. https://www.dti.dk/services/fairy-tale-robots/48339
 - **Science Museum Tokyo · FANUC Kick for Goal** — Japón. Fecha desconocida. Con un adulto. Consulte las condiciones de acceso de adultos. https://www.fanuc.co.jp/en/profile/pr/newsrelease/2026/notice20260827.html
 - **Dimanche du numérique · Robot marcheur** — Suiza. 2026-12-06. Con un adulto. Consulte las condiciones de acceso de adultos. https://www.geneve-communes.ch/agenda/dimanche-du-numerique-7-12-ans-theme-robot-marcheur
+- **Robotic Worlds** — Alemania. 2025-11-28 – 2027-11-28. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.pinakothek-der-moderne.de/en/exhibitions/robotic-worlds/
+- **Nicolas Darrot · Fuzzy Logic** — Suiza. 2026-03-05 – 2027-03-07. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.tinguely.ch/en/exhibitions/exhibitions/2026/nicolas-darrot.html
+- **Circus of Curiosities · An Exhibition of Moving Marvels** — Reino Unido. 2026-07-04 – 2027-01-03. Con un adulto. Consulte las condiciones de acceso para adultos. https://www.americanmuseum.org/whats-on/circus-of-curiosities-exhibition
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

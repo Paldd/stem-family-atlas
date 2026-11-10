@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12247; соревнований: 5509; событий: 815; лагерей / программ: 5923. Профилей лиг и программ: 355. Карточек крупных и профильных выставок: 709 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12274; соревнований: 5525; событий: 818; лагерей / программ: 5931. Профилей лиг и программ: 356. Карточек крупных и профильных выставок: 712 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -15,15 +15,15 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2234 | 187 | 1474 |
-| Южная Америка | 15 | 501 | 61 | 292 |
-| Европа | 55 | 795 | 177 | 1718 |
+| Южная Америка | 15 | 504 | 61 | 292 |
+| Европа | 55 | 795 | 180 | 1726 |
 | Африка | 61 | 286 | 47 | 156 |
-| Азия | 51 | 1270 | 197 | 1853 |
+| Азия | 51 | 1283 | 197 | 1853 |
 | Океания | 27 | 183 | 38 | 415 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 262. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5509 карточек соревнований (14.9%). Это явный перекос охвата.
+VEX: 821 из 5525 карточек соревнований (14.9%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -395,6 +395,7 @@ VEX: 821 из 5509 карточек соревнований (14.9%). Это я�
 - **Uganda National STEM & Robotics Championship**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://asist.ac.ug/events/national-championship-2026
 - **Mubarmij Al Emarat**: 5 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mubarmijalemarat.com/
 - **WRO Uganda · Mindset Coders**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro.mindset-group.org/competition/2026
+- **CRD Robotics & Innovation Championship**: 13 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://crdthailand.com/en
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -1146,6 +1147,9 @@ VEX: 821 из 5509 карточек соревнований (14.9%). Это я�
 - **Andersen Inside Out – Robots and Fairytales Meet** — Республика Корея; дата неизвестна. Детский допуск уточнить. https://www.dti.dk/services/fairy-tale-robots/48339
 - **Science Museum Tokyo · FANUC Kick for Goal** — Япония; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.fanuc.co.jp/en/profile/pr/newsrelease/2026/notice20260827.html
 - **Dimanche du numérique · Robot marcheur** — Швейцария; 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://www.geneve-communes.ch/agenda/dimanche-du-numerique-7-12-ans-theme-robot-marcheur
+- **Robotic Worlds** — Германия; 2025-11-28 – 2027-11-28. Со взрослым; условия взрослого входа отдельно. https://www.pinakothek-der-moderne.de/en/exhibitions/robotic-worlds/
+- **Nicolas Darrot · Fuzzy Logic** — Швейцария; 2026-03-05 – 2027-03-07. Со взрослым; условия взрослого входа отдельно. https://www.tinguely.ch/en/exhibitions/exhibitions/2026/nicolas-darrot.html
+- **Circus of Curiosities · An Exhibition of Moving Marvels** — Великобритания; 2026-07-04 – 2027-01-03. Со взрослым; условия взрослого входа отдельно. https://www.americanmuseum.org/whats-on/circus-of-curiosities-exhibition
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

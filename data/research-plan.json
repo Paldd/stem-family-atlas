@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 368,
+    "prepared_ui_version": 369,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 366,
-    "previous_verified_commit": "7801aa85aac7b1c6c8563e2a037eeaf32cc0fab5"
+    "previous_verified_ui_version": 368,
+    "previous_verified_commit": "1469bcbf6d0854c77cf877accbb86f93d5d31ced"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -39639,6 +39639,55 @@
       "extras": "Свой lunch/snacks/water; extended-care отдельно. Табличная скидка2дня заявлена20, фактически179−158=21.",
       "deposit": "Общий afterschool FAQ:7+дней полный refund,позжеcredit,после старта нет; применимость к winter2026/27 подтвердить.",
       "season": "2026/27"
+    }
+  },
+  "regional_robotics_and_family_visits_v369": {
+    "version": 369,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5511",
+      "C5512",
+      "C5513",
+      "C5514",
+      "C5515",
+      "C5516",
+      "C5517",
+      "C5518",
+      "C5519",
+      "C5520",
+      "C5521",
+      "C5522",
+      "C5523",
+      "C5524",
+      "C5525",
+      "C5526"
+    ],
+    "event_ids": [
+      "E816",
+      "E817",
+      "E818"
+    ],
+    "new_dossiers": [
+      "CP2416"
+    ],
+    "camp_date_windows": 4,
+    "camp_variants": 8,
+    "thai_league_profile": "crd-thailand-regional",
+    "archived_competitions": 16,
+    "thai_sumo_2020_birth_year_ambiguous": true,
+    "thai_super_ai_300_point_selection_is_conditional": true,
+    "archive_time_conflicts": [
+      "Сайт 08:30–10:00. Регламент указывает презентации 13:00–15:00.",
+      "Сайт 10:00–12:00. Регламент 15:00–17:00.",
+      "На сайте с 16:00. В регламенте общее окно 17:00–21:00."
+    ],
+    "bath_winter_hours": "10:00–16:00, last entry 15:30",
+    "research_watch": {
+      "name": "Carean Study Hard Play Hard Winter Camp",
+      "reason": "Exact dates, prices, spoken language for Maths and workshops. Home text conflicts on registration versus interest; do not mark enrolled or dates confirmed.",
+      "source": "https://careancreativity.com/"
     }
   }
 }

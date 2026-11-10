@@ -93558,6 +93558,134 @@ Restricciones: Matvey: Edad compatible con el grupo de 7–12 años. Oscar: Edad
 Fuente: https://hive5.ca/product/new-year-adventure-package-dec-28-31/
 Verificado: 2026-11-10
 
+### CP2416-20270104-20270108-20270104-half · Bright Future Clubs · Holiday English Camps · Medio día · 2027-01-04–2027-01-08
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 295 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270104-20270108-20270104-full · Bright Future Clubs · Holiday English Camps · Día completo · 2027-01-04–2027-01-08
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 375 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270208-20270212-20270208-half · Bright Future Clubs · Holiday English Camps · Medio día · 2027-02-08–2027-02-12
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 295 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270208-20270212-20270208-full · Bright Future Clubs · Holiday English Camps · Día completo · 2027-02-08–2027-02-12
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 375 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270518-20270521-20270518-half · Bright Future Clubs · Holiday English Camps · Medio día · 2027-05-18–2027-05-21
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-05-18 — 2027-05-21
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 295 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270518-20270521-20270518-full · Bright Future Clubs · Holiday English Camps · Día completo · 2027-05-18–2027-05-21
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-05-18 — 2027-05-21
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 375 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270524-20270528-20270524-half · Bright Future Clubs · Holiday English Camps · Medio día · 2027-05-24–2027-05-28
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-05-24 — 2027-05-28
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 295 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
+### CP2416-20270524-20270528-20270524-full · Bright Future Clubs · Holiday English Camps · Día completo · 2027-05-24–2027-05-28
+
+Lugar: Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+Fecha: 2027-05-24 — 2027-05-28
+Edad: 6*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades y juegos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2027 · EUR 375 por sesión. · suplementos y condiciones en la ficha
+Acceso: No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+Restricciones: Matvey: Encaja en el rango publicado. Confirme la plaza por separado. Oscar: Encaja en el rango publicado. Confirme la plaza por separado. Suplementos: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida. Pago: Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+Fuente: https://www.brightfutureclubs.com/holiday-english-camps
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

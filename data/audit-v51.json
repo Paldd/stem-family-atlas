@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12247,
-    "competition_cards": 5509,
-    "event_cards": 815,
-    "camp_cards": 5923,
-    "league_profiles": 355,
-    "major_exhibition_cards": 709,
+    "cards": 12274,
+    "competition_cards": 5525,
+    "event_cards": 818,
+    "camp_cards": 5931,
+    "league_profiles": 356,
+    "major_exhibition_cards": 712,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 860,
+      "total": 863,
       "countries_with_records": 15,
-      "competitions": 501,
+      "competitions": 504,
       "events": 67,
       "major_exhibitions": 61,
       "camps": 292,
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2714,
+      "total": 2725,
       "countries_with_records": 55,
       "competitions": 795,
-      "events": 201,
-      "major_exhibitions": 177,
-      "camps": 1718,
+      "events": 204,
+      "major_exhibitions": 180,
+      "camps": 1726,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 3333,
+      "total": 3346,
       "countries_with_records": 51,
-      "competitions": 1270,
+      "competitions": 1283,
       "events": 210,
       "major_exhibitions": 197,
       "camps": 1853,
@@ -9135,6 +9135,32 @@
       "new": false
     },
     {
+      "id": "crd-thailand-regional",
+      "name": "CRD Robotics & Innovation Championship",
+      "group": "regional",
+      "event_ids": [
+        "C5511",
+        "C5512",
+        "C5513",
+        "C5514",
+        "C5515",
+        "C5516",
+        "C5517",
+        "C5518",
+        "C5519",
+        "C5520",
+        "C5521",
+        "C5522",
+        "C5523"
+      ],
+      "cards": 13,
+      "future_dated": 0,
+      "linked_card_count": 13,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://crdthailand.com/en",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -17935,6 +17961,39 @@
       "new": false
     },
     {
+      "id": "E816",
+      "name": "Robotic Worlds",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2025-11-28",
+      "end": "2027-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.pinakothek-der-moderne.de/en/exhibitions/robotic-worlds/",
+      "new": false
+    },
+    {
+      "id": "E817",
+      "name": "Nicolas Darrot · Fuzzy Logic",
+      "country": "Швейцария",
+      "region": "Европа",
+      "start": "2026-03-05",
+      "end": "2027-03-07",
+      "visitor_policy": "family",
+      "source": "https://www.tinguely.ch/en/exhibitions/exhibitions/2026/nicolas-darrot.html",
+      "new": false
+    },
+    {
+      "id": "E818",
+      "name": "Circus of Curiosities · An Exhibition of Moving Marvels",
+      "country": "Великобритания",
+      "region": "Европа",
+      "start": "2026-07-04",
+      "end": "2027-01-03",
+      "visitor_policy": "family",
+      "source": "https://www.americanmuseum.org/whats-on/circus-of-curiosities-exhibition",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20366,14 +20425,14 @@
       }
     ],
     "counts": {
-      "records": 5923,
-      "holiday": 5256,
+      "records": 5931,
+      "holiday": 5264,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
-      "en_es_instruction": 1701,
+      "en_es_instruction": 1709,
       "en_es_support": 67,
-      "family_instruction": 1701,
+      "family_instruction": 1709,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,

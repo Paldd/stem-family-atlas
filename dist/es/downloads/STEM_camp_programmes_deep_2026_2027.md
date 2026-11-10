@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2415 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-09. 2416 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -189887,6 +189887,256 @@ Canadá · Hive5 STEAM PlayPark · 43 First Commerce Dr., Aurora, Ontario
 - [Se comprobó la ficha oficial del programa.](https://hive5.ca/product/new-year-adventure-package-dec-28-31/) · 2026-11-10
 
 - [Se comprobó la ficha oficial del programa.](https://hive5.ca/product/full-winter-break-package-all-8-days/) · 2026-11-10
+
+## CP2416 · Bright Future Clubs · Holiday English Camps
+
+Alemania · Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Verificado:** 2026-11-10
+
+**Edad:** 6–12
+
+**Idioma:** Actividades y juegos en inglés.
+
+**Programa:** Inmersión en inglés mediante conversación, juegos y proyectos creativos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 4 al 8 de enero, del 8 al 12 de febrero, del 18 al 21 y del 24 al 28 de mayo de 2027. Dos formatos por sesión.
+
+**Precio / año:** 2027 · EUR 295 por sesión de medio día, EUR 375 por sesión de día completo.
+
+**Incluido:** Medio día 08:30–12:30, día completo 08:30–16:00.
+
+**Suplementos:** Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+
+**Pago:** Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+
+**Matvey:** Encaja en el rango publicado. Confirme la plaza por separado.
+
+**Oscar:** Encaja en el rango publicado. Confirme la plaza por separado.
+
+**Motivo de selección:** Inmersión en inglés mediante conversación, juegos y proyectos creativos.
+
+### Antes de solicitar plaza
+
+- No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- El domicilio del club está publicado. Confirme la sede del grupo elegido.
+
+- Confirme comidas, suplementos y condiciones de cancelación de la sesión elegida.
+
+### Medio día
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 295 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-01-04 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-05 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-06 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-07 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-08 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Jornada completa
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 375 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-01-04 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-05 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-06 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-07 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-01-08 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Medio día
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 295 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-02-08 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-09 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-10 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-11 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-12 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Jornada completa
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 375 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-02-08 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-09 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-10 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-11 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-02-12 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Medio día
+
+**Fechas / estado:** 2027-05-18 — 2027-05-21
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 295 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-05-18 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-19 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-20 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-21 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Jornada completa
+
+**Fechas / estado:** 2027-05-18 — 2027-05-21
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 375 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-05-18 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-19 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-20 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-21 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Medio día
+
+**Fechas / estado:** 2027-05-24 — 2027-05-28
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 295 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-05-24 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-25 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-26 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-27 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-28 · 08:30–12:30 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Jornada completa
+
+**Fechas / estado:** 2027-05-24 — 2027-05-28
+
+**Lugar:** Bright Future Clubs · Nigerstraße 4 · 81675 München
+
+**Edad:** 6–12
+
+**Precio:** EUR 375 por sesión.
+
+**Condiciones de participación:** No requiere membresía. El organizador revisa la solicitud y confirma la plaza por separado.
+
+- 2027-05-24 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-25 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-26 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-27 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+- 2027-05-28 · 08:30–16:00 · Europe/Berlin · Bright Future Clubs · Holiday English Camps
+
+**Disponibilidad:** Confirme admisión y plazas antes de pagar.
+
+[fuente](https://www.brightfutureclubs.com/holiday-english-camps)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.brightfutureclubs.com/holiday-english-camps) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.brightfutureclubs.com/contact) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.brightfutureclubs.com/agb) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

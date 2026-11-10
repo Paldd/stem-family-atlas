@@ -30031,6 +30031,244 @@
         "evidence": "Se comprobó la ficha oficial del programa."
       },
       {
+        "id": "crd-thailand-regional",
+        "name": "CRD Robotics & Innovation Championship",
+        "group": "regional",
+        "age_summary": "Categorías de 6–18 años y sumo abierto 6+ con salvedad sobre el año de nacimiento.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "6 disciplinas en Koh Samui. Cada grupo de edad tiene su propia ficha.",
+        "categories": [
+          {
+            "name": "CRD Thailand 2026 · RoboBuilder · 6–8",
+            "age": "6–8 años, años de nacimiento 2018–2020 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Portátil propio con RoboBuilder. El reglamento asigna 3 horas a la prueba.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5511",
+            "source": "https://crdthailand.com/documents/robobuilder.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · RoboBuilder · 9–12",
+            "age": "9–12 años, años de nacimiento 2014–2017 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Portátil propio con RoboBuilder. El reglamento asigna 3 horas a la prueba.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5512",
+            "source": "https://crdthailand.com/documents/robobuilder.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · RoboBuilder · 13–15",
+            "age": "13–15 años, años de nacimiento 2011–2013 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Portátil propio con RoboBuilder. El reglamento asigna 3 horas a la prueba.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5513",
+            "source": "https://crdthailand.com/documents/robobuilder.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Robotics Project · 6–8",
+            "age": "6–8 años, años de nacimiento 2018–2020 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Proyecto preparado con ZmRobo. Se permite MIT App Inventor. Presentación de 3–5 minutos.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5514",
+            "source": "https://crdthailand.com/documents/robotics-project.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Robotics Project · 9–12",
+            "age": "9–12 años, años de nacimiento 2014–2017 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Proyecto preparado con ZmRobo. Se permite MIT App Inventor. Presentación de 3–5 minutos.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5515",
+            "source": "https://crdthailand.com/documents/robotics-project.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Robotics Project · 13–15",
+            "age": "13–15 años, años de nacimiento 2011–2013 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Proyecto preparado con ZmRobo. Se permite MIT App Inventor. Presentación de 3–5 minutos.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5516",
+            "source": "https://crdthailand.com/documents/robotics-project.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 08:30–10:00. El reglamento indica presentaciones de 13:00 a 15:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Drone Delivery Mission · 6–12",
+            "age": "6–12 años, años de nacimiento 2014–2020 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Pilotaje manual, tamaño del dron de 20 cm según el reglamento, 7 obstáculos. 2 intentos de 5 minutos, cuenta el mejor resultado.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5517",
+            "source": "https://crdthailand.com/documents/drone-mission.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 10:00–12:00. Reglamento 15:00–17:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Drone Delivery Mission · 13–15",
+            "age": "13–15 años, años de nacimiento 2011–2013 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "Pilotaje manual, tamaño del dron de 20 cm según el reglamento, 7 obstáculos. 2 intentos de 5 minutos, cuenta el mejor resultado.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5518",
+            "source": "https://crdthailand.com/documents/drone-mission.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Web 10:00–12:00. Reglamento 15:00–17:00.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · Creative Sumo Robot · 6+",
+            "age": "La web indica 6+. El reglamento indica a la vez 6+ y nacimiento anterior a 2020.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "ArTec BlockRobo autónomo de hasta 25 × 25 cm y 1 kg. Hasta 3 pilas AA, sin recargables.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5519",
+            "source": "https://crdthailand.com/documents/artec-sumo.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "Fecha según el anuncio de 2026. Quedan por confirmar los resultados y la próxima convocatoria.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · ZMROBO SUPER AI · 6–8",
+            "age": "6–8 años, años de nacimiento 2018–2020 según el reglamento de 2026.",
+            "team": "Confirme el número de integrantes por inscripción.",
+            "hardware": "ZMROBO. Programar la salida y después manejar el robot. Misión de 2 minutos. Llevar portátil y robot, y confirmar el préstamo si hace falta.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5520",
+            "source": "https://crdthailand.com/documents/super-ai-primary.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "A partir de 300 puntos, el reglamento prevé consideración para la selección de Tailandia para un torneo en China. No se confirmó la elegibilidad de la familia ni la invitación final.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · ZMROBO SUPER AI · 9–12",
+            "age": "9–12 años, años de nacimiento 2014–2017 según el reglamento de 2026.",
+            "team": "Individual, 1 participante y 1 entrenador.",
+            "hardware": "ZMROBO. Hay 60 minutos de ajuste y programación y 3 minutos para el intento puntuable.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5521",
+            "source": "https://crdthailand.com/documents/super-ai-secondary.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "A partir de 300 puntos, el reglamento prevé consideración para la selección de Tailandia para un torneo en China. No se confirmó la elegibilidad de la familia ni la invitación final.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · ZMROBO SUPER AI · 13–15",
+            "age": "13–15 años, años de nacimiento 2011–2013 según el reglamento de 2026.",
+            "team": "Individual, 1 participante y 1 entrenador.",
+            "hardware": "ZMROBO. Hay 60 minutos de ajuste y programación y 3 minutos para el intento puntuable.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5522",
+            "source": "https://crdthailand.com/documents/super-ai-secondary.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "A partir de 300 puntos, el reglamento prevé consideración para la selección de Tailandia para un torneo en China. No se confirmó la elegibilidad de la familia ni la invitación final.",
+            "checked": "2026-11-10"
+          },
+          {
+            "name": "CRD Thailand 2026 · ZMROBO SUPER AI · 16–18",
+            "age": "16–18 años, años de nacimiento 2008–2010 según el reglamento de 2026.",
+            "team": "Individual, 1 participante y 1 entrenador.",
+            "hardware": "ZMROBO. Hay 60 minutos de ajuste y programación y 3 minutos para el intento puntuable.",
+            "entry": "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje.",
+            "event_id": "C5523",
+            "source": "https://crdthailand.com/documents/super-ai-secondary.pdf",
+            "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+            "note": "A partir de 300 puntos, el reglamento prevé consideración para la selección de Tailandia para un torneo en China. No se confirmó la elegibilidad de la familia ni la invitación final.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "event_ids": [
+          "C5511",
+          "C5512",
+          "C5513",
+          "C5514",
+          "C5515",
+          "C5516",
+          "C5517",
+          "C5518",
+          "C5519",
+          "C5520",
+          "C5521",
+          "C5522",
+          "C5523"
+        ],
+        "legacy_ids": [],
+        "route": "A partir de 300 puntos, el reglamento prevé consideración para la selección de Tailandia para un torneo en China. No se confirmó la elegibilidad de la familia ni la invitación final.",
+        "hardware": "RoboBuilder, ZmRobo, dron y ArTec BlockRobo. El equipo depende de la disciplina.",
+        "language": "No se confirmó el idioma de las actividades o del arbitraje.",
+        "importance": "En la prueba, 2 pares dan bronce, 3 plata y desde 4 oro. Los premios por puestos y el certificado Best Technique se describen por separado.",
+        "strengths": "6 disciplinas en Koh Samui. Cada grupo de edad tiene su propia ficha.",
+        "requirements": [
+          "Inscripción de 2026 cerrada. Para la próxima edición, confirme edad, admisión de extranjeros e idioma del arbitraje."
+        ],
+        "nuances": [
+          "La web indica 6+. El reglamento indica a la vez 6+ y nacimiento anterior a 2020."
+        ],
+        "cost": "THB 1 000 por participante según el reglamento de 2026.",
+        "award": "En la prueba, 2 pares dan bronce, 3 plata y desde 4 oro. Los premios por puestos y el certificado Best Technique se describen por separado.",
+        "sources": [
+          {
+            "url": "https://crdthailand.com/en",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/robobuilder.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/robotics-project.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/drone-mission.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/artec-sumo.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/super-ai-primary.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          },
+          {
+            "url": "https://crdthailand.com/documents/super-ai-secondary.pdf",
+            "title": "Se comprobó la ficha oficial del programa.",
+            "checked": "2026-11-10"
+          }
+        ],
+        "evidence": "Se comprobó la ficha oficial del programa."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -35376,7 +35614,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de ligas y programas: 355. Se conservan las 46 vías anteriores. Los formatos de Brasil se distinguen. Robofest LATAM y BajaBot se describen por categorías. Cobertura mundial parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 356. Se conservan las 46 vías anteriores. Los formatos brasileños están separados y Robofest LATAM y BajaBot locales se describen por categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

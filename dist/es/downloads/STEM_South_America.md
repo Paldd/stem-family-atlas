@@ -7406,6 +7406,45 @@ Restricciones: Fecha del anuncio y el reglamento. Para participantes se indican 
 Fuente: https://feria-robotica.vercel.app/
 Verificado: 2026-11-10
 
+### C5524 · XIV Competencia de Robótica ECT 2026 · Velocista Seguidor de Línea
+
+Fecha: 2026-10-16 — 2026-10-16
+Edad: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Coste: Gratis según el artículo 3 del reglamento de 2026.
+Restricciones: La web indica desde las 16:00. El reglamento fija la franja general de 17:00 a 21:00.
+Fuente: https://www.ect2026.fpune.edu.py/docs/Reglamento_Robotica.pdf
+Verificado: 2026-11-10
+
+### C5525 · XIV Competencia de Robótica ECT 2026 · Minisumo
+
+Fecha: 2026-10-16 — 2026-10-16
+Edad: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Coste: Gratis según el artículo 3 del reglamento de 2026.
+Restricciones: La web indica desde las 16:00. El reglamento fija la franja general de 17:00 a 21:00.
+Fuente: https://www.ect2026.fpune.edu.py/docs/Reglamento_Robotica.pdf
+Verificado: 2026-11-10
+
+### C5526 · XIV Competencia de Robótica ECT 2026 · Proyecto Libre
+
+Fecha: 2026-10-16 — 2026-10-16
+Edad: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Matvey: Confirme edad, admisión y plaza con el organizador.
+Oscar: Confirme edad, admisión y plaza con el organizador.
+Idioma: No se confirmó el idioma de las actividades o del arbitraje.
+Acceso: La web indica equipos de estudiantes. El reglamento admite a quien complete la inscripción. No publica la edad mínima, la admisión de menores extranjeros ni las reglas de acompañamiento.
+Coste: Gratis según el artículo 3 del reglamento de 2026.
+Restricciones: La web indica desde las 16:00. El reglamento fija la franja general de 17:00 a 21:00.
+Fuente: https://www.ect2026.fpune.edu.py/docs/Reglamento_Robotica.pdf
+Verificado: 2026-11-10
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5923,
-      "holiday": 5256,
+      "records": 5931,
+      "holiday": 5264,
       "regular": 236,
       "self_paced_materials": 4,
       "boarding": 1042,
-      "en_es_instruction": 1701,
+      "en_es_instruction": 1709,
       "en_es_support": 67,
-      "family_instruction": 1701,
+      "family_instruction": 1709,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 423,
@@ -498845,6 +498845,1010 @@
           "ical_timed": true,
           "start_utc": "2026-12-31T14:00:00Z",
           "end_utc": "2026-12-31T21:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270104-20270108-20270104-half",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полдня · 2027-01-04–2027-01-08",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 295 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T07:30:00Z",
+          "end_utc": "2027-01-04T11:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T07:30:00Z",
+          "end_utc": "2027-01-05T11:30:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T07:30:00Z",
+          "end_utc": "2027-01-06T11:30:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T07:30:00Z",
+          "end_utc": "2027-01-07T11:30:00Z"
+        },
+        {
+          "date": "2027-01-08",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T07:30:00Z",
+          "end_utc": "2027-01-08T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270104-20270108-20270104-full",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полный день · 2027-01-04–2027-01-08",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 375 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T07:30:00Z",
+          "end_utc": "2027-01-04T15:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T07:30:00Z",
+          "end_utc": "2027-01-05T15:00:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T07:30:00Z",
+          "end_utc": "2027-01-06T15:00:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T07:30:00Z",
+          "end_utc": "2027-01-07T15:00:00Z"
+        },
+        {
+          "date": "2027-01-08",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T07:30:00Z",
+          "end_utc": "2027-01-08T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270208-20270212-20270208-half",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полдня · 2027-02-08–2027-02-12",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-02-08",
+      "end": "2027-02-12",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 295 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-08",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-08T07:30:00Z",
+          "end_utc": "2027-02-08T11:30:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T07:30:00Z",
+          "end_utc": "2027-02-09T11:30:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T07:30:00Z",
+          "end_utc": "2027-02-10T11:30:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T07:30:00Z",
+          "end_utc": "2027-02-11T11:30:00Z"
+        },
+        {
+          "date": "2027-02-12",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-12T07:30:00Z",
+          "end_utc": "2027-02-12T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270208-20270212-20270208-full",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полный день · 2027-02-08–2027-02-12",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-02-08",
+      "end": "2027-02-12",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 375 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-08",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-08T07:30:00Z",
+          "end_utc": "2027-02-08T15:00:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T07:30:00Z",
+          "end_utc": "2027-02-09T15:00:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T07:30:00Z",
+          "end_utc": "2027-02-10T15:00:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T07:30:00Z",
+          "end_utc": "2027-02-11T15:00:00Z"
+        },
+        {
+          "date": "2027-02-12",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-02-12T07:30:00Z",
+          "end_utc": "2027-02-12T15:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270518-20270521-20270518-half",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полдня · 2027-05-18–2027-05-21",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-05-18",
+      "end": "2027-05-21",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 295 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-05-18",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-18T06:30:00Z",
+          "end_utc": "2027-05-18T10:30:00Z"
+        },
+        {
+          "date": "2027-05-19",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-19T06:30:00Z",
+          "end_utc": "2027-05-19T10:30:00Z"
+        },
+        {
+          "date": "2027-05-20",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-20T06:30:00Z",
+          "end_utc": "2027-05-20T10:30:00Z"
+        },
+        {
+          "date": "2027-05-21",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-21T06:30:00Z",
+          "end_utc": "2027-05-21T10:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270518-20270521-20270518-full",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полный день · 2027-05-18–2027-05-21",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-05-18",
+      "end": "2027-05-21",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 375 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-05-18",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-18T06:30:00Z",
+          "end_utc": "2027-05-18T14:00:00Z"
+        },
+        {
+          "date": "2027-05-19",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-19T06:30:00Z",
+          "end_utc": "2027-05-19T14:00:00Z"
+        },
+        {
+          "date": "2027-05-20",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-20T06:30:00Z",
+          "end_utc": "2027-05-20T14:00:00Z"
+        },
+        {
+          "date": "2027-05-21",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-21T06:30:00Z",
+          "end_utc": "2027-05-21T14:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270524-20270528-20270524-half",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полдня · 2027-05-24–2027-05-28",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-05-24",
+      "end": "2027-05-28",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 295 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-05-24",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-24T06:30:00Z",
+          "end_utc": "2027-05-24T10:30:00Z"
+        },
+        {
+          "date": "2027-05-25",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-25T06:30:00Z",
+          "end_utc": "2027-05-25T10:30:00Z"
+        },
+        {
+          "date": "2027-05-26",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-26T06:30:00Z",
+          "end_utc": "2027-05-26T10:30:00Z"
+        },
+        {
+          "date": "2027-05-27",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-27T06:30:00Z",
+          "end_utc": "2027-05-27T10:30:00Z"
+        },
+        {
+          "date": "2027-05-28",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-28T06:30:00Z",
+          "end_utc": "2027-05-28T10:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-10",
+        "label": "Сверить допуск и наличие мест до оплаты."
+      }
+    },
+    {
+      "id": "CP2416-20270524-20270528-20270524-full",
+      "block": "Лагеря",
+      "title": "Bright Future Clubs · Holiday English Camps · Полный день · 2027-05-24–2027-05-28",
+      "country": "Германия",
+      "region": "Европа",
+      "city": "Bright Future Clubs · Nigerstraße 4 · 81675 München",
+      "start": "2027-05-24",
+      "end": "2027-05-28",
+      "period": "4–8 января, 8–12 февраля, 18–21 и 24–28 мая 2027. Два формата в каждой смене.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная программа без проживания.",
+      "entry": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.",
+      "gear": "Английское погружение через разговорную практику, игры и творческие проекты.",
+      "language": "Занятия и игры на английском.",
+      "cost": "2027 · EUR 375 за смену. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Доступно без членства. Организатор рассматривает заявку и подтверждает место отдельно.; Адрес клуба опубликован. Подтвердить площадку выбранной группы.; Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "source": "https://www.brightfutureclubs.com/holiday-english-camps",
+      "references": [
+        {
+          "url": "https://www.brightfutureclubs.com/holiday-english-camps",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/contact",
+          "label": "Проверена официальная карточка программы."
+        },
+        {
+          "url": "https://www.brightfutureclubs.com/agb",
+          "label": "Проверена официальная карточка программы."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-10",
+      "status": "Идея",
+      "note": "Матвей: Подходит по опубликованному диапазону. Место подтвердить отдельно. Оскар: Подходит по опубликованному диапазону. Место подтвердить отдельно. Доплаты: Уточнить питание, доплаты и правила отмены именно выбранной смены. Оплата: Уточнить питание, доплаты и правила отмены именно выбранной смены.",
+      "iso": [
+        "DEU"
+      ],
+      "themes": [
+        "languages",
+        "creative",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Занятия и игры на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bright-future-munich-english-2027",
+      "camp_programme_id": "CP2416",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-05-24",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-24T06:30:00Z",
+          "end_utc": "2027-05-24T14:00:00Z"
+        },
+        {
+          "date": "2027-05-25",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-25T06:30:00Z",
+          "end_utc": "2027-05-25T14:00:00Z"
+        },
+        {
+          "date": "2027-05-26",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-26T06:30:00Z",
+          "end_utc": "2027-05-26T14:00:00Z"
+        },
+        {
+          "date": "2027-05-27",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-27T06:30:00Z",
+          "end_utc": "2027-05-27T14:00:00Z"
+        },
+        {
+          "date": "2027-05-28",
+          "topic": "Bright Future Clubs · Holiday English Camps",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Berlin",
+          "ical_timed": true,
+          "start_utc": "2027-05-28T06:30:00Z",
+          "end_utc": "2027-05-28T14:00:00Z"
         }
       ],
       "availability": {
