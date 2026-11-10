@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 360,
+    "prepared_ui_version": 361,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 358,
-    "previous_verified_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5"
+    "previous_verified_ui_version": 360,
+    "previous_verified_commit": "80c02a394d19b906d9ac1b1415b1ed0a9b042c6c"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -39308,5 +39308,36 @@
       "cedes_exhibition_hours_confirmed": false
     },
     "new_hope_alternate_search_dates_confirmed": false
+  },
+  "mexico_creative_tech_bali_qualifier_v361": {
+    "version": 361,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "exhibition_ids": [
+      "E804",
+      "E805"
+    ],
+    "workshop_ids": [
+      "L982",
+      "L983",
+      "L984",
+      "L985",
+      "L986",
+      "L987"
+    ],
+    "exact_workshop_sessions": 13,
+    "legacy_overlay_event_ids": [
+      "C1479"
+    ],
+    "legacy_overlay_league_ids": [
+      "enjoy"
+    ],
+    "timed_mexico_exhibit_ids": [
+      "E805"
+    ],
+    "mexico_ccd_clock_unresolved": "L987",
+    "mexico_ccd_exhibition_header_conflict": "E804",
+    "indonesia_foreign_admission_confirmed": false
   }
 }

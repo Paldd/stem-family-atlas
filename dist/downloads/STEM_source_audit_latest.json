@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12125,
+    "cards": 12133,
     "competition_cards": 5468,
-    "event_cards": 803,
-    "camp_cards": 5854,
+    "event_cards": 805,
+    "camp_cards": 5860,
     "league_profiles": 348,
-    "major_exhibition_cards": 697,
+    "major_exhibition_cards": 699,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3899,
+      "total": 3907,
       "countries_with_records": 41,
       "competitions": 2233,
-      "events": 232,
-      "major_exhibitions": 185,
-      "camps": 1434,
+      "events": 234,
+      "major_exhibitions": 187,
+      "camps": 1440,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -2527,11 +2527,12 @@
         "C058",
         "C059",
         "C097",
+        "C1479",
         "C3347"
       ],
-      "cards": 5,
+      "cards": 6,
       "future_dated": 1,
-      "linked_card_count": 5,
+      "linked_card_count": 6,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.enjoyaiglobal.org/",
       "new": false
@@ -17674,6 +17675,28 @@
       "new": false
     },
     {
+      "id": "E804",
+      "name": "CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-19",
+      "end": "2026-12-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia",
+      "new": false
+    },
+    {
+      "id": "E805",
+      "name": "CCEMx · Cuando las nubes eran de agua · Medialabmx",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -20105,7 +20128,7 @@
       }
     ],
     "counts": {
-      "records": 5854,
+      "records": 5860,
       "holiday": 5209,
       "regular": 236,
       "self_paced_materials": 4,

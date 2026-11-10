@@ -14486,6 +14486,102 @@ Condiciones: 15:15–16:45. Taller y encuentro con un experto en IA.
 Fuente: https://ideatorio.usi.ch/event/sfida-all-ia
 Se ha comprobado: 2026-11-09
 
+### L982 · CENART FILIJ · MAYA. Creación de libro electrónico
+
+Lugar: México · Ciudad de México · CENART · Carpa del Centro Multimedia · Río Churubusco 79
+Fecha: 2026-11-14 — 2026-11-20
+Edad: 7–10
+Matvey: Sí por la edad de 7–10 años. Confirme plaza.
+Oscar: No. Oscar tiene 6 años y el mínimo es 7.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: 120 MXN por participante para materiales.
+Acceso: Dos horarios a elegir. Registro previo y llegada 10 minutos antes. Hasta 10 participantes por sesión.
+Condiciones: Los niños ilustran su historia y añaden un circuito electrónico para hacer interactiva la lectura.
+Fuente: https://cenart.gob.mx/eventos/taller-maya-creacion-de-libro-electronico/
+Verificado: 2026-11-10
+
+### L983 · CENART FILIJ · Trazónico
+
+Lugar: México · Ciudad de México · CENART · Carpa del Centro Multimedia · Río Churubusco 79
+Fecha: 2026-11-13 — 2026-11-21
+Edad: Niños, jóvenes y adultos. No se indica un mínimo numérico.
+Matvey: Sí por el público infantil indicado. Confirme la edad mínima y el acompañamiento.
+Oscar: Sí por el público infantil indicado. Confirme la edad mínima y el acompañamiento.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: El organizador invita a niños y adultos. No indica un requisito de inscripción.
+Condiciones: Se conectan trazos de grafito a un circuito que convierte la señal en sonido.
+Fuente: https://cenart.gob.mx/eventos/activacion-trazonico/
+Verificado: 2026-11-10
+
+### L984 · CENART FILIJ · Laboratorio de Impresión 3D
+
+Lugar: México · Ciudad de México · CENART · Carpa del Centro Multimedia · Río Churubusco 79
+Fecha: 2026-11-14 — 2026-11-19
+Edad: No se publicó la edad infantil para esta demostración.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Demostración presencial gratuita. Confirme el acceso de menores y la posibilidad de práctica.
+Condiciones: Especialistas muestran impresión 3D y modelado digital para fabricar objetos.
+Fuente: https://cenart.gob.mx/eventos/activacion-laboratorio-de-impresion-3d/
+Verificado: 2026-11-10
+
+### L985 · CENART FILIJ · Deshacer y crear un mundo · rotoscopía
+
+Lugar: México · Ciudad de México · CENART · Carpa del Centro Multimedia · Río Churubusco 79
+Fecha: 2026-11-13 — 2026-11-18
+Edad: Mayores de 10 años.
+Matvey: No. Matvey está por debajo del grupo publicado.
+Oscar: No. Oscar está por debajo del grupo publicado.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Inscripción en el lugar 10 minutos antes del inicio.
+Condiciones: Los participantes modifican fotogramas y ven enseguida la animación corta resultante.
+Fuente: https://cenart.gob.mx/eventos/taller-deshacer-y-crear-un-mundo-taller-de-rotoscopia-colaborativa/
+Verificado: 2026-11-10
+
+### L986 · CENART · Monstruos, datos e IA: despistando a una máquina
+
+Lugar: México · Ciudad de México · CENART · Centro Multimedia · Sala PC · Río Churubusco 79
+Fecha: 2026-11-23 国 2026-11-27
+Edad: Público juvenil y adulto. No se indica un mínimo numérico.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Cinco sesiones en un solo ciclo. Solicitud previa y confirmación del organizador. Compruebe la edad mínima por separado para ambos niños.
+Condiciones: Los participantes etiquetan imágenes, entrenan un modelo y examinan sus errores con personajes propios.
+Fuente: https://cenart.gob.mx/eventos/taller-monstruos-datos-e-ia-despistando-a-una-maquina/
+Verificado: 2026-11-10
+
+### L987 · CCD · La imaginación como tecnología · Estudio Nómade
+
+Lugar: México · Ciudad de México · Centro de Cultura Digital · Reforma / Lieja
+Fecha: 2026-11-27 2026-11-27
+edad: 6–11
+Matvey: Sí por la edad de 6–11 años. Confirme el acceso a la tercera sesión.
+Oscar: Sí por la edad de 6–11 años. Confirme el acceso a la tercera sesión.
+Formato: individual
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Costo: La tarifa del taller queda por confirmar.
+Acceso: Cupo de 20. Las dos reuniones anteriores terminaron. Confirme si se puede asistir solo a la tercera sesión y el precio.
+Condiciones: Los niños diseñan un refugio para distintas especies. La página muestra 17:00–19:00 y sus datos de calendario están marcados en UTC. Confirme la hora local.
+Fuente: https://centroculturadigital.mx/actividad/la-imaginacion-como-tecnologia
+Verificado: 2026-11-10
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

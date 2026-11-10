@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12125; соревнований: 5468; событий: 803; лагерей / программ: 5854. Профилей лиг и программ: 348. Карточек крупных и профильных выставок: 697 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12133; соревнований: 5468; событий: 805; лагерей / программ: 5860. Профилей лиг и программ: 348. Карточек крупных и профильных выставок: 699 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,7 +14,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2233 | 185 | 1434 |
+| Северная Америка | 41 | 2233 | 187 | 1440 |
 | Южная Америка | 15 | 498 | 60 | 291 |
 | Европа | 55 | 794 | 175 | 1705 |
 | Африка | 61 | 281 | 46 | 156 |
@@ -120,7 +120,7 @@ VEX: 821 из 5468 карточек соревнований (15.0%). Это я�
 - **Robofest · LTU**: 27 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
-- **ENJOY AI**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
+- **ENJOY AI**: 6 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
 - **Junior Botball Challenge**: 4 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.myrobotacademy.ai/iyrcasean2026
@@ -1127,6 +1127,8 @@ VEX: 821 из 5468 карточек соревнований (15.0%). Это я�
 - **Kids Robofest 2026 · Scuola di Robotica Ticino** — Швейцария; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
 - **Robotics for Good Youth Challenge Switzerland 2027 · public** — Швейцария; 2027-04-10. Детский допуск уточнить. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
 - **KOSAC Robotics Challenge 2026 · Track C · public** — Республика Корея; 2026-11-28. Детский допуск уточнить. https://aichallenge4all.or.kr/competitions/ai-robot
+- **CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia** — Мексика; 2026-11-19 – 2026-12-10. Детский допуск уточнить. https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia
+- **CCEMx · Cuando las nubes eran de agua · Medialabmx** — Мексика; 2026-11-10. Детский допуск уточнить. https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12125 fichas en la base, con 5468 de competiciones, 803 de eventos y 5854 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 697 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12133 fichas en la base, con 5468 de competiciones, 805 de eventos y 5860 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 699 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2233 | 185 | 1434 |
+| América del Norte | 41 | 2233 | 187 | 1440 |
 | América del Sur | 15 | 498 | 60 | 291 |
 | Europa | 55 | 794 | 175 | 1705 |
 | África | 61 | 281 | 46 | 156 |
@@ -120,7 +120,7 @@ VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura est�
 - **Robofest · LTU**: 27 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
-- **ENJOY AI**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
+- **ENJOY AI**: 6 fichas, 1 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.enjoyaiglobal.org/
 - **Junior Botball Challenge**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
@@ -1127,6 +1127,8 @@ VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura est�
 - **Kids Robofest 2026 · Scuola di Robotica Ticino** — Suiza; 2026-11-21. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
 - **Robotics for Good Youth Challenge Switzerland 2027 · public** — Suiza; 2027-04-10. Confirme el acceso de menores. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
 - **KOSAC Robotics Challenge 2026 · Track C · public** — Corea del Sur; 2026-11-28. Confirme el acceso de menores. https://aichallenge4all.or.kr/competitions/ai-robot
+- **CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia** — México; 2026-11-19 – 2026-12-10. Confirme el acceso de menores. https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia
+- **CCEMx · Cuando las nubes eran de agua · Medialabmx** — México; 2026-11-10. Confirme el acceso de menores. https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

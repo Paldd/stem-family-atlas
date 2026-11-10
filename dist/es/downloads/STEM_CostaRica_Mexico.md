@@ -6336,6 +6336,110 @@ Condiciones: El 26 de junio de 2026 en el TEC de Cartago. Proyectos estudiantile
 Fuente: https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial
 Se ha comprobado: 2026-11-09
 
+### L982 · CENART FILIJ · MAYA. Creación de libro electrónico
+
+Fecha: 2026-11-14 — 2026-11-20
+Edad: 7–10
+Matvey: Sí por la edad de 7–10 años. Confirme plaza.
+Oscar: No. Oscar tiene 6 años y el mínimo es 7.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Dos horarios a elegir. Registro previo y llegada 10 minutos antes. Hasta 10 participantes por sesión.
+Costo: 120 MXN por participante para materiales.
+Condiciones: Los niños ilustran su historia y añaden un circuito electrónico para hacer interactiva la lectura.
+Fuente: https://cenart.gob.mx/eventos/taller-maya-creacion-de-libro-electronico/
+Verificado: 2026-11-10
+
+### L983 · CENART FILIJ · Trazónico
+
+Fecha: 2026-11-13 — 2026-11-21
+Edad: Niños, jóvenes y adultos. No se indica un mínimo numérico.
+Matvey: Sí por el público infantil indicado. Confirme la edad mínima y el acompañamiento.
+Oscar: Sí por el público infantil indicado. Confirme la edad mínima y el acompañamiento.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: El organizador invita a niños y adultos. No indica un requisito de inscripción.
+Precio: Gratuito.
+Condiciones: Se conectan trazos de grafito a un circuito que convierte la señal en sonido.
+Fuente: https://cenart.gob.mx/eventos/activacion-trazonico/
+Verificado: 2026-11-10
+
+### L984 · CENART FILIJ · Laboratorio de Impresión 3D
+
+Fecha: 2026-11-14 — 2026-11-19
+Edad: No se publicó la edad infantil para esta demostración.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Demostración presencial gratuita. Confirme el acceso de menores y la posibilidad de práctica.
+Precio: Gratuito.
+Condiciones: Especialistas muestran impresión 3D y modelado digital para fabricar objetos.
+Fuente: https://cenart.gob.mx/eventos/activacion-laboratorio-de-impresion-3d/
+Verificado: 2026-11-10
+
+### L985 · CENART FILIJ · Deshacer y crear un mundo · rotoscopía
+
+Fecha: 2026-11-13 — 2026-11-18
+Edad: Mayores de 10 años.
+Matvey: No. Matvey está por debajo del grupo publicado.
+Oscar: No. Oscar está por debajo del grupo publicado.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Inscripción en el lugar 10 minutos antes del inicio.
+Precio: Gratuito.
+Condiciones: Los participantes modifican fotogramas y ven enseguida la animación corta resultante.
+Fuente: https://cenart.gob.mx/eventos/taller-deshacer-y-crear-un-mundo-taller-de-rotoscopia-colaborativa/
+Verificado: 2026-11-10
+
+### L986 · CENART · Monstruos, datos e IA: despistando a una máquina
+
+Fecha: 2026-11-23 国 2026-11-27
+Edad: Público juvenil y adulto. No se indica un mínimo numérico.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Cinco sesiones en un solo ciclo. Solicitud previa y confirmación del organizador. Compruebe la edad mínima por separado para ambos niños.
+Precio: Gratuito.
+Condiciones: Los participantes etiquetan imágenes, entrenan un modelo y examinan sus errores con personajes propios.
+Fuente: https://cenart.gob.mx/eventos/taller-monstruos-datos-e-ia-despistando-a-una-maquina/
+Verificado: 2026-11-10
+
+### L987 · CCD · La imaginación como tecnología · Estudio Nómade
+
+Fecha: 2026-11-27 2026-11-27
+edad: 6–11
+Matvey: Sí por la edad de 6–11 años. Confirme el acceso a la tercera sesión.
+Oscar: Sí por la edad de 6–11 años. Confirme el acceso a la tercera sesión.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Cupo de 20. Las dos reuniones anteriores terminaron. Confirme si se puede asistir solo a la tercera sesión y el precio.
+Costo: La tarifa del taller queda por confirmar.
+Condiciones: Los niños diseñan un refugio para distintas especies. La página muestra 17:00–19:00 y sus datos de calendario están marcados en UTC. Confirme la hora local.
+Fuente: https://centroculturadigital.mx/actividad/la-imaginacion-como-tecnologia
+Verificado: 2026-11-10
+
+### E804 · CCD HelloWorld 5.0 · Deslenguadas: Escuchar desde la desobediencia
+
+Fecha: 2026-11-19 — 2026-12-10
+Edad: Entrada libre a la exposición. Confirme la edad para visitas guiadas y la inscripción a talleres concretos.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Entrada libre a la exposición. Confirme la edad para visitas guiadas y la inscripción a talleres concretos.
+Precio: Gratuito.
+Condiciones: Instalaciones sonoras y electrónicas, vídeo y talleres. Visitas guiadas el 22 y 29 de noviembre y el 6 de diciembre a las 12:00, y el 25 de noviembre a las 17:00. Clausura el 10 de diciembre de 18:00 a 20:00.
+Fuente: https://centroculturadigital.mx/exposicion/deslenguadas-escuchar-desde-la-desobediencia
+Verificado: 2026-11-10
+
+### E805 · CCEMx · Cuando las nubes eran de agua · Medialabmx
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: Entrada libre. No se indica la edad de menores para la función nocturna.
+Matvey: Condicional. Confirme la edad y las condiciones de participación.
+Oscar: Condicional. Confirme la edad y las condiciones de participación.
+Idioma: El organizador publicó el programa en español. No se indica por separado el idioma de la persona que lo imparte.
+Acceso: Entrada libre. No se indica la edad de menores para la función nocturna.
+Precio: Gratuito.
+Condiciones: Actuación audiovisual única sobre las tecnologías físicas de la nube, incluidos centros de datos y cables submarinos.
+Fuente: https://ccemx.aecid.es/w/cuando-las-nubes-eran-de-agua
+Verificado: 2026-11-10
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
