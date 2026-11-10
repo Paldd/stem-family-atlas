@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2369,
+    "dossiers": 2373,
     "countries": 140,
     "swiss": 153,
     "by_status": {
       "published_2026_27": 330,
-      "published_2027": 657,
+      "published_2027": 661,
       "partial_2027": 168,
       "next_unannounced": 488,
       "published_2026": 441,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3280
+    "source_urls": 3282
   },
   "countries": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "country": "Аргентина",
-      "count": 11
+      "count": 12
     },
     {
       "country": "Аруба",
@@ -423,7 +423,7 @@
     },
     {
       "country": "Перу",
-      "count": 88
+      "count": 89
     },
     {
       "country": "Польша",
@@ -567,7 +567,7 @@
     },
     {
       "country": "Чили",
-      "count": 42
+      "count": 44
     },
     {
       "country": "Швейцария",
@@ -360628,6 +360628,1466 @@
         }
       ],
       "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2370",
+      "slug": "buenos-aires-vacaciones-en-la-escuela-primaria",
+      "provider": "Buenos Aires · Vacaciones en la Escuela · Primaria",
+      "country": "Аргентина",
+      "iso": "ARG",
+      "place": "Buenos Aires · CABA",
+      "age": "6–12 лет, уровень Primaria.",
+      "programme": "Муниципальная дневная программа для начальной школы. Наука, творчество и движение. Робототехника есть в отчёте 2026; наличие мастерской в выбранной группе 2027 уточнить.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "language": "Публичное описание на испанском. Устный язык занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа. Проживание отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–29 января 2027, по будням. 09:00–16:00 либо дневной поток, для которого страница города указывает 11:00–17:00, а портал 11:00–18:00. У каждой площадки один график.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "variant_key": "primaria",
+            "label": "Primaria · 6–12",
+            "price": "Тариф и обязательные расходы уточнить.",
+            "source": "https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela",
+            "place": "Buenos Aires · CABA",
+            "age_min": 6,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_window",
+            "admission_kind": "open_application",
+            "age_max": 12,
+            "registration_opens": "2026-11-09",
+            "deadline": "2026-11-27",
+            "deadline_note": "Предварительная запись 9–27 ноября 2026. В форме есть иностранный паспорт. Подтвердить приём семьи из-за рубежа, документы для валидации, места и фактические мастерские.",
+            "proof": "4–29 января 2027, по будням. 09:00–16:00 либо дневной поток, для которого страница города указывает 11:00–17:00, а портал 11:00–18:00. У каждой площадки один график."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "label": "Тариф и обязательные расходы уточнить.",
+        "deposit": "Уточнить стоимость, место и правила подтверждения предварительной заявки.",
+        "extras": "Уточнить стоимость, место и правила подтверждения предварительной заявки.",
+        "included": "Муниципальная дневная программа для начальной школы. Наука, творчество и движение. Робототехника есть в отчёте 2026; наличие мастерской в выбранной группе 2027 уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Подтвердить уровень, допуск приезжих и программу конкретной площадки."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Подтвердить уровень, допуск приезжих и программу конкретной площадки."
+        }
+      },
+      "editorial_reason": "4–29 января 2027, по будням. 09:00–16:00 либо дневной поток, для которого страница города указывает 11:00–17:00, а портал 11:00–18:00. У каждой площадки один график.",
+      "shortlist": [],
+      "questions": [
+        "Предварительная запись 9–27 ноября 2026. В форме есть иностранный паспорт. Подтвердить приём семьи из-за рубежа, документы для валидации, места и фактические мастерские."
+      ],
+      "sources": [
+        {
+          "url": "https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://colonias.bue.edu.ar/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://buenosaires.gob.ar/gcaba_historico/noticias/un-verano-para-potenciar-el-juego-asi-fue-vacaciones-en-la-escuela",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2371",
+      "slug": "pucp-fabricum-robotics-prototyping",
+      "provider": "PUCP FABRICUM · Robótica, Prototipado y Manufactura",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Lima · PUCP · Av. Universitaria 1801 · San Miguel",
+      "age": "Школьники 13–16 лет.",
+      "programme": "CAD, 3D-печать, лазерная резка и управление моторами на Arduino или другом микроконтроллере. Финальная презентация прототипа и цифровой сертификат PUCP.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "language": "Публичное описание на испанском. Устный язык занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа. Проживание отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "18 января–10 февраля 2027, понедельник и среда с 09:00 до 12:00. В календаре 8 занятий.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-02-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-02-10",
+            "variant_key": "puertas",
+            "label": "Robótica, Prototipado y Manufactura",
+            "price": "800 PEN за курс. Ранняя оплата 720 PEN до 20 декабря 2026.",
+            "source": "https://fabricum.pucp.edu.pe/capacitate/formacion-continua/taller-de-robotica-prototipado-y-manufactura/",
+            "place": "Lima · PUCP · Av. Universitaria 1801 · San Miguel",
+            "age_min": 13,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 16,
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T14:00:00Z",
+                "end_utc": "2027-01-18T17:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T14:00:00Z",
+                "end_utc": "2027-01-20T17:00:00Z"
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T14:00:00Z",
+                "end_utc": "2027-01-25T17:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T14:00:00Z",
+                "end_utc": "2027-01-27T17:00:00Z"
+              },
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T14:00:00Z",
+                "end_utc": "2027-02-01T17:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T14:00:00Z",
+                "end_utc": "2027-02-03T17:00:00Z"
+              },
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T14:00:00Z",
+                "end_utc": "2027-02-08T17:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Lima",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T14:00:00Z",
+                "end_utc": "2027-02-10T17:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 800,
+        "currency": "PEN",
+        "unit": "course",
+        "label": "800 PEN за курс. Ранняя оплата 720 PEN до 20 декабря 2026.",
+        "early_deadline": "2026-12-20",
+        "included": "CAD, 3D-печать, лазерная резка и управление моторами на Arduino или другом микроконтроллере. Финальная презентация прототипа и цифровой сертификат PUCP.",
+        "extras": "Нужны базовая математика и работа с Windows. Уточнить аудиторию, технику, расходники, язык и приём приезжих.",
+        "deposit": "720 PEN до 20 декабря 2026 — ранняя цена. Срок подачи заявки уточнить."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ребёнок младше опубликованного диапазона."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ребёнок младше опубликованного диапазона."
+        }
+      },
+      "editorial_reason": "18 января–10 февраля 2027, понедельник и среда с 09:00 до 12:00. В календаре 8 занятий.",
+      "shortlist": [],
+      "questions": [
+        "Нужны базовая математика и работа с Windows. Уточнить аудиторию, технику, расходники, язык и приём приезжих."
+      ],
+      "sources": [
+        {
+          "url": "https://fabricum.pucp.edu.pe/capacitate/formacion-continua/taller-de-robotica-prototipado-y-manufactura/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2372",
+      "slug": "techlab-chile-infantil-summer-2027",
+      "provider": "TechLab Kids Chile · Infantil · LEGO Duplo",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+      "age": "3–5 лет, только утренний блок.",
+      "programme": "Простые и моторизованные механизмы LEGO Duplo.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "language": "Публичное описание на испанском. Устный язык занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа. Проживание отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Восемь недель на одной площадке в Vitacura. Темы земли, океана и космоса чередуются.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "variant_key": "summer-week-1",
+            "label": "Earth",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T12:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T12:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T12:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T12:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T12:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "variant_key": "summer-week-2",
+            "label": "Oceans",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T16:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T16:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T16:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T16:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "variant_key": "summer-week-3",
+            "label": "Space",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T12:00:00Z",
+                "end_utc": "2027-01-18T16:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T12:00:00Z",
+                "end_utc": "2027-01-19T16:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T12:00:00Z",
+                "end_utc": "2027-01-20T16:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T12:00:00Z",
+                "end_utc": "2027-01-21T16:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T12:00:00Z",
+                "end_utc": "2027-01-22T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "variant_key": "summer-week-4",
+            "label": "Earth",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T12:00:00Z",
+                "end_utc": "2027-01-25T16:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T12:00:00Z",
+                "end_utc": "2027-01-26T16:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T12:00:00Z",
+                "end_utc": "2027-01-27T16:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T12:00:00Z",
+                "end_utc": "2027-01-28T16:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T12:00:00Z",
+                "end_utc": "2027-01-29T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "variant_key": "summer-week-5",
+            "label": "Oceans",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T12:00:00Z",
+                "end_utc": "2027-02-01T16:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T12:00:00Z",
+                "end_utc": "2027-02-02T16:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T12:00:00Z",
+                "end_utc": "2027-02-03T16:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T12:00:00Z",
+                "end_utc": "2027-02-04T16:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T12:00:00Z",
+                "end_utc": "2027-02-05T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "variant_key": "summer-week-6",
+            "label": "Space",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T12:00:00Z",
+                "end_utc": "2027-02-08T16:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T12:00:00Z",
+                "end_utc": "2027-02-09T16:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T12:00:00Z",
+                "end_utc": "2027-02-10T16:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T12:00:00Z",
+                "end_utc": "2027-02-11T16:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T12:00:00Z",
+                "end_utc": "2027-02-12T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "variant_key": "summer-week-7",
+            "label": "Earth",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T12:00:00Z",
+                "end_utc": "2027-02-15T16:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T12:00:00Z",
+                "end_utc": "2027-02-16T16:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T12:00:00Z",
+                "end_utc": "2027-02-17T16:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T12:00:00Z",
+                "end_utc": "2027-02-18T16:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T12:00:00Z",
+                "end_utc": "2027-02-19T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "variant_key": "summer-week-8",
+            "label": "Oceans",
+            "price": "115000 CLP за неделю, 09:00–13:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 3,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "age_max": 5,
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T12:00:00Z",
+                "end_utc": "2027-02-22T16:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T12:00:00Z",
+                "end_utc": "2027-02-23T16:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T12:00:00Z",
+                "end_utc": "2027-02-24T16:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T12:00:00Z",
+                "end_utc": "2027-02-25T16:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T12:00:00Z",
+                "end_utc": "2027-02-26T16:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 115000,
+        "currency": "CLP",
+        "unit": "week",
+        "label": "115000 CLP за неделю, 09:00–13:00.",
+        "extras": "Подтвердить язык занятия, наличие места и допустимые варианты по выбранному возрасту.",
+        "deposit": "Подтвердить порядок оплаты выбранной недели.",
+        "included": "Простые и моторизованные механизмы LEGO Duplo."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Ребёнок старше опубликованного диапазона."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Ребёнок старше опубликованного диапазона."
+        }
+      },
+      "editorial_reason": "Восемь недель на одной площадке в Vitacura. Темы земли, океана и космоса чередуются.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык занятия, наличие места и допустимые варианты по выбранному возрасту."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
+    },
+    {
+      "id": "CP2373",
+      "slug": "techlab-chile-teens-summer-2027",
+      "provider": "TechLab Kids Chile · Teens · Python & Roblox Studio",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+      "age": "От 12 лет, только дневной блок. Верхняя граница в описании не уточнена.",
+      "programme": "Углублённый Python и создание миров в Roblox Studio.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "language": "Публичное описание на испанском. Устный язык занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневная программа. Проживание отдельно.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Восемь недель на одной площадке в Vitacura. Темы земли, океана и космоса чередуются.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "variant_key": "summer-week-1",
+            "label": "Earth",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T17:00:00Z",
+                "end_utc": "2027-01-04T21:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T17:00:00Z",
+                "end_utc": "2027-01-05T21:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T17:00:00Z",
+                "end_utc": "2027-01-06T21:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T17:00:00Z",
+                "end_utc": "2027-01-07T21:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T17:00:00Z",
+                "end_utc": "2027-01-08T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "variant_key": "summer-week-2",
+            "label": "Oceans",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T17:00:00Z",
+                "end_utc": "2027-01-11T21:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T17:00:00Z",
+                "end_utc": "2027-01-12T21:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T17:00:00Z",
+                "end_utc": "2027-01-13T21:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T17:00:00Z",
+                "end_utc": "2027-01-14T21:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T17:00:00Z",
+                "end_utc": "2027-01-15T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "variant_key": "summer-week-3",
+            "label": "Space",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T17:00:00Z",
+                "end_utc": "2027-01-18T21:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T17:00:00Z",
+                "end_utc": "2027-01-19T21:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T17:00:00Z",
+                "end_utc": "2027-01-20T21:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T17:00:00Z",
+                "end_utc": "2027-01-21T21:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T17:00:00Z",
+                "end_utc": "2027-01-22T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "variant_key": "summer-week-4",
+            "label": "Earth",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T17:00:00Z",
+                "end_utc": "2027-01-25T21:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T17:00:00Z",
+                "end_utc": "2027-01-26T21:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T17:00:00Z",
+                "end_utc": "2027-01-27T21:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T17:00:00Z",
+                "end_utc": "2027-01-28T21:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T17:00:00Z",
+                "end_utc": "2027-01-29T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "variant_key": "summer-week-5",
+            "label": "Oceans",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T17:00:00Z",
+                "end_utc": "2027-02-01T21:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T17:00:00Z",
+                "end_utc": "2027-02-02T21:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T17:00:00Z",
+                "end_utc": "2027-02-03T21:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T17:00:00Z",
+                "end_utc": "2027-02-04T21:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T17:00:00Z",
+                "end_utc": "2027-02-05T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "variant_key": "summer-week-6",
+            "label": "Space",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T17:00:00Z",
+                "end_utc": "2027-02-08T21:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T17:00:00Z",
+                "end_utc": "2027-02-09T21:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T17:00:00Z",
+                "end_utc": "2027-02-10T21:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T17:00:00Z",
+                "end_utc": "2027-02-11T21:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T17:00:00Z",
+                "end_utc": "2027-02-12T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "variant_key": "summer-week-7",
+            "label": "Earth",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T17:00:00Z",
+                "end_utc": "2027-02-15T21:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T17:00:00Z",
+                "end_utc": "2027-02-16T21:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T17:00:00Z",
+                "end_utc": "2027-02-17T21:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T17:00:00Z",
+                "end_utc": "2027-02-18T21:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T17:00:00Z",
+                "end_utc": "2027-02-19T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "variant_key": "summer-week-8",
+            "label": "Oceans",
+            "price": "120000 CLP за неделю, 14:00–18:00.",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "place": "Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611",
+            "age_min": 12,
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T17:00:00Z",
+                "end_utc": "2027-02-22T21:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T17:00:00Z",
+                "end_utc": "2027-02-23T21:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T17:00:00Z",
+                "end_utc": "2027-02-24T21:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T17:00:00Z",
+                "end_utc": "2027-02-25T21:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T17:00:00Z",
+                "end_utc": "2027-02-26T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 120000,
+        "currency": "CLP",
+        "unit": "week",
+        "label": "120000 CLP за неделю, 14:00–18:00.",
+        "extras": "Подтвердить язык занятия, наличие места и допустимые варианты по выбранному возрасту.",
+        "deposit": "Подтвердить порядок оплаты выбранной недели.",
+        "included": "Углублённый Python и создание миров в Roblox Studio."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ребёнок младше опубликованного диапазона."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ребёнок младше опубликованного диапазона."
+        }
+      },
+      "editorial_reason": "Восемь недель на одной площадке в Vitacura. Темы земли, океана и космоса чередуются.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык занятия, наличие места и допустимые варианты по выбранному возрасту."
+      ],
+      "sources": [
+        {
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "title": "Официальная страница организатора или правила входа.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09"
     }
   ],
   "gaps": [
@@ -379188,7 +380648,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2369,
+      "total_dossiers": 2373,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

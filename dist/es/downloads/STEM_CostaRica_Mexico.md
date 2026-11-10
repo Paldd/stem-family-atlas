@@ -944,15 +944,15 @@ Comprobado: 2026-10-01
 ### E096 · Expo Manufactura 2027
 
 Fecha: 2027-02-23 国 2027-02-25
-edad: Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.
-Matvey: No. La organización admite a profesionales mayores de 21 años.
-Oscar: No. La organización admite a profesionales mayores de 21 años.
+Edad: Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.
+Matvey: Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.
+Oscar: Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.
 Idioma: Idioma de la etapa específica y juez de primera instancia
-Acceso: Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.
-Costo: El equipo, el registro y el viaje se calculan por separado
+Acceso: Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.
+Costo: Entrada gratuita a la feria con registro.
 Limitaciones: 23–25 de febrero de 2027, de 12:00 a 19:00 cada día, Cintermex.
 Fuente: https://expomanufactura.com.mx/
-Se ha comprobado: 2026-11-08
+Se ha comprobado: 2026-11-09
 
 ### E097 · Smart Technology Expo 2026
 
@@ -6061,6 +6061,58 @@ Acceso: La vía habitual pasa por el centro escolar y el representante nacional.
 Costo: Consulte al organizador local la tarifa de la ronda nacional y los posibles cargos de la sede.
 Condiciones: Representante local: Einstein Prep & Learning Center. El grado y el idioma se verifican con la sede correspondiente.
 Fuente: https://www.spiritofmathcontest.com/countries/costa-rica
+Se ha comprobado: 2026-11-09
+
+### E776 · EECE Expo 2027
+
+Fecha: 2027-02-22 国 2027-02-24
+Edad: Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.
+Matvey: Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.
+Oscar: Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.
+Idioma: Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.
+Acceso: Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.
+Costo: Entrada gratuita a la feria con registro.
+Condiciones: Digitalización y automatización industrial para la energía. El 23–24 de febrero de 2027 comparte recinto con Expo Manufactura. La acreditación común sigue sin confirmarse.
+Fuente: https://www.eeceexpo.mx/
+Se ha comprobado: 2026-11-09
+
+### E777 · WAFE 2027 · Welding Automation & Fabrication Experience
+
+Fecha: 2027-03-02 — 2027-03-03
+Edad: Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.
+Matvey: Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.
+Oscar: Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.
+Idioma: Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.
+Acceso: Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.
+Costo: Las preguntas frecuentes indican registro gratuito. Confirme las condiciones de 2027.
+Condiciones: La página principal confirma el 2–3 de marzo de 2027. Las preguntas frecuentes muestran 10:00–17:00 para el 10–11 de marzo. Confirme los horarios de la nueva edición. Se anuncia soldadura robótica y simuladores.
+Fuente: https://www.wafemx.com/
+Se ha comprobado: 2026-11-09
+
+### E778 · FABTECH México 2027
+
+Fecha: 2027-05-04 — 2027-05-06
+Edad: Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.
+Matvey: Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.
+Oscar: Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.
+Idioma: Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.
+Acceso: Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.
+Costo: La preinscripción da acceso gratuito. Hay registro en el recinto, confirme su tarifa.
+Condiciones: El plano de 2027 incluye CHAIFU ROBOTS 2342, CLOOS ROBOTIC 2523, DAIHEN México 2404, HUAYAN ROBOTICS 2336 y HIREBOTICS 2335. Revise los números antes del viaje.
+Fuente: https://mexico.fabtechexpo.com/attend/faqs
+Se ha comprobado: 2026-11-09
+
+### E779 · EXPO PACK Guadalajara 2027
+
+Fecha: 2027-06-08 — 2027-06-10
+Edad: Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.
+Matvey: Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.
+Oscar: Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.
+Idioma: Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.
+Acceso: Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.
+Costo: Registro de 200 MXN según las preguntas frecuentes. Se necesita el código QR de confirmación para recoger la acreditación.
+Condiciones: Feria de equipos de envasado y procesamiento. Las preguntas frecuentes indican como horario habitual de estudiantes 13:00–15:00 el último día, con registro. Confirme el horario de 2027.
+Fuente: https://www.expopackguadalajara.com.mx/the-show/faqs
 Se ha comprobado: 2026-11-09
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

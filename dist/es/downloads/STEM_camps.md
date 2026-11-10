@@ -91398,6 +91398,294 @@ Condiciones: Matvey: Para estudiantes de secundaria según el organizador. Opci�
 Fuente: https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027
 Se ha comprobado: 2026-11-09
 
+### CP2370-20270104-20270129-primaria · Buenos Aires · Vacaciones en la Escuela · Primaria · Primaria · 6–12 · 2027-01-04–2027-01-29
+
+Lugar: Argentina · Buenos Aires · CABA
+Fecha: 2027-01-04 — 2027-01-29
+Edad: 6–12 años, nivel Primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Confirme la tarifa y los gastos obligatorios. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme el nivel, la admisión de visitantes y el programa de la sede concreta. Oscar: La edad encaja. Confirme el nivel, la admisión de visitantes y el programa de la sede concreta. Cargos extra: Confirme coste, plaza y reglas para validar la preinscripción. Pago: Confirme coste, plaza y reglas para validar la preinscripción.
+Fuente: https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela
+Se ha comprobado: 2026-11-09
+
+### CP2371-20270118-20270210-puertas · PUCP FABRICUM · Robótica, Prototipado y Manufactura · Robótica, Prototipado y Manufactura · 2027-01-18–2027-02-10
+
+Lugar: Perú · Lima · PUCP · Av. Universitaria 1801 · San Miguel
+Fecha: 2027-01-18 — 2027-02-10
+Edad: Escolares de 13 a 16 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 800 PEN por el curso. Pago anticipado de 720 PEN hasta el 20 de diciembre de 2026. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Se requieren matemáticas básicas y manejo de Windows. Confirme aula, equipos, consumibles, idioma y admisión de visitantes. Pago: 720 PEN hasta el 20 de diciembre de 2026 es el precio anticipado. Confirme el plazo de solicitud.
+Fuente: https://fabricum.pucp.edu.pe/capacitate/formacion-continua/taller-de-robotica-prototipado-y-manufactura/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270104-20270108-summer-week-1 · TechLab Kids Chile · Infantil · LEGO Duplo · Earth · 2027-01-04–2027-01-08
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270111-20270115-summer-week-2 · TechLab Kids Chile · Infantil · LEGO Duplo · Oceans · 2027-01-11–2027-01-15
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270118-20270122-summer-week-3 · TechLab Kids Chile · Infantil · LEGO Duplo · Space · 2027-01-18–2027-01-22
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270125-20270129-summer-week-4 · TechLab Kids Chile · Infantil · LEGO Duplo · Earth · 2027-01-25–2027-01-29
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270201-20270205-summer-week-5 · TechLab Kids Chile · Infantil · LEGO Duplo · Oceans · 2027-02-01–2027-02-05
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-01 国 2027-02-05
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270208-20270212-summer-week-6 · TechLab Kids Chile · Infantil · LEGO Duplo · Space · 2027-02-08–2027-02-12
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270215-20270219-summer-week-7 · TechLab Kids Chile · Infantil · LEGO Duplo · Earth · 2027-02-15–2027-02-19
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2372-20270222-20270226-summer-week-8 · TechLab Kids Chile · Infantil · LEGO Duplo · Oceans · 2027-02-22–2027-02-26
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-22 国 2027-02-26
+Edad: 3–5 años, solo turno de mañana.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 115000 CLP por semana, 09:00–13:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño supera la franja publicada. Oscar: El niño supera la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270104-20270108-summer-week-1 · TechLab Kids Chile · Teens · Python & Roblox Studio · Earth · 2027-01-04–2027-01-08
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-04 — 2027-01-08
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270111-20270115-summer-week-2 · TechLab Kids Chile · Teens · Python & Roblox Studio · Oceans · 2027-01-11–2027-01-15
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-11 — 2027-01-15
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270118-20270122-summer-week-3 · TechLab Kids Chile · Teens · Python & Roblox Studio · Space · 2027-01-18–2027-01-22
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-18 国 2027-01-22
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270125-20270129-summer-week-4 · TechLab Kids Chile · Teens · Python & Roblox Studio · Earth · 2027-01-25–2027-01-29
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-01-25 国 2027-01-29
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270201-20270205-summer-week-5 · TechLab Kids Chile · Teens · Python & Roblox Studio · Oceans · 2027-02-01–2027-02-05
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-01 国 2027-02-05
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270208-20270212-summer-week-6 · TechLab Kids Chile · Teens · Python & Roblox Studio · Space · 2027-02-08–2027-02-12
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-08 — 2027-02-12
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270215-20270219-summer-week-7 · TechLab Kids Chile · Teens · Python & Roblox Studio · Earth · 2027-02-15–2027-02-19
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-15 国 2027-02-19
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
+### CP2373-20270222-20270226-summer-week-8 · TechLab Kids Chile · Teens · Python & Roblox Studio · Oceans · 2027-02-22–2027-02-26
+
+Lugar: Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+Fecha: 2027-02-22 国 2027-02-26
+Edad: Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en español. Confirme el idioma oral de las actividades.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 120000 CLP por semana, 14:00–18:00. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: El niño está por debajo de la franja publicada. Oscar: El niño está por debajo de la franja publicada. Cargos extra: Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida. Pago: Confirme las condiciones de pago de la semana elegida.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

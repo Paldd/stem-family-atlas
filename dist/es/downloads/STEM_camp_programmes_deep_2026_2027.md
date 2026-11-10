@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2369 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2373 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -185985,6 +185985,518 @@ Nueva Zelanda · 36 Dominion Street · Takapuna · Auckland
 - [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/host/aotearoa-aerospace-academy) · 2026-11-09
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi) · 2026-11-09
+
+## CP2370 · Buenos Aires · Vacaciones en la Escuela · Primaria
+
+Argentina · Buenos Aires · CABA
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 6–12 años, nivel Primaria.
+
+**Idioma:** La ficha pública está en español. Confirme el idioma oral de las actividades.
+
+**Programa:** Programa municipal diurno de primaria. Ciencia, creatividad y movimiento. El informe de 2026 incluye robótica. Confirme el taller en el grupo de 2027.
+
+**Alojamiento:** Programa diurno. Alojamiento por separado.
+
+**Fechas / estado:** Del 4 al 29 de enero de 2027, de lunes a viernes. 09:00–16:00 o turno de tarde, para el que la página municipal indica 11:00–17:00 y el portal 11:00–18:00. Cada sede tiene un único horario.
+
+**Precio / año:** sin establecer · Confirme la tarifa y los gastos obligatorios.
+
+**Incluye:** Programa municipal diurno de primaria. Ciencia, creatividad y movimiento. El informe de 2026 incluye robótica. Confirme el taller en el grupo de 2027.
+
+**Cargos extra:** Confirme coste, plaza y reglas para validar la preinscripción.
+
+**Pago:** Confirme coste, plaza y reglas para validar la preinscripción.
+
+**Matvey:** La edad encaja. Confirme el nivel, la admisión de visitantes y el programa de la sede concreta.
+
+**Oscar:** La edad encaja. Confirme el nivel, la admisión de visitantes y el programa de la sede concreta.
+
+**Motivo de selección:** Del 4 al 29 de enero de 2027, de lunes a viernes. 09:00–16:00 o turno de tarde, para el que la página municipal indica 11:00–17:00 y el portal 11:00–18:00. Cada sede tiene un único horario.
+
+### Antes de solicitar plaza
+
+- Preinscripción del 9 al 27 de noviembre de 2026. El formulario incluye pasaporte extranjero. Confirme la admisión de familias extranjeras, documentos de validación, plazas y talleres concretos.
+
+### Primaria · 6–12
+
+**Fechas / estado:** 2027-01-04 — 2027-01-29
+
+**Lugar:** Buenos Aires · CABA
+
+**Precio:** Confirme la tarifa y los gastos obligatorios.
+
+[fuente](https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://buenosaires.gob.ar/educacion/vacaciones-en-la-escuela) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://colonias.bue.edu.ar/) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://buenosaires.gob.ar/gcaba_historico/noticias/un-verano-para-potenciar-el-juego-asi-fue-vacaciones-en-la-escuela) · 2026-11-09
+
+## CP2371 · PUCP FABRICUM · Robótica, Prototipado y Manufactura
+
+Perú · Lima · PUCP · Av. Universitaria 1801 · San Miguel
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Escolares de 13 a 16 años.
+
+**Idioma:** La ficha pública está en español. Confirme el idioma oral de las actividades.
+
+**Programa:** CAD, impresión 3D, corte láser y control de motores con Arduino u otro microcontrolador. Presentación final del prototipo y certificado digital PUCP.
+
+**Alojamiento:** Programa diurno. Alojamiento por separado.
+
+**Fechas / estado:** Del 18 de enero al 10 de febrero de 2027, lunes y miércoles de 09:00 a 12:00. El calendario incluye 8 sesiones.
+
+**Precio / año:** 2027 · 800 PEN por el curso. Pago anticipado de 720 PEN hasta el 20 de diciembre de 2026.
+
+**Incluye:** CAD, impresión 3D, corte láser y control de motores con Arduino u otro microcontrolador. Presentación final del prototipo y certificado digital PUCP.
+
+**Cargos extra:** Se requieren matemáticas básicas y manejo de Windows. Confirme aula, equipos, consumibles, idioma y admisión de visitantes.
+
+**Pago:** 720 PEN hasta el 20 de diciembre de 2026 es el precio anticipado. Confirme el plazo de solicitud.
+
+**Matvey:** El niño está por debajo de la franja publicada.
+
+**Oscar:** El niño está por debajo de la franja publicada.
+
+**Motivo de selección:** Del 18 de enero al 10 de febrero de 2027, lunes y miércoles de 09:00 a 12:00. El calendario incluye 8 sesiones.
+
+### Antes de solicitar plaza
+
+- Se requieren matemáticas básicas y manejo de Windows. Confirme aula, equipos, consumibles, idioma y admisión de visitantes.
+
+### Robótica, Prototipado y Manufactura
+
+**Fechas / estado:** 2027-01-18 — 2027-02-10
+
+**Lugar:** Lima · PUCP · Av. Universitaria 1801 · San Miguel
+
+**Precio:** 800 PEN por el curso. Pago anticipado de 720 PEN hasta el 20 de diciembre de 2026.
+
+- 2027-01-18 · 09:00–12:00 · America/Lima
+
+- 2027-01-20 · 09:00–12:00 · America/Lima
+
+- 2027-01-25 · 09:00–12:00 · America/Lima
+
+- 2027-01-27 · 09:00–12:00 · America/Lima
+
+- 2027-02-01 · 09:00–12:00 · America/Lima
+
+- 2027-02-03 · 09:00–12:00 · America/Lima
+
+- 2027-02-08 · 09:00–12:00 · America/Lima
+
+- 2027-02-10 · 09:00–12:00 · America/Lima
+
+[fuente](https://fabricum.pucp.edu.pe/capacitate/formacion-continua/taller-de-robotica-prototipado-y-manufactura/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://fabricum.pucp.edu.pe/capacitate/formacion-continua/taller-de-robotica-prototipado-y-manufactura/) · 2026-11-09
+
+## CP2372 · TechLab Kids Chile · Infantil · LEGO Duplo
+
+Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** 3–5 años, solo turno de mañana.
+
+**Idioma:** La ficha pública está en español. Confirme el idioma oral de las actividades.
+
+**Programa:** Mecanismos simples y motorizados con LEGO Duplo.
+
+**Alojamiento:** Programa diurno. Alojamiento por separado.
+
+**Fechas / estado:** Ocho semanas en una sede de Vitacura. Se alternan misiones sobre tierra, océano y espacio.
+
+**Precio / año:** 2027 · 115000 CLP por semana, 09:00–13:00.
+
+**Incluye:** Mecanismos simples y motorizados con LEGO Duplo.
+
+**Cargos extra:** Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida.
+
+**Pago:** Confirme las condiciones de pago de la semana elegida.
+
+**Matvey:** El niño supera la franja publicada.
+
+**Oscar:** El niño supera la franja publicada.
+
+**Motivo de selección:** Ocho semanas en una sede de Vitacura. Se alternan misiones sobre tierra, océano y espacio.
+
+### Antes de solicitar plaza
+
+- Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida.
+
+### Earth
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-01-04 · 09:00–13:00 · America/Santiago
+
+- 2027-01-05 · 09:00–13:00 · America/Santiago
+
+- 2027-01-06 · 09:00–13:00 · America/Santiago
+
+- 2027-01-07 · 09:00–13:00 · America/Santiago
+
+- 2027-01-08 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-01-11 · 09:00–13:00 · America/Santiago
+
+- 2027-01-12 · 09:00–13:00 · America/Santiago
+
+- 2027-01-13 · 09:00–13:00 · America/Santiago
+
+- 2027-01-14 · 09:00–13:00 · America/Santiago
+
+- 2027-01-15 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Space
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-01-18 · 09:00–13:00 · America/Santiago
+
+- 2027-01-19 · 09:00–13:00 · America/Santiago
+
+- 2027-01-20 · 09:00–13:00 · America/Santiago
+
+- 2027-01-21 · 09:00–13:00 · America/Santiago
+
+- 2027-01-22 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Earth
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-01-25 · 09:00–13:00 · America/Santiago
+
+- 2027-01-26 · 09:00–13:00 · America/Santiago
+
+- 2027-01-27 · 09:00–13:00 · America/Santiago
+
+- 2027-01-28 · 09:00–13:00 · America/Santiago
+
+- 2027-01-29 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-02-01 · 09:00–13:00 · America/Santiago
+
+- 2027-02-02 · 09:00–13:00 · America/Santiago
+
+- 2027-02-03 · 09:00–13:00 · America/Santiago
+
+- 2027-02-04 · 09:00–13:00 · America/Santiago
+
+- 2027-02-05 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Space
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-02-08 · 09:00–13:00 · America/Santiago
+
+- 2027-02-09 · 09:00–13:00 · America/Santiago
+
+- 2027-02-10 · 09:00–13:00 · America/Santiago
+
+- 2027-02-11 · 09:00–13:00 · America/Santiago
+
+- 2027-02-12 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Earth
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-02-15 · 09:00–13:00 · America/Santiago
+
+- 2027-02-16 · 09:00–13:00 · America/Santiago
+
+- 2027-02-17 · 09:00–13:00 · America/Santiago
+
+- 2027-02-18 · 09:00–13:00 · America/Santiago
+
+- 2027-02-19 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 115000 CLP por semana, 09:00–13:00.
+
+- 2027-02-22 · 09:00–13:00 · America/Santiago
+
+- 2027-02-23 · 09:00–13:00 · America/Santiago
+
+- 2027-02-24 · 09:00–13:00 · America/Santiago
+
+- 2027-02-25 · 09:00–13:00 · America/Santiago
+
+- 2027-02-26 · 09:00–13:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/) · 2026-11-09
+
+## CP2373 · TechLab Kids Chile · Teens · Python & Roblox Studio
+
+Chile · Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Desde 12 años, solo turno de tarde. La descripción no precisa el límite superior.
+
+**Idioma:** La ficha pública está en español. Confirme el idioma oral de las actividades.
+
+**Programa:** Python avanzado y creación de mundos en Roblox Studio.
+
+**Alojamiento:** Programa diurno. Alojamiento por separado.
+
+**Fechas / estado:** Ocho semanas en una sede de Vitacura. Se alternan misiones sobre tierra, océano y espacio.
+
+**Precio / año:** 2027 · 120000 CLP por semana, 14:00–18:00.
+
+**Incluye:** Python avanzado y creación de mundos en Roblox Studio.
+
+**Cargos extra:** Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida.
+
+**Pago:** Confirme las condiciones de pago de la semana elegida.
+
+**Matvey:** El niño está por debajo de la franja publicada.
+
+**Oscar:** El niño está por debajo de la franja publicada.
+
+**Motivo de selección:** Ocho semanas en una sede de Vitacura. Se alternan misiones sobre tierra, océano y espacio.
+
+### Antes de solicitar plaza
+
+- Confirme el idioma de la actividad, la plaza y las modalidades para la edad elegida.
+
+### Earth
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-01-04 · 14:00–18:00 · America/Santiago
+
+- 2027-01-05 · 14:00–18:00 · America/Santiago
+
+- 2027-01-06 · 14:00–18:00 · America/Santiago
+
+- 2027-01-07 · 14:00–18:00 · America/Santiago
+
+- 2027-01-08 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-01-11 · 14:00–18:00 · America/Santiago
+
+- 2027-01-12 · 14:00–18:00 · America/Santiago
+
+- 2027-01-13 · 14:00–18:00 · America/Santiago
+
+- 2027-01-14 · 14:00–18:00 · America/Santiago
+
+- 2027-01-15 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Space
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-01-18 · 14:00–18:00 · America/Santiago
+
+- 2027-01-19 · 14:00–18:00 · America/Santiago
+
+- 2027-01-20 · 14:00–18:00 · America/Santiago
+
+- 2027-01-21 · 14:00–18:00 · America/Santiago
+
+- 2027-01-22 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Earth
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-01-25 · 14:00–18:00 · America/Santiago
+
+- 2027-01-26 · 14:00–18:00 · America/Santiago
+
+- 2027-01-27 · 14:00–18:00 · America/Santiago
+
+- 2027-01-28 · 14:00–18:00 · America/Santiago
+
+- 2027-01-29 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-02-01 — 2027-02-05
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-02-01 · 14:00–18:00 · America/Santiago
+
+- 2027-02-02 · 14:00–18:00 · America/Santiago
+
+- 2027-02-03 · 14:00–18:00 · America/Santiago
+
+- 2027-02-04 · 14:00–18:00 · America/Santiago
+
+- 2027-02-05 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Space
+
+**Fechas / estado:** 2027-02-08 — 2027-02-12
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-02-08 · 14:00–18:00 · America/Santiago
+
+- 2027-02-09 · 14:00–18:00 · America/Santiago
+
+- 2027-02-10 · 14:00–18:00 · America/Santiago
+
+- 2027-02-11 · 14:00–18:00 · America/Santiago
+
+- 2027-02-12 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Earth
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-02-15 · 14:00–18:00 · America/Santiago
+
+- 2027-02-16 · 14:00–18:00 · America/Santiago
+
+- 2027-02-17 · 14:00–18:00 · America/Santiago
+
+- 2027-02-18 · 14:00–18:00 · America/Santiago
+
+- 2027-02-19 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Oceans
+
+**Fechas / estado:** 2027-02-22 — 2027-02-26
+
+**Lugar:** Santiago · Vitacura · Av. Vitacura 3568 · Oficina 611
+
+**Precio:** 120000 CLP por semana, 14:00–18:00.
+
+- 2027-02-22 · 14:00–18:00 · America/Santiago
+
+- 2027-02-23 · 14:00–18:00 · America/Santiago
+
+- 2027-02-24 · 14:00–18:00 · America/Santiago
+
+- 2027-02-25 · 14:00–18:00 · America/Santiago
+
+- 2027-02-26 · 14:00–18:00 · America/Santiago
+
+[fuente](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

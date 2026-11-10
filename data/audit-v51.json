@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11951,
-    "competition_cards": 5388,
-    "event_cards": 775,
-    "camp_cards": 5788,
+    "cards": 11974,
+    "competition_cards": 5389,
+    "event_cards": 779,
+    "camp_cards": 5806,
     "league_profiles": 339,
-    "major_exhibition_cards": 668,
+    "major_exhibition_cards": 672,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3875,
+      "total": 3880,
       "countries_with_records": 41,
-      "competitions": 2223,
-      "events": 224,
-      "major_exhibitions": 177,
+      "competitions": 2224,
+      "events": 228,
+      "major_exhibitions": 181,
       "camps": 1428,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 814,
+      "total": 832,
       "countries_with_records": 15,
       "competitions": 490,
       "events": 60,
       "major_exhibitions": 53,
-      "camps": 264,
+      "camps": 282,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -17187,6 +17187,50 @@
       "new": false
     },
     {
+      "id": "E776",
+      "name": "EECE Expo 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-02-22",
+      "end": "2027-02-24",
+      "visitor_policy": "adults_only",
+      "source": "https://www.eeceexpo.mx/",
+      "new": false
+    },
+    {
+      "id": "E777",
+      "name": "WAFE 2027 · Welding Automation & Fabrication Experience",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-03-02",
+      "end": "2027-03-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.wafemx.com/",
+      "new": false
+    },
+    {
+      "id": "E778",
+      "name": "FABTECH México 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-05-04",
+      "end": "2027-05-06",
+      "visitor_policy": "adults_only",
+      "source": "https://mexico.fabtechexpo.com/attend/faqs",
+      "new": false
+    },
+    {
+      "id": "E779",
+      "name": "EXPO PACK Guadalajara 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-06-08",
+      "end": "2027-06-10",
+      "visitor_policy": "adults_only",
+      "source": "https://www.expopackguadalajara.com.mx/the-show/faqs",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17708,7 +17752,8 @@
     "Проверены зимние смены Meta Robotics и LCCL по площадкам и возрастным группам. Для игровых выставок отдельно сверены билеты и детский допуск. Язык преподавания новых курсов пока требует подтверждения.",
     "Добавлены действующие региональные варианты SENATI, турнир Astra Challenge, январские курсы Astranautas и выставка настольных игр в Сингапуре. Для программ без точного календаря сохранён статус уточнения.",
     "Проверены местные треки AAIO, условия регистрации ECER и новые варианты STEMLOOK. Квалификация, допуск команды и язык занятий отмечены отдельно.",
-    "Уточнены сроки и условия Kiwibots. Добавлены выставки Океании, занятия Logan Libraries и две смены Mission to Space. Правила профессионального входа и детского участия указаны отдельно."
+    "Уточнены сроки и условия Kiwibots. Добавлены выставки Океании, занятия Logan Libraries и две смены Mission to Space. Правила профессионального входа и детского участия указаны отдельно.",
+    "Сверены выставки Мексики, Bebras на Ямайке и каникулы в Аргентине, Перу и Чили. Допуск, язык и расхождения по расписанию отмечены в карточках."
   ],
   "source_issues": [
     {
@@ -19611,8 +19656,8 @@
       }
     ],
     "counts": {
-      "records": 5788,
-      "holiday": 5155,
+      "records": 5806,
+      "holiday": 5173,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,

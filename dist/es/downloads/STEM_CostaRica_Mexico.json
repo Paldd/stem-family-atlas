@@ -4160,15 +4160,15 @@
       "period": "23–25 de febrero de 2027, de 12:00 a 19:00 cada día, Cintermex.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.",
-      "mat": "No. La organización admite a profesionales mayores de 21 años.",
-      "osc": "No. La organización admite a profesionales mayores de 21 años.",
+      "age": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
+      "mat": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
+      "osc": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
       "format": "visitante de la exposición / expo y conference",
-      "entry": "Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.",
+      "entry": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
       "gear": "No es necesario.",
       "language": "el idioma de la etapa concreta y la capacidad de EN/ES para especificar",
       "languages": [],
-      "cost": "el equipo, el registro y el viaje se calculan por separado",
+      "cost": "Entrada gratuita a la feria con registro.",
       "level": "Exposición de empresas y tecnologías",
       "reward": "demostraciones, comunicación y conocimiento de las tecnologías; no medalla de competición",
       "priority": "P4 — viaje de una persona adulta",
@@ -4181,7 +4181,7 @@
         }
       ],
       "proof": "Cotejado con el horario oficial y las condiciones de acceso publicadas.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-09",
       "status": "Idea",
       "note": "23–25 de febrero de 2027, de 12:00 a 19:00 cada día, Cintermex.",
       "themes": [
@@ -4197,8 +4197,8 @@
       "language_certainty": "la traducción del sitio no confirma la lengua de la jueza o la ayuda a los niños.",
       "exhibition_tier": "regional",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.",
-      "adult_entry": "Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.",
+      "visitor_policy_note": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
+      "adult_entry": "Acceso gratuito para profesionales del sector mayores de 21 años. Preinscripción con el organizador.",
       "highlights": [
         "robótica y automatización",
         "el equipo industrial",
@@ -4210,6 +4210,39 @@
       "importance_reason": "selección editorial por temática, alcance internacional / regional y programa de exposición del organizador; no es un ranking mundial oficial.",
       "iso": [
         "MEX"
+      ],
+      "venue": "Cintermex · A1, A2, B–H",
+      "related_ids": [
+        "E776"
+      ],
+      "public_days": [
+        {
+          "date": "2027-02-23",
+          "start_time": "12:00",
+          "end_time": "19:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-23T18:00:00Z",
+          "end_utc": "2027-02-24T01:00:00Z"
+        },
+        {
+          "date": "2027-02-24",
+          "start_time": "12:00",
+          "end_time": "19:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-24T18:00:00Z",
+          "end_utc": "2027-02-25T01:00:00Z"
+        },
+        {
+          "date": "2027-02-25",
+          "start_time": "12:00",
+          "end_time": "19:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-25T18:00:00Z",
+          "end_utc": "2027-02-26T01:00:00Z"
+        }
       ]
     },
     {
@@ -30270,6 +30303,360 @@
       "admission_kind": "school_only",
       "evidence_level": "event_page",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "E776",
+      "title": "EECE Expo 2027",
+      "block": "Eventos",
+      "iso": [
+        "MEX"
+      ],
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Monterrey",
+      "venue": "Cintermex",
+      "start": "2027-02-22",
+      "end": "2027-02-24",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "checked": "2026-11-09",
+      "source": "https://www.eeceexpo.mx/",
+      "references": [
+        {
+          "url": "https://www.eeceexpo.mx/visitantes/por-qu-asistir/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://expomanufactura.com.mx/visitantes/pre-registrate-para-asistir-en-2027/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "status": "Idea",
+      "period": "",
+      "age": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "mat": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "osc": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "entry": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "action": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "format": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "gear": "No es necesario.",
+      "language": "Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Entrada gratuita a la feria con registro.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3  Visita en un viaje cómodo",
+      "note": "Digitalización y automatización industrial para la energía. El 23–24 de febrero de 2027 comparte recinto con Expo Manufactura. La acreditación común sigue sin confirmarse.",
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "regional",
+      "importance_reason": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "rules",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "adult_entry": "Acceso para profesionales del sector mayores de 18 años. EECE y Expo Manufactura aplican condiciones diferentes en Cintermex.",
+      "exhibitor_note": "Digitalización y automatización industrial para la energía. El 23–24 de febrero de 2027 comparte recinto con Expo Manufactura. La acreditación común sigue sin confirmarse.",
+      "highlights": [
+        "Robótica, automatización y soluciones de ingeniería para el sector."
+      ],
+      "public_days": [
+        {
+          "date": "2027-02-22",
+          "start_time": "11:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-22T17:00:00Z",
+          "end_utc": "2027-02-23T00:00:00Z"
+        },
+        {
+          "date": "2027-02-23",
+          "start_time": "11:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-23T17:00:00Z",
+          "end_utc": "2027-02-24T00:00:00Z"
+        },
+        {
+          "date": "2027-02-24",
+          "start_time": "11:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-02-24T17:00:00Z",
+          "end_utc": "2027-02-25T00:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "E096"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E777",
+      "title": "WAFE 2027 · Welding Automation & Fabrication Experience",
+      "block": "Eventos",
+      "iso": [
+        "MEX"
+      ],
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Querétaro",
+      "venue": "Querétaro Centro de Congresos",
+      "start": "2027-03-02",
+      "end": "2027-03-03",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "checked": "2026-11-09",
+      "source": "https://www.wafemx.com/",
+      "references": [
+        {
+          "url": "https://www.wafemx.com/faqs?lang=es",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "status": "Idea",
+      "period": "",
+      "age": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "mat": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "osc": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "entry": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "action": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "format": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "gear": "No es necesario.",
+      "language": "Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Las preguntas frecuentes indican registro gratuito. Confirme las condiciones de 2027.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3  Visita en un viaje cómodo",
+      "note": "La página principal confirma el 2–3 de marzo de 2027. Las preguntas frecuentes muestran 10:00–17:00 para el 10–11 de marzo. Confirme los horarios de la nueva edición. Se anuncia soldadura robótica y simuladores.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "rules",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "adult_entry": "Las preguntas frecuentes indican un mínimo de 18 años, pero la respuesta sobre estudiantes menciona el 11 de marzo. Confirme el mínimo para la edición del 2–3 de marzo.",
+      "exhibitor_note": "La página principal confirma el 2–3 de marzo de 2027. Las preguntas frecuentes muestran 10:00–17:00 para el 10–11 de marzo. Confirme los horarios de la nueva edición. Se anuncia soldadura robótica y simuladores.",
+      "highlights": [
+        "Robótica, automatización y soluciones de ingeniería para el sector."
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E778",
+      "title": "FABTECH México 2027",
+      "block": "Eventos",
+      "iso": [
+        "MEX"
+      ],
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Monterrey",
+      "venue": "Cintermex",
+      "start": "2027-05-04",
+      "end": "2027-05-06",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "checked": "2026-11-09",
+      "source": "https://mexico.fabtechexpo.com/attend/faqs",
+      "references": [
+        {
+          "url": "https://miregistro.mx/fabtech/2027/plano/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        },
+        {
+          "url": "https://mexico.fabtechexpo.com/attend/metal-forming",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "status": "Idea",
+      "period": "",
+      "age": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "mat": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "osc": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "entry": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "action": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "format": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "gear": "No es necesario.",
+      "language": "Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La preinscripción da acceso gratuito. Hay registro en el recinto, confirme su tarifa.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3  Visita en un viaje cómodo",
+      "note": "El plano de 2027 incluye CHAIFU ROBOTS 2342, CLOOS ROBOTIC 2523, DAIHEN México 2404, HUAYAN ROBOTICS 2336 y HIREBOTICS 2335. Revise los números antes del viaje.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "rules",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "adult_entry": "Feria para profesionales. Acceso a partir de 16 años. Horario separado para estudiantes el 6 de mayo desde las 14:30. Los niños de 6 y 9 años no pueden entrar.",
+      "exhibitor_note": "El plano de 2027 incluye CHAIFU ROBOTS 2342, CLOOS ROBOTIC 2523, DAIHEN México 2404, HUAYAN ROBOTICS 2336 y HIREBOTICS 2335. Revise los números antes del viaje.",
+      "highlights": [
+        "Robótica, automatización y soluciones de ingeniería para el sector."
+      ],
+      "public_days": [
+        {
+          "date": "2027-05-04",
+          "start_time": "11:00",
+          "end_time": "19:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-05-04T17:00:00Z",
+          "end_utc": "2027-05-05T01:00:00Z"
+        },
+        {
+          "date": "2027-05-05",
+          "start_time": "11:00",
+          "end_time": "19:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-05-05T17:00:00Z",
+          "end_utc": "2027-05-06T01:00:00Z"
+        },
+        {
+          "date": "2027-05-06",
+          "start_time": "11:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "ical_timed": true,
+          "start_utc": "2027-05-06T17:00:00Z",
+          "end_utc": "2027-05-07T00:00:00Z"
+        }
+      ],
+      "exhibitor_directory_url": "https://miregistro.mx/fabtech/2027/plano/",
+      "exhibitors": [
+        "CHAIFU ROBOTS",
+        "CLOOS ROBOTIC",
+        "DAIHEN México",
+        "HUAYAN ROBOTICS",
+        "HIREBOTICS"
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+    },
+    {
+      "id": "E779",
+      "title": "EXPO PACK Guadalajara 2027",
+      "block": "Eventos",
+      "iso": [
+        "MEX"
+      ],
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Guadalajara",
+      "venue": "Expo Guadalajara · Av. Mariano Otero 1499",
+      "start": "2027-06-08",
+      "end": "2027-06-10",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "checked": "2026-11-09",
+      "source": "https://www.expopackguadalajara.com.mx/the-show/faqs",
+      "references": [
+        {
+          "url": "https://www.expopackguadalajara.com.mx/",
+          "label": "Página oficial del organizador o condiciones de entrada."
+        }
+      ],
+      "proof": "Página oficial del organizador o condiciones de entrada.",
+      "status": "Idea",
+      "period": "",
+      "age": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "mat": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "osc": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "entry": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "action": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "format": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "gear": "No es necesario.",
+      "language": "Confirme con el organizador los horarios, el idioma de las ponencias y los detalles de acceso.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "Registro de 200 MXN según las preguntas frecuentes. Se necesita el código QR de confirmación para recoger la acreditación.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "",
+      "priority": "P3  Visita en un viaje cómodo",
+      "note": "Feria de equipos de envasado y procesamiento. Las preguntas frecuentes indican como horario habitual de estudiantes 13:00–15:00 el último día, con registro. Confirme el horario de 2027.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Robótica, automatización y soluciones de ingeniería para el sector.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "rules",
+      "date_scope": "exhibition_window",
+      "exhibition_tier": "regional",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "adult_entry": "Acceso al piso de exhibición a partir de 18 años. La regla incluye bebés y carriolas. Confirme el horario específico para estudiantes con el organizador.",
+      "exhibitor_note": "Feria de equipos de envasado y procesamiento. Las preguntas frecuentes indican como horario habitual de estudiantes 13:00–15:00 el último día, con registro. Confirme el horario de 2027.",
+      "highlights": [
+        "Robótica, automatización y soluciones de ingeniería para el sector."
+      ],
+      "public_days": [
+        {
+          "date": "2027-06-08",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2027-06-08T16:00:00Z",
+          "end_utc": "2027-06-09T00:00:00Z"
+        },
+        {
+          "date": "2027-06-09",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2027-06-09T16:00:00Z",
+          "end_utc": "2027-06-10T00:00:00Z"
+        },
+        {
+          "date": "2027-06-10",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "ical_timed": true,
+          "start_utc": "2027-06-10T16:00:00Z",
+          "end_utc": "2027-06-10T23:00:00Z"
+        }
+      ],
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
     },
     {
       "id": "CP041-20270329-20270402",

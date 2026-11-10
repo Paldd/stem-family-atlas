@@ -47,7 +47,10 @@ def render(report):
             field('Даты / статус',v['start']+' — '+v['end'])
             for label,key in [('Место','place'),('Возраст','age'),('Цена','price'),('Программа','programme'),('Проживание','accommodation'),('Доплаты','extras'),('Оплата','deposit'),('Условия участия','entry')]:field(label,v.get(key))
             for s in v.get('sessions',[]):
-                lines.append('- '+s['date']+' · '+s.get('start_time','')+'–'+s.get('end_time','')+' · '+s.get('timezone','')+' · '+s.get('topic',''))
+                session = '- '+s['date']+' · '+s.get('start_time','')+'–'+s.get('end_time','')+' · '+s.get('timezone','')
+                if topic := s.get('topic'):
+                    session += ' · '+topic
+                lines.append(session)
             if v.get('availability'):field('Наличие мест',v['availability'].get('label') or v['availability'].get('status'))
             if v.get('family_fit'):child_rows(v['family_fit'])
             lines += ['- '+q for q in v.get('questions',[])]

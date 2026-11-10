@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 11951 fichas en la base, con 5388 de competiciones, 775 de eventos y 5788 de campamentos o programas. Hay 339 perfiles de ligas y programas. Las 668 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 11974 fichas en la base, con 5389 de competiciones, 779 de eventos y 5806 de campamentos o programas. Hay 339 perfiles de ligas y programas. Las 672 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2223 | 177 | 1428 |
-| América del Sur | 15 | 490 | 53 | 264 |
+| América del Norte | 41 | 2224 | 181 | 1428 |
+| América del Sur | 15 | 490 | 53 | 282 |
 | Europa | 55 | 733 | 162 | 1672 |
 | África | 61 | 281 | 46 | 156 |
 | Asia | 51 | 1242 | 190 | 1838 |
@@ -23,7 +23,7 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5388 fichas de competiciones (15.2%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5389 fichas de competiciones (15.2%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -97,6 +97,7 @@ VEX concentra 821 de las 5388 fichas de competiciones (15.2%). La cobertura est�
 - Se añadieron opciones regionales activas de SENATI, el torneo Astra Challenge, cursos de enero de Astranautas y la exposición de juegos de mesa en Singapur. Los programas sin calendario exacto siguen pendientes de confirmación.
 - Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado.
 - Se precisaron los plazos y condiciones de Kiwibots. Se añadieron ferias de Oceanía, talleres de Logan Libraries y dos turnos de Mission to Space. El acceso profesional y la participación infantil figuran por separado.
+- Se comprobaron ferias mexicanas, Bebras en Jamaica y vacaciones en Argentina, Perú y Chile. Las fichas indican el acceso, el idioma y las discrepancias de horario.
 
 ## ~ Proyecciones de ligas y programas
 
@@ -1082,6 +1083,10 @@ VEX concentra 821 de las 5388 fichas de competiciones (15.2%). La cobertura est�
 - **Industrial Transformation Australia 2027** — Australia; 2027-07-27 – 2027-07-29. Confirme el acceso de menores. https://industrialtransformation.com.au/
 - **SouthMACH 2027** — Nueva Zelanda; 2027-05-26 – 2027-05-27. Los niños de 6/9 años no pueden entrar. https://southmach.co.nz/visit-southmach/
 - **Logistics Automation NZ · CeMAT 2026** — Nueva Zelanda; 2026-11-10 – 2026-11-11. Los niños de 6/9 años no pueden entrar. https://xpo.co.nz/logistics-automation-nz-cemat-opens-3500-registered/
+- **EECE Expo 2027** — México; 2027-02-22 – 2027-02-24. Los niños de 6/9 años no pueden entrar. https://www.eeceexpo.mx/
+- **WAFE 2027 · Welding Automation & Fabrication Experience** — México; 2027-03-02 – 2027-03-03. Confirme el acceso de menores. https://www.wafemx.com/
+- **FABTECH México 2027** — México; 2027-05-04 – 2027-05-06. Los niños de 6/9 años no pueden entrar. https://mexico.fabtechexpo.com/attend/faqs
+- **EXPO PACK Guadalajara 2027** — México; 2027-06-08 – 2027-06-10. Los niños de 6/9 años no pueden entrar. https://www.expopackguadalajara.com.mx/the-show/faqs
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
