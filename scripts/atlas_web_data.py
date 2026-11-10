@@ -6,12 +6,15 @@ import re
 
 PREFIX = 'window.STEM_DATA='
 CORE_PREFIX = """window.STEM_DATA=(function (data) {
-    const {layouts, stringFields, strings, rows} = data.events;
+    const {layouts, stringFields, strings, referenceLists, rows} = data.events;
     const pooled = new Set(stringFields);
     data.events = rows.map(row => {
         const fields = layouts[row[0]];
         return Object.fromEntries(fields.map((key, index) => {
             const value = row[index + 1];
+            if (key === 'references' && typeof value === 'number') {
+                return [key, JSON.parse(referenceLists[value])];
+            }
             return [key, typeof value === 'number' && pooled.has(key) ? strings[value] : value];
         }));
     });
@@ -63,17 +66,37 @@ def pack_events(events):
         for key, value in event.items():
             (string_fields if isinstance(value, str) else other_fields).add(key)
     string_fields -= other_fields
-    counts = Counter(value for event in events for key, value in event.items()
-                     if key in string_fields and len(value) >= 20)
-    strings = [value for value, count in counts.most_common() if count > 1]
-    references = {value: index for index, value in enumerate(strings)}
-    rows = [
-        [layouts[tuple(event)], *(references.get(value, value) if key in string_fields else value
-                                 for key, value in event.items())]
-        for event in events
-    ]
+    counts = Counter(value for event in events for key, value in event.items() if key in string_fields)
+    strings = []
+    for value, count in counts.most_common():
+        if count < 2:
+            break
+        literal_size = len(compact_json(value).encode('utf-8'))
+        index_size = len(str(len(strings)))
+        if count * (literal_size - index_size) > literal_size + 1:
+            strings.append(value)
+    string_indexes = {value: index for index, value in enumerate(strings)}
+
+    # Repeated source lists are stored as JSON so every decoded event owns
+    # its references, including nested values.
+    source_lists = [compact_json(event['references']) if event.get('references') else None
+                    for event in events]
+    source_counts = Counter(value for value in source_lists if value is not None)
+    reference_lists = [value for value, count in source_counts.most_common() if count > 1]
+    reference_indexes = {value: index for index, value in enumerate(reference_lists)}
+    rows = []
+    for event, source_list in zip(events, source_lists):
+        row = [layouts[tuple(event)]]
+        for key, value in event.items():
+            if key in string_fields:
+                value = string_indexes.get(value, value)
+            elif key == 'references':
+                value = reference_indexes.get(source_list, value)
+            row.append(value)
+        rows.append(row)
     return dict(layouts=[list(fields) for fields in layouts],
-                stringFields=sorted(string_fields), strings=strings, rows=rows)
+                stringFields=sorted(string_fields), strings=strings,
+                referenceLists=reference_lists, rows=rows)
 
 
 def packed_core(web):

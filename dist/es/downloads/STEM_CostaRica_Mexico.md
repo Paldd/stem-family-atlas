@@ -2720,7 +2720,7 @@ Acceso: La exposición familiar está abierta al público general, incluidos esc
 Precio: La invitación UCR no indica precio ni requisito de entrada.
 Limitaciones: Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.
 Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### C2959 · Feria Nacional de Ciencia, Tecnología e Innovación UCR 2026 · final
 
@@ -8490,9 +8490,9 @@ Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
 Idioma: Confirmar idioma del taller o demostración concretos.
 Acceso: Cotejar en qué horario abren los estands y si se admite a menores. La indicación de acceso abierto a una actividad concreta no fija las reglas de toda la exposición.
 Precio: Tarifa de esta edición aún sin confirmar.
-Limitaciones: Nueve áreas de proyectos escolares, entre ellas ciberseguridad, desarrollo web, electromecánica y proyectos infantiles.
+Condiciones: Se publicaron los horarios de actividades concretas, incluidos videojuegos, tecnología láser y Mini CTF. Confirme edad, costo y reserva de cada actividad.
 Fuente: https://cedesdonbosco.ed.cr/expotec/
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### E295 · Feria Maker UNOi 2027
 

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 12120; соревнований: 5466; событий: 800; лагерей / программ: 5854. Профилей лиг и программ: 348. Карточек крупных и профильных выставок: 694 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 12125; соревнований: 5468; событий: 803; лагерей / программ: 5854. Профилей лиг и программ: 348. Карточек крупных и профильных выставок: 697 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 244 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2233 | 185 | 1434 |
 | Южная Америка | 15 | 498 | 60 | 291 |
-| Европа | 55 | 793 | 173 | 1705 |
+| Европа | 55 | 794 | 175 | 1705 |
 | Африка | 61 | 281 | 46 | 156 |
-| Азия | 51 | 1242 | 190 | 1838 |
+| Азия | 51 | 1243 | 191 | 1838 |
 | Океания | 27 | 183 | 38 | 415 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 258. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 821 из 5466 карточек соревнований (15.0%). Это явный перекос охвата.
+VEX: 821 из 5468 карточек соревнований (15.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -275,7 +275,7 @@ VEX: 821 из 5466 карточек соревнований (15.0%). Это я�
 - **Robotics for Good · Lesotho / STEAMLes**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
-- **ITU · Robotics for Good Youth Challenge**: 54 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **ITU · Robotics for Good Youth Challenge**: 55 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
 - **WRO Myanmar · national route**: 6 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wro-mm.com/
 - **WRO Haiti · Pennies / STEM Alliance**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-association.org/about-wro/association/member-countries/
 - **Robotics for Good Haiti · operator claim**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.haitistemalliance.com/national-organizer
@@ -1124,6 +1124,9 @@ VEX: 821 из 5466 карточек соревнований (15.0%). Это я�
 - **Tecnikids · EXPO STEAM 2026 · jornada familiar** — Коста-Рика; 2026-08-22. Со взрослым; условия взрослого входа отдельно. https://www.tecnikidscr.com/expo-steam-2026
 - **Feria XR TEC 2026 · realidad extendida** — Коста-Рика; 2026-06-26. Детский допуск уточнить. https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial
 - **Tournoi National de Robotique de Nîmes 2027 · public** — Франция; 2027-05-23. Со взрослым; условия взрослого входа отдельно. https://robot-sumo.fr/
+- **Kids Robofest 2026 · Scuola di Robotica Ticino** — Швейцария; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+- **Robotics for Good Youth Challenge Switzerland 2027 · public** — Швейцария; 2027-04-10. Детский допуск уточнить. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+- **KOSAC Robotics Challenge 2026 · Track C · public** — Республика Корея; 2026-11-28. Детский допуск уточнить. https://aichallenge4all.or.kr/competitions/ai-robot
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

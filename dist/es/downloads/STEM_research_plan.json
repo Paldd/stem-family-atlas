@@ -13761,7 +13761,7 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 359,
+    "prepared_ui_version": 360,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
     "previous_verified_ui_version": 358,
     "previous_verified_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5"
@@ -20811,13 +20811,14 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 358,
+    "latest_source_version": 359,
     "published_version": 358,
-    "latest_source_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5",
+    "latest_source_commit": "4c0973497e61057d1b51a83ec747dae42001b559",
     "published_commit": "665bce8a936b35fdfebcc83143bfe489186bdeb5",
-    "latest_workflow": 42765039494,
-    "latest_workflow_conclusion": "success",
-    "status": "local-main-and-pages-match"
+    "latest_workflow": 42766538071,
+    "latest_workflow_conclusion": "failure",
+    "latest_workflow_attempts": 2,
+    "status": "pages-timeout-live-still-358"
   },
   "nearby_wro_v191": {
     "version": 191,
@@ -39269,5 +39270,43 @@
       "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-codegaming",
       "https://www.helloasso.com/associations/l-ecole-du-numerique-by-campus26/evenements/stage-vacances-robotique"
     ]
+  },
+  "swiss_korean_robotics_admission_and_winter_v360": {
+    "version": 360,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "competition_ids": [
+      "C5468",
+      "C5469"
+    ],
+    "exhibition_ids": [
+      "E801",
+      "E802",
+      "E803"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1999",
+      "E267",
+      "E294"
+    ],
+    "legacy_overlay_league_ids": [
+      "robotics-for-good-global"
+    ],
+    "updated_camp_dossier_ids": [
+      "CP1765",
+      "CP748"
+    ],
+    "swiss_local_birth_year_conflict": true,
+    "korea_same_institution_required": true,
+    "korea_registration_closed": true,
+    "second_freeze_window_calendar_confirmed": false,
+    "christmas_current_booking_confirmed": false,
+    "costa_rica_visitor_hours": {
+      "ucr_calendar_exact": true,
+      "cedes_selected_activity_hours": true,
+      "cedes_exhibition_hours_confirmed": false
+    },
+    "new_hope_alternate_search_dates_confirmed": false
   }
 }

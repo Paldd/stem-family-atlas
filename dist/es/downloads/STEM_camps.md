@@ -41188,7 +41188,7 @@ Costo: 2027 - CHF750/semana por niño; dos sin descuentos CHF1500.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; confirmar un cambio específico, y programa de trabajo. Oscar: 5–7 se ajusta a5–11; es necesario auto-ejecutar y entender las instrucciones. Gastos adicionales: Tratado: Adelante/Salida tardía CHF20/hora/Niño, calcular15min; Vivienda/carretera/Seguro separado. Severe allergies/vegan/kosher FAQ no lo hace. Pago: Tratado y tarjeta de reserva: ≥30 días de retorno sinCHF100;15–29 retención50%;≤14 sin retorno. Reserva incorrecta en24h — sin comisión, NormalmenteCHF25. Viejo FAQ Prometido por los más suaves100/70/50%: incompatibilidad, necesita un contrato en vigor. Pago manual: Tarjeta48contra el contrato72h. Duración del pago no en línea.
 Fuente: https://www.sparkscience.ch/camps
-Comprobado: 2026-10-05
+Verificado: 2026-11-10
 
 ### CP749-20270426-20270430 · Spark Science · Science and Sport · 2027-04-26–2027-04-30
 

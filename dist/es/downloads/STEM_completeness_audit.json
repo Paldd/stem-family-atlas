@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12120,
-    "competition_cards": 5466,
-    "event_cards": 800,
+    "cards": 12125,
+    "competition_cards": 5468,
+    "event_cards": 803,
     "camp_cards": 5854,
     "league_profiles": 348,
-    "major_exhibition_cards": 694,
+    "major_exhibition_cards": 697,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2695,
+      "total": 2698,
       "countries_with_records": 55,
-      "competitions": 793,
-      "events": 197,
-      "major_exhibitions": 173,
+      "competitions": 794,
+      "events": 199,
+      "major_exhibitions": 175,
       "camps": 1705,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 3283,
+      "total": 3285,
       "countries_with_records": 51,
-      "competitions": 1242,
-      "events": 203,
-      "major_exhibitions": 190,
+      "competitions": 1243,
+      "events": 204,
+      "major_exhibitions": 191,
       "camps": 1838,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -5603,11 +5603,12 @@
         "C5039",
         "C5040",
         "C5384",
+        "C5468",
         "C1929"
       ],
-      "cards": 54,
-      "future_dated": 4,
-      "linked_card_count": 54,
+      "cards": 55,
+      "future_dated": 5,
+      "linked_card_count": 55,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
       "new": false
@@ -17637,6 +17638,39 @@
       "end": "2027-05-23",
       "visitor_policy": "family",
       "source": "https://robot-sumo.fr/",
+      "new": false
+    },
+    {
+      "id": "E801",
+      "name": "Kids Robofest 2026 · Scuola di Robotica Ticino",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "family",
+      "source": "https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1",
+      "new": false
+    },
+    {
+      "id": "E802",
+      "name": "Robotics for Good Youth Challenge Switzerland 2027 · public",
+      "country": "Suiza",
+      "region": "Europa",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1",
+      "new": false
+    },
+    {
+      "id": "E803",
+      "name": "KOSAC Robotics Challenge 2026 · Track C · public",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://aichallenge4all.or.kr/competitions/ai-robot",
       "new": false
     },
     {

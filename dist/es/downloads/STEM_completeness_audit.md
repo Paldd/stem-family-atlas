@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Hay 12120 fichas en la base, con 5466 de competiciones, 800 de eventos y 5854 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 694 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
+Hay 12125 fichas en la base, con 5468 de competiciones, 803 de eventos y 5854 de campamentos o programas. Hay 348 perfiles de ligas y programas. Las 697 fichas de grandes exposiciones y muestras especializadas corresponden a ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2233 | 185 | 1434 |
 | América del Sur | 15 | 498 | 60 | 291 |
-| Europa | 55 | 793 | 173 | 1705 |
+| Europa | 55 | 794 | 175 | 1705 |
 | África | 61 | 281 | 46 | 156 |
-| Asia | 51 | 1242 | 190 | 1838 |
+| Asia | 51 | 1243 | 191 | 1838 |
 | Oceanía | 27 | 183 | 38 | 415 |
 
 Fichas interregionales o mundiales sin asignar a un continente: 258. América del Norte incluye Centroamérica y el Caribe. Las cantidades indican el inventario de la base.
 
-VEX concentra 821 de las 5466 fichas de competiciones (15.0%). La cobertura está desequilibrada.
+VEX concentra 821 de las 5468 fichas de competiciones (15.0%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -275,7 +275,7 @@ VEX concentra 821 de las 5466 fichas de competiciones (15.0%). La cobertura est�
 - **Robotics for Good · Lesotho / STEAMLes**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
-- **ITU · Robotics for Good Youth Challenge**: 54 fichas, 4 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **ITU · Robotics for Good Youth Challenge**: 55 fichas, 5 con fechas futuras exactas. Hay perfil y fichas, con cobertura local parcial. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
 - **WRO Myanmar · national route**: 6 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wro-mm.com/
 - **WRO Haiti · Pennies / STEM Alliance**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
 - **Robotics for Good Haiti · operator claim**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.haitistemalliance.com/national-organizer
@@ -1124,6 +1124,9 @@ VEX concentra 821 de las 5466 fichas de competiciones (15.0%). La cobertura est�
 - **Tecnikids · EXPO STEAM 2026 · jornada familiar** — Costa Rica; 2026-08-22. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.tecnikidscr.com/expo-steam-2026
 - **Feria XR TEC 2026 · realidad extendida** — Costa Rica; 2026-06-26. Confirme el acceso de menores. https://www.tec.ac.cr/feria-xr-tec-2026-innovacion-realidad-virtual-tecnologias-inmersivas-aplicadas-sector-empresarial
 - **Tournoi National de Robotique de Nîmes 2027 · public** — Francia; 2027-05-23. Con un adulto. Consulte las condiciones de entrada del adulto. https://robot-sumo.fr/
+- **Kids Robofest 2026 · Scuola di Robotica Ticino** — Suiza; 2026-11-21. Con un adulto. Consulte las condiciones de entrada del adulto. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+- **Robotics for Good Youth Challenge Switzerland 2027 · public** — Suiza; 2027-04-10. Confirme el acceso de menores. https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+- **KOSAC Robotics Challenge 2026 · Track C · public** — Corea del Sur; 2026-11-28. Confirme el acceso de menores. https://aichallenge4all.or.kr/competitions/ai-robot
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

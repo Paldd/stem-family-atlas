@@ -2835,11 +2835,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E267@family-stem.local
-DTSTAMP:20261109T010656Z
+DTSTAMP:20261110T064108Z
 SUMMARY:[Exposición · visita en familia] FNCTI UCR 2026 · exposición 
  pública
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
+DTSTART:20261112T143000Z
+DTEND:20261112T180000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Según el a
  nuncio más reciente de UCR\, el 12 de noviembre de 2026 se prevén 202 
  proyectos escolares de 27 regiones educativas. La muestra abre al públi
@@ -2851,7 +2851,7 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Según el a
   está reservado del 9 al 13 de noviembre. Empresas: El anuncio UCR del 
  3 de noviembre indica 202 proyectos de 27 regiones educativas. La public
  ación anterior de la facultad indicaba 205 proyectos.. Fuente verificad
- a el 2026-11-08.
+ a el 2026-11-10.
 LOCATION:UCR Sede Rodrigo Facio · Facultad de Educación / Edificio de E
  ducación Continua · San José\, Costa Rica
 URL:https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
@@ -13450,6 +13450,66 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stem-exhibition-E801@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Exposición · visita en familia] Kids Robofest 2026 · Scuola d
+ i Robotica Ticino
+DTSTART:20261121T133000Z
+DTEND:20261121T163000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
+ tuita con reserva. El organizador invita a los niños a probar las activ
+ idades. Confirme idioma y edad de cada prueba. Entrada de adultos: Entra
+ da gratuita con reserva. El organizador invita a los niños a probar las
+  actividades. Confirme idioma y edad de cada prueba.. Alumnos presentan 
+ robots LEGO y Arduino\, impresión 3D y proyectos digitales. El programa
+  incluye una charla de biorrobótica. Empresas: Consulte los participant
+ es en el programa.. Fuente verificada el 2026-11-10.
+LOCATION:Lugano · Istituto Elvetico · Via Balestra 24\, Suiza
+URL:https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E802@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Exposición · confirmar admisión de menores] Robotics for Good
+  Youth Challenge Switzerland 2027 · public
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El organiza
+ dor anunció entradas gratuitas para el público. Confirme cómo obtener
+ las\, el horario y el acceso de menores. Entrada de adultos: El organiza
+ dor anunció entradas gratuitas para el público. Confirme cómo obtener
+ las\, el horario y el acceso de menores.. Los ganadores obtienen el dere
+ cho a representar a Suiza en la final mundial en Ginebra. Empresas: Cons
+ ulte los participantes en el programa.. Fuente verificada el 2026-11-10.
+LOCATION:Lugano · Istituto Elvetico · Via Balestra 24\, Suiza
+URL:https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E803@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Exposición · confirmar admisión de menores] KOSAC Robotics Ch
+ allenge 2026 · Track C · public
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Se prevé u
+ na galería de trabajos de 25 equipos. El público puede verlos fuera de
+ l turno de evaluación de cada puesto. Confirme dirección\, tarifa y ac
+ ceso infantil. Entrada de adultos: Se prevé una galería de trabajos de
+  25 equipos. El público puede verlos fuera del turno de evaluación de 
+ cada puesto. Confirme dirección\, tarifa y acceso infantil.. El organiz
+ ador indica el 28 de noviembre de 2026 y señala que sede y horario est
+ án pendientes. Empresas: Consulte los participantes en el programa.. Fu
+ ente verificada el 2026-11-10.
+LOCATION:Sede de la final pendiente.\, Corea del Sur
+URL:https://aichallenge4all.or.kr/competitions/ai-robot
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stem-exhibition-E240@family-stem.local
 DTSTAMP:20261106T034330Z
 SUMMARY:[Exposición · confirmar admisión de menores] Robotics Warsaw 2
@@ -13644,7 +13704,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E294@family-stem.local
-DTSTAMP:20261108T131950Z
+DTSTAMP:20261110T064108Z
 SUMMARY:[Exposición · confirmar admisión de menores] EXPOTEC · CEDES 
  Don Bosco 2026
 DTSTART;VALUE=DATE:20261113
@@ -13654,11 +13714,11 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Cotejar en
  de acceso abierto a una actividad concreta no fija las reglas de toda la
   exposición. Entrada de adultos: Muestra de proyectos escolares y progr
  ama abierto. Confirmar acceso a estands\, horario de exposición y edad 
- para talleres.. Nueve áreas de proyectos escolares\, entre ellas cibers
- eguridad\, desarrollo web\, electromecánica y proyectos infantiles. Emp
- resas: Nueve áreas de proyectos escolares\, entre ellas ciberseguridad\
- , desarrollo web\, electromecánica y proyectos infantiles.. Fuente veri
- ficada el 2026-11-08.
+ para talleres.. Se publicaron los horarios de actividades concretas\, in
+ cluidos videojuegos\, tecnología láser y Mini CTF. Confirme edad\, cos
+ to y reserva de cada actividad. Empresas: Nueve áreas de proyectos esco
+ lares\, entre ellas ciberseguridad\, desarrollo web\, electromecánica y
+  proyectos infantiles.. Fuente verificada el 2026-11-10.
 LOCATION:CEDES Don Bosco · San José\, Costa Rica\, Costa Rica
 URL:https://cedesdonbosco.ed.cr/expotec/
 STATUS:TENTATIVE

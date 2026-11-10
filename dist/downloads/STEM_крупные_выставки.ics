@@ -3523,11 +3523,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E267@family-stem.local
-DTSTAMP:20261109T010656Z
+DTSTAMP:20261110T064108Z
 SUMMARY:[Выставка · семейный вариант] FNCTI UCR 2
  026 · exposición pública
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
+DTSTART:20261112T143000Z
+DTEND:20261112T180000Z
 DESCRIPTION:Идея посещения\, не принятая реги
  страция. По последнему сообщению UCR на 12
   ноября 2026 заявлено 202 школьных проекта 
@@ -3544,7 +3544,7 @@ DESCRIPTION:Идея посещения\, не принятая реги
  т 3 ноября указано 202 проекта от 27 образо
  вательных регионов. Более ранняя публи
  кация факультета называла 205 проектов.. 
- Источник проверен 2026-11-08.
+ Источник проверен 2026-11-10.
 LOCATION:UCR Sede Rodrigo Facio · Facultad de Educación / Edificio de E
  ducación Continua · San José\, Коста-Рика
 URL:https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyecto
@@ -16712,6 +16712,83 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stem-exhibition-E801@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Выставка · семейный вариант] Kids Robofe
+ st 2026 · Scuola di Robotica Ticino
+DTSTART:20261121T133000Z
+DTEND:20261121T163000Z
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Бесплатный вход после регистр
+ ации. Организатор приглашает детей поп
+ робовать задания. Язык и возраст отдель
+ ных проб уточнить. Взрослый вход: Беспл
+ атный вход после регистрации. Организа
+ тор приглашает детей попробовать задан
+ ия. Язык и возраст отдельных проб уточн
+ ить.. Школьники показывают роботов LEGO и 
+ Arduino\, печать 3D и цифровые проекты. В про
+ грамме выступление о биороботике. Комп
+ ании: Состав участников уточнить по про
+ грамме.. Источник проверен 2026-11-10.
+LOCATION:Lugano · Istituto Elvetico · Via Balestra 24\, Швейцар
+ ия
+URL:https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E802@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Выставка · допуск детей уточнить] Ro
+ botics for Good Youth Challenge Switzerland 2027 · public
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Организатор объявил бесплатны
+ е билеты для зрителей. Порядок получени
+ я билета\, часы входа и детский допуск у
+ точнить. Взрослый вход: Организатор объ
+ явил бесплатные билеты для зрителей. По
+ рядок получения билета\, часы входа и де
+ тский допуск уточнить.. Победители полу
+ чают право представить Швейцарию в мир
+ овом финале в Женеве. Компании: Состав у
+ частников уточнить по программе.. Источ
+ ник проверен 2026-11-10.
+LOCATION:Lugano · Istituto Elvetico · Via Balestra 24\, Швейцар
+ ия
+URL:https://www.scuoladirobotica.ch/copia-di-per-le-scuole-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E803@family-stem.local
+DTSTAMP:20261110T062857Z
+SUMMARY:[Выставка · допуск детей уточнить] KO
+ SAC Robotics Challenge 2026 · Track C · public
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Планируется галерея работ 25 ко
+ манд. Публика может смотреть работы вне
+  времени судейства у каждого стенда. Ад
+ рес\, тариф и допуск детей уточнить. Взр
+ ослый вход: Планируется галерея работ 25
+  команд. Публика может смотреть работы 
+ вне времени судейства у каждого стенда.
+  Адрес\, тариф и допуск детей уточнить.. 
+ Организатор указывает 28 ноября 2026\, мес
+ то и часы помечены как предварительные.
+  Компании: Состав участников уточнить п
+ о программе.. Источник проверен 2026-11-10.
+LOCATION:Площадка финала уточняется.\, Респу
+ блика Корея
+URL:https://aichallenge4all.or.kr/competitions/ai-robot
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stem-exhibition-E240@family-stem.local
 DTSTAMP:20261106T034330Z
 SUMMARY:[Выставка · допуск детей уточнить] Ro
@@ -16972,7 +17049,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E294@family-stem.local
-DTSTAMP:20261108T131950Z
+DTSTAMP:20261110T064108Z
 SUMMARY:[Выставка · допуск детей уточнить] EX
  POTEC · CEDES Don Bosco 2026
 DTSTART;VALUE=DATE:20261113
@@ -16985,14 +17062,14 @@ DESCRIPTION:Идея посещения\, не принятая реги
  ки. Взрослый вход: Показ школьных проек
  тов и открытая программа. Уточнить прох
  од на стенды\, часы экспозиции и возраст
-  мастерских.. Девять направлений школьн
- ых проектов\, включая кибербезопасност
- ь\, веб-разработку\, электромеханику и д
- етские разработки. Компании: Девять нап
- равлений школьных проектов\, включая ки
- бербезопасность\, веб-разработку\, элек
- тромеханику и детские разработки.. Исто
- чник проверен 2026-11-08.
+  мастерских.. Опубликованы часы отдельн
+ ых событий\, включая видеоигры\, лазерны
+ е технологии и Mini CTF. Возраст\, стоимость
+  и запись на каждый пункт уточнить. Комп
+ ании: Девять направлений школьных прое
+ ктов\, включая кибербезопасность\, веб-р
+ азработку\, электромеханику и детские р
+ азработки.. Источник проверен 2026-11-10.
 LOCATION:CEDES Don Bosco · San José\, Costa Rica\, Коста-Рика
 URL:https://cedesdonbosco.ed.cr/expotec/
 STATUS:TENTATIVE

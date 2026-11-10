@@ -57602,7 +57602,7 @@ Suiza · ENSR · Lausanne
 
 Suiza · GZ Wollishofen · Stäfa Schiff · Bachstrasse7 · Zürich
 
-** Verificado:** 2026-10-05
+**Verificado:** 2026-11-10
 
 **Edad:** 5–11
 
@@ -57612,7 +57612,7 @@ Suiza · GZ Wollishofen · Stäfa Schiff · Bachstrasse7 · Zürich
 
 ** Vivienda:** Formato diario; vivienda familiar, vuelo y carretera por separado.
 
-**Fechas / situación:** 15–19 febrero2027,09:00–16:30. El índice aún no ha llegado. Booking opening soon, Pero su propia tarjeta ya está. Book Now/24spots: Es una imagen., no garantía de espacio libre. FAQ máximo20 contra la tarjeta24.
+**Fechas / estado:** El índice conserva del 15 al 19 de febrero de 2027. Al abrir las páginas del programa muestran del 22 al 29 de febrero de 2027, pero ese año no tiene 29 de febrero. Confirme fechas vigentes, horario y plazas.
 
 **Cena/año:** 2027 · CHF750/semana por niño; dos sin descuentos CHF1500.
 
@@ -57634,15 +57634,19 @@ Suiza · GZ Wollishofen · Stäfa Schiff · Bachstrasse7 · Zürich
 
 - el mínimo de acompañamiento1:8  la declaración del operador; no hay un apoyo especial1:1. confirmar las devoluciones corrientes, el transporte y el compuesto de las experiencias.
 
+- El índice conserva del 15 al 19 de febrero de 2027. Al abrir las páginas del programa muestran del 22 al 29 de febrero de 2027, pero ese año no tiene 29 de febrero. Confirme fechas vigentes, horario y plazas.
+
 ### Fuentes
 
-- [temporada2027, CHF y EN/alimentos/viejos FAQ](https://www.sparkscience.ch/camps) · 2026-10-05
+- [Página oficial del organizador o condiciones de entrada.](https://www.sparkscience.ch/camps) · 2026-11-10
 
-- [programa concreto; el esquema del año pasado](https://www.sparkscience.ch/holiday-camps/the-deep-freeze) · 2026-10-05
+- [Página oficial del organizador o condiciones de entrada.](https://www.sparkscience.ch/holiday-camps/the-deep-freeze) · 2026-11-10
 
 - [condiciones vigentes](https://www.sparkscience.ch/terms-and-conditions) · 2026-10-05
 
 - [nuevo precio/posición y la cancelación estricta](https://www.sparkscience.ch/service-page/sportferien-science-camp-2027) · 2026-10-05
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.sparkscience.ch/holiday-camps/the-deep-freeze-camp2) · 2026-11-10
 
 ## CP749 · Spark Science · Science and Sport
 
@@ -142294,7 +142298,7 @@ Suiza · TechLabs ELYS · Elsässerstrasse 215 · 4056 Basel
 
 Suiza · Suurstoffi 41c · Risch-Rotkreuz
 
-**Se ha comprobado:** 2026-11-07
+**Verificado:** 2026-11-10
 
 **Edad:** 5–11
 
@@ -142304,7 +142308,7 @@ Suiza · Suurstoffi 41c · Risch-Rotkreuz
 
 **Alojamiento:** Taller diurno sin alojamiento.
 
-**Fechas / estado:** Ambas fichas muestran el periodo del 18 de diciembre de 2026 a las 09:30 al 21 de diciembre a las 16:00. Venta no disponible. Confirmar días incluidos e inscripción.
+**Fechas / estado:** La página de entradas sigue indicando venta no disponible. El encabezado muestra del 18 al 21 de diciembre de 2026. Confirme días de actividades y tarifa actual.
 
 **Precio / año:** 2026 · No se publica el precio de la opción concreta.
 
@@ -142324,13 +142328,15 @@ Suiza · Suurstoffi 41c · Risch-Rotkreuz
 
 - Confirmar plaza, medio de pago y condiciones de cancelación antes de inscribirse.
 
+- La página de entradas sigue indicando venta no disponible. El encabezado muestra del 18 al 21 de diciembre de 2026. Confirme días de actividades y tarifa actual.
+
 ### Fuentes
 
-- [Página oficial del organizador](https://www.sparkscience.ch/event-details/christmas-camp-2026-12-18-09-30) · 2026-11-07
+- [Página oficial del organizador o condiciones de entrada.](https://www.sparkscience.ch/event-details/christmas-camp-2026-12-18-09-30) · 2026-11-10
 
 - [Página oficial del organizador](https://www.sparkscience.ch/event-details/christmas-camp-2026-12-21-09-30) · 2026-11-07
 
-- [Página oficial del organizador](https://www.sparkscience.ch/camps) · 2026-11-07
+- [Página oficial del organizador o condiciones de entrada.](https://www.sparkscience.ch/camps) · 2026-11-10
 
 ## CP1766 · iD Tech · BattleBots Creator Camp
 

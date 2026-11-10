@@ -12581,7 +12581,7 @@
         }
       ],
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-10",
       "status": "Idea",
       "note": "Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.",
       "themes": [
@@ -12602,7 +12602,8 @@
       "exhibition_tier": "family_alternative",
       "highlights": [
         "Proyectos escolares de computación e ingeniería.",
-        "Proyectos de ciencias naturales y tecnología."
+        "Proyectos de ciencias naturales y tecnología.",
+        "La UCR anuncia 202 proyectos de 27 direcciones regionales de educación."
       ],
       "exhibitors": [],
       "exhibitor_note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
@@ -12611,7 +12612,18 @@
         "C2959",
         "E534"
       ],
-      "event_group": "FNCTI UCR 2026"
+      "event_group": "FNCTI UCR 2026",
+      "public_days": [
+        {
+          "date": "2026-11-12",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2026-11-12T14:30:00Z",
+          "end_utc": "2026-11-12T18:00:00Z"
+        }
+      ]
     },
     {
       "id": "C2959",
@@ -44435,14 +44447,15 @@
       "source": "https://cedesdonbosco.ed.cr/expotec/",
       "references": [],
       "proof": "La organización publica fechas y sede. Acceso de menores y entrada se verifican por separado.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-10",
       "status": "Idea",
-      "note": "Nueve áreas de proyectos escolares, entre ellas ciberseguridad, desarrollo web, electromecánica y proyectos infantiles.",
+      "note": "Se publicaron los horarios de actividades concretas, incluidos videojuegos, tecnología láser y Mini CTF. Confirme edad, costo y reserva de cada actividad.",
       "themes": [
         "technology",
         "coding",
         "science",
-        "makers"
+        "makers",
+        "games"
       ],
       "scope": "local",
       "importance_reason": "Feria escolar de ingeniería, ciencia y tecnología.",
@@ -44454,7 +44467,11 @@
       "visitor_policy": "confirm_children",
       "visitor_policy_note": "Cotejar en qué horario abren los estands y si se admite a menores. La indicación de acceso abierto a una actividad concreta no fija las reglas de toda la exposición.",
       "exhibition_tier": "regional",
-      "highlights": [],
+      "highlights": [
+        "13 de noviembre 09:00–10:00: introducción a redes informáticas. 14:00–16:00: videojuegos y Just Dance en el escenario principal.",
+        "14 de noviembre 09:00–13:00: Láser sin Costuras en Prolab. 14:00–17:00: Mini CTF en el CRAI, segunda planta.",
+        "15 de noviembre 13:00–14:00: fotografía con el móvil en la Zona Creativa."
+      ],
       "exhibitors": [],
       "exhibitor_note": "Nueve áreas de proyectos escolares, entre ellas ciberseguridad, desarrollo web, electromecánica y proyectos infantiles.",
       "exhibitor_directory_url": "https://cedesdonbosco.ed.cr/expotec/#proyectos"
