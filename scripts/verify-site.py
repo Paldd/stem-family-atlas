@@ -35,6 +35,8 @@ assert len({p['slug'] for p in profiles}) == len(profiles)
 assert web['camp_programmes']['counts']['dossiers'] == len(profiles)
 assert web['camp_programmes']['counts']['countries'] == len({p['iso'] for p in profiles}), (
     'Camp country count must match the unique country and territory codes in the dossiers')
+assert web['camp_programmes']['counts']['swiss'] == sum(p['iso'] == 'CHE' for p in profiles), (
+    'Swiss camp count must match the dossiers selected by the country filter')
 camp_markdown=(DIST/'downloads/STEM_camp_programmes_deep_2026_2027.md').read_text()
 markdown_ids=re.findall(r'^## (CP\d+) · ',camp_markdown,re.M)
 assert len(markdown_ids)==len(profiles) and set(markdown_ids)=={p['id'] for p in profiles}, 'Detailed camp report is stale or incomplete'
