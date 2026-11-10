@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12697,
-    "competition_cards": 5583,
-    "event_cards": 879,
-    "camp_cards": 6235,
+    "cards": 12705,
+    "competition_cards": 5584,
+    "event_cards": 882,
+    "camp_cards": 6239,
     "league_profiles": 359,
-    "major_exhibition_cards": 771,
+    "major_exhibition_cards": 774,
     "vex_cards": 821,
     "countries_with_records": 245,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3468,
+      "total": 3476,
       "countries_with_records": 51,
-      "competitions": 1304,
-      "events": 229,
-      "major_exhibitions": 216,
-      "camps": 1935,
+      "competitions": 1305,
+      "events": 232,
+      "major_exhibitions": 219,
+      "camps": 1939,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -18709,6 +18709,39 @@
       "new": false
     },
     {
+      "id": "E880",
+      "name": "Taiwan International Science Fair 2027 · Public Exhibition",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=15FD6803D5DD521C5B2FCF63045E784B&lang=2",
+      "new": false
+    },
+    {
+      "id": "E881",
+      "name": "NSTM Kaohsiung · Smart Manufacturing",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=d4388659-ff0e-4ab1-bec1-d36a49bf630b",
+      "new": false
+    },
+    {
+      "id": "E882",
+      "name": "NSTM Kaohsiung · Space Exploration",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=99a56ec1-1a58-4e2a-b1dc-76ff0710be4b",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -21140,8 +21173,8 @@
       }
     ],
     "counts": {
-      "records": 6235,
-      "holiday": 5557,
+      "records": 6239,
+      "holiday": 5561,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,

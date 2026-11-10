@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 6235,
-      "holiday": 5557,
+      "records": 6239,
+      "holiday": 5561,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1050,
@@ -528844,6 +528844,344 @@
         "ES"
       ],
       "date_rule": "Solo la semana preparatoria del 4–8 de enero de 2027, sin salida."
+    },
+    {
+      "id": "CP2557-20270121-20270122",
+      "block": "Campamentos",
+      "title": "NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "gear": "Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.",
+      "language": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "cost": "2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+      "references": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nkust-maker-f1-2027",
+      "camp_programme_id": "CP2557",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Modelado 3D y F1",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T00:30:00Z",
+          "end_utc": "2027-01-21T08:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Modelado 3D y F1",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T00:30:00Z",
+          "end_utc": "2027-01-22T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2557-20270201-20270202",
+      "block": "Campamentos",
+      "title": "NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-02-01–2027-02-02",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "start": "2027-02-01",
+      "end": "2027-02-02",
+      "period": "Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "gear": "Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.",
+      "language": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "cost": "2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+      "references": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nkust-maker-f1-2027",
+      "camp_programme_id": "CP2557",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Modelado 3D y F1",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T00:30:00Z",
+          "end_utc": "2027-02-01T08:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Modelado 3D y F1",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T00:30:00Z",
+          "end_utc": "2027-02-02T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2558-20270125-20270126",
+      "block": "Campamentos",
+      "title": "NKUST · Robotics Missions · Robotics Missions · 2027-01-25–2027-01-26",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "start": "2027-01-25",
+      "end": "2027-01-26",
+      "period": "Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "gear": "Estructura del vehículo, control de movimiento con Scratch o bloques, pruebas y depuración. No se entrega un kit para llevar.",
+      "language": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "cost": "2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+      "references": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nkust-maker-robot-2027",
+      "camp_programme_id": "CP2558",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Misiones de robótica",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T00:30:00Z",
+          "end_utc": "2027-01-25T08:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Misiones de robótica",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T00:30:00Z",
+          "end_utc": "2027-01-26T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP2559-20270127-20270128",
+      "block": "Campamentos",
+      "title": "NKUST · Minecraft Metallurgy · Minecraft Metallurgy · 2027-01-27–2027-01-28",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "start": "2027-01-27",
+      "end": "2027-01-28",
+      "period": "Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "gear": "Diseño, fabricación y comprobación de piezas mediante un reto de ingeniería con Minecraft. No se entrega un kit para llevar.",
+      "language": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "cost": "2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.",
+      "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+      "references": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "games",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nkust-maker-minecraft-2027",
+      "camp_programme_id": "CP2559",
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-27",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Metalurgia con Minecraft",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T00:30:00Z",
+          "end_utc": "2027-01-27T08:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "08:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Metalurgia con Minecraft",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T00:30:00Z",
+          "end_utc": "2027-01-28T08:00:00Z"
+        }
+      ]
     },
     {
       "id": "L491",

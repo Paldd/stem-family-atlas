@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2556,
+    "dossiers": 2559,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 745,
+      "published_2027": 748,
       "partial_2027": 185,
       "next_unannounced": 489,
       "published_2026": 488,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3471
+    "source_urls": 3472
   },
   "countries": [
     {
@@ -500,7 +500,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 226
+      "count": 229
     },
     {
       "country": "Тринидад и Тобаго",
@@ -454017,6 +454017,428 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2557",
+      "slug": "nkust-maker-f1-2027",
+      "provider": "NKUST · 3D Modeling and F1",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "age": "3–6 классы начальной школы.",
+      "programme": "3D-моделирование и сборка модели F1. Организатор перечисляет напечатанную табличку, модель машины и фигурку, которые можно забрать.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на традиционном китайском. Язык занятий и поддержку на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия 08:30–16:00 по Тайваню. Привоз с 08:00, забрать до 18:00. Время сопровождения отделено от учебных часов.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+            "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+            "label": "3D Modeling and F1",
+            "price": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+            "entry": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест.",
+            "programme": "3D-моделирование и сборка модели F1. Организатор перечисляет напечатанную табличку, модель машины и фигурку, которые можно забрать.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "3D Modeling and F1",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T00:30:00Z",
+                "end_utc": "2027-01-21T08:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "3D Modeling and F1",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T00:30:00Z",
+                "end_utc": "2027-01-22T08:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-02",
+            "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+            "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+            "label": "3D Modeling and F1",
+            "price": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+            "entry": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест.",
+            "programme": "3D-моделирование и сборка модели F1. Организатор перечисляет напечатанную табличку, модель машины и фигурку, которые можно забрать.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "3D Modeling and F1",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T00:30:00Z",
+                "end_utc": "2027-02-01T08:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "3D Modeling and F1",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T00:30:00Z",
+                "end_utc": "2027-02-02T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 3000,
+        "unit": "session",
+        "year": 2027,
+        "label": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+        "included": "Обед каждый день.",
+        "extras": "Один ребёнок при записи на 3 и более смены получает дополнительную скидку TWD 150 на сумму смен.",
+        "deposit": "Счёт после уведомления университета. До 18 декабря в 17:00 удерживается TWD 15 при отмене. После этого удерживаются TWD 500 и TWD 15. Доставку набора F1 при применимости считают отдельно, TWD 105."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше обычной ступени 3 класса. Возраст без школьного класса не даёт допуск."
+        }
+      },
+      "editorial_reason": "3D-моделирование и сборка модели F1. Организатор перечисляет напечатанную табличку, модель машины и фигурку, которые можно забрать.",
+      "shortlist": [],
+      "questions": [
+        "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      ],
+      "sources": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2557-20270121-20270122"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2557-20270201-20270202"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2558",
+      "slug": "nkust-maker-robot-2027",
+      "provider": "NKUST · Robotics Missions",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "age": "3–6 классы начальной школы.",
+      "programme": "Устройство машины, управление движением на Scratch или блоках, испытание и исправление программы. Комплект домой не выдают.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на традиционном китайском. Язык занятий и поддержку на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия 08:30–16:00 по Тайваню. Привоз с 08:00, забрать до 18:00. Время сопровождения отделено от учебных часов.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-26",
+            "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+            "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+            "label": "Robotics Missions",
+            "price": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+            "entry": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест.",
+            "programme": "Устройство машины, управление движением на Scratch или блоках, испытание и исправление программы. Комплект домой не выдают.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Robotics Missions",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T00:30:00Z",
+                "end_utc": "2027-01-25T08:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Robotics Missions",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T00:30:00Z",
+                "end_utc": "2027-01-26T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 3000,
+        "unit": "session",
+        "year": 2027,
+        "label": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+        "included": "Обед каждый день.",
+        "extras": "Один ребёнок при записи на 3 и более смены получает дополнительную скидку TWD 150 на сумму смен.",
+        "deposit": "Счёт после уведомления университета. До 18 декабря в 17:00 удерживается TWD 15 при отмене. После этого удерживаются TWD 500 и TWD 15. Доставку набора F1 при применимости считают отдельно, TWD 105."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше обычной ступени 3 класса. Возраст без школьного класса не даёт допуск."
+        }
+      },
+      "editorial_reason": "Устройство машины, управление движением на Scratch или блоках, испытание и исправление программы. Комплект домой не выдают.",
+      "shortlist": [],
+      "questions": [
+        "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      ],
+      "sources": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2558-20270125-20270126"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "CP2559",
+      "slug": "nkust-maker-minecraft-2027",
+      "provider": "NKUST · Minecraft Metallurgy",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+      "age": "3–6 классы начальной школы.",
+      "programme": "Проектирование, изготовление и проверка деталей через инженерную задачу с Minecraft. Комплект домой не выдают.",
+      "themes": [
+        "games",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на традиционном китайском. Язык занятий и поддержку на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия 08:30–16:00 по Тайваню. Привоз с 08:00, забрать до 18:00. Время сопровождения отделено от учебных часов.",
+        "sessions": [
+          [
+            "2027-01-27",
+            "2027-01-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-27",
+            "end": "2027-01-28",
+            "place": "NKUST First Campus · Dream Workshop, Kaohsiung",
+            "source": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+            "label": "Minecraft Metallurgy",
+            "price": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+            "entry": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест.",
+            "programme": "Проектирование, изготовление и проверка деталей через инженерную задачу с Minecraft. Комплект домой не выдают.",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Minecraft Metallurgy",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T00:30:00Z",
+                "end_utc": "2027-01-27T08:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Minecraft Metallurgy",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T00:30:00Z",
+                "end_utc": "2027-01-28T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "TWD",
+        "amount": 3000,
+        "unit": "session",
+        "year": 2027,
+        "label": "TWD 3000 за смену. До 30 ноября 2026 в 23:59 по Тайваню скидка 15%, расчёт TWD 2550. Это срок скидки.",
+        "included": "Обед каждый день.",
+        "extras": "Один ребёнок при записи на 3 и более смены получает дополнительную скидку TWD 150 на сумму смен.",
+        "deposit": "Счёт после уведомления университета. До 18 декабря в 17:00 удерживается TWD 15 при отмене. После этого удерживаются TWD 500 и TWD 15. Доставку набора F1 при применимости считают отдельно, TWD 105."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше обычной ступени 3 класса. Возраст без школьного класса не даёт допуск."
+        }
+      },
+      "editorial_reason": "Проектирование, изготовление и проверка деталей через инженерную задачу с Minecraft. Комплект домой не выдают.",
+      "shortlist": [],
+      "questions": [
+        "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      ],
+      "sources": [
+        {
+          "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Для 3–6 классов начальной школы. Минимум 20 для открытия смены, максимум 30 участников. Сверить школьный класс, язык, допуск из-за рубежа и наличие мест."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ZH"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2559-20270127-20270128"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ZH"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -472577,7 +472999,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2556,
+      "total_dossiers": 2559,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -500317,6 +500739,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2557",
+      "event_id": "CP2557-20270121-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2557",
+      "event_id": "CP2557-20270201-20270202",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2558",
+      "event_id": "CP2558-20270125-20270126",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2559",
+      "event_id": "CP2559-20270127-20270128",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -505944,10 +506386,14 @@
     "CP2555-20270104-20270115",
     "CP2555-20270104-20270108",
     "CP2556-20270104-20270115",
-    "CP2556-20270104-20270108"
+    "CP2556-20270104-20270108",
+    "CP2557-20270121-20270122",
+    "CP2557-20270201-20270202",
+    "CP2558-20270125-20270126",
+    "CP2559-20270127-20270128"
   ],
   "integration": {
-    "generated_sessions": 5217,
+    "generated_sessions": 5221,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

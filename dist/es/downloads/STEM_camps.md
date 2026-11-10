@@ -98550,6 +98550,70 @@ Restricciones: Matvey: Por debajo del grupo de edad publicado. Oscar: Por debajo
 Fuente: https://www.colegiodelbosque.cl/talleres-de-verano
 Verificado: 2026-11-10
 
+### CP2557-20270121-20270122 · NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-01-21–2027-01-22
+
+Lugar: Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+Fecha: 2027-01-21 国 2027-01-22
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2557-20270201-20270202 · NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-02-01–2027-02-02
+
+Lugar: Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+Fecha: 2027-02-01 — 2027-02-02
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2558-20270125-20270126 · NKUST · Robotics Missions · Robotics Missions · 2027-01-25–2027-01-26
+
+Lugar: Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+Fecha: 2027-01-25 — 2027-01-26
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2559-20270127-20270128 · NKUST · Minecraft Metallurgy · Minecraft Metallurgy · 2027-01-27–2027-01-28
+
+Lugar: Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+Fecha: 2027-01-27 — 2027-01-28
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

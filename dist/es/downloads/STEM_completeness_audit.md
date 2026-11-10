@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12697. Competiciones: 5583. Eventos: 879. Campamentos o programas: 6235. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 771. Se cuentan ediciones y sedes.
+Fichas en la base: 12705. Competiciones: 5584. Eventos: 882. Campamentos o programas: 6239. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 774. Se cuentan ediciones y sedes.
 
 Hay fichas concretas para 245 de 249 países y territorios. Países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -18,12 +18,12 @@ Hay fichas concretas para 245 de 249 países y territorios. Países auditados po
 | América del Sur | 15 | 509 | 65 | 306 |
 | Europa | 55 | 796 | 189 | 1809 |
 | África | 61 | 293 | 52 | 167 |
-| Asia | 51 | 1304 | 216 | 1935 |
+| Asia | 51 | 1305 | 219 | 1939 |
 | Oceanía | 28 | 185 | 48 | 416 |
 
 Fichas interregionales o globales sin continente asignado: 267. América del Norte incluye América Central y el Caribe. Las cifras reflejan el inventario de la base.
 
-VEX: 821 de 5583 fichas de competiciones (14.7%). La cobertura está desequilibrada.
+VEX: 821 de 5584 fichas de competiciones (14.7%). La cobertura está desequilibrada.
 
 ## Lo que queda
 
@@ -1212,6 +1212,9 @@ VEX: 821 de 5583 fichas de competiciones (14.7%). La cobertura está desequilibr
 - **Dark Sky Week 2027 · Sydney** — Isla Norfolk; 2027-04-14 – 2027-04-21. Confirme el acceso infantil. https://norfolkislandtravel.co/stargazing-with-dave/
 - **SOMOS UFRO 2026 · Feria de Investigación y Encuentro de Innovación** — Chile; 2026-11-12 – 2026-11-13. Con un adulto. Consulte las condiciones de acceso. https://vrip.ufro.cl/investigacion-2/universidad-de-la-frontera-invita-a-la-comunidad-a-somos-ufro-2026-el-mayor-evento-de-divulgacion-cientifica-del-sur-de-chile/
 - **Ciencia Sin Ficción 8 · Copiapó** — Chile; 2026-11-17 – 2026-11-18. Confirme el acceso infantil. https://cienciasinficcion.cl/
+- **Taiwan International Science Fair 2027 · Public Exhibition** — Taiwán; 2027-01-29. Confirme el acceso infantil. https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=15FD6803D5DD521C5B2FCF63045E784B&lang=2
+- **NSTM Kaohsiung · Smart Manufacturing** — Taiwán; fecha sin confirmar. Con un adulto. Consulte las condiciones de acceso. https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=d4388659-ff0e-4ab1-bec1-d36a49bf630b
+- **NSTM Kaohsiung · Space Exploration** — Taiwán; fecha sin confirmar. Con un adulto. Consulte las condiciones de acceso. https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=99a56ec1-1a58-4e2a-b1dc-76ff0710be4b
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

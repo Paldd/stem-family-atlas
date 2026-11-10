@@ -1,0 +1,43 @@
+{
+  "version": 388,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 387,
+    "commit": "b491c65f8ab688787e28810ae64f561e30844a81",
+    "workflow": 42885163794
+  },
+  "maker": {
+    "dossier_ids": [
+      "CP2557",
+      "CP2558",
+      "CP2559"
+    ],
+    "dated_variants": 4,
+    "published_daily_sessions": 8,
+    "grades": [
+      3,
+      6
+    ],
+    "ordinary_fee_twd": 3000,
+    "early_fee_twd_calculated": 2550,
+    "early_fee_deadline": "2026-11-30T23:59:00+08:00",
+    "instruction_language_unconfirmed": true
+  },
+  "tisf": {
+    "domestic_route": "C5585",
+    "domestic_closed": true,
+    "public_exhibition": "E880",
+    "public_day": "2027-01-29",
+    "public_hours_preliminary": true,
+    "child_and_ticket_rules_unannounced": true
+  },
+  "nstm": {
+    "permanent_family_halls": [
+      "E881",
+      "E882"
+    ],
+    "general_fee_twd": 120
+  }
+}

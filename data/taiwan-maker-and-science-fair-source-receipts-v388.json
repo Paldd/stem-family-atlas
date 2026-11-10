@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php",
+    "artifact": "twn-nkust-maker.html",
+    "bytes": 53287,
+    "sha256": "c6e1eeb03a608780d0b1c66c2fa2ee68c44f3cb864bd8c9f4d62cc78df4b9d0b",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://twsf.ntsec.gov.tw/Article.aspx?a=299&lang=2",
+    "artifact": "twn-tisf-venue.html",
+    "bytes": 36699,
+    "sha256": "96634478233e4f5dc197c8821c466cb864f46f28442bc65ae5876cd783bdcd1f",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=15FD6803D5DD521C5B2FCF63045E784B&lang=2",
+    "artifact": "twn-tisf-programme.pdf",
+    "bytes": 247028,
+    "sha256": "bce119d46159e49b47c4fe18957e9dd5777dea676651c6e25857d1842abc92ff",
+    "checked": "2026-11-10",
+    "evidence_kind": "official_pdf"
+  },
+  {
+    "url": "https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=4178413210AD4F3200487D34C50DBB5F&lang=2",
+    "artifact": "twn-tisf-domestic.pdf",
+    "bytes": 1874152,
+    "sha256": "643ddf55f87f4a2a27f1d4440a902466f4f76f255ff833ab9b7afef15b4e535b",
+    "checked": "2026-11-10",
+    "evidence_kind": "official_pdf"
+  },
+  {
+    "url": "https://www.ccvs.kh.edu.tw/p/406-1000-19907,r49.php",
+    "artifact": "twn-tisf-school-notice.html",
+    "bytes": 22158,
+    "sha256": "94667ddbcccb9dd036fc7bdc93907af85d93deff30a0bae740ccb2d3d7c78eec",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.nstm.gov.tw/English/InformationForVisitorsEng/VisitorInformationEng/PriceEng.htm",
+    "artifact": "twn-nstm-prices.html",
+    "bytes": 63758,
+    "sha256": "7aa3ff0f30ab5d1f9a554dc0afca8e9d4af652dad94f16c249f04622ee7307c7",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=99a56ec1-1a58-4e2a-b1dc-76ff0710be4b",
+    "artifact": "twn-nstm-space.html",
+    "bytes": 114608,
+    "sha256": "cf0cba90b845cb08a6301ede326f7edba4034cfdaafe7f13f0abbafc90065bd1",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  },
+  {
+    "url": "https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=d4388659-ff0e-4ab1-bec1-d36a49bf630b",
+    "artifact": "twn-nstm-smart.html",
+    "bytes": 120341,
+    "sha256": "ef5857daad6d313558ef3025175cff0014610a4ca504d4fd12f01a435ab2ae7c",
+    "checked": "2026-11-10",
+    "evidence_kind": "http_response"
+  }
+]

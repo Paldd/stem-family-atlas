@@ -1302,6 +1302,58 @@ Restricciones: La próxima clasificación local aún no tiene fecha. Se describe
 Fuente: https://ai4kids.ai/pages/codecombat-codequest
 Verificado: 2026-11-10
 
+### C5585 · Taiwan International Science Fair 2027 · convocatoria escolar local
+
+Fecha: 2027-01-25 — 2027-01-30
+Edad: Convocatoria local para ciudadanos taiwaneses menores de 20 años con recomendación escolar. Normalmente desde el grado 9, secundaria superior y primeros 3 años de un programa técnico de cinco años. Las excepciones para grados 7–8 exigen documentación y aprobación.
+Matvey: Por debajo del nivel escolar de la convocatoria local. Visitar la exposición el 29 de enero es una posibilidad aparte.
+Oscar: Por debajo del nivel escolar de la convocatoria local. Visitar la exposición el 29 de enero es una posibilidad aparte.
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Acceso: Proyecto de un autor o de un equipo de 2–3 escolares. La escuela taiwanesa presenta los materiales. Hay un programa aparte para delegaciones internacionales, cuyas condiciones de admisión deben confirmarse con la organización.
+Costo: Consulte al organizador.
+Restricciones: La presentación escolar taiwanesa cerró el 6 de noviembre de 2026 a las 17:00, hora de Taipéi. El envío postal hasta el 13 de noviembre corresponde a solicitudes ya presentadas.
+Fuente: https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=4178413210AD4F3200487D34C50DBB5F&lang=2
+Verificado: 2026-11-10
+
+### E880 · Taiwan International Science Fair 2027 · Public Exhibition
+
+Fecha: 2027-01-29 — 2027-01-29
+Edad: El programa preliminar incluye una muestra abierta. No se han publicado la entrada, las condiciones de acceso infantil ni la hora del último ingreso.
+Matvey: El programa preliminar incluye una muestra abierta. No se han publicado la entrada, las condiciones de acceso infantil ni la hora del último ingreso.
+Oscar: El programa preliminar incluye una muestra abierta. No se han publicado la entrada, las condiciones de acceso infantil ni la hora del último ingreso.
+Idioma: Hay materiales en inglés. Consulte el idioma del acompañamiento en la sede.
+Acceso: El programa preliminar incluye una muestra abierta. No se han publicado la entrada, las condiciones de acceso infantil ni la hora del último ingreso.
+Costo: Consulte al organizador.
+Restricciones: 29 de enero de 2027. Muestra abierta en los bloques 09:00–12:00 y 13:00–16:00 según el programa preliminar. A las 16:00 comienza el desmontaje.
+Fuente: https://twsf.ntsec.gov.tw/FileAtt.ashx?fcode=15FD6803D5DD521C5B2FCF63045E784B&lang=2
+Verificado: 2026-11-10
+
+### E881 · NSTM Kaohsiung · Smart Manufacturing
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita.
+Matvey: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita.
+Oscar: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita.
+Idioma: Hay materiales en inglés. Consulte el idioma del acompañamiento en la sede.
+Acceso: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita.
+Coste: Entrada general TWD 120, estudiantes con carné válido TWD 90 y menores de 6 años gratis. Confirme el carné escolar extranjero y las actividades aparte.
+Restricciones: Exposición permanente con robots industriales, vehículos inteligentes y experiencias de RA y RV. Para las interacciones digitales el museo ofrece Mobile NSTM en chino con registro y código QR.
+Fuente: https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=d4388659-ff0e-4ab1-bec1-d36a49bf630b
+Verificado: 2026-11-10
+
+### E882 · NSTM Kaohsiung · Space Exploration
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita. Los simuladores de pago pueden tener condiciones de admisión propias.
+Matvey: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita. Los simuladores de pago pueden tener condiciones de admisión propias.
+Oscar: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita. Los simuladores de pago pueden tener condiciones de admisión propias.
+Idioma: Hay materiales en inglés. Consulte el idioma del acompañamiento en la sede.
+Acceso: El museo abre de 09:00–17:00. Las entradas a las salas se venden hasta las 16:00. Suele cerrar los lunes y en los días de cierre por Año Nuevo Lunar. Consulte el horario para su visita. Los simuladores de pago pueden tener condiciones de admisión propias.
+Coste: Entrada general TWD 120, estudiantes con carné válido TWD 90 y menores de 6 años gratis. Confirme el carné escolar extranjero y las actividades aparte.
+Restricciones: Sala permanente de tecnología espacial con proyección inmersiva de Marte y un modelo LEGO Perseverance. Roaming on the Moon y 4D Space Flight Experience se pagan aparte.
+Fuente: https://www.nstm.gov.tw/english/Exhibition.aspx?KeyID=99a56ec1-1a58-4e2a-b1dc-76ff0710be4b
+Verificado: 2026-11-10
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10
@@ -4628,6 +4680,58 @@ Acceso: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documen
 Coste: 2027 · TWD 16800 por curso. Tarifa individual anticipada de TWD 15960 hasta el 30 de noviembre de 2026. · suplementos y condiciones en la ficha
 Restricciones: Matvey: Ambos menores están por debajo de la edad mínima publicada de 15 años. Oscar: Ambos menores están por debajo de la edad mínima publicada de 15 años. Suplementos: Se necesita portátil propio con Windows o macOS. Desayuno, cena, alojamiento y traslado por separado. Pago: Itinerario para mayores. Confirme idioma de enseñanza, plazas y documentos para un estudiante extranjero.
 Fuente: https://ai4kids.ai/pages/ai-robot-camp
+Verificado: 2026-11-10
+
+### CP2557-20270121-20270122 · NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2557-20270201-20270202 · NKUST · 3D Modeling and F1 · 3D Modeling and F1 · 2027-02-01–2027-02-02
+
+Fecha: 2027-02-01 — 2027-02-02
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2558-20270125-20270126 · NKUST · Robotics Missions · Robotics Missions · 2027-01-25–2027-01-26
+
+Fecha: 2027-01-25 — 2027-01-26
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
+Verificado: 2026-11-10
+
+### CP2559-20270127-20270128 · NKUST · Minecraft Metallurgy · Minecraft Metallurgy · 2027-01-27–2027-01-28
+
+Fecha: 2027-01-27 — 2027-01-28
+edad: 3–6 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+Acceso: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+Coste: 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento. · suplementos y condiciones en la ficha
+Restricciones: Matvey: Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza. Oscar: Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso. Suplementos: Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total. Pago: Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+Fuente: https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php
 Verificado: 2026-11-10
 
 ## ~ Comprobar de nuevo

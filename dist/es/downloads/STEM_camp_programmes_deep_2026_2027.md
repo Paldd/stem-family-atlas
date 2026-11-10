@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2556 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2559 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -200645,6 +200645,192 @@ Chile · Valdivia · Isla Teja / Parque Oncol
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://www.colegiodelbosque.cl/talleres-de-verano) · 2026-11-10
+
+## CP2557 · NKUST · 3D Modeling and F1
+
+Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Verificado:** 2026-11-10
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+
+**Programa:** Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.
+
+**Precio / año:** 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Incluido:** Almuerzo cada día.
+
+**Suplementos:** Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total.
+
+**Pago:** Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+
+**Matvey:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+**Oscar:** Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso.
+
+**Motivo de selección:** Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.
+
+### Antes de solicitar plaza
+
+- Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+### 3D Modeling and F1
+
+**Fechas / estado:** 2027-01-21 — 2027-01-22
+
+**Lugar:** NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Precio:** TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Programa:** Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.
+
+**Condiciones de participación:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+- 2027-01-21 · 08:30–16:00 · Asia/Taipei · 3D Modeling and F1
+
+- 2027-01-22 · 08:30–16:00 · Asia/Taipei · 3D Modeling and F1
+
+[fuente](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php)
+
+### 3D Modeling and F1
+
+**Fechas / estado:** 2027-02-01 — 2027-02-02
+
+**Lugar:** NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Precio:** TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Programa:** Modelado 3D y montaje de un coche F1. La organización indica que se pueden llevar una placa impresa, el modelo y una figura.
+
+**Condiciones de participación:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+- 2027-02-01 · 08:30–16:00 · Asia/Taipei · 3D Modeling and F1
+
+- 2027-02-02 · 08:30–16:00 · Asia/Taipei · 3D Modeling and F1
+
+[fuente](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php) · 2026-11-10
+
+## CP2558 · NKUST · Robotics Missions
+
+Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Verificado:** 2026-11-10
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+
+**Programa:** Estructura del vehículo, control de movimiento con Scratch o bloques, pruebas y depuración. No se entrega un kit para llevar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.
+
+**Precio / año:** 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Incluido:** Almuerzo cada día.
+
+**Suplementos:** Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total.
+
+**Pago:** Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+
+**Matvey:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+**Oscar:** Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso.
+
+**Motivo de selección:** Estructura del vehículo, control de movimiento con Scratch o bloques, pruebas y depuración. No se entrega un kit para llevar.
+
+### Antes de solicitar plaza
+
+- Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+### Robotics Missions
+
+**Fechas / estado:** 2027-01-25 — 2027-01-26
+
+**Lugar:** NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Precio:** TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Programa:** Estructura del vehículo, control de movimiento con Scratch o bloques, pruebas y depuración. No se entrega un kit para llevar.
+
+**Condiciones de participación:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+- 2027-01-25 · 08:30–16:00 · Asia/Taipei · Robotics Missions
+
+- 2027-01-26 · 08:30–16:00 · Asia/Taipei · Robotics Missions
+
+[fuente](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php) · 2026-11-10
+
+## CP2559 · NKUST · Minecraft Metallurgy
+
+Taiwán · NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Verificado:** 2026-11-10
+
+**edad:** 3–6 de primaria.
+
+**Idioma:** Descripción en chino tradicional. Consulte el idioma de las actividades y la asistencia en inglés.
+
+**Programa:** Diseño, fabricación y comprobación de piezas mediante un reto de ingeniería con Minecraft. No se entrega un kit para llevar.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 08:30–16:00, hora de Taiwán. Recepción desde las 08:00 y recogida hasta las 18:00. El horario de cuidado está separado del horario de clase.
+
+**Precio / año:** 2027 · TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Incluido:** Almuerzo cada día.
+
+**Suplementos:** Al inscribir a un mismo niño en 3 turnos o más, se descuentan TWD 150 adicionales del total.
+
+**Pago:** Pago tras aviso de la universidad. Hasta el 18 de diciembre a las 17:00 se retienen TWD 15 por cancelar. Después se retienen TWD 500 y TWD 15. El envío del kit F1, cuando corresponda, se cobra aparte, TWD 105.
+
+**Matvey:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+**Oscar:** Por debajo del nivel habitual del grado 3. La edad por sí sola no da acceso.
+
+**Motivo de selección:** Diseño, fabricación y comprobación de piezas mediante un reto de ingeniería con Minecraft. No se entrega un kit para llevar.
+
+### Antes de solicitar plaza
+
+- Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+### Minecraft Metallurgy
+
+**Fechas / estado:** 2027-01-27 — 2027-01-28
+
+**Lugar:** NKUST First Campus · Dream Workshop, Kaohsiung
+
+**Precio:** TWD 3000 por turno. Hasta el 30 de noviembre de 2026 a las 23:59, hora de Taiwán, descuento del 15%, equivalente a TWD 2550. Es el plazo del descuento.
+
+**Programa:** Diseño, fabricación y comprobación de piezas mediante un reto de ingeniería con Minecraft. No se entrega un kit para llevar.
+
+**Condiciones de participación:** Para grados 3–6 de primaria. Mínimo 20 para abrir el turno, máximo 30 participantes. Confirme equivalencia de grado, idioma, admisión desde el extranjero y plaza.
+
+- 2027-01-27 · 08:30–16:00 · Asia/Taipei · Minecraft Metallurgy
+
+- 2027-01-28 · 08:30–16:00 · Asia/Taipei · Minecraft Metallurgy
+
+[fuente](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://startup.nkust.edu.tw/p/406-1149-109043,r1718.php) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 
