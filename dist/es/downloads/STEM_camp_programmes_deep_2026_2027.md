@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2536 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2540 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -69814,7 +69814,7 @@ Costa Rica · IAC, Sede Central UTN · Alajuela; oficina exacta y recepción ext
 
 Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
-**Se ha comprobado:** 2026-11-09
+**Verificado:** 2026-11-10
 
 **Edad:** El anuncio y las condiciones de la UCR indican 10–12 años. La descripción del portal de pagos también indica 10–12 años, pero su línea de admisión señala 9–12 años y los grados 4–6 de escuela pública.
 
@@ -69832,7 +69832,7 @@ Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
 **Suplementos:** El menor trae su merienda. Transporte por separado.
 
-**Pago:** Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.
+**Pago:** El anuncio de UCR indica cierre de solicitudes el 18 de diciembre de 2026. El portal de pagos indica ventanas de 08:00 del 1 de noviembre a 12:00 del 1 de diciembre de 2026 y de 08:00 del 5 de enero a 12:00 del 10 de enero de 2027. UCR confirma primero la plaza. Confirme la ventana aplicable y el importe tras la respuesta.
 
 **Matvey:** Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro.
 
@@ -69856,11 +69856,11 @@ Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
 ### Fuentes
 
-- [Página oficial del organizador o condiciones de entrada.](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-09
+- [Página oficial del organizador o condiciones de entrada.](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-10
 
 - [Página oficial del organizador o condiciones de entrada.](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-09
 
-- [Página oficial del organizador o condiciones de entrada.](https://www.ucrenlinea.com/products/422/campamento-de-verano-matenciar) · 2026-11-09
+- [Página oficial del organizador o condiciones de entrada.](https://www.ucrenlinea.com/products/422/campamento-de-verano-matenciar) · 2026-11-10
 
 ## CP945 · Parque La Libertad × ColibrIA · AI for Good Boot Camp
 
@@ -129990,13 +129990,13 @@ España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
 
 España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
 
-**Se ha comprobado:** 2026-11-07
+**Verificado:** 2026-11-10
 
 **edad:** 8–12 años.
 
 **Idioma:** Idioma de enseñanza del grupo concreto aún sin confirmar.
 
-**Programa:** Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.
+**Programa:** Minecraft: mundo propio en WorldPainter, planificación de edificios, mecanismos de Redstone y elementos de MCreator. Intercambio final de proyectos en red local.
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
@@ -130019,6 +130019,8 @@ España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
 ### Antes de solicitar plaza
 
 - Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+- En paralelo, la edad de Oscar encaja en cocina y magia en el mismo centro.
 
 ### Taller diurno.
 
@@ -130048,9 +130050,9 @@ España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/) · 2026-11-07
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/) · 2026-11-10
 
-- [Página oficial del organizador](https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/) · 2026-11-07
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/) · 2026-11-10
 
 ## CP1642 · Fundación Ibercaja Actur · Iníciate en el Arte digital
 
@@ -199249,6 +199251,234 @@ Chile · Fabri-K2 · Ma. Luisa Santander 468 · Providencia, Santiago
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia) · 2026-11-10
+
+## CP2537 · RF Grupo Educativo · Campamentos STEAM TechnoKids
+
+Costa Rica · Confirme la dirección del turno presencial
+
+**Verificado:** 2026-11-10
+
+**Edad:** No se publica la edad del grupo concreto.
+
+**Idioma:** Descripción en español. Confirme el idioma del grupo concreto.
+
+**Programa:** TechnoKids: robótica con sensores y controladores, programación, inteligencia artificial y proyectos digitales. El organizador describe actividades presenciales y clases en línea con docente.
+
+**Alojamiento:** Modalidad diurna presencial o en línea.
+
+**Fechas / estado:** Se imparte durante vacaciones escolares. No se publica un turno concreto para 2026–2027. El curso habitual dura 2 semanas, con 4 horas por día laborable.
+
+**Precio / año:** Sin año indicado · Referencia de CRC 127500 por curso de dos semanas. Confirme la tarifa final del turno concreto.
+
+**Incluido:** Materiales didácticos digitales, certificado de participación y recursos adicionales.
+
+**Suplementos:** Confirme próximas fechas, edad mínima, idioma, dirección del grupo presencial y coste total de la modalidad elegida.
+
+**Pago:** Confirme próximas fechas, edad mínima, idioma, dirección del grupo presencial y coste total de la modalidad elegida.
+
+**Matvey:** Confirme próximas fechas, edad mínima, idioma, dirección del grupo presencial y coste total de la modalidad elegida.
+
+**Oscar:** Confirme próximas fechas, edad mínima, idioma, dirección del grupo presencial y coste total de la modalidad elegida.
+
+**Motivo de selección:** TechnoKids: robótica con sensores y controladores, programación, inteligencia artificial y proyectos digitales. El organizador describe actividades presenciales y clases en línea con docente.
+
+### Antes de solicitar plaza
+
+- Confirme próximas fechas, edad mínima, idioma, dirección del grupo presencial y coste total de la modalidad elegida.
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://rfgrupoeducativo.com/campamentos-steam/) · 2026-11-10
+
+## CP2538 · Fundación Ibercaja Actur · Arte digital · Esperando a los Reyes
+
+España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**Verificado:** 2026-11-10
+
+**edad:** 7–13 años.
+
+**Idioma:** Descripción en español. Confirme el idioma del grupo concreto.
+
+**Programa:** Dibujo con tableta gráfica. Trabajo con color, capas, personajes y fondos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–13:30 en Zaragoza. Aforo de 10 participantes.
+
+**Precio / año:** 2027 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+**Incluido:** Actividades de 09:00 a 13:30. Incluye supervisión de 08:00 a 14:30. Traiga la merienda.
+
+**Suplementos:** Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación.
+
+**Pago:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Cumple si ya tiene 7 años al inicio del taller.
+
+**Motivo de selección:** Dibujo con tableta gráfica. Trabajo con color, capas, personajes y fondos.
+
+### Antes de solicitar plaza
+
+- Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+### Arte digital · Esperando a los Reyes
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**lugar:** Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**edad:** 7–13 años.
+
+**Precio:** EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+- 2027-01-04 · 09:00–13:30 · Europe/Madrid · Arte digital · Esperando a los Reyes
+
+- 2027-01-05 · 09:00–13:30 · Europe/Madrid · Arte digital · Esperando a los Reyes
+
+**Disponibilidad:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Cumple si ya tiene 7 años al inicio del taller.
+
+[fuente](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/) · 2026-11-10
+
+## CP2539 · Fundación Ibercaja Actur · Una Navidad con las manos en la masa
+
+España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**Verificado:** 2026-11-10
+
+**Edad:** 4–11 años.
+
+**Idioma:** Descripción en español. Confirme el idioma del grupo concreto.
+
+**Programa:** Cocina y trucos de magia. La actividad diurna coincide con Minecraft en el mismo centro.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–13:30 en Zaragoza. Aforo de 14 participantes.
+
+**Precio / año:** 2026 · EUR 99 por curso. EUR 85 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+**Incluido:** Actividades de 09:00 a 13:30. Incluye supervisión de 08:00 a 14:30. Traiga la merienda.
+
+**Suplementos:** Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación.
+
+**Pago:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Cumple la edad. Confirme plaza e idioma.
+
+**Motivo de selección:** Cocina y trucos de magia. La actividad diurna coincide con Minecraft en el mismo centro.
+
+### Antes de solicitar plaza
+
+- Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+### Una Navidad con las manos en la masa
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**Edad:** 4–11 años.
+
+**Precio:** EUR 99 por curso. EUR 85 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+- 2026-12-28 · 09:00–13:30 · Europe/Madrid · Una Navidad con las manos en la masa
+
+- 2026-12-29 · 09:00–13:30 · Europe/Madrid · Una Navidad con las manos en la masa
+
+- 2026-12-30 · 09:00–13:30 · Europe/Madrid · Una Navidad con las manos en la masa
+
+- 2026-12-31 · 09:00–13:30 · Europe/Madrid · Una Navidad con las manos en la masa
+
+**Disponibilidad:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Cumple la edad. Confirme plaza e idioma.
+
+[fuente](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/) · 2026-11-10
+
+## CP2540 · Fundación Ibercaja Actur · ¡A escena!
+
+España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**Verificado:** 2026-11-10
+
+**edad:** 8–12 años.
+
+**Idioma:** Descripción en español. Confirme el idioma del grupo concreto.
+
+**Programa:** Teatro, improvisación y voz. Nivel inicial.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 09:00–13:30 en Zaragoza. Aforo de 12 participantes.
+
+**Precio / año:** 2026 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+**Incluido:** Actividades de 09:00 a 13:30. Incluye supervisión de 08:00 a 14:30. Traiga la merienda.
+
+**Suplementos:** Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación.
+
+**Pago:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Edad mínima de 8 años.
+
+**Motivo de selección:** Teatro, improvisación y voz. Nivel inicial.
+
+### Antes de solicitar plaza
+
+- Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+### ¡A escena!
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+
+**edad:** 8–12 años.
+
+**Precio:** EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos.
+
+- 2026-12-23 · 09:00–13:30 · Europe/Madrid · ¡A escena!
+
+- 2026-12-24 · 09:00–13:30 · Europe/Madrid · ¡A escena!
+
+**Disponibilidad:** Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+
+**Matvey:** Cumple la edad publicada. Confirme plaza e idioma.
+
+**Oscar:** Edad mínima de 8 años.
+
+[fuente](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

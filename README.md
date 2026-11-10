@@ -29,6 +29,8 @@ node scripts/verify-northamerica-editorial.cjs
 
 Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов: 13 цветовых направлений, фильтры, карты и календарь. Счётчики по странам и направлениям доступны в [инвентаре покрытия](https://paldd.github.io/stem-family-atlas/downloads/STEM_completeness_audit.json). Мировой аудит продолжается; ни одна страна не заявлена полностью проаудированной.
 
+В v384 добавлены три мексиканских события, программы Ibercaja Actur и курс RF TechnoKids для наблюдения. В Сарагосе сопоставлены параллельные программы Minecraft и кулинарии для братьев. Уточнены источники по RoboJam и UCR. [Аудит источников](data/mexico-costa-rica-and-spain-audit-v384.json)
+
 В v383 добавлены мастерские Fabri-K2, дисциплины Liga Robótica в Пуэрто-Монте и конкурсы FestiGame. Отмечено расхождение даты финала Liga Robótica и обновлены условия CES. [Аудит источников](data/chile-robotics-and-gaming-audit-v383.json)
 
 В v382 добавлены курсы LEGO в Китченере, семейные визиты на FIRST в Уотерлу и Mecha Mayhem в Калгари. Отдельно описаны возраст и отбор для соревнований. [Аудит источников](data/ontario-robotics-and-canada-visitor-audit-v382.json)

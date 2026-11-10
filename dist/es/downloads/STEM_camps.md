@@ -47474,9 +47474,9 @@ Idioma: Confirmar con el operador el idioma del grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2027 · Las condiciones de solicitud indican 5000 CRC, con seguro INS según el anuncio. El portal de pagos muestra 3270 CRC y exige pagar aparte la póliza obligatoria. Confirme con la UCR el total y la tarifa aplicable. · cargos y condiciones en la ficha
 Acceso: Confirme edad, grado y si se requiere estudiar en escuela pública. Según las condiciones de solicitud, la UCR primero confirma la plaza y luego facilita los datos de pago. Verifique el plazo y el horario con la universidad.
-Condiciones: Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Cargos extra: El menor trae su merienda. Transporte por separado. Pago: Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.
+Restricciones: Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Suplementos: El menor trae su merienda. Transporte por separado. Pago: El anuncio de UCR indica cierre de solicitudes el 18 de diciembre de 2026. El portal de pagos indica ventanas de 08:00 del 1 de noviembre a 12:00 del 1 de diciembre de 2026 y de 08:00 del 5 de enero a 12:00 del 10 de enero de 2027. UCR confirma primero la plaza. Confirme la ventana aplicable y el importe tras la respuesta.
 Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
-Se ha comprobado: 2026-11-09
+Verificado: 2026-11-10
 
 ### CP950-20270104-20270110 · Movimento Manque Chile · International Summer2027 · Manque Chile/IFM-SEI · autorización para aclarar · 2027-01-04________________2027-01-10
 
@@ -71700,7 +71700,7 @@ Precio: 2026/27 · EUR 99 por curso. EUR 85 según condiciones de pago con tarje
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/
-Se ha comprobado: 2026-11-07
+Verificado: 2026-11-10
 
 ### CP1642-20270104-20270105 · Fundación Ibercaja Actur · Iníciate en el Arte digital · Taller diurno. · 2027-01-04–2027-01-05
 
@@ -98116,6 +98116,54 @@ Coste: 2026/27 · CLP 35000 por el paquete de 2 talleres. · suplementos y condi
 Acceso: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
 Restricciones: Matvey: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Oscar: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas. Suplementos: Traslado por separado. Consulte devolución y posibles cargos adicionales con el organizador. Pago: Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas.
 Fuente: https://fabri-k2.com/products/robotica-de-otro-planeta-%F0%9F%91%BD%F0%9F%A4%96%F0%9F%9A%80-providencia
+Verificado: 2026-11-10
+
+### CP2538-20270104-20270105 · Fundación Ibercaja Actur · Arte digital · Esperando a los Reyes · Arte digital · Esperando a los Reyes · 2027-01-04–2027-01-05
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2027-01-04 — 2027-01-05
+Edad: 7–13 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción en español. Confirme el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Cumple si ya tiene 7 años al inicio del taller. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/
+Verificado: 2026-11-10
+
+### CP2539-20261228-20261231 · Fundación Ibercaja Actur · Una Navidad con las manos en la masa · Una Navidad con las manos en la masa · 2026-12-28–2026-12-31
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–11 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Descripción en español. Confirme el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 99 por curso. EUR 85 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Cumple la edad. Confirme plaza e idioma. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/
+Verificado: 2026-11-10
+
+### CP2540-20261223-20261224 · Fundación Ibercaja Actur · ¡A escena! · ¡A escena! · 2026-12-23–2026-12-24
+
+lugar: España · Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español. Confirme el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Restricciones: Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Edad mínima de 8 años. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.
+Fuente: https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

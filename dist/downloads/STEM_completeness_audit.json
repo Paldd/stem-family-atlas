@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12652,
+    "cards": 12658,
     "competition_cards": 5576,
-    "event_cards": 868,
-    "camp_cards": 6208,
+    "event_cards": 871,
+    "camp_cards": 6211,
     "league_profiles": 359,
-    "major_exhibition_cards": 762,
+    "major_exhibition_cards": 763,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 4080,
+      "total": 4083,
       "countries_with_records": 41,
       "competitions": 2250,
-      "events": 243,
-      "major_exhibitions": 196,
+      "events": 246,
+      "major_exhibitions": 197,
       "camps": 1587,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2815,
+      "total": 2818,
       "countries_with_records": 55,
       "competitions": 796,
       "events": 213,
       "major_exhibitions": 189,
-      "camps": 1806,
+      "camps": 1809,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -18610,6 +18610,17 @@
       "new": false
     },
     {
+      "id": "E869",
+      "name": "Museo Franz Mayer · Mockups · Maquetas y prototipos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-10-16",
+      "end": "2027-02-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://franzmayer.org.mx/exposicion/mockups-before-fuckups/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -21041,8 +21052,8 @@
       }
     ],
     "counts": {
-      "records": 6208,
-      "holiday": 5530,
+      "records": 6211,
+      "holiday": 5533,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1049,

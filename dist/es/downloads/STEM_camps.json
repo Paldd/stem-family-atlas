@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 6208,
-      "holiday": 5530,
+      "records": 6211,
+      "holiday": 5533,
       "regular": 238,
       "self_paced_materials": 4,
       "boarding": 1049,
@@ -210226,9 +210226,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "status": "Idea",
-      "note": "Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Cargos extra: El menor trae su merienda. Transporte por separado. Pago: Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.",
+      "note": "Matvey: Nació en 2017. Confirme fecha de corte de edad, grado y requisito del centro. Oscar: Nació en 2020. Está por debajo de ambas edades mínimas publicadas. Suplementos: El menor trae su merienda. Transporte por separado. Pago: El anuncio de UCR indica cierre de solicitudes el 18 de diciembre de 2026. El portal de pagos indica ventanas de 08:00 del 1 de noviembre a 12:00 del 1 de diciembre de 2026 y de 08:00 del 5 de enero a 12:00 del 10 de enero de 2027. UCR confirma primero la plaza. Confirme la ventana aplicable y el importe tras la respuesta.",
       "iso": [
         "CRI"
       ],
@@ -210249,7 +210249,7 @@
       "language_roles": {},
       "language_mode": "unconfirmed",
       "languages": [],
-      "deadline_note": "Hasta el 18 de diciembre de 2026 según el anuncio de la UCR. El portal de pagos publica ventanas separadas del 1 de noviembre al 1 de diciembre de 2026 y del 5 al 10 de enero de 2027. Antes de pagar confirme qué ventana corresponde a la solicitud aceptada.",
+      "deadline_note": "El anuncio de UCR indica cierre de solicitudes el 18 de diciembre de 2026. El portal de pagos indica ventanas de 08:00 del 1 de noviembre a 12:00 del 1 de diciembre de 2026 y de 08:00 del 5 de enero a 12:00 del 10 de enero de 2027. UCR confirma primero la plaza. Confirme la ventana aplicable y el importe tras la respuesta.",
       "date_conflict": "18–21 de enero de 2027 en Instalaciones Deportivas UCR. El anuncio indica 08:00–11:30 y el portal de pagos 07:30–12:00. Confirme el horario exacto."
     },
     {
@@ -363638,26 +363638,26 @@
       "osc": "No ahora; el futuro nivel de edad",
       "format": "Programa diurno sin alojamiento.",
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
-      "gear": "Proyecto temático en Minecraft. Confirmar edición del juego, requisitos de cuenta y reglas de juego compartido.",
+      "gear": "Minecraft: mundo propio en WorldPainter, planificación de edificios, mecanismos de Redstone y elementos de MCreator. Intercambio final de proyectos en red local.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar.",
       "cost": "2026/27 · EUR 99 por curso. EUR 85 según condiciones de pago con tarjeta Ibercaja o para hermanos inscritos en talleres navideños. Confirmar aplicación. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
-      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. En paralelo, la edad de Oscar encaja en cocina y magia en el mismo centro.",
       "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
       "references": [
         {
           "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
-          "label": "Página oficial del organizador"
+          "label": "Se comprobó la ficha oficial del programa."
         },
         {
           "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
-          "label": "Página oficial del organizador"
+          "label": "Se comprobó la ficha oficial del programa."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-10",
       "status": "Idea",
       "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: No por ahora. Mínimo 8 años en el programa elegido. Suplementos: Confirmar materiales adicionales y condiciones de cancelación. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
       "iso": [
@@ -526383,6 +526383,303 @@
       "availability": {
         "status": "sold_out",
         "label": "Las dos sesiones se venden juntas. La página de inscripción indica que las plazas están agotadas."
+      }
+    },
+    {
+      "id": "CP2538-20270104-20270105",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Arte digital · Esperando a los Reyes · Arte digital · Esperando a los Reyes · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "09:00–13:30 en Zaragoza. Aforo de 10 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–13 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dibujo con tableta gráfica. Trabajo con color, capas, personajes y fondos.",
+      "language": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "cost": "2027 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Cumple si ya tiene 7 años al inicio del taller. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "art",
+        "technology",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-digital-art",
+      "camp_programme_id": "CP2538",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Arte digital · Esperando a los Reyes",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Arte digital · Esperando a los Reyes",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida."
+      }
+    },
+    {
+      "id": "CP2539-20261228-20261231",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · Una Navidad con las manos en la masa · Una Navidad con las manos en la masa · 2026-12-28–2026-12-31",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "09:00–13:30 en Zaragoza. Aforo de 14 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–11 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Cocina y trucos de magia. La actividad diurna coincide con Minecraft en el mismo centro.",
+      "language": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "cost": "2026/27 · EUR 99 por curso. EUR 85 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Cumple la edad. Confirme plaza e idioma. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "creative",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-cooking-and-magic",
+      "camp_programme_id": "CP2539",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Una Navidad con las manos en la masa",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Una Navidad con las manos en la masa",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Una Navidad con las manos en la masa",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Una Navidad con las manos en la masa",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida."
+      }
+    },
+    {
+      "id": "CP2540-20261223-20261224",
+      "block": "Campamentos",
+      "title": "Fundación Ibercaja Actur · ¡A escena! · ¡A escena! · 2026-12-23–2026-12-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "start": "2026-12-23",
+      "end": "2026-12-24",
+      "period": "09:00–13:30 en Zaragoza. Aforo de 12 participantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Teatro, improvisación y voz. Nivel inicial.",
+      "language": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "cost": "2026/27 · EUR 55 por curso. EUR 45 con tarjeta Ibercaja o según las condiciones de la tarifa para hermanos. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/",
+      "references": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Cumple la edad publicada. Confirme plaza e idioma. Oscar: Edad mínima de 8 años. Suplementos: Traslado y alojamiento familiar por separado. Confirme materiales y condiciones de cancelación. Pago: Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "art",
+        "creative"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción en español. Confirme el idioma del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "iber-actur-theatre",
+      "camp_programme_id": "CP2540",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "¡A escena!",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "¡A escena!",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T12:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "Confirme plazas, idioma de la actividad y aplicación de la tarifa reducida."
       }
     },
     {

@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2536,
+    "dossiers": 2540,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 730,
+      "published_2027": 731,
       "partial_2027": 182,
-      "next_unannounced": 488,
-      "published_2026": 486,
+      "next_unannounced": 489,
+      "published_2026": 488,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3458
+    "source_urls": 3460
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "Испания",
-      "count": 162
+      "count": 165
     },
     {
       "country": "Италия",
@@ -288,7 +288,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 62
+      "count": 63
     },
     {
       "country": "Кувейт",
@@ -112018,7 +112018,7 @@
             "source": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
             "entry": "Проверить возраст, класс и необходимость обучения в государственной школе. По условиям заявки UCR сначала подтверждает место, затем сообщает реквизиты. Срок и часы сверить с университетом.",
             "price": "В условиях заявки 5000 CRC, включая страховку INS по анонсу. Платёжный портал показывает 3270 CRC и отдельно требует оплатить обязательный полис. Итог и применимость тарифа сверить с UCR.",
-            "deadline_note": "До 18 декабря 2026 по анонсу UCR. Платёжный портал публикует отдельные окна 1 ноября – 1 декабря 2026 и 5–10 января 2027. Перед оплатой подтвердить, какое окно относится к принятой заявке.",
+            "deadline_note": "Анонс UCR указывает закрытие заявок 18 декабря 2026. Платёжный портал даёт окна с 08:00 1 ноября до 12:00 1 декабря 2026 и с 08:00 5 января до 12:00 10 января 2027. UCR сначала подтверждает место. Уточните применимое окно и сумму после ответа.",
             "date_conflict": "18–21 января 2027 в Instalaciones Deportivas UCR. Анонс указывает 08:00–11:30, платёжный портал — 07:30–12:00. Точные часы требуют сверки."
           }
         ]
@@ -112028,7 +112028,7 @@
         "label": "В условиях заявки 5000 CRC, включая страховку INS по анонсу. Платёжный портал показывает 3270 CRC и отдельно требует оплатить обязательный полис. Итог и применимость тарифа сверить с UCR.",
         "included": "Анонс UCR включает INS. На платёжном портале полис указан отдельно.",
         "extras": "Ребёнок приносит перекус. Дорога оплачивается отдельно.",
-        "deposit": "До 18 декабря 2026 по анонсу UCR. Платёжный портал публикует отдельные окна 1 ноября – 1 декабря 2026 и 5–10 января 2027. Перед оплатой подтвердить, какое окно относится к принятой заявке.",
+        "deposit": "Анонс UCR указывает закрытие заявок 18 декабря 2026. Платёжный портал даёт окна с 08:00 1 ноября до 12:00 1 декабря 2026 и с 08:00 5 января до 12:00 10 января 2027. UCR сначала подтверждает место. Уточните применимое окно и сумму после ответа.",
         "currency": "CRC",
         "amount": null,
         "unit": "session"
@@ -112053,7 +112053,7 @@
         {
           "url": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
           "title": "Официальная страница организатора или правила входа.",
-          "checked": "2026-11-09"
+          "checked": "2026-11-10"
         },
         {
           "url": "https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx",
@@ -112063,10 +112063,10 @@
         {
           "url": "https://www.ucrenlinea.com/products/422/campamento-de-verano-matenciar",
           "title": "Официальная страница организатора или правила входа.",
-          "checked": "2026-11-09"
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "previous_programme": {
         "place": "Aula15, Instalaciones Deportivas UCR · Sabanilla, Montes de Oca",
         "age": "9–12 И matriculado4°, 5° или 6° primaria",
@@ -241480,7 +241480,7 @@
       "age": "8–12 лет.",
       "language": "Язык преподавания конкретной группы пока не подтверждён.",
       "confirmed_instruction_languages": [],
-      "programme": "Тематический Minecraft-проект. Сверить редакцию игры, требование к аккаунту и правила совместной игры.",
+      "programme": "Minecraft: собственный мир в WorldPainter, планировка построек, механизмы Redstone и элементы MCreator. Финальный обмен проектами по локальной сети.",
       "timing": {
         "status": "published_2026_27",
         "label": "Дни занятий по календарю организатора.",
@@ -241575,27 +241575,39 @@
       "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
       "shortlist": [],
       "questions": [
-        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+        "Параллельно Оскару по возрасту подходит кулинария и фокусы в том же центре."
       ],
       "sources": [
         {
           "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/minecraft-el-secreto-de-los-mundos-helados-navidad-2026/",
-          "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         },
         {
           "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
-          "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-10",
       "availability": {
         "status": "open",
         "label": "Организатор принимает заявки. Наличие конкретного места уточнить."
       },
       "programme_type": "holiday_workshop",
-      "catalog_participation": "holiday_workshop"
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "esp-ibercaja-actur-zaragoza",
+        "verified_source": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "EUR",
+          "amount": 99,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
     },
     {
       "id": "CP1642",
@@ -391451,6 +391463,487 @@
       "materials_languages": [
         "ES"
       ]
+    },
+    {
+      "id": "CP2537",
+      "slug": "rf-technokids-steam-holiday-watch",
+      "provider": "RF Grupo Educativo · Campamentos STEAM TechnoKids",
+      "iso": "CRI",
+      "country": "Коста-Рика",
+      "place": "Адрес очной смены уточнить",
+      "age": "Возраст конкретной группы не опубликован.",
+      "programme": "TechnoKids: робототехника с датчиками и контроллерами, программирование, искусственный интеллект и создание цифровых проектов. Организатор описывает очный формат и онлайн-занятия с преподавателем.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Описание на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "accommodation": "Дневной очный или онлайн-формат.",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Проводится в школьные каникулы. Конкретная смена на 2026–2027 не опубликована. Типовой курс длится 2 недели, по 4 часа в будни.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "currency": "CRC",
+        "amount": null,
+        "unit": "per_child_course",
+        "label": "Ориентир CRC 127500 за двухнедельный курс. Итоговый тариф конкретной смены уточнить.",
+        "included": "Цифровые учебные материалы, сертификат участия и дополнительные ресурсы.",
+        "extras": "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата.",
+        "deposit": "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата."
+        }
+      },
+      "editorial_reason": "TechnoKids: робототехника с датчиками и контроллерами, программирование, искусственный интеллект и создание цифровых проектов. Организатор описывает очный формат и онлайн-занятия с преподавателем.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата."
+      ],
+      "sources": [
+        {
+          "url": "https://rfgrupoeducativo.com/campamentos-steam/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Подтвердить ближайшие даты, нижний возраст, язык, адрес очной группы и полную стоимость выбранного формата."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2538",
+      "slug": "iber-actur-digital-art",
+      "provider": "Fundación Ibercaja Actur · Arte digital · Esperando a los Reyes",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "age": "7–13 лет.",
+      "programme": "Рисование на графическом планшете. Работа с цветом, слоями, персонажами и фонами.",
+      "themes": [
+        "art",
+        "technology",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "09:00–13:30 по Сарагосе. Лимит группы 10 участников.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Arte digital · Esperando a los Reyes",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+            "price": "EUR 55 за курс. EUR 45 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "7–13 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подходит после 7-летия к началу мастерской."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Arte digital · Esperando a los Reyes",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T12:30:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Arte digital · Esperando a los Reyes",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T12:30:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 55,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "EUR 55 за курс. EUR 45 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+        "included": "Занятия 09:00–13:30. Присмотр 08:00–14:30 включён. Перекус с собой.",
+        "extras": "Дорога и проживание семьи отдельно. Уточнить расходные материалы и отмену.",
+        "deposit": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит после 7-летия к началу мастерской."
+        }
+      },
+      "editorial_reason": "Рисование на графическом планшете. Работа с цветом, слоями, персонажами и фонами.",
+      "shortlist": [],
+      "questions": [
+        "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/iniciate-en-el-arte-digital-esperando-a-los-reyes-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP2539",
+      "slug": "iber-actur-cooking-and-magic",
+      "provider": "Fundación Ibercaja Actur · Una Navidad con las manos en la masa",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "age": "4–11 лет.",
+      "programme": "Кулинария и фокусы. Дневная программа проходит одновременно с Minecraft в том же центре.",
+      "themes": [
+        "creative",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "09:00–13:30 по Сарагосе. Лимит группы 14 участников.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Una Navidad con las manos en la masa",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/",
+            "price": "EUR 99 за курс. EUR 85 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "4–11 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Подходит по возрасту. Место и язык уточнить."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Una Navidad con las manos en la masa",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T12:30:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Una Navidad con las manos en la masa",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T12:30:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Una Navidad con las manos en la masa",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T12:30:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Una Navidad con las manos en la masa",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T08:00:00Z",
+                "end_utc": "2026-12-31T12:30:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 99,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 99 за курс. EUR 85 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+        "included": "Занятия 09:00–13:30. Присмотр 08:00–14:30 включён. Перекус с собой.",
+        "extras": "Дорога и проживание семьи отдельно. Уточнить расходные материалы и отмену.",
+        "deposit": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит по возрасту. Место и язык уточнить."
+        }
+      },
+      "editorial_reason": "Кулинария и фокусы. Дневная программа проходит одновременно с Minecraft в том же центре.",
+      "shortlist": [],
+      "questions": [
+        "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/una-navidad-con-las-manos-en-la-masa-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ],
+      "pairing": {
+        "venue_id": "esp-ibercaja-actur-zaragoza",
+        "verified_source": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+        "checked": "2026-11-10",
+        "fee": {
+          "currency": "EUR",
+          "amount": 99,
+          "unit": "per_child_course",
+          "tax_included": null
+        }
+      }
+    },
+    {
+      "id": "CP2540",
+      "slug": "iber-actur-theatre",
+      "provider": "Fundación Ibercaja Actur · ¡A escena!",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+      "age": "8–12 лет.",
+      "programme": "Театр, импровизация и голос. Начальный уровень.",
+      "themes": [
+        "art",
+        "creative"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "09:00–13:30 по Сарагосе. Лимит группы 12 участников.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-23",
+            "end": "2026-12-24",
+            "label": "¡A escena!",
+            "source": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/",
+            "price": "EUR 55 за курс. EUR 45 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+            "place": "Fundación Ibercaja Actur · Antón García Abril 1 · Zaragoza",
+            "age": "8–12 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Минимальный возраст 8 лет."
+              }
+            },
+            "availability": {
+              "status": "open",
+              "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "¡A escena!",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T12:30:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "¡A escena!",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T08:00:00Z",
+                "end_utc": "2026-12-24T12:30:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 55,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 55 за курс. EUR 45 при оплате картой Ibercaja или по условиям тарифа для братьев и сестёр.",
+        "included": "Занятия 09:00–13:30. Присмотр 08:00–14:30 включён. Перекус с собой.",
+        "extras": "Дорога и проживание семьи отдельно. Уточнить расходные материалы и отмену.",
+        "deposit": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит по опубликованному возрасту. Место и язык уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимальный возраст 8 лет."
+        }
+      },
+      "editorial_reason": "Театр, импровизация и голос. Начальный уровень.",
+      "shortlist": [],
+      "questions": [
+        "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/cursos-y-talleres/taller-de-teatro-para-ninos-a-escena-zaragoza-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.fundacionibercaja.es/actividades/ciclos-y-programas/navidad-dulce-navidad-campus-navideno-para-ninos-navidad-2026/",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Сверить наличие мест, язык занятия и применение льготного тарифа."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "ES"
+      ]
     }
   ],
   "gaps": [
@@ -410011,7 +410504,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2536,
+      "total_dossiers": 2540,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

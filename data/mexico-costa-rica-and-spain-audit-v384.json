@@ -1,0 +1,79 @@
+{
+  "version": 384,
+  "checked": "2026-11-10",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "previous_verified_release": {
+    "version": 383,
+    "commit": "c12470ff436687f24bde3819f59e540d27266b3c",
+    "workflow": 42864502749
+  },
+  "robojam": {
+    "ids": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179"
+    ],
+    "stage_date": "2027-04-17",
+    "global_listing_date": "2027-04-18",
+    "deadline": "2027-02-26",
+    "deadline_timezone_unconfirmed": true
+  },
+  "matenciar": {
+    "dossier_id": "CP944",
+    "activity": [
+      "2027-01-18",
+      "2027-01-21"
+    ],
+    "application_notice_deadline": "2026-12-18",
+    "payment_windows": [
+      [
+        "2026-11-01T08:00",
+        "2026-12-01T12:00"
+      ],
+      [
+        "2027-01-05T08:00",
+        "2027-01-10T12:00"
+      ]
+    ],
+    "payment_requires_seat_confirmation": true,
+    "price_conflict": true,
+    "age_conflict": true
+  },
+  "rf": {
+    "dossier_id": "CP2537",
+    "reference_price_crc": 127500,
+    "next_dates_unknown": true,
+    "age_and_instruction_language_unknown": true
+  },
+  "mexico_public_events": [
+    "E869",
+    "E870",
+    "E871"
+  ],
+  "ibercaja": {
+    "dossier_ids": [
+      "CP2538",
+      "CP2539",
+      "CP2540"
+    ],
+    "sibling_pair": [
+      "CP1641",
+      "CP2539"
+    ],
+    "base_pair_fee_eur": 198,
+    "conditional_fee_each_eur": 85,
+    "window": [
+      "2026-12-28",
+      "2026-12-31"
+    ],
+    "same_venue_verified": true,
+    "instruction_language_unconfirmed": true
+  }
+}
