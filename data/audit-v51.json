@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11931,
+    "cards": 11951,
     "competition_cards": 5388,
-    "event_cards": 770,
-    "camp_cards": 5773,
+    "event_cards": 775,
+    "camp_cards": 5788,
     "league_profiles": 339,
-    "major_exhibition_cards": 663,
+    "major_exhibition_cards": 668,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 620,
+      "total": 640,
       "countries_with_records": 27,
       "competitions": 183,
-      "events": 37,
-      "major_exhibitions": 33,
-      "camps": 400,
+      "events": 42,
+      "major_exhibitions": 38,
+      "camps": 415,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -17132,6 +17132,61 @@
       "new": false
     },
     {
+      "id": "E771",
+      "name": "APPEX 2027",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-03-16",
+      "end": "2027-03-19",
+      "visitor_policy": "adults_only",
+      "source": "https://www.appex.com.au/faqs",
+      "new": false
+    },
+    {
+      "id": "E772",
+      "name": "CeMAT Australia 2027",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-07-27",
+      "end": "2027-07-29",
+      "visitor_policy": "adults_only",
+      "source": "https://www.cemataustralia.com.au/",
+      "new": false
+    },
+    {
+      "id": "E773",
+      "name": "Industrial Transformation Australia 2027",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-07-27",
+      "end": "2027-07-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://industrialtransformation.com.au/",
+      "new": false
+    },
+    {
+      "id": "E774",
+      "name": "SouthMACH 2027",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2027-05-26",
+      "end": "2027-05-27",
+      "visitor_policy": "adults_only",
+      "source": "https://southmach.co.nz/visit-southmach/",
+      "new": false
+    },
+    {
+      "id": "E775",
+      "name": "Logistics Automation NZ · CeMAT 2026",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "start": "2026-11-10",
+      "end": "2026-11-11",
+      "visitor_policy": "adults_only",
+      "source": "https://xpo.co.nz/logistics-automation-nz-cemat-opens-3500-registered/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17652,7 +17707,8 @@
     "Сверены отдельные категории IDN IT FEST, школьный инженерный отбор IIT Madras, курсы в Сантьяго и выставочные условия. Сомнительные даты и допуск младших отмечены в карточках.",
     "Проверены зимние смены Meta Robotics и LCCL по площадкам и возрастным группам. Для игровых выставок отдельно сверены билеты и детский допуск. Язык преподавания новых курсов пока требует подтверждения.",
     "Добавлены действующие региональные варианты SENATI, турнир Astra Challenge, январские курсы Astranautas и выставка настольных игр в Сингапуре. Для программ без точного календаря сохранён статус уточнения.",
-    "Проверены местные треки AAIO, условия регистрации ECER и новые варианты STEMLOOK. Квалификация, допуск команды и язык занятий отмечены отдельно."
+    "Проверены местные треки AAIO, условия регистрации ECER и новые варианты STEMLOOK. Квалификация, допуск команды и язык занятий отмечены отдельно.",
+    "Уточнены сроки и условия Kiwibots. Добавлены выставки Океании, занятия Logan Libraries и две смены Mission to Space. Правила профессионального входа и детского участия указаны отдельно."
   ],
   "source_issues": [
     {
@@ -19555,8 +19611,8 @@
       }
     ],
     "counts": {
-      "records": 5773,
-      "holiday": 5140,
+      "records": 5788,
+      "holiday": 5155,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,

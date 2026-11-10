@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11931,
+    "cards": 11951,
     "competition_cards": 5388,
-    "event_cards": 770,
-    "camp_cards": 5773,
+    "event_cards": 775,
+    "camp_cards": 5788,
     "league_profiles": 339,
-    "major_exhibition_cards": 663,
+    "major_exhibition_cards": 668,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 620,
+      "total": 640,
       "countries_with_records": 27,
       "competitions": 183,
-      "events": 37,
-      "major_exhibitions": 33,
-      "camps": 400,
+      "events": 42,
+      "major_exhibitions": 38,
+      "camps": 415,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -17132,6 +17132,61 @@
       "new": false
     },
     {
+      "id": "E771",
+      "name": "APPEX 2027",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-03-16",
+      "end": "2027-03-19",
+      "visitor_policy": "adults_only",
+      "source": "https://www.appex.com.au/faqs",
+      "new": false
+    },
+    {
+      "id": "E772",
+      "name": "CeMAT Australia 2027",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-07-27",
+      "end": "2027-07-29",
+      "visitor_policy": "adults_only",
+      "source": "https://www.cemataustralia.com.au/",
+      "new": false
+    },
+    {
+      "id": "E773",
+      "name": "Industrial Transformation Australia 2027",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-07-27",
+      "end": "2027-07-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://industrialtransformation.com.au/",
+      "new": false
+    },
+    {
+      "id": "E774",
+      "name": "SouthMACH 2027",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2027-05-26",
+      "end": "2027-05-27",
+      "visitor_policy": "adults_only",
+      "source": "https://southmach.co.nz/visit-southmach/",
+      "new": false
+    },
+    {
+      "id": "E775",
+      "name": "Logistics Automation NZ · CeMAT 2026",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "start": "2026-11-10",
+      "end": "2026-11-11",
+      "visitor_policy": "adults_only",
+      "source": "https://xpo.co.nz/logistics-automation-nz-cemat-opens-3500-registered/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17652,7 +17707,8 @@
     "Se verificaron categorías de IDN IT FEST, la selección escolar de ingeniería de IIT Madras, cursos en Santiago y condiciones de exposiciones. Las fechas dudosas y el acceso de menores se señalan en las fichas.",
     "Se verificaron los turnos de invierno de Meta Robotics y LCCL por sede y edad. Para las exposiciones de juegos se revisaron entradas y acceso de menores por separado. El idioma docente de los cursos nuevos sigue por confirmar.",
     "Se añadieron opciones regionales activas de SENATI, el torneo Astra Challenge, cursos de enero de Astranautas y la exposición de juegos de mesa en Singapur. Los programas sin calendario exacto siguen pendientes de confirmación.",
-    "Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado."
+    "Se revisaron las vías locales de AAIO, la inscripción de ECER y nuevas opciones de STEMLOOK. La clasificación, la admisión del equipo y el idioma de clase figuran por separado.",
+    "Se precisaron los plazos y condiciones de Kiwibots. Se añadieron ferias de Oceanía, talleres de Logan Libraries y dos turnos de Mission to Space. El acceso profesional y la participación infantil figuran por separado."
   ],
   "source_issues": [
     {
@@ -19555,8 +19611,8 @@
       }
     ],
     "counts": {
-      "records": 5773,
-      "holiday": 5140,
+      "records": 5788,
+      "holiday": 5155,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,

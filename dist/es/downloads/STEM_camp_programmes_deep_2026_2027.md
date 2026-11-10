@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. Hay 2365 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
+Estado de la base al 2026-11-09. Hay 2369 fichas en 140 países. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -185581,6 +185581,410 @@ Australia · Chatswood / Burwood / Zetland · Sydney
 - [Página del organizador, horario o bases de participación.](https://stemlook.com.au/zetland-coding-robotics-school/) · 2026-11-09
 
 - [Página del organizador, horario o bases de participación.](https://stemlook.com.au/products/laptop-hire-robotics-classes-camps/) · 2026-11-09
+
+## CP2366 · Logan Libraries · LEGO SPIKE Prime
+
+Australia · Beenleigh Library · Crete Street / Logan Central Library · 26 Wilbur Street / Marsden Library · 35 Chambers Flat Road
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Edad de 8 a 14 años. Se requiere un adulto acompañante.
+
+**Idioma:** La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+
+**Programa:** Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.
+
+**Alojamiento:** Actividades diurnas presenciales. Alojamiento por separado.
+
+**Fechas / estado:** Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.
+
+**Precio / año:** 2027 · Gratis con inscripción.
+
+**Incluye:** Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.
+
+**Cargos extra:** El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+**Pago:** Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+
+**Matvey:** La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad.
+
+**Oscar:** El niño está por debajo de la franja publicada.
+
+**Motivo de selección:** Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.
+
+### Antes de solicitar plaza
+
+- Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+
+### LEGO SPIKE Prime
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**Lugar:** Logan Central Library · 26 Wilbur Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-11 · 14:00–15:30 · Australia/Brisbane · Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.
+
+**Disponibilidad:** Inscripción desde 2026-12-28. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=261000)
+
+### LEGO SPIKE Prime
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**Lugar:** Beenleigh Library · Crete Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-15 · 14:00–15:30 · Australia/Brisbane · Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.
+
+**Disponibilidad:** Inscripción desde 2026-12-16. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=255940)
+
+### LEGO SPIKE Prime
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**Lugar:** Marsden Library · 35 Chambers Flat Road
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-18 · 14:00–15:30 · Australia/Brisbane · Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.
+
+**Disponibilidad:** Inscripción desde 2027-01-04. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=261120)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=261000) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=255940) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=261120) · 2026-11-09
+
+## CP2367 · Logan Libraries · LEGO SPIKE Book and Build
+
+Australia · Jimboomba Library · 18–22 Honora Street / Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Edad de 8 a 18 años. Se requiere un adulto acompañante.
+
+**Idioma:** La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+
+**Programa:** Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Alojamiento:** Actividades diurnas presenciales. Alojamiento por separado.
+
+**Fechas / estado:** Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.
+
+**Precio / año:** 2027 · Gratis con inscripción.
+
+**Incluye:** Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Cargos extra:** El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+**Pago:** Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+
+**Matvey:** La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad.
+
+**Oscar:** El niño está por debajo de la franja publicada.
+
+**Motivo de selección:** Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.
+
+### Antes de solicitar plaza
+
+- Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2026-12-16 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2026-12-09. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260187)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**Lugar:** Jimboomba Library · 18–22 Honora Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-13 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-06. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260218)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** Jimboomba Library · 18–22 Honora Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-14 · 10:00–12:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-07. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260206)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-14 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-07. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260193)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-16 — 2027-01-16
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-16 · 10:00–12:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-09. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260177)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-18 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-11. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260197)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**Lugar:** Jimboomba Library · 18–22 Honora Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-19 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-12. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260224)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**Lugar:** Jimboomba Library · 18–22 Honora Street
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-22 · 10:00–12:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-15. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260214)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-22 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-15. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260201)
+
+### LEGO SPIKE Book and Build
+
+**Fechas / estado:** 2027-01-23 — 2027-01-23
+
+**Lugar:** Logan West Library · 69 Grand Plaza Drive · Browns Plains
+
+**Precio:** Gratis con inscripción.
+
+- 2027-01-23 · 14:00–16:00 · Australia/Brisbane · Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.
+
+**Disponibilidad:** Inscripción desde 2027-01-16. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.
+
+[fuente](https://loganlibraries.events.mylibrary.digital/event?id=260202)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260187) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260218) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260206) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260193) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260177) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260197) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260224) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260214) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260201) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://loganlibraries.events.mylibrary.digital/event?id=260202) · 2026-11-09
+
+## CP2368 · Aotearoa Aerospace Academy · Mission to Space · Christchurch
+
+Nueva Zelanda · Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.
+
+**Idioma:** La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+
+**Programa:** Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+**Alojamiento:** Actividades diurnas presenciales. Alojamiento por separado.
+
+**Fechas / estado:** Tres días lectivos de 09:00 a 15:00.
+
+**Precio / año:** 2026 · 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.
+
+**Incluye:** Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+**Cargos extra:** Confirme nivel escolar, idioma de clase, comidas y plaza.
+
+**Pago:** El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve.
+
+**Matvey:** Para estudiantes de secundaria según el organizador. Opción para más adelante.
+
+**Oscar:** Para estudiantes de secundaria según el organizador. Opción para más adelante.
+
+**Motivo de selección:** Tres días lectivos de 09:00 a 15:00.
+
+### Antes de solicitar plaza
+
+- Confirme nivel escolar, idioma de clase, comidas y plaza.
+
+### Mission to Space
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Lugar:** Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram
+
+**Precio:** 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.
+
+- 2026-12-21 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+- 2026-12-22 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+- 2026-12-23 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+[fuente](https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026/tickets) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/host/aotearoa-aerospace-academy) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi) · 2026-11-09
+
+## CP2369 · Aotearoa Aerospace Academy · Mission to Space · Auckland
+
+Nueva Zelanda · 36 Dominion Street · Takapuna · Auckland
+
+**Se ha comprobado:** 2026-11-09
+
+**Edad:** Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.
+
+**Idioma:** La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+
+**Programa:** Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+**Alojamiento:** Actividades diurnas presenciales. Alojamiento por separado.
+
+**Fechas / estado:** Tres días lectivos de 09:00 a 15:00.
+
+**Precio / año:** 2027 · 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.
+
+**Incluye:** Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+**Cargos extra:** Confirme nivel escolar, idioma de clase, comidas y plaza.
+
+**Pago:** El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve.
+
+**Matvey:** Para estudiantes de secundaria según el organizador. Opción para más adelante.
+
+**Oscar:** Para estudiantes de secundaria según el organizador. Opción para más adelante.
+
+**Motivo de selección:** Tres días lectivos de 09:00 a 15:00.
+
+### Antes de solicitar plaza
+
+- Confirme nivel escolar, idioma de clase, comidas y plaza.
+
+### Mission to Space
+
+**Fechas / estado:** 2027-01-25 — 2027-01-27
+
+**Lugar:** 36 Dominion Street · Takapuna · Auckland
+
+**Precio:** 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.
+
+- 2027-01-25 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+- 2027-01-26 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+- 2027-01-27 · 09:00–15:00 · Pacific/Auckland · Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.
+
+[fuente](https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027)
+
+### Fuentes
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027/tickets) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://events.humanitix.com/host/aotearoa-aerospace-academy) · 2026-11-09
+
+- [Página oficial del organizador o condiciones de entrada.](https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

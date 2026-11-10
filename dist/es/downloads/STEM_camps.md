@@ -91158,6 +91158,246 @@ Condiciones: Matvey: Para 9 años, compruebe el curso escolar y la preparación 
 Fuente: https://stemlook.com.au/products/web-creators-intro-camp/
 Se ha comprobado: 2026-11-09
 
+### CP2366-20270111-20270111-logan-261000 · Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-11–2027-01-11
+
+Lugar: Australia · Logan Central Library · 26 Wilbur Street
+Fecha: 2027-01-11 — 2027-01-11
+Edad: Edad de 8 a 14 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=261000
+Se ha comprobado: 2026-11-09
+
+### CP2366-20270115-20270115-logan-255940 · Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-15–2027-01-15
+
+Lugar: Australia · Beenleigh Library · Crete Street
+Fecha: 2027-01-15 — 2027-01-15
+Edad: Edad de 8 a 14 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=255940
+Se ha comprobado: 2026-11-09
+
+### CP2366-20270118-20270118-logan-261120 · Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-18–2027-01-18
+
+Lugar: Australia · Marsden Library · 35 Chambers Flat Road
+Fecha: 2027-01-18 国 2027-01-18
+Edad: Edad de 8 a 14 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=261120
+Se ha comprobado: 2026-11-09
+
+### CP2367-20261216-20261216-logan-260187 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2026-12-16–2026-12-16
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2026-12-16 — 2026-12-16
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260187
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270113-20270113-logan-260218 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-13–2027-01-13
+
+Lugar: Australia · Jimboomba Library · 18–22 Honora Street
+Fecha: 2027-01-13 — 2027-01-13
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260218
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270114-20270114-logan-260206 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-14–2027-01-14
+
+Lugar: Australia · Jimboomba Library · 18–22 Honora Street
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260206
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270114-20270114-logan-260193 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-14–2027-01-14
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2027-01-14 — 2027-01-14
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260193
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270116-20270116-logan-260177 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-16–2027-01-16
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2027-01-16 — 2027-01-16
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260177
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270118-20270118-logan-260197 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-18–2027-01-18
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2027-01-18 国 2027-01-18
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260197
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270119-20270119-logan-260224 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-19–2027-01-19
+
+Lugar: Australia · Jimboomba Library · 18–22 Honora Street
+Fecha: 2027-01-19 — 2027-01-19
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260224
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270122-20270122-logan-260214 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-22–2027-01-22
+
+Lugar: Australia · Jimboomba Library · 18–22 Honora Street
+Fecha: 2027-01-22 — 2027-01-22
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260214
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270122-20270122-logan-260201 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-22–2027-01-22
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2027-01-22 — 2027-01-22
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260201
+Se ha comprobado: 2026-11-09
+
+### CP2367-20270123-20270123-logan-260202 · Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-23–2027-01-23
+
+Lugar: Australia · Logan West Library · 69 Grand Plaza Drive · Browns Plains
+Fecha: 2027-01-23 — 2027-01-23
+Edad: Edad de 8 a 18 años. Se requiere un adulto acompañante.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · Gratis con inscripción. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad. Oscar: El niño está por debajo de la franja publicada. Cargos extra: El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años. Pago: Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral.
+Fuente: https://loganlibraries.events.mylibrary.digital/event?id=260202
+Se ha comprobado: 2026-11-09
+
+### CP2368-20261221-20261223-christchurch · Aotearoa Aerospace Academy · Mission to Space · Christchurch · Mission to Space · 2026-12-21–2026-12-23
+
+Lugar: Nueva Zelanda · Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram
+Fecha: 2026-12-21 - 2026-12-23
+Edad: Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2026/27 · 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para estudiantes de secundaria según el organizador. Opción para más adelante. Oscar: Para estudiantes de secundaria según el organizador. Opción para más adelante. Cargos extra: Confirme nivel escolar, idioma de clase, comidas y plaza. Pago: El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve.
+Fuente: https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026
+Se ha comprobado: 2026-11-09
+
+### CP2369-20270125-20270127-auckland · Aotearoa Aerospace Academy · Mission to Space · Auckland · Mission to Space · 2027-01-25–2027-01-27
+
+Lugar: Nueva Zelanda · 36 Dominion Street · Takapuna · Auckland
+Fecha: 2027-01-25 国 2027-01-27
+Edad: Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La ficha pública está en inglés. Confirme el idioma oral de la actividad.
+Marca de idioma: materials; apoyo: no declarado
+Costo: 2027 · 945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD. · cargos y condiciones en la ficha
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Condiciones: Matvey: Para estudiantes de secundaria según el organizador. Opción para más adelante. Oscar: Para estudiantes de secundaria según el organizador. Opción para más adelante. Cargos extra: Confirme nivel escolar, idioma de clase, comidas y plaza. Pago: El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve.
+Fuente: https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

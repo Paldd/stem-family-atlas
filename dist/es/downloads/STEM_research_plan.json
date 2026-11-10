@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 351,
+    "prepared_ui_version": 352,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 350,
-    "previous_verified_commit": "e27d1f2b35b8925070c53370342a8a706c51c539"
+    "previous_verified_ui_version": 351,
+    "previous_verified_commit": "b4107e541a029477bc8578404e1741cb6ee97605"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 350,
-    "published_version": 350,
-    "latest_source_commit": "e27d1f2b35b8925070c53370342a8a706c51c539",
-    "published_commit": "e27d1f2b35b8925070c53370342a8a706c51c539",
-    "latest_workflow": 42731177946,
+    "latest_source_version": 351,
+    "published_version": 351,
+    "latest_source_commit": "b4107e541a029477bc8578404e1741cb6ee97605",
+    "published_commit": "b4107e541a029477bc8578404e1741cb6ee97605",
+    "latest_workflow": 42734166422,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -38439,5 +38439,155 @@
         "schedule_source": "https://stemlook.com.au/product-category/online-camps/"
       }
     ]
+  },
+  "oceania_expos_vex_and_library_robotics_v352": {
+    "version": 352,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "legacy_overlay_event_ids": [
+      "C385",
+      "C3192",
+      "E336"
+    ],
+    "refreshed_events": [
+      "C385",
+      "C3192",
+      "E336"
+    ],
+    "new_exhibition_ids": [
+      "E771",
+      "E772",
+      "E773",
+      "E774",
+      "E775"
+    ],
+    "new_dossier_ids": [
+      "CP2366",
+      "CP2367",
+      "CP2368",
+      "CP2369"
+    ],
+    "logan_guided": [
+      [
+        261000,
+        "central",
+        "2027-01-11",
+        "14:00",
+        "15:30",
+        "2026-12-28"
+      ],
+      [
+        255940,
+        "beenleigh",
+        "2027-01-15",
+        "14:00",
+        "15:30",
+        "2026-12-16"
+      ],
+      [
+        261120,
+        "marsden",
+        "2027-01-18",
+        "14:00",
+        "15:30",
+        "2027-01-04"
+      ]
+    ],
+    "logan_book_and_build": [
+      [
+        260187,
+        "west",
+        "2026-12-16",
+        "14:00",
+        "16:00",
+        "2026-12-09"
+      ],
+      [
+        260218,
+        "jimboomba",
+        "2027-01-13",
+        "14:00",
+        "16:00",
+        "2027-01-06"
+      ],
+      [
+        260206,
+        "jimboomba",
+        "2027-01-14",
+        "10:00",
+        "12:00",
+        "2027-01-07"
+      ],
+      [
+        260193,
+        "west",
+        "2027-01-14",
+        "14:00",
+        "16:00",
+        "2027-01-07"
+      ],
+      [
+        260177,
+        "west",
+        "2027-01-16",
+        "10:00",
+        "12:00",
+        "2027-01-09"
+      ],
+      [
+        260197,
+        "west",
+        "2027-01-18",
+        "14:00",
+        "16:00",
+        "2027-01-11"
+      ],
+      [
+        260224,
+        "jimboomba",
+        "2027-01-19",
+        "14:00",
+        "16:00",
+        "2027-01-12"
+      ],
+      [
+        260214,
+        "jimboomba",
+        "2027-01-22",
+        "10:00",
+        "12:00",
+        "2027-01-15"
+      ],
+      [
+        260201,
+        "west",
+        "2027-01-22",
+        "14:00",
+        "16:00",
+        "2027-01-15"
+      ],
+      [
+        260202,
+        "west",
+        "2027-01-23",
+        "14:00",
+        "16:00",
+        "2027-01-16"
+      ]
+    ],
+    "logan_coverage": "individually-verified-organizer-pages",
+    "nz_vex_registration_utc": "2026-12-03T17:00:00Z",
+    "nz_vex_payment_by": "2026-11-20",
+    "nz_vex_currency_conflict": [
+      "AUD",
+      "NZD"
+    ],
+    "nz_vex_overseas_acceptance_confirmed": false,
+    "nz_vex_inspection_hours_confirmed": false,
+    "space_student_base_nzd": 945,
+    "space_required_fee_nzd": 54.9,
+    "space_student_total_nzd": 999.9,
+    "ita_child_admission_confirmed": false
   }
 }

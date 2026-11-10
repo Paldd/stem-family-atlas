@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2365,
+    "dossiers": 2369,
     "countries": 140,
     "swiss": 153,
     "by_status": {
-      "published_2026_27": 326,
+      "published_2026_27": 330,
       "published_2027": 657,
       "partial_2027": 168,
       "next_unannounced": 488,
@@ -50,12 +50,12 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3260
+    "source_urls": 3280
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 54
+      "count": 56
     },
     {
       "country": "Austria",
@@ -383,7 +383,7 @@
     },
     {
       "country": "Nueva Zelanda",
-      "count": 29
+      "count": 31
     },
     {
       "country": "Nueva Caledonia",
@@ -414452,6 +414452,1125 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2366",
+      "slug": "logan-libraries-spike-prime-holidays",
+      "provider": "Logan Libraries · LEGO SPIKE Prime",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Beenleigh Library · Crete Street / Logan Central Library · 26 Wilbur Street / Marsden Library · 35 Chambers Flat Road",
+      "age": "Edad de 8 a 14 años. Se requiere un adulto acompañante.",
+      "programme": "Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "La ficha pública está en inglés. Confirme el idioma oral de la actividad.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "variant_key": "logan-261000",
+            "label": "LEGO SPIKE Prime",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+            "place": "Logan Central Library · 26 Wilbur Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T04:00:00Z",
+                "end_utc": "2027-01-11T05:30:00Z",
+                "topic": "Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 14,
+            "registration_opens": "2026-12-28",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2026-12-28. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "variant_key": "logan-255940",
+            "label": "LEGO SPIKE Prime",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+            "place": "Beenleigh Library · Crete Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T04:00:00Z",
+                "end_utc": "2027-01-15T05:30:00Z",
+                "topic": "Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 14,
+            "registration_opens": "2026-12-16",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2026-12-16. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "variant_key": "logan-261120",
+            "label": "LEGO SPIKE Prime",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+            "place": "Marsden Library · 35 Chambers Flat Road",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "14:00",
+                "end_time": "15:30",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T04:00:00Z",
+                "end_utc": "2027-01-18T05:30:00Z",
+                "topic": "Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 14,
+            "registration_opens": "2027-01-04",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-04. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 0,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "Gratis con inscripción.",
+        "included": "Taller gratuito de montaje de mecanismos y programación con LEGO SPIKE Prime.",
+        "extras": "El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+        "deposit": "Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral."
+      },
+      "accommodation": "Actividades diurnas presenciales. Alojamiento por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El niño está por debajo de la franja publicada."
+        }
+      },
+      "editorial_reason": "Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral."
+      ],
+      "sources": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2366-20270111-20270111-logan-261000"
+          ]
+        },
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2366-20270115-20270115-logan-255940"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2366-20270118-20270118-logan-261120"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2367",
+      "slug": "logan-libraries-spike-book-build",
+      "provider": "Logan Libraries · LEGO SPIKE Book and Build",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Jimboomba Library · 18–22 Honora Street / Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "age": "Edad de 8 a 18 años. Se requiere un adulto acompañante.",
+      "programme": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "language": "La ficha pública está en inglés. Confirme el idioma oral de la actividad.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.",
+        "sessions": [
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-23",
+            "2027-01-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "variant_key": "logan-260187",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T04:00:00Z",
+                "end_utc": "2026-12-16T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2026-12-09",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2026-12-09. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "variant_key": "logan-260218",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+            "place": "Jimboomba Library · 18–22 Honora Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T04:00:00Z",
+                "end_utc": "2027-01-13T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-06",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-06. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "logan-260206",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+            "place": "Jimboomba Library · 18–22 Honora Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T00:00:00Z",
+                "end_utc": "2027-01-14T02:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-07",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-07. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "variant_key": "logan-260193",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T04:00:00Z",
+                "end_utc": "2027-01-14T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-07",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-07. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "variant_key": "logan-260177",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-16T00:00:00Z",
+                "end_utc": "2027-01-16T02:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-09",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-09. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "variant_key": "logan-260197",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T04:00:00Z",
+                "end_utc": "2027-01-18T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-11",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-11. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "variant_key": "logan-260224",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+            "place": "Jimboomba Library · 18–22 Honora Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T04:00:00Z",
+                "end_utc": "2027-01-19T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-12",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-12. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "variant_key": "logan-260214",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+            "place": "Jimboomba Library · 18–22 Honora Street",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T00:00:00Z",
+                "end_utc": "2027-01-22T02:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-15",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-15. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "variant_key": "logan-260201",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T04:00:00Z",
+                "end_utc": "2027-01-22T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-15",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-15. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          },
+          {
+            "start": "2027-01-23",
+            "end": "2027-01-23",
+            "variant_key": "logan-260202",
+            "label": "LEGO SPIKE Book and Build",
+            "price": "Gratis con inscripción.",
+            "source": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+            "place": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-23",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Brisbane",
+                "ical_timed": true,
+                "start_utc": "2027-01-23T04:00:00Z",
+                "end_utc": "2027-01-23T06:00:00Z",
+                "topic": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE."
+              }
+            ],
+            "age_min": 8,
+            "age_max": 18,
+            "registration_opens": "2027-01-16",
+            "availability": {
+              "status": "announced",
+              "label": "Inscripción desde 2027-01-16. El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+              "checked": "2026-11-09"
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 0,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "Gratis con inscripción.",
+        "included": "Tras una introducción, el adulto construye y programa con el niño. Un kit por familia y una reserva al día. Si tiene un dispositivo con Bluetooth, instale la aplicación LEGO SPIKE.",
+        "extras": "El niño va acompañado por un adulto. El acompañamiento es obligatorio para menores de 12 años.",
+        "deposit": "Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral."
+      },
+      "accommodation": "Actividades diurnas presenciales. Alojamiento por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "La edad encaja. Confirme plaza, acompañamiento e idioma de la actividad."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "El niño está por debajo de la franja publicada."
+        }
+      },
+      "editorial_reason": "Cada turno tiene su fecha de apertura. La biblioteca confirma la plaza y la participación.",
+      "shortlist": [],
+      "questions": [
+        "Confirme el carné de biblioteca, la inscripción de visitantes, la plaza y el idioma oral."
+      ],
+      "sources": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20261216-20261216-logan-260187"
+          ]
+        },
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270113-20270113-logan-260218"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270114-20270114-logan-260206"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270114-20270114-logan-260193"
+          ]
+        },
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270116-20270116-logan-260177"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270118-20270118-logan-260197"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270119-20270119-logan-260224"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270122-20270122-logan-260214"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270122-20270122-logan-260201"
+          ]
+        },
+        {
+          "start": "2027-01-23",
+          "end": "2027-01-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2367-20270123-20270123-logan-260202"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2368",
+      "slug": "nz-mission-to-space-christchurch",
+      "provider": "Aotearoa Aerospace Academy · Mission to Space · Christchurch",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram",
+      "age": "Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.",
+      "programme": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "language": "La ficha pública está en inglés. Confirme el idioma oral de la actividad.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Tres días lectivos de 09:00 a 15:00.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "variant_key": "christchurch",
+            "label": "Mission to Space",
+            "price": "945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.",
+            "source": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026",
+            "place": "Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-22T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T20:00:00Z",
+                "end_utc": "2026-12-23T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 999.9,
+        "currency": "NZD",
+        "unit": "course",
+        "label": "945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.",
+        "included": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.",
+        "extras": "Confirme nivel escolar, idioma de clase, comidas y plaza.",
+        "deposit": "El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve."
+      },
+      "accommodation": "Actividades diurnas presenciales. Alojamiento por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Para estudiantes de secundaria según el organizador. Opción para más adelante."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para estudiantes de secundaria según el organizador. Opción para más adelante."
+        }
+      },
+      "editorial_reason": "Tres días lectivos de 09:00 a 15:00.",
+      "shortlist": [],
+      "questions": [
+        "Confirme nivel escolar, idioma de clase, comidas y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026/tickets",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://events.humanitix.com/host/aotearoa-aerospace-academy",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2368-20261221-20261223-christchurch"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2369",
+      "slug": "nz-mission-to-space-auckland",
+      "provider": "Aotearoa Aerospace Academy · Mission to Space · Auckland",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "36 Dominion Street · Takapuna · Auckland",
+      "age": "Estudiantes y grupos de secundaria. Confirme el curso exacto y la admisión desde el extranjero.",
+      "programme": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.",
+      "formats": [
+        "day"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "language": "La ficha pública está en inglés. Confirme el idioma oral de la actividad.",
+      "confirmed_instruction_languages": [],
+      "confirmed_support_languages": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Tres días lectivos de 09:00 a 15:00.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-27",
+            "variant_key": "auckland",
+            "label": "Mission to Space",
+            "price": "945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.",
+            "source": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027",
+            "place": "36 Dominion Street · Takapuna · Auckland",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T20:00:00Z",
+                "end_utc": "2027-01-26T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T20:00:00Z",
+                "end_utc": "2027-01-27T02:00:00Z",
+                "topic": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo."
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 999.9,
+        "currency": "NZD",
+        "unit": "course",
+        "label": "945 NZD por estudiante más un cargo obligatorio de 54.90 NZD. Total de 999.90 NZD.",
+        "included": "Programa diurno de ingeniería espacial. Rover de Marte, cohetes a escala, robótica y retos en equipo.",
+        "extras": "Confirme nivel escolar, idioma de clase, comidas y plaza.",
+        "deposit": "El organizador admite devoluciones hasta 14 días antes del inicio. Confirme qué parte del cargo se devuelve."
+      },
+      "accommodation": "Actividades diurnas presenciales. Alojamiento por separado.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Para estudiantes de secundaria según el organizador. Opción para más adelante."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para estudiantes de secundaria según el organizador. Opción para más adelante."
+        }
+      },
+      "editorial_reason": "Tres días lectivos de 09:00 a 15:00.",
+      "shortlist": [],
+      "questions": [
+        "Confirme nivel escolar, idioma de clase, comidas y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027/tickets",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://events.humanitix.com/host/aotearoa-aerospace-academy",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi",
+          "title": "Página oficial del organizador o condiciones de entrada.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2369-20270125-20270127-auckland"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -433012,7 +434131,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2365,
+      "total_dossiers": 2369,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -458637,6 +459756,81 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2366",
+      "event_id": "CP2366-20270111-20270111-logan-261000",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2366",
+      "event_id": "CP2366-20270115-20270115-logan-255940",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2366",
+      "event_id": "CP2366-20270118-20270118-logan-261120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20261216-20261216-logan-260187",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270113-20270113-logan-260218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270114-20270114-logan-260206",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270114-20270114-logan-260193",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270116-20270116-logan-260177",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270118-20270118-logan-260197",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270119-20270119-logan-260224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270122-20270122-logan-260214",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270122-20270122-logan-260201",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2367",
+      "event_id": "CP2367-20270123-20270123-logan-260202",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2368",
+      "event_id": "CP2368-20261221-20261223-christchurch",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2369",
+      "event_id": "CP2369-20270125-20270127-auckland",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -463855,10 +465049,25 @@
     "CP2361-20270121-20270121-online-20270121",
     "CP2362-20270115-20270115-online-20270115",
     "CP2363-20270113-20270113-online-20270113",
-    "CP2364-20270119-20270119-online-20270119"
+    "CP2364-20270119-20270119-online-20270119",
+    "CP2366-20270111-20270111-logan-261000",
+    "CP2366-20270115-20270115-logan-255940",
+    "CP2366-20270118-20270118-logan-261120",
+    "CP2367-20261216-20261216-logan-260187",
+    "CP2367-20270113-20270113-logan-260218",
+    "CP2367-20270114-20270114-logan-260206",
+    "CP2367-20270114-20270114-logan-260193",
+    "CP2367-20270116-20270116-logan-260177",
+    "CP2367-20270118-20270118-logan-260197",
+    "CP2367-20270119-20270119-logan-260224",
+    "CP2367-20270122-20270122-logan-260214",
+    "CP2367-20270122-20270122-logan-260201",
+    "CP2367-20270123-20270123-logan-260202",
+    "CP2368-20261221-20261223-christchurch",
+    "CP2369-20270125-20270127-auckland"
   ],
   "integration": {
-    "generated_sessions": 4808,
+    "generated_sessions": 4823,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

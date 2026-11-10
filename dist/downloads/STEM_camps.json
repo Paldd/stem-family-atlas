@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5773,
-      "holiday": 5140,
+      "records": 5788,
+      "holiday": 5155,
       "regular": 234,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -484795,6 +484795,1698 @@
         "label": "Вариант активен в карточке. В индексируемом каталоге встречается отметка о полном наборе. Наличие уточнить.",
         "checked": "2026-11-09"
       }
+    },
+    {
+      "id": "CP2366-20270111-20270111-logan-261000",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-11–2027-01-11",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan Central Library · 26 Wilbur Street",
+      "start": "2027-01-11",
+      "end": "2027-01-11",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–14 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-prime-holidays",
+      "camp_programme_id": "CP2366",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T04:00:00Z",
+          "end_utc": "2027-01-11T05:30:00Z",
+          "topic": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2026-12-28. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2366-20270115-20270115-logan-255940",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-15–2027-01-15",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Beenleigh Library · Crete Street",
+      "start": "2027-01-15",
+      "end": "2027-01-15",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–14 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-prime-holidays",
+      "camp_programme_id": "CP2366",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-15",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T04:00:00Z",
+          "end_utc": "2027-01-15T05:30:00Z",
+          "topic": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2026-12-16. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2366-20270118-20270118-logan-261120",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Prime · LEGO SPIKE Prime · 2027-01-18–2027-01-18",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Marsden Library · 35 Chambers Flat Road",
+      "start": "2027-01-18",
+      "end": "2027-01-18",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–14 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261000",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=255940",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=261120",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-prime-holidays",
+      "camp_programme_id": "CP2366",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T04:00:00Z",
+          "end_utc": "2027-01-18T05:30:00Z",
+          "topic": "Бесплатная мастерская по сборке механизмов и программированию LEGO SPIKE Prime."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-04. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20261216-20261216-logan-260187",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2026-12-16–2026-12-16",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2026/27 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-16",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T04:00:00Z",
+          "end_utc": "2026-12-16T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2026-12-09. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270113-20270113-logan-260218",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-13–2027-01-13",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Jimboomba Library · 18–22 Honora Street",
+      "start": "2027-01-13",
+      "end": "2027-01-13",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-13",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T04:00:00Z",
+          "end_utc": "2027-01-13T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-06. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270114-20270114-logan-260206",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-14–2027-01-14",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Jimboomba Library · 18–22 Honora Street",
+      "start": "2027-01-14",
+      "end": "2027-01-14",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-14",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T00:00:00Z",
+          "end_utc": "2027-01-14T02:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-07. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270114-20270114-logan-260193",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-14–2027-01-14",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2027-01-14",
+      "end": "2027-01-14",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-14",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T04:00:00Z",
+          "end_utc": "2027-01-14T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-07. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270116-20270116-logan-260177",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-16–2027-01-16",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-16",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-16T00:00:00Z",
+          "end_utc": "2027-01-16T02:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-09. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270118-20270118-logan-260197",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-18–2027-01-18",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2027-01-18",
+      "end": "2027-01-18",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T04:00:00Z",
+          "end_utc": "2027-01-18T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-11. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270119-20270119-logan-260224",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-19–2027-01-19",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Jimboomba Library · 18–22 Honora Street",
+      "start": "2027-01-19",
+      "end": "2027-01-19",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-19",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T04:00:00Z",
+          "end_utc": "2027-01-19T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-12. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270122-20270122-logan-260214",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-22–2027-01-22",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Jimboomba Library · 18–22 Honora Street",
+      "start": "2027-01-22",
+      "end": "2027-01-22",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-22",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T00:00:00Z",
+          "end_utc": "2027-01-22T02:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-15. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270122-20270122-logan-260201",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-22–2027-01-22",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2027-01-22",
+      "end": "2027-01-22",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-22",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T04:00:00Z",
+          "end_utc": "2027-01-22T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-15. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2367-20270123-20270123-logan-260202",
+      "block": "Лагеря",
+      "title": "Logan Libraries · LEGO SPIKE Book and Build · LEGO SPIKE Book and Build · 2027-01-23–2027-01-23",
+      "country": "Австралия",
+      "region": "Океания",
+      "city": "Logan West Library · 69 Grand Plaza Drive · Browns Plains",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "period": "У каждой смены своя дата открытия записи. Для участия нужны место и подтверждение библиотеки.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 8–18 лет. Нужен сопровождающий взрослый.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · Бесплатно. Требуется регистрация. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "source": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+      "references": [
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/series?si=&sn=school+holidays",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260187",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260218",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260206",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260193",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260177",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260197",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260224",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260214",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260201",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://loganlibraries.events.mylibrary.digital/event?id=260202",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Для участия подтвердить место, сопровождение и язык занятия. Оскар: Ребёнок младше опубликованного диапазона. Доплаты: Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен. Оплата: Проверить номер читательского билета, возможность записи приезжих, место и устный язык.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "logan-libraries-spike-book-build",
+      "camp_programme_id": "CP2367",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-23",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Brisbane",
+          "ical_timed": true,
+          "start_utc": "2027-01-23T04:00:00Z",
+          "end_utc": "2027-01-23T06:00:00Z",
+          "topic": "После вводного объяснения взрослый собирает и программирует с ребёнком. Один комплект на семью и одна запись в день. Если есть устройство с Bluetooth, установить приложение LEGO SPIKE."
+        }
+      ],
+      "availability": {
+        "status": "announced",
+        "label": "Открытие записи 2027-01-16. Ребёнка сопровождает взрослый. Для детей младше 12 лет взрослый обязателен.",
+        "checked": "2026-11-09"
+      }
+    },
+    {
+      "id": "CP2368-20261221-20261223-christchurch",
+      "block": "Лагеря",
+      "title": "Aotearoa Aerospace Academy · Mission to Space · Christchurch · Mission to Space · 2026-12-21–2026-12-23",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "city": "Air Force Museum of New Zealand · 45 Harvard Avenue · Wigram",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "period": "Три учебных дня с 09:00 до 15:00.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Учащиеся средней школы и школьные группы. Точный класс и иностранный допуск уточнить.",
+      "mat": "Нет сейчас; будущая возрастная ступень",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2026/27 · 945 NZD за ученика плюс обязательный сбор 54.90 NZD. Итого 999.90 NZD. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P4 — будущий возраст",
+      "action": "Подтвердить школьную ступень, язык занятий, питание и место.",
+      "source": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026",
+      "references": [
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-otautahi-december-2026/tickets",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://events.humanitix.com/host/aotearoa-aerospace-academy",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Для учащихся средней школы по условиям организатора. Подходит на будущее. Оскар: Для учащихся средней школы по условиям организатора. Подходит на будущее. Доплаты: Подтвердить школьную ступень, язык занятий, питание и место. Оплата: Организатор допускает возврат до 14 дней перед началом. Подтвердить, какая часть сбора возвращается.",
+      "iso": [
+        "NZL"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nz-mission-to-space-christchurch",
+      "camp_programme_id": "CP2368",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T20:00:00Z",
+          "end_utc": "2026-12-21T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T20:00:00Z",
+          "end_utc": "2026-12-22T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T20:00:00Z",
+          "end_utc": "2026-12-23T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        }
+      ]
+    },
+    {
+      "id": "CP2369-20270125-20270127-auckland",
+      "block": "Лагеря",
+      "title": "Aotearoa Aerospace Academy · Mission to Space · Auckland · Mission to Space · 2027-01-25–2027-01-27",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "city": "36 Dominion Street · Takapuna · Auckland",
+      "start": "2027-01-25",
+      "end": "2027-01-27",
+      "period": "Три учебных дня с 09:00 до 15:00.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Учащиеся средней школы и школьные группы. Точный класс и иностранный допуск уточнить.",
+      "mat": "Нет сейчас; будущая возрастная ступень",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Очные дневные занятия. Проживание отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи.",
+      "language": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "cost": "2027 · 945 NZD за ученика плюс обязательный сбор 54.90 NZD. Итого 999.90 NZD. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P4 — будущий возраст",
+      "action": "Подтвердить школьную ступень, язык занятий, питание и место.",
+      "source": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027",
+      "references": [
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://events.humanitix.com/mission-to-space-camp-auckland-25-27-january-2027/tickets",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://events.humanitix.com/host/aotearoa-aerospace-academy",
+          "label": "Официальная страница организатора или правила входа."
+        },
+        {
+          "url": "https://www.bayscience.nz/post/mission-to-space-camp-nz-junior-astronomy-opportunities-for-rangatahi",
+          "label": "Официальная страница организатора или правила входа."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Для учащихся средней школы по условиям организатора. Подходит на будущее. Оскар: Для учащихся средней школы по условиям организатора. Подходит на будущее. Доплаты: Подтвердить школьную ступень, язык занятий, питание и место. Оплата: Организатор допускает возврат до 14 дней перед началом. Подтвердить, какая часть сбора возвращается.",
+      "iso": [
+        "NZL"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Публичное описание на английском. Устный язык занятия уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nz-mission-to-space-auckland",
+      "camp_programme_id": "CP2369",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2027-01-24T20:00:00Z",
+          "end_utc": "2027-01-25T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T20:00:00Z",
+          "end_utc": "2027-01-26T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "Pacific/Auckland",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T20:00:00Z",
+          "end_utc": "2027-01-27T02:00:00Z",
+          "topic": "Дневная программа по космической инженерии. Марсоход, модельные ракеты, робототехника и командные задачи."
+        }
+      ]
     },
     {
       "id": "L491",
