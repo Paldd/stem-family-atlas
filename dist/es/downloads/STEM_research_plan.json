@@ -13761,11 +13761,11 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 378,
+    "prepared_ui_version": 379,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 377,
-    "previous_verified_commit": "76e612385c761de2969e64e4807e4710084af366",
-    "previous_working_ui_version": 377
+    "previous_verified_ui_version": 378,
+    "previous_verified_commit": "fffc4e2719d2dad1f5fcf8936c8d7572034303ef",
+    "previous_working_ui_version": 378
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -41262,6 +41262,104 @@
     ],
     "legacy_overlay_league_ids": [
       "fll-singapore-bioglow"
+    ]
+  },
+  "winter_robotics_and_museum_v379": {
+    "version": 379,
+    "checked": "2026-11-10",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_verified_release": {
+      "version": 378,
+      "commit": "fffc4e2719d2dad1f5fcf8936c8d7572034303ef",
+      "workflow": 42839648907
+    },
+    "seongdong": {
+      "dossier_ids": [
+        "CP2495",
+        "CP2496",
+        "CP2497",
+        "CP2498",
+        "CP2499",
+        "CP2500",
+        "CP2501",
+        "CP2502",
+        "CP2503",
+        "CP2504",
+        "CP2505",
+        "CP2506",
+        "CP2507",
+        "CP2508",
+        "CP2509",
+        "CP2510",
+        "CP2511"
+      ],
+      "published_meetings": 35,
+      "family_admission_unconfirmed": true,
+      "language_evidence": "materials",
+      "booking_statuses": {
+        "waitlist": 8,
+        "closed": 3,
+        "open": 6
+      }
+    },
+    "gaurkotek": {
+      "dossier_ids": [
+        "CP2512",
+        "CP2513",
+        "CP2514",
+        "CP2515",
+        "CP2516",
+        "CP2517"
+      ],
+      "campuses": 2,
+      "price_eur": [
+        60,
+        110
+      ],
+      "instructional_language_unconfirmed": true,
+      "local_timezone": "Europe/Madrid"
+    },
+    "momenta": {
+      "dossier_ids": [
+        "CP2518",
+        "CP2519"
+      ],
+      "instructional_language": "EN",
+      "general_holiday_programme": true
+    },
+    "lmo": {
+      "dossier_id": "CP2520",
+      "second_week_excluded": true,
+      "price_and_equipment_unconfirmed": true
+    },
+    "finland_fll": {
+      "event_ids": [
+        "C1568",
+        "C1569"
+      ],
+      "exact_league_deadline_unpublished": true
+    },
+    "raim": {
+      "indoor_event_id": "E863",
+      "outdoor_event_id": "E446",
+      "english_tour_time_conflict": "15:30/15:40"
+    },
+    "barca": {
+      "primary_event": "CP1671-20270111-20270115",
+      "alias_event": "CP2122-20270111-20270115-morning",
+      "dossier_ids": [
+        "CP1671",
+        "CP2122"
+      ],
+      "retain_dossier_links": true
+    },
+    "legacy_overlay_event_ids": [
+      "C1568",
+      "C1569",
+      "E335",
+      "E446",
+      "CP2122-20270111-20270115-morning"
     ]
   }
 }

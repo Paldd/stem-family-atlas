@@ -8360,9 +8360,9 @@ Oscar: Sí por edad; inscripción separada
 Idioma: La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier
-Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+Restricciones: El mismo turno matutino de 6–11 años en Blue Valley School. La ficha principal contiene el horario de 08:00 a 10:00.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 

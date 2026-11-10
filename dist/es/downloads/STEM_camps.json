@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 6162,
-      "holiday": 5491,
+      "records": 6188,
+      "holiday": 5517,
       "regular": 238,
       "self_paced_materials": 4,
-      "boarding": 1047,
-      "en_es_instruction": 1722,
+      "boarding": 1049,
+      "en_es_instruction": 1724,
       "en_es_support": 67,
-      "family_instruction": 1722,
+      "family_instruction": 1724,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 439,
@@ -457002,9 +457002,9 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-08",
+      "checked": "2026-11-10",
       "status": "Idea",
-      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.",
+      "note": "El mismo turno matutino de 6–11 años en Blue Valley School. La ficha principal contiene el horario de 08:00 a 10:00.",
       "iso": [
         "CRI"
       ],
@@ -457042,7 +457042,11 @@
       "availability": {
         "status": "unconfirmed",
         "label": "La página invita a inscribirse. Confirmar la plaza en el grupo."
-      }
+      },
+      "canonical_event_id": "CP1671-20270111-20270115",
+      "related_ids": [
+        "CP1671-20270111-20270115"
+      ]
     },
     {
       "id": "CP2123-20261214-20261218-claremont",
@@ -521868,6 +521872,2412 @@
       "languages": [
         "EN"
       ]
+    },
+    {
+      "id": "CP2495-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Seongdong · Tu propia galería en VR · Tu propia galería en VR · 2026-11-14–2026-11-14",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "1 sesiones programadas, 13:00–15:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Primaria, cursos 1–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Tu propia galería en VR",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "art",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-972",
+      "camp_programme_id": "CP2495",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Tu propia galería en VR",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T04:00:00Z",
+          "end_utc": "2026-11-14T06:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2496-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Seongdong · Automóvil del futuro y conducción inteligente · Automóvil del futuro y conducción inteligente · 2026-11-14–2026-11-14",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "1 sesiones programadas, 15:30–17:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Primaria, cursos 1–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Automóvil del futuro y conducción inteligente",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-973",
+      "camp_programme_id": "CP2496",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Automóvil del futuro y conducción inteligente",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T06:30:00Z",
+          "end_utc": "2026-11-14T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2497-20261121-20261121",
+      "block": "Campamentos",
+      "title": "Seongdong · Kandinsky y piano con IA · Kandinsky y piano con IA · 2026-11-21–2026-11-21",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "1 sesiones programadas, 13:00–15:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-18",
+      "age": "Primaria, cursos 1–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Kandinsky y piano con IA",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "ai",
+        "coding",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-974",
+      "camp_programme_id": "CP2497",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Kandinsky y piano con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T04:00:00Z",
+          "end_utc": "2026-11-21T06:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "La ficha del organizador indica inscripción cerrada."
+      },
+      "deadline_utc": "2026-11-18T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-18, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2498-20261121-20261121",
+      "block": "Campamentos",
+      "title": "Seongdong · Estudio de baile de robots LEGO · Estudio de baile de robots LEGO · 2026-11-21–2026-11-21",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "1 sesiones programadas, 15:30–17:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-18",
+      "age": "Primaria, cursos 1–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Estudio de baile de robots LEGO",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-975",
+      "camp_programme_id": "CP2498",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Estudio de baile de robots LEGO",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T06:30:00Z",
+          "end_utc": "2026-11-21T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "La ficha del organizador indica inscripción cerrada."
+      },
+      "deadline_utc": "2026-11-18T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-18, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2499-20261125-20261223",
+      "block": "Campamentos",
+      "title": "Seongdong · Centro de control espacial con IA · Centro de control espacial con IA · 2026-11-25–2026-12-23",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-25",
+      "end": "2026-12-23",
+      "period": "9 sesiones programadas, 18:30–20:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-22",
+      "age": "Primaria, cursos 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Centro de control espacial con IA",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "ai",
+        "coding",
+        "space"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-981",
+      "camp_programme_id": "CP2499",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-25",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-25T09:30:00Z",
+          "end_utc": "2026-11-25T11:30:00Z"
+        },
+        {
+          "date": "2026-11-27",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T09:30:00Z",
+          "end_utc": "2026-11-27T11:30:00Z"
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-02T09:30:00Z",
+          "end_utc": "2026-12-02T11:30:00Z"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-04T09:30:00Z",
+          "end_utc": "2026-12-04T11:30:00Z"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-09T09:30:00Z",
+          "end_utc": "2026-12-09T11:30:00Z"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-11T09:30:00Z",
+          "end_utc": "2026-12-11T11:30:00Z"
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-16T09:30:00Z",
+          "end_utc": "2026-12-16T11:30:00Z"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-18T09:30:00Z",
+          "end_utc": "2026-12-18T11:30:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Centro de control espacial con IA",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T09:30:00Z",
+          "end_utc": "2026-12-23T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-22T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-22, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2500-20261124-20261222",
+      "block": "Campamentos",
+      "title": "Seongdong · Rover lunar autónomo · Rover lunar autónomo · 2026-11-24–2026-12-22",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-24",
+      "end": "2026-12-22",
+      "period": "9 sesiones programadas, 18:30–20:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-20",
+      "age": "Primaria, cursos 3–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Rover lunar autónomo",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "space"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-984",
+      "camp_programme_id": "CP2500",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-11-24T09:30:00Z",
+          "end_utc": "2026-11-24T11:30:00Z"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-11-26T09:30:00Z",
+          "end_utc": "2026-11-26T11:30:00Z"
+        },
+        {
+          "date": "2026-12-01",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-01T09:30:00Z",
+          "end_utc": "2026-12-01T11:30:00Z"
+        },
+        {
+          "date": "2026-12-03",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-03T09:30:00Z",
+          "end_utc": "2026-12-03T11:30:00Z"
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-08T09:30:00Z",
+          "end_utc": "2026-12-08T11:30:00Z"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-10T09:30:00Z",
+          "end_utc": "2026-12-10T11:30:00Z"
+        },
+        {
+          "date": "2026-12-15",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-15T09:30:00Z",
+          "end_utc": "2026-12-15T11:30:00Z"
+        },
+        {
+          "date": "2026-12-17",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-17T09:30:00Z",
+          "end_utc": "2026-12-17T11:30:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Rover lunar autónomo",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T09:30:00Z",
+          "end_utc": "2026-12-22T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-20T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-20, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2501-20261113-20261113",
+      "block": "Campamentos",
+      "title": "Seongdong · Casa inteligente para mascotas · Casa inteligente para mascotas · 2026-11-13–2026-11-13",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "1 sesiones programadas, 18:30–20:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-10",
+      "age": "Primaria, cursos 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Casa inteligente para mascotas",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-985",
+      "camp_programme_id": "CP2501",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Casa inteligente para mascotas",
+          "ical_timed": true,
+          "start_utc": "2026-11-13T09:30:00Z",
+          "end_utc": "2026-11-13T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Venció el plazo de solicitud publicado."
+      },
+      "deadline_utc": "2026-11-10T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-10, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2502-20261120-20261120",
+      "block": "Campamentos",
+      "title": "Seongdong · Robot autónomo de reparto con IA · Robot autónomo de reparto con IA · 2026-11-20–2026-11-20",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "period": "1 sesiones programadas, 18:30–20:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-17",
+      "age": "Primaria, cursos 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Robot autónomo de reparto con IA",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-986",
+      "camp_programme_id": "CP2502",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Robot autónomo de reparto con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-20T09:30:00Z",
+          "end_utc": "2026-11-20T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-17T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-17, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2503-20261127-20261127",
+      "block": "Campamentos",
+      "title": "Seongdong · Taller de inventos con IA · Taller de inventos con IA · 2026-11-27–2026-11-27",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "period": "1 sesiones programadas, 18:30–20:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-24",
+      "age": "Primaria, cursos 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Taller de inventos con IA",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-987",
+      "camp_programme_id": "CP2503",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Taller de inventos con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-27T09:30:00Z",
+          "end_utc": "2026-11-27T11:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-24T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-24, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2504-20261121-20261128",
+      "block": "Campamentos",
+      "title": "Seongdong · Creación de un juego de parkour en XR · Creación de un juego de parkour en XR · 2026-11-21–2026-11-28",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-21",
+      "end": "2026-11-28",
+      "period": "2 sesiones programadas, 13:00–15:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-18",
+      "age": "Primaria, cursos 1–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Creación de un juego de parkour en XR",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-988",
+      "camp_programme_id": "CP2504",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Creación de un juego de parkour en XR",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T04:00:00Z",
+          "end_utc": "2026-11-21T06:00:00Z"
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Creación de un juego de parkour en XR",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T04:00:00Z",
+          "end_utc": "2026-11-28T06:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-18T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-18, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2505-20261121-20261121",
+      "block": "Campamentos",
+      "title": "Seongdong · Diseño de una casa inteligente · Diseño de una casa inteligente · 2026-11-21–2026-11-21",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "1 sesiones programadas, 15:30–17:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-18",
+      "age": "Primaria, cursos 3–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Diseño de una casa inteligente",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-989",
+      "camp_programme_id": "CP2505",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Diseño de una casa inteligente",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T06:30:00Z",
+          "end_utc": "2026-11-21T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-18T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-18, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2506-20261128-20261128",
+      "block": "Campamentos",
+      "title": "Seongdong · Arte cinético con robots · Arte cinético con robots · 2026-11-28–2026-11-28",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "1 sesiones programadas, 15:30–17:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-25",
+      "age": "Desde 7 años hasta 3.º de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Arte cinético con robots",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "art",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-990",
+      "camp_programme_id": "CP2506",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Arte cinético con robots",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T06:30:00Z",
+          "end_utc": "2026-11-28T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-25T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-25, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2507-20261114-20261121",
+      "block": "Campamentos",
+      "title": "Seongdong · Ingeniería de robots de 6–7 años · Ingeniería de robots de 6–7 años · 2026-11-14–2026-11-21",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-21",
+      "period": "2 sesiones programadas, 10:00–12:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Edad de 6–7 años.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Ingeniería de robots de 6–7 años",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: No cumple el nivel escolar de esta categoría. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-991",
+      "camp_programme_id": "CP2507",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Ingeniería de robots de 6–7 años",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T01:00:00Z",
+          "end_utc": "2026-11-14T03:00:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Ingeniería de robots de 6–7 años",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T01:00:00Z",
+          "end_utc": "2026-11-21T03:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2508-20261128-20261128",
+      "block": "Campamentos",
+      "title": "Seongdong · Ciudad inteligente y seguridad con IoT · Ciudad inteligente y seguridad con IoT · 2026-11-28–2026-11-28",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "1 sesiones programadas, 10:00–12:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-25",
+      "age": "Primaria, cursos 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Ciudad inteligente y seguridad con IoT",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-992",
+      "camp_programme_id": "CP2508",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Ciudad inteligente y seguridad con IoT",
+          "ical_timed": true,
+          "start_utc": "2026-11-28T01:00:00Z",
+          "end_utc": "2026-11-28T03:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-25T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-25, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2509-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Seongdong · Dibujos y recuerdos con IA · Dibujos y recuerdos con IA · 2026-11-14–2026-11-14",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "1 sesiones programadas, 10:00–12:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Primaria, cursos 1–2.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Dibujos y recuerdos con IA",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: No cumple el nivel escolar de esta categoría. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "ai",
+        "art",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-994",
+      "camp_programme_id": "CP2509",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Dibujos y recuerdos con IA",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T01:00:00Z",
+          "end_utc": "2026-11-14T03:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2510-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Seongdong · Parque infantil inteligente con IoT · Parque infantil inteligente con IoT · 2026-11-14–2026-11-14",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "1 sesiones programadas, 13:00–15:00 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Primaria, cursos 1–4.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Parque infantil inteligente con IoT",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-995",
+      "camp_programme_id": "CP2510",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Seoul",
+          "topic": "Parque infantil inteligente con IoT",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T04:00:00Z",
+          "end_utc": "2026-11-14T06:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "El portal muestra lista de espera. La participación sigue pendiente."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2511-20261114-20261114",
+      "block": "Campamentos",
+      "title": "Seongdong · Salud digital y sensores · Salud digital y sensores · 2026-11-14–2026-11-14",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "city": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "1 sesiones programadas, 15:30–17:30 en Seúl.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-11",
+      "age": "Desde 5.º de primaria hasta secundaria.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "gear": "Salud digital y sensores",
+      "language": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "cost": "2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.",
+      "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996",
+      "references": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: No cumple el nivel escolar de esta categoría. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "electronics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "seongdong-996",
+      "camp_programme_id": "CP2511",
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "KO"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "timezone": "Asia/Seoul",
+          "topic": "Salud digital y sensores",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T06:30:00Z",
+          "end_utc": "2026-11-14T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "open",
+        "label": "El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar."
+      },
+      "deadline_utc": "2026-11-11T14:59:00Z",
+      "deadline_timezone": "Asia/Seoul",
+      "deadline_note": "2026-11-11, 23:59 en Seúl."
+    },
+    {
+      "id": "CP2512-20261221-20261224",
+      "block": "Campamentos",
+      "title": "GaurkoTek · VR + Nintendo Switch + Construcción (Beasain) · VR + Nintendo Switch + Construcción · 2026-12-21–2026-12-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "Beasain · Nafarroa etorbidea 1",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-19",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Realidad virtual, Nintendo Switch y construcción de robots LEGO.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "technology",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-beasain-2026-12-21",
+      "camp_programme_id": "CP2512",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "VR + Nintendo Switch + Construcción",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T12:30:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "VR + Nintendo Switch + Construcción",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T12:30:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "VR + Nintendo Switch + Construcción",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "VR + Nintendo Switch + Construcción",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2513-20261228-20261231",
+      "block": "Campamentos",
+      "title": "GaurkoTek · Minecraft Magic Arena (Beasain) · Minecraft Magic Arena · 2026-12-28–2026-12-31",
+      "country": "España",
+      "region": "Europa",
+      "city": "Beasain · Nafarroa etorbidea 1",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-26",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Crear y probar una arena de juego propia en Minecraft.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-beasain-2026-12-28",
+      "camp_programme_id": "CP2513",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2514-20270104-20270105",
+      "block": "Campamentos",
+      "title": "GaurkoTek · Robots de puntería (Beasain) · Robots de puntería · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Beasain · Nafarroa etorbidea 1",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-02",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Dos días de mecánica, construcción y pruebas de puntería con robots.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2027 · EUR 60 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-beasain-2027-01-04",
+      "camp_programme_id": "CP2514",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Robots de puntería",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Robots de puntería",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2515-20261221-20261224",
+      "block": "Campamentos",
+      "title": "GaurkoTek · Minecraft Magic Arena (Astigarraga) · Minecraft Magic Arena · 2026-12-21–2026-12-24",
+      "country": "España",
+      "region": "Europa",
+      "city": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-19",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Crear y probar una arena de juego propia en Minecraft.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-astigarraga-2026-12-21",
+      "camp_programme_id": "CP2515",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-21T08:00:00Z",
+          "end_utc": "2026-12-21T12:30:00Z"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-22T08:00:00Z",
+          "end_utc": "2026-12-22T12:30:00Z"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T12:30:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Minecraft Magic Arena",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2516-20261228-20261231",
+      "block": "Campamentos",
+      "title": "GaurkoTek · Crea tu juego de mesa (Astigarraga) · Crea tu juego de mesa · 2026-12-28–2026-12-31",
+      "country": "España",
+      "region": "Europa",
+      "city": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-26",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Diseñar las reglas, la mecánica y los componentes de un juego de mesa.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "games",
+        "design",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-astigarraga-2026-12-28",
+      "camp_programme_id": "CP2516",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Crea tu juego de mesa",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T12:30:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Crea tu juego de mesa",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T12:30:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Crea tu juego de mesa",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T12:30:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Crea tu juego de mesa",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2517-20270104-20270105",
+      "block": "Campamentos",
+      "title": "GaurkoTek · Robots de puntería (Astigarraga) · Robots de puntería · 2027-01-04–2027-01-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "start": "2027-01-04",
+      "end": "2027-01-05",
+      "period": "Actividades de 09:00 a 13:30, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-02",
+      "age": "6–13 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "gear": "Dos días de mecánica, construcción y pruebas de puntería con robots.",
+      "language": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "cost": "2027 · EUR 60 por turno, tarifa base. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirme plazas e idioma del grupo concreto antes de pagar.",
+      "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+      "references": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "gaurkotek-astigarraga-2027-01-04",
+      "camp_programme_id": "CP2517",
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES",
+        "EU"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Robots de puntería",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T12:30:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Robots de puntería",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T12:30:00Z"
+        }
+      ],
+      "deadline_note": "El organizador cierra la inscripción 2 días antes del inicio o al agotarse las plazas. No se indica la hora exacta."
+    },
+    {
+      "id": "CP2518-20261226-20261228",
+      "block": "Campamentos",
+      "title": "Momenta Kids · Sasebo · Turno de invierno con inmersión en inglés. · 2026-12-26–2026-12-28",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "Punto de encuentro Hakata. Sede en Sasebo.",
+      "start": "2026-12-26",
+      "end": "2026-12-28",
+      "period": "Turno residencial. 2 noches y 3 días.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-05",
+      "age": "Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Turno residencial. 2 noches y 3 días.",
+      "entry": "Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "gear": "Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.",
+      "language": "Inmersión en inglés. El organizador admite principiantes.",
+      "cost": "2026/27 · JPY 68000 con impuesto incluido. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "source": "https://www.momentakids.com/wintercamp",
+      "references": [
+        {
+          "url": "https://www.momentakids.com/wintercamp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión. Oscar: Confirme la admisión según el curso o una plaza limitada para el último curso preescolar. Suplementos: Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro. Pago: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Inmersión en inglés. El organizador admite principiantes.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "momenta-winter-sasebo",
+      "camp_programme_id": "CP2518",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2519-20261226-20261228",
+      "block": "Campamentos",
+      "title": "Momenta Kids · Osaka · Turno de invierno con inmersión en inglés. · 2026-12-26–2026-12-28",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "Punto de encuentro Shin-Osaka. Sede en Osaka.",
+      "start": "2026-12-26",
+      "end": "2026-12-28",
+      "period": "Turno residencial. 2 noches y 3 días.",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-05",
+      "age": "Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Turno residencial. 2 noches y 3 días.",
+      "entry": "Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "gear": "Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.",
+      "language": "Inmersión en inglés. El organizador admite principiantes.",
+      "cost": "2026/27 · JPY 78000 con impuesto incluido. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "source": "https://www.momentakids.com/wintercamp",
+      "references": [
+        {
+          "url": "https://www.momentakids.com/wintercamp",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión. Oscar: Confirme la admisión según el curso o una plaza limitada para el último curso preescolar. Suplementos: Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro. Pago: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Inmersión en inglés. El organizador admite principiantes.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "momenta-winter-osaka",
+      "camp_programme_id": "CP2519",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2520-20270215-20270219",
+      "block": "Campamentos",
+      "title": "LMO Lyon · Stage robotique · Primer turno. · 2027-02-15–2027-02-19",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "26 rue du Commandant Charcot, Lyon",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "15–19 de febrero de 2027. El formulario indica 09:00–17:00, pausa de 12:00–14:00. Confirme el horario al inscribirse.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.",
+      "gear": "Scratch, robótica, impresión 3D e IA. La web indica Thymio y el formulario Arduino Uno.",
+      "language": "Materiales oficiales en francés. Confirme el idioma de enseñanza.",
+      "cost": "2027 · Confirme la tarifa de 2027. La tabla de precios contiene fechas de 2026. · suplementos y condiciones en la ficha",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.",
+      "source": "https://www.lmo-lyon.com/stage-robotique-fevrier-2027",
+      "references": [
+        {
+          "url": "https://www.lmo-lyon.com/stage-robotique-fevrier-2027",
+          "label": "Se comprobó la ficha oficial del programa."
+        },
+        {
+          "url": "https://www.lmo-lyon.com/s/Stage-Fevrier-2027-Robotique.pdf",
+          "label": "Se comprobó la ficha oficial del programa."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-10",
+      "status": "Idea",
+      "note": "Matvey: Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo. Pago: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "3d"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Materiales oficiales en francés. Confirme el idioma de enseñanza.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "lmo-lyon-fevrier-2027",
+      "camp_programme_id": "CP2520",
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "FR"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "date_rule": "15–19 de febrero de 2027. El formulario indica 09:00–17:00, pausa de 12:00–14:00. Confirme el horario al inscribirse."
     },
     {
       "id": "L491",

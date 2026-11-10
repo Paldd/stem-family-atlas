@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 12587. Competiciones: 5563. Eventos: 862. Campamentos o programas: 6162. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 756. Se cuentan ediciones y sedes.
+Fichas en la base: 12614. Competiciones: 5563. Eventos: 863. Campamentos o programas: 6188. Perfiles de ligas y programas: 359. Fichas de grandes exposiciones y exposiciones especializadas: 757. Se cuentan ediciones y sedes.
 
 Hay registros concretos en 244 de 249 países y territorios. Países auditados por completo: 0. En la revisión histórica v51 se añadieron 21 fichas y 3 perfiles. Se conservan todas las fichas anteriores.
 
@@ -16,9 +16,9 @@ Hay registros concretos en 244 de 249 países y territorios. Países auditados p
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2248 | 193 | 1584 |
 | América del Sur | 15 | 505 | 62 | 293 |
-| Europa | 55 | 796 | 189 | 1799 |
+| Europa | 55 | 796 | 189 | 1806 |
 | África | 61 | 287 | 51 | 156 |
-| Asia | 51 | 1298 | 214 | 1899 |
+| Asia | 51 | 1298 | 215 | 1918 |
 | Oceanía | 27 | 185 | 45 | 416 |
 
 Fichas interregionales o globales sin continente único: 266. América del Norte incluye América Central y el Caribe. Los recuentos reflejan el inventario de la base.
@@ -1197,6 +1197,7 @@ VEX: 821 de 5563 fichas de competiciones (14.8%). Es un desequilibrio de cobertu
 - **Techspressionism · Vernissage Group B** — Francia; 2027-02-26. Confirme el acceso infantil. https://techspressionism.com/paris/events/
 - **Techspressionism · International Nocturne Group A** — Francia; 2027-02-04. Confirme el acceso infantil. https://techspressionism.com/paris/events/
 - **Techspressionism · International Nocturne Group B** — Francia; 2027-03-04. Confirme el acceso infantil. https://techspressionism.com/paris/events/
+- **Seoul RAIM · Robot City · Robot & AI Garden** — República de Corea; 2026-09-04 – 2026-12-05. Confirme el acceso infantil. https://science.seoul.go.kr/RAIM/index.do
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

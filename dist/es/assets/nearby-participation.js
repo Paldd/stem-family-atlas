@@ -7,7 +7,7 @@
   const events = new Map(window.STEM_DATA.events.map(e => [e.id, e]));
   const safe = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   let child = 'family', showClosed = false, budget = 'both-have-equipment';
-  const modeNames = {check:"el permiso de comprobar",existing_only:"sólo la participación previamente registrada",visitor:"visita familiar",prepare:"Prepararse para la temporada",closed:"El plazo de los nuevos equipos ha pasado."};
+  const modeNames = {check:"el permiso de comprobar",existing_only:"sólo la participación previamente registrada",visitor:"Visita familiar",prepare:"Prepararse para la temporada",closed:"El plazo de los nuevos equipos ha pasado."};
   const money = value => new Intl.NumberFormat('es', {minimumFractionDigits:2, maximumFractionDigits:2}).format(value) + ' MXN';
   const date = value => value ? new Intl.DateTimeFormat('es', {day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(value+'T12:00:00Z')) : "la siguiente fecha no se ha anunciado";
   function cards() {

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-10. 2494 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-10. 2520 fichas en 141 países y territorios. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -168880,7 +168880,7 @@ Estados Unidos · 2341 Michigan Ave · Santa Monica, California
 
 Costa Rica · Blue Valley School · San José
 
-**Se ha comprobado:** 2026-11-08
+**Verificado:** 2026-11-10
 
 **edad:** 6–11 años en el grupo de la mañana. Confirmar la fecha exacta de referencia para la edad.
 
@@ -168904,7 +168904,7 @@ Costa Rica · Blue Valley School · San José
 
 **Oscar:** Sí por edad. Confirmar plaza y condiciones de admisión.
 
-**Motivo de selección:** 11–15 de enero de 2027. Grupo de 6–11 años, de 08:00 a 10:00 cada día.
+**Motivo de selección:** El mismo turno matutino de 6–11 años en Blue Valley School. La ficha principal contiene el horario de 08:00 a 10:00.
 
 ### Antes de solicitar plaza
 
@@ -196845,6 +196845,1412 @@ Estados Unidos · MOSI Tampa · 4801 E Fowler Avenue
 ### Fuentes
 
 - [Se comprobó la ficha oficial del programa.](https://mosi.org/program/kids-steam-workshops/) · 2026-11-10
+
+## CP2495 · Seongdong · Tu propia galería en VR
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Tu propia galería en VR
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 13:00–15:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Tu propia galería en VR
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Tu propia galería en VR
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 13:00–15:00 · Asia/Seoul · Tu propia galería en VR
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972) · 2026-11-10
+
+## CP2496 · Seongdong · Automóvil del futuro y conducción inteligente
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Automóvil del futuro y conducción inteligente
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 15:30–17:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Automóvil del futuro y conducción inteligente
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Automóvil del futuro y conducción inteligente
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 15:30–17:30 · Asia/Seoul · Automóvil del futuro y conducción inteligente
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973) · 2026-11-10
+
+## CP2497 · Seongdong · Kandinsky y piano con IA
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Kandinsky y piano con IA
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 13:00–15:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Kandinsky y piano con IA
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Kandinsky y piano con IA
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-21 · 13:00–15:00 · Asia/Seoul · Kandinsky y piano con IA
+
+**Disponibilidad:** La ficha del organizador indica inscripción cerrada.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974) · 2026-11-10
+
+## CP2498 · Seongdong · Estudio de baile de robots LEGO
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Estudio de baile de robots LEGO
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 15:30–17:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Estudio de baile de robots LEGO
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Estudio de baile de robots LEGO
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-21 · 15:30–17:30 · Asia/Seoul · Estudio de baile de robots LEGO
+
+**Disponibilidad:** La ficha del organizador indica inscripción cerrada.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975) · 2026-11-10
+
+## CP2499 · Seongdong · Centro de control espacial con IA
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 2–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Centro de control espacial con IA
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 9 sesiones programadas, 18:30–20:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Centro de control espacial con IA
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Centro de control espacial con IA
+
+**Fechas / estado:** 2026-11-25 — 2026-12-23
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-25 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-11-27 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-02 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-04 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-09 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-11 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-16 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-18 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+- 2026-12-23 · 18:30–20:30 · Asia/Seoul · Centro de control espacial con IA
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981) · 2026-11-10
+
+## CP2500 · Seongdong · Rover lunar autónomo
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 3–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Rover lunar autónomo
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 9 sesiones programadas, 18:30–20:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Rover lunar autónomo
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Rover lunar autónomo
+
+**Fechas / estado:** 2026-11-24 — 2026-12-22
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-24 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-11-26 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-01 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-03 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-08 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-10 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-15 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-17 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+- 2026-12-22 · 18:30–20:30 · Asia/Seoul · Rover lunar autónomo
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984) · 2026-11-10
+
+## CP2501 · Seongdong · Casa inteligente para mascotas
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 2–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Casa inteligente para mascotas
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 18:30–20:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Casa inteligente para mascotas
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Casa inteligente para mascotas
+
+**Fechas / estado:** 2026-11-13 — 2026-11-13
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-13 · 18:30–20:30 · Asia/Seoul · Casa inteligente para mascotas
+
+**Disponibilidad:** Venció el plazo de solicitud publicado.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985) · 2026-11-10
+
+## CP2502 · Seongdong · Robot autónomo de reparto con IA
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 2–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Robot autónomo de reparto con IA
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 18:30–20:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Robot autónomo de reparto con IA
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Robot autónomo de reparto con IA
+
+**Fechas / estado:** 2026-11-20 — 2026-11-20
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-20 · 18:30–20:30 · Asia/Seoul · Robot autónomo de reparto con IA
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986) · 2026-11-10
+
+## CP2503 · Seongdong · Taller de inventos con IA
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 2–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Taller de inventos con IA
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 18:30–20:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Taller de inventos con IA
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Taller de inventos con IA
+
+**Fechas / estado:** 2026-11-27 — 2026-11-27
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-27 · 18:30–20:30 · Asia/Seoul · Taller de inventos con IA
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987) · 2026-11-10
+
+## CP2504 · Seongdong · Creación de un juego de parkour en XR
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Creación de un juego de parkour en XR
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 2 sesiones programadas, 13:00–15:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Creación de un juego de parkour en XR
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Creación de un juego de parkour en XR
+
+**Fechas / estado:** 2026-11-21 — 2026-11-28
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-21 · 13:00–15:00 · Asia/Seoul · Creación de un juego de parkour en XR
+
+- 2026-11-28 · 13:00–15:00 · Asia/Seoul · Creación de un juego de parkour en XR
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988) · 2026-11-10
+
+## CP2505 · Seongdong · Diseño de una casa inteligente
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 3–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Diseño de una casa inteligente
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 15:30–17:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Diseño de una casa inteligente
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Diseño de una casa inteligente
+
+**Fechas / estado:** 2026-11-21 — 2026-11-21
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-21 · 15:30–17:30 · Asia/Seoul · Diseño de una casa inteligente
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989) · 2026-11-10
+
+## CP2506 · Seongdong · Arte cinético con robots
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde 7 años hasta 3.º de primaria.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Arte cinético con robots
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 15:30–17:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Arte cinético con robots
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Arte cinético con robots
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-28 · 15:30–17:30 · Asia/Seoul · Arte cinético con robots
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990) · 2026-11-10
+
+## CP2507 · Seongdong · Ingeniería de robots de 6–7 años
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Edad de 6–7 años.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Ingeniería de robots de 6–7 años
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 2 sesiones programadas, 10:00–12:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** No cumple el nivel escolar de esta categoría.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Ingeniería de robots de 6–7 años
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Ingeniería de robots de 6–7 años
+
+**Fechas / estado:** 2026-11-14 — 2026-11-21
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 10:00–12:00 · Asia/Seoul · Ingeniería de robots de 6–7 años
+
+- 2026-11-21 · 10:00–12:00 · Asia/Seoul · Ingeniería de robots de 6–7 años
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991) · 2026-11-10
+
+## CP2508 · Seongdong · Ciudad inteligente y seguridad con IoT
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 2–6.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Ciudad inteligente y seguridad con IoT
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 10:00–12:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Ciudad inteligente y seguridad con IoT
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Ciudad inteligente y seguridad con IoT
+
+**Fechas / estado:** 2026-11-28 — 2026-11-28
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-28 · 10:00–12:00 · Asia/Seoul · Ciudad inteligente y seguridad con IoT
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992) · 2026-11-10
+
+## CP2509 · Seongdong · Dibujos y recuerdos con IA
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–2.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Dibujos y recuerdos con IA
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 10:00–12:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** No cumple el nivel escolar de esta categoría.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Dibujos y recuerdos con IA
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Dibujos y recuerdos con IA
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 10:00–12:00 · Asia/Seoul · Dibujos y recuerdos con IA
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994) · 2026-11-10
+
+## CP2510 · Seongdong · Parque infantil inteligente con IoT
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Primaria, cursos 1–4.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Parque infantil inteligente con IoT
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 13:00–15:00 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Oscar:** Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión.
+
+**Motivo de selección:** Parque infantil inteligente con IoT
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Parque infantil inteligente con IoT
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 13:00–15:00 · Asia/Seoul · Parque infantil inteligente con IoT
+
+**Disponibilidad:** El portal muestra lista de espera. La participación sigue pendiente.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995) · 2026-11-10
+
+## CP2511 · Seongdong · Salud digital y sensores
+
+República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde 5.º de primaria hasta secundaria.
+
+**Idioma:** Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+
+**Programa:** Salud digital y sensores
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 1 sesiones programadas, 15:30–17:30 en Seúl.
+
+**Precio / año:** 2026 · Gratis. Los materiales no tienen coste.
+
+**Incluido:** Gratis. Los materiales no tienen coste.
+
+**Suplementos:** Traslado y acompañamiento familiar por separado.
+
+**Pago:** Confirme el estado de la solicitud antes de asistir.
+
+**Matvey:** No cumple el nivel escolar de esta categoría.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Salud digital y sensores
+
+### Antes de solicitar plaza
+
+- Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+### Salud digital y sensores
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**Precio:** Gratis. Los materiales no tienen coste.
+
+**Condiciones de participación:** Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+
+- 2026-11-14 · 15:30–17:30 · Asia/Seoul · Salud digital y sensores
+
+**Disponibilidad:** El portal aceptaba solicitudes al comprobarlo. Las plazas pueden cambiar.
+
+[fuente](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996) · 2026-11-10
+
+## CP2512 · GaurkoTek · VR + Nintendo Switch + Construcción (Beasain)
+
+España · Beasain · Nafarroa etorbidea 1
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Realidad virtual, Nintendo Switch y construcción de robots LEGO.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2026 · EUR 110 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Realidad virtual, Nintendo Switch y construcción de robots LEGO.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### VR + Nintendo Switch + Construcción
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** EUR 110 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2026-12-21 · 09:00–13:30 · Europe/Madrid · VR + Nintendo Switch + Construcción
+
+- 2026-12-22 · 09:00–13:30 · Europe/Madrid · VR + Nintendo Switch + Construcción
+
+- 2026-12-23 · 09:00–13:30 · Europe/Madrid · VR + Nintendo Switch + Construcción
+
+- 2026-12-24 · 09:00–13:30 · Europe/Madrid · VR + Nintendo Switch + Construcción
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2513 · GaurkoTek · Minecraft Magic Arena (Beasain)
+
+España · Beasain · Nafarroa etorbidea 1
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Crear y probar una arena de juego propia en Minecraft.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2026 · EUR 110 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Crear y probar una arena de juego propia en Minecraft.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### Minecraft Magic Arena
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** EUR 110 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2026-12-28 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-29 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-30 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-31 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2514 · GaurkoTek · Robots de puntería (Beasain)
+
+España · Beasain · Nafarroa etorbidea 1
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Dos días de mecánica, construcción y pruebas de puntería con robots.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2027 · EUR 60 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Dos días de mecánica, construcción y pruebas de puntería con robots.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### Robots de puntería
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**Precio:** EUR 60 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2027-01-04 · 09:00–13:30 · Europe/Madrid · Robots de puntería
+
+- 2027-01-05 · 09:00–13:30 · Europe/Madrid · Robots de puntería
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2515 · GaurkoTek · Minecraft Magic Arena (Astigarraga)
+
+España · Astigarraga · Nabarra Oñatz 7 bajo 2
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Crear y probar una arena de juego propia en Minecraft.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2026 · EUR 110 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Crear y probar una arena de juego propia en Minecraft.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### Minecraft Magic Arena
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** EUR 110 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2026-12-21 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-22 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-23 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+- 2026-12-24 · 09:00–13:30 · Europe/Madrid · Minecraft Magic Arena
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2516 · GaurkoTek · Crea tu juego de mesa (Astigarraga)
+
+España · Astigarraga · Nabarra Oñatz 7 bajo 2
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Diseñar las reglas, la mecánica y los componentes de un juego de mesa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2026 · EUR 110 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Diseñar las reglas, la mecánica y los componentes de un juego de mesa.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### Crea tu juego de mesa
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** EUR 110 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2026-12-28 · 09:00–13:30 · Europe/Madrid · Crea tu juego de mesa
+
+- 2026-12-29 · 09:00–13:30 · Europe/Madrid · Crea tu juego de mesa
+
+- 2026-12-30 · 09:00–13:30 · Europe/Madrid · Crea tu juego de mesa
+
+- 2026-12-31 · 09:00–13:30 · Europe/Madrid · Crea tu juego de mesa
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2517 · GaurkoTek · Robots de puntería (Astigarraga)
+
+España · Astigarraga · Nabarra Oñatz 7 bajo 2
+
+**Verificado:** 2026-11-10
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+
+**Programa:** Dos días de mecánica, construcción y pruebas de puntería con robots.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Actividades de 09:00 a 13:30, hora local.
+
+**Precio / año:** 2027 · EUR 60 por turno, tarifa base.
+
+**Incluido:** Programa principal del turno elegido.
+
+**Suplementos:** Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones.
+
+**Pago:** Confirme el precio, la plaza y la política de reembolso.
+
+**Matvey:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Oscar:** La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma.
+
+**Motivo de selección:** Dos días de mecánica, construcción y pruebas de puntería con robots.
+
+### Antes de solicitar plaza
+
+- Confirme plazas e idioma del grupo concreto antes de pagar.
+
+### Robots de puntería
+
+**Fechas / estado:** 2027-01-04 — 2027-01-05
+
+**Precio:** EUR 60 por turno, tarifa base.
+
+**Condiciones de participación:** Confirme plazas e idioma del grupo concreto antes de pagar.
+
+- 2027-01-04 · 09:00–13:30 · Europe/Madrid · Robots de puntería
+
+- 2027-01-05 · 09:00–13:30 · Europe/Madrid · Robots de puntería
+
+[fuente](https://www.gaurkotek.eus/es/actividades-invierno)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/es/actividades-invierno) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.gaurkotek.eus/neguko-jarduerak) · 2026-11-10
+
+## CP2518 · Momenta Kids · Sasebo
+
+Japón · Punto de encuentro Hakata. Sede en Sasebo.
+
+**Verificado:** 2026-11-10
+
+**Edad:** Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.
+
+**Idioma:** Inmersión en inglés. El organizador admite principiantes.
+
+**Programa:** Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.
+
+**Alojamiento:** Turno residencial. 2 noches y 3 días.
+
+**Fechas / estado:** Turno residencial. 2 noches y 3 días.
+
+**Precio / año:** 2026 · JPY 68000 con impuesto incluido.
+
+**Incluido:** Turno residencial. 2 noches y 3 días.
+
+**Suplementos:** Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro.
+
+**Pago:** Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+**Matvey:** Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión.
+
+**Oscar:** Confirme la admisión según el curso o una plaza limitada para el último curso preescolar.
+
+**Motivo de selección:** Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+### Turno de invierno con inmersión en inglés.
+
+**Fechas / estado:** 2026-12-26 — 2026-12-28
+
+**Precio:** JPY 68000 con impuesto incluido.
+
+**Condiciones de participación:** Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+[fuente](https://www.momentakids.com/wintercamp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.momentakids.com/wintercamp) · 2026-11-10
+
+## CP2519 · Momenta Kids · Osaka
+
+Japón · Punto de encuentro Shin-Osaka. Sede en Osaka.
+
+**Verificado:** 2026-11-10
+
+**Edad:** Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.
+
+**Idioma:** Inmersión en inglés. El organizador admite principiantes.
+
+**Programa:** Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.
+
+**Alojamiento:** Turno residencial. 2 noches y 3 días.
+
+**Fechas / estado:** Turno residencial. 2 noches y 3 días.
+
+**Precio / año:** 2026 · JPY 78000 con impuesto incluido.
+
+**Incluido:** Turno residencial. 2 noches y 3 días.
+
+**Suplementos:** Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro.
+
+**Pago:** Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+**Matvey:** Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión.
+
+**Oscar:** Confirme la admisión según el curso o una plaza limitada para el último curso preescolar.
+
+**Motivo de selección:** Programa de invierno con inglés, juegos, manualidades y actividades al aire libre.
+
+### Antes de solicitar plaza
+
+- Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+### Turno de invierno con inmersión en inglés.
+
+**Fechas / estado:** 2026-12-26 — 2026-12-28
+
+**Precio:** JPY 78000 con impuesto incluido.
+
+**Condiciones de participación:** Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+
+[fuente](https://www.momentakids.com/wintercamp)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.momentakids.com/wintercamp) · 2026-11-10
+
+## CP2520 · LMO Lyon · Stage robotique
+
+Francia · 26 rue du Commandant Charcot, Lyon
+
+**Verificado:** 2026-11-10
+
+**Edad:** Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey.
+
+**Idioma:** Materiales oficiales en francés. Confirme el idioma de enseñanza.
+
+**Programa:** Scratch, robótica, impresión 3D e IA. La web indica Thymio y el formulario Arduino Uno.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 15–19 de febrero de 2027. El formulario indica 09:00–17:00, pausa de 12:00–14:00. Confirme el horario al inscribirse.
+
+**Precio / año:** 2027 · Confirme la tarifa de 2027. La tabla de precios contiene fechas de 2026.
+
+**Incluido:** Scratch, robótica, impresión 3D e IA. La web indica Thymio y el formulario Arduino Uno.
+
+**Suplementos:** La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+
+**Pago:** La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+
+**Matvey:** Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey.
+
+**Oscar:** No cumple el nivel escolar de esta categoría.
+
+**Motivo de selección:** Scratch, robótica, impresión 3D e IA. La web indica Thymio y el formulario Arduino Uno.
+
+### Antes de solicitar plaza
+
+- La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+
+### Primer turno.
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** Confirme la tarifa de 2027. La tabla de precios contiene fechas de 2026.
+
+**Condiciones de participación:** La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+
+[fuente](https://www.lmo-lyon.com/stage-robotique-fevrier-2027)
+
+### Fuentes
+
+- [Se comprobó la ficha oficial del programa.](https://www.lmo-lyon.com/stage-robotique-fevrier-2027) · 2026-11-10
+
+- [Se comprobó la ficha oficial del programa.](https://www.lmo-lyon.com/s/Stage-Fevrier-2027-Robotique.pdf) · 2026-11-10
 
 ## ~ Comprobaciones no cerradas
 

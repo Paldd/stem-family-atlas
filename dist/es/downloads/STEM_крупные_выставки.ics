@@ -5460,20 +5460,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E446@family-stem.local
-DTSTAMP:20261107T221638Z
+DTSTAMP:20261110T151723Z
 SUMMARY:[Exposición · visita en familia] Seoul RAIM · Robot City
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20261206
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La fachada 
- se puede ver desde fuera sin registro. El programa interior requiere una
-  reserva separada. Confirmar la edad infantil para ese programa. Entrada
-  de adultos: La fachada se puede ver desde fuera sin registro. El progra
- ma interior requiere una reserva separada. Confirmar la edad infantil pa
- ra ese programa.. La ficha coreana indica en noviembre y diciembre 19:00
- –21:00 en días de apertura. La nota en inglés indica viernes y sába
- dos de 18:00–20:00. Confirmar la noche concreta antes de ir. Las sesio
- nes interiores tienen otro horario. Empresas: Proyección nocturna sobre
-  robots e IA en la fachada del museo.. Fuente verificada el 2026-11-07.
+ se ve gratis de martes a domingo\, salvo días de cierre. Proyecciones c
+ ada 15 minutos. Confirme la hora del primer pase. La actividad interior 
+ requiere reserva. Entrada de adultos: La fachada se puede ver desde fuer
+ a sin registro. El programa interior requiere una reserva separada. Conf
+ irmar la edad infantil para ese programa.. La ficha coreana indica en no
+ viembre y diciembre 19:00–21:00 en días de apertura. La nota en ingl
+ és indica viernes y sábados de 18:00–20:00. Confirmar la noche concr
+ eta antes de ir. Las sesiones interiores tienen otro horario. Empresas: 
+ Proyección nocturna sobre robots e IA en la fachada del museo.. Fuente 
+ verificada el 2026-11-10.
 LOCATION:Seoul Robot & AI Museum · Dobong-gu\, Seoul\, Corea del Sur
 URL:https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2609010004&key=2304100015&sc_bbsctt_adit_iem_cn=%ED%98%84%EC%9E%AC
 STATUS:TENTATIVE
@@ -14391,6 +14392,27 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. De 18:00 a
  ación con artistas.. Fuente verificada el 2026-11-10.
 LOCATION:París\, Francia
 URL:https://techspressionism.com/paris/events/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E863@family-stem.local
+DTSTAMP:20261110T151723Z
+SUMMARY:[Exposición · confirmar admisión de menores] Seoul RAIM · Rob
+ ot City · Robot & AI Garden
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20261206
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Viernes y s
+ ábados\, salvo días de cierre. Noviembre y diciembre: 18:30\, 19:00\, 
+ 19:30 y 20:00 en Seúl. Confirme para la sesión la edad infantil\, la a
+ dmisión familiar y el idioma de la actividad. Entrada de adultos: El po
+ rtal municipal indica entrada gratuita. Confirme las condiciones de la r
+ eserva concreta.. Confirme para la sesión la edad infantil\, la admisi
+ ón familiar y el idioma de la actividad. Empresas: Actividad interactiv
+ a en Robot & AI Garden\, 1F. Reserva previa separada por Ticketlink. Una
+ s 25 personas por sesión.. Fuente verificada el 2026-11-10.
+LOCATION:Seúl\, Corea del Sur
+URL:https://science.seoul.go.kr/RAIM/index.do
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

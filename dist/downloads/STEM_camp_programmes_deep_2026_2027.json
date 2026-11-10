@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2494,
+    "dossiers": 2520,
     "countries": 141,
     "swiss": 165,
     "by_status": {
       "published_2026_27": 346,
-      "published_2027": 721,
+      "published_2027": 724,
       "partial_2027": 182,
       "next_unannounced": 488,
-      "published_2026": 453,
+      "published_2026": 476,
       "partial_2026_27": 44,
       "partial_2026": 25,
       "archive_next_unannounced": 152,
@@ -51,7 +51,7 @@
       "future_cohort_unknown": 3,
       "dates_pending": 1
     },
-    "source_urls": 3417
+    "source_urls": 3439
   },
   "countries": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "country": "Испания",
-      "count": 156
+      "count": 162
     },
     {
       "country": "Италия",
@@ -440,7 +440,7 @@
     },
     {
       "country": "Республика Корея",
-      "count": 28
+      "count": 45
     },
     {
       "country": "Республика Молдова",
@@ -544,7 +544,7 @@
     },
     {
       "country": "Франция",
-      "count": 151
+      "count": 152
     },
     {
       "country": "Французская Гвиана",
@@ -612,7 +612,7 @@
     },
     {
       "country": "Япония",
-      "count": 94
+      "count": 96
     },
     {
       "country": "Литва",
@@ -373915,7 +373915,7 @@
           "detail": "Да по возрасту. Подтвердить место и условия допуска."
         }
       },
-      "editorial_reason": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+      "editorial_reason": "Та же утренняя смена 6–11 лет в Blue Valley School. Основная карточка содержит часы 08:00–10:00.",
       "shortlist": [],
       "questions": [
         "Уточнить цену, язык тренеров, доступность места и правила возврата."
@@ -373927,7 +373927,7 @@
           "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-08",
+      "checked": "2026-11-10",
       "themes": [
         "sports",
         "general"
@@ -444674,6 +444674,3451 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2495",
+      "slug": "seongdong-972",
+      "provider": "Seongdong · Своя галерея в VR",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–6.",
+      "programme": "Своя галерея в VR",
+      "themes": [
+        "art",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 13:00–15:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Своя галерея в VR",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Своя галерея в VR",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T04:00:00Z",
+                "end_utc": "2026-11-14T06:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Своя галерея в VR",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2495-20261114-20261114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2496",
+      "slug": "seongdong-973",
+      "provider": "Seongdong · Автомобиль будущего и умное вождение",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–6.",
+      "programme": "Автомобиль будущего и умное вождение",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 15:30–17:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Автомобиль будущего и умное вождение",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "15:30",
+                "end_time": "17:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Автомобиль будущего и умное вождение",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T06:30:00Z",
+                "end_utc": "2026-11-14T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Автомобиль будущего и умное вождение",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2496-20261114-20261114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2497",
+      "slug": "seongdong-974",
+      "provider": "Seongdong · Кандинский и пианино с ИИ",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–6.",
+      "programme": "Кандинский и пианино с ИИ",
+      "themes": [
+        "ai",
+        "coding",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 13:00–15:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Кандинский и пианино с ИИ",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-18",
+            "deadline_utc": "2026-11-18T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-18, 23:59 по Сеулу.",
+            "availability": {
+              "status": "closed",
+              "label": "Набор закрыт по карточке организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Кандинский и пианино с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-21T04:00:00Z",
+                "end_utc": "2026-11-21T06:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Кандинский и пианино с ИИ",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "closed",
+        "label": "Набор закрыт по карточке организатора."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2497-20261121-20261121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2498",
+      "slug": "seongdong-975",
+      "provider": "Seongdong · Студия танцев LEGO-роботов",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–6.",
+      "programme": "Студия танцев LEGO-роботов",
+      "themes": [
+        "robotics",
+        "coding",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 15:30–17:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Студия танцев LEGO-роботов",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-18",
+            "deadline_utc": "2026-11-18T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-18, 23:59 по Сеулу.",
+            "availability": {
+              "status": "closed",
+              "label": "Набор закрыт по карточке организатора."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "15:30",
+                "end_time": "17:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Студия танцев LEGO-роботов",
+                "ical_timed": true,
+                "start_utc": "2026-11-21T06:30:00Z",
+                "end_utc": "2026-11-21T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Студия танцев LEGO-роботов",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "closed",
+        "label": "Набор закрыт по карточке организатора."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2498-20261121-20261121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2499",
+      "slug": "seongdong-981",
+      "provider": "Seongdong · Центр управления космосом с ИИ",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 2–6.",
+      "programme": "Центр управления космосом с ИИ",
+      "themes": [
+        "ai",
+        "coding",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "9 зан. по расписанию, 18:30–20:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-25",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-23",
+            "label": "Центр управления космосом с ИИ",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-22",
+            "deadline_utc": "2026-11-22T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-22, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T09:30:00Z",
+                "end_utc": "2026-11-25T11:30:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T09:30:00Z",
+                "end_utc": "2026-11-27T11:30:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T09:30:00Z",
+                "end_utc": "2026-12-02T11:30:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T09:30:00Z",
+                "end_utc": "2026-12-04T11:30:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T09:30:00Z",
+                "end_utc": "2026-12-09T11:30:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T09:30:00Z",
+                "end_utc": "2026-12-11T11:30:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T09:30:00Z",
+                "end_utc": "2026-12-16T11:30:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T09:30:00Z",
+                "end_utc": "2026-12-18T11:30:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Центр управления космосом с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T09:30:00Z",
+                "end_utc": "2026-12-23T11:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Центр управления космосом с ИИ",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2499-20261125-20261223"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2500",
+      "slug": "seongdong-984",
+      "provider": "Seongdong · Лунный ровер с автономным управлением",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 3–6.",
+      "programme": "Лунный ровер с автономным управлением",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "space"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "9 зан. по расписанию, 18:30–20:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-24",
+            "2026-12-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-24",
+            "end": "2026-12-22",
+            "label": "Лунный ровер с автономным управлением",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-20",
+            "deadline_utc": "2026-11-20T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-20, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T09:30:00Z",
+                "end_utc": "2026-11-24T11:30:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T09:30:00Z",
+                "end_utc": "2026-11-26T11:30:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T09:30:00Z",
+                "end_utc": "2026-12-01T11:30:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T09:30:00Z",
+                "end_utc": "2026-12-03T11:30:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T09:30:00Z",
+                "end_utc": "2026-12-08T11:30:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-10T09:30:00Z",
+                "end_utc": "2026-12-10T11:30:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T09:30:00Z",
+                "end_utc": "2026-12-15T11:30:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T09:30:00Z",
+                "end_utc": "2026-12-17T11:30:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Лунный ровер с автономным управлением",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T09:30:00Z",
+                "end_utc": "2026-12-22T11:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Лунный ровер с автономным управлением",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-24",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2500-20261124-20261222"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2501",
+      "slug": "seongdong-985",
+      "provider": "Seongdong · Умный домик для питомца",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 2–6.",
+      "programme": "Умный домик для питомца",
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 18:30–20:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-13",
+            "2026-11-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-13",
+            "end": "2026-11-13",
+            "label": "Умный домик для питомца",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-10",
+            "deadline_utc": "2026-11-10T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-10, 23:59 по Сеулу.",
+            "availability": {
+              "status": "closed",
+              "label": "Опубликованный срок подачи заявок истёк."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-13",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Умный домик для питомца",
+                "ical_timed": true,
+                "start_utc": "2026-11-13T09:30:00Z",
+                "end_utc": "2026-11-13T11:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Умный домик для питомца",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "closed",
+        "label": "Опубликованный срок подачи заявок истёк."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-13",
+          "end": "2026-11-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2501-20261113-20261113"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2502",
+      "slug": "seongdong-986",
+      "provider": "Seongdong · Автономный робот-доставщик с ИИ",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 2–6.",
+      "programme": "Автономный робот-доставщик с ИИ",
+      "themes": [
+        "robotics",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 18:30–20:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-20",
+            "2026-11-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-20",
+            "end": "2026-11-20",
+            "label": "Автономный робот-доставщик с ИИ",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-17",
+            "deadline_utc": "2026-11-17T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-17, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-20",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Автономный робот-доставщик с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-20T09:30:00Z",
+                "end_utc": "2026-11-20T11:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Автономный робот-доставщик с ИИ",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-20",
+          "end": "2026-11-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2502-20261120-20261120"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2503",
+      "slug": "seongdong-987",
+      "provider": "Seongdong · Мастерская изобретений с ИИ",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 2–6.",
+      "programme": "Мастерская изобретений с ИИ",
+      "themes": [
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 18:30–20:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-27",
+            "2026-11-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-27",
+            "end": "2026-11-27",
+            "label": "Мастерская изобретений с ИИ",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-24",
+            "deadline_utc": "2026-11-24T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-24, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-27",
+                "start_time": "18:30",
+                "end_time": "20:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Мастерская изобретений с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T09:30:00Z",
+                "end_utc": "2026-11-27T11:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Мастерская изобретений с ИИ",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-27",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2503-20261127-20261127"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2504",
+      "slug": "seongdong-988",
+      "provider": "Seongdong · Создание паркур-игры в XR",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–6.",
+      "programme": "Создание паркур-игры в XR",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "2 зан. по расписанию, 13:00–15:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-28",
+            "label": "Создание паркур-игры в XR",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-18",
+            "deadline_utc": "2026-11-18T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-18, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Создание паркур-игры в XR",
+                "ical_timed": true,
+                "start_utc": "2026-11-21T04:00:00Z",
+                "end_utc": "2026-11-21T06:00:00Z"
+              },
+              {
+                "date": "2026-11-28",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Создание паркур-игры в XR",
+                "ical_timed": true,
+                "start_utc": "2026-11-28T04:00:00Z",
+                "end_utc": "2026-11-28T06:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Создание паркур-игры в XR",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2504-20261121-20261128"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2505",
+      "slug": "seongdong-989",
+      "provider": "Seongdong · Проектирование умного дома",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 3–6.",
+      "programme": "Проектирование умного дома",
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 15:30–17:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "Проектирование умного дома",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-18",
+            "deadline_utc": "2026-11-18T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-18, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "15:30",
+                "end_time": "17:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Проектирование умного дома",
+                "ical_timed": true,
+                "start_utc": "2026-11-21T06:30:00Z",
+                "end_utc": "2026-11-21T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Проектирование умного дома",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2505-20261121-20261121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2506",
+      "slug": "seongdong-990",
+      "provider": "Seongdong · Кинетическое искусство с роботами",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "С 7 лет до 3 класса начальной школы.",
+      "programme": "Кинетическое искусство с роботами",
+      "themes": [
+        "robotics",
+        "art",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 15:30–17:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Кинетическое искусство с роботами",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-25",
+            "deadline_utc": "2026-11-25T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-25, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "15:30",
+                "end_time": "17:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Кинетическое искусство с роботами",
+                "ical_timed": true,
+                "start_utc": "2026-11-28T06:30:00Z",
+                "end_utc": "2026-11-28T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Кинетическое искусство с роботами",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2506-20261128-20261128"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2507",
+      "slug": "seongdong-991",
+      "provider": "Seongdong · Инженер роботов 6–7 лет",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Возраст 6–7 лет.",
+      "programme": "Инженер роботов 6–7 лет",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "2 зан. по расписанию, 10:00–12:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-21",
+            "label": "Инженер роботов 6–7 лет",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Инженер роботов 6–7 лет",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T01:00:00Z",
+                "end_utc": "2026-11-14T03:00:00Z"
+              },
+              {
+                "date": "2026-11-21",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Инженер роботов 6–7 лет",
+                "ical_timed": true,
+                "start_utc": "2026-11-21T01:00:00Z",
+                "end_utc": "2026-11-21T03:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Инженер роботов 6–7 лет",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2507-20261114-20261121"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2508",
+      "slug": "seongdong-992",
+      "provider": "Seongdong · Умный город и безопасность с IoT",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 2–6.",
+      "programme": "Умный город и безопасность с IoT",
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 10:00–12:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Умный город и безопасность с IoT",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-25",
+            "deadline_utc": "2026-11-25T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-25, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Умный город и безопасность с IoT",
+                "ical_timed": true,
+                "start_utc": "2026-11-28T01:00:00Z",
+                "end_utc": "2026-11-28T03:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Умный город и безопасность с IoT",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2508-20261128-20261128"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2509",
+      "slug": "seongdong-994",
+      "provider": "Seongdong · Рисунки и сувениры с ИИ",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–2.",
+      "programme": "Рисунки и сувениры с ИИ",
+      "themes": [
+        "ai",
+        "art",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 10:00–12:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Рисунки и сувениры с ИИ",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Рисунки и сувениры с ИИ",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T01:00:00Z",
+                "end_utc": "2026-11-14T03:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Рисунки и сувениры с ИИ",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2509-20261114-20261114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2510",
+      "slug": "seongdong-995",
+      "provider": "Seongdong · Умная игровая площадка с IoT",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "Начальная школа, классы 1–4.",
+      "programme": "Умная игровая площадка с IoT",
+      "themes": [
+        "engineering",
+        "electronics",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 13:00–15:00 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Умная игровая площадка с IoT",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "waitlist",
+              "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Seoul",
+                "topic": "Умная игровая площадка с IoT",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T04:00:00Z",
+                "end_utc": "2026-11-14T06:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно по опубликованной возрастной или школьной группе. Проверить реальный класс и допуск."
+        }
+      },
+      "editorial_reason": "Умная игровая площадка с IoT",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "waitlist",
+        "label": "Портал показывает лист ожидания. Участие ещё не подтверждено."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2510-20261114-20261114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2511",
+      "slug": "seongdong-996",
+      "provider": "Seongdong · Цифровое здоровье и датчики",
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "place": "Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul",
+      "age": "С 5 класса начальной школы до средней школы.",
+      "programme": "Цифровое здоровье и датчики",
+      "themes": [
+        "electronics",
+        "engineering",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальное описание на корейском. Язык занятия и помощь на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "1 зан. по расписанию, 15:30–17:30 по Сеулу.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-14",
+            "label": "Цифровое здоровье и датчики",
+            "price": "Бесплатно. Плата за материалы отсутствует.",
+            "source": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996",
+            "entry": "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту.",
+            "deadline": "2026-11-11",
+            "deadline_utc": "2026-11-11T14:59:00Z",
+            "deadline_timezone": "Asia/Seoul",
+            "deadline_note": "2026-11-11, 23:59 по Сеулу.",
+            "availability": {
+              "status": "open",
+              "label": "Портал принимал заявки при проверке. Наличие места меняется."
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "15:30",
+                "end_time": "17:30",
+                "timezone": "Asia/Seoul",
+                "topic": "Цифровое здоровье и датчики",
+                "ical_timed": true,
+                "start_utc": "2026-11-14T06:30:00Z",
+                "end_utc": "2026-11-14T08:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "KRW",
+        "amount": 0,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "Бесплатно. Плата за материалы отсутствует.",
+        "included": "Бесплатно. Плата за материалы отсутствует.",
+        "extras": "Дорога и сопровождение семьи отдельно.",
+        "deposit": "Подтвердить статус заявки перед посещением."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Цифровое здоровье и датчики",
+      "shortlist": [],
+      "questions": [
+        "Онлайн-запись через портал Seongdong. Уточнить соответствие школьного класса, доступ семьи из другой страны и требования к аккаунту."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "open",
+        "label": "Портал принимал заявки при проверке. Наличие места меняется."
+      },
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "materials_languages": [
+        "KO"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2511-20261114-20261114"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "KO"
+        ]
+      }
+    },
+    {
+      "id": "CP2512",
+      "slug": "gaurkotek-beasain-2026-12-21",
+      "provider": "GaurkoTek · VR + Nintendo Switch + Construcción (Beasain)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Beasain · Nafarroa etorbidea 1",
+      "age": "6–13 лет.",
+      "programme": "Виртуальная реальность, Nintendo Switch и сборка роботов LEGO.",
+      "themes": [
+        "technology",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "VR + Nintendo Switch + Construcción",
+            "price": "EUR 110 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2026-12-19",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "VR + Nintendo Switch + Construcción",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T12:30:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "VR + Nintendo Switch + Construcción",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T12:30:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "VR + Nintendo Switch + Construcción",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T12:30:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "VR + Nintendo Switch + Construcción",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T08:00:00Z",
+                "end_utc": "2026-12-24T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 110,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 110 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Виртуальная реальность, Nintendo Switch и сборка роботов LEGO.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "12 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2512-20261221-20261224"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2513",
+      "slug": "gaurkotek-beasain-2026-12-28",
+      "provider": "GaurkoTek · Minecraft Magic Arena (Beasain)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Beasain · Nafarroa etorbidea 1",
+      "age": "6–13 лет.",
+      "programme": "Создать и протестировать собственную игровую арену в Minecraft.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Minecraft Magic Arena",
+            "price": "EUR 110 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2026-12-26",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T12:30:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T12:30:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T12:30:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T08:00:00Z",
+                "end_utc": "2026-12-31T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 110,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 110 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Создать и протестировать собственную игровую арену в Minecraft.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "12 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2513-20261228-20261231"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2514",
+      "slug": "gaurkotek-beasain-2027-01-04",
+      "provider": "GaurkoTek · Robots de puntería (Beasain)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Beasain · Nafarroa etorbidea 1",
+      "age": "6–13 лет.",
+      "programme": "Два дня механики, сборки и испытаний роботов на меткость.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Robots de puntería",
+            "price": "EUR 60 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2027-01-02",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Robots de puntería",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T12:30:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Robots de puntería",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 60,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "EUR 60 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Два дня механики, сборки и испытаний роботов на меткость.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "12 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2514-20270104-20270105"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2515",
+      "slug": "gaurkotek-astigarraga-2026-12-21",
+      "provider": "GaurkoTek · Minecraft Magic Arena (Astigarraga)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "age": "6–13 лет.",
+      "programme": "Создать и протестировать собственную игровую арену в Minecraft.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Minecraft Magic Arena",
+            "price": "EUR 110 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2026-12-19",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T12:30:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T12:30:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T12:30:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Minecraft Magic Arena",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T08:00:00Z",
+                "end_utc": "2026-12-24T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 110,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 110 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Создать и протестировать собственную игровую арену в Minecraft.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "16 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2515-20261221-20261224"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2516",
+      "slug": "gaurkotek-astigarraga-2026-12-28",
+      "provider": "GaurkoTek · Crea tu juego de mesa (Astigarraga)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "age": "6–13 лет.",
+      "programme": "Спроектировать правила, механику и оформление настольной игры.",
+      "themes": [
+        "games",
+        "design",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Crea tu juego de mesa",
+            "price": "EUR 110 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2026-12-26",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Crea tu juego de mesa",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T12:30:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Crea tu juego de mesa",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T12:30:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Crea tu juego de mesa",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T12:30:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Crea tu juego de mesa",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T08:00:00Z",
+                "end_utc": "2026-12-31T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 110,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "EUR 110 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Спроектировать правила, механику и оформление настольной игры.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "12 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2516-20261228-20261231"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2517",
+      "slug": "gaurkotek-astigarraga-2027-01-04",
+      "provider": "GaurkoTek · Robots de puntería (Astigarraga)",
+      "iso": "ESP",
+      "country": "Испания",
+      "place": "Astigarraga · Nabarra Oñatz 7 bajo 2",
+      "age": "6–13 лет.",
+      "programme": "Два дня механики, сборки и испытаний роботов на меткость.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы на испанском и баскском. Язык преподавания конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Занятия с 09:00 до 13:30 по местному времени.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-05",
+            "label": "Robots de puntería",
+            "price": "EUR 60 за смену, базовый тариф.",
+            "source": "https://www.gaurkotek.eus/es/actividades-invierno",
+            "entry": "Уточнить свободные места и язык конкретной группы до оплаты.",
+            "date_scope": "session_days",
+            "deadline": "2027-01-02",
+            "deadline_note": "Организатор закрывает запись за 2 дня до начала или после заполнения мест. Точный час не указан.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Robots de puntería",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T12:30:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:30",
+                "timezone": "Europe/Madrid",
+                "topic": "Robots de puntería",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T12:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": 60,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "EUR 60 за смену, базовый тариф.",
+        "included": "Основная программа выбранной смены.",
+        "extras": "Ранний приём отдельно. Нет столовой. Скидки на смену: 10% действующим ученикам, 5% для братьев и сестёр, 5% на несколько смен для одного ребёнка. Условия подтвердить.",
+        "deposit": "Подтвердить цену, наличие места и порядок возврата."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст входит в опубликованный диапазон 6–13 лет. Место и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Два дня механики, сборки и испытаний роботов на меткость.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить свободные места и язык конкретной группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaurkotek.eus/es/actividades-invierno",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.gaurkotek.eus/neguko-jarduerak",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "12 мест по описанию группы. Фактическую доступность уточнить."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "ES",
+        "EU"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2517-20270104-20270105"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES",
+          "EU"
+        ]
+      }
+    },
+    {
+      "id": "CP2518",
+      "slug": "momenta-winter-sasebo",
+      "provider": "Momenta Kids · Sasebo",
+      "iso": "JPN",
+      "country": "Япония",
+      "place": "Место встречи Hakata. Кампус Sasebo.",
+      "age": "Школьные классы 1–6. Для старшей группы детсада ограниченные места по запросу.",
+      "programme": "Зимняя программа с английским языком, играми, поделками и занятиями на природе.",
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "language": "Англоязычное погружение. Организатор принимает начинающих.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Смена с проживанием. 2 ночи и 3 дня.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Смена с проживанием. 2 ночи и 3 дня.",
+        "sessions": [
+          [
+            "2026-12-26",
+            "2026-12-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-26",
+            "end": "2026-12-28",
+            "label": "Зимняя смена с английским погружением.",
+            "price": "JPY 68000 с налогом.",
+            "source": "https://www.momentakids.com/wintercamp",
+            "entry": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения.",
+            "deadline": "2026-12-05",
+            "date_scope": "camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "JPY",
+        "amount": 68000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "JPY 68000 с налогом.",
+        "included": "Смена с проживанием. 2 ночи и 3 дня.",
+        "extras": "Проверить состав тарифа, условия отмены и самостоятельную дорогу до точки встречи.",
+        "deposit": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для школьников 1–6 классов. Уточнить школьный класс, место и допуск семьи."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить допуск по школьному классу или наличие ограниченного места для старшей группы детсада."
+        }
+      },
+      "editorial_reason": "Зимняя программа с английским языком, играми, поделками и занятиями на природе.",
+      "shortlist": [],
+      "questions": [
+        "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      ],
+      "sources": [
+        {
+          "url": "https://www.momentakids.com/wintercamp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2518-20261226-20261228"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2519",
+      "slug": "momenta-winter-osaka",
+      "provider": "Momenta Kids · Osaka",
+      "iso": "JPN",
+      "country": "Япония",
+      "place": "Место встречи Shin-Osaka. Кампус Osaka.",
+      "age": "Школьные классы 1–6. Для старшей группы детсада ограниченные места по запросу.",
+      "programme": "Зимняя программа с английским языком, играми, поделками и занятиями на природе.",
+      "themes": [
+        "language",
+        "outdoor"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "language": "Англоязычное погружение. Организатор принимает начинающих.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "accommodation": "Смена с проживанием. 2 ночи и 3 дня.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Смена с проживанием. 2 ночи и 3 дня.",
+        "sessions": [
+          [
+            "2026-12-26",
+            "2026-12-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-26",
+            "end": "2026-12-28",
+            "label": "Зимняя смена с английским погружением.",
+            "price": "JPY 78000 с налогом.",
+            "source": "https://www.momentakids.com/wintercamp",
+            "entry": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения.",
+            "deadline": "2026-12-05",
+            "date_scope": "camp_window"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "JPY",
+        "amount": 78000,
+        "unit": "per_child_course",
+        "year": 2026,
+        "label": "JPY 78000 с налогом.",
+        "included": "Смена с проживанием. 2 ночи и 3 дня.",
+        "extras": "Проверить состав тарифа, условия отмены и самостоятельную дорогу до точки встречи.",
+        "deposit": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Для школьников 1–6 классов. Уточнить школьный класс, место и допуск семьи."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить допуск по школьному классу или наличие ограниченного места для старшей группы детсада."
+        }
+      },
+      "editorial_reason": "Зимняя программа с английским языком, играми, поделками и занятиями на природе.",
+      "shortlist": [],
+      "questions": [
+        "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      ],
+      "sources": [
+        {
+          "url": "https://www.momentakids.com/wintercamp",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Заявка до 5 декабря 2026. Подтвердить наличие места, время встречи и правила сопровождения."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2519-20261226-20261228"
+          ]
+        }
+      ],
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2520",
+      "slug": "lmo-lyon-fevrier-2027",
+      "provider": "LMO Lyon · Stage robotique",
+      "iso": "FRA",
+      "country": "Франция",
+      "place": "26 rue du Commandant Charcot, Lyon",
+      "age": "От CE2 до 14 лет. Матвею подтвердить эквивалент класса.",
+      "programme": "Scratch, робототехника, 3D-печать и ИИ. На странице указан Thymio, в бланке Arduino Uno.",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "3d"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Официальные материалы на французском. Язык преподавания уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "accommodation": "Дневная программа без проживания.",
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 февраля 2027. В бланке 09:00–17:00, перерыв 12:00–14:00. Подтвердить часы при записи.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "Первая смена.",
+            "price": "Тариф 2027 уточнить. Таблица с ценами содержит даты 2026.",
+            "source": "https://www.lmo-lyon.com/stage-robotique-fevrier-2027",
+            "entry": "Сайт и заголовок бланка совпадают для первой недели. В таблице выбора остались даты 2026. Подтвердить запись, вторую неделю, цену и оборудование.",
+            "date_scope": "day_camp_window",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "15–19 февраля 2027. В бланке 09:00–17:00, перерыв 12:00–14:00. Подтвердить часы при записи."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "currency": "EUR",
+        "amount": null,
+        "unit": "per_child_course",
+        "year": 2027,
+        "label": "Тариф 2027 уточнить. Таблица с ценами содержит даты 2026.",
+        "included": "Scratch, робототехника, 3D-печать и ИИ. На странице указан Thymio, в бланке Arduino Uno.",
+        "extras": "Сайт и заголовок бланка совпадают для первой недели. В таблице выбора остались даты 2026. Подтвердить запись, вторую неделю, цену и оборудование.",
+        "deposit": "Сайт и заголовок бланка совпадают для первой недели. В таблице выбора остались даты 2026. Подтвердить запись, вторую неделю, цену и оборудование."
+      },
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "От CE2 до 14 лет. Матвею подтвердить эквивалент класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по школьной ступени этой категории."
+        }
+      },
+      "editorial_reason": "Scratch, робототехника, 3D-печать и ИИ. На странице указан Thymio, в бланке Arduino Uno.",
+      "shortlist": [],
+      "questions": [
+        "Сайт и заголовок бланка совпадают для первой недели. В таблице выбора остались даты 2026. Подтвердить запись, вторую неделю, цену и оборудование."
+      ],
+      "sources": [
+        {
+          "url": "https://www.lmo-lyon.com/stage-robotique-fevrier-2027",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        },
+        {
+          "url": "https://www.lmo-lyon.com/s/Stage-Fevrier-2027-Robotique.pdf",
+          "title": "Проверена официальная карточка программы.",
+          "checked": "2026-11-10"
+        }
+      ],
+      "checked": "2026-11-10",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сайт и заголовок бланка совпадают для первой недели. В таблице выбора остались даты 2026. Подтвердить запись, вторую неделю, цену и оборудование."
+      },
+      "programme_type": "holiday_camp",
+      "catalog_participation": "day_camp",
+      "materials_languages": [
+        "FR"
+      ],
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2520-20270215-20270219"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "FR"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -463234,7 +466679,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2494,
+      "total_dossiers": 2520,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -490614,6 +494059,136 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2495",
+      "event_id": "CP2495-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2496",
+      "event_id": "CP2496-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2497",
+      "event_id": "CP2497-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2498",
+      "event_id": "CP2498-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2499",
+      "event_id": "CP2499-20261125-20261223",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2500",
+      "event_id": "CP2500-20261124-20261222",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2501",
+      "event_id": "CP2501-20261113-20261113",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2502",
+      "event_id": "CP2502-20261120-20261120",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2503",
+      "event_id": "CP2503-20261127-20261127",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2504",
+      "event_id": "CP2504-20261121-20261128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2505",
+      "event_id": "CP2505-20261121-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2506",
+      "event_id": "CP2506-20261128-20261128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2507",
+      "event_id": "CP2507-20261114-20261121",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2508",
+      "event_id": "CP2508-20261128-20261128",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2509",
+      "event_id": "CP2509-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2510",
+      "event_id": "CP2510-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2511",
+      "event_id": "CP2511-20261114-20261114",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2512",
+      "event_id": "CP2512-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2513",
+      "event_id": "CP2513-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2514",
+      "event_id": "CP2514-20270104-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2515",
+      "event_id": "CP2515-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2516",
+      "event_id": "CP2516-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2517",
+      "event_id": "CP2517-20270104-20270105",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2518",
+      "event_id": "CP2518-20261226-20261228",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2519",
+      "event_id": "CP2519-20261226-20261228",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2520",
+      "event_id": "CP2520-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -496169,10 +499744,36 @@
     "CP2491-20270403-20270403",
     "CP2492-20270425-20270425",
     "CP2493-20270508-20270508",
-    "CP2494-20270501-20270502"
+    "CP2494-20270501-20270502",
+    "CP2495-20261114-20261114",
+    "CP2496-20261114-20261114",
+    "CP2497-20261121-20261121",
+    "CP2498-20261121-20261121",
+    "CP2499-20261125-20261223",
+    "CP2500-20261124-20261222",
+    "CP2501-20261113-20261113",
+    "CP2502-20261120-20261120",
+    "CP2503-20261127-20261127",
+    "CP2504-20261121-20261128",
+    "CP2505-20261121-20261121",
+    "CP2506-20261128-20261128",
+    "CP2507-20261114-20261121",
+    "CP2508-20261128-20261128",
+    "CP2509-20261114-20261114",
+    "CP2510-20261114-20261114",
+    "CP2511-20261114-20261114",
+    "CP2512-20261221-20261224",
+    "CP2513-20261228-20261231",
+    "CP2514-20270104-20270105",
+    "CP2515-20261221-20261224",
+    "CP2516-20261228-20261231",
+    "CP2517-20270104-20270105",
+    "CP2518-20261226-20261228",
+    "CP2519-20261226-20261228",
+    "CP2520-20270215-20270219"
   ],
   "integration": {
-    "generated_sessions": 5145,
+    "generated_sessions": 5171,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

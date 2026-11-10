@@ -115,7 +115,8 @@ current_audits = [
                  'funtech-brainiacs-and-game-exhibitions-audit-v375.json',
                  'hong-kong-and-world-stem-routes-audit-v376.json',
                  'science-hour-and-family-tech-audit-v377.json',
-                 'mosi-bioglow-and-paris-audit-v378.json')
+                 'mosi-bioglow-and-paris-audit-v378.json',
+                 'winter-robotics-and-museum-audit-v379.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}

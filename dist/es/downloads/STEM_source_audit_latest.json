@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 12587,
+    "cards": 12614,
     "competition_cards": 5563,
-    "event_cards": 862,
-    "camp_cards": 6162,
+    "event_cards": 863,
+    "camp_cards": 6188,
     "league_profiles": 359,
-    "major_exhibition_cards": 756,
+    "major_exhibition_cards": 757,
     "vex_cards": 821,
     "countries_with_records": 244,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2808,
+      "total": 2815,
       "countries_with_records": 55,
       "competitions": 796,
       "events": 213,
       "major_exhibitions": 189,
-      "camps": 1799,
+      "camps": 1806,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 3424,
+      "total": 3444,
       "countries_with_records": 51,
       "competitions": 1298,
-      "events": 227,
-      "major_exhibitions": 214,
-      "camps": 1899,
+      "events": 228,
+      "major_exhibitions": 215,
+      "camps": 1918,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -18544,6 +18544,17 @@
       "new": false
     },
     {
+      "id": "E863",
+      "name": "Seoul RAIM · Robot City · Robot & AI Garden",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2026-09-04",
+      "end": "2026-12-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://science.seoul.go.kr/RAIM/index.do",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -20975,14 +20986,14 @@
       }
     ],
     "counts": {
-      "records": 6162,
-      "holiday": 5491,
+      "records": 6188,
+      "holiday": 5517,
       "regular": 238,
       "self_paced_materials": 4,
-      "boarding": 1047,
-      "en_es_instruction": 1722,
+      "boarding": 1049,
+      "en_es_instruction": 1724,
       "en_es_support": 67,
-      "family_instruction": 1722,
+      "family_instruction": 1724,
       "family_support": 67,
       "ru_instruction": 6,
       "language_lessons": 439,

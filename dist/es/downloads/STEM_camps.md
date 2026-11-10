@@ -87090,9 +87090,9 @@ Idioma: La página del programa está en español. Confirmar el idioma de comuni
 Marca de idioma: materials; apoyo: no declarado
 Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+Restricciones: El mismo turno matutino de 6–11 años en Blue Valley School. La ficha principal contiene el horario de 08:00 a 10:00.
 Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
-Se ha comprobado: 2026-11-08
+Verificado: 2026-11-10
 
 ### CP2123-20261214-20261218-claremont · STEMLab · December · Claremont · Claremont · 2026-12-14–2026-12-18
 
@@ -97380,6 +97380,422 @@ Coste: 2027 · USD 48 por menor y USD 36 por adulto con tarifa general. Dos meno
 Acceso: Se requiere al menos 1 acompañante desde 18 años por cada 4 menores. Se recomiendan los cursos K–6. Abierto a menores que no son scouts. Inscripción previa obligatoria.
 Restricciones: Matvey: Compare el curso escolar actual con la categoría local. Oscar: Compare el curso escolar actual con la categoría local. Suplementos: Confirme la tarifa para menores con membresía y las plazas. Pago: Para los programas públicos se admite el reembolso antes del cierre de inscripción. Si el museo cancela, prevé el reembolso total.
 Fuente: https://mosi.org/program/kids-steam-workshops/
+Verificado: 2026-11-10
+
+### CP2495-20261114-20261114 · Seongdong · Tu propia galería en VR · Tu propia galería en VR · 2026-11-14–2026-11-14
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Primaria, cursos 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=972
+Verificado: 2026-11-10
+
+### CP2496-20261114-20261114 · Seongdong · Automóvil del futuro y conducción inteligente · Automóvil del futuro y conducción inteligente · 2026-11-14–2026-11-14
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Primaria, cursos 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=973
+Verificado: 2026-11-10
+
+### CP2497-20261121-20261121 · Seongdong · Kandinsky y piano con IA · Kandinsky y piano con IA · 2026-11-21–2026-11-21
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-21 — 2026-11-21
+Edad: Primaria, cursos 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=974
+Verificado: 2026-11-10
+
+### CP2498-20261121-20261121 · Seongdong · Estudio de baile de robots LEGO · Estudio de baile de robots LEGO · 2026-11-21–2026-11-21
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-21 — 2026-11-21
+Edad: Primaria, cursos 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=975
+Verificado: 2026-11-10
+
+### CP2499-20261125-20261223 · Seongdong · Centro de control espacial con IA · Centro de control espacial con IA · 2026-11-25–2026-12-23
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-25 — 2026-12-23
+Edad: Primaria, cursos 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=981
+Verificado: 2026-11-10
+
+### CP2500-20261124-20261222 · Seongdong · Rover lunar autónomo · Rover lunar autónomo · 2026-11-24–2026-12-22
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-24 — 2026-12-22
+Edad: Primaria, cursos 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=984
+Verificado: 2026-11-10
+
+### CP2501-20261113-20261113 · Seongdong · Casa inteligente para mascotas · Casa inteligente para mascotas · 2026-11-13–2026-11-13
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-13 — 2026-11-13
+Edad: Primaria, cursos 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=985
+Verificado: 2026-11-10
+
+### CP2502-20261120-20261120 · Seongdong · Robot autónomo de reparto con IA · Robot autónomo de reparto con IA · 2026-11-20–2026-11-20
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-20 国 2026-11-20
+Edad: Primaria, cursos 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=986
+Verificado: 2026-11-10
+
+### CP2503-20261127-20261127 · Seongdong · Taller de inventos con IA · Taller de inventos con IA · 2026-11-27–2026-11-27
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-27 2026-11-27
+Edad: Primaria, cursos 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=987
+Verificado: 2026-11-10
+
+### CP2504-20261121-20261128 · Seongdong · Creación de un juego de parkour en XR · Creación de un juego de parkour en XR · 2026-11-21–2026-11-28
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-21 — 2026-11-28
+Edad: Primaria, cursos 1–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=988
+Verificado: 2026-11-10
+
+### CP2505-20261121-20261121 · Seongdong · Diseño de una casa inteligente · Diseño de una casa inteligente · 2026-11-21–2026-11-21
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-21 — 2026-11-21
+Edad: Primaria, cursos 3–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=989
+Verificado: 2026-11-10
+
+### CP2506-20261128-20261128 · Seongdong · Arte cinético con robots · Arte cinético con robots · 2026-11-28–2026-11-28
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-28 — 2026-11-28
+Edad: Desde 7 años hasta 3.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=990
+Verificado: 2026-11-10
+
+### CP2507-20261114-20261121 · Seongdong · Ingeniería de robots de 6–7 años · Ingeniería de robots de 6–7 años · 2026-11-14–2026-11-21
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-21
+Edad: Edad de 6–7 años.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: No cumple el nivel escolar de esta categoría. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=991
+Verificado: 2026-11-10
+
+### CP2508-20261128-20261128 · Seongdong · Ciudad inteligente y seguridad con IoT · Ciudad inteligente y seguridad con IoT · 2026-11-28–2026-11-28
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-28 — 2026-11-28
+Edad: Primaria, cursos 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=992
+Verificado: 2026-11-10
+
+### CP2509-20261114-20261114 · Seongdong · Dibujos y recuerdos con IA · Dibujos y recuerdos con IA · 2026-11-14–2026-11-14
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Primaria, cursos 1–2.
+Matvey: No ahora; la edad futura
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: No cumple el nivel escolar de esta categoría. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=994
+Verificado: 2026-11-10
+
+### CP2510-20261114-20261114 · Seongdong · Parque infantil inteligente con IoT · Parque infantil inteligente con IoT · 2026-11-14–2026-11-14
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Primaria, cursos 1–4.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Oscar: Sujeto a la edad o curso publicados. Confirme el curso actual y la admisión. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=995
+Verificado: 2026-11-10
+
+### CP2511-20261114-20261114 · Seongdong · Salud digital y sensores · Salud digital y sensores · 2026-11-14–2026-11-14
+
+Lugar: República de Corea · Seongdong AI & Future Technology Experience Center · 327 Salgoji-gil, Seoul
+Fecha: 2026-11-14 — 2026-11-14
+Edad: Desde 5.º de primaria hasta secundaria.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción oficial en coreano. Confirme el idioma de la actividad y la ayuda en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · Gratis. Los materiales no tienen coste. · suplementos y condiciones en la ficha
+Acceso: Inscripción en el portal de Seongdong. Confirme la equivalencia del curso, el acceso de familias extranjeras y los requisitos de cuenta.
+Restricciones: Matvey: No cumple el nivel escolar de esta categoría. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: Traslado y acompañamiento familiar por separado. Pago: Confirme el estado de la solicitud antes de asistir.
+Fuente: https://www.sd.go.kr/booking/webEduDetail.do?key=5426&eduMngNo=996
+Verificado: 2026-11-10
+
+### CP2512-20261221-20261224 · GaurkoTek · VR + Nintendo Switch + Construcción (Beasain) · VR + Nintendo Switch + Construcción · 2026-12-21–2026-12-24
+
+Lugar: España · Beasain · Nafarroa etorbidea 1
+Fecha: 2026-12-21 - 2026-12-24
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2513-20261228-20261231 · GaurkoTek · Minecraft Magic Arena (Beasain) · Minecraft Magic Arena · 2026-12-28–2026-12-31
+
+Lugar: España · Beasain · Nafarroa etorbidea 1
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2514-20270104-20270105 · GaurkoTek · Robots de puntería (Beasain) · Robots de puntería · 2027-01-04–2027-01-05
+
+Lugar: España · Beasain · Nafarroa etorbidea 1
+Fecha: 2027-01-04 — 2027-01-05
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · EUR 60 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2515-20261221-20261224 · GaurkoTek · Minecraft Magic Arena (Astigarraga) · Minecraft Magic Arena · 2026-12-21–2026-12-24
+
+Lugar: España · Astigarraga · Nabarra Oñatz 7 bajo 2
+Fecha: 2026-12-21 - 2026-12-24
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2516-20261228-20261231 · GaurkoTek · Crea tu juego de mesa (Astigarraga) · Crea tu juego de mesa · 2026-12-28–2026-12-31
+
+Lugar: España · Astigarraga · Nabarra Oñatz 7 bajo 2
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2026/27 · EUR 110 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2517-20270104-20270105 · GaurkoTek · Robots de puntería (Astigarraga) · Robots de puntería · 2027-01-04–2027-01-05
+
+Lugar: España · Astigarraga · Nabarra Oñatz 7 bajo 2
+Fecha: 2027-01-04 — 2027-01-05
+edad: 6–13 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales en español y euskera. Confirme el idioma de enseñanza de cada grupo.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · EUR 60 por turno, tarifa base. · suplementos y condiciones en la ficha
+Acceso: Confirme plazas e idioma del grupo concreto antes de pagar.
+Restricciones: Matvey: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Oscar: La edad está dentro del rango publicado de 6–13 años. Confirme plaza e idioma. Suplementos: Acogida temprana por separado. Sin comedor. Descuentos del turno: 10% para alumnado activo, 5% para hermanos, 5% por varios turnos del mismo menor. Confirme las condiciones. Pago: Confirme el precio, la plaza y la política de reembolso.
+Fuente: https://www.gaurkotek.eus/es/actividades-invierno
+Verificado: 2026-11-10
+
+### CP2518-20261226-20261228 · Momenta Kids · Sasebo · Turno de invierno con inmersión en inglés. · 2026-12-26–2026-12-28
+
+Lugar: Japón · Punto de encuentro Hakata. Sede en Sasebo.
+Fecha: 2026-12-26 — 2026-12-28
+Edad: Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: Inmersión en inglés. El organizador admite principiantes.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · JPY 68000 con impuesto incluido. · suplementos y condiciones en la ficha
+Acceso: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+Restricciones: Matvey: Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión. Oscar: Confirme la admisión según el curso o una plaza limitada para el último curso preescolar. Suplementos: Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro. Pago: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+Fuente: https://www.momentakids.com/wintercamp
+Verificado: 2026-11-10
+
+### CP2519-20261226-20261228 · Momenta Kids · Osaka · Turno de invierno con inmersión en inglés. · 2026-12-26–2026-12-28
+
+Lugar: Japón · Punto de encuentro Shin-Osaka. Sede en Osaka.
+Fecha: 2026-12-26 — 2026-12-28
+Edad: Cursos de primaria 1–6. Plazas limitadas por consulta para el último curso preescolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: Inmersión en inglés. El organizador admite principiantes.
+Marca de idioma: primary; soporte: no declarado
+Coste: 2026/27 · JPY 78000 con impuesto incluido. · suplementos y condiciones en la ficha
+Acceso: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+Restricciones: Matvey: Para cursos de primaria 1–6. Confirme curso escolar, plaza y admisión. Oscar: Confirme la admisión según el curso o una plaza limitada para el último curso preescolar. Suplementos: Confirme los servicios incluidos, condiciones de cancelación y traslado propio al punto de encuentro. Pago: Solicitud hasta el 5 de diciembre de 2026. Confirme plaza, hora de encuentro y reglas de acompañamiento.
+Fuente: https://www.momentakids.com/wintercamp
+Verificado: 2026-11-10
+
+### CP2520-20270215-20270219 · LMO Lyon · Stage robotique · Primer turno. · 2027-02-15–2027-02-19
+
+Lugar: Francia · 26 rue du Commandant Charcot, Lyon
+Fecha: 2027-02-15 国 2027-02-19
+Edad: Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales oficiales en francés. Confirme el idioma de enseñanza.
+Marca de idioma: materials; apoyo: no declarado
+Coste: 2027 · Confirme la tarifa de 2027. La tabla de precios contiene fechas de 2026. · suplementos y condiciones en la ficha
+Acceso: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+Restricciones: Matvey: Desde CE2 hasta 14 años. Confirme la equivalencia del curso de Matvey. Oscar: No cumple el nivel escolar de esta categoría. Suplementos: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo. Pago: La web y el encabezado del formulario coinciden para la primera semana. La tabla conserva fechas de 2026. Confirme la inscripción, la segunda semana, el precio y el equipo.
+Fuente: https://www.lmo-lyon.com/stage-robotique-fevrier-2027
 Verificado: 2026-11-10
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
